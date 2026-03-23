@@ -1,9 +1,8 @@
-// This is the service worker that makes the app installable
+// This minimal service worker is required for PWA installation functionality
 self.addEventListener('install', (e) => {
-    console.log('[VarthaBox] Service Worker Installed');
+    console.log('[Service Worker] Installed');
 });
 
-// We need a fetch event listener to satisfy Chrome's PWA requirements
 self.addEventListener('fetch', (e) => {
-    // Just pass the request through normally
+    // Just pass through, no complex caching needed for free tier
 });
