@@ -13,15 +13,16 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4 # UPDATED to v4
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v5 # UPDATED to v5
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          python-version: '3.12' # Updated to remove the Python version warning
 
       - name: Install Dependencies
-        run: pip install requests feedparser google-generativeai
+        # Updated the package name here to the new Google GenAI library
+        run: pip install requests feedparser google-genai
 
       - name: Run Auto Journalist Script
         env:
