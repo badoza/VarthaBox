@@ -3,53 +3,58 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <title>VarthaBox | Belagavi Politics</title>
+    <title>VarthaBox | Belagavi News</title>
     
     <link rel="manifest" href="manifest.json">
-    <meta name="theme-color" content="#ff3f34">
+    <meta name="theme-color" content="#9e0000">
     <link rel="apple-touch-icon" href="icon-192.png">
 
     <style>
-        /* MINIMALIST PREMIUM MOBILE CSS */
+        /* MINIMALIST LOGO-MATCHED CSS */
         body, html { margin: 0; padding: 0; height: 100%; background-color: #050505; font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', Roboto, Helvetica, Arial, sans-serif; overflow: hidden; color: white;}
         
-        /* Language Bar floating at top */
-        .top-bar { position: fixed; top: 0; left: 0; width: 100%; padding: 15px; background: rgba(0,0,0,0.8); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); z-index: 100; display: flex; justify-content: space-between; align-items: center; box-sizing: border-box; border-bottom: 1px solid #222;}
-        .brand { font-size: 1.5em; font-weight: 900; color: #ff3f34; letter-spacing: 1px;}
+        /* Top Header Area */
+        .top-bar { position: fixed; top: 0; left: 0; width: 100%; padding: 12px 15px; background: rgba(158, 0, 0, 0.9); /* Deep Red from Logo */ backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); z-index: 100; display: flex; justify-content: space-between; align-items: center; box-sizing: border-box; box-shadow: 0 4px 15px rgba(0,0,0,0.5);}
+        
+        .brand-container { display: flex; flex-direction: column; }
+        .brand { font-size: 1.6em; font-weight: 900; color: white; letter-spacing: 1px; margin-bottom: -2px;}
+        .dev-by { font-size: 0.65em; color: #ffcccc; text-decoration: none; font-weight: 600; letter-spacing: 0.5px;}
         
         .lang-selector { display: flex; gap: 5px; }
-        .lang-btn { background: rgba(255,255,255,0.1); border: none; color: white; padding: 5px 10px; border-radius: 15px; font-size: 0.8em; cursor: pointer;}
-        .lang-btn.active { background: #ff3f34; font-weight: bold;}
+        .lang-btn { background: rgba(0,0,0,0.3); border: 1px solid rgba(255,255,255,0.2); color: white; padding: 5px 12px; border-radius: 15px; font-size: 0.8em; cursor: pointer; transition: 0.3s;}
+        .lang-btn.active { background: white; color: #9e0000; font-weight: bold;}
 
         /* Free Cricket Ticker Bar */
-        .score-ticker { background: #1a1a1a; color: #ffb142; padding: 8px 15px; font-size: 0.85em; font-weight: bold; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; border-bottom: 1px solid #333; margin-top: 61px; z-index: 100; position: relative; text-align: center; }
+        .score-ticker { background: #111; color: #ffb142; padding: 8px 15px; font-size: 0.85em; font-weight: bold; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; border-bottom: 1px solid #333; margin-top: 65px; z-index: 90; position: relative; text-align: center; }
 
         /* The swiping container */
-        #news-container { height: calc(100vh - 110px); overflow-y: scroll; scroll-snap-type: y mandatory; scroll-behavior: smooth; }
+        #news-container { height: calc(100vh - 100px); overflow-y: scroll; scroll-snap-type: y mandatory; scroll-behavior: smooth; }
         
         /* Individual News Card */
-        .article { height: calc(100vh - 110px); width: 100vw; scroll-snap-align: start; display: flex; flex-direction: column; position: relative;}
-        .article-img { width: 100%; height: 40vh; object-fit: cover; background: #222;}
+        .article { height: calc(100vh - 100px); width: 100vw; scroll-snap-align: start; display: flex; flex-direction: column; position: relative;}
+        .article-img { width: 100%; height: 42vh; object-fit: cover; background: #222; border-bottom: 3px solid #9e0000;}
         
-        .content-box { padding: 20px; flex-grow: 1; display: flex; flex-direction: column; justify-content: flex-start; background: #111;}
-        .category-tag { background: #ff3f34; color: white; display: inline-block; padding: 3px 8px; border-radius: 4px; font-size: 0.7em; font-weight: bold; text-transform: uppercase; margin-bottom: 10px; width: max-content;}
-        .article h2 { margin: 0 0 10px 0; font-size: 1.3em; line-height: 1.3; font-weight: 600; color: white; }
-        .article p { margin: 0 0 15px 0; font-size: 1.05em; line-height: 1.5; color: #ccc; }
+        .content-box { padding: 20px; flex-grow: 1; display: flex; flex-direction: column; justify-content: flex-start; background: linear-gradient(to bottom, #111, #050505);}
+        .category-tag { color: #ff4d4d; display: inline-block; font-size: 0.75em; font-weight: 800; text-transform: uppercase; margin-bottom: 8px;}
+        .article h2 { margin: 0 0 10px 0; font-size: 1.35em; line-height: 1.3; font-weight: 700; color: white; }
+        .article p { margin: 0 0 15px 0; font-size: 1.05em; line-height: 1.5; color: #ddd; }
         
-        /* Creative "Developed By" Signature Footer */
-        .signature { margin-top: auto; padding-top: 15px; padding-bottom: 25px; font-size: 0.8em; color: #888; text-align: center; border-top: 1px solid #333; }
-        .signature span { color: #ccc; font-weight: bold; position: relative;}
-        .signature span::after { content: ''; position: absolute; bottom: -2px; left: 0; width: 100%; height: 1px; background: #ff3f34; box-shadow: 0 0 5px #ff3f34; }
-        .signature a { text-decoration: none; color: inherit;}
-
-        .swipe-instruction { text-align: center; font-size: 0.8em; color: #555; padding-bottom: 30px;}
-        .footer-link { color: #0fb9b1; text-decoration: none; font-weight: bold;}
+        /* Creative Action Buttons */
+        .action-row { display: flex; gap: 15px; margin-top: auto; padding-bottom: 10px;}
+        .action-btn { flex: 1; background: #222; border: 1px solid #333; color: white; padding: 12px; border-radius: 12px; font-weight: 600; font-size: 0.9em; display: flex; justify-content: center; align-items: center; gap: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.3);}
+        .action-btn.share { background: #9e0000; border: none; color: white; }
+        
+        .swipe-instruction { text-align: center; font-size: 0.8em; color: #666; padding-bottom: 25px; padding-top: 15px;}
+        .footer-link { color: #ff4d4d; text-decoration: none; font-weight: bold;}
     </style>
 </head>
 <body>
 
     <div class="top-bar">
-        <div class="brand">VarthaBox</div>
+        <div class="brand-container">
+            <div class="brand">VarthaBox</div>
+            <a href="https://www.instagram.com/kunal___dongare/" target="_blank" class="dev-by">by Kunal Dongare</a>
+        </div>
         <div class="lang-selector">
             <button class="lang-btn active" onclick="setLanguage('en', this)">EN</button>
             <button class="lang-btn" onclick="setLanguage('kn', this)">ಕನ್ನಡ</button>
@@ -64,19 +69,22 @@
     
     <div id="news-container">
         <div style="height: 100%; display: flex; justify-content: center; align-items: center; text-align: center; padding: 20px;">
-            <h2>AI is writing latest Belagavi political updates.<br>Check back in a few minutes!</h2>
+            <h2>Updating Belagavi News...<br>Check back in a minute!</h2>
         </div>
     </div>
 
     <script>
         let currentLang = 'en';
         let newsData = [];
+        const synth = window.speechSynthesis; 
+        const langVoiceMap = { 'en': 'en-IN', 'kn': 'kn-IN', 'mr': 'mr-IN', 'hi': 'hi-IN' };
 
-        // --- 1. LANGUAGE & SWIPE FEED LOGIC ---
+        // --- 1. LANGUAGE & SWIPE LOGIC ---
         function setLanguage(lang, buttonElement) {
             currentLang = lang;
             document.querySelectorAll('.lang-btn').forEach(btn => btn.classList.remove('active'));
             buttonElement.classList.add('active');
+            synth.cancel();
             renderNews();
         }
 
@@ -84,31 +92,31 @@
             const container = document.getElementById('news-container');
             container.innerHTML = "";
             
-            if (newsData.length === 0) {
-                container.innerHTML = "<div style='height: 100%; display: flex; justify-content: center; align-items: center; text-align:center; padding:20px;'><h2>AI is writing latest Belagavi political updates.<br>Check back in a few minutes!</h2></div>";
-                return;
-            }
+            if (newsData.length === 0) return;
 
             newsData.forEach(article => {
                 const content = article.translations[currentLang];
                 if (!content) return; 
                 
                 const articleHTML = `
-                    <div class="article">
+                    <div class="article" id="${article.id}">
                         <img class="article-img" src="${article.image}" alt="News Image" onerror="this.src='https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80'">
                         <div class="content-box">
-                            <div class="category-tag">Local Politics</div>
+                            <div class="category-tag">Belagavi Politics</div>
                             <h2>${content.title}</h2>
                             <p>${content.content}</p>
                             
-                            <div class="signature">
-                                <a href="https://www.instagram.com/kunal___dongare/" target="_blank">
-                                    Developed by <span>Kunal Dongare</span>
-                                </a>
+                            <div class="action-row">
+                                <button class="action-btn" onclick="readAloud('${article.id}', \`${content.title}\`, \`${content.content}\`)">
+                                    🔊 Listen
+                                </button>
+                                <button class="action-btn share" onclick="shareArticle('${article.id}', \`${content.title}\`, \`${content.content}\`)">
+                                    🚀 Share
+                                </button>
                             </div>
 
                             <div class="swipe-instruction">
-                                Swipe up for next &bull; <a class="footer-link" href="${article.link}" target="_blank">Read full story</a>
+                                Swipe up for next &bull; <a class="footer-link" href="${article.link}" target="_blank">Read original source</a>
                             </div>
                         </div>
                     </div>
@@ -117,57 +125,54 @@
             });
         }
 
-        // --- 2. DATA FETCHING (AI DATABASE) ---
+        // --- 2. NATIVE SHARE & VOICE ---
+        function readAloud(articleId, title, content) {
+            synth.cancel(); 
+            const utterance = new SpeechSynthesisUtterance(`${title}. ${content}`);
+            utterance.lang = langVoiceMap[currentLang]; 
+            utterance.rate = 0.95; 
+            synth.speak(utterance);
+        }
+
+        function shareArticle(articleId, title, summary) {
+            const uniqueLink = window.location.href.split('#')[0] + '#' + articleId;
+            if (navigator.share) {
+                navigator.share({
+                    title: 'VarthaBox News: ' + title,
+                    text: 'Must read: ' + summary,
+                    url: uniqueLink,
+                }).catch(console.error);
+            } else {
+                navigator.clipboard.writeText(uniqueLink);
+                alert("Deep Link copied! Paste it in WhatsApp.");
+            }
+        }
+
+        // --- 3. FETCH DATA ---
         fetch('news.json')
             .then(response => response.json())
             .then(data => {
                 newsData = data;
                 renderNews();
-            })
-            .catch(error => console.error('Error fetching news:', error));
+            });
 
-        // --- 3. FREE LIVE CRICKET SCORE WIDGET ---
         async function fetchLiveScores() {
-            // ESPN Cricinfo free RSS feed
-            const rssUrl = 'http://static.cricinfo.com/rss/livescores.xml';
-            // We must use a free proxy (allorigins) so the browser doesn't block the request
-            const proxyUrl = `https://api.allorigins.win/get?url=${encodeURIComponent(rssUrl)}`;
-            
+            const proxyUrl = `https://api.allorigins.win/get?url=${encodeURIComponent('http://static.cricinfo.com/rss/livescores.xml')}`;
             try {
                 const response = await fetch(proxyUrl);
                 const data = await response.json();
-                
-                // Parse the XML data from the proxy
                 const parser = new DOMParser();
                 const xmlDoc = parser.parseFromString(data.contents, "text/xml");
                 const items = xmlDoc.querySelectorAll("item");
-                
                 if (items.length > 0) {
-                    // Grab the first live match title
-                    const latestScore = items[0].querySelector("title").textContent;
-                    document.getElementById('live-score').innerText = "🏏 " + latestScore;
-                } else {
-                    document.getElementById('live-score').innerText = "🏏 No live international matches right now.";
+                    document.getElementById('live-score').innerText = "🏏 " + items[0].querySelector("title").textContent;
                 }
             } catch (error) {
-                console.error("Score fetch failed", error);
                 document.getElementById('live-score').innerText = "🏏 Scores temporarily unavailable.";
             }
         }
-
-        // Run the score fetcher immediately, and update every 60 seconds
         fetchLiveScores();
         setInterval(fetchLiveScores, 60000); 
-
-        // --- 4. REGISTER PWA SERVICE WORKER (Must create sw.js in repo next) ---
-        if ('serviceWorker' in navigator) {
-            window.addEventListener('load', () => {
-                navigator.serviceWorker.register('sw.js')
-                    .then((reg) => console.log('Service Worker Registered!', reg))
-                    .catch((err) => console.log('Service Worker registration failed: ', err));
-            });
-        }
-
     </script>
 </body>
 </html>
