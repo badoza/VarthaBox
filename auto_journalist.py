@@ -4,20 +4,16 @@ import feedparser
 from google import genai
 import json
 import re
+import hashlib
 
-# Setup API
+# Correct New Setup
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
-genai.configure(api_key=GEMINI_API_KEY)
-model = genai.GenerativeModel('gemini-1.5-flash')
+client = genai.Client(api_key=GEMINI_API_KEY) 
 
-# 1. Hyper-Local Political Search Queries (Uses Google News RSS Search)
-# We structure the query to find major politicians and the Jarkiholi family in Belagavi.
+# Hyper-Local Political Search Queries
 SEARCH_FEEDS = {
-    # Searches specifically for Ramesh, Satish, and Balachandra in Belagavi district politics
     "Jarkiholi Family": "https://news.google.com/rss/search?q=Ramesh+Satish+Balachandra+Jarkiholi+Family+Belagavi+politics&hl=en-IN&gl=IN&ceid=IN:en",
-    # Searches specifically for Lakshmi Hebbalkar in Belagavi district politics
     "Lakshmi Hebbalkar": "https://news.google.com/rss/search?q=Lakshmi+Hebbalkar+Belagavi+politics&hl=en-IN&gl=IN&ceid=IN:en",
-    # General top political and district news from Belagavi
     "Belagavi District Politics": "https://news.google.com/rss/search?q=Belagavi+district+politics+RDC+latest+news&hl=en-IN&gl=IN&ceid=IN:en"
 }
 
@@ -27,7 +23,10 @@ def extract_image(entry):
     img_match = re.search(r'<img[^>]+src="([^">]+)"', entry.summary)
     if img_match:
         return img_match.group(1)
-    return "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80" # Fallback image
+    return "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80" # Fallback
+
+def generate_id(url):
+    return hashlib.md5(url.encode()).hexdigest()[:8]
 
 def run_news_pipeline():
     print("Fetching Belagavi-specific news data...")
@@ -42,7 +41,7 @@ def run_news_pipeline():
 
     new_articles = []
 
-    # Pull 5 articles from EACH of the 3 specialized search categories (15 articles total per run)
+    # Pull 5 articles from EACH category to build a bigger database
     for category, url in SEARCH_FEEDS.items():
         feed = feedparser.parse(url)
         top_entries = feed.entries[:5] 
@@ -50,8 +49,12 @@ def run_news_pipeline():
         for entry in top_entries:
             print(f"Processing {category}: {entry.title}")
             image_url = extract_image(entry)
+            article_id = generate_id(entry.link)
             
-            # The prompt is simplified to ensure it fits within free tier limits while translating.
+            # Skip duplicates
+            if any(item.get('id') == article_id for item in current_db):
+                continue
+            
             prompt = f"""
             You are a professional journalist for an app like Inshorts. 
             Rewrite this raw news data into a tight, engaging, 60-word news summary. It must be short and punchy.
@@ -69,16 +72,19 @@ def run_news_pipeline():
             """
             
             try:
-                response = model.generate_content(prompt)
+                response = client.models.generate_content(
+                    model='gemini-2.5-flash',
+                    contents=prompt,
+                )
                 raw_text = response.text
                 
-                # Clean up JSON formatting
                 raw_text = re.sub(r'```json\n?', '', raw_text)
                 raw_text = re.sub(r'```\n?', '', raw_text)
                 
                 translations = json.loads(raw_text.strip())
                 
                 article = {
+                    "id": article_id,
                     "translations": translations,
                     "image": image_url,
                     "link": entry.link
@@ -88,7 +94,7 @@ def run_news_pipeline():
             except Exception as e:
                 print(f"Error generating content: {e}")
 
-    # Combine and save (keep latest 60 articles for endless swiping)
+    # Combine and save up to 60 articles
     updated_db = new_articles + current_db
     updated_db = updated_db[:60] 
     
