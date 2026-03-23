@@ -1,22 +1,16 @@
 {
-  "name": "VarthaBox Premium News",
+  "name": "VarthaBox | Belagavi Politics",
   "short_name": "VarthaBox",
-  "description": "Premium multi-language news updates.",
+  "description": "Hyper-local political updates from Belagavi District.",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#050505",
-  "theme_color": "#050505",
+  "theme_color": "#ff3f34",
   "icons": [
     {
       "src": "icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
-    },
-    {
-      "src": "icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
     }
   ]
 }
