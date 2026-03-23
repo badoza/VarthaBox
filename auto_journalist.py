@@ -1,25 +1,22 @@
 import os
 import requests
 import feedparser
-import google.generativeai as genai
+from google import genai # Modern import
 import json
 import re
 
 # 1. Setup API and News Source
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
-# Using Times of India Hubballi/Belagavi region RSS feed as a starting point
 RSS_FEED_URL = "https://timesofindia.indiatimes.com/rssfeeds/-2128833038.cms" 
 
-genai.configure(api_key=GEMINI_API_KEY)
-# Using the free and fast Flash model
-model = genai.GenerativeModel('gemini-1.5-flash')
+# Initialize the new modern client
+client = genai.Client(api_key=GEMINI_API_KEY)
 
 def run_news_pipeline():
     print("Fetching raw news...")
     feed = feedparser.parse(RSS_FEED_URL)
-    top_entries = feed.entries[:3] # Get top 3 news items
+    top_entries = feed.entries[:3] 
     
-    # Load existing news if it exists
     current_db = []
     if os.path.exists("news.json"):
         with open("news.json", "r", encoding="utf-8") as f:
@@ -33,7 +30,6 @@ def run_news_pipeline():
     for entry in top_entries:
         print(f"Processing: {entry.title}")
         
-        # The Master Prompt for Multi-Language Generation
         prompt = f"""
         You are a professional journalist. Rewrite this raw news data into a short, engaging 2-paragraph news article.
         Then, translate the title and the article perfectly into Kannada, Marathi, and Hindi.
@@ -50,10 +46,14 @@ def run_news_pipeline():
         """
         
         try:
-            response = model.generate_content(prompt)
+            # Using the new syntax and the latest fast model
+            response = client.models.generate_content(
+                model='gemini-2.5-flash',
+                contents=prompt,
+            )
             raw_text = response.text
             
-            # Clean up the response to ensure it's pure JSON
+            # Clean up JSON formatting
             raw_text = re.sub(r'```json\n?', '', raw_text)
             raw_text = re.sub(r'```\n?', '', raw_text)
             
@@ -68,7 +68,6 @@ def run_news_pipeline():
         except Exception as e:
             print(f"Error generating content: {e}")
 
-    # Combine and save (keeping only the latest 15 articles to keep the site fast)
     updated_db = new_articles + current_db
     updated_db = updated_db[:15] 
     
