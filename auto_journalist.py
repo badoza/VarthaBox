@@ -9,7 +9,7 @@ import re
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 client = genai.Client(api_key=GEMINI_API_KEY)
 
-# Multiple News Categories (Times of India RSS feeds)
+# Multiple News Categories
 FEEDS = {
     "India": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
     "World": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
@@ -27,7 +27,7 @@ def extract_image(entry):
     if img_match:
         return img_match.group(1)
         
-    return "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=800&q=80" # Placeholder if no image found
+    return "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=800&q=80" # High-quality fallback image
 
 def run_news_pipeline():
     print("Fetching VarthaBox news...")
@@ -74,7 +74,7 @@ def run_news_pipeline():
                 )
                 raw_text = response.text
                 
-                # Clean up JSON formatting
+                # Clean up JSON formatting if the AI adds Markdown backticks
                 raw_text = re.sub(r'```json\n?', '', raw_text)
                 raw_text = re.sub(r'```\n?', '', raw_text)
                 
