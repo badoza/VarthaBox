@@ -1,5 +1,77 @@
 [
     {
+        "id": "45cd54cb",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "TN Polls Heat Up: Alliances Form for Key Battle",
+                "content": "Tamil Nadu's assembly elections are heating up with major alliances solidifying. The DMK-led alliance and the AIADMK-led NDA are gearing up for a fierce contest, reflecting past strong DMK performances. BJP eyes a greater presence. Strategies are firming up as political activity intensifies across the state."
+            },
+            "kn": {
+                "title": "ತಮಿಳುನಾಡು ಚುನಾವಣೆಗಳು ಬಿಸಿ ಏರಿವೆ: ಪ್ರಮುಖ ಸಮರಕ್ಕೆ ಮೈತ್ರಿಗಳು ಸಿದ್ಧ",
+                "content": "ತಮಿಳುನಾಡಿನ ವಿಧಾನಸಭಾ ಚುನಾವಣೆಗಳು ಬಿಸಿ ಏರಿವೆ, ಪ್ರಮುಖ ಮೈತ್ರಿಗಳು ಗಟ್ಟಿಯಾಗುತ್ತಿವೆ. ಡಿಎಂಕೆ ನೇತೃತ್ವದ ಮೈತ್ರಿಕೂಟ ಮತ್ತು ಎಐಎಡಿಎಂಕೆ ನೇತೃತ್ವದ ಎನ್‌ಡಿಎ ತೀವ್ರ ಸ್ಪರ್ಧೆಗೆ ಸಜ್ಜಾಗಿದ್ದು, ಹಿಂದಿನ ಪ್ರಬಲ ಡಿಎಂಕೆ ಪ್ರದರ್ಶನಗಳನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ. ಬಿಜೆಪಿ ಹೆಚ್ಚಿನ ಅಸ್ತಿತ್ವವನ್ನು ಬಯಸಿದೆ. ರಾಜ್ಯಾದ್ಯಂತ ರಾಜಕೀಯ ಚಟುವಟಿಕೆಗಳು ತೀವ್ರಗೊಳ್ಳುತ್ತಿದ್ದಂತೆ ತಂತ್ರಗಳು ದೃಢಗೊಳ್ಳುತ್ತಿವೆ."
+            },
+            "mr": {
+                "title": "तामिळनाडू निवडणुकांचा पारा चढला: निर्णायक लढ्यासाठी आघाड्या तयार",
+                "content": "तामिळनाडूच्या विधानसभा निवडणुकांचा पारा चढला असून प्रमुख आघाड्या मजबूत होत आहेत. डीएमके-नेतृत्वाखालील आघाडी आणि एआयएडीएमके-नेतृत्वाखालील एनडीए तीव्र लढ्यासाठी सज्ज आहेत, ज्यामुळे पूर्वीच्या डीएमकेच्या मजबूत कामगिरीचे प्रतिबिंब दिसते. भाजपला अधिक उपस्थिती वाढवायची आहे. राज्यभरात राजकीय हालचाली तीव्र होत असताना धोरणे निश्चित होत आहेत."
+            },
+            "hi": {
+                "title": "तमिलनाडु चुनाव गरमाए: प्रमुख लड़ाई के लिए गठबंधन तैयार",
+                "content": "तमिलनाडु के विधानसभा चुनाव गरमा रहे हैं, प्रमुख गठबंधन मजबूत हो रहे हैं। डीएमके-नेतृत्व वाला गठबंधन और एआईएडीएमके-नेतृत्व वाला एनडीए एक भयंकर मुकाबले के लिए तैयार हैं, जो डीएमके के पिछले मजबूत प्रदर्शनों को दर्शाता है। भाजपा अपनी उपस्थिति बढ़ाना चाहती है। राज्य भर में राजनीतिक गतिविधियां तेज होने के साथ रणनीतियां मजबूत हो रही हैं।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129781389,imgsize-36428.cms",
+        "link": "https://timesofindia.indiatimes.com/india/tamil-nadu-assembly-election-alliances-take-shape-amid-aiadmk-dmk-contest-spotlight-on-previous-performance/articleshow/129781236.cms"
+    },
+    {
+        "id": "b4c662aa",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "US Pushes Stronger India to Counter China in Indo-Pacific",
+                "content": "The US sees a strong India as crucial for a balanced, free Indo-Pacific, countering China's growing influence. Emphasizing deeper defense and strategic ties, the US aims to boost India's operational interoperability and defense capabilities. This includes fostering co-production and a robust domestic industry. The goal is to prevent single-power dominance and solidify India's vital role in regional stability."
+            },
+            "kn": {
+                "title": "ಇಂಡೋ-ಪೆಸಿಫಿಕ್‌ನಲ್ಲಿ ಚೀನಾವನ್ನು ಎದುರಿಸಲು ಬಲಿಷ್ಠ ಭಾರತಕ್ಕೆ ಯುಎಸ್ ಒತ್ತಡ",
+                "content": "ಚೀನಾದ ಹೆಚ್ಚುತ್ತಿರುವ ಪ್ರಭಾವವನ್ನು ಎದುರಿಸಲು ಸಮತೋಲಿತ, ಮುಕ್ತ ಇಂಡೋ-ಪೆಸಿಫಿಕ್‌ಗೆ ಬಲಿಷ್ಠ ಭಾರತ ಅತ್ಯಗತ್ಯ ಎಂದು ಅಮೆರಿಕ ನೋಡುತ್ತದೆ. ಆಳವಾದ ರಕ್ಷಣೆ ಮತ್ತು ಕಾರ್ಯತಂತ್ರದ ಸಂಬಂಧಗಳಿಗೆ ಒತ್ತು ನೀಡುತ್ತಾ, ಅಮೆರಿಕವು ಭಾರತದ ಕಾರ್ಯಾಚರಣೆಯ ಪರಸ್ಪರ ಕಾರ್ಯಸಾಧ್ಯತೆ ಮತ್ತು ರಕ್ಷಣಾ ಸಾಮರ್ಥ್ಯಗಳನ್ನು ಹೆಚ್ಚಿಸುವ ಗುರಿ ಹೊಂದಿದೆ. ಇದು ಸಹ-ಉತ್ಪಾದನೆ ಮತ್ತು ಸದೃಢ ದೇಶೀಯ ಕೈಗಾರಿಕೆಯನ್ನು ಉತ್ತೇಜಿಸುವುದನ್ನು ಒಳಗೊಂಡಿದೆ. ಏಕ-ಶಕ್ತಿಯ ಪ್ರಾಬಲ್ಯವನ್ನು ತಡೆಗಟ್ಟುವುದು ಮತ್ತು ಪ್ರಾದೇಶಿಕ ಸ್ಥಿರತೆಯಲ್ಲಿ ಭಾರತದ ಪ್ರಮುಖ ಪಾತ್ರವನ್ನು ಬಲಪಡಿಸುವುದು ಇದರ ಗುರಿಯಾಗಿದೆ."
+            },
+            "mr": {
+                "title": "इंडो-पॅसिफिकमध्ये चीनला प्रत्युत्तर देण्यासाठी अमेरिकेचा मजबूत भारतावर भर",
+                "content": "चीनचा वाढता प्रभाव रोखण्यासाठी संतुलित आणि मुक्त इंडो-पॅसिफिकसाठी मजबूत भारत महत्त्वाचा आहे, असे अमेरिकेला वाटते. संरक्षण आणि धोरणात्मक संबंध अधिक दृढ करण्यावर भर देत, अमेरिकेचे उद्दिष्ट भारताची कार्यात्मक आंतरकार्यक्षमता आणि संरक्षण क्षमता वाढवणे आहे. यात सह-उत्पादन आणि मजबूत स्वदेशी उद्योगाला प्रोत्साहन देणे समाविष्ट आहे. एकाच शक्तीचे वर्चस्व रोखणे आणि प्रादेशिक स्थिरतेमध्ये भारताची महत्त्वाची भूमिका मजबूत करणे हे उद्दिष्ट आहे."
+            },
+            "hi": {
+                "title": "इंडो-पैसिफिक में चीन का मुकाबला करने के लिए अमेरिका का मजबूत भारत पर जोर",
+                "content": "अमेरिका एक मजबूत भारत को संतुलित, मुक्त इंडो-पैसिफिक के लिए महत्वपूर्ण मानता है, जो चीन के बढ़ते प्रभाव का मुकाबला करेगा। गहरे रक्षा और रणनीतिक संबंधों पर जोर देते हुए, अमेरिका का लक्ष्य भारत की परिचालन अंतरसंचालनीयता और रक्षा क्षमताओं को बढ़ावा देना है। इसमें सह-उत्पादन और एक मजबूत घरेलू उद्योग को बढ़ावा देना शामिल है। इसका लक्ष्य किसी एक शक्ति के प्रभुत्व को रोकना और क्षेत्रीय स्थिरता में भारत की महत्वपूर्ण भूमिका को मजबूत करना है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129780163,imgsize-47572.cms",
+        "link": "https://timesofindia.indiatimes.com/india/strong-india-good-for-us-trump-admin-on-countering-chinas-hold-on-indo-pacific/articleshow/129780058.cms"
+    },
+    {
+        "id": "7d4ce868",
+        "category": "Entertainment",
+        "translations": {
+            "en": {
+                "title": "Udaybir Sandhu Shines in 'Dhurandhar', Thanks Mukesh Chhabra",
+                "content": "Udaybir Sandhu is garnering praise for his impactful portrayal of Pinda in the successful film 'Dhurandhar: The Revenge'. He expressed heartfelt gratitude to casting director Mukesh Chhabra for the significant opportunity. The movie is performing exceptionally well at the box office, further highlighting Sandhu's dedication and praised performance. Chhabra reciprocated his appreciation, acknowledging Sandhu's talent."
+            },
+            "kn": {
+                "title": "ಧುರಂಧರ್‌ನಲ್ಲಿ ಉದಯ್ಬೀರ್ ಸಂಧು ಮಿಂಚು, ಮುಖೇಶ್ ಛಾಬ್ರಾಗೆ ಧನ್ಯವಾದ",
+                "content": "'ಧುರಂಧರ್: ದಿ ರಿವೆಂಜ್' ಯಶಸ್ವಿ ಚಿತ್ರದಲ್ಲಿ ಪಿಂಡಾ ಪಾತ್ರದ ಪ್ರಭಾವಶಾಲಿ ಅಭಿನಯಕ್ಕಾಗಿ ಉದಯ್ಬೀರ್ ಸಂಧು ಮೆಚ್ಚುಗೆ ಗಳಿಸುತ್ತಿದ್ದಾರೆ. ಈ ಮಹತ್ವದ ಅವಕಾಶಕ್ಕಾಗಿ ಅವರು ಕಾಸ್ಟಿಂಗ್ ನಿರ್ದೇಶಕ ಮುಖೇಶ್ ಛಾಬ್ರಾಗೆ ಹೃತ್ಪೂರ್ವಕ ಕೃತಜ್ಞತೆ ಸಲ್ಲಿಸಿದರು. ಚಲನಚಿತ್ರವು ಗಲ್ಲಾಪೆಟ್ಟಿಗೆಯಲ್ಲಿ ಅತ್ಯುತ್ತಮವಾಗಿ ಪ್ರದರ್ಶನ ನೀಡುತ್ತಿದೆ, ಇದು ಸಂಧು ಅವರ ಸಮರ್ಪಣೆ ಮತ್ತು ಶ್ಲಾಘನೀಯ ಅಭಿನಯವನ್ನು ಇನ್ನಷ್ಟು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ಛಾಬ್ರಾ ಸಂಧು ಅವರ ಪ್ರತಿಭೆಯನ್ನು ಗುರುತಿಸಿ ತಮ್ಮ ಮೆಚ್ಚುಗೆಯನ್ನು ವ್ಯಕ್ತಪಡಿಸಿದರು."
+            },
+            "mr": {
+                "title": "'धुरंधर'मध्ये उदयबीर संधू चमकला, मुकेश छाबडाचे मानले आभार",
+                "content": "'धुरंधर: द रिव्हेंज' या यशस्वी चित्रपटातील पिंडाच्या प्रभावी भूमिकेसाठी उदयबीर संधूची प्रशंसा होत आहे. या महत्त्वाच्या संधीसाठी त्याने कास्टिंग दिग्दर्शक मुकेश छाबडाचे मनःपूर्वक आभार मानले. हा चित्रपट बॉक्स ऑफिसवर उत्कृष्ट कामगिरी करत आहे, ज्यामुळे संधूची निष्ठा आणि प्रशंसनीय कामगिरी अधिक ठळक होते. छाबडाने संधूच्या प्रतिभेची दखल घेऊन आपल्या कौतुकाची परतफेड केली."
+            },
+            "hi": {
+                "title": "'धुरंधर' में उदयबीर संधू चमके, मुकेश छाबड़ा का किया धन्यवाद",
+                "content": "सफल फिल्म 'धुरंधर: द रिवेंज' में पिंडा के प्रभावशाली चित्रण के लिए उदयबीर संधू खूब प्रशंसा बटोर रहे हैं। उन्होंने इस महत्वपूर्ण अवसर के लिए कास्टिंग डायरेक्टर मुकेश छाबड़ा का हार्दिक आभार व्यक्त किया। यह फिल्म बॉक्स ऑफिस पर असाधारण प्रदर्शन कर रही है, जिससे संधू के समर्पण और प्रशंसित प्रदर्शन को और बल मिलता है। छाबड़ा ने संधू की प्रतिभा को स्वीकार करते हुए अपनी सराहना व्यक्त की।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129778234,imgsize-51088.cms",
+        "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/paaji-aapa-poori-jaan-laa-ditti-udaybir-sandhu-thanks-mukesh-chhabra-for-dhurandhar-the-revenge-role/articleshow/129778236.cms"
+    },
+    {
         "id": "c46ddde5",
         "category": "National",
         "translations": {
