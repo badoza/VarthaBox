@@ -1,5 +1,29 @@
 [
     {
+        "id": "c32c30b9",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "WB Voter Roll: Appeal Window Sparks Timeline Fears",
+                "content": "West Bengal's voter roll revision faces intense scrutiny as a \"limited window\" for appeals sparks significant timeline concerns. Critics warn this narrow timeframe could compromise the accuracy and fairness of the electoral list before upcoming elections. Stakeholders are urging authorities to extend the appeal period, ensuring adequate time for citizens to resolve discrepancies and secure their rightful place on the voter roll."
+            },
+            "kn": {
+                "title": "ಪಶ್ಚಿಮ ಬಂಗಾಳ ಮತದಾರರ ಪಟ್ಟಿ: ಮೇಲ್ಮನವಿ ಅವಧಿ ಕಾಲಮಿತಿ ಆತಂಕ ಸೃಷ್ಟಿ",
+                "content": "ಪಶ್ಚಿಮ ಬಂಗಾಳದ ಮತದಾರರ ಪಟ್ಟಿ ಪರಿಷ್ಕರಣೆಯು ತೀವ್ರ ಪರಿಶೀಲನೆಗೆ ಒಳಪಟ್ಟಿದೆ, ಏಕೆಂದರೆ ಮೇಲ್ಮನವಿಗಳಿಗೆ “ಸೀಮಿತ ಅವಧಿ” ಕಾಲಮಿತಿ ಆತಂಕಗಳನ್ನು ಹುಟ್ಟುಹಾಕಿದೆ. ಈ ಕಿರಿದಾದ ಕಾಲಮಿತಿಯು ಮುಂಬರುವ ಚುನಾವಣೆಗಳ ಮೊದಲು ಮತದಾರರ ಪಟ್ಟಿಯ ನಿಖರತೆ ಮತ್ತು ನ್ಯಾಯಸಮ್ಮತತೆಯನ್ನು ದುರ್ಬಲಗೊಳಿಸಬಹುದು ಎಂದು ವಿಮರ್ಶಕರು ಎಚ್ಚರಿಸಿದ್ದಾರೆ. ನಾಗರಿಕರು ತಮ್ಮ ವ್ಯತ್ಯಾಸಗಳನ್ನು ಪರಿಹರಿಸಲು ಮತ್ತು ಮತದಾರರ ಪಟ್ಟಿಯಲ್ಲಿ ತಮ್ಮ ಸರಿಯಾದ ಸ್ಥಾನವನ್ನು ಭದ್ರಪಡಿಸಿಕೊಳ್ಳಲು ಸಾಕಷ್ಟು ಸಮಯವನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು ಮೇಲ್ಮನವಿ ಅವಧಿಯನ್ನು ವಿಸ್ತರಿಸುವಂತೆ ಪಾಲುದಾರರು ಅಧಿಕಾರಿಗಳನ್ನು ಒತ್ತಾಯಿಸುತ್ತಿದ್ದಾರೆ."
+            },
+            "mr": {
+                "title": "प. बंगाल मतदार यादी: अपील कालावधीमुळे वेळेबद्दल चिंता",
+                "content": "पश्चिम बंगालच्या मतदार यादीच्या सुधारणेवर सखोल तपासणी सुरू आहे, कारण अपीलसाठी “मर्यादित कालावधी” असल्याने वेळेच्या बाबतीत महत्त्वपूर्ण चिंता निर्माण झाली आहे. टीकाकारांनी इशारा दिला आहे की, ही कमी वेळ आगामी निवडणुकांपूर्वी मतदार यादीची अचूकता आणि निष्पक्षता धोक्यात आणू शकते. नागरिक त्यांच्या त्रुटी दूर करून मतदार यादीत आपले योग्य स्थान सुरक्षित करू शकतील याची खात्री करण्यासाठी अपील कालावधी वाढवण्याची मागणी भागधारक अधिकाऱ्यांकडे करत आहेत."
+            },
+            "hi": {
+                "title": "प. बंगाल वोटर लिस्ट: अपील विंडो से समय-सीमा को लेकर चिंता",
+                "content": "पश्चिम बंगाल की मतदाता सूची के पुनरीक्षण पर गहन पड़ताल चल रही है, क्योंकि अपीलों के लिए \"सीमित अवधि\" ने समय-सीमा को लेकर महत्वपूर्ण चिंताएं पैदा की हैं। आलोचकों ने चेतावनी दी है कि यह कम समय आगामी चुनावों से पहले मतदाता सूची की सटीकता और निष्पक्षता से समझौता कर सकता है। हितधारक अधिकारियों से अपील की अवधि बढ़ाने का आग्रह कर रहे हैं, ताकि नागरिकों को विसंगतियों को दूर करने और मतदाता सूची में अपना सही स्थान सुरक्षित करने के लिए पर्याप्त समय मिल सके।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129771166,imgsize-1749058.cms",
+        "link": "https://timesofindia.indiatimes.com/india/west-bengal-sir-voter-roll-revision-limited-window-for-appeals-raises-timeline-concerns/articleshow/129771125.cms"
+    },
+    {
         "id": "ba227b66",
         "category": "National",
         "translations": {
