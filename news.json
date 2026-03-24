@@ -1,5 +1,53 @@
 [
     {
+        "id": "662a7fc4",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Trump, Modi Discuss West Asia, Hormuz Amid Iran Tensions",
+                "content": "Amidst US consideration of Iran peace talks, President Trump called PM Modi to discuss the West Asia situation. Both leaders emphasized the critical need to keep the Strait of Hormuz open and secure for global stability. Modi reiterated India's strong support for de-escalation and peace, highlighting safe passage's importance for economic well-being."
+            },
+            "kn": {
+                "title": "ಟ್ರಂಪ್, ಮೋದಿ ಪಶ್ಚಿಮ ಏಷ್ಯಾ, ಹಾರ್ಮುಜ್ ಕುರಿತು ಚರ್ಚೆ",
+                "content": "ಇರಾನ್ ಶಾಂತಿ ಮಾತುಕತೆಗಳ ಅಮೆರಿಕದ ಪರಿಗಣನೆಯ ನಡುವೆ, ಅಧ್ಯಕ್ಷ ಟ್ರಂಪ್ ಪ್ರಧಾನಿ ಮೋದಿಗೆ ಕರೆ ಮಾಡಿ ಪಶ್ಚಿಮ ಏಷ್ಯಾ ಪರಿಸ್ಥಿತಿಯನ್ನು ಚರ್ಚಿಸಿದರು. ಜಾಗತಿಕ ಸ್ಥಿರತೆಗೆ ಹಾರ್ಮುಜ್ ಜಲಸಂಧಿಯನ್ನು ತೆರೆದಿಡುವುದು ಮತ್ತು ಸುರಕ್ಷಿತವಾಗಿಡುವುದು ಅತ್ಯಗತ್ಯ ಎಂದು ಎರಡೂ ನಾಯಕರು ಒತ್ತಿ ಹೇಳಿದರು. ಆರ್ಥಿಕ ಸುಸ್ಥಿತಿಗೆ ಸುರಕ್ಷಿತ ಮಾರ್ಗದ ಮಹತ್ವವನ್ನು ಎತ್ತಿ ತೋರಿಸಿ, ಮೋದಿ ಉದ್ವಿಗ್ನತೆ ಇಳಿಕೆ ಮತ್ತು ಶಾಂತಿಗಾಗಿ ಭಾರತದ ದೃಢ ಬೆಂಬಲವನ್ನು ಪುನರುಚ್ಚರಿಸಿದರು."
+            },
+            "mr": {
+                "title": "ट्रम्प, मोदींकडून पश्चिम आशिया, होर्मुझवर चर्चा",
+                "content": "इराणसोबत शांतता चर्चेच्या अमेरिकेच्या विचारांदरम्यान, राष्ट्राध्यक्ष ट्रम्प यांनी पंतप्रधान मोदींना फोन करून पश्चिम आशियातील परिस्थितीवर चर्चा केली. जागतिक स्थिरतेसाठी होर्मुझची सामुद्रधुनी खुली आणि सुरक्षित ठेवण्याची गरज दोन्ही नेत्यांनी अधोरेखित केली. आर्थिक कल्याणासाठी सुरक्षित मार्गाच्या महत्त्वावर भर देत मोदींनी तणाव कमी करण्याच्या आणि शांततेसाठी भारताच्या जोरदार पाठिंब्याचा पुनरुच्चार केला."
+            },
+            "hi": {
+                "title": "ट्रम्प, मोदी ने पश्चिम एशिया, होर्मुज पर की चर्चा",
+                "content": "ईरान शांति वार्ता पर अमेरिका के विचार के बीच, राष्ट्रपति ट्रम्प ने पीएम मोदी को पश्चिम एशिया की स्थिति पर चर्चा करने के लिए फोन किया। दोनों नेताओं ने वैश्विक स्थिरता के लिए होर्मुज जलडमरूमध्य को खुला और सुरक्षित रखने की महत्वपूर्ण आवश्यकता पर जोर दिया। मोदी ने आर्थिक कल्याण के लिए सुरक्षित मार्ग के महत्व को उजागर करते हुए तनाव कम करने और शांति के लिए भारत के मजबूत समर्थन को दोहराया।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129784740,imgsize-727271.cms",
+        "link": "https://timesofindia.indiatimes.com/india/trump-dials-modi-as-us-contemplates-peace-talks-with-iran/articleshow/129784744.cms"
+    },
+    {
+        "id": "3da08257",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "India Engages US on Chabahar Sanctions Amidst Iran Deal",
+                "content": "India is actively discussing US sanctions on Chabahar Port, despite signing a 10-year operation contract with Iran. India fulfilled its $120 million equipment commitment. While a conditional US waiver extends until April 2026, India is addressing implications from changes in the US sanctions framework, highlighting ongoing diplomatic efforts for this strategic port."
+            },
+            "kn": {
+                "title": "ಚಾಬಹಾರ್ ನಿರ್ಬಂಧಗಳ ಕುರಿತು ಇರಾನ್ ಒಪ್ಪಂದದ ನಡುವೆ ಅಮೆರಿಕದೊಂದಿಗೆ ಭಾರತದ ಸಂವಾದ",
+                "content": "ಇರಾನ್‌ನೊಂದಿಗೆ 10 ವರ್ಷಗಳ ಕಾರ್ಯಾಚರಣೆಯ ಒಪ್ಪಂದಕ್ಕೆ ಸಹಿ ಹಾಕಿದ್ದರೂ, ಭಾರತವು ಚಾಬಹಾರ್ ಬಂದರು ಮೇಲಿನ ಅಮೆರಿಕದ ನಿರ್ಬಂಧಗಳ ಬಗ್ಗೆ ಸಕ್ರಿಯವಾಗಿ ಚರ್ಚಿಸುತ್ತಿದೆ. ಭಾರತವು ತನ್ನ $120 ಮಿಲಿಯನ್ ಉಪಕರಣಗಳ ಬದ್ಧತೆಯನ್ನು ಪೂರೈಸಿದೆ. ಷರತ್ತುಬದ್ಧ ಅಮೆರಿಕದ ವಿನಾಯಿತಿ ಏಪ್ರಿಲ್ 2026 ರವರೆಗೆ ವಿಸ್ತರಿಸಿದ್ದರೂ, ಈ ಕಾರ್ಯತಂತ್ರದ ಬಂದರಿಗಾಗಿ ನಡೆಯುತ್ತಿರುವ ರಾಜತಾಂತ್ರಿಕ ಪ್ರಯತ್ನಗಳನ್ನು ಎತ್ತಿ ತೋರಿಸುವ ಮೂಲಕ ಅಮೆರಿಕದ ನಿರ್ಬಂಧಗಳ ಚೌಕಟ್ಟಿನಲ್ಲಿನ ಬದಲಾವಣೆಗಳಿಂದ ಉಂಟಾಗುವ ಪರಿಣಾಮಗಳನ್ನು ಭಾರತವು ನಿರ್ವಹಿಸುತ್ತಿದೆ."
+            },
+            "mr": {
+                "title": "इराण करारादरम्यान चाबहार निर्बंधांवर अमेरिकेशी भारताचा संवाद",
+                "content": "इराणसोबत 10 वर्षांच्या कामकाजाच्या करारावर स्वाक्षरी करूनही, भारत चाबहार बंदरावरील अमेरिकेच्या निर्बंधांवर सक्रियपणे चर्चा करत आहे. भारताने 120 दशलक्ष डॉलरच्या उपकरणांची आपली वचनबद्धता पूर्ण केली आहे. अमेरिकेची सशर्त सूट एप्रिल 2026 पर्यंत वाढलेली असली तरी, भारत अमेरिकेच्या निर्बंधांच्या चौकटीतील बदलांमुळे उद्भवणाऱ्या परिणामांवर लक्ष देत आहे, या धोरणात्मक बंदरासाठी सुरू असलेल्या राजनैतिक प्रयत्नांवर भर देत आहे."
+            },
+            "hi": {
+                "title": "ईरान समझौते के बीच चाबहार प्रतिबंधों पर अमेरिका से भारत की बातचीत",
+                "content": "ईरान के साथ 10 साल के संचालन समझौते पर हस्ताक्षर करने के बावजूद, भारत चाबहार बंदरगाह पर अमेरिकी प्रतिबंधों पर सक्रिय रूप से चर्चा कर रहा है। भारत ने 120 मिलियन डॉलर के उपकरण के लिए अपनी प्रतिबद्धता पूरी कर ली है। जबकि सशर्त अमेरिकी छूट अप्रैल 2026 तक बढ़ी हुई है, भारत अमेरिकी प्रतिबंध ढांचे में बदलावों से उत्पन्न होने वाले प्रभावों को संबोधित कर रहा है, जो इस रणनीतिक बंदरगाह के लिए चल रहे राजनयिक प्रयासों पर प्रकाश डालता है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129783807,imgsize-129251.cms",
+        "link": "https://timesofindia.indiatimes.com/india/india-remains-engaged-with-us-on-chabahar-port-sanctions-meets-120-million-obligation/articleshow/129783831.cms"
+    },
+    {
         "id": "45cd54cb",
         "category": "National",
         "translations": {
