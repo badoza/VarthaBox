@@ -3,65 +3,58 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
-    <title>VarthaBox | Real-Time News</title>
+    <title>VarthaBox | Premium News</title>
     
     <link rel="manifest" href="manifest.json">
     <meta name="theme-color" content="#9e0000">
     <link rel="apple-touch-icon" href="icon-192.png">
 
     <style>
-        /* PERFECT MOBILE CSS */
+        /* PERFECT MOBILE CSS LOCK */
         body, html { 
-            margin: 0; padding: 0; height: 100%; 
+            margin: 0; padding: 0; 
+            width: 100vw; height: 100vh; /* Locked dimensions */
             background-color: #050505; 
-            font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', Roboto, Helvetica, Arial, sans-serif; 
+            font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', sans-serif; 
             overflow: hidden; color: white;
-            -webkit-font-smoothing: antialiased; /* Makes text look razor sharp like iOS apps */
-            -moz-osx-font-smoothing: grayscale;
+            -webkit-font-smoothing: antialiased;
         }
         
-        /* Top Header Area with iOS Safe Area Support */
-        .top-bar { position: fixed; top: 0; left: 0; width: 100%; padding: env(safe-area-inset-top, 15px) 15px 12px 15px; background: rgba(158, 0, 0, 0.92); backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px); z-index: 100; display: flex; justify-content: space-between; align-items: center; box-sizing: border-box; box-shadow: 0 4px 20px rgba(0,0,0,0.6);}
+        /* Top Header */
+        .top-bar { position: absolute; top: 0; left: 0; width: 100%; height: 65px; padding: 0 15px; background: rgba(158, 0, 0, 0.95); backdrop-filter: blur(10px); z-index: 100; display: flex; justify-content: space-between; align-items: center; box-sizing: border-box; box-shadow: 0 4px 15px rgba(0,0,0,0.5);}
         
-        .brand-container { display: flex; flex-direction: column; }
+        .brand-container { display: flex; flex-direction: column; justify-content: center;}
         .brand { font-size: 1.6em; font-weight: 900; color: white; letter-spacing: 1px; margin-bottom: -2px;}
         .dev-by { font-size: 0.65em; color: #ffcccc; text-decoration: none; font-weight: 600; letter-spacing: 0.5px;}
         
         .lang-selector { display: flex; gap: 6px; }
-        .lang-btn { background: rgba(0,0,0,0.25); border: 1px solid rgba(255,255,255,0.15); color: white; padding: 6px 12px; border-radius: 20px; font-size: 0.8em; cursor: pointer; transition: 0.3s;}
+        .lang-btn { background: rgba(0,0,0,0.3); border: 1px solid rgba(255,255,255,0.2); color: white; padding: 6px 12px; border-radius: 20px; font-size: 0.8em; cursor: pointer; transition: 0.2s;}
         .lang-btn.active { background: white; color: #9e0000; font-weight: bold;}
 
-        /* Free Cricket Ticker Bar */
-        .score-ticker { background: #111; color: #ffb142; padding: 8px 15px; font-size: 0.85em; font-weight: bold; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; border-bottom: 1px solid #333; margin-top: calc(env(safe-area-inset-top, 0px) + 60px); z-index: 90; position: relative; text-align: center; }
+        /* Free Cricket Ticker */
+        .score-ticker { position: absolute; top: 65px; left: 0; width: 100%; height: 35px; line-height: 35px; background: #111; color: #ffb142; font-size: 0.85em; font-weight: bold; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; border-bottom: 1px solid #333; z-index: 90; text-align: center; box-sizing: border-box;}
 
-        /* The swiping container */
-        #news-container { height: calc(100vh - (env(safe-area-inset-top, 0px) + 60px)); overflow-y: scroll; scroll-snap-type: y mandatory; scroll-behavior: smooth; }
+        /* The swiping container - strictly calculated height */
+        #news-container { position: absolute; top: 100px; left: 0; width: 100%; height: calc(100vh - 100px); overflow-y: scroll; scroll-snap-type: y mandatory; scroll-behavior: smooth; }
         
         /* Individual News Card */
-        .article { height: 100%; width: 100vw; scroll-snap-align: start; display: flex; flex-direction: column; position: relative; box-sizing: border-box;}
+        .article { height: 100%; width: 100%; scroll-snap-align: start; display: flex; flex-direction: column; position: relative; box-sizing: border-box;}
         
-        /* Fixed image aspect ratio for perfect mobile fit */
-        .article-img { width: 100%; height: 38vh; object-fit: cover; background: #222; border-bottom: 2px solid #9e0000;}
+        .article-img { width: 100%; height: 40%; object-fit: cover; background: #222; border-bottom: 3px solid #9e0000;}
         
-        .content-box { padding: 20px 20px calc(20px + env(safe-area-inset-bottom, 0px)) 20px; flex-grow: 1; display: flex; flex-direction: column; justify-content: flex-start; background: linear-gradient(to bottom, #111, #050505);}
-        .category-tag { color: #ff4d4d; display: inline-block; font-size: 0.75em; font-weight: 800; text-transform: uppercase; margin-bottom: 8px; letter-spacing: 1px;}
-        .article h2 { margin: 0 0 10px 0; font-size: 1.4em; line-height: 1.35; font-weight: 700; color: white; }
-        .article p { margin: 0 0 15px 0; font-size: 1.05em; line-height: 1.5; color: #d1d1d1; font-weight: 400;}
+        .content-box { height: 60%; padding: 20px; display: flex; flex-direction: column; background: linear-gradient(to bottom, #151515, #000); box-sizing: border-box;}
+        .category-tag { color: #ff4d4d; font-size: 0.75em; font-weight: 800; text-transform: uppercase; margin-bottom: 8px;}
+        .article h2 { margin: 0 0 10px 0; font-size: 1.35em; line-height: 1.3; font-weight: 700;}
+        .article p { margin: 0; font-size: 1.05em; line-height: 1.5; color: #d1d1d1; flex-grow: 1; overflow-y: auto;}
         
-        /* Creative Action Buttons */
-        .action-row { display: flex; gap: 12px; margin-top: auto; padding-bottom: 15px;}
-        .action-btn { flex: 1; background: #222; border: 1px solid #333; color: white; padding: 14px; border-radius: 14px; font-weight: 600; font-size: 0.9em; display: flex; justify-content: center; align-items: center; gap: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.3);}
-        .action-btn.share { background: #9e0000; border: none; color: white; }
+        /* Actions & Footer */
+        .action-row { display: flex; gap: 12px; margin-top: 15px;}
+        .action-btn { flex: 1; background: #222; border: 1px solid #333; color: white; padding: 12px; border-radius: 12px; font-weight: bold; font-size: 0.9em; display: flex; justify-content: center; align-items: center; gap: 8px;}
+        .action-btn.share { background: #9e0000; border: none;}
         
-        /* Pulsing Swipe Instruction */
-        .swipe-instruction { text-align: center; font-size: 0.8em; color: #777; padding-bottom: 10px; animation: pulse 2s infinite;}
-        .footer-link { color: #ff4d4d; text-decoration: none; font-weight: bold;}
-        
-        @keyframes pulse {
-            0% { opacity: 0.6; }
-            50% { opacity: 1; }
-            100% { opacity: 0.6; }
-        }
+        .signature { text-align: center; font-size: 0.85em; color: #888; margin-top: 15px;}
+        .signature a { color: #ff4d4d; text-decoration: none; font-weight: bold;}
+        .swipe-instruction { text-align: center; font-size: 0.75em; color: #666; margin-top: 10px; padding-bottom: 25px;}
     </style>
 </head>
 <body>
@@ -122,16 +115,15 @@
                             <p>${content.content}</p>
                             
                             <div class="action-row">
-                                <button class="action-btn" onclick="readAloud('${article.id}', \`${content.title}\`, \`${content.content}\`)">
-                                    🔊 Listen
-                                </button>
-                                <button class="action-btn share" onclick="shareArticle('${article.id}', \`${content.title}\`, \`${content.content}\`)">
-                                    🚀 Share
-                                </button>
+                                <button class="action-btn" onclick="readAloud('${article.id}', \`${content.title}\`, \`${content.content}\`)">🔊 Listen</button>
+                                <button class="action-btn share" onclick="shareArticle('${article.id}', \`${content.title}\`, \`${content.content}\`)">🚀 Share</button>
                             </div>
 
+                            <div class="signature">
+                                Developed by <a href="https://www.instagram.com/kunal___dongare/" target="_blank">Kunal Dongare</a>
+                            </div>
                             <div class="swipe-instruction">
-                                Swipe up for next &bull; <a class="footer-link" href="${article.link}" target="_blank">Read original source</a>
+                                Swipe up for next &bull; <a href="${article.link}" target="_blank" style="color:#666;">Original</a>
                             </div>
                         </div>
                     </div>
@@ -151,23 +143,16 @@
         function shareArticle(articleId, title, summary) {
             const uniqueLink = window.location.href.split('#')[0] + '#' + articleId;
             if (navigator.share) {
-                navigator.share({
-                    title: 'VarthaBox News: ' + title,
-                    text: 'Must read: ' + summary,
-                    url: uniqueLink,
-                }).catch(console.error);
+                navigator.share({ title: 'VarthaBox: ' + title, text: summary, url: uniqueLink }).catch(console.error);
             } else {
                 navigator.clipboard.writeText(uniqueLink);
-                alert("Deep Link copied! Paste it in WhatsApp.");
+                alert("Link copied!");
             }
         }
 
         fetch('news.json')
             .then(response => response.json())
-            .then(data => {
-                newsData = data;
-                renderNews();
-            });
+            .then(data => { newsData = data; renderNews(); });
 
         async function fetchLiveScores() {
             const proxyUrl = `https://api.allorigins.win/get?url=${encodeURIComponent('http://static.cricinfo.com/rss/livescores.xml')}`;
@@ -180,9 +165,7 @@
                 if (items.length > 0) {
                     document.getElementById('live-score').innerText = "🏏 " + items[0].querySelector("title").textContent;
                 }
-            } catch (error) {
-                document.getElementById('live-score').innerText = "🏏 Scores temporarily unavailable.";
-            }
+            } catch (error) {}
         }
         fetchLiveScores();
         setInterval(fetchLiveScores, 60000); 
