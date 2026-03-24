@@ -1,5 +1,29 @@
 [
     {
+        "id": "2e4209a7",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Modi Warns Parliament: Conflicts Pose Unprecedented Challenges for India",
+                "content": "Prime Minister Modi told Parliament that global conflicts are creating unprecedented challenges for India. He stressed the need for strategic resilience and national unity to navigate the complex geopolitical landscape. Modi emphasized strengthening defense and diplomatic efforts to protect India's interests amidst rising tensions, affirming the nation's commitment to peace while remaining prepared for all scenarios."
+            },
+            "kn": {
+                "title": "ಮೋದಿ ಸಂಸತ್ತಿಗೆ ಎಚ್ಚರಿಕೆ: ಸಂಘರ್ಷಗಳು ಭಾರತಕ್ಕೆ ಅಭೂತಪೂರ್ವ ಸವಾಲುಗಳನ್ನು ಒಡ್ಡುತ್ತವೆ",
+                "content": "ಪ್ರಧಾನಿ ಮೋದಿ ಸಂಸತ್ತಿನಲ್ಲಿ ಮಾತನಾಡಿ, ಜಾಗತಿಕ ಸಂಘರ್ಷಗಳು ಭಾರತಕ್ಕೆ ಅಭೂತಪೂರ್ವ ಸವಾಲುಗಳನ್ನು ಸೃಷ್ಟಿಸುತ್ತಿವೆ ಎಂದು ತಿಳಿಸಿದರು. ಸಂಕೀರ್ಣ ಭೂರಾಜಕೀಯ ಸನ್ನಿವೇಶವನ್ನು ನಿಭಾಯಿಸಲು ಆಯಕಟ್ಟಿನ ಸ್ಥಿತಿಸ್ಥಾಪಕತ್ವ ಮತ್ತು ರಾಷ್ಟ್ರೀಯ ಏಕತೆಯ ಅಗತ್ಯವನ್ನು ಅವರು ಒತ್ತಿ ಹೇಳಿದರು. ಹೆಚ್ಚುತ್ತಿರುವ ಉದ್ವಿಗ್ನತೆಯ ನಡುವೆ ಭಾರತದ ಹಿತಾಸಕ್ತಿಗಳನ್ನು ರಕ್ಷಿಸಲು ರಕ್ಷಣೆ ಮತ್ತು ರಾಜತಾಂತ್ರಿಕ ಪ್ರಯತ್ನಗಳನ್ನು ಬಲಪಡಿಸುವಂತೆ ಮೋದಿ ಹೇಳಿದರು, ಶಾಂತಿಗೆ ರಾಷ್ಟ್ರದ ಬದ್ಧತೆಯನ್ನು ದೃಢಪಡಿಸಿದರು ಆದರೆ ಎಲ್ಲಾ ಸನ್ನಿವೇಶಗಳಿಗೂ ಸಿದ್ಧವಾಗಿರಲು ತಿಳಿಸಿದರು."
+            },
+            "mr": {
+                "title": "मोदींचा संसदेत इशारा: संघर्ष भारतासमोर अभूतपूर्व आव्हाने उभे करतात",
+                "content": "पंतप्रधान मोदींनी संसदेत सांगितले की, जागतिक संघर्ष भारतासमोर अभूतपूर्व आव्हाने निर्माण करत आहेत. त्यांनी जटिल भू-राजकीय परिस्थितीला तोंड देण्यासाठी धोरणात्मक लवचिकता आणि राष्ट्रीय एकतेची गरज यावर भर दिला. वाढत्या तणावांमध्ये भारताच्या हिताचे रक्षण करण्यासाठी संरक्षण आणि राजनैतिक प्रयत्न बळकट करण्यावर मोदींनी भर दिला, तसेच शांततेसाठी देशाची कटिबद्धता आणि कोणत्याही परिस्थितीसाठी सज्ज राहण्याचे आश्वासन दिले."
+            },
+            "hi": {
+                "title": "मोदी की संसद को चेतावनी: संघर्ष भारत के लिए अभूतपूर्व चुनौतियाँ पैदा करते हैं",
+                "content": "प्रधानमंत्री मोदी ने संसद में कहा कि वैश्विक संघर्ष भारत के लिए अभूतपूर्व चुनौतियाँ पैदा कर रहे हैं। उन्होंने जटिल भू-राजनीतिक परिदृश्य से निपटने के लिए रणनीतिक लचीलेपन और राष्ट्रीय एकता की आवश्यकता पर जोर दिया। मोदी ने बढ़ते तनावों के बीच भारत के हितों की रक्षा के लिए रक्षा और कूटनीतिक प्रयासों को मजबूत करने पर बल दिया, राष्ट्र की शांति के प्रति प्रतिबद्धता की पुष्टि करते हुए सभी परिदृश्यों के लिए तैयार रहने की बात कही।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVVNTYldlV3Z1djZtTUFKRHZOekd1cEVITE91eEM5eVFMOXVLdC01Vm9lS1hUalNLbVVaWHNXclJ5MWs4UmlRUzFkSVYxMkZTdTJIVGFkUS1HX0dOMVR1d2xIbEY5c3lpNVRWZ0NZNkJTRW1jbjZUS0hvcXR2V2J0T0Q0dFZfRS1jS3Q2aWEwMG1xZmlneEI4Ynl2V1JOazdnLTdZdnFEZHh5RGZ5MEsweWU1ajVDUkxyUEFKRzBTVHhvZlNXcW5CTy1OMjg5Mm1iMDZ5ZtIB2gFBVV95cUxQdGt3QVhMcmVnQVZRTEpsQlJEaU1fZnBzcUhCdlF5Y3d5T0dWZlZndzBpODRJTWE3cUo2WmNYREVfbWI4YkE5YzBXQWZJU2pDeS1UQXhRRmQxX2NoZDdrNDAwb01YM3RZX1NURF8wcTlfTGhmbmJSM0pteEt4MGNrc2JQWEFTbzRldTdPeDhudFBRdlRuS3RvQjluYTZjNmxCQTUybVdkWmVRX1pHaUdtVEFzX0g0MDRGT0VrUXN1Yi1KVVc3VUpWemwzeWFwaDNRS2FGZWJZWFVlZw?oc=5"
+    },
+    {
         "id": "873aa7e5",
         "category": "Belagavi Politics",
         "translations": {
