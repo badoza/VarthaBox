@@ -1,5 +1,53 @@
 [
     {
+        "id": "b7b71994",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Puducherry Polls: CM vs. Ex-CM Showdown",
+                "content": "Puducherry's Thattanchavady constituency is witnessing a high-stakes battle in the ongoing assembly polls. Current Chief Minister N. Rangasamy faces a formidable challenge from former Chief Minister V. Vaithilingam. This much-anticipated electoral clash between two seasoned political heavyweights promises an intense contest, making Thattanchavady a focal point in the Puducherry elections."
+            },
+            "kn": {
+                "title": "ಪುದುಚೇರಿ ಚುನಾವಣೆ: ಮುಖ್ಯಮಂತ್ರಿ ಮತ್ತು ಮಾಜಿ ಮುಖ್ಯಮಂತ್ರಿಗಳ ನೇರ ಹಣಾಹಣಿ",
+                "content": "ಪುದುಚೇರಿಯ ತಟ್ಟಂಚಾವಡಿ ಕ್ಷೇತ್ರದಲ್ಲಿ ನಡೆಯುತ್ತಿರುವ ವಿಧಾನಸಭಾ ಚುನಾವಣೆಯಲ್ಲಿ ಭಾರಿ ಪೈಪೋಟಿ ನಡೆಯುತ್ತಿದೆ. ಹಾಲಿ ಮುಖ್ಯಮಂತ್ರಿ ಎನ್. ರಂಗಸ್ವಾಮಿ ಅವರಿಗೆ ಮಾಜಿ ಮುಖ್ಯಮಂತ್ರಿ ವಿ. ವೈತಿಲಿಂಗಂ ಅವರಿಂದ ಕಠಿಣ ಸವಾಲು ಎದುರಾಗಿದೆ. ಇಬ್ಬರು ಅನುಭವಿ ರಾಜಕೀಯ ಧುರೀಣರ ನಡುವಿನ ಈ ಬಹು ನಿರೀಕ್ಷಿತ ಚುನಾವಣಾ ಕದನವು ತೀವ್ರ ಸ್ಪರ್ಧೆಯನ್ನು ಭರವಸೆ ನೀಡುತ್ತದೆ, ಇದು ತಟ್ಟಂಚಾವಡಿಯನ್ನು ಪುದುಚೇರಿ ಚುನಾವಣೆಗಳಲ್ಲಿ ಪ್ರಮುಖ ಕೇಂದ್ರವನ್ನಾಗಿಸಿದೆ."
+            },
+            "mr": {
+                "title": "पुदुचेरी निवडणूक: मुख्यमंत्री विरुद्ध माजी मुख्यमंत्री संघर्ष",
+                "content": "पुदुचेरीतील थट्टंचवाडी मतदारसंघात सध्याच्या विधानसभा निवडणुकीत मोठी लढत पाहायला मिळत आहे. विद्यमान मुख्यमंत्री एन. रंगस्वामी यांच्यासमोर माजी मुख्यमंत्री व्ही. वैतिलिंगम यांचे मोठे आव्हान आहे. दोन अनुभवी राजकारण्यांमधील ही बहुप्रतीक्षित निवडणूक लढत तीव्र स्पर्धा देण्याचे वचन देते, ज्यामुळे थट्टंचवाडी पुदुचेरी निवडणुकीत एक महत्त्वाचे केंद्र बनले आहे."
+            },
+            "hi": {
+                "title": "पुदुचेरी चुनाव: मुख्यमंत्री बनाम पूर्व मुख्यमंत्री की जंग",
+                "content": "पुदुचेरी के थट्टंचवाड़ी निर्वाचन क्षेत्र में चल रहे विधानसभा चुनावों में एक हाई-स्टेक्स मुकाबला देखने को मिल रहा है। वर्तमान मुख्यमंत्री एन. रंगस्वामी को पूर्व मुख्यमंत्री वी. वैतिलिंगम से कड़ी चुनौती का सामना करना पड़ रहा है। दो अनुभवी राजनीतिक दिग्गजों के बीच यह बहुप्रतीक्षित चुनावी टकराव एक तीव्र प्रतिस्पर्धा का वादा करता है, जिससे थट्टंचवाड़ी पुदुचेरी चुनावों में एक महत्वपूर्ण केंद्र बन गया है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129772060,imgsize-43546.cms",
+        "link": "https://timesofindia.indiatimes.com/india/puducherry-assembly-polls-high-calibre-fight-in-thattanchavady-as-cm-rangasamy-takes-on-ex-cm-vaithilingam/articleshow/129772041.cms"
+    },
+    {
+        "id": "3b5b902e",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Kentucky Farmers Battle AI Giant in $26M Standoff",
+                "content": "Kentucky farmers are embroiled in a $26 million dispute with a 'shadowy AI giant,' claiming their land has historically fed the nation. The standoff highlights a tense battle over agricultural resources and the impact of artificial intelligence on traditional livelihoods. Farmers assert their deep connection to the land and the vital role they play, challenging the tech company's ambitions and potential displacement."
+            },
+            "kn": {
+                "title": "ಕೆಂಟಕಿ ರೈತರು $26M ಕಾದಾಟದಲ್ಲಿ AI ದೈತ್ಯನೊಂದಿಗೆ ಸೆಣಸಾಟ",
+                "content": "ಕೆಂಟಕಿ ರೈತರು 'ಅಪಾರದರ್ಶಕ AI ದೈತ್ಯ' ದೊಂದಿಗೆ $26 ಮಿಲಿಯನ್ ವಿವಾದದಲ್ಲಿ ಸಿಲುಕಿಕೊಂಡಿದ್ದಾರೆ, ತಮ್ಮ ಭೂಮಿ ಐತಿಹಾಸಿಕವಾಗಿ ರಾಷ್ಟ್ರಕ್ಕೆ ಆಹಾರ ನೀಡಿದೆ ಎಂದು ಪ್ರತಿಪಾದಿಸುತ್ತಿದ್ದಾರೆ. ಈ ಕಾದಾಟವು ಕೃಷಿ ಸಂಪನ್ಮೂಲಗಳು ಮತ್ತು ಕೃತಕ ಬುದ್ಧಿಮತ್ತೆಯು ಸಾಂಪ್ರದಾಯಿಕ ಜೀವನೋಪಾಯದ ಮೇಲೆ ಬೀರುವ ಪರಿಣಾಮದ ನಡುವಿನ ಉದ್ವಿಗ್ನ ಹೋರಾಟವನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ರೈತರು ಭೂಮಿಯೊಂದಿಗಿನ ತಮ್ಮ ಆಳವಾದ ಸಂಪರ್ಕ ಮತ್ತು ಅವರು ನಿರ್ವಹಿಸುವ ಮಹತ್ವದ ಪಾತ್ರವನ್ನು ಒತ್ತಿಹೇಳುತ್ತಾರೆ, ತಂತ್ರಜ್ಞಾನ ಕಂಪನಿಯ ಆಕಾಂಕ್ಷೆಗಳು ಮತ್ತು ಸಂಭವನೀಯ ಸ್ಥಳಾಂತರವನ್ನು ಪ್ರಶ್ನಿಸುತ್ತಾರೆ."
+            },
+            "mr": {
+                "title": "केंटकीचे शेतकरी $26 दशलक्ष वादात AI महाकाय कंपनीशी संघर्ष",
+                "content": "केंटकीचे शेतकरी एका 'अस्पष्ट AI महाकाय कंपनी' सोबत $26 दशलक्षच्या विवादात गुंतले आहेत, ते दावा करतात की त्यांच्या जमिनीने ऐतिहासिकदृष्ट्या देशाला अन्न पुरवले आहे. हा संघर्ष कृषी संसाधने आणि कृत्रिम बुद्धिमत्तेचा पारंपरिक उपजीविकेवर होणाऱ्या परिणामावरच्या तणावपूर्ण लढ्याला अधोरेखित करतो. शेतकरी जमिनीशी असलेले त्यांचे सखोल संबंध आणि त्यांची महत्त्वाची भूमिका यावर जोर देतात, तंत्रज्ञान कंपनीच्या महत्त्वाकांक्षा आणि संभाव्य विस्थापनाला आव्हान देतात."
+            },
+            "hi": {
+                "title": "केंटकी के किसान $26M विवाद में AI दिग्गज से संघर्ष",
+                "content": "केंटकी के किसान एक 'अस्पष्ट AI दिग्गज' के साथ $26 मिलियन के विवाद में उलझे हुए हैं, उनका दावा है कि उनकी जमीन ने ऐतिहासिक रूप से राष्ट्र को भोजन प्रदान किया है। यह गतिरोध कृषि संसाधनों और पारंपरिक आजीविका पर कृत्रिम बुद्धिमत्ता के प्रभाव को लेकर एक तनावपूर्ण लड़ाई को उजागर करता है। किसान भूमि के साथ अपने गहरे संबंध और अपनी महत्वपूर्ण भूमिका पर जोर देते हुए, तकनीकी कंपनी की महत्वाकांक्षाओं और संभावित विस्थापन को चुनौती दे रहे हैं।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129771064,imgsize-98846.cms",
+        "link": "https://timesofindia.indiatimes.com/world/us/fed-a-nation-off-of-it-inside-the-26m-standoff-between-kentucky-farmers-and-a-shadowy-ai-giant/articleshow/129771064.cms"
+    },
+    {
         "id": "c32c30b9",
         "category": "National",
         "translations": {
