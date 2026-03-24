@@ -1,5 +1,509 @@
 [
     {
+        "id": "ba227b66",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "SC Status Lost on Conversion Beyond Hinduism, Sikhism, Buddhism",
+                "content": "The Supreme Court has delivered a significant ruling: converting from Hinduism, Sikhism, or Buddhism to other faiths, such as Christianity, results in the loss of Scheduled Caste status. This absolute bar means individuals forfeit SC benefits and protections under the SC/ST Act, irrespective of birth. The ruling upholds an Andhra Pradesh High Court order."
+            },
+            "kn": {
+                "title": "ಇತರೆ ಧರ್ಮಗಳಿಗೆ ಮತಾಂತರ: ಎಸ್‌ಸಿ ಸ್ಥಾನಮಾನ ನಷ್ಟ – ಸುಪ್ರೀಂ ಕೋರ್ಟ್",
+                "content": "ಸುಪ್ರೀಂ ಕೋರ್ಟ್ ಮಹತ್ವದ ತೀರ್ಪು ನೀಡಿದೆ: ಹಿಂದೂ, ಸಿಖ್ ಅಥವಾ ಬೌದ್ಧ ಧರ್ಮಗಳಿಂದ ಕ್ರಿಶ್ಚಿಯನ್ ಧರ್ಮದಂತಹ ಇತರ ಧರ್ಮಗಳಿಗೆ ಮತಾಂತರಗೊಳ್ಳುವುದು ಪರಿಶಿಷ್ಟ ಜಾತಿ ಸ್ಥಾನಮಾನವನ್ನು ಕಳೆದುಕೊಳ್ಳಲು ಕಾರಣವಾಗುತ್ತದೆ. ಈ ಸಂಪೂರ್ಣ ನಿಷೇಧ ಎಂದರೆ ವ್ಯಕ್ತಿಗಳು ಜನ್ಮವನ್ನು ಲೆಕ್ಕಿಸದೆ ಪರಿಶಿಷ್ಟ ಜಾತಿ ಸೌಲಭ್ಯಗಳು ಮತ್ತು ಎಸ್‌ಸಿ/ಎಸ್‌ಟಿ ಕಾಯಿದೆಯ ಅಡಿಯಲ್ಲಿನ ರಕ್ಷಣೆಗಳನ್ನು ಕಳೆದುಕೊಳ್ಳುತ್ತಾರೆ. ಈ ತೀರ್ಪು ಆಂಧ್ರಪ್ರದೇಶ ಹೈಕೋರ್ಟ್ ಆದೇಶವನ್ನು ಎತ್ತಿಹಿಡಿದಿದೆ."
+            },
+            "mr": {
+                "title": "इतर धर्मांतरावर अनुसूचित जातीचा दर्जा रद्द: सर्वोच्च न्यायालय",
+                "content": "सर्वोच्च न्यायालयाने एक महत्त्वाचा निकाल दिला आहे: हिंदू, शीख किंवा बौद्ध धर्मातून ख्रिश्चन धर्मासारख्या इतर पंथांमध्ये धर्मांतर केल्यास अनुसूचित जातीचा (SC) दर्जा गमावला जातो. या पूर्ण निर्बंधामुळे व्यक्तींना जन्माची पर्वा न करता SC फायदे आणि SC/ST कायद्यांतर्गत संरक्षण सोडावे लागते. या निकालाने आंध्र प्रदेश उच्च न्यायालयाचा आदेश कायम ठेवला आहे."
+            },
+            "hi": {
+                "title": "अन्य धर्मों में धर्मांतरण पर एससी दर्जा समाप्त: सुप्रीम कोर्ट",
+                "content": "सुप्रीम कोर्ट ने एक महत्वपूर्ण फैसला सुनाया है: हिंदू, सिख या बौद्ध धर्म से ईसाई धर्म जैसे अन्य धर्मों में परिवर्तित होने पर अनुसूचित जाति (SC) का दर्जा समाप्त हो जाता है। यह पूर्ण प्रतिबंध का अर्थ है कि व्यक्ति जन्म की परवाह किए बिना एससी लाभ और एससी/एसटी अधिनियम के तहत सुरक्षा खो देते हैं। इस फैसले ने आंध्र प्रदेश उच्च न्यायालय के आदेश को बरकरार रखा है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129769639,imgsize-815877.cms",
+        "link": "https://timesofindia.indiatimes.com/india/no-scheduled-caste-status-on-conversion-to-religions-other-than-hinduism-sikhism-or-buddhism-supreme-court/articleshow/129769450.cms"
+    },
+    {
+        "id": "cb1a4f4d",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "LJP MP's 'Qawwali' Swipe at Opposition Goes Viral",
+                "content": "LJP MP Shambhavi Choudhary captivated the Lok Sabha with a 'qawwali' style speech, delivering a sharp, musical swipe at the opposition. Her unique parliamentary performance, blending tradition with political commentary, quickly went viral, showcasing an unconventional approach to debate and drawing widespread attention."
+            },
+            "kn": {
+                "title": "ಎಲ್‌ಜೆಪಿ ಸಂಸದೆ 'ಕವ್ವಾಲಿ' ಶೈಲಿಯಲ್ಲಿ ವಿರೋಧ ಪಕ್ಷದ ಮೇಲೆ ವಾಗ್ದಾಳಿ: ವೈರಲ್",
+                "content": "ಎಲ್‌ಜೆಪಿ ಸಂಸದೆ ಶಾಂಭವಿ ಚೌಧರಿ ಲೋಕಸಭೆಯಲ್ಲಿ 'ಕವ್ವಾಲಿ' ಶೈಲಿಯ ಭಾಷಣದ ಮೂಲಕ ಗಮನ ಸೆಳೆದರು. ವಿರೋಧ ಪಕ್ಷದ ವಿರುದ್ಧ ತೀಕ್ಷ್ಣವಾದ, ಸಂಗೀತಮಯ ವಾಗ್ದಾಳಿ ನಡೆಸಿದರು. ಸಂಪ್ರದಾಯ ಮತ್ತು ರಾಜಕೀಯ ವ್ಯಾಖ್ಯಾನವನ್ನು ಮಿಶ್ರಣ ಮಾಡಿದ ಅವರ ಅಸಾಂಪ್ರದಾಯಿಕ ಸಂಸದೀಯ ಪ್ರದರ್ಶನವು ತಕ್ಷಣವೇ ವೈರಲ್ ಆಯಿತು. ಇದು ಚರ್ಚೆಗೆ ಒಂದು ವಿಶಿಷ್ಟ ವಿಧಾನವನ್ನು ಪ್ರದರ್ಶಿಸಿ ವ್ಯಾಪಕ ಗಮನ ಸೆಳೆಯಿತು."
+            },
+            "mr": {
+                "title": "एलजेपी खासदारांचा विरोधकांवर 'कव्वाली' शैलीत हल्ला; व्हायरल",
+                "content": "एलजेपी खासदार शांभवी चौधरी यांनी लोकसभेत 'कव्वाली' शैलीतील भाषणाने सभागृहाचे लक्ष वेधून घेतले. त्यांनी विरोधकांवर संगीतमय, जोरदार हल्ला चढवला. परंपरा आणि राजकीय भाष्य यांचा मिलाफ साधणारा त्यांचा हा अनोखा संसदीय प्रयोग तातडीने व्हायरल झाला. याने चर्चेसाठी एक अपारंपरिक दृष्टिकोन दाखवला आणि व्यापक लक्ष वेधून घेतले."
+            },
+            "hi": {
+                "title": "एलजेपी सांसद का विपक्ष पर 'कव्वाली' अंदाज़ में कटाक्ष, हुआ वायरल",
+                "content": "एलजेपी सांसद शांभवी चौधरी ने लोकसभा में 'कव्वाली' शैली में भाषण देकर सबका ध्यान खींचा. उन्होंने विपक्ष पर एक तीखा, संगीतमय कटाक्ष किया. परंपरा और राजनीतिक टिप्पणी को मिलाकर उनका यह अनोखा संसदीय प्रदर्शन तुरंत वायरल हो गया. इसने बहस का एक अपरंपरागत तरीका दिखाया और व्यापक ध्यान आकर्षित किया."
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129769492,imgsize-154416.cms",
+        "link": "https://timesofindia.indiatimes.com/india/watch-ljp-mp-shambhavi-choudharys-dhurandhar-qawwali-swipe-at-opposition-in-lok-sabha/articleshow/129768701.cms"
+    },
+    {
+        "id": "0f5cfaf9",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "SC Slams Bias in Women Officers' PC Evaluations",
+                "content": "The Supreme Court has slammed significant bias in evaluating women officers for Permanent Commission (PC). Observing that their Annual Confidential Reports (ACRs) were often casually assessed, the SC bench noted a presumption against their career progression. This prejudiced evaluation 'adversely affected overall merit,' undermining women officers' chances for securing a Permanent Commission in the armed forces."
+            },
+            "kn": {
+                "title": "ಸುಪ್ರೀಂ ಕೋರ್ಟ್ ಮಹಿಳಾ ಅಧಿಕಾರಿಗಳ ಪಿಸಿ ಮೌಲ್ಯಮಾಪನದಲ್ಲಿನ ಪಕ್ಷಪಾತವನ್ನು ಖಂಡಿಸಿದೆ",
+                "content": "ಮಹಿಳಾ ಅಧಿಕಾರಿಗಳಿಗೆ ಕಾಯಂ ಕಮಿಷನ್ (PC) ಮೌಲ್ಯಮಾಪನದಲ್ಲಿನ ಪಕ್ಷಪಾತವನ್ನು ಸುಪ್ರೀಂ ಕೋರ್ಟ್ ತೀವ್ರವಾಗಿ ಖಂಡಿಸಿದೆ. ಅವರ ವಾರ್ಷಿಕ ಗೌಪ್ಯ ವರದಿಗಳನ್ನು (ACRs) ಸಾಮಾನ್ಯವಾಗಿ ಕ್ಯಾಶುಯಲ್ ಆಗಿ ಮೌಲ್ಯಮಾಪನ ಮಾಡಲಾಗಿದ್ದು, ವೃತ್ತಿ ಪ್ರಗತಿಯ ವಿರುದ್ಧ ಊಹೆ ಇತ್ತು ಎಂದು ಪೀಠ ಗಮನಿಸಿದೆ. ಈ ಪೂರ್ವಗ್ರಹ ಪೀಡಿತ ಮೌಲ್ಯಮಾಪನವು 'ಒಟ್ಟಾರೆ ಅರ್ಹತೆಯನ್ನು ಪ್ರತಿಕೂಲವಾಗಿ ಪರಿಣಾಮ ಬೀರಿದೆ', ಮಹಿಳಾ ಅಧಿಕಾರಿಗಳ ಕಾಯಂ ಕಮಿಷನ್ ಅವಕಾಶಗಳನ್ನು ಕುಗ್ಗಿಸಿದೆ."
+            },
+            "mr": {
+                "title": "महिला अधिकाऱ्यांच्या कायमस्वरूपी आयोगाच्या (PC) मूल्यांकनातील पक्षपाताबद्दल सर्वोच्च न्यायालयाचा तीव्र शब्दांत निषेध",
+                "content": "कायमस्वरूपी आयोगासाठी (PC) महिला अधिकाऱ्यांच्या मूल्यांकनातील मोठ्या पक्षपाताबद्दल सर्वोच्च न्यायालयाने तीव्र टीका केली आहे. त्यांचे वार्षिक गोपनीय अहवाल (ACRs) अनेकदा निष्काळजीपणे तपासले जात आणि करिअर प्रगतीबद्दल पूर्वग्रहदूषित विचार होता, असे खंडपीठाने नमूद केले. या पक्षपाती मूल्यांकनाने 'एकूण गुणवत्तेवर विपरीत परिणाम' केला, ज्यामुळे महिला अधिकाऱ्यांच्या कायमस्वरूपी आयोगात स्थान मिळण्याची शक्यता कमी झाली."
+            },
+            "hi": {
+                "title": "एससी ने महिला अधिकारियों के स्थायी कमीशन मूल्यांकन में पक्षपात की निंदा की",
+                "content": "सुप्रीम कोर्ट ने महिला अधिकारियों के स्थायी कमीशन (PC) मूल्यांकन में बड़े पक्षपात की कड़ी निंदा की है। कोर्ट ने पाया कि उनकी वार्षिक गोपनीय रिपोर्ट (ACRs) को अक्सर लापरवाही से आंका जाता था और करियर प्रगति के खिलाफ एक धारणा थी। इस पक्षपातपूर्ण मूल्यांकन ने 'कुल योग्यता को प्रतिकूल रूप से प्रभावित' किया, जिससे महिला अधिकारियों के स्थायी कमीशन पाने के अवसर कम हो गए।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129768873,imgsize-95378.cms",
+        "link": "https://timesofindia.indiatimes.com/india/adversely-affected-overall-merit-sc-slams-bias-in-evaluating-women-officers-for-permanent-commission/articleshow/129768386.cms"
+    },
+    {
+        "id": "f5bb566d",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "India Cracks Down on GLP-1 Weight-Loss Drug Sales",
+                "content": "India's government is tightening oversight on GLP-1 weight-loss drugs like Ozempic, driven by rising concerns over unauthorized sales and misuse. This crackdown aims to ensure responsible dispensing, mitigate public health risks from uncontrolled availability, and protect consumers. The move underscores strict regulatory compliance for these powerful pharmaceuticals, safeguarding public health and preventing misuse."
+            },
+            "kn": {
+                "title": "ಭಾರತದಲ್ಲಿ GLP-1 ತೂಕ ಇಳಿಸುವ ಔಷಧಿಗಳ ಮಾರಾಟದ ಮೇಲೆ ನಿಗಾ",
+                "content": "ಅನಧಿಕೃತ ಮಾರಾಟ ಮತ್ತು ದುರುಪಯೋಗದ ಹೆಚ್ಚುತ್ತಿರುವ ಕಳವಳಗಳ ನಡುವೆ ಭಾರತ ಸರ್ಕಾರವು ಓಝೆಮ್ಪಿಕ್‌ನಂತಹ GLP-1 ತೂಕ ಇಳಿಸುವ ಔಷಧಿಗಳ ಮೇಲೆ ನಿಗಾ ಇಡುತ್ತಿದೆ. ಈ ಕ್ರಮವು ಜವಾಬ್ದಾರಿಯುತ ವಿತರಣೆಯನ್ನು ಖಚಿತಪಡಿಸುವುದು, ಅನಿಯಂತ್ರಿತ ಲಭ್ಯತೆಯಿಂದ ಸಾರ್ವಜನಿಕ ಆರೋಗ್ಯ ಅಪಾಯಗಳನ್ನು ಕಡಿಮೆ ಮಾಡುವುದು ಮತ್ತು ಗ್ರಾಹಕರನ್ನು ರಕ್ಷಿಸುವ ಗುರಿ ಹೊಂದಿದೆ. ಈ ಶಕ್ತಿಯುತ ಔಷಧಿಗಳಿಗಾಗಿ ಕಟ್ಟುನಿಟ್ಟಾದ ನಿಯಂತ್ರಕ ಅನುಸರಣೆಯನ್ನು ಇದು ಒತ್ತಿಹೇಳುತ್ತದೆ, ಸಾರ್ವಜನಿಕ ಆರೋಗ್ಯವನ್ನು ರಕ್ಷಿಸುತ್ತದೆ ಮತ್ತು ದುರುಪಯೋಗವನ್ನು ತಡೆಯುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "भारतात GLP-1 वजन कमी करणाऱ्या औषधांच्या विक्रीवर सरकारची करडी नजर",
+                "content": "अनधिकृत विक्री आणि गैरवापराच्या वाढत्या चिंतेमुळे भारत सरकारने ओझेम्पिकसारख्या GLP-1 वजन कमी करणाऱ्या औषधांवर देखरेख वाढवली आहे. या कारवाईचा उद्देश जबाबदार वितरण सुनिश्चित करणे, अनियंत्रित उपलब्धतेमुळे होणारे सार्वजनिक आरोग्य धोके कमी करणे आणि ग्राहकांचे संरक्षण करणे आहे. हे पाऊल या शक्तिशाली औषधांसाठी कठोर नियामक अनुपालनावर भर देते, सार्वजनिक आरोग्याचे रक्षण करते आणि गैरवापर टाळते."
+            },
+            "hi": {
+                "title": "भारत में GLP-1 वजन घटाने वाली दवाओं की बिक्री पर सरकार की कड़ी कार्रवाई",
+                "content": "अनधिकृत बिक्री और दुरुपयोग की बढ़ती चिंताओं के कारण भारत सरकार ओजेम्पिक जैसी GLP-1 वजन घटाने वाली दवाओं पर निगरानी बढ़ा रही है। इस कार्रवाई का उद्देश्य जिम्मेदार वितरण सुनिश्चित करना, अनियंत्रित उपलब्धता से होने वाले सार्वजनिक स्वास्थ्य जोखिमों को कम करना और उपभोक्ताओं की सुरक्षा करना है। यह कदम इन शक्तिशाली फार्मास्यूटिकल्स के लिए सख्त नियामक अनुपालन पर जोर देता है, सार्वजनिक स्वास्थ्य की रक्षा करता है और दुरुपयोग को रोकता है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129767740,imgsize-63492.cms",
+        "link": "https://timesofindia.indiatimes.com/india/govt-tightens-watch-on-glp-1-weight-loss-drugs-amid-concerns-over-unauthorised-sales/articleshow/129767740.cms"
+    },
+    {
+        "id": "fb7bbe5a",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "India Flags Unapproved Drug Combos: Public Safety Alert",
+                "content": "India's health authorities are sounding the alarm over unapproved fixed-dose drug combinations (FDCs) circulating in the market. The Centre has flagged these drugs, highlighting significant safety concerns and potential health risks to consumers. This move aims to ensure patient safety and push for stricter adherence to drug approval protocols, safeguarding public health from potentially harmful pharmaceutical concoctions."
+            },
+            "kn": {
+                "title": "ಭಾರತವು ಅನುಮೋದಿತವಲ್ಲದ ಔಷಧ ಸಂಯೋಜನೆಗಳಿಗೆ ಎಚ್ಚರಿಕೆ: ಸಾರ್ವಜನಿಕ ಸುರಕ್ಷತಾ ಎಚ್ಚರಿಕೆ",
+                "content": "ಭಾರತದ ಆರೋಗ್ಯ ಪ್ರಾಧಿಕಾರಗಳು ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ಚಲಾವಣೆಯಲ್ಲಿರುವ ಅನುಮೋದಿತವಲ್ಲದ ಸ್ಥಿರ-ಡೋಸ್ ಔಷಧ ಸಂಯೋಜನೆಗಳ (FDCs) ಬಗ್ಗೆ ಎಚ್ಚರಿಕೆ ನೀಡಿವೆ. ಕೇಂದ್ರವು ಈ ಔಷಧಿಗಳನ್ನು ಗುರುತಿಸಿದ್ದು, ಪ್ರಮುಖ ಸುರಕ್ಷತಾ ಕಳವಳಗಳು ಮತ್ತು ಗ್ರಾಹಕರಿಗೆ ಸಂಭವನೀಯ ಆರೋಗ್ಯ ಅಪಾಯಗಳನ್ನು ಎತ್ತಿ ತೋರಿಸಿದೆ. ಈ ಕ್ರಮವು ರೋಗಿಗಳ ಸುರಕ್ಷತೆಯನ್ನು ಖಚಿತಪಡಿಸುವುದು ಮತ್ತು ಔಷಧ ಅನುಮೋದನೆ ಪ್ರೋಟೋಕಾಲ್‌ಗಳಿಗೆ ಕಟ್ಟುನಿಟ್ಟಾದ ಅನುಸರಣೆಯನ್ನು ಉತ್ತೇಜಿಸುವ ಗುರಿಯನ್ನು ಹೊಂದಿದೆ, ಇದರಿಂದ ಸಾರ್ವಜನಿಕ ಆರೋಗ್ಯವನ್ನು ಸಂಭಾವ್ಯ ಹಾನಿಕಾರಕ ಔಷಧ ಮಿಶ್ರಣಗಳಿಂದ ರಕ್ಷಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "भारताने अननुमोदित औषध संयोजनांना झेंडा दाखवला: सार्वजनिक सुरक्षिततेचा इशारा",
+                "content": "भारतातील आरोग्य प्राधिकरणांनी बाजारात फिरणाऱ्या अननुमोदित फिक्स्ड-डोस औषध संयोजनांबद्दल (FDCs) धोक्याची घंटा वाजवली आहे. केंद्राने या औषधांना सूचित केले असून, महत्त्वपूर्ण सुरक्षिततेच्या चिंता आणि ग्राहकांसाठी संभाव्य आरोग्य धोके अधोरेखित केले आहेत. या उपायाचा उद्देश रुग्णांची सुरक्षा सुनिश्चित करणे आणि औषध मान्यता प्रोटोकॉलचे कठोर पालन करण्यास प्रोत्साहन देणे, तसेच संभाव्य हानिकारक औषधी मिश्रणांपासून सार्वजनिक आरोग्याचे रक्षण करणे आहे."
+            },
+            "hi": {
+                "title": "भारत ने अस्वीकृत दवा संयोजनों पर चिंता जताई: सार्वजनिक सुरक्षा चेतावनी",
+                "content": "भारत के स्वास्थ्य अधिकारियों ने बाजार में चल रहे अस्वीकृत फिक्स्ड-डोज दवा संयोजनों (FDCs) पर चिंता व्यक्त की है। केंद्र ने इन दवाओं को चिह्नित करते हुए महत्वपूर्ण सुरक्षा चिंताओं और उपभोक्ताओं के लिए संभावित स्वास्थ्य जोखिमों पर प्रकाश डाला है। इस कदम का उद्देश्य रोगी सुरक्षा सुनिश्चित करना और दवा अनुमोदन प्रोटोकॉल का कड़ाई से पालन करने को बढ़ावा देना है, जिससे सार्वजनिक स्वास्थ्य को संभावित हानिकारक दवा मिश्रणों से बचाया जा सके।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129767545,imgsize-442356.cms",
+        "link": "https://timesofindia.indiatimes.com/india/centre-flags-unapproved-drug-combinations-raises-safety-concerns/articleshow/129767510.cms"
+    },
+    {
+        "id": "e3484ba5",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Congress Slams PM Modi's 'One-Way' Middle East Speech",
+                "content": "Congress MP Sukhdeo Bhagat criticized PM Modi's recent parliamentary address on the West Asia conflict. Bhagat alleged the speech was a 'one-way communication,' lacking scope for discussion on the critical issue. He emphasized the need for a comprehensive and open dialogue instead of a monologue."
+            },
+            "kn": {
+                "title": "ಕಾಂಗ್ರೆಸ್ PM ಮೋದಿ ಅವರ 'ಏಕಮುಖ' ಮಧ್ಯಪ್ರಾಚ್ಯ ಭಾಷಣವನ್ನು ಟೀಕಿಸಿದೆ",
+                "content": "ಕಾಂಗ್ರೆಸ್ ಸಂಸದ ಸುಖದೇವ್ ಭಗತ್ ಅವರು ಪಶ್ಚಿಮ ಏಷ್ಯಾ ಸಂಘರ್ಷದ ಕುರಿತು ಪ್ರಧಾನಿ ಮೋದಿ ಅವರ ಇತ್ತೀಚಿನ ಸಂಸದೀಯ ಭಾಷಣವನ್ನು ಟೀಕಿಸಿದರು. ಭಗತ್ ಅವರು ಈ ಭಾಷಣವು 'ಏಕಮುಖ ಸಂವಹನ' ಆಗಿದ್ದು, ನಿರ್ಣಾಯಕ ವಿಷಯದ ಬಗ್ಗೆ ಚರ್ಚೆಗೆ ಅವಕಾಶವಿಲ್ಲ ಎಂದು ಆರೋಪಿಸಿದರು. ಅವರು ಏಕಭಾಷಣದ ಬದಲಿಗೆ ಸಮಗ್ರ ಮತ್ತು ಮುಕ್ತ ಸಂವಾದದ ಅಗತ್ಯವನ್ನು ಒತ್ತಿ ಹೇಳಿದರು."
+            },
+            "mr": {
+                "title": "काँग्रेसने PM मोदींच्या 'एकतर्फी' मध्य पूर्व भाषणावर टीका केली",
+                "content": "काँग्रेस खासदार सुखदेव भगत यांनी पश्चिम आशिया संघर्षावर पंतप्रधान मोदींच्या अलीकडील संसदीय भाषणावर टीका केली. भगत यांनी आरोप केला की हे भाषण 'एकतर्फी संवाद' होते आणि गंभीर मुद्द्यावर चर्चेला वाव नव्हता. त्यांनी एका निवेदनाच्या ऐवजी सर्वसमावेशक आणि खुल्या संवादाची गरज अधोरेखित केली."
+            },
+            "hi": {
+                "title": "कांग्रेस ने PM मोदी के 'एकतरफा' मध्य पूर्व भाषण की निंदा की",
+                "content": "कांग्रेस सांसद सुखदेव भगत ने पश्चिम एशिया संघर्ष पर प्रधानमंत्री मोदी के हालिया संसदीय संबोधन की आलोचना की. भगत ने आरोप लगाया कि यह भाषण 'एकतरफा संवाद' था, जिसमें गंभीर मुद्दे पर चर्चा की कोई गुंजाइश नहीं थी. उन्होंने एकालाप के बजाय एक व्यापक और खुले संवाद की आवश्यकता पर जोर दिया."
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129767267,imgsize-27758.cms",
+        "link": "https://timesofindia.indiatimes.com/india/congress-mp-sukhdeo-bhagat-slams-pm-modis-one-way-address-on-west-asia-conflict/articleshow/129766883.cms"
+    },
+    {
+        "id": "0cf70982",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Gopinath: Geopolitics Shapes Global Policy",
+                "content": "Economist Gita Gopinath asserts geopolitics is an inescapable, permanent force dictating global policy. She highlights its constant influence on international relations, trade, and economic strategies, urging nations to always factor in geopolitical realities. Her insight emphasizes the intricate, unchanging link between power dynamics and worldwide governance, essential for crafting effective global approaches."
+            },
+            "kn": {
+                "title": "ಗೋಪಿನಾಥ್: ಭೂರಾಜಕೀಯ ಜಾಗತಿಕ ನೀತಿ ರೂಪಿಸುತ್ತದೆ",
+                "content": "ಅರ್ಥಶಾಸ್ತ್ರಜ್ಞೆ ಗೀತಾ ಗೋಪಿನಾಥ್ ಭೂರಾಜಕೀಯವು ಜಾಗತಿಕ ನೀತಿಯನ್ನು ನಿರ್ದೇಶಿಸುವ ಅನಿವಾರ್ಯ, ಶಾಶ್ವತ ಶಕ್ತಿ ಎಂದು ಪ್ರತಿಪಾದಿಸುತ್ತಾರೆ. ಇದು ಅಂತರರಾಷ್ಟ್ರೀಯ ಸಂಬಂಧಗಳು, ವ್ಯಾಪಾರ ಮತ್ತು ಆರ್ಥಿಕ ಕಾರ್ಯತಂತ್ರಗಳ ಮೇಲೆ ನಿರಂತರ ಪ್ರಭಾವ ಬೀರುತ್ತದೆ, ರಾಷ್ಟ್ರಗಳು ಯಾವಾಗಲೂ ಭೂರಾಜಕೀಯ ವಾಸ್ತವಗಳನ್ನು ಗಣನೆಗೆ ತೆಗೆದುಕೊಳ್ಳುವಂತೆ ಒತ್ತಾಯಿಸುತ್ತದೆ. ಅವರ ಒಳನೋಟವು ಅಧಿಕಾರದ ಡೈನಾಮಿಕ್ಸ್ ಮತ್ತು ವಿಶ್ವಾದ್ಯಂತ ಆಡಳಿತದ ನಡುವಿನ ಜಟಿಲ, ಬದಲಾಗದ ಸಂಪರ್ಕವನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ, ಪರಿಣಾಮಕಾರಿ ಜಾಗತಿಕ ವಿಧಾನಗಳನ್ನು ರೂಪಿಸಲು ಅವಶ್ಯಕವಾಗಿದೆ."
+            },
+            "mr": {
+                "title": "गोपीनाथ: भूराजकारण जागतिक धोरण ठरवते",
+                "content": "अर्थतज्ज्ञ गीता गोपीनाथ यांच्या मते, भूराजकारण ही जागतिक धोरणे ठरवणारी एक अपरिहार्य, कायमस्वरूपी शक्ती आहे. आंतरराष्ट्रीय संबंध, व्यापार आणि आर्थिक धोरणांवर याचा सततचा प्रभाव असतो, त्यामुळे राष्ट्रांनी भूराजकीय वास्तवांचा नेहमी विचार करावा असे त्या आवाहन करतात. त्यांचे मत सत्ता समीकरणे आणि जागतिक प्रशासनामधील गुंतागुंतीचा, न बदलणारा दुवा दर्शवते, जो प्रभावी जागतिक दृष्टिकोन तयार करण्यासाठी आवश्यक आहे."
+            },
+            "hi": {
+                "title": "गोपीनाथ: भू-राजनीति वैश्विक नीति तय करती है",
+                "content": "अर्थशास्त्री गीता गोपीनाथ का मानना है कि भू-राजनीति वैश्विक नीति निर्धारित करने वाली एक अपरिहार्य, स्थायी शक्ति है। वह अंतरराष्ट्रीय संबंधों, व्यापार और आर्थिक रणनीतियों पर इसके निरंतर प्रभाव को उजागर करती हैं, राष्ट्रों से हमेशा भू-राजनीतिक वास्तविकताओं को ध्यान में रखने का आग्रह करती हैं। उनकी यह अंतर्दृष्टि सत्ता की गतिशीलता और विश्वव्यापी शासन के बीच के जटिल, अपरिवर्तनीय संबंध पर जोर देती है, जो प्रभावी वैश्विक दृष्टिकोणों के लिए आवश्यक है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129766540,imgsize-1065519.cms",
+        "link": "https://timesofindia.indiatimes.com/india/geopolitics-is-a-permanent-force-in-global-policy-feels-economist-gita-gopinath/articleshow/129766562.cms"
+    },
+    {
+        "id": "bf6e00a8",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Hair Transplant Boom Spurs Call for National Safety Rules",
+                "content": "Following Tamil Nadu's regulatory move, doctors nationwide demand similar oversight for cosmetic clinics. The booming hair transplant industry, driven by social media trends, sparks safety concerns due to rising complications and unqualified practitioners. Dermatologists urge national guidelines to combat quackery and ensure patient safety with qualified experts and proper infrastructure."
+            },
+            "kn": {
+                "title": "ಹೇರ್ ಟ್ರಾನ್ಸ್‌ಪ್ಲಾಂಟ್ ಹೆಚ್ಚಳ; ರಾಷ್ಟ್ರೀಯ ಸುರಕ್ಷತಾ ನಿಯಮಗಳಿಗೆ ಕರೆ",
+                "content": "ತಮಿಳುನಾಡಿನ ನಿಯಂತ್ರಣ ಕ್ರಮದ ನಂತರ, ದೇಶಾದ್ಯಂತ ವೈದ್ಯರು ಕಾಸ್ಮೆಟಿಕ್ ಕ್ಲಿನಿಕ್‌ಗಳಿಗೆ ಇದೇ ರೀತಿಯ ಮೇಲ್ವಿಚಾರಣೆಯನ್ನು ಬಯಸಿದ್ದಾರೆ. ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮದ ಪ್ರವೃತ್ತಿಗಳಿಂದ ಪ್ರೇರಿತವಾದ, ಹೆಚ್ಚುತ್ತಿರುವ ಕೇಶ ಕಸಿ (ಹೇರ್ ಟ್ರಾನ್ಸ್‌ಪ್ಲಾಂಟ್) ಉದ್ಯಮವು ಹೆಚ್ಚುತ್ತಿರುವ ತೊಡಕುಗಳು ಮತ್ತು ಅನರ್ಹ ವೈದ್ಯರಿಂದ ಸುರಕ್ಷತೆಯ ಆತಂಕಗಳನ್ನು ಹುಟ್ಟುಹಾಕಿದೆ. ನಕಲಿ ವೈದ್ಯರನ್ನು ತಡೆಗಟ್ಟಲು ಮತ್ತು ಅರ್ಹ ತಜ್ಞರು ಹಾಗೂ ಸೂಕ್ತ ಮೂಲಸೌಕರ್ಯದೊಂದಿಗೆ ರೋಗಿಗಳ ಸುರಕ್ಷತೆಯನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು ಚರ್ಮರೋಗ ತಜ್ಞರು ರಾಷ್ಟ್ರೀಯ ಮಾರ್ಗಸೂಚಿಗಳನ್ನು ಒತ್ತಾಯಿಸಿದ್ದಾರೆ."
+            },
+            "mr": {
+                "title": "हेअर ट्रान्सप्लांट वाढीमुळे राष्ट्रीय सुरक्षा नियमांची मागणी",
+                "content": "तामिळनाडूच्या नियामक पावलांनंतर, देशभरातील डॉक्टरांनी कॉस्मेटिक क्लिनिकसाठी समान देखरेखेची मागणी केली आहे. सोशल मीडिया ट्रेंडमुळे वाढलेल्या हेअर ट्रान्सप्लांट उद्योगाने वाढत्या गुंतागुंत आणि अपात्र डॉक्टरांमुळे सुरक्षिततेची चिंता निर्माण केली आहे. त्वचाविज्ञान तज्ञांनी फसवणूक रोखण्यासाठी आणि पात्र तज्ञ तसेच योग्य पायाभूत सुविधांसह रुग्णांची सुरक्षितता सुनिश्चित करण्यासाठी राष्ट्रीय मार्गदर्शक तत्त्वांची मागणी केली आहे."
+            },
+            "hi": {
+                "title": "हेयर ट्रांसप्लांट की बढ़त से राष्ट्रीय सुरक्षा नियमों की मांग",
+                "content": "तमिलनाडु के नियामक कदम के बाद, देशभर के डॉक्टरों ने कॉस्मेटिक क्लीनिकों के लिए ऐसी ही निगरानी की मांग की है। सोशल मीडिया रुझानों से प्रेरित हेयर ट्रांसप्लांट उद्योग में तेज़ी से बढ़ती जटिलताओं और अयोग्य चिकित्सकों के कारण सुरक्षा संबंधी चिंताएं पैदा हुई हैं। त्वचा विशेषज्ञों ने धोखेबाज़ी से निपटने और योग्य विशेषज्ञों व उचित बुनियादी ढांचे के साथ मरीजों की सुरक्षा सुनिश्चित करने के लिए राष्ट्रीय दिशानिर्देशों का आग्रह किया है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129766442,imgsize-20890.cms",
+        "link": "https://timesofindia.indiatimes.com/india/days-after-tn-order-doctors-seek-similar-rules-nationwide-as-hair-transplant-boom-raises-safety-alarm/articleshow/129766421.cms"
+    },
+    {
+        "id": "670299b4",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "India-Nepal: Navigating a Shifting Security Landscape",
+                "content": "India and Nepal face an evolving security dynamic. Geopolitical shifts, regional developments, and new strategic interests are reshaping their long-standing relationship. Both nations must adapt to emerging challenges, address border concerns, and collaborate on security to maintain stability amidst a changing landscape. This necessitates deeper dialogue and coordinated efforts."
+            },
+            "kn": {
+                "title": "ಭಾರತ-ನೇಪಾಳ: ಬದಲಾಗುತ್ತಿರುವ ಭದ್ರತಾ ಭೂದೃಶ್ಯವನ್ನು ನಿರ್ವಹಿಸುವುದು",
+                "content": "ಭಾರತ ಮತ್ತು ನೇಪಾಳ ಒಂದು ವಿಕಸಿಸುತ್ತಿರುವ ಭದ್ರತಾ ಡೈನಾಮಿಕ್ಸ್ ಅನ್ನು ಎದುರಿಸುತ್ತಿವೆ. ಭೌಗೋಳಿಕ-ರಾಜಕೀಯ ಬದಲಾವಣೆಗಳು, ಪ್ರಾದೇಶಿಕ ಬೆಳವಣಿಗೆಗಳು ಮತ್ತು ಹೊಸ ಕಾರ್ಯತಂತ್ರದ ಹಿತಾಸಕ್ತಿಗಳು ಅವರ ದೀರ್ಘಕಾಲದ ಸಂಬಂಧವನ್ನು ಮರುರೂಪಿಸುತ್ತಿವೆ. ಎರಡೂ ರಾಷ್ಟ್ರಗಳು ಉದಯೋನ್ಮುಖ ಸವಾಲುಗಳಿಗೆ ಹೊಂದಿಕೊಳ್ಳಬೇಕು, ಗಡಿ ಸಮಸ್ಯೆಗಳನ್ನು ನಿಭಾಯಿಸಬೇಕು ಮತ್ತು ಬದಲಾಗುತ್ತಿರುವ ಪರಿಸರದಲ್ಲಿ ಸ್ಥಿರತೆಯನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳಲು ಭದ್ರತೆಯ ಕುರಿತು ಸಹಕರಿಸಬೇಕು. ಇದಕ್ಕೆ ಆಳವಾದ ಸಂಭಾಷಣೆ ಮತ್ತು ಸಂಘಟಿತ ಪ್ರಯತ್ನಗಳು ಅಗತ್ಯ."
+            },
+            "mr": {
+                "title": "भारत-नेपाळ: बदलत्या सुरक्षा परिस्थितीशी जुळवून घेणे",
+                "content": "भारत आणि नेपाळ एका विकसनशील सुरक्षा गतिशीलतेचा सामना करत आहेत. भू-राजकीय बदल, प्रादेशिक घडामोडी आणि नवीन धोरणात्मक हितसंबंध त्यांच्या दीर्घकाळच्या संबंधांना आकार देत आहेत. बदलत्या परिस्थितीमध्ये स्थिरता राखण्यासाठी दोन्ही राष्ट्रांनी उदभवणाऱ्या आव्हानांना सामोरे जावे, सीमा समस्यांचे निराकरण करावे आणि सुरक्षिततेवर सहकार्य करावे. यासाठी सखोल संवाद आणि समन्वित प्रयत्न आवश्यक आहेत."
+            },
+            "hi": {
+                "title": "भारत-नेपाल: बदलती सुरक्षा परिदृश्य में तालमेल बिठाना",
+                "content": "भारत और नेपाल एक विकसित हो रही सुरक्षा गतिशीलता का सामना कर रहे हैं। भू-राजनीतिक बदलाव, क्षेत्रीय घटनाक्रम और नए रणनीतिक हित उनके दीर्घकालिक संबंधों को नया आकार दे रहे हैं। बदलती स्थिति के बीच स्थिरता बनाए रखने के लिए दोनों राष्ट्रों को उभरती चुनौतियों के अनुकूल होना होगा, सीमा संबंधी चिंताओं को दूर करना होगा और सुरक्षा पर सहयोग करना होगा। इसके लिए गहन संवाद और समन्वित प्रयासों की आवश्यकता है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129765465,imgsize-28192.cms",
+        "link": "https://timesofindia.indiatimes.com/india/india-nepal-a-shifting-security-landscape/articleshow/129765451.cms"
+    },
+    {
+        "id": "138e7863",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "India's Air Force Gears Up for Massive Modernization",
+                "content": "India's Air Force is set for a significant upgrade, with major aircraft deals expected to conclude in FY 2026-27. Plans include acquiring 114 Rafale fighter jets, up to 60 medium transport aircraft, and advanced airborne early warning systems. These crucial acquisitions, funded by an increased capital budget, will drastically boost India's aerial capabilities and ongoing modernization efforts, ensuring enhanced national security."
+            },
+            "kn": {
+                "title": "ಭಾರತೀಯ ವಾಯುಪಡೆ ಬೃಹತ್ ಆಧುನೀಕರಣಕ್ಕೆ ಸಜ್ಜು",
+                "content": "ಭಾರತೀಯ ವಾಯುಪಡೆಯು 2026-27ರ ಹಣಕಾಸು ವರ್ಷದಲ್ಲಿ ಪ್ರಮುಖ ವಿಮಾನ ಒಪ್ಪಂದಗಳೊಂದಿಗೆ ಗಮನಾರ್ಹ ನವೀಕರಣಕ್ಕೆ ಸಿದ್ಧವಾಗಿದೆ. 114 ರಫೇಲ್ ಯುದ್ಧ ವಿಮಾನಗಳು, 60 ಮಧ್ಯಮ ಸಾರಿಗೆ ವಿಮಾನಗಳು ಮತ್ತು ಸುಧಾರಿತ ವಾಯುಗಾಮಿ ಮುಂಚೂಣಿ ಎಚ್ಚರಿಕೆ ವ್ಯವಸ್ಥೆಗಳನ್ನು ಖರೀದಿಸುವ ಯೋಜನೆಗಳಿವೆ. ಹೆಚ್ಚಿದ ಬಂಡವಾಳ ಬಜೆಟ್‌ನಿಂದ ಧನಸಹಾಯ ಪಡೆದ ಈ ನಿರ್ಣಾಯಕ ಖರೀದಿಗಳು ಭಾರತದ ವೈಮಾನಿಕ ಸಾಮರ್ಥ್ಯಗಳನ್ನು ಮತ್ತು ನಡೆಯುತ್ತಿರುವ ಆಧುನೀಕರಣ ಪ್ರಯತ್ನಗಳನ್ನು ಹೆಚ್ಚಿಸಿ, ಸುಧಾರಿತ ರಾಷ್ಟ್ರೀಯ ಭದ್ರತೆಯನ್ನು ಖಚಿತಪಡಿಸುತ್ತವೆ."
+            },
+            "mr": {
+                "title": "भारतीय हवाई दल मोठ्या आधुनिकीकरणासाठी सज्ज",
+                "content": "भारतीय हवाई दल 2026-27 आर्थिक वर्षात मोठ्या विमान करारांसह महत्त्वपूर्ण सुधारणेसाठी सज्ज आहे. यात 114 राफेल लढाऊ विमाने, 60 मध्यम वाहतूक विमाने आणि प्रगत एअरबोर्न अर्ली वॉर्निंग सिस्टम्सच्या खरेदीचा समावेश आहे. वाढलेल्या भांडवली अर्थसंकल्पातून निधी मिळणाऱ्या या महत्त्वाच्या खरेदीमुळे भारताची हवाई क्षमता आणि सध्याच्या आधुनिकीकरण प्रयत्नांना मोठ्या प्रमाणात चालना मिळेल, ज्यामुळे राष्ट्रीय सुरक्षा वाढेल."
+            },
+            "hi": {
+                "title": "भारतीय वायुसेना बड़े आधुनिकीकरण के लिए तैयार",
+                "content": "भारतीय वायुसेना 2026-27 वित्तीय वर्ष में प्रमुख विमान सौदों के साथ एक महत्वपूर्ण उन्नयन के लिए तैयार है। योजनाओं में 114 राफेल लड़ाकू जेट, 60 मध्यम परिवहन विमान और उन्नत एयरबोर्न अर्ली वार्निंग सिस्टम का अधिग्रहण शामिल है। बढ़े हुए पूंजीगत बजट से वित्त पोषित ये महत्वपूर्ण खरीद भारत की हवाई क्षमताओं और चल रहे आधुनिकीकरण प्रयासों को नाटकीय रूप से बढ़ावा देंगी, जिससे राष्ट्रीय सुरक्षा सुनिश्चित होगी।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129765051,imgsize-1295999.cms",
+        "link": "https://timesofindia.indiatimes.com/india/114-rafales-60-mta-aircraft-aewc-deals-to-be-concluded-in-2026-27-defence-ministry-to-parl-panel/articleshow/129765032.cms"
+    },
+    {
+        "id": "3e2ec07c",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Iran Warns US: Hit Power, We Hit Power",
+                "content": "Amidst US-Israel-Iran tensions, Iran has issued a stark warning, threatening to target electricity plants powering US bases if its own infrastructure is attacked. \"You hit electricity, we hit electricity,\" Iran stated, signaling a potential escalation. This comes as live updates track rising hostilities, highlighting critical power facilities as potential conflict points."
+            },
+            "kn": {
+                "title": "ಇರಾನ್ ಅಮೆರಿಕಕ್ಕೆ ಎಚ್ಚರಿಕೆ: ನೀವು ವಿದ್ಯುತ್‌ಗೆ ಹೊಡೆದರೆ, ನಾವು ವಿದ್ಯುತ್‌ಗೆ ಹೊಡೆಯುತ್ತೇವೆ",
+                "content": "ಅಮೆರಿಕ-ಇಸ್ರೇಲ್-ಇರಾನ್ ಉದ್ವಿಗ್ನತೆಯ ನಡುವೆ, ಇರಾನ್ ಕಠಿಣ ಎಚ್ಚರಿಕೆ ನೀಡಿದೆ, ತನ್ನದೇ ಮೂಲಸೌಕರ್ಯದ ಮೇಲೆ ದಾಳಿ ನಡೆದರೆ ಅಮೆರಿಕನ್ ನೆಲೆಗಳಿಗೆ ಶಕ್ತಿ ನೀಡುವ ವಿದ್ಯುತ್ ಸ್ಥಾವರಗಳನ್ನು ಗುರಿಯಾಗಿಸುವುದಾಗಿ ಬೆದರಿಕೆ ಹಾಕಿದೆ. \"ನೀವು ವಿದ್ಯುತ್‌ಗೆ ಹೊಡೆದರೆ, ನಾವು ವಿದ್ಯುತ್‌ಗೆ ಹೊಡೆಯುತ್ತೇವೆ\" ಎಂದು ಇರಾನ್ ಹೇಳಿದೆ, ಸಂಭಾವ್ಯ ಉಲ್ಬಣವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಲೈವ್ ಅಪ್‌ಡೇಟ್‌ಗಳು ಹೆಚ್ಚುತ್ತಿರುವ ವೈರತ್ವವನ್ನು ಟ್ರ್ಯಾಕ್ ಮಾಡುತ್ತಿದ್ದು, ನಿರ್ಣಾಯಕ ವಿದ್ಯುತ್ ಸೌಲಭ್ಯಗಳನ್ನು ಸಂಭಾವ್ಯ ಸಂಘರ್ಷದ ಕೇಂದ್ರಬಿಂದುಗಳಾಗಿ ಎತ್ತಿ ತೋರಿಸುತ್ತವೆ."
+            },
+            "mr": {
+                "title": "इराणचा अमेरिकेला इशारा: तुम्ही विजेला धक्का दिल्यास, आम्हीही विजेला धक्का देऊ",
+                "content": "अमेरिका-इस्त्राईल-इराणमधील तणावामध्ये, इराणने तीव्र इशारा दिला आहे की, जर त्याच्या स्वतःच्या पायाभूत सुविधांवर हल्ला झाला तर अमेरिकन तळांना वीज पुरवणाऱ्या ऊर्जा प्रकल्पांना लक्ष्य करण्याची धमकी दिली आहे. \"तुम्ही विजेला धक्का दिल्यास, आम्हीही विजेला धक्का देऊ,\" असे इराणने म्हटले आहे, ज्यामुळे संभाव्य वाढीचे संकेत मिळत आहेत. सध्याच्या घडामोडी वाढता संघर्ष दर्शवत आहेत, ज्यात महत्त्वाच्या वीज प्रकल्पांना संभाव्य संघर्षाचे मुद्दे म्हणून अधोरेखित केले आहे."
+            },
+            "hi": {
+                "title": "ईरान की अमेरिका को चेतावनी: तुमने बिजली पर वार किया, तो हम भी बिजली पर वार करेंगे",
+                "content": "अमेरिका-इजराइल-ईरान तनाव के बीच, ईरान ने कड़ी चेतावनी जारी की है, जिसमें कहा गया है कि यदि उसके अपने बुनियादी ढांचे पर हमला हुआ तो वह अमेरिकी ठिकानों को बिजली देने वाले ऊर्जा संयंत्रों को निशाना बनाएगा। ईरान ने कहा, \"तुमने बिजली पर वार किया, तो हम भी बिजली पर वार करेंगे,\" जो संभावित वृद्धि का संकेत है। लाइव अपडेट बढ़ते तनाव को ट्रैक कर रहे हैं, जो महत्वपूर्ण बिजली सुविधाओं को संभावित संघर्ष के बिंदुओं के रूप में उजागर करते हैं।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129727558,imgsize-480366.cms",
+        "link": "https://timesofindia.indiatimes.com/world/middle-east/us-israel-iran-war-news-live-udates-latest-news-middle-east-crisis-conflict-drone-ballistic-missile-attack-gulf-countries-dubai-qatar-news-donald-trump-netanyahu-strait-of-hormuz-lpg-tanker-iran-attack-qatar/liveblog/129727558.cms"
+    },
+    {
+        "id": "1a5c22ea",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Dubai's Hamdan Scholarship Applications Open for 2026-27",
+                "content": "Dubai has officially opened applications for the prestigious Hamdan bin Mohammed Scholarship Programme for the 2026-27 academic year. This sought-after scholarship offers a unique opportunity for students pursuing higher education. Prospective applicants can now submit their forms to be considered for this invaluable programme, supporting academic excellence and fostering future leaders. Don't miss this chance to study in Dubai!"
+            },
+            "kn": {
+                "title": "ದುಬೈ 2026-27 ಹಮ್ದಾನ್ ವಿದ್ಯಾರ್ಥಿವೇತನ ಅರ್ಜಿಗಳು ಈಗ ತೆರೆದಿವೆ",
+                "content": "ದುಬೈ 2026-27 ಶೈಕ್ಷಣಿಕ ವರ್ಷಕ್ಕಾಗಿ ಪ್ರತಿಷ್ಠಿತ ಹಮ್ದಾನ್ ಬಿನ್ ಮೊಹಮ್ಮದ್ ವಿದ್ಯಾರ್ಥಿವೇತನ ಕಾರ್ಯಕ್ರಮಕ್ಕಾಗಿ ಅರ್ಜಿಗಳನ್ನು ಅಧಿಕೃತವಾಗಿ ತೆರೆದಿದೆ. ಈ ಬಹುಬೇಡಿಕೆಯ ವಿದ್ಯಾರ್ಥಿವೇತನವು ಉನ್ನತ ಶಿಕ್ಷಣವನ್ನು ಪಡೆಯುವ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಅನನ್ಯ ಅವಕಾಶವನ್ನು ನೀಡುತ್ತದೆ. ಆಕಾಂಕ್ಷಿ ಅಭ್ಯರ್ಥಿಗಳು ಈಗ ಈ ಅಮೂಲ್ಯ ಕಾರ್ಯಕ್ರಮಕ್ಕಾಗಿ ತಮ್ಮ ಅರ್ಜಿಗಳನ್ನು ಸಲ್ಲಿಸಬಹುದು, ಇದು ಶೈಕ್ಷಣಿಕ ಶ್ರೇಷ್ಠತೆಯನ್ನು ಬೆಂಬಲಿಸುತ್ತದೆ ಮತ್ತು ಭವಿಷ್ಯದ ನಾಯಕರನ್ನು ಪೋಷಿಸುತ್ತದೆ. ದುಬೈನಲ್ಲಿ ಅಧ್ಯಯನ ಮಾಡುವ ಈ ಅವಕಾಶವನ್ನು ಕಳೆದುಕೊಳ್ಳಬೇಡಿ!"
+            },
+            "mr": {
+                "title": "दुबईच्या हमदान शिष्यवृत्तीसाठी 2026-27 अर्ज खुले",
+                "content": "दुबईने 2026-27 शैक्षणिक वर्षासाठी प्रतिष्ठित हमदान बिन मोहम्मद शिष्यवृत्ती कार्यक्रमासाठी अर्ज अधिकृतपणे सुरू केले आहेत. ही बहुप्रतिक्षित शिष्यवृत्ती उच्च शिक्षण घेऊ इच्छिणाऱ्या विद्यार्थ्यांना एक अनोखी संधी देते. इच्छुक अर्जदार आता या मौल्यवान कार्यक्रमासाठी अर्ज सादर करू शकतात, जे शैक्षणिक उत्कृष्टतेला प्रोत्साहन देईल आणि भविष्यातील नेत्यांना घडवेल. दुबईमध्ये शिकण्याची ही संधी गमावू नका!"
+            },
+            "hi": {
+                "title": "दुबई की हमदान छात्रवृत्ति के लिए 2026-27 आवेदन खुले",
+                "content": "दुबई ने 2026-27 शैक्षणिक वर्ष के लिए प्रतिष्ठित हमदान बिन मोहम्मद छात्रवृत्ति कार्यक्रम के लिए आवेदन आधिकारिक तौर पर खोल दिए हैं। यह बहुप्रतीक्षित छात्रवृत्ति उच्च शिक्षा प्राप्त करने वाले छात्रों के लिए एक अनूठा अवसर प्रदान करती है। इच्छुक आवेदक अब इस अमूल्य कार्यक्रम के लिए अपने फॉर्म जमा कर सकते हैं, जो शैक्षणिक उत्कृष्टता का समर्थन करेगा और भविष्य के नेताओं को तैयार करेगा। दुबई में अध्ययन करने का यह अवसर न चूकें!"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129767582,imgsize-1188233.cms",
+        "link": "https://timesofindia.indiatimes.com/world/middle-east/dubai-opens-applications-for-hamdan-bin-mohammed-scholarship-programme-for-202627-academic-year/articleshow/129767380.cms"
+    },
+    {
+        "id": "0e548e62",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Kentucky's Mammoth Cave: A Vast Underground World",
+                "content": "Mammoth Cave in Kentucky is a breathtaking geological marvel, stretching an astonishing 686 kilometres underground. This vast subterranean network, the world's longest known cave system, reveals a hidden universe of unique formations and ecosystems. Explore the depths of this natural wonder, where ancient rivers carved a mesmerizing landscape, offering a glimpse into Earth's mysterious interior. A truly unparalleled adventure awaits beneath the surface."
+            },
+            "kn": {
+                "title": "ಕೆಂಟುಕಿಯ ಮ್ಯಾಮತ್ ಗುಹೆ: ಒಂದು ವಿಶಾಲವಾದ ಭೂಗತ ಜಗತ್ತು",
+                "content": "ಕೆಂಟುಕಿಯಲ್ಲಿರುವ ಮ್ಯಾಮತ್ ಗುಹೆಯು ಉಸಿರುಬಿಗಿದಿಡುವ ಭೌಗೋಳಿಕ ಅದ್ಭುತವಾಗಿದೆ, ಇದು ಆಶ್ಚರ್ಯಕರ 686 ಕಿಲೋಮೀಟರ್ ಭೂಗತವಾಗಿ ವಿಸ್ತರಿಸಿದೆ. ವಿಶ್ವದ ಅತಿ ಉದ್ದದ ಗುಹೆ ವ್ಯವಸ್ಥೆಯಾದ ಈ ವಿಶಾಲವಾದ ಭೂಗತ ಜಾಲವು ಅನನ್ಯ ರಚನೆಗಳು ಮತ್ತು ಪರಿಸರ ವ್ಯವಸ್ಥೆಗಳ ಗುಪ್ತ ವಿಶ್ವವನ್ನು ಬಹಿರಂಗಪಡಿಸುತ್ತದೆ. ಪ್ರಾಚೀನ ನದಿಗಳು ಭವ್ಯವಾದ ಭೂದೃಶ್ಯವನ್ನು ಕೆತ್ತಿದ ಈ ನೈಸರ್ಗಿಕ ಅದ್ಭುತದ ಆಳವನ್ನು ಅನ್ವೇಷಿಸಿ, ಭೂಮಿಯ ರಹಸ್ಯ ಆಂತರ್ಯದ ಒಂದು ನೋಟವನ್ನು ನೀಡುತ್ತದೆ. ಮೇಲ್ಮೈ ಕೆಳಗೆ ನಿಜವಾಗಿಯೂ ಅಪ್ರತಿಮ ಸಾಹಸ ಕಾಯುತ್ತಿದೆ."
+            },
+            "mr": {
+                "title": "केंटकीची मॅमोथ गुहा: एक विशाल भूमिगत जग",
+                "content": "केंटकीमधील मॅमोथ गुहा हे एक नयनरम्य भूगर्भीय आश्चर्य आहे, जे तब्बल 686 किलोमीटरपर्यंत भूगर्भात पसरलेले आहे. जगातील सर्वात लांब ज्ञात गुहा प्रणालीचे हे विशाल भूमिगत जाळे अद्वितीय रचना आणि परिसंस्थेचे एक गुप्त विश्व उघड करते. या नैसर्गिक चमत्काराच्या खोलीचा शोध घ्या, जिथे प्राचीन नद्यांनी एक मनमोहक भूप्रदेश कोरला आहे, जो पृथ्वीच्या रहस्यमय आतील भागाची झलक देतो. पृष्ठभागाखाली एक खरोखरच अतुलनीय साहस तुमची वाट पाहत आहे."
+            },
+            "hi": {
+                "title": "केंटकी की मैमथ गुफा: एक विशाल भूमिगत दुनिया",
+                "content": "केंटकी में स्थित मैमथ गुफा एक लुभावना भूवैज्ञानिक चमत्कार है, जो आश्चर्यजनक रूप से 686 किलोमीटर भूमिगत फैला हुआ है। दुनिया की सबसे लंबी ज्ञात गुफा प्रणाली का यह विशाल भूमिगत नेटवर्क, अद्वितीय संरचनाओं और पारिस्थितिक तंत्रों के एक छिपे हुए ब्रह्मांड को उजागर करता है। इस प्राकृतिक अजूबे की गहराइयों का अन्वेषण करें, जहाँ प्राचीन नदियों ने एक मंत्रमुग्ध कर देने वाला परिदृश्य गढ़ा है, जो पृथ्वी के रहस्यमय आंतरिक भाग की एक झलक प्रदान करता है। सतह के नीचे एक अद्वितीय रोमांच आपका इंतजार कर रहा है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129753003,imgsize-143514.cms",
+        "link": "https://timesofindia.indiatimes.com/world/us/a-hidden-universe-beneath-kentucky-how-mammoth-cave-stretched-686-kilometres-underground/articleshow/129752912.cms"
+    },
+    {
+        "id": "edc70f7c",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "US-Iran Talks in Pakistan? White House Noncommittal",
+                "content": "Reports suggest potential US-Iran talks in Islamabad, mediated by Pakistan and other nations, following a pause in US strikes. While Iran denies direct negotiations, the White House remains noncommittal, labeling the situation \"sensitive and fluid.\" The diplomatic push seeks dialogue amidst high regional tensions, though official confirmation is pending."
+            },
+            "kn": {
+                "title": "ಪಾಕಿಸ್ತಾನದಲ್ಲಿ ಅಮೆರಿಕಾ-ಇರಾನ್ ಮಾತುಕತೆ? ಶ್ವೇತಭವನ ಸ್ಪಷ್ಟಪಡಿಸಿಲ್ಲ",
+                "content": "ಅಮೆರಿಕಾದ ದಾಳಿಗಳ ವಿರಾಮದ ನಂತರ, ಪಾಕಿಸ್ತಾನ ಮತ್ತು ಇತರ ರಾಷ್ಟ್ರಗಳ ಮಧ್ಯಸ್ಥಿಕೆಯಲ್ಲಿ ಇಸ್ಲಾಮಾಬಾದ್‌ನಲ್ಲಿ ಅಮೆರಿಕಾ-ಇರಾನ್ ಮಾತುಕತೆ ನಡೆಯುವ ಸಾಧ್ಯತೆಯಿದೆ ಎಂದು ವರದಿಗಳು ಸೂಚಿಸುತ್ತವೆ. ಇರಾನ್ ನೇರ ಮಾತುಕತೆಗಳನ್ನು ನಿರಾಕರಿಸಿದರೂ, ಶ್ವೇತಭವನವು ಈ ಪರಿಸ್ಥಿತಿಯನ್ನು 'ಸೂಕ್ಷ್ಮ ಮತ್ತು ಅನಿಶ್ಚಿತ' ಎಂದು ಕರೆದು, ಯಾವುದೇ ಸ್ಪಷ್ಟ ನಿಲುವು ತೆಗೆದುಕೊಂಡಿಲ್ಲ. ಅಧಿಕೃತ ದೃಢೀಕರಣ ಇನ್ನೂ ಬಾಕಿ ಇದ್ದರೂ, ಪ್ರಾದೇಶಿಕ ಉದ್ವಿಗ್ನತೆಯ ನಡುವೆ ರಾಜತಾಂತ್ರಿಕ ಪ್ರಯತ್ನಗಳು ಸಂಭಾಷಣೆಗೆ ಶ್ರಮಿಸುತ್ತಿವೆ."
+            },
+            "mr": {
+                "title": "पाकिस्तानमध्ये अमेरिका-इराण चर्चा? व्हाईट हाऊस अस्पष्ट",
+                "content": "अमेरिकेच्या हल्ल्यांना विराम दिल्यानंतर, पाकिस्तान आणि इतर देशांच्या मध्यस्थीने इस्लामाबादमध्ये अमेरिका-इराण यांच्यात संभाव्य चर्चा सुरू होण्याचे वृत्त आहे. इराणने थेट वाटाघाटी नाकारल्या असल्या तरी, व्हाईट हाऊसने या परिस्थितीला 'संवेदनशील आणि अस्थिर' असे संबोधत कोणतीही ठोस भूमिका घेतलेली नाही. अधिकृत दुजोरा प्रलंबित असला तरी, प्रादेशिक तणावामध्ये संवादासाठी राजनैतिक प्रयत्न सुरू आहेत."
+            },
+            "hi": {
+                "title": "पाकिस्तान में अमेरिका-ईरान वार्ता? व्हाइट हाउस अस्पष्ट",
+                "content": "अमेरिकी हमलों में विराम के बाद, पाकिस्तान और अन्य देशों की मध्यस्थता से इस्लामाबाद में अमेरिका-ईरान के बीच संभावित वार्ता की खबरें हैं। हालांकि ईरान सीधी बातचीत से इनकार करता है, व्हाइट हाउस ने स्थिति को 'संवेदनशील और अस्थिर' बताते हुए कोई स्पष्ट रुख नहीं अपनाया है। आधिकारिक पुष्टि लंबित होने के बावजूद, क्षेत्रीय तनाव के बीच संवाद के लिए राजनयिक प्रयास जारी हैं।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129765628,imgsize-845281.cms",
+        "link": "https://timesofindia.indiatimes.com/world/us/are-us-iran-talks-happening-in-pakistan-what-white-house-said/articleshow/129765522.cms"
+    },
+    {
+        "id": "0d3af398",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Iran Strikes Nuke Facility, Israel's Defenses Under Scrutiny",
+                "content": "Iran has reportedly struck a nuclear research facility, placing Israel's renowned missile defense systems under intense scrutiny. The attack raises serious questions about the effectiveness of Israel's protective measures and heightens regional tensions. Experts are evaluating the incident's implications for future security and defense strategies in the Middle East."
+            },
+            "kn": {
+                "title": "ಇರಾನ್ ಅಣು ಸೌಲಭ್ಯಕ್ಕೆ ದಾಳಿ, ಇಸ್ರೇಲ್‌ನ ರಕ್ಷಣೆಗಳ ಪರಿಶೀಲನೆ",
+                "content": "ಇರಾನ್ ಅಣು ಸಂಶೋಧನಾ ಸೌಲಭ್ಯದ ಮೇಲೆ ದಾಳಿ ನಡೆಸಿದೆ ಎಂದು ವರದಿಯಾಗಿದೆ, ಇದು ಇಸ್ರೇಲ್‌ನ ಹೆಸರಾಂತ ಕ್ಷಿಪಣಿ ರಕ್ಷಣಾ ವ್ಯವಸ್ಥೆಗಳನ್ನು ತೀವ್ರ ಪರಿಶೀಲನೆಗೆ ಒಳಪಡಿಸಿದೆ. ಈ ದಾಳಿಯು ಇಸ್ರೇಲ್‌ನ ರಕ್ಷಣಾತ್ಮಕ ಕ್ರಮಗಳ ಪರಿಣಾಮಕಾರಿತ್ವದ ಬಗ್ಗೆ ಗಂಭೀರ ಪ್ರಶ್ನೆಗಳನ್ನು ಹುಟ್ಟುಹಾಕಿದೆ ಮತ್ತು ಪ್ರಾದೇಶಿಕ ಉದ್ವಿಗ್ನತೆಯನ್ನು ಹೆಚ್ಚಿಸಿದೆ. ಮಧ್ಯಪ್ರಾಚ್ಯದಲ್ಲಿ ಭವಿಷ್ಯದ ಭದ್ರತೆ ಮತ್ತು ರಕ್ಷಣಾ ತಂತ್ರಗಳಿಗೆ ಈ ಘಟನೆಯ ಪರಿಣಾಮಗಳನ್ನು ತಜ್ಞರು ಮೌಲ್ಯಮಾಪನ ಮಾಡುತ್ತಿದ್ದಾರೆ."
+            },
+            "mr": {
+                "title": "इराणचा अणुसुविधा केंद्रावर हल्ला, इस्रायलच्या संरक्षणावर प्रश्नचिन्ह",
+                "content": "इराणने अणुसंशोधन सुविधेवर हल्ला केल्याचे वृत्त आहे, ज्यामुळे इस्रायलच्या प्रख्यात क्षेपणास्त्र संरक्षण प्रणालींवर सखोल तपासणी सुरू झाली आहे. या हल्ल्यामुळे इस्रायलच्या संरक्षणात्मक उपायांच्या परिणामकारकतेबद्दल गंभीर प्रश्न निर्माण झाले आहेत आणि प्रादेशिक तणाव वाढला आहे. मध्यपूर्वेतील भविष्यातील सुरक्षा आणि संरक्षण धोरणांसाठी या घटनेचे परिणाम तज्ज्ञ तपासत आहेत."
+            },
+            "hi": {
+                "title": "ईरान का परमाणु सुविधा पर हमला, इजरायल की सुरक्षा घेरे में",
+                "content": "ईरान ने कथित तौर पर एक परमाणु अनुसंधान सुविधा पर हमला किया है, जिससे इजरायल की प्रसिद्ध मिसाइल रक्षा प्रणालियां गहन जांच के दायरे में आ गई हैं। यह हमला इजरायल के सुरक्षात्मक उपायों की प्रभावशीलता पर गंभीर सवाल उठाता है और क्षेत्रीय तनाव को बढ़ाता है। विशेषज्ञ मध्य पूर्व में भविष्य की सुरक्षा और रक्षा रणनीतियों के लिए इस घटना के निहितार्थों का मूल्यांकन कर रहे हैं।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129765588,imgsize-1765100.cms",
+        "link": "https://timesofindia.indiatimes.com/world/middle-east/israels-missile-defence-under-scrutiny-after-iran-strikes-nuke-research-facility/articleshow/129765577.cms"
+    },
+    {
+        "id": "2aa81e7a",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Air Canada Plane Hits Fire Truck at LaGuardia",
+                "content": "A startling video captures an Air Canada plane colliding with a fire truck at LaGuardia Airport. The Boeing 737 Max jet was involved in the ground collision, but thankfully, no injuries were reported. This unusual incident has prompted an investigation into airport safety protocols, raising concerns about ground operations."
+            },
+            "kn": {
+                "title": "ಏರ್ ಕೆನಡಾ ವಿಮಾನ ಲಾಗಾರ್ಡಿಯಾದಲ್ಲಿ ಅಗ್ನಿಶಾಮಕ ಟ್ರಕ್‌ಗೆ ಡಿಕ್ಕಿ",
+                "content": "ಲಾಗಾರ್ಡಿಯಾ ವಿಮಾನ ನಿಲ್ದಾಣದಲ್ಲಿ ಏರ್ ಕೆನಡಾ ವಿಮಾನ ಅಗ್ನಿಶಾಮಕ ಟ್ರಕ್‌ಗೆ ಡಿಕ್ಕಿ ಹೊಡೆದ ಆಘಾತಕಾರಿ ದೃಶ್ಯವನ್ನು ವೀಡಿಯೊ ಸೆರೆಹಿಡಿದಿದೆ. ಬೋಯಿಂಗ್ 737 ಮ್ಯಾಕ್ಸ್ ಜೆಟ್ ನೆಲದ ಡಿಕ್ಕಿಯಲ್ಲಿ ಭಾಗಿಯಾಗಿತ್ತು, ಆದರೆ ಅದೃಷ್ಟವಶಾತ್, ಯಾವುದೇ ಗಾಯಗಳು ವರದಿಯಾಗಿಲ್ಲ. ಈ ಅಸಾಮಾನ್ಯ ಘಟನೆಯು ವಿಮಾನ ನಿಲ್ದಾಣದ ಸುರಕ್ಷತಾ ಪ್ರೋಟೋಕಾಲ್‌ಗಳ ಬಗ್ಗೆ ತನಿಖೆಗೆ ಕಾರಣವಾಗಿದೆ, ನೆಲದ ಕಾರ್ಯಾಚರಣೆಗಳ ಬಗ್ಗೆ ಕಾಳಜಿ ಹೆಚ್ಚಿಸಿದೆ."
+            },
+            "mr": {
+                "title": "लागार्डिया विमानतळावर एअर कॅनडा विमानाची अग्निशमन दलाच्या ट्रकशी धडक",
+                "content": "लागार्डिया विमानतळावर एअर कॅनडा विमानाची अग्निशमन दलाच्या ट्रकशी धडक झाल्याचा धक्कादायक व्हिडिओ समोर आला आहे. बोईंग ७३७ मॅक्स जेट या जमिनीवरील धडकेत सामील होते, सुदैवाने कोणतीही दुखापत झाली नाही. या असामान्य घटनेमुळे विमानतळाच्या सुरक्षा नियमावलीची चौकशी सुरू झाली आहे, ज्यामुळे जमिनीवरील कामकाजाबद्दल चिंता वाढली आहे."
+            },
+            "hi": {
+                "title": "लागार्डिया में एयर कनाडा विमान की फायर ट्रक से टक्कर",
+                "content": "लागार्डिया एयरपोर्ट पर एयर कनाडा के एक विमान की फायर ट्रक से टक्कर का चौंकाने वाला वीडियो सामने आया है। इस जमीनी टक्कर में बोइंग 737 मैक्स जेट शामिल था, लेकिन गनीमत रही कि कोई हताहत नहीं हुआ। इस असामान्य घटना ने एयरपोर्ट सुरक्षा प्रोटोकॉल की जांच शुरू कर दी है, जिससे जमीनी संचालन को लेकर चिंताएं बढ़ गई हैं।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129767028,imgsize-2970380.cms",
+        "link": "https://timesofindia.indiatimes.com/world/us/video-captures-moment-air-canada-plane-collides-with-fire-truck-at-laguardia-airport-pilot-co-pilot-killed/articleshow/129766725.cms"
+    },
+    {
+        "id": "4b242a27",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Donna Motsinger Awarded $19M in Cosby Sexual Assault Case",
+                "content": "Donna Motsinger has been awarded $19 million by a jury that found Bill Cosby liable for sexual assault stemming from a 1972 incident. The verdict brings a measure of justice to Motsinger, who sued Cosby for the decades-old assault. This follows Cosby's prior conviction being overturned, highlighting the ongoing legal battles surrounding the disgraced comedian."
+            },
+            "kn": {
+                "title": "ಕಾಸ್ಬಿ ಲೈಂಗಿಕ ದೌರ್ಜನ್ಯ ಪ್ರಕರಣದಲ್ಲಿ ಡೊನ್ನಾ ಮೋಟ್ಸಿಂಗರ್​ಗೆ $19 ಮಿಲಿಯನ್ ಪರಿಹಾರ",
+                "content": "1972ರ ಲೈಂಗಿಕ ದೌರ್ಜನ್ಯ ಪ್ರಕರಣದಲ್ಲಿ ಬಿಲ್ ಕಾಸ್ಬಿಯನ್ನು ಹೊಣೆಗಾರನೆಂದು ಜ್ಯೂರಿ ತೀರ್ಪು ನೀಡಿದ ನಂತರ ಡೊನ್ನಾ ಮೋಟ್ಸಿಂಗರ್ ಅವರಿಗೆ $19 ಮಿಲಿಯನ್ ಪರಿಹಾರ ದೊರೆತಿದೆ. ದಶಕಗಳಷ್ಟು ಹಳೆಯ ದೌರ್ಜನ್ಯಕ್ಕಾಗಿ ಕಾಸ್ಬಿ ವಿರುದ್ಧ ಮೊಕದ್ದಮೆ ಹೂಡಿದ್ದ ಮೋಟ್ಸಿಂಗರ್ ಅವರಿಗೆ ಈ ತೀರ್ಪು ನ್ಯಾಯವನ್ನು ತಂದಿದೆ. ಕಾಸ್ಬಿಯ ಹಿಂದಿನ ಅಪರಾಧ ತೀರ್ಪು ರದ್ದಾಗಿದ್ದರೂ, ಅಪಖ್ಯಾತ ಹಾಸ್ಯನಟನ ಸುತ್ತಲಿನ ಕಾನೂನು ಹೋರಾಟಗಳು ಮುಂದುವರಿದಿರುವುದನ್ನು ಇದು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "कॉस्बी लैंगिक अत्याचार प्रकरणात डोना मोत्सिंगर यांना $19 दशलक्ष मंजूर",
+                "content": "1972 च्या लैंगिक अत्याचार प्रकरणात बिल कॉस्बीला दोषी ठरवणाऱ्या ज्युरीने डोना मोत्सिंगर यांना $19 दशलक्ष मंजूर केले आहेत. दशकांपूर्वीच्या या अत्याचारासाठी कॉस्बीवर खटला दाखल करणाऱ्या मोत्सिंगर यांना या निर्णयातून न्याय मिळाला आहे. कॉस्बीची पूर्वीची शिक्षा रद्द झाल्यानंतरही, या अपमानास्पद विनोदी कलाकाराभोवतीचे कायदेशीर लढे सुरूच असल्याचे यातून दिसून येते."
+            },
+            "hi": {
+                "title": "कॉस्बी यौन उत्पीड़न मामले में डोना मोत्सिंगर को $19 मिलियन मिले",
+                "content": "1972 के यौन उत्पीड़न मामले में बिल कॉस्बी को जिम्मेदार ठहराने वाली जूरी द्वारा डोना मोत्सिंगर को $19 मिलियन का मुआवजा दिया गया है। दशकों पुराने इस उत्पीड़न के लिए कॉस्बी पर मुकदमा करने वाली मोत्सिंगर को इस फैसले से न्याय मिला है। यह कॉस्बी की पिछली सजा को पलटने के बाद आया है, जो अपमानित हास्य अभिनेता के इर्द-गिर्द चल रही कानूनी लड़ाइयों को उजागर करता है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129762175,imgsize-123998.cms",
+        "link": "https://timesofindia.indiatimes.com/world/us/who-is-donna-motsinger-woman-awarded-19-million-after-jury-finds-bill-cosby-liable-in-1972-sexual-assault-case/articleshow/129762175.cms"
+    },
+    {
+        "id": "2ac160a1",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Air Canada Pilot Killed in LaGuardia Crash",
+                "content": "Antoine Forest, an Air Canada pilot, tragically lost his life in a recent crash at New York's LaGuardia Airport. The incident involved an Air Canada aircraft, prompting immediate investigations into the cause of the fatal accident. Forest's death serves as a somber reminder of aviation's inherent risks, raising critical questions about flight safety and operational procedures."
+            },
+            "kn": {
+                "title": "ಏರ್ ಕೆನಡಾ ಪೈಲಟ್ ಲಾಗಾರ್ಡಿಯಾ ಅಪಘಾತದಲ್ಲಿ ಸಾವು",
+                "content": "ನ್ಯೂಯಾರ್ಕ್‌ನ ಲಾಗಾರ್ಡಿಯಾ ವಿಮಾನ ನಿಲ್ದಾಣದಲ್ಲಿ ಇತ್ತೀಚೆಗೆ ಸಂಭವಿಸಿದ ಅಪಘಾತದಲ್ಲಿ ಏರ್ ಕೆನಡಾ ಪೈಲಟ್ ಆಂಟೊಯಿನ್ ಫಾರೆಸ್ಟ್ ದುರಂತವಾಗಿ ಸಾವನ್ನಪ್ಪಿದ್ದಾರೆ. ಈ ಘಟನೆಯಲ್ಲಿ ಏರ್ ಕೆನಡಾ ವಿಮಾನ ಭಾಗಿಯಾಗಿತ್ತು, ಮತ್ತು ಮಾರಣಾಂತಿಕ ಅಪಘಾತದ ಕಾರಣವನ್ನು ತಕ್ಷಣವೇ ತನಿಖೆ ಮಾಡಲಾಗುತ್ತಿದೆ. ಫಾರೆಸ್ಟ್ ಅವರ ಸಾವು ವಿಮಾನಯಾನದ ಅಂತರ್ಗತ ಅಪಾಯಗಳ ಬಗ್ಗೆ ದುಃಖಕರ ನೆನಪಾಗಿದ್ದು, ವಿಮಾನ ಸುರಕ್ಷತೆ ಮತ್ತು ಕಾರ್ಯಾಚರಣೆಯ ಕಾರ್ಯವಿಧಾನಗಳ ಬಗ್ಗೆ ನಿರ್ಣಾಯಕ ಪ್ರಶ್ನೆಗಳನ್ನು ಹುಟ್ಟುಹಾಕಿದೆ."
+            },
+            "mr": {
+                "title": "लागार्डिया अपघातात एअर कॅनडाच्या वैमानिकाचा मृत्यू",
+                "content": "न्यू यॉर्कमधील लागार्डिया विमानतळावर नुकत्याच झालेल्या अपघातात एअर कॅनडाचे वैमानिक अँटोनी फॉरेस्ट यांचे दुःखद निधन झाले. या घटनेत एअर कॅनडाचे विमान सामील होते, ज्यामुळे या प्राणघातक अपघाताच्या कारणांची तात्काळ चौकशी सुरू झाली आहे. फॉरेस्ट यांच्या निधनाने विमान वाहतुकीतील अंतर्भूत धोक्यांची गंभीर आठवण करून दिली आहे, ज्यामुळे विमान सुरक्षा आणि परिचालन प्रक्रियेबद्दल महत्त्वपूर्ण प्रश्न निर्माण झाले आहेत."
+            },
+            "hi": {
+                "title": "लागुआर्डिया दुर्घटना में एयर कनाडा के पायलट की मौत",
+                "content": "न्यूयॉर्क के लागुआर्डिया हवाई अड्डे पर हाल ही में हुए एक विमान दुर्घटना में एयर कनाडा के पायलट एंटोनी फॉरेस्ट की दुखद मृत्यु हो गई। इस घटना में एयर कनाडा का एक विमान शामिल था, जिसके बाद घातक दुर्घटना के कारणों की तत्काल जांच शुरू की गई है। फॉरेस्ट की मृत्यु विमानन के अंतर्निहित जोखिमों की एक दुखद याद दिलाती है, जिससे उड़ान सुरक्षा और परिचालन प्रक्रियाओं के बारे में महत्वपूर्ण प्रश्न उठते हैं।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129762250,imgsize-72748.cms",
+        "link": "https://timesofindia.indiatimes.com/world/us/who-was-antoine-forest-one-of-2-air-canada-pilots-killed-in-laguardia-plane-crash-identified/articleshow/129762250.cms"
+    },
+    {
+        "id": "c9eb20fc",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Florida Democrat's Bill Pushes Green Cards for TPS Holders",
+                "content": "A Florida Democrat has introduced a landmark bill to offer Green Cards to Temporary Protected Status (TPS) holders. This legislative push aims to create a permanent residency path for thousands of long-term residents living in the U.S. under TPS, igniting renewed debate on comprehensive immigration reform and their future."
+            },
+            "kn": {
+                "title": "ಫ್ಲೋರಿಡಾ ಡೆಮೋಕ್ರಾಟ್‌ನ ಮಸೂದೆ TPS ಹೊಂದಿರುವವರಿಗೆ ಗ್ರೀನ್ ಕಾರ್ಡ್‌ಗಳಿಗಾಗಿ ಒತ್ತಾಯ",
+                "content": "ಫ್ಲೋರಿಡಾ ಡೆಮೋಕ್ರಾಟ್ ತಾತ್ಕಾಲಿಕ ಸಂರಕ್ಷಿತ ಸ್ಥಿತಿ (TPS) ಹೊಂದಿರುವವರಿಗೆ ಗ್ರೀನ್ ಕಾರ್ಡ್‌ಗಳನ್ನು ನೀಡಲು ಮಹತ್ವದ ಮಸೂದೆಯನ್ನು ಪರಿಚಯಿಸಿದ್ದಾರೆ. ಈ ಶಾಸಕಾಂಗದ ಪ್ರಯತ್ನವು TPS ಅಡಿಯಲ್ಲಿ ಅಮೆರಿಕದಲ್ಲಿ ವಾಸಿಸುತ್ತಿರುವ ಸಾವಿರಾರು ದೀರ್ಘಕಾಲೀನ ನಿವಾಸಿಗಳಿಗೆ ಶಾಶ್ವತ ವಾಸಸ್ಥಳದ ಮಾರ್ಗವನ್ನು ಸೃಷ್ಟಿಸುವ ಗುರಿಯನ್ನು ಹೊಂದಿದೆ, ಸಮಗ್ರ ವಲಸೆ ಸುಧಾರಣೆ ಮತ್ತು ಅವರ ಭವಿಷ್ಯದ ಬಗ್ಗೆ ಹೊಸ ಚರ್ಚೆಯನ್ನು ಹುಟ್ಟುಹಾಕಿದೆ."
+            },
+            "mr": {
+                "title": "फ्लोरिडा डेमोक्रॅटचे विधेयक TPS धारकांसाठी ग्रीन कार्ड्सची मागणी करते",
+                "content": "एका फ्लोरिडा डेमोक्रॅटने तात्पुरत्या संरक्षित स्थिती (TPS) धारकांना ग्रीन कार्ड्स देणारे एक महत्त्वपूर्ण विधेयक सादर केले आहे. हा कायदेशीर प्रयत्न TPS अंतर्गत अमेरिकेत राहणाऱ्या हजारो दीर्घकाळच्या रहिवाशांसाठी कायमस्वरूपी निवासाचा मार्ग तयार करण्याचे उद्दिष्ट ठेवतो, ज्यामुळे व्यापक स्थलांतरण सुधारणा आणि त्यांच्या भविष्याबद्दल पुन्हा चर्चा सुरू झाली आहे."
+            },
+            "hi": {
+                "title": "फ्लोरिडा डेमोक्रेट का विधेयक TPS धारकों के लिए ग्रीन कार्ड्स पर जोर",
+                "content": "एक फ्लोरिडा डेमोक्रेट ने अस्थायी संरक्षित स्थिति (TPS) धारकों को ग्रीन कार्ड प्रदान करने के लिए एक ऐतिहासिक विधेयक पेश किया है। इस विधायी प्रयास का उद्देश्य TPS के तहत अमेरिका में रह रहे हजारों दीर्घकालिक निवासियों के लिए स्थायी निवास का मार्ग बनाना है, जिससे व्यापक आव्रजन सुधार और उनके भविष्य पर नए सिरे से बहस छिड़ गई है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129762248,imgsize-103106.cms",
+        "link": "https://timesofindia.indiatimes.com/world/us/give-green-cards-to-tps-holders-florida-democrat-introduces-new-bill-is-it-possible/articleshow/129762244.cms"
+    },
+    {
+        "id": "8c6bc598",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Fatal Runway Collision Disrupts LaGuardia Flights",
+                "content": "LaGuardia Airport experienced major disruptions today following a fatal runway collision in New York. Hundreds of flights were canceled or delayed, significantly impacting operations. Travelers are urged to check their flight status and contact airlines as authorities investigate the tragic incident that has thrown one of NYC's busiest airports into chaos."
+            },
+            "kn": {
+                "title": "ಮಾರಣಾಂತಿಕ ರನ್‌ವೇ ಘರ್ಷಣೆ ಲಾಗಾರ್ಡಿಯಾ ವಿಮಾನಗಳನ್ನು ಅಸ್ತವ್ಯಸ್ತಗೊಳಿಸಿತು",
+                "content": "ನ್ಯೂಯಾರ್ಕ್‌ನಲ್ಲಿ ಮಾರಣಾಂತಿಕ ರನ್‌ವೇ ಘರ್ಷಣೆಯ ನಂತರ ಲಾಗಾರ್ಡಿಯಾ ವಿಮಾನ ನಿಲ್ದಾಣದಲ್ಲಿ ಇಂದು ಪ್ರಮುಖ ಅಡೆತಡೆಗಳುಂಟಾಗಿವೆ. ನೂರಾರು ವಿಮಾನಗಳು ರದ್ದುಗೊಂಡಿವೆ ಅಥವಾ ವಿಳಂಬವಾಗಿವೆ, ಕಾರ್ಯಾಚರಣೆಗಳಿಗೆ ಗಣನೀಯವಾಗಿ ಪರಿಣಾಮ ಬೀರಿವೆ. ಅಧಿಕಾರಿಗಳು ದುರಂತ ಘಟನೆಯನ್ನು ತನಿಖೆ ಮಾಡುತ್ತಿರುವಾಗ, ಪ್ರಯಾಣಿಕರು ತಮ್ಮ ವಿಮಾನದ ಸ್ಥಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಲು ಮತ್ತು ವಿಮಾನಯಾನ ಸಂಸ್ಥೆಗಳನ್ನು ಸಂಪರ್ಕಿಸಲು ಸೂಚಿಸಲಾಗಿದೆ, ಇದು NYC ಯ ಅತ್ಯಂತ ಜನನಿಬಿಡ ವಿಮಾನ ನಿಲ್ದಾಣಗಳಲ್ಲಿ ಒಂದನ್ನು ಗೊಂದಲಕ್ಕೀಡಾಗಿದೆ."
+            },
+            "mr": {
+                "title": "घातक धावपट्टी टक्कर, ला गार्डिया विमानसेवेला फटका",
+                "content": "न्यूयॉर्कमध्ये झालेल्या एका घातक धावपट्टी टक्करमुळे ला गार्डिया विमानतळावर आज मोठा व्यत्यय आला आहे. शेकडो विमानांच्या सेवा रद्द झाल्या किंवा उशिराने धावल्याने कामकाजावर लक्षणीय परिणाम झाला आहे. अधिकारी या दुःखद घटनेची चौकशी करत असल्याने प्रवाशांना त्यांच्या विमानाची स्थिती तपासण्याचे आणि एअरलाईन्सशी संपर्क साधण्याचे आवाहन करण्यात आले आहे, ज्यामुळे न्यूयॉर्कच्या सर्वात व्यस्त विमानतळांपैकी एकावर गोंधळाचे वातावरण निर्माण झाले आहे."
+            },
+            "hi": {
+                "title": "लागार्डिया उड़ानें बाधित: घातक रनवे टक्कर",
+                "content": "न्यूयॉर्क में एक घातक रनवे टक्कर के बाद आज लागार्डिया हवाई अड्डे पर बड़ी बाधाएं उत्पन्न हुई हैं। सैकड़ों उड़ानें रद्द या विलंबित हुईं, जिससे परिचालन बुरी तरह प्रभावित हुआ। यात्रियों से अपनी उड़ान की स्थिति जांचने और एयरलाइंस से संपर्क करने का आग्रह किया गया है, क्योंकि अधिकारी इस दुखद घटना की जांच कर रहे हैं, जिसने न्यूयॉर्क के सबसे व्यस्त हवाई अड्डों में से एक को अराजकता में डाल दिया है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129762098,imgsize-248412.cms",
+        "link": "https://timesofindia.indiatimes.com/world/us/is-laguardia-airport-open-hundreds-of-flights-disrupted-after-fatal-runway-collision-in-new-york/articleshow/129762098.cms"
+    },
+    {
+        "id": "3391faa3",
+        "category": "Sports",
+        "translations": {
+            "en": {
+                "title": "Chinnaswamy Stadium to Honour 11 Tragedy Victims",
+                "content": "Chinnaswamy Stadium will honor 11 fans who tragically lost their lives in a past incident. Royal Challengers Bengaluru (RCB) and KSCA are unveiling a memorial plaque and reserving 11 seats in their memory. Tributes will precede an upcoming match, ensuring the victims' legacy remains an integral part of the stadium, remembering those lost during celebrations."
+            },
+            "kn": {
+                "title": "ಚಿನ್ನಸ್ವಾಮಿ ಕ್ರೀಡಾಂಗಣದಲ್ಲಿ 11 ದುರಂತ ಸಂತ್ರಸ್ತರಿಗೆ ಗೌರವ",
+                "content": "ಚಿನ್ನಸ್ವಾಮಿ ಕ್ರೀಡಾಂಗಣವು ಹಿಂದಿನ ಘಟನೆಯಲ್ಲಿ ದುರಂತವಾಗಿ ಪ್ರಾಣ ಕಳೆದುಕೊಂಡ 11 ಅಭಿಮಾನಿಗಳನ್ನು ಗೌರವಿಸಲಿದೆ. ರಾಯಲ್ ಚಾಲೆಂಜರ್ಸ್ ಬೆಂಗಳೂರು (RCB) ಮತ್ತು KSCA ಅವರ ಸ್ಮರಣಾರ್ಥ ಸ್ಮಾರಕ ಫಲಕವನ್ನು ಅನಾವರಣಗೊಳಿಸಿ 11 ಆಸನಗಳನ್ನು ಕಾಯ್ದಿರಿಸುತ್ತಿವೆ. ಮುಂಬರುವ ಪಂದ್ಯದ ಮೊದಲು ಗೌರವ ಸಲ್ಲಿಸಲಾಗುವುದು, ಆಚರಣೆಗಳ ಸಮಯದಲ್ಲಿ ಕಳೆದುಹೋದವರನ್ನು ನೆನಪಿಸಿಕೊಳ್ಳುವ ಮೂಲಕ ಸಂತ್ರಸ್ತರ ಪರಂಪರೆ ಕ್ರೀಡಾಂಗಣದ ಅವಿಭಾಜ್ಯ ಅಂಗವಾಗಿ ಉಳಿಯುವುದನ್ನು ಇದು ಖಚಿತಪಡಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "चिन्नास्वामी स्टेडियममध्ये 11 दुर्घटनाग्रस्तांचा सन्मान",
+                "content": "चिन्नास्वामी स्टेडियम एका मागील घटनेत दुर्दैवी मृत्यूमुखी पडलेल्या 11 चाहत्यांचा सन्मान करणार आहे. रॉयल चॅलेंजर्स बंगळूरु (RCB) आणि KSCA त्यांच्या स्मरणार्थ एक स्मारक फलक आणि 11 जागा आरक्षित करणार आहेत. आगामी सामन्यापूर्वी श्रद्धांजली वाहिली जाईल, ज्यामुळे बळी पडलेल्यांचा वारसा स्टेडियमचा अविभाज्य भाग राहील आणि उत्सवादरम्यान गमावलेल्यांची आठवण ठेवली जाईल."
+            },
+            "hi": {
+                "title": "चिन्नास्वामी स्टेडियम में 11 त्रासदी पीड़ितों का सम्मान",
+                "content": "चिन्नास्वामी स्टेडियम एक पिछली घटना में दुखद रूप से जान गंवाने वाले 11 प्रशंसकों का सम्मान करेगा। रॉयल चैलेंजर्स बेंगलुरु (RCB) और KSCA उनकी याद में एक स्मारक पट्टिका का अनावरण कर रहे हैं और 11 सीटें आरक्षित कर रहे हैं। आगामी मैच से पहले श्रद्धांजलि अर्पित की जाएगी, जिससे पीड़ितों की विरासत स्टेडियम का अभिन्न अंग बनी रहे और उत्सव के दौरान खोए हुए लोगों को याद रखा जा सके।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129766944,imgsize-126734.cms",
+        "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/memorial-plaque-11-seats-to-honour-chinnaswamy-stampede-victims-rcb-ksca/articleshow/129766581.cms"
+    },
+    {
         "id": "2e4209a7",
         "category": "National",
         "translations": {
