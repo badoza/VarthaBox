@@ -2,7 +2,7 @@ name: Daily Auto News Publisher
 
 on:
   schedule:
-    - cron: '0 0,12 * * *'
+    - cron: '*/30 * * * *'
   workflow_dispatch:
 
 permissions:
@@ -18,10 +18,9 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.12' # Updated to remove the Python version warning
+          python-version: '3.12'
 
       - name: Install Dependencies
-        # Updated the package name here to the new Google GenAI library
         run: pip install requests feedparser google-genai
 
       - name: Run Auto Journalist Script
