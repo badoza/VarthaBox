@@ -1,5 +1,29 @@
 [
     {
+        "id": "60eca540",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Gujarat to Host India's Third Spaceport",
+                "content": "Gujarat is set to host India's third spaceport near Gir Somnath, a strategic move to propel the nation's booming space sector. This development, identified in consultation with IN-SPACe, will establish the state as a key aerospace hub. Gujarat is also developing a space park and a private satellite manufacturing plant, solidifying its role in India's ambitious space future."
+            },
+            "kn": {
+                "title": "ಗುಜರಾತ್ ಭಾರತದ ಮೂರನೇ ಬಾಹ್ಯಾಕಾಶ ನಿಲ್ದಾಣಕ್ಕೆ ಆತಿಥ್ಯ ವಹಿಸಲಿದೆ",
+                "content": "ಗುಜರಾತ್ ಗಿರ್ ಸೋಮನಾಥ್ ಬಳಿ ಭಾರತದ ಮೂರನೇ ಬಾಹ್ಯಾಕಾಶ ನಿಲ್ದಾಣವನ್ನು ಆತಿಥ್ಯ ವಹಿಸಲು ಸಜ್ಜಾಗಿದೆ. ಇದು ದೇಶದ ವೇಗವಾಗಿ ಬೆಳೆಯುತ್ತಿರುವ ಬಾಹ್ಯಾಕಾಶ ಕ್ಷೇತ್ರವನ್ನು ಉತ್ತೇಜಿಸುವ ಒಂದು ಕಾರ್ಯತಂತ್ರದ ಹೆಜ್ಜೆಯಾಗಿದೆ. IN-SPACe ಜೊತೆ ಸಮಾಲೋಚಿಸಿ ಗುರುತಿಸಲಾದ ಈ ಬೆಳವಣಿಗೆಯು ರಾಜ್ಯವನ್ನು ಪ್ರಮುಖ ಏರೋಸ್ಪೇಸ್ ಕೇಂದ್ರವಾಗಿ ಸ್ಥಾಪಿಸುತ್ತದೆ. ಗುಜರಾತ್ ಬಾಹ್ಯಾಕಾಶ ಪಾರ್ಕ್ ಮತ್ತು ಖಾಸಗಿ ಉಪಗ್ರಹ ಉತ್ಪಾದನಾ ಘಟಕವನ್ನು ಸಹ ಅಭಿವೃದ್ಧಿಪಡಿಸುತ್ತಿದೆ, ಇದು ಭಾರತದ ಮಹತ್ವಾಕಾಂಕ್ಷೆಯ ಬಾಹ್ಯಾಕಾಶ ಭವಿಷ್ಯದಲ್ಲಿ ಅದರ ಪಾತ್ರವನ್ನು ಗಟ್ಟಿಗೊಳಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "गुजरातमध्ये भारताचे तिसरे स्पेसपोर्ट होणार",
+                "content": "गुजरात गीर सोमनाथजवळ भारताचे तिसरे स्पेसपोर्ट उभारणार आहे, ज्यामुळे देशाच्या वाढत्या अंतराळ क्षेत्राला चालना मिळेल. IN-SPACe सोबतच्या चर्चेतून निश्चित झालेली ही योजना राज्याला एक महत्त्वाचे एरोस्पेस केंद्र म्हणून स्थापित करेल. गुजरात एक स्पेस पार्क आणि खासगी उपग्रह उत्पादन प्रकल्प देखील विकसित करत आहे, ज्यामुळे भारताच्या महत्त्वाकांक्षी अंतराळ भविष्यातील त्याची भूमिका मजबूत होईल."
+            },
+            "hi": {
+                "title": "गुजरात में होगा भारत का तीसरा स्पेसपोर्ट",
+                "content": "गुजरात गीर सोमनाथ के पास भारत के तीसरे स्पेसपोर्ट की मेजबानी करने के लिए तैयार है, जो देश के बढ़ते अंतरिक्ष क्षेत्र को बढ़ावा देने का एक रणनीतिक कदम है। IN-SPACe के परामर्श से पहचान की गई यह परियोजना राज्य को एक प्रमुख एयरोस्पेस केंद्र के रूप में स्थापित करेगी। गुजरात एक स्पेस पार्क और एक निजी उपग्रह निर्माण संयंत्र भी विकसित कर रहा है, जिससे भारत के महत्वाकांक्षी अंतरिक्ष भविष्य में उसकी भूमिका मजबूत होगी।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129786605,imgsize-662655.cms",
+        "link": "https://timesofindia.indiatimes.com/india/gujarat-government-plans-indias-third-spaceport-near-gir-somnath/articleshow/129786612.cms"
+    },
+    {
         "id": "662a7fc4",
         "category": "National",
         "translations": {
