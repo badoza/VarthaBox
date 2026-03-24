@@ -10,25 +10,37 @@ import time
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 client = genai.Client(api_key=GEMINI_API_KEY)
 
-# Using direct, reliable RSS feeds from massive publishers to prevent server blocking
+# Direct publisher RSS feeds to prevent GitHub from being blocked
 SEARCH_FEEDS = {
-    "Local & Karnataka": "https://timesofindia.indiatimes.com/rssfeeds/46088681.cms",
-    "National News": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
-    "World News": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
+    "Karnataka Local": "https://timesofindia.indiatimes.com/rssfeeds/46088681.cms",
+    "National": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
+    "World": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
     "Sports": "https://timesofindia.indiatimes.com/rssfeeds/4719148.cms",
     "Entertainment": "https://timesofindia.indiatimes.com/rssfeeds/1081479906.cms",
     "Tech & Startups": "https://timesofindia.indiatimes.com/rssfeeds/66946927.cms"
 }
 
-def extract_real_image(entry):
-    # Try enclosure first
+def extract_real_image(url, entry):
+    # 1. Check official RSS enclosures
     if 'enclosures' in entry and len(entry.enclosures) > 0:
         return entry.enclosures[0].get('href', '')
-    # Check summary for image tags
+    
+    # 2. Check hidden summary tags
     img_match = re.search(r'<img[^>]+src="([^">]+)"', entry.summary)
     if img_match:
         return img_match.group(1)
-    # Premium Fallback
+        
+    # 3. Scrape the live website for the high-res meta image
+    try:
+        headers = {'User-Agent': 'Mozilla/5.0'}
+        response = requests.get(url, headers=headers, timeout=5)
+        match = re.search(r'<meta\s+(?:property|name)="og:image"\s+content="([^"]+)"', response.text)
+        if match:
+            return match.group(1)
+    except Exception:
+        pass
+        
+    # 4. Premium Fallback
     return "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80"
 
 def generate_id(url):
@@ -47,7 +59,6 @@ def run_news_pipeline():
 
     new_articles = []
 
-    # Pull 10 articles from 6 categories = up to 60 articles
     for category, url in SEARCH_FEEDS.items():
         feed = feedparser.parse(url)
         top_entries = feed.entries[:10] 
@@ -56,12 +67,10 @@ def run_news_pipeline():
             print(f"Processing {category}: {entry.title}")
             article_id = generate_id(entry.link)
             
-            # Skip if already in database
             if any(item.get('id') == article_id for item in current_db):
-                print("Skipping existing article.")
                 continue
                 
-            image_url = extract_real_image(entry)
+            image_url = extract_real_image(entry.link, entry)
             
             prompt = f"""
             Rewrite this raw news into a tight, engaging, 60-word summary for an app.
@@ -90,18 +99,15 @@ def run_news_pipeline():
                     "link": entry.link
                 }
                 new_articles.append(article)
-                print(f"Successfully added: {category}!")
-                
-                # Protect free tier quota
-                time.sleep(4) 
+                print(f"Successfully processed {category}!")
+                time.sleep(4) # Prevent rate limits
                 
             except Exception as e:
-                print(f"Skipped article due to processing error.")
+                print(f"Skipped article due to error.")
                 time.sleep(4)
 
-    # Save up to the latest 80 articles
     updated_db = new_articles + current_db
-    updated_db = updated_db[:80] 
+    updated_db = updated_db[:80] # Keep 80 articles for endless swiping
     
     with open("news.json", "w", encoding='utf-8') as f:
         json.dump(updated_db, f, ensure_ascii=False, indent=4)
