@@ -13,14 +13,13 @@
         /* PERFECT MOBILE CSS LOCK */
         body, html { 
             margin: 0; padding: 0; 
-            width: 100vw; height: 100vh; /* Locked dimensions */
+            width: 100vw; height: 100vh; 
             background-color: #050505; 
             font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', sans-serif; 
             overflow: hidden; color: white;
             -webkit-font-smoothing: antialiased;
         }
         
-        /* Top Header */
         .top-bar { position: absolute; top: 0; left: 0; width: 100%; height: 65px; padding: 0 15px; background: rgba(158, 0, 0, 0.95); backdrop-filter: blur(10px); z-index: 100; display: flex; justify-content: space-between; align-items: center; box-sizing: border-box; box-shadow: 0 4px 15px rgba(0,0,0,0.5);}
         
         .brand-container { display: flex; flex-direction: column; justify-content: center;}
@@ -31,13 +30,10 @@
         .lang-btn { background: rgba(0,0,0,0.3); border: 1px solid rgba(255,255,255,0.2); color: white; padding: 6px 12px; border-radius: 20px; font-size: 0.8em; cursor: pointer; transition: 0.2s;}
         .lang-btn.active { background: white; color: #9e0000; font-weight: bold;}
 
-        /* Free Cricket Ticker */
         .score-ticker { position: absolute; top: 65px; left: 0; width: 100%; height: 35px; line-height: 35px; background: #111; color: #ffb142; font-size: 0.85em; font-weight: bold; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; border-bottom: 1px solid #333; z-index: 90; text-align: center; box-sizing: border-box;}
 
-        /* The swiping container - strictly calculated height */
         #news-container { position: absolute; top: 100px; left: 0; width: 100%; height: calc(100vh - 100px); overflow-y: scroll; scroll-snap-type: y mandatory; scroll-behavior: smooth; }
         
-        /* Individual News Card */
         .article { height: 100%; width: 100%; scroll-snap-align: start; display: flex; flex-direction: column; position: relative; box-sizing: border-box;}
         
         .article-img { width: 100%; height: 40%; object-fit: cover; background: #222; border-bottom: 3px solid #9e0000;}
@@ -47,7 +43,6 @@
         .article h2 { margin: 0 0 10px 0; font-size: 1.35em; line-height: 1.3; font-weight: 700;}
         .article p { margin: 0; font-size: 1.05em; line-height: 1.5; color: #d1d1d1; flex-grow: 1; overflow-y: auto;}
         
-        /* Actions & Footer */
         .action-row { display: flex; gap: 12px; margin-top: 15px;}
         .action-btn { flex: 1; background: #222; border: 1px solid #333; color: white; padding: 12px; border-radius: 12px; font-weight: bold; font-size: 0.9em; display: flex; justify-content: center; align-items: center; gap: 8px;}
         .action-btn.share { background: #9e0000; border: none;}
@@ -120,7 +115,7 @@
                             </div>
 
                             <div class="signature">
-                                Developed by <a href="https://www.instagram.com/kunal___dongare/" target="_blank">Kunal Dongare</a>
+                                developed by <a href="https://www.instagram.com/kunal___dongare/" target="_blank">Kunal Dongare</a>
                             </div>
                             <div class="swipe-instruction">
                                 Swipe up for next &bull; <a href="${article.link}" target="_blank" style="color:#666;">Original</a>
@@ -150,7 +145,9 @@
             }
         }
 
-        fetch('news.json')
+        // CACHE BUSTER: Forces the browser to load the fresh database
+        const uniqueCacheBuster = new Date().getTime();
+        fetch(`news.json?v=${uniqueCacheBuster}`)
             .then(response => response.json())
             .then(data => { newsData = data; renderNews(); });
 
