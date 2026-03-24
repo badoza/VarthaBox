@@ -1,5 +1,77 @@
 [
     {
+        "id": "ad3479d8",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "AIADMK Rolls Out Sweeping Election Promises for TN Polls",
+                "content": "AIADMK has unveiled its Tamil Nadu Assembly election manifesto, packed with populist promises. Key pledges include Rs 2,000 monthly for female household heads and Rs 10,000 for every family. The party also committed to providing free refrigerators, extended bus travel for men, and three free cooking gas cylinders annually for ration cardholders, aiming to attract voters with extensive welfare schemes."
+            },
+            "kn": {
+                "title": "AIADMK ತಮಿಳುನಾಡು ಚುನಾವಣೆಗೆ ಭಾರಿ ಭರವಸೆಗಳನ್ನು ಪ್ರಕಟಿಸಿದೆ",
+                "content": "AIADMK ತನ್ನ ತಮಿಳುನಾಡು ವಿಧಾನಸಭಾ ಚುನಾವಣಾ ಪ್ರಣಾಳಿಕೆಯನ್ನು ಅನಾವರಣಗೊಳಿಸಿದೆ, ಇದು ಜನಪ್ರಿಯ ಭರವಸೆಗಳಿಂದ ತುಂಬಿದೆ. ಪ್ರಮುಖ ಭರವಸೆಗಳಲ್ಲಿ ಮಹಿಳಾ ಕುಟುಂಬ ಮುಖ್ಯಸ್ಥರಿಗೆ ಮಾಸಿಕ 2,000 ರೂ. ಮತ್ತು ಪ್ರತಿ ಕುಟುಂಬಕ್ಕೆ 10,000 ರೂ. ಸೇರಿವೆ. ಪಕ್ಷವು ಉಚಿತ ರೆಫ್ರಿಜರೇಟರ್‌ಗಳು, ಪುರುಷರಿಗೆ ವಿಸ್ತೃತ ಬಸ್ ಪ್ರಯಾಣ ಮತ್ತು ಪಡಿತರ ಚೀಟಿ ಹೊಂದಿರುವವರಿಗೆ ವಾರ್ಷಿಕ ಮೂರು ಉಚಿತ ಅಡುಗೆ ಅನಿಲ ಸಿಲಿಂಡರ್‌ಗಳನ್ನು ಒದಗಿಸಲು ಬದ್ಧವಾಗಿದೆ, ವ್ಯಾಪಕ ಕಲ್ಯಾಣ ಯೋಜನೆಗಳೊಂದಿಗೆ ಮತದಾರರನ್ನು ಆಕರ್ಷಿಸುವ ಗುರಿಯನ್ನು ಹೊಂದಿದೆ."
+            },
+            "mr": {
+                "title": "AIADMK ने तामिळनाडू निवडणुकीसाठी मोठ्या घोषणा केल्या",
+                "content": "AIADMK ने तामिळनाडू विधानसभा निवडणुकीसाठी आपला जाहीरनामा प्रसिद्ध केला आहे, ज्यात लोकानुनयी आश्वासने भरलेली आहेत. प्रमुख आश्वासनांमध्ये महिला कुटुंबप्रमुखांसाठी मासिक 2,000 रुपये आणि प्रत्येक कुटुंबासाठी 10,000 रुपये यांचा समावेश आहे. पक्षाने मोफत रेफ्रिजरेटर, पुरुषांसाठी विस्तारित बस प्रवास आणि रेशनकार्ड धारकांना वार्षिक तीन मोफत स्वयंपाकाचे गॅस सिलिंडर देण्याचेही वचन दिले आहे, ज्याचा उद्देश व्यापक कल्याणकारी योजनांद्वारे मतदारांना आकर्षित करणे आहे."
+            },
+            "hi": {
+                "title": "AIADMK ने तमिलनाडु चुनाव के लिए बड़े वादे किए",
+                "content": "AIADMK ने तमिलनाडु विधानसभा चुनाव के लिए अपना घोषणापत्र जारी किया है, जिसमें लोकलुभावन वादों की भरमार है। प्रमुख वादों में महिला परिवार प्रमुखों के लिए मासिक 2,000 रुपये और हर परिवार के लिए 10,000 रुपये शामिल हैं। पार्टी ने मुफ्त रेफ्रिजरेटर, पुरुषों के लिए विस्तारित बस यात्रा और राशन कार्ड धारकों के लिए सालाना तीन मुफ्त रसोई गैस सिलेंडर प्रदान करने का भी वादा किया है, जिसका लक्ष्य व्यापक कल्याणकारी योजनाओं के माध्यम से मतदाताओं को आकर्षित करना है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129777591,imgsize-759746.cms",
+        "link": "https://timesofindia.indiatimes.com/india/tamil-nadu-assembly-elections-aiadmk-releases-manifesto-palaniswami-rolls-out-297-promises/articleshow/129777557.cms"
+    },
+    {
+        "id": "dc82ae0e",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Rahul Slams Modi's Fuel Crisis-Covid Comparison, Cites Deaths",
+                "content": "PM Modi likened the fuel crisis to Covid-19, sparking strong criticism from Rahul Gandhi. Gandhi condemned the comparison, emphasizing the pandemic's tragic death toll and reminding Modi not to forget the lives lost. He further attacked the government on foreign policy, its handling of the West Asia conflict, and issues concerning stranded Indian ships, accusing Modi of compromising India's international standing."
+            },
+            "kn": {
+                "title": "ಇಂಧನ ಬಿಕ್ಕಟ್ಟು-ಕೋವಿಡ್ ಹೋಲಿಕೆ: ರಾಹುಲ್‌ನಿಂದ ಮೋದಿ ಟೀಕೆ, ಸಾವುಗಳ ಸ್ಮರಣೆ",
+                "content": "ಪ್ರಧಾನಿ ಮೋದಿ ಇಂಧನ ಬಿಕ್ಕಟ್ಟನ್ನು ಕೋವಿಡ್-19ಗೆ ಹೋಲಿಸಿದ್ದು, ರಾಹುಲ್ ಗಾಂಧಿಯಿಂದ ತೀವ್ರ ಟೀಕೆಗೆ ಗುರಿಯಾಯಿತು. ಸಾಂಕ್ರಾಮಿಕ ರೋಗದ ದುರಂತ ಸಾವಿನ ಸಂಖ್ಯೆಯನ್ನು ಒತ್ತಿಹೇಳಿದ ಗಾಂಧಿ, ಮಡಿದವರನ್ನು ಮರೆಯದಂತೆ ಮೋದಿಗೆ ನೆನಪಿಸಿದರು. ಅವರು ವಿದೇಶಾಂಗ ನೀತಿ, ಪಶ್ಚಿಮ ಏಷ್ಯಾ ಸಂಘರ್ಷ ಮತ್ತು ಸಿಲುಕಿರುವ ಭಾರತೀಯ ಹಡಗುಗಳ ಬಗ್ಗೆ ಸರ್ಕಾರದ ನಿರ್ವಹಣೆಯನ್ನು ಟೀಕಿಸಿ, ಭಾರತದ ಅಂತಾರಾಷ್ಟ್ರೀಯ ಸ್ಥಾನಮಾನವನ್ನು ರಾಜಿ ಮಾಡಿಕೊಂಡಿದ್ದಾರೆ ಎಂದು ಆರೋಪಿಸಿದರು."
+            },
+            "mr": {
+                "title": "इंधन संकट-कोविड तुलना: राहुल गांधींकडून मोदींवर टीका, मृत्यूंची आठवण करून दिली",
+                "content": "पंतप्रधान मोदींनी इंधन संकटाची तुलना कोविड-19 शी केली, ज्यामुळे राहुल गांधींनी तीव्र टीका केली. गांधींनी या तुलनेचा निषेध करत साथीच्या रोगातील भीषण मृत्यूंवर भर दिला आणि मोदींना गमावलेल्या जीवांना विसरू नये अशी आठवण करून दिली. त्यांनी परराष्ट्र धोरण, पश्चिम आशिया संघर्षाचे हाताळणी आणि अडकलेल्या भारतीय जहाजांच्या मुद्द्यांवरून सरकारवर हल्ला चढवला, मोदींवर भारताची आंतरराष्ट्रीय प्रतिमा धोक्यात आणल्याचा आरोप केला."
+            },
+            "hi": {
+                "title": "ईंधन संकट-कोविड तुलना: राहुल गांधी ने मोदी पर साधा निशाना, मृतकों का किया स्मरण",
+                "content": "पीएम मोदी ने ईंधन संकट की तुलना कोविड-19 से की, जिस पर राहुल गांधी ने कड़ी आपत्ति जताई। गांधी ने तुलना की निंदा करते हुए महामारी में हुई दुखद मौतों पर जोर दिया और मोदी को उन जानों को न भूलने की याद दिलाई। उन्होंने विदेश नीति, पश्चिम एशिया संघर्ष के सरकारी प्रबंधन और फंसे हुए भारतीय जहाजों के मुद्दों पर भी सरकार पर हमला बोला, मोदी पर भारत की अंतरराष्ट्रीय स्थिति से समझौता करने का आरोप लगाया।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129776212,imgsize-59366.cms",
+        "link": "https://timesofindia.indiatimes.com/india/pm-modi-compares-fuel-crisis-to-covid-19-in-parliament-rahul-gandhi-says-dont-forget-the-deaths/articleshow/129775986.cms"
+    },
+    {
+        "id": "51c06805",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Morarji Desai: India's First Non-Congress PM in 1977",
+                "content": "On this day in 1977, Morarji Desai made history, becoming India's first non-Congress Prime Minister. Following the post-Emergency elections, the Janata Party's landslide victory ended decades of Congress rule, ushering in a new political era. Desai, a veteran leader, led a diverse coalition, aiming to restore democracy and depart from past policies. His premiership was a pivotal moment, reshaping India's multi-party landscape and demonstrating significant electoral change."
+            },
+            "kn": {
+                "title": "ಮೊರಾರ್ಜಿ ದೇಸಾಯಿ: 1977 ರಲ್ಲಿ ಭಾರತದ ಮೊದಲ ಕಾಂಗ್ರೆಸ್ಸೇತರ ಪ್ರಧಾನಿ",
+                "content": "1977 ರ ಈ ದಿನ, ಮೊರಾರ್ಜಿ ದೇಸಾಯಿ ಭಾರತದ ಮೊದಲ ಕಾಂಗ್ರೆಸ್ಸೇತರ ಪ್ರಧಾನಮಂತ್ರಿಯಾಗಿ ಇತಿಹಾಸ ನಿರ್ಮಿಸಿದರು. ತುರ್ತು ಪರಿಸ್ಥಿತಿ ನಂತರದ ಚುನಾವಣೆಗಳಲ್ಲಿ ಜನತಾ ಪಕ್ಷದ ಭಾರಿ ವಿಜಯವು ದಶಕಗಳ ಕಾಲದ ಕಾಂಗ್ರೆಸ್ ಆಡಳಿತವನ್ನು ಕೊನೆಗೊಳಿಸಿ, ಹೊಸ ರಾಜಕೀಯ ಯುಗವನ್ನು ಆರಂಭಿಸಿತು. ಹಿರಿಯ ನಾಯಕರಾದ ದೇಸಾಯಿ, ಪ್ರಜಾಪ್ರಭುತ್ವವನ್ನು ಮರುಸ್ಥಾಪಿಸಲು ಮತ್ತು ಹಿಂದಿನ ನೀತಿಗಳಿಂದ ಭಿನ್ನವಾಗಲು ಗುರಿ ಹೊಂದಿದ್ದ ವೈವಿಧ್ಯಮಯ ಒಕ್ಕೂಟವನ್ನು ಮುನ್ನಡೆಸಿದರು. ಅವರ ಪ್ರಧಾನಿತ್ವವು ಭಾರತದ ಬಹು-ಪಕ್ಷ ರಾಜಕೀಯ ಚಿತ್ರಣವನ್ನು ಮರುರೂಪಿಸಿದ ಮತ್ತು ಮಹತ್ವದ ಚುನಾವಣಾ ಬದಲಾವಣೆಯನ್ನು ಪ್ರದರ್ಶಿಸಿದ ಒಂದು ನಿರ್ಣಾಯಕ ಕ್ಷಣವಾಗಿತ್ತು."
+            },
+            "mr": {
+                "title": "मोरारजी देसाई: 1977 मध्ये भारताचे पहिले बिगर-काँग्रेस पंतप्रधान",
+                "content": "1977 च्या या दिवशी, मोरारजी देसाई यांनी भारताचे पहिले बिगर-काँग्रेस पंतप्रधान बनून इतिहास घडवला. आणीबाणीनंतरच्या निवडणुकांमध्ये, जनता पक्षाच्या दणदणीत विजयामुळे दशकांच्या काँग्रेस राजवटीचा अंत झाला आणि एका नव्या राजकीय युगाची सुरुवात झाली. ज्येष्ठ नेते देसाई यांनी लोकशाही पुनर्संचयित करणे आणि पूर्वीच्या धोरणांपासून दूर राहण्याचे उद्दिष्ट ठेवून एका विविध आघाडीचे नेतृत्व केले. त्यांचे पंतप्रधानपद भारताच्या बहु-पक्षीय राजकीय भूभागाला नव्याने आकार देणारा आणि महत्त्वपूर्ण निवडणूक बदलाचे प्रदर्शन करणारा एक महत्त्वाचा क्षण होता."
+            },
+            "hi": {
+                "title": "मोरारजी देसाई: 1977 में भारत के पहले गैर-कांग्रेसी प्रधानमंत्री",
+                "content": "1977 के इस दिन, मोरारजी देसाई ने भारत के पहले गैर-कांग्रेसी प्रधानमंत्री बनकर इतिहास रचा। आपातकाल के बाद हुए चुनावों में, जनता पार्टी की भारी जीत ने दशकों के कांग्रेस शासन को समाप्त कर एक नए राजनीतिक युग की शुरुआत की। अनुभवी नेता देसाई ने लोकतंत्र को बहाल करने और पिछली नीतियों से अलग हटकर काम करने के उद्देश्य से एक विविध गठबंधन का नेतृत्व किया। उनका प्रधानमंत्रित्व भारत के बहु-दलीय राजनीतिक परिदृश्य को नया आकार देने और महत्वपूर्ण चुनावी बदलाव को प्रदर्शित करने वाला एक महत्वपूर्ण क्षण था।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129775813,imgsize-1017070.cms",
+        "link": "https://timesofindia.indiatimes.com/india/this-day-in-1977-how-morarji-desai-became-indias-first-non-congress-pm/articleshow/129775159.cms"
+    },
+    {
         "id": "77bb6170",
         "category": "National",
         "translations": {
