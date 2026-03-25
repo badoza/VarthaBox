@@ -1,5 +1,53 @@
 [
     {
+        "id": "b9b57c42",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "J&K Defends Book Ban in High Court",
+                "content": "J&K administration defended its ban on 25 \"secessionist\" Kashmir-related books in the High Court, citing state security and public order. They justified the legal provision used. Petitioners challenging the order have been given time to respond. A full bench will hear this significant case, sparking debate over freedom of expression versus national security in the region."
+            },
+            "kn": {
+                "title": "ಜೆ & ಕೆ ಹೈಕೋರ್ಟ್‌ನಲ್ಲಿ ಪುಸ್ತಕ ನಿಷೇಧವನ್ನು ಸಮರ್ಥಿಸಿದೆ",
+                "content": "ಜಮ್ಮು ಮತ್ತು ಕಾಶ್ಮೀರ ಆಡಳಿತವು 25 'ಪ್ರತ್ಯೇಕತಾವಾದಿ' ಕಾಶ್ಮೀರ-ಸಂಬಂಧಿತ ಪುಸ್ತಕಗಳ ನಿಷೇಧವನ್ನು ಹೈಕೋರ್ಟ್‌ನಲ್ಲಿ ಸಮರ್ಥಿಸಿಕೊಂಡಿದೆ, ರಾಜ್ಯ ಭದ್ರತೆ ಮತ್ತು ಸಾರ್ವಜನಿಕ ಸುವ್ಯವಸ್ಥೆಯನ್ನು ಉಲ್ಲೇಖಿಸಿದೆ. ಅವರು ಬಳಸಿದ ಕಾನೂನು ನಿಬಂಧನೆಯನ್ನು ಸಮರ್ಥಿಸಿದರು. ಆದೇಶವನ್ನು ಪ್ರಶ್ನಿಸುವ ಅರ್ಜಿದಾರರಿಗೆ ಪ್ರತಿಕ್ರಿಯಿಸಲು ಸಮಯ ನೀಡಲಾಗಿದೆ. ಪೂರ್ಣ ಪೀಠವು ಈ ಮಹತ್ವದ ಪ್ರಕರಣವನ್ನು ಆಲಿಸಲಿದ್ದು, ಅಭಿವ್ಯಕ್ತಿ ಸ್ವಾತಂತ್ರ್ಯ ಮತ್ತು ಪ್ರದೇಶದಲ್ಲಿ ರಾಷ್ಟ್ರೀಯ ಭದ್ರತೆ ನಡುವಿನ ಚರ್ಚೆಯನ್ನು ಹುಟ್ಟುಹಾಕಿದೆ."
+            },
+            "mr": {
+                "title": "जम्मू-काश्मीरने उच्च न्यायालयात पुस्तक बंदीचे समर्थन केले",
+                "content": "जम्मू-काश्मीर प्रशासनाने उच्च न्यायालयात 25 'फुटीरतावादी' काश्मीर-संबंधित पुस्तकांवरील बंदीचे समर्थन केले, ज्यात राज्याची सुरक्षा आणि सार्वजनिक सुव्यवस्थेचा हवाला देण्यात आला. त्यांनी वापरलेल्या कायदेशीर तरतुदीचे समर्थन केले. या आदेशाला आव्हान देणाऱ्या याचिकाकर्त्यांना प्रतिसाद देण्यासाठी वेळ देण्यात आला आहे. पूर्ण पीठ या महत्त्वपूर्ण प्रकरणाची सुनावणी करेल, ज्यामुळे अभिव्यक्ती स्वातंत्र्य विरुद्ध प्रदेशातील राष्ट्रीय सुरक्षेवर वाद निर्माण झाला आहे."
+            },
+            "hi": {
+                "title": "जम्मू-कश्मीर ने हाईकोर्ट में पुस्तक प्रतिबंध का बचाव किया",
+                "content": "जम्मू-कश्मीर प्रशासन ने उच्च न्यायालय में 25 'अलगाववादी' कश्मीर-संबंधित पुस्तकों पर लगे प्रतिबंध का बचाव किया, जिसमें राज्य सुरक्षा और सार्वजनिक व्यवस्था का हवाला दिया गया। उन्होंने उपयोग किए गए कानूनी प्रावधान को उचित ठहराया। आदेश को चुनौती देने वाले याचिकाकर्ताओं को जवाब देने का समय दिया गया है। एक पूर्ण पीठ इस महत्वपूर्ण मामले की सुनवाई करेगी, जिससे क्षेत्र में अभिव्यक्ति की स्वतंत्रता बनाम राष्ट्रीय सुरक्षा पर बहस छिड़ गई है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129810015,imgsize-1244038.cms",
+        "link": "https://timesofindia.indiatimes.com/india/jk-admin-defends-ban-on-books-in-hc-says-secessionist-in-nature/articleshow/129809889.cms"
+    },
+    {
+        "id": "b535a6c0",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "India Not a Mere 'Go-Between', Says Jaishankar",
+                "content": "EAM S. Jaishankar, at an all-party meet, asserted India's global standing, stating it is not a \"go-between country\" like Pakistan. His remarks came amid speculation about India's potential role in mediating disputes involving Iran. Jaishankar emphasized India's independent foreign policy and its capacity to engage directly on major issues, rejecting the notion of being merely an intermediary."
+            },
+            "kn": {
+                "title": "ಭಾರತ ಕೇವಲ 'ಮಧ್ಯವರ್ತಿ' ಅಲ್ಲ, ಜೈಶಂಕರ್ ಹೇಳಿಕೆ",
+                "content": "ಸರ್ವಪಕ್ಷ ಸಭೆಯಲ್ಲಿ ವಿದೇಶಾಂಗ ಸಚಿವ ಎಸ್. ಜೈಶಂಕರ್ ಅವರು, ಭಾರತವು ಪಾಕಿಸ್ತಾನದಂತೆ 'ಮಧ್ಯವರ್ತಿ ದೇಶ' ಅಲ್ಲ ಎಂದು ಹೇಳುವ ಮೂಲಕ ಭಾರತದ ಜಾಗತಿಕ ಸ್ಥಾನಮಾನವನ್ನು ಪ್ರತಿಪಾದಿಸಿದರು. ಇರಾನ್ ಒಳಗೊಂಡ ವಿವಾದಗಳ ಇತ್ಯರ್ಥದಲ್ಲಿ ಭಾರತದ ಸಂಭಾವ್ಯ ಪಾತ್ರದ ಕುರಿತ ಊಹಾಪೋಹಗಳ ನಡುವೆ ಅವರ ಈ ಹೇಳಿಕೆ ಬಂದಿದೆ. ಕೇವಲ ಮಧ್ಯವರ್ತಿ ಎಂಬ ಕಲ್ಪನೆಯನ್ನು ತಿರಸ್ಕರಿಸಿ, ಪ್ರಮುಖ ವಿಷಯಗಳಲ್ಲಿ ನೇರವಾಗಿ ತೊಡಗಿಸಿಕೊಳ್ಳುವ ಭಾರತದ ಸ್ವತಂತ್ರ ವಿದೇಶಾಂಗ ನೀತಿ ಮತ್ತು ಸಾಮರ್ಥ್ಯವನ್ನು ಜೈಶಂಕರ್ ಒತ್ತಿ ಹೇಳಿದರು."
+            },
+            "mr": {
+                "title": "भारत केवळ 'मध्यस्थ' नाही, जयशंकर यांचे वक्तव्य",
+                "content": "सर्वपक्षीय बैठकीत परराष्ट्र मंत्री एस. जयशंकर यांनी भारताच्या जागतिक स्थानावर भर दिला, ते म्हणाले की, भारत पाकिस्तानसारखा 'मध्यस्थ देश' नाही. इराणशी संबंधित विवादांमध्ये भारताच्या संभाव्य मध्यस्थी भूमिकेबद्दलच्या अटकळांदरम्यान त्यांचे हे वक्तव्य आले आहे. जयशंकर यांनी भारताच्या स्वतंत्र परराष्ट्र धोरणावर आणि मोठ्या समस्यांवर थेट सहभाग घेण्याच्या क्षमतेवर जोर दिला, केवळ मध्यस्थ असण्याच्या कल्पनेला त्यांनी फेटाळून लावले."
+            },
+            "hi": {
+                "title": "भारत सिर्फ 'बिचौलिया' नहीं, जयशंकर का बयान",
+                "content": "सर्वदलीय बैठक में विदेश मंत्री एस. जयशंकर ने भारत की वैश्विक स्थिति पर जोर देते हुए कहा कि यह पाकिस्तान जैसा 'बिचौलिया देश' नहीं है। उनका यह बयान ईरान से जुड़े विवादों में भारत की संभावित मध्यस्थता भूमिका की अटकलों के बीच आया है। जयशंकर ने भारत की स्वतंत्र विदेश नीति और प्रमुख मुद्दों पर सीधे संलग्न होने की क्षमता पर जोर दिया, केवल एक बिचौलिया होने की धारणा को खारिज किया।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129803440,imgsize-34746.cms",
+        "link": "https://timesofindia.indiatimes.com/india/india-not-go-between-country-like-pakistan-s-jaishankar-at-all-party-meet-amid-iran-mediation-buzz/articleshow/129803425.cms"
+    },
+    {
         "id": "0eb36200",
         "category": "National",
         "translations": {
@@ -1870,53 +1918,5 @@
         },
         "image": "https://static.toiimg.com/photo/msid-129753003,imgsize-143514.cms",
         "link": "https://timesofindia.indiatimes.com/world/us/a-hidden-universe-beneath-kentucky-how-mammoth-cave-stretched-686-kilometres-underground/articleshow/129752912.cms"
-    },
-    {
-        "id": "edc70f7c",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "US-Iran Talks in Pakistan? White House Noncommittal",
-                "content": "Reports suggest potential US-Iran talks in Islamabad, mediated by Pakistan and other nations, following a pause in US strikes. While Iran denies direct negotiations, the White House remains noncommittal, labeling the situation \"sensitive and fluid.\" The diplomatic push seeks dialogue amidst high regional tensions, though official confirmation is pending."
-            },
-            "kn": {
-                "title": "ಪಾಕಿಸ್ತಾನದಲ್ಲಿ ಅಮೆರಿಕಾ-ಇರಾನ್ ಮಾತುಕತೆ? ಶ್ವೇತಭವನ ಸ್ಪಷ್ಟಪಡಿಸಿಲ್ಲ",
-                "content": "ಅಮೆರಿಕಾದ ದಾಳಿಗಳ ವಿರಾಮದ ನಂತರ, ಪಾಕಿಸ್ತಾನ ಮತ್ತು ಇತರ ರಾಷ್ಟ್ರಗಳ ಮಧ್ಯಸ್ಥಿಕೆಯಲ್ಲಿ ಇಸ್ಲಾಮಾಬಾದ್‌ನಲ್ಲಿ ಅಮೆರಿಕಾ-ಇರಾನ್ ಮಾತುಕತೆ ನಡೆಯುವ ಸಾಧ್ಯತೆಯಿದೆ ಎಂದು ವರದಿಗಳು ಸೂಚಿಸುತ್ತವೆ. ಇರಾನ್ ನೇರ ಮಾತುಕತೆಗಳನ್ನು ನಿರಾಕರಿಸಿದರೂ, ಶ್ವೇತಭವನವು ಈ ಪರಿಸ್ಥಿತಿಯನ್ನು 'ಸೂಕ್ಷ್ಮ ಮತ್ತು ಅನಿಶ್ಚಿತ' ಎಂದು ಕರೆದು, ಯಾವುದೇ ಸ್ಪಷ್ಟ ನಿಲುವು ತೆಗೆದುಕೊಂಡಿಲ್ಲ. ಅಧಿಕೃತ ದೃಢೀಕರಣ ಇನ್ನೂ ಬಾಕಿ ಇದ್ದರೂ, ಪ್ರಾದೇಶಿಕ ಉದ್ವಿಗ್ನತೆಯ ನಡುವೆ ರಾಜತಾಂತ್ರಿಕ ಪ್ರಯತ್ನಗಳು ಸಂಭಾಷಣೆಗೆ ಶ್ರಮಿಸುತ್ತಿವೆ."
-            },
-            "mr": {
-                "title": "पाकिस्तानमध्ये अमेरिका-इराण चर्चा? व्हाईट हाऊस अस्पष्ट",
-                "content": "अमेरिकेच्या हल्ल्यांना विराम दिल्यानंतर, पाकिस्तान आणि इतर देशांच्या मध्यस्थीने इस्लामाबादमध्ये अमेरिका-इराण यांच्यात संभाव्य चर्चा सुरू होण्याचे वृत्त आहे. इराणने थेट वाटाघाटी नाकारल्या असल्या तरी, व्हाईट हाऊसने या परिस्थितीला 'संवेदनशील आणि अस्थिर' असे संबोधत कोणतीही ठोस भूमिका घेतलेली नाही. अधिकृत दुजोरा प्रलंबित असला तरी, प्रादेशिक तणावामध्ये संवादासाठी राजनैतिक प्रयत्न सुरू आहेत."
-            },
-            "hi": {
-                "title": "पाकिस्तान में अमेरिका-ईरान वार्ता? व्हाइट हाउस अस्पष्ट",
-                "content": "अमेरिकी हमलों में विराम के बाद, पाकिस्तान और अन्य देशों की मध्यस्थता से इस्लामाबाद में अमेरिका-ईरान के बीच संभावित वार्ता की खबरें हैं। हालांकि ईरान सीधी बातचीत से इनकार करता है, व्हाइट हाउस ने स्थिति को 'संवेदनशील और अस्थिर' बताते हुए कोई स्पष्ट रुख नहीं अपनाया है। आधिकारिक पुष्टि लंबित होने के बावजूद, क्षेत्रीय तनाव के बीच संवाद के लिए राजनयिक प्रयास जारी हैं।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129765628,imgsize-845281.cms",
-        "link": "https://timesofindia.indiatimes.com/world/us/are-us-iran-talks-happening-in-pakistan-what-white-house-said/articleshow/129765522.cms"
-    },
-    {
-        "id": "0d3af398",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "Iran Strikes Nuke Facility, Israel's Defenses Under Scrutiny",
-                "content": "Iran has reportedly struck a nuclear research facility, placing Israel's renowned missile defense systems under intense scrutiny. The attack raises serious questions about the effectiveness of Israel's protective measures and heightens regional tensions. Experts are evaluating the incident's implications for future security and defense strategies in the Middle East."
-            },
-            "kn": {
-                "title": "ಇರಾನ್ ಅಣು ಸೌಲಭ್ಯಕ್ಕೆ ದಾಳಿ, ಇಸ್ರೇಲ್‌ನ ರಕ್ಷಣೆಗಳ ಪರಿಶೀಲನೆ",
-                "content": "ಇರಾನ್ ಅಣು ಸಂಶೋಧನಾ ಸೌಲಭ್ಯದ ಮೇಲೆ ದಾಳಿ ನಡೆಸಿದೆ ಎಂದು ವರದಿಯಾಗಿದೆ, ಇದು ಇಸ್ರೇಲ್‌ನ ಹೆಸರಾಂತ ಕ್ಷಿಪಣಿ ರಕ್ಷಣಾ ವ್ಯವಸ್ಥೆಗಳನ್ನು ತೀವ್ರ ಪರಿಶೀಲನೆಗೆ ಒಳಪಡಿಸಿದೆ. ಈ ದಾಳಿಯು ಇಸ್ರೇಲ್‌ನ ರಕ್ಷಣಾತ್ಮಕ ಕ್ರಮಗಳ ಪರಿಣಾಮಕಾರಿತ್ವದ ಬಗ್ಗೆ ಗಂಭೀರ ಪ್ರಶ್ನೆಗಳನ್ನು ಹುಟ್ಟುಹಾಕಿದೆ ಮತ್ತು ಪ್ರಾದೇಶಿಕ ಉದ್ವಿಗ್ನತೆಯನ್ನು ಹೆಚ್ಚಿಸಿದೆ. ಮಧ್ಯಪ್ರಾಚ್ಯದಲ್ಲಿ ಭವಿಷ್ಯದ ಭದ್ರತೆ ಮತ್ತು ರಕ್ಷಣಾ ತಂತ್ರಗಳಿಗೆ ಈ ಘಟನೆಯ ಪರಿಣಾಮಗಳನ್ನು ತಜ್ಞರು ಮೌಲ್ಯಮಾಪನ ಮಾಡುತ್ತಿದ್ದಾರೆ."
-            },
-            "mr": {
-                "title": "इराणचा अणुसुविधा केंद्रावर हल्ला, इस्रायलच्या संरक्षणावर प्रश्नचिन्ह",
-                "content": "इराणने अणुसंशोधन सुविधेवर हल्ला केल्याचे वृत्त आहे, ज्यामुळे इस्रायलच्या प्रख्यात क्षेपणास्त्र संरक्षण प्रणालींवर सखोल तपासणी सुरू झाली आहे. या हल्ल्यामुळे इस्रायलच्या संरक्षणात्मक उपायांच्या परिणामकारकतेबद्दल गंभीर प्रश्न निर्माण झाले आहेत आणि प्रादेशिक तणाव वाढला आहे. मध्यपूर्वेतील भविष्यातील सुरक्षा आणि संरक्षण धोरणांसाठी या घटनेचे परिणाम तज्ज्ञ तपासत आहेत."
-            },
-            "hi": {
-                "title": "ईरान का परमाणु सुविधा पर हमला, इजरायल की सुरक्षा घेरे में",
-                "content": "ईरान ने कथित तौर पर एक परमाणु अनुसंधान सुविधा पर हमला किया है, जिससे इजरायल की प्रसिद्ध मिसाइल रक्षा प्रणालियां गहन जांच के दायरे में आ गई हैं। यह हमला इजरायल के सुरक्षात्मक उपायों की प्रभावशीलता पर गंभीर सवाल उठाता है और क्षेत्रीय तनाव को बढ़ाता है। विशेषज्ञ मध्य पूर्व में भविष्य की सुरक्षा और रक्षा रणनीतियों के लिए इस घटना के निहितार्थों का मूल्यांकन कर रहे हैं।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129765588,imgsize-1765100.cms",
-        "link": "https://timesofindia.indiatimes.com/world/middle-east/israels-missile-defence-under-scrutiny-after-iran-strikes-nuke-research-facility/articleshow/129765577.cms"
     }
 ]
