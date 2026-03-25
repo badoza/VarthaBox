@@ -1,5 +1,29 @@
 [
     {
+        "id": "4e234542",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Fuel Stations Run Dry Amid Supply Shortage",
+                "content": "Fuel stations in various regions are displaying 'no stock' signs as pumps run dry, causing widespread concern. The shortage impacts daily travel and commercial activities, with many struggling to find operational pumps. Customers face uncertainty amid the supply disruption. Authorities have yet to address the situation, leading to potential price hikes and travel woes."
+            },
+            "kn": {
+                "title": "ಇಂಧನ ಕೇಂದ್ರಗಳಲ್ಲಿ ಪೂರೈಕೆ ಕೊರತೆಯಿಂದ ಶುಷ್ಕತೆ",
+                "content": "ವಿವಿಧ ಪ್ರದೇಶಗಳಲ್ಲಿನ ಇಂಧನ ಕೇಂದ್ರಗಳು ಪಂಪ್‌ಗಳು ಖಾಲಿಯಾಗುತ್ತಿದ್ದಂತೆ 'ಸ್ಟಾಕ್ ಇಲ್ಲ' ಎಂಬ ಫಲಕಗಳನ್ನು ಪ್ರದರ್ಶಿಸುತ್ತಿವೆ, ಇದು ವ್ಯಾಪಕ ಕಳವಳಕ್ಕೆ ಕಾರಣವಾಗಿದೆ. ಈ ಕೊರತೆಯು ದೈನಂದಿನ ಪ್ರಯಾಣ ಮತ್ತು ವಾಣಿಜ್ಯ ಚಟುವಟಿಕೆಗಳ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರುತ್ತಿದೆ, ಅನೇಕರು ಕಾರ್ಯನಿರ್ವಹಿಸುವ ಪಂಪ್‌ಗಳನ್ನು ಹುಡುಕಲು ಹೆಣಗಾಡುತ್ತಿದ್ದಾರೆ. ಪೂರೈಕೆ ಅಡಚಣೆಯ ಮಧ್ಯೆ ಗ್ರಾಹಕರು ಅನಿಶ್ಚಿತತೆಯನ್ನು ಎದುರಿಸುತ್ತಿದ್ದಾರೆ. ಅಧಿಕಾರಿಗಳು ಈ ಪರಿಸ್ಥಿತಿಯನ್ನು ಇನ್ನೂ ಪರಿಹರಿಸಿಲ್ಲ, ಇದು ಬೆಲೆ ಏರಿಕೆ ಮತ್ತು ಪ್ರಯಾಣದ ತೊಂದರೆಗಳಿಗೆ ಕಾರಣವಾಗಬಹುದು."
+            },
+            "mr": {
+                "title": "इंधन पुरवठा तुटवड्यामुळे पेट्रोल पंप कोरडे",
+                "content": "विविध भागांतील इंधन पंपांवर 'स्टॉक नाही' असे फलक दिसू लागले आहेत, कारण पंप कोरडे पडले आहेत, ज्यामुळे सर्वसामान्यांमध्ये चिंता वाढली आहे. या तुटवड्यामुळे दैनंदिन प्रवास आणि व्यावसायिक क्रियाकलापांवर परिणाम होत आहे, अनेक जण कार्यान्वित पंप शोधण्यासाठी धडपडत आहेत. पुरवठा खंडित झाल्यामुळे ग्राहकांना अनिश्चिततेचा सामना करावा लागत आहे. अधिकाऱ्यांनी अद्याप या परिस्थितीवर भाष्य केलेले नाही, ज्यामुळे संभाव्य दरवाढ आणि प्रवासाचे संकट निर्माण झाले आहे."
+            },
+            "hi": {
+                "title": "आपूर्ति संकट के बीच सूखे पेट्रोल पंप",
+                "content": "विभिन्न क्षेत्रों में ईंधन स्टेशन 'नो स्टॉक' के संकेत दिखा रहे हैं क्योंकि पंप सूख गए हैं, जिससे व्यापक चिंता पैदा हो गई है। यह कमी दैनिक यात्रा और व्यावसायिक गतिविधियों को प्रभावित कर रही है, कई लोग चालू पंप खोजने के लिए संघर्ष कर रहे हैं। आपूर्ति बाधित होने के कारण ग्राहक अनिश्चितता का सामना कर रहे हैं। अधिकारियों ने अभी तक स्थिति पर कोई टिप्पणी नहीं की है, जिससे संभावित मूल्य वृद्धि और यात्रा संबंधी दिक्कतें हो सकती हैं।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129811433,imgsize-1154614.cms",
+        "link": "https://timesofindia.indiatimes.com/india/petrol-stations-put-up-no-stock-boards-as-pumps-run-dry/articleshow/129811429.cms"
+    },
+    {
         "id": "d875af69",
         "category": "National",
         "translations": {
@@ -1894,29 +1918,5 @@
         },
         "image": "https://static.toiimg.com/photo/msid-129727558,imgsize-480366.cms",
         "link": "https://timesofindia.indiatimes.com/world/middle-east/us-israel-iran-war-news-live-udates-latest-news-middle-east-crisis-conflict-drone-ballistic-missile-attack-gulf-countries-dubai-qatar-news-donald-trump-netanyahu-strait-of-hormuz-lpg-tanker-iran-attack-qatar/liveblog/129727558.cms"
-    },
-    {
-        "id": "1a5c22ea",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "Dubai's Hamdan Scholarship Applications Open for 2026-27",
-                "content": "Dubai has officially opened applications for the prestigious Hamdan bin Mohammed Scholarship Programme for the 2026-27 academic year. This sought-after scholarship offers a unique opportunity for students pursuing higher education. Prospective applicants can now submit their forms to be considered for this invaluable programme, supporting academic excellence and fostering future leaders. Don't miss this chance to study in Dubai!"
-            },
-            "kn": {
-                "title": "ದುಬೈ 2026-27 ಹಮ್ದಾನ್ ವಿದ್ಯಾರ್ಥಿವೇತನ ಅರ್ಜಿಗಳು ಈಗ ತೆರೆದಿವೆ",
-                "content": "ದುಬೈ 2026-27 ಶೈಕ್ಷಣಿಕ ವರ್ಷಕ್ಕಾಗಿ ಪ್ರತಿಷ್ಠಿತ ಹಮ್ದಾನ್ ಬಿನ್ ಮೊಹಮ್ಮದ್ ವಿದ್ಯಾರ್ಥಿವೇತನ ಕಾರ್ಯಕ್ರಮಕ್ಕಾಗಿ ಅರ್ಜಿಗಳನ್ನು ಅಧಿಕೃತವಾಗಿ ತೆರೆದಿದೆ. ಈ ಬಹುಬೇಡಿಕೆಯ ವಿದ್ಯಾರ್ಥಿವೇತನವು ಉನ್ನತ ಶಿಕ್ಷಣವನ್ನು ಪಡೆಯುವ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಅನನ್ಯ ಅವಕಾಶವನ್ನು ನೀಡುತ್ತದೆ. ಆಕಾಂಕ್ಷಿ ಅಭ್ಯರ್ಥಿಗಳು ಈಗ ಈ ಅಮೂಲ್ಯ ಕಾರ್ಯಕ್ರಮಕ್ಕಾಗಿ ತಮ್ಮ ಅರ್ಜಿಗಳನ್ನು ಸಲ್ಲಿಸಬಹುದು, ಇದು ಶೈಕ್ಷಣಿಕ ಶ್ರೇಷ್ಠತೆಯನ್ನು ಬೆಂಬಲಿಸುತ್ತದೆ ಮತ್ತು ಭವಿಷ್ಯದ ನಾಯಕರನ್ನು ಪೋಷಿಸುತ್ತದೆ. ದುಬೈನಲ್ಲಿ ಅಧ್ಯಯನ ಮಾಡುವ ಈ ಅವಕಾಶವನ್ನು ಕಳೆದುಕೊಳ್ಳಬೇಡಿ!"
-            },
-            "mr": {
-                "title": "दुबईच्या हमदान शिष्यवृत्तीसाठी 2026-27 अर्ज खुले",
-                "content": "दुबईने 2026-27 शैक्षणिक वर्षासाठी प्रतिष्ठित हमदान बिन मोहम्मद शिष्यवृत्ती कार्यक्रमासाठी अर्ज अधिकृतपणे सुरू केले आहेत. ही बहुप्रतिक्षित शिष्यवृत्ती उच्च शिक्षण घेऊ इच्छिणाऱ्या विद्यार्थ्यांना एक अनोखी संधी देते. इच्छुक अर्जदार आता या मौल्यवान कार्यक्रमासाठी अर्ज सादर करू शकतात, जे शैक्षणिक उत्कृष्टतेला प्रोत्साहन देईल आणि भविष्यातील नेत्यांना घडवेल. दुबईमध्ये शिकण्याची ही संधी गमावू नका!"
-            },
-            "hi": {
-                "title": "दुबई की हमदान छात्रवृत्ति के लिए 2026-27 आवेदन खुले",
-                "content": "दुबई ने 2026-27 शैक्षणिक वर्ष के लिए प्रतिष्ठित हमदान बिन मोहम्मद छात्रवृत्ति कार्यक्रम के लिए आवेदन आधिकारिक तौर पर खोल दिए हैं। यह बहुप्रतीक्षित छात्रवृत्ति उच्च शिक्षा प्राप्त करने वाले छात्रों के लिए एक अनूठा अवसर प्रदान करती है। इच्छुक आवेदक अब इस अमूल्य कार्यक्रम के लिए अपने फॉर्म जमा कर सकते हैं, जो शैक्षणिक उत्कृष्टता का समर्थन करेगा और भविष्य के नेताओं को तैयार करेगा। दुबई में अध्ययन करने का यह अवसर न चूकें!"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129767582,imgsize-1188233.cms",
-        "link": "https://timesofindia.indiatimes.com/world/middle-east/dubai-opens-applications-for-hamdan-bin-mohammed-scholarship-programme-for-202627-academic-year/articleshow/129767380.cms"
     }
 ]
