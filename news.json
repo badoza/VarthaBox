@@ -1,5 +1,101 @@
 [
     {
+        "id": "71113db9",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "IITs Shine Globally in QS Top 50 Rankings",
+                "content": "Indian Institutes of Technology (IITs) have significantly boosted India's global academic presence, with multiple engineering disciplines now ranking among the world's top 50 in the QS Subject Rankings. This includes strong performances in subjects like Petroleum Engineering and Materials Science. Additionally, IIM Ahmedabad shows advancement in management education. This trend highlights India's improving higher education quality and increasing global competitiveness, solidifying its mark on the international stage."
+            },
+            "kn": {
+                "title": "ಐಐಟಿಗಳು ಕ್ಯೂಎಸ್ ಟಾಪ್ 50 ಶ್ರೇಯಾಂಕಗಳಲ್ಲಿ ಜಾಗತಿಕವಾಗಿ ಮಿಂಚಿವೆ",
+                "content": "ಭಾರತೀಯ ತಾಂತ್ರಿಕ ಸಂಸ್ಥೆಗಳು (ಐಐಟಿಗಳು) ಭಾರತದ ಜಾಗತಿಕ ಶೈಕ್ಷಣಿಕ ಅಸ್ತಿತ್ವವನ್ನು ಗಮನಾರ್ಹವಾಗಿ ಹೆಚ್ಚಿಸಿವೆ. ಕ್ಯೂಎಸ್ ವಿಷಯ ಶ್ರೇಯಾಂಕಗಳಲ್ಲಿ ಬಹು ಎಂಜಿನಿಯರಿಂಗ್ ವಿಭಾಗಗಳು ಈಗ ವಿಶ್ವದ ಟಾಪ್ 50 ರಲ್ಲಿ ಸ್ಥಾನ ಪಡೆದಿವೆ. ಇದರಲ್ಲಿ ಪೆಟ್ರೋಲಿಯಂ ಎಂಜಿನಿಯರಿಂಗ್ ಮತ್ತು ಮೆಟೀರಿಯಲ್ಸ್ ಸೈನ್ಸ್‌ನಂತಹ ವಿಷಯಗಳಲ್ಲಿನ ಉತ್ತಮ ಸಾಧನೆಗಳು ಸೇರಿವೆ. ಹೆಚ್ಚುವರಿಯಾಗಿ, ಐಐಎಂ ಅಹಮದಾಬಾದ್ ನಿರ್ವಹಣಾ ಶಿಕ್ಷಣದಲ್ಲಿ ಪ್ರಗತಿ ತೋರಿಸಿದೆ. ಈ ಪ್ರವೃತ್ತಿಯು ಭಾರತದ ಉನ್ನತ ಶಿಕ್ಷಣದ ಗುಣಮಟ್ಟ ಸುಧಾರಣೆ ಮತ್ತು ಜಾಗತಿಕ ಸ್ಪರ್ಧಾತ್ಮಕತೆಯನ್ನು ಹೆಚ್ಚಿಸುತ್ತಿರುವುದನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ, ಅಂತರರಾಷ್ಟ್ರೀಯ ಮಟ್ಟದಲ್ಲಿ ತನ್ನ ಛಾಪು ಮೂಡಿಸುತ್ತಿದೆ."
+            },
+            "mr": {
+                "title": "क्यूएस टॉप ५० रँकिंगमध्ये आयआयटी जागतिक स्तरावर चमकले",
+                "content": "इंडियन इन्स्टिट्यूट ऑफ टेक्नॉलॉजी (आयआयटी) ने भारताची जागतिक शैक्षणिक उपस्थिती लक्षणीयरीत्या वाढवली आहे. क्यूएस विषय क्रमवारीत अनेक अभियांत्रिकी शाखा आता जगातील टॉप ५० मध्ये समाविष्ट झाल्या आहेत. यामध्ये पेट्रोलियम अभियांत्रिकी आणि मटेरियल सायन्ससारख्या विषयांमध्ये उत्तम कामगिरीचा समावेश आहे. याव्यतिरिक्त, आयआयएम अहमदाबादने व्यवस्थापन शिक्षणामध्ये प्रगती दर्शविली आहे. हा कल भारताच्या उच्च शिक्षणाच्या गुणवत्तेत सुधारणा आणि वाढती जागतिक स्पर्धात्मकता अधोरेखित करतो, ज्यामुळे आंतरराष्ट्रीय स्तरावर आपले स्थान मजबूत होत आहे."
+            },
+            "hi": {
+                "title": "क्यूएस टॉप 50 रैंकिंग में आईआईटी विश्व स्तर पर चमके",
+                "content": "भारतीय प्रौद्योगिकी संस्थान (आईआईटी) ने भारत की वैश्विक शैक्षणिक उपस्थिति को महत्वपूर्ण रूप से बढ़ावा दिया है. क्यूएस विषय रैंकिंग में अब कई इंजीनियरिंग विषय दुनिया के शीर्ष 50 में शामिल हो गए हैं. इसमें पेट्रोलियम इंजीनियरिंग और मैटेरियल्स साइंस जैसे विषयों में मजबूत प्रदर्शन शामिल है. इसके अतिरिक्त, आईआईएम अहमदाबाद प्रबंधन शिक्षा में प्रगति दिखा रहा है. यह प्रवृत्ति भारत की उच्च शिक्षा की गुणवत्ता में सुधार और बढ़ती वैश्विक प्रतिस्पर्धात्मकता को उजागर करती है, जिससे अंतरराष्ट्रीय मंच पर अपनी पहचान मजबूत हो रही है."
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129812220,imgsize-1003789.cms",
+        "link": "https://timesofindia.indiatimes.com/india/global-boost-iits-make-mark-in-qs-top-50-rankings-by-subject/articleshow/129812077.cms"
+    },
+    {
+        "id": "e7bc6942",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "India Extends Key Immigration Scheme, Boosts Security",
+                "content": "India's Union Cabinet approved extending the Immigration and Visa Tracking Scheme (IVFRT) for five years until March 2031, backed by a Rs 1,800 crore outlay. This vital initiative aims to enhance national security and streamline visa and immigration processes for foreign visitors. By interlinking multiple databases, it promises efficient, informed decision-making, bolstering secure entry and border management."
+            },
+            "kn": {
+                "title": "ಭಾರತ ಪ್ರಮುಖ ವಲಸೆ ಯೋಜನೆಯನ್ನು ವಿಸ್ತರಿಸಿದೆ, ಭದ್ರತೆಯನ್ನು ಹೆಚ್ಚಿಸಿದೆ",
+                "content": "ಭಾರತದ ಕೇಂದ್ರ ಸಚಿವ ಸಂಪುಟವು ವಲಸೆ ಮತ್ತು ವೀಸಾ ಟ್ರ್ಯಾಕಿಂಗ್ ಯೋಜನೆ (IVFRT) ಅನ್ನು ಐದು ವರ್ಷಗಳವರೆಗೆ, ಅಂದರೆ ಮಾರ್ಚ್ 2031 ರವರೆಗೆ ವಿಸ್ತರಿಸಲು ಅನುಮೋದನೆ ನೀಡಿದೆ. ಇದಕ್ಕೆ 1,800 ಕೋಟಿ ರೂ.ಗಳ ಬಜೆಟ್ ಬೆಂಬಲವಿದೆ. ಈ ಪ್ರಮುಖ ಉಪಕ್ರಮವು ರಾಷ್ಟ್ರೀಯ ಭದ್ರತೆಯನ್ನು ಹೆಚ್ಚಿಸಲು ಮತ್ತು ವಿದೇಶಿ ಸಂದರ್ಶಕರಿಗೆ ವೀಸಾ ಮತ್ತು ವಲಸೆ ಪ್ರಕ್ರಿಯೆಗಳನ್ನು ಸುಗಮಗೊಳಿಸುವ ಗುರಿಯನ್ನು ಹೊಂದಿದೆ. ಬಹು ಡೇಟಾಬೇಸ್‌ಗಳನ್ನು ಪರಸ್ಪರ ಸಂಪರ್ಕಿಸುವ ಮೂಲಕ, ಇದು ಸಮರ್ಥ, ಮಾಹಿತಿ ಆಧಾರಿತ ನಿರ್ಧಾರ ತೆಗೆದುಕೊಳ್ಳುವುದನ್ನು ಖಚಿತಪಡಿಸುತ್ತದೆ, ಸುರಕ್ಷಿತ ಪ್ರವೇಶ ಮತ್ತು ಗಡಿ ನಿರ್ವಹಣೆಯನ್ನು ಬಲಪಡಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "भारताने महत्त्वाच्या स्थलांतर योजनेचा विस्तार केला, सुरक्षा वाढवली",
+                "content": "भारताच्या केंद्रीय मंत्रिमंडळाने इमिग्रेशन आणि व्हिसा ट्रॅकिंग योजना (IVFRT) मार्च २०२१ पर्यंत पाच वर्षांसाठी वाढवण्यास मंजुरी दिली आहे, ज्यासाठी १,८०० कोटी रुपयांचा निधी मंजूर करण्यात आला आहे. हा महत्त्वाचा उपक्रम राष्ट्रीय सुरक्षा वाढवण्यासोबतच परदेशी पाहुण्यांसाठी व्हिसा आणि स्थलांतर प्रक्रिया सुलभ करण्याचे उद्दिष्ट ठेवतो. अनेक डेटाबेस एकमेकांशी जोडून, ही योजना कार्यक्षम, माहितीपूर्ण निर्णय सुनिश्चित करते, सुरक्षित प्रवेश आणि सीमा व्यवस्थापन मजबूत करते."
+            },
+            "hi": {
+                "title": "भारत ने प्रमुख आव्रजन योजना का विस्तार किया, सुरक्षा बढ़ाई",
+                "content": "भारत के केंद्रीय मंत्रिमंडल ने आव्रजन और वीज़ा ट्रैकिंग योजना (IVFRT) को मार्च 2031 तक पांच साल के लिए बढ़ाने की मंजूरी दे दी है, जिसके लिए 1,800 करोड़ रुपये का आवंटन किया गया है। इस महत्वपूर्ण पहल का उद्देश्य राष्ट्रीय सुरक्षा को बढ़ाना और विदेशी आगंतुकों के लिए वीज़ा तथा आव्रजन प्रक्रियाओं को सुव्यवस्थित करना है। कई डेटाबेस को आपस में जोड़कर, यह कुशल, सूचित निर्णय लेने का वादा करती है, जिससे सुरक्षित प्रवेश और सीमा प्रबंधन को मजबूती मिलती है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129811710,imgsize-1035569.cms",
+        "link": "https://timesofindia.indiatimes.com/india/with-rs-1800cr-outlay-immigration-scheme-extended-for-5-years/articleshow/129811704.cms"
+    },
+    {
+        "id": "70147cb2",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "BlackRock CEO Warns: $150 Oil, Global Recession Looms",
+                "content": "BlackRock CEO Larry Fink warns that rising geopolitical tensions could push oil to $150/barrel, risking a deep global recession. He emphasizes the regressive impact on consumers, noting Strait of Hormuz instability may keep prices elevated for years. Fink urges accelerating alternative energy investments to shield economies from prolonged energy shocks and their severe economic consequences."
+            },
+            "kn": {
+                "title": "ಬ್ಲ್ಯಾಕ್‌ರಾಕ್ ಸಿಇಒ ಎಚ್ಚರಿಕೆ: $150 ತೈಲ, ಜಾಗತಿಕ ಆರ್ಥಿಕ ಹಿಂಜರಿತದ ಭೀತಿ",
+                "content": "ಬ್ಲ್ಯಾಕ್‌ರಾಕ್ ಸಿಇಒ ಲ್ಯಾರಿ ಫಿಂಕ್, ಹೆಚ್ಚುತ್ತಿರುವ ಭೌಗೋಳಿಕ ರಾಜಕೀಯ ಉದ್ವಿಗ್ನತೆಗಳು ತೈಲವನ್ನು ಬ್ಯಾರೆಲ್‌ಗೆ $150 ಕ್ಕೆ ತಳ್ಳಬಹುದು, ಆಳವಾದ ಜಾಗತಿಕ ಆರ್ಥಿಕ ಹಿಂಜರಿತದ ಅಪಾಯವನ್ನುಂಟುಮಾಡಬಹುದು ಎಂದು ಎಚ್ಚರಿಸಿದ್ದಾರೆ. ಅವರು ಗ್ರಾಹಕರ ಮೇಲಿನ ಹಿನ್ನಡೆ ಪರಿಣಾಮವನ್ನು ಒತ್ತಿಹೇಳುತ್ತಾರೆ, ಹಾರ್ಮುಜ್ ಜಲಸಂಧಿಯ ಅಸ್ಥಿರತೆಯು ವರ್ಷಗಳವರೆಗೆ ಬೆಲೆಗಳನ್ನು ಹೆಚ್ಚಾಗಿ ಇರಿಸಬಹುದು ಎಂದು ಗಮನಿಸುತ್ತಾರೆ. ದೀರ್ಘಕಾಲದ ಇಂಧನ ಆಘಾತಗಳು ಮತ್ತು ಅವುಗಳ ತೀವ್ರ ಆರ್ಥಿಕ ಪರಿಣಾಮಗಳಿಂದ ಆರ್ಥಿಕತೆಗಳನ್ನು ರಕ್ಷಿಸಲು ಪರ್ಯಾಯ ಇಂಧನ ಹೂಡಿಕೆಗಳನ್ನು ವೇಗಗೊಳಿಸಲು ಫಿಂಕ್ ಒತ್ತಾಯಿಸಿದ್ದಾರೆ."
+            },
+            "mr": {
+                "title": "ब्लॅकरॉक सीईओचा इशारा: $150 प्रति बॅरल तेल, जागतिक मंदीची शक्यता",
+                "content": "ब्लॅकरॉकचे सीईओ लॅरी फिंक यांनी चेतावणी दिली आहे की वाढत्या भू-राजकीय तणावामुळे तेलाची किंमत $150 प्रति बॅरलपर्यंत वाढू शकते, ज्यामुळे गंभीर जागतिक मंदीचा धोका निर्माण होऊ शकतो. त्यांनी ग्राहकांवरील प्रतिगामी परिणामांवर भर दिला आणि नमूद केले की, होर्मुझच्या सामुद्रधुनीतील अस्थिरता अनेक वर्षांपर्यंत किमती वाढवून ठेवू शकते. दीर्घकालीन ऊर्जा संकटे आणि त्यांच्या गंभीर आर्थिक परिणामांपासून अर्थव्यवस्थांचे संरक्षण करण्यासाठी फिंक यांनी पर्यायी ऊर्जा गुंतवणुकीला गती देण्याचे आवाहन केले आहे."
+            },
+            "hi": {
+                "title": "ब्लैकरॉक सीईओ की चेतावनी: $150 तेल, वैश्विक मंदी का मंडराता खतरा",
+                "content": "ब्लैकरॉक के सीईओ लैरी फिंक ने चेतावनी दी है कि बढ़ते भू-राजनीतिक तनाव तेल को $150 प्रति बैरल तक धकेल सकते हैं, जिससे गहरी वैश्विक मंदी का खतरा है। उन्होंने उपभोक्ताओं पर प्रतिगामी प्रभाव पर जोर दिया, यह देखते हुए कि होर्मुज जलडमरूमध्य में अस्थिरता वर्षों तक कीमतें ऊंची रख सकती है। फिंक ने लंबे समय तक चलने वाले ऊर्जा झटकों और उनके गंभीर आर्थिक परिणामों से अर्थव्यवस्थाओं को बचाने के लिए वैकल्पिक ऊर्जा निवेश में तेजी लाने का आग्रह किया है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129811432,imgsize-535445.cms",
+        "link": "https://timesofindia.indiatimes.com/world/us/blackrock-ceo-larry-fink-warns-oil-could-hit-150-amid-iranus-war-causing-a-global-recession/articleshow/129811229.cms"
+    },
+    {
+        "id": "25abd019",
+        "category": "Sports",
+        "translations": {
+            "en": {
+                "title": "Prithvi Shaw's Mental Reset: Eyes Indian Team Return",
+                "content": "Prithvi Shaw details his year-long 'mental reset' post-IPL 2025 absence, calling it a crucial break from inconsistent form and criticism. Highlighting cricket as his unwavering passion, the Delhi Capitals opener returns with a clearer mindset, prioritizing quality practice and staying present. Shaw expresses a strong ambition to rejoin the Indian team, ready to overcome past setbacks."
+            },
+            "kn": {
+                "title": "ಪೃಥ್ವಿ ಷಾ ಅವರ ಮಾನಸಿಕ ಪುನರ್ವ್ಯವಸ್ಥೆ: ಭಾರತ ತಂಡಕ್ಕೆ ಮರಳುವ ಇರಾದೆ",
+                "content": "ಐಪಿಎಲ್ 2025 ಗೈರುಹಾಜರಿಯ ನಂತರ, ಪೃಥ್ವಿ ಷಾ ತಮ್ಮ ಒಂದು ವರ್ಷದ 'ಮಾನಸಿಕ ಪುನರ್ವ್ಯವಸ್ಥೆ'ಯನ್ನು ವಿವರಿಸಿದ್ದಾರೆ. ಇದನ್ನು ಅಸ್ಥಿರ ಪ್ರದರ್ಶನ ಮತ್ತು ಟೀಕೆಗಳಿಂದ ನಿರ್ಣಾಯಕ ವಿರಾಮ ಎಂದಿದ್ದಾರೆ. ಕ್ರಿಕೆಟ್ ತಮ್ಮ ಅಚಲವಾದ ಉತ್ಸಾಹ ಎಂದು ಒತ್ತಿಹೇಳಿದ ದೆಹಲಿ ಕ್ಯಾಪಿಟಲ್ಸ್ ಆರಂಭಿಕ, ಸ್ಪಷ್ಟ ಮನಸ್ಥಿತಿಯೊಂದಿಗೆ ಮರಳಿದ್ದಾರೆ, ಉತ್ತಮ ಅಭ್ಯಾಸ ಮತ್ತು ವರ್ತಮಾನಕ್ಕೆ ಆದ್ಯತೆ ನೀಡಿದ್ದಾರೆ. ಹಿಂದಿನ ಹಿನ್ನಡೆಗಳನ್ನು ನಿವಾರಿಸಿ ಭಾರತ ತಂಡಕ್ಕೆ ಮರಳಲು ಷಾ ಬಲವಾದ ಮಹತ್ವಾಕಾಂಕ್ಷೆಯನ್ನು ವ್ಯಕ್ತಪಡಿಸಿದ್ದಾರೆ."
+            },
+            "mr": {
+                "title": "पृथ्वी शॉची मानसिक पुनरावृत्ती: भारतीय संघात परतण्याचे ध्येय",
+                "content": "आयपीएल 2025 मधून बाहेर राहिल्यानंतर, पृथ्वी शॉने आपल्या वर्षभराच्या 'मानसिक पुनरावृत्ती'ची माहिती दिली, याला खराब कामगिरी आणि टीकेतून महत्त्वाची विश्रांती म्हटले. क्रिकेट आपली अटूट आवड असल्याचे सांगत, दिल्ली कॅपिटल्सचा हा सलामीवीर स्पष्ट मानसिकतेने परतला आहे, चांगल्या सरावाला आणि वर्तमानात राहण्याला प्राधान्य देत आहे. मागील अडचणींवर मात करून भारतीय संघात परतण्याची शॉची तीव्र इच्छा आहे."
+            },
+            "hi": {
+                "title": "पृथ्वी शॉ का मानसिक पुनर्संगठन: भारतीय टीम में वापसी पर नज़र",
+                "content": "आईपीएल 2025 से बाहर रहने के बाद, पृथ्वी शॉ ने अपने साल भर के 'मानसिक पुनर्संगठन' का विवरण दिया, इसे खराब फॉर्म और आलोचना से एक महत्वपूर्ण ब्रेक बताया है. क्रिकेट को अपना अटूट जुनून बताते हुए, दिल्ली कैपिटल्स का यह सलामी बल्लेबाज स्पष्ट मानसिकता के साथ लौटा है, गुणवत्तापूर्ण अभ्यास और वर्तमान पर ध्यान केंद्रित कर रहा है. शॉ ने पिछली बाधाओं को दूर कर भारतीय टीम में वापसी करने की दृढ़ महत्वाकांक्षा व्यक्त की है."
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129806168,imgsize-42088.cms",
+        "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-cricket-is-my-passion-and-no-one-can-take-this-away-from-me-prithvi-shaw/articleshow/129806117.cms"
+    },
+    {
         "id": "4e234542",
         "category": "National",
         "translations": {
@@ -1822,101 +1918,5 @@
         },
         "image": "https://static.toiimg.com/photo/msid-129766540,imgsize-1065519.cms",
         "link": "https://timesofindia.indiatimes.com/india/geopolitics-is-a-permanent-force-in-global-policy-feels-economist-gita-gopinath/articleshow/129766562.cms"
-    },
-    {
-        "id": "bf6e00a8",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Hair Transplant Boom Spurs Call for National Safety Rules",
-                "content": "Following Tamil Nadu's regulatory move, doctors nationwide demand similar oversight for cosmetic clinics. The booming hair transplant industry, driven by social media trends, sparks safety concerns due to rising complications and unqualified practitioners. Dermatologists urge national guidelines to combat quackery and ensure patient safety with qualified experts and proper infrastructure."
-            },
-            "kn": {
-                "title": "ಹೇರ್ ಟ್ರಾನ್ಸ್‌ಪ್ಲಾಂಟ್ ಹೆಚ್ಚಳ; ರಾಷ್ಟ್ರೀಯ ಸುರಕ್ಷತಾ ನಿಯಮಗಳಿಗೆ ಕರೆ",
-                "content": "ತಮಿಳುನಾಡಿನ ನಿಯಂತ್ರಣ ಕ್ರಮದ ನಂತರ, ದೇಶಾದ್ಯಂತ ವೈದ್ಯರು ಕಾಸ್ಮೆಟಿಕ್ ಕ್ಲಿನಿಕ್‌ಗಳಿಗೆ ಇದೇ ರೀತಿಯ ಮೇಲ್ವಿಚಾರಣೆಯನ್ನು ಬಯಸಿದ್ದಾರೆ. ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮದ ಪ್ರವೃತ್ತಿಗಳಿಂದ ಪ್ರೇರಿತವಾದ, ಹೆಚ್ಚುತ್ತಿರುವ ಕೇಶ ಕಸಿ (ಹೇರ್ ಟ್ರಾನ್ಸ್‌ಪ್ಲಾಂಟ್) ಉದ್ಯಮವು ಹೆಚ್ಚುತ್ತಿರುವ ತೊಡಕುಗಳು ಮತ್ತು ಅನರ್ಹ ವೈದ್ಯರಿಂದ ಸುರಕ್ಷತೆಯ ಆತಂಕಗಳನ್ನು ಹುಟ್ಟುಹಾಕಿದೆ. ನಕಲಿ ವೈದ್ಯರನ್ನು ತಡೆಗಟ್ಟಲು ಮತ್ತು ಅರ್ಹ ತಜ್ಞರು ಹಾಗೂ ಸೂಕ್ತ ಮೂಲಸೌಕರ್ಯದೊಂದಿಗೆ ರೋಗಿಗಳ ಸುರಕ್ಷತೆಯನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು ಚರ್ಮರೋಗ ತಜ್ಞರು ರಾಷ್ಟ್ರೀಯ ಮಾರ್ಗಸೂಚಿಗಳನ್ನು ಒತ್ತಾಯಿಸಿದ್ದಾರೆ."
-            },
-            "mr": {
-                "title": "हेअर ट्रान्सप्लांट वाढीमुळे राष्ट्रीय सुरक्षा नियमांची मागणी",
-                "content": "तामिळनाडूच्या नियामक पावलांनंतर, देशभरातील डॉक्टरांनी कॉस्मेटिक क्लिनिकसाठी समान देखरेखेची मागणी केली आहे. सोशल मीडिया ट्रेंडमुळे वाढलेल्या हेअर ट्रान्सप्लांट उद्योगाने वाढत्या गुंतागुंत आणि अपात्र डॉक्टरांमुळे सुरक्षिततेची चिंता निर्माण केली आहे. त्वचाविज्ञान तज्ञांनी फसवणूक रोखण्यासाठी आणि पात्र तज्ञ तसेच योग्य पायाभूत सुविधांसह रुग्णांची सुरक्षितता सुनिश्चित करण्यासाठी राष्ट्रीय मार्गदर्शक तत्त्वांची मागणी केली आहे."
-            },
-            "hi": {
-                "title": "हेयर ट्रांसप्लांट की बढ़त से राष्ट्रीय सुरक्षा नियमों की मांग",
-                "content": "तमिलनाडु के नियामक कदम के बाद, देशभर के डॉक्टरों ने कॉस्मेटिक क्लीनिकों के लिए ऐसी ही निगरानी की मांग की है। सोशल मीडिया रुझानों से प्रेरित हेयर ट्रांसप्लांट उद्योग में तेज़ी से बढ़ती जटिलताओं और अयोग्य चिकित्सकों के कारण सुरक्षा संबंधी चिंताएं पैदा हुई हैं। त्वचा विशेषज्ञों ने धोखेबाज़ी से निपटने और योग्य विशेषज्ञों व उचित बुनियादी ढांचे के साथ मरीजों की सुरक्षा सुनिश्चित करने के लिए राष्ट्रीय दिशानिर्देशों का आग्रह किया है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129766442,imgsize-20890.cms",
-        "link": "https://timesofindia.indiatimes.com/india/days-after-tn-order-doctors-seek-similar-rules-nationwide-as-hair-transplant-boom-raises-safety-alarm/articleshow/129766421.cms"
-    },
-    {
-        "id": "670299b4",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "India-Nepal: Navigating a Shifting Security Landscape",
-                "content": "India and Nepal face an evolving security dynamic. Geopolitical shifts, regional developments, and new strategic interests are reshaping their long-standing relationship. Both nations must adapt to emerging challenges, address border concerns, and collaborate on security to maintain stability amidst a changing landscape. This necessitates deeper dialogue and coordinated efforts."
-            },
-            "kn": {
-                "title": "ಭಾರತ-ನೇಪಾಳ: ಬದಲಾಗುತ್ತಿರುವ ಭದ್ರತಾ ಭೂದೃಶ್ಯವನ್ನು ನಿರ್ವಹಿಸುವುದು",
-                "content": "ಭಾರತ ಮತ್ತು ನೇಪಾಳ ಒಂದು ವಿಕಸಿಸುತ್ತಿರುವ ಭದ್ರತಾ ಡೈನಾಮಿಕ್ಸ್ ಅನ್ನು ಎದುರಿಸುತ್ತಿವೆ. ಭೌಗೋಳಿಕ-ರಾಜಕೀಯ ಬದಲಾವಣೆಗಳು, ಪ್ರಾದೇಶಿಕ ಬೆಳವಣಿಗೆಗಳು ಮತ್ತು ಹೊಸ ಕಾರ್ಯತಂತ್ರದ ಹಿತಾಸಕ್ತಿಗಳು ಅವರ ದೀರ್ಘಕಾಲದ ಸಂಬಂಧವನ್ನು ಮರುರೂಪಿಸುತ್ತಿವೆ. ಎರಡೂ ರಾಷ್ಟ್ರಗಳು ಉದಯೋನ್ಮುಖ ಸವಾಲುಗಳಿಗೆ ಹೊಂದಿಕೊಳ್ಳಬೇಕು, ಗಡಿ ಸಮಸ್ಯೆಗಳನ್ನು ನಿಭಾಯಿಸಬೇಕು ಮತ್ತು ಬದಲಾಗುತ್ತಿರುವ ಪರಿಸರದಲ್ಲಿ ಸ್ಥಿರತೆಯನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳಲು ಭದ್ರತೆಯ ಕುರಿತು ಸಹಕರಿಸಬೇಕು. ಇದಕ್ಕೆ ಆಳವಾದ ಸಂಭಾಷಣೆ ಮತ್ತು ಸಂಘಟಿತ ಪ್ರಯತ್ನಗಳು ಅಗತ್ಯ."
-            },
-            "mr": {
-                "title": "भारत-नेपाळ: बदलत्या सुरक्षा परिस्थितीशी जुळवून घेणे",
-                "content": "भारत आणि नेपाळ एका विकसनशील सुरक्षा गतिशीलतेचा सामना करत आहेत. भू-राजकीय बदल, प्रादेशिक घडामोडी आणि नवीन धोरणात्मक हितसंबंध त्यांच्या दीर्घकाळच्या संबंधांना आकार देत आहेत. बदलत्या परिस्थितीमध्ये स्थिरता राखण्यासाठी दोन्ही राष्ट्रांनी उदभवणाऱ्या आव्हानांना सामोरे जावे, सीमा समस्यांचे निराकरण करावे आणि सुरक्षिततेवर सहकार्य करावे. यासाठी सखोल संवाद आणि समन्वित प्रयत्न आवश्यक आहेत."
-            },
-            "hi": {
-                "title": "भारत-नेपाल: बदलती सुरक्षा परिदृश्य में तालमेल बिठाना",
-                "content": "भारत और नेपाल एक विकसित हो रही सुरक्षा गतिशीलता का सामना कर रहे हैं। भू-राजनीतिक बदलाव, क्षेत्रीय घटनाक्रम और नए रणनीतिक हित उनके दीर्घकालिक संबंधों को नया आकार दे रहे हैं। बदलती स्थिति के बीच स्थिरता बनाए रखने के लिए दोनों राष्ट्रों को उभरती चुनौतियों के अनुकूल होना होगा, सीमा संबंधी चिंताओं को दूर करना होगा और सुरक्षा पर सहयोग करना होगा। इसके लिए गहन संवाद और समन्वित प्रयासों की आवश्यकता है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129765465,imgsize-28192.cms",
-        "link": "https://timesofindia.indiatimes.com/india/india-nepal-a-shifting-security-landscape/articleshow/129765451.cms"
-    },
-    {
-        "id": "138e7863",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "India's Air Force Gears Up for Massive Modernization",
-                "content": "India's Air Force is set for a significant upgrade, with major aircraft deals expected to conclude in FY 2026-27. Plans include acquiring 114 Rafale fighter jets, up to 60 medium transport aircraft, and advanced airborne early warning systems. These crucial acquisitions, funded by an increased capital budget, will drastically boost India's aerial capabilities and ongoing modernization efforts, ensuring enhanced national security."
-            },
-            "kn": {
-                "title": "ಭಾರತೀಯ ವಾಯುಪಡೆ ಬೃಹತ್ ಆಧುನೀಕರಣಕ್ಕೆ ಸಜ್ಜು",
-                "content": "ಭಾರತೀಯ ವಾಯುಪಡೆಯು 2026-27ರ ಹಣಕಾಸು ವರ್ಷದಲ್ಲಿ ಪ್ರಮುಖ ವಿಮಾನ ಒಪ್ಪಂದಗಳೊಂದಿಗೆ ಗಮನಾರ್ಹ ನವೀಕರಣಕ್ಕೆ ಸಿದ್ಧವಾಗಿದೆ. 114 ರಫೇಲ್ ಯುದ್ಧ ವಿಮಾನಗಳು, 60 ಮಧ್ಯಮ ಸಾರಿಗೆ ವಿಮಾನಗಳು ಮತ್ತು ಸುಧಾರಿತ ವಾಯುಗಾಮಿ ಮುಂಚೂಣಿ ಎಚ್ಚರಿಕೆ ವ್ಯವಸ್ಥೆಗಳನ್ನು ಖರೀದಿಸುವ ಯೋಜನೆಗಳಿವೆ. ಹೆಚ್ಚಿದ ಬಂಡವಾಳ ಬಜೆಟ್‌ನಿಂದ ಧನಸಹಾಯ ಪಡೆದ ಈ ನಿರ್ಣಾಯಕ ಖರೀದಿಗಳು ಭಾರತದ ವೈಮಾನಿಕ ಸಾಮರ್ಥ್ಯಗಳನ್ನು ಮತ್ತು ನಡೆಯುತ್ತಿರುವ ಆಧುನೀಕರಣ ಪ್ರಯತ್ನಗಳನ್ನು ಹೆಚ್ಚಿಸಿ, ಸುಧಾರಿತ ರಾಷ್ಟ್ರೀಯ ಭದ್ರತೆಯನ್ನು ಖಚಿತಪಡಿಸುತ್ತವೆ."
-            },
-            "mr": {
-                "title": "भारतीय हवाई दल मोठ्या आधुनिकीकरणासाठी सज्ज",
-                "content": "भारतीय हवाई दल 2026-27 आर्थिक वर्षात मोठ्या विमान करारांसह महत्त्वपूर्ण सुधारणेसाठी सज्ज आहे. यात 114 राफेल लढाऊ विमाने, 60 मध्यम वाहतूक विमाने आणि प्रगत एअरबोर्न अर्ली वॉर्निंग सिस्टम्सच्या खरेदीचा समावेश आहे. वाढलेल्या भांडवली अर्थसंकल्पातून निधी मिळणाऱ्या या महत्त्वाच्या खरेदीमुळे भारताची हवाई क्षमता आणि सध्याच्या आधुनिकीकरण प्रयत्नांना मोठ्या प्रमाणात चालना मिळेल, ज्यामुळे राष्ट्रीय सुरक्षा वाढेल."
-            },
-            "hi": {
-                "title": "भारतीय वायुसेना बड़े आधुनिकीकरण के लिए तैयार",
-                "content": "भारतीय वायुसेना 2026-27 वित्तीय वर्ष में प्रमुख विमान सौदों के साथ एक महत्वपूर्ण उन्नयन के लिए तैयार है। योजनाओं में 114 राफेल लड़ाकू जेट, 60 मध्यम परिवहन विमान और उन्नत एयरबोर्न अर्ली वार्निंग सिस्टम का अधिग्रहण शामिल है। बढ़े हुए पूंजीगत बजट से वित्त पोषित ये महत्वपूर्ण खरीद भारत की हवाई क्षमताओं और चल रहे आधुनिकीकरण प्रयासों को नाटकीय रूप से बढ़ावा देंगी, जिससे राष्ट्रीय सुरक्षा सुनिश्चित होगी।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129765051,imgsize-1295999.cms",
-        "link": "https://timesofindia.indiatimes.com/india/114-rafales-60-mta-aircraft-aewc-deals-to-be-concluded-in-2026-27-defence-ministry-to-parl-panel/articleshow/129765032.cms"
-    },
-    {
-        "id": "3e2ec07c",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "Iran Warns US: Hit Power, We Hit Power",
-                "content": "Amidst US-Israel-Iran tensions, Iran has issued a stark warning, threatening to target electricity plants powering US bases if its own infrastructure is attacked. \"You hit electricity, we hit electricity,\" Iran stated, signaling a potential escalation. This comes as live updates track rising hostilities, highlighting critical power facilities as potential conflict points."
-            },
-            "kn": {
-                "title": "ಇರಾನ್ ಅಮೆರಿಕಕ್ಕೆ ಎಚ್ಚರಿಕೆ: ನೀವು ವಿದ್ಯುತ್‌ಗೆ ಹೊಡೆದರೆ, ನಾವು ವಿದ್ಯುತ್‌ಗೆ ಹೊಡೆಯುತ್ತೇವೆ",
-                "content": "ಅಮೆರಿಕ-ಇಸ್ರೇಲ್-ಇರಾನ್ ಉದ್ವಿಗ್ನತೆಯ ನಡುವೆ, ಇರಾನ್ ಕಠಿಣ ಎಚ್ಚರಿಕೆ ನೀಡಿದೆ, ತನ್ನದೇ ಮೂಲಸೌಕರ್ಯದ ಮೇಲೆ ದಾಳಿ ನಡೆದರೆ ಅಮೆರಿಕನ್ ನೆಲೆಗಳಿಗೆ ಶಕ್ತಿ ನೀಡುವ ವಿದ್ಯುತ್ ಸ್ಥಾವರಗಳನ್ನು ಗುರಿಯಾಗಿಸುವುದಾಗಿ ಬೆದರಿಕೆ ಹಾಕಿದೆ. \"ನೀವು ವಿದ್ಯುತ್‌ಗೆ ಹೊಡೆದರೆ, ನಾವು ವಿದ್ಯುತ್‌ಗೆ ಹೊಡೆಯುತ್ತೇವೆ\" ಎಂದು ಇರಾನ್ ಹೇಳಿದೆ, ಸಂಭಾವ್ಯ ಉಲ್ಬಣವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಲೈವ್ ಅಪ್‌ಡೇಟ್‌ಗಳು ಹೆಚ್ಚುತ್ತಿರುವ ವೈರತ್ವವನ್ನು ಟ್ರ್ಯಾಕ್ ಮಾಡುತ್ತಿದ್ದು, ನಿರ್ಣಾಯಕ ವಿದ್ಯುತ್ ಸೌಲಭ್ಯಗಳನ್ನು ಸಂಭಾವ್ಯ ಸಂಘರ್ಷದ ಕೇಂದ್ರಬಿಂದುಗಳಾಗಿ ಎತ್ತಿ ತೋರಿಸುತ್ತವೆ."
-            },
-            "mr": {
-                "title": "इराणचा अमेरिकेला इशारा: तुम्ही विजेला धक्का दिल्यास, आम्हीही विजेला धक्का देऊ",
-                "content": "अमेरिका-इस्त्राईल-इराणमधील तणावामध्ये, इराणने तीव्र इशारा दिला आहे की, जर त्याच्या स्वतःच्या पायाभूत सुविधांवर हल्ला झाला तर अमेरिकन तळांना वीज पुरवणाऱ्या ऊर्जा प्रकल्पांना लक्ष्य करण्याची धमकी दिली आहे. \"तुम्ही विजेला धक्का दिल्यास, आम्हीही विजेला धक्का देऊ,\" असे इराणने म्हटले आहे, ज्यामुळे संभाव्य वाढीचे संकेत मिळत आहेत. सध्याच्या घडामोडी वाढता संघर्ष दर्शवत आहेत, ज्यात महत्त्वाच्या वीज प्रकल्पांना संभाव्य संघर्षाचे मुद्दे म्हणून अधोरेखित केले आहे."
-            },
-            "hi": {
-                "title": "ईरान की अमेरिका को चेतावनी: तुमने बिजली पर वार किया, तो हम भी बिजली पर वार करेंगे",
-                "content": "अमेरिका-इजराइल-ईरान तनाव के बीच, ईरान ने कड़ी चेतावनी जारी की है, जिसमें कहा गया है कि यदि उसके अपने बुनियादी ढांचे पर हमला हुआ तो वह अमेरिकी ठिकानों को बिजली देने वाले ऊर्जा संयंत्रों को निशाना बनाएगा। ईरान ने कहा, \"तुमने बिजली पर वार किया, तो हम भी बिजली पर वार करेंगे,\" जो संभावित वृद्धि का संकेत है। लाइव अपडेट बढ़ते तनाव को ट्रैक कर रहे हैं, जो महत्वपूर्ण बिजली सुविधाओं को संभावित संघर्ष के बिंदुओं के रूप में उजागर करते हैं।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129727558,imgsize-480366.cms",
-        "link": "https://timesofindia.indiatimes.com/world/middle-east/us-israel-iran-war-news-live-udates-latest-news-middle-east-crisis-conflict-drone-ballistic-missile-attack-gulf-countries-dubai-qatar-news-donald-trump-netanyahu-strait-of-hormuz-lpg-tanker-iran-attack-qatar/liveblog/129727558.cms"
     }
 ]
