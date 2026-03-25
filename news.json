@@ -1,5 +1,533 @@
 [
     {
+        "id": "00ff70eb",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Congress HQ Eviction: Party Slams BJP, Cites Iran War Diversion",
+                "content": "Congress faces eviction from its 24 Akbar Road national headquarters by March 28. The party slams the BJP government, alleging the move is politically motivated to deflect attention from the ongoing Iran war. Congress vows to challenge the \"undemocratic and illegal\" notice in court, claiming a deliberate attempt to stifle the opposition."
+            },
+            "kn": {
+                "title": "ಕಾಂಗ್ರೆಸ್ ಕೇಂದ್ರ ಕಚೇರಿ ತೆರವು: ಪಕ್ಷದಿಂದ ಬಿಜೆಪಿ ಟೀಕೆ, ಇರಾನ್ ಯುದ್ಧದಿಂದ ಗಮನ ಸೆಳೆಯುವ ಆರೋಪ",
+                "content": "ಕಾಂಗ್ರೆಸ್ ತನ್ನ 24 ಅಕ್ಬರ್ ರೋಡ್ ರಾಷ್ಟ್ರೀಯ ಕೇಂದ್ರ ಕಚೇರಿಯಿಂದ ಮಾರ್ಚ್ 28 ರೊಳಗೆ ತೆರವು ಎದುರಿಸುತ್ತಿದೆ. ಪಕ್ಷವು ಬಿಜೆಪಿ ಸರ್ಕಾರದ ವಿರುದ್ಧ ವಾಗ್ದಾಳಿ ನಡೆಸಿದ್ದು, ಈ ಕ್ರಮವು ನಡೆಯುತ್ತಿರುವ ಇರಾನ್ ಯುದ್ಧದಿಂದ ಗಮನವನ್ನು ಬೇರೆಡೆಗೆ ಸೆಳೆಯಲು ರಾಜಕೀಯ ಪ್ರೇರಿತವಾಗಿದೆ ಎಂದು ಆರೋಪಿಸಿದೆ. ವಿರೋಧ ಪಕ್ಷವನ್ನು ಹತ್ತಿಕ್ಕುವ ಉದ್ದೇಶಪೂರ್ವಕ ಪ್ರಯತ್ನ ಎಂದು ಹೇಳುತ್ತಾ, ಕಾಂಗ್ರೆಸ್ \"ಪ್ರಜಾಪ್ರಭುತ್ವ ವಿರೋಧಿ ಮತ್ತು ಕಾನೂನುಬಾಹಿರ\" ನೋಟಿಸ್ ಅನ್ನು ನ್ಯಾಯಾಲಯದಲ್ಲಿ ಪ್ರಶ್ನಿಸಲು ಪ್ರತಿಜ್ಞೆ ಮಾಡಿದೆ."
+            },
+            "mr": {
+                "title": "काँग्रेस मुख्यालय खाली करणे: पक्षाकडून भाजपवर टीका, इराण युद्धावरून लक्ष विचलित करण्याचा आरोप",
+                "content": "काँग्रेसला 24 अकबर रोड येथील त्यांच्या राष्ट्रीय मुख्यालयातून 28 मार्चपर्यंत जागा खाली करण्याच्या नोटिशीचा सामना करावा लागत आहे. पक्षाने भाजप सरकारवर टीका केली असून, हा निर्णय इराण युद्धावरून लक्ष विचलित करण्यासाठी राजकीय हेतूने प्रेरित असल्याचा आरोप केला आहे. काँग्रेसने \"अलोकतांत्रिक आणि बेकायदेशीर\" नोटीस न्यायालयात आव्हान देण्याची प्रतिज्ञा केली आहे, तसेच हा विरोधकांना दाबण्याचा जाणीवपूर्वक प्रयत्न असल्याचा दावा केला आहे."
+            },
+            "hi": {
+                "title": "कांग्रेस मुख्यालय खाली करने का नोटिस: पार्टी ने बीजेपी पर साधा निशाना, ईरान युद्ध से ध्यान भटकाने का आरोप",
+                "content": "कांग्रेस को अपने 24 अकबर रोड स्थित राष्ट्रीय मुख्यालय से 28 मार्च तक बेदखली का सामना करना पड़ रहा है। पार्टी ने बीजेपी सरकार पर निशाना साधते हुए आरोप लगाया है कि यह कदम जारी ईरान युद्ध से ध्यान भटकाने के लिए राजनीतिक रूप से प्रेरित है। कांग्रेस ने \"अलोकतांत्रिक और अवैध\" नोटिस को अदालत में चुनौती देने की कसम खाई है, यह दावा करते हुए कि यह विपक्ष को दबाने का एक जानबूझकर किया गया प्रयास है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129792888,imgsize-1006784.cms",
+        "link": "https://timesofindia.indiatimes.com/india/trying-to-deflect-attention-from-iran-war-congress-slams-bjp-over-lutyens-eviction-notice/articleshow/129792648.cms"
+    },
+    {
+        "id": "ebb5a4aa",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "India Faces Weight Crisis: Misconceived as Lifestyle",
+                "content": "One in four Indians are now overweight, prompting expert warnings of a major health crisis. Despite alarming statistics, obesity is often wrongly viewed as just a 'lifestyle choice,' delaying vital public health action. This misconception is hindering effective intervention against a rapidly growing national health challenge, demanding urgent attention from both policymakers and the public."
+            },
+            "kn": {
+                "title": "ಭಾರತ ತೂಕದ ಬಿಕ್ಕಟ್ಟು ಎದುರಿಸುತ್ತಿದೆ: ಜೀವನಶೈಲಿ ಎಂದು ತಪ್ಪಾಗಿ ಗ್ರಹಿಸಲಾಗಿದೆ",
+                "content": "ಪ್ರತಿ ನಾಲ್ವರಲ್ಲಿ ಒಬ್ಬ ಭಾರತೀಯ ಈಗ ಅಧಿಕ ತೂಕ ಹೊಂದಿದ್ದಾನೆ, ಇದು ಪ್ರಮುಖ ಆರೋಗ್ಯ ಬಿಕ್ಕಟ್ಟಿನ ಬಗ್ಗೆ ತಜ್ಞರ ಎಚ್ಚರಿಕೆಗಳಿಗೆ ಕಾರಣವಾಗಿದೆ. ಆತಂಕಕಾರಿ ಅಂಕಿಅಂಶಗಳ ಹೊರತಾಗಿಯೂ, ಸ್ಥೂಲಕಾಯತೆಯನ್ನು ಹೆಚ್ಚಾಗಿ ಕೇವಲ 'ಜೀವನಶೈಲಿಯ ಆಯ್ಕೆ' ಎಂದು ತಪ್ಪಾಗಿ ನೋಡಲಾಗುತ್ತದೆ, ಇದು ಪ್ರಮುಖ ಸಾರ್ವಜನಿಕ ಆರೋಗ್ಯ ಕ್ರಮಗಳನ್ನು ವಿಳಂಬಗೊಳಿಸುತ್ತದೆ. ಈ ತಪ್ಪು ಕಲ್ಪನೆಯು ವೇಗವಾಗಿ ಬೆಳೆಯುತ್ತಿರುವ ರಾಷ್ಟ್ರೀಯ ಆರೋಗ್ಯ ಸವಾಲಿಗೆ ಪರಿಣಾಮಕಾರಿ ಮಧ್ಯಸ್ಥಿಕೆಯನ್ನು ತಡೆಯುತ್ತಿದೆ, ಇದು ನೀತಿ ನಿರೂಪಕರು ಮತ್ತು ಸಾರ್ವಜನಿಕರಿಂದ ತುರ್ತು ಗಮನವನ್ನು ಬಯಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "भारताला लठ्ठपणाचे संकट: केवळ जीवनशैली मानणे चुकीचे",
+                "content": "आता प्रत्येक चार भारतीयांपैकी एक जण लठ्ठ आहे, ज्यामुळे तज्ञांनी मोठ्या आरोग्य संकटाबद्दल चेतावणी दिली आहे. धक्कादायक आकडेवारी असूनही, लठ्ठपणाला अनेकदा केवळ 'जीवनशैलीची निवड' म्हणून चुकीच्या पद्धतीने पाहिले जाते, ज्यामुळे महत्त्वाच्या सार्वजनिक आरोग्य उपायांना विलंब होतो. ही गैरसमजूत वेगाने वाढणाऱ्या राष्ट्रीय आरोग्य आव्हानाविरुद्ध प्रभावी हस्तक्षेपाला अडथळा आणत आहे, ज्यासाठी धोरणकर्ते आणि जनतेकडून तातडीने लक्ष देण्याची मागणी आहे."
+            },
+            "hi": {
+                "title": "भारत में बढ़ता वज़न संकट: केवल जीवनशैली मानना गलत",
+                "content": "अब चार में से एक भारतीय अधिक वज़न का है, जिससे विशेषज्ञों ने एक बड़े स्वास्थ्य संकट की चेतावनी दी है। चिंताजनक आँकड़ों के बावजूद, मोटापे को अक्सर केवल 'जीवनशैली की पसंद' के रूप में गलत तरीके से देखा जाता है, जिससे महत्वपूर्ण सार्वजनिक स्वास्थ्य कार्रवाई में देरी होती है। यह गलत धारणा तेज़ी से बढ़ती राष्ट्रीय स्वास्थ्य चुनौती के खिलाफ प्रभावी हस्तक्षेप में बाधा डाल रही है, जिसके लिए नीति निर्माताओं और जनता दोनों से तत्काल ध्यान देने की आवश्यकता है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129792725,imgsize-678330.cms",
+        "link": "https://timesofindia.indiatimes.com/india/1-in-4-indians-overweight-but-obesity-still-seen-as-lifestyle-experts-warn-of-growing-crisis/articleshow/129792729.cms"
+    },
+    {
+        "id": "37365642",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "India's TB Fight: Mass Screening Yields Hope",
+                "content": "India continues to battle TB, its deadliest infectious disease. However, a nationwide mass screening initiative is showing promising results, significantly increasing case detection. This proactive approach is crucial in curbing the spread and reducing mortality, bringing renewed hope to India's fight against tuberculosis and moving closer to elimination targets."
+            },
+            "kn": {
+                "title": "ಭಾರತದ ಟಿಬಿ ಹೋರಾಟ: ಸಾಮೂಹಿಕ ತಪಾಸಣೆಯಿಂದ ಭರವಸೆ",
+                "content": "ಭಾರತವು ತನ್ನ ಅತ್ಯಂತ ಮಾರಣಾಂತಿಕ ಸಾಂಕ್ರಾಮಿಕ ರೋಗವಾದ ಟಿಬಿ ವಿರುದ್ಧ ಹೋರಾಟವನ್ನು ಮುಂದುವರೆಸಿದೆ. ಆದಾಗ್ಯೂ, ರಾಷ್ಟ್ರವ್ಯಾಪಿ ಸಾಮೂಹಿಕ ತಪಾಸಣೆ ಉಪಕ್ರಮವು ಭರವಸೆಯ ಫಲಿತಾಂಶಗಳನ್ನು ತೋರಿಸುತ್ತಿದೆ, ಪ್ರಕರಣ ಪತ್ತೆಯನ್ನು ಗಣನೀಯವಾಗಿ ಹೆಚ್ಚಿಸುತ್ತಿದೆ. ಈ ಪೂರ್ವಭಾವಿ ವಿಧಾನವು ರೋಗ ಹರಡುವಿಕೆಯನ್ನು ನಿಯಂತ್ರಿಸಲು ಮತ್ತು ಮರಣ ಪ್ರಮಾಣವನ್ನು ಕಡಿಮೆ ಮಾಡಲು ನಿರ್ಣಾಯಕವಾಗಿದೆ, ಇದು ಭಾರತದ ಕ್ಷಯರೋಗದ ವಿರುದ್ಧದ ಹೋರಾಟಕ್ಕೆ ಹೊಸ ಭರವಸೆ ತರುತ್ತಿದೆ ಮತ್ತು ನಿರ್ಮೂಲನ ಗುರಿಗಳತ್ತ ಸಾಗುತ್ತಿದೆ."
+            },
+            "mr": {
+                "title": "भारताची टीबीशी लढाई: सामूहिक तपासणीतून आशा",
+                "content": "भारत आपल्या सर्वात प्राणघातक संसर्गजन्य आजार असलेल्या टीबीशी लढत आहे. तथापि, देशव्यापी सामूहिक तपासणी मोहीम आशादायक परिणाम दर्शवित आहे, ज्यामुळे रुग्ण शोध मोठ्या प्रमाणात वाढला आहे. हा सक्रिय दृष्टिकोन प्रसार रोखण्यासाठी आणि मृत्यूदर कमी करण्यासाठी महत्त्वाचा आहे, ज्यामुळे भारताच्या क्षयरोगाविरुद्धच्या लढ्याला नवी आशा मिळत आहे आणि निर्मूलनाच्या लक्ष्यांच्या दिशेने वाटचाल करत आहे."
+            },
+            "hi": {
+                "title": "भारत की टीबी से जंग: सामूहिक स्क्रीनिंग से जगी उम्मीद",
+                "content": "भारत अपने सबसे घातक संक्रामक रोग, टीबी से लगातार जूझ रहा है। हालांकि, देशव्यापी सामूहिक स्क्रीनिंग पहल आशाजनक परिणाम दिखा रही है, जिससे मामलों का पता लगाने में काफी वृद्धि हुई है। यह सक्रिय दृष्टिकोण प्रसार को रोकने और मृत्यु दर को कम करने के लिए महत्वपूर्ण है, जिससे भारत की टीबी के खिलाफ लड़ाई को नई उम्मीद मिल रही है और यह उन्मूलन लक्ष्यों के करीब पहुंच रहा है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129791457,imgsize-78656.cms",
+        "link": "https://timesofindia.indiatimes.com/india/tb-remains-indias-biggest-infectious-killer-but-mass-screening-push-shows-results/articleshow/129791337.cms"
+    },
+    {
+        "id": "81a6d867",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Govt Convenes All-Party Meet on West Asia Crisis",
+                "content": "The government has called an all-party meeting today to forge a united parliamentary front on the escalating West Asia crisis. Following PM Modi's statements, the gathering aims to address opposition concerns and present a unified national stance. This crucial discussion will focus on the conflict's impacts on India's energy security and its vast diaspora in the Gulf region, seeking broad political consensus."
+            },
+            "kn": {
+                "title": "ಪಶ್ಚಿಮ ಏಷ್ಯಾ ಬಿಕ್ಕಟ್ಟಿನ ಕುರಿತು ಸರ್ಕಾರದಿಂದ ಸರ್ವಪಕ್ಷ ಸಭೆ",
+                "content": "ಪಶ್ಚಿಮ ಏಷ್ಯಾದಲ್ಲಿ ಉಲ್ಬಣಗೊಳ್ಳುತ್ತಿರುವ ಬಿಕ್ಕಟ್ಟಿನ ಬಗ್ಗೆ ಒಗ್ಗಟ್ಟಿನ ಸಂಸದೀಯ ನಿಲುವನ್ನು ರೂಪಿಸಲು ಸರ್ಕಾರ ಇಂದು ಸರ್ವಪಕ್ಷ ಸಭೆ ಕರೆದಿದೆ. ಪ್ರಧಾನಿ ಮೋದಿ ಅವರ ಹೇಳಿಕೆಗಳ ನಂತರ, ಈ ಸಭೆಯು ವಿರೋಧ ಪಕ್ಷಗಳ ಆತಂಕಗಳನ್ನು ಪರಿಹರಿಸಲು ಮತ್ತು ಏಕೀಕೃತ ರಾಷ್ಟ್ರೀಯ ನಿಲುವನ್ನು ಮಂಡಿಸುವ ಗುರಿ ಹೊಂದಿದೆ. ಈ ಮಹತ್ವದ ಚರ್ಚೆಯು ಭಾರತದ ಇಂಧನ ಭದ್ರತೆ ಮತ್ತು ಗಲ್ಫ್ ಪ್ರದೇಶದಲ್ಲಿರುವ ಅದರ ಬೃಹತ್ ಅನಿವಾಸಿ ಭಾರತೀಯರ ಮೇಲೆ ಸಂಘರ್ಷದ ಪರಿಣಾಮಗಳ ಮೇಲೆ ಕೇಂದ್ರೀಕರಿಸುತ್ತದೆ, ವ್ಯಾಪಕ ರಾಜಕೀಯ ಒಮ್ಮತವನ್ನು ಬಯಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "पश्चिम आशिया संकटावर सरकारची सर्वपक्षीय बैठक",
+                "content": "पश्चिम आशियातील वाढत्या संकटावर एकसंध संसदीय भूमिका तयार करण्यासाठी सरकारने आज सर्वपक्षीय बैठक बोलावली आहे. पंतप्रधान मोदींच्या विधानांनंतर, या बैठकीचा उद्देश विरोधी पक्षांच्या चिंतांचे निराकरण करणे आणि एकसंध राष्ट्रीय भूमिका मांडणे आहे. या महत्त्वाच्या चर्चेत भारताच्या ऊर्जा सुरक्षेवर आणि आखाती प्रदेशातील मोठ्या डायस्पोरावर संघर्षाच्या परिणामांवर लक्ष केंद्रित केले जाईल, ज्यात व्यापक राजकीय सहमती मिळवण्याचा प्रयत्न केला जाईल."
+            },
+            "hi": {
+                "title": "पश्चिम एशिया संकट पर सरकार की सर्वदलीय बैठक",
+                "content": "पश्चिम एशिया में बढ़ते संकट पर एक एकजुट संसदीय मोर्चा बनाने के लिए सरकार ने आज एक सर्वदलीय बैठक बुलाई है। पीएम मोदी के बयानों के बाद, इस बैठक का उद्देश्य विपक्षी चिंताओं को दूर करना और एक एकीकृत राष्ट्रीय रुख प्रस्तुत करना है। यह महत्वपूर्ण चर्चा भारत की ऊर्जा सुरक्षा और खाड़ी क्षेत्र में उसके विशाल प्रवासी समुदाय पर संघर्ष के प्रभावों पर केंद्रित होगी, जिसमें व्यापक राजनीतिक सहमति मांगी जाएगी।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129789084,imgsize-1480775.cms",
+        "link": "https://timesofindia.indiatimes.com/india/government-calls-all-party-meet-today-to-address-concerns-over-west-asia-crisis/articleshow/129789078.cms"
+    },
+    {
+        "id": "d40ee4c7",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Indian LPG Tankers Await Hormuz Transit Amid Tensions",
+                "content": "Five India-flagged LPG tankers, carrying 2.3 lakh tonnes of cooking gas, are west of the Strait of Hormuz. Two are due at Indian ports this week. While no special permission is needed to transit the international strait, officials emphasize safety assessments are critical given the current geopolitical climate and regional tensions."
+            },
+            "kn": {
+                "title": "ಭಾರತೀಯ ಎಲ್‌ಪಿಜಿ ಟ್ಯಾಂಕರ್‌ಗಳು ಹಾರ್ಮುಜ್ ಸಂಚಾರಕ್ಕೆ ಉದ್ವಿಗ್ನತೆಯ ನಡುವೆ ಕಾಯುತ್ತಿವೆ",
+                "content": "ಭಾರತದ ಧ್ವಜ ಹೊತ್ತ ಐದು ಎಲ್‌ಪಿಜಿ ಟ್ಯಾಂಕರ್‌ಗಳು, 2.3 ಲಕ್ಷ ಟನ್ ಅಡುಗೆ ಅನಿಲ ಹೊತ್ತು, ಹಾರ್ಮುಜ್ ಜಲಸಂಧಿಯ ಪಶ್ಚಿಮದಲ್ಲಿವೆ. ಈ ವಾರ ಎರಡು ಭಾರತೀಯ ಬಂದರುಗಳನ್ನು ತಲುಪುವ ನಿರೀಕ್ಷೆಯಿದೆ. ಅಂತರರಾಷ್ಟ್ರೀಯ ಜಲಸಂಧಿಯನ್ನು ದಾಟಲು ವಿಶೇಷ ಅನುಮತಿ ಅಗತ್ಯವಿಲ್ಲದಿದ್ದರೂ, ಪ್ರಸ್ತುತ ಭೌಗೋಳಿಕ ರಾಜಕೀಯ ಪರಿಸ್ಥಿತಿ ಮತ್ತು ಪ್ರಾದೇಶಿಕ ಉದ್ವಿಗ್ನತೆಗಳನ್ನು ಗಮನದಲ್ಲಿಟ್ಟುಕೊಂಡು ಸುರಕ್ಷತಾ ಮೌಲ್ಯಮಾಪನಗಳು ನಿರ್ಣಾಯಕ ಎಂದು ಅಧಿಕಾರಿಗಳು ಒತ್ತಿಹೇಳಿದ್ದಾರೆ."
+            },
+            "mr": {
+                "title": "तणावाच्या परिस्थितीत भारतीय एलपीजी टँकर हॉर्मुजमधून मार्गक्रमणेच्या प्रतीक्षेत",
+                "content": "भारताच्या ध्वजांकित पाच एलपीजी टँकर, 2.3 लाख टन स्वयंपाकाचा गॅस घेऊन, हॉर्मुजच्या सामुद्रधुनीच्या पश्चिमेला आहेत. या आठवड्यात दोन भारतीय बंदरांवर पोहोचण्याची अपेक्षा आहे. आंतरराष्ट्रीय सामुद्रधुनीतून मार्गक्रमणेसाठी कोणतीही विशेष परवानगी आवश्यक नसली तरी, सद्यस्थितीतील भू-राजकीय वातावरण आणि प्रादेशिक तणाव पाहता सुरक्षा मूल्यांकनांना अधिकारी महत्त्वपूर्ण मानतात."
+            },
+            "hi": {
+                "title": "तनाव के बीच हॉर्मुज से गुजरने के लिए भारतीय एलपीजी टैंकर प्रतीक्षारत",
+                "content": "भारत के झंडे वाले पांच एलपीजी टैंकर, जिनमें 2.3 लाख टन खाना पकाने वाली गैस है, हॉर्मुज जलडमरूमध्य के पश्चिम में मौजूद हैं। इस सप्ताह दो टैंकरों के भारतीय बंदरगाहों पर पहुंचने की उम्मीद है। अंतरराष्ट्रीय जलडमरूमध्य से गुजरने के लिए किसी विशेष अनुमति की आवश्यकता नहीं है, लेकिन अधिकारियों ने मौजूदा भू-राजनीतिक स्थिति और क्षेत्रीय तनावों को देखते हुए सुरक्षा आकलन को महत्वपूर्ण बताया है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129789075,imgsize-953861.cms",
+        "link": "https://timesofindia.indiatimes.com/india/5-india-flagged-lpg-loaded-tankers-stuck-at-hormuz/articleshow/129789073.cms"
+    },
+    {
+        "id": "1936dabf",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "North Korea's Nuclear Justification: Kim Cites Iran War, Threatens South Korea",
+                "content": "Kim Jong Un defends North Korea's nuclear arsenal, citing the Iran war as proof of the need for strong military deterrence. He accuses the US of aggression and vows to advance their \"defensive\" nuclear capabilities. Declaring South Korea the \"most hostile nation,\" Kim warns of severe consequences for any provocations, reinforcing his nation's hardline stance on security amidst regional tensions."
+            },
+            "kn": {
+                "title": "ಉತ್ತರ ಕೊರಿಯಾದ ಅಣ್ವಸ್ತ್ರ ಸಮರ್ಥನೆ: ಕಿಮ್ ಇರಾನ್ ಯುದ್ಧವನ್ನು ಉಲ್ಲೇಖಿಸಿ, ದಕ್ಷಿಣ ಕೊರಿಯಾಕ್ಕೆ ಬೆದರಿಕೆ",
+                "content": "ಕಿಮ್ ಜುಂಗ್ ಉನ್ ಉತ್ತರ ಕೊರಿಯಾದ ಅಣ್ವಸ್ತ್ರ ಭಂಡಾರವನ್ನು ಸಮರ್ಥಿಸಿಕೊಂಡಿದ್ದಾರೆ, ಇರಾನ್ ಯುದ್ಧವನ್ನು ಬಲವಾದ ಮಿಲಿಟರಿ ಪ್ರತಿಬಂಧಕದ ಅಗತ್ಯಕ್ಕೆ ಪುರಾವೆಯಾಗಿ ಉಲ್ಲೇಖಿಸಿದ್ದಾರೆ. ಅವರು ಅಮೆರಿಕವನ್ನು ಆಕ್ರಮಣಶೀಲತೆ ಎಂದು ಆರೋಪಿಸಿ, ತಮ್ಮ \"ರಕ್ಷಣಾತ್ಮಕ\" ಅಣು ಸಾಮರ್ಥ್ಯಗಳನ್ನು ಮುನ್ನಡೆಸುವುದಾಗಿ ಪ್ರತಿಜ್ಞೆ ಮಾಡಿದರು. ದಕ್ಷಿಣ ಕೊರಿಯಾವನ್ನು \"ಅತ್ಯಂತ ಪ್ರತಿಕೂಲ ರಾಷ್ಟ್ರ\" ಎಂದು ಘೋಷಿಸಿದ ಕಿಮ್, ಯಾವುದೇ ಪ್ರಚೋದನೆಗಳಿಗೆ ತೀವ್ರ ಪರಿಣಾಮಗಳ ಬಗ್ಗೆ ಎಚ್ಚರಿಕೆ ನೀಡಿದರು, ಪ್ರಾದೇಶಿಕ ಉದ್ವಿಗ್ನತೆಯ ನಡುವೆ ತಮ್ಮ ದೇಶದ ಕಠಿಣ ಭದ್ರತಾ ನಿಲುವನ್ನು ಬಲಪಡಿಸಿದರು."
+            },
+            "mr": {
+                "title": "उत्तर कोरियाचे अणु समर्थन: किमने इराण युद्धाचा उल्लेख केला, दक्षिण कोरियाला धमकी",
+                "content": "किम जोंग उन यांनी उत्तर कोरियाच्या अणु शस्त्रास्त्रांचे समर्थन केले आहे, इराण युद्धाचा दाखला देऊन मजबूत लष्करी प्रतिबंधाची गरज असल्याचे म्हटले आहे. त्यांनी अमेरिकेवर आक्रमकतेचा आरोप केला आणि त्यांच्या \"संरक्षणात्मक\" अणु क्षमता वाढवण्याची शपथ घेतली. दक्षिण कोरियाला \"सर्वात प्रतिकूल राष्ट्र\" घोषित करत, किमने कोणत्याही चिथावणीचे गंभीर परिणाम होतील असा इशारा दिला, प्रादेशिक तणावामध्ये आपल्या देशाच्या कठोर सुरक्षा भूमिकेला बळकटी दिली."
+            },
+            "hi": {
+                "title": "उत्तर कोरिया का परमाणु औचित्य: किम ने ईरान युद्ध का हवाला दिया, दक्षिण कोरिया को धमकी दी",
+                "content": "किम जोंग उन ने उत्तर कोरिया के परमाणु शस्त्रागार का बचाव करते हुए, ईरान युद्ध को मजबूत सैन्य निवारण की आवश्यकता के प्रमाण के रूप में उद्धृत किया। उन्होंने अमेरिका पर आक्रामकता का आरोप लगाया और अपनी \"रक्षात्मक\" परमाणु क्षमताओं को आगे बढ़ाने की कसम खाई। दक्षिण कोरिया को \"सबसे शत्रुतापूर्ण राष्ट्र\" घोषित करते हुए, किम ने किसी भी उकसावे के गंभीर परिणामों की चेतावनी दी, जिससे क्षेत्रीय तनाव के बीच उनके देश की कड़ी सुरक्षा स्थिति मजबूत हुई।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129793967,imgsize-935764.cms",
+        "link": "https://timesofindia.indiatimes.com/world/rest-of-world/how-iran-war-is-helping-kim-jong-un-justify-north-koreas-nuclear-arsenal/articleshow/129793865.cms"
+    },
+    {
+        "id": "1c8d270b",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Dubai Crown Prince's Rain Drive Stuns Millions",
+                "content": "Dubai's Crown Prince, Sheikh Hamdan, captivated millions with viral videos showcasing a rare, rain-drenched emirate. Driving through the transformed desert landscape, he revealed an \"unreal\" and reflective side of the typically arid city. These stunning visuals offered a unique perspective, highlighting Dubai's unexpected beauty amidst unusual weather, proving even disruption can be picturesque."
+            },
+            "kn": {
+                "title": "ದುಬೈ ಯುವರಾಜನ ಮಳೆ ಚಾಲನೆ ಲಕ್ಷಾಂತರ ಮಂದಿಯನ್ನು ಬೆರಗುಗೊಳಿಸಿತು",
+                "content": "ದುಬೈ ಯುವರಾಜ ಶೇಖ್ ಹಮ್ದಾನ್, ಅಪರೂಪದ, ಮಳೆಯಿಂದ ತೋಯ್ದ ಎಮಿರೇಟ್‌ನ ವೈರಲ್ ವೀಡಿಯೊಗಳೊಂದಿಗೆ ಲಕ್ಷಾಂತರ ಮಂದಿಯನ್ನು ಮಂತ್ರಮುಗ್ಧಗೊಳಿಸಿದರು. ರೂಪಾಂತರಗೊಂಡ ಮರುಭೂಮಿ ಭೂದೃಶ್ಯದ ಮೂಲಕ ಚಾಲನೆ ಮಾಡುತ್ತಾ, ಅವರು ಸಾಮಾನ್ಯವಾಗಿ ಶುಷ್ಕ ನಗರದ \"ನೈಜವಲ್ಲದ\" ಮತ್ತು ಪ್ರತಿಫಲಿತ ಭಾಗವನ್ನು ಅನಾವರಣಗೊಳಿಸಿದರು. ಈ ಅದ್ಭುತ ದೃಶ್ಯಗಳು ವಿಶಿಷ್ಟ ದೃಷ್ಟಿಕೋನವನ್ನು ನೀಡಿದವು, ಅಸಾಮಾನ್ಯ ಹವಾಮಾನದ ನಡುವೆಯೂ ದುಬೈನ ಅನಿರೀಕ್ಷಿತ ಸೌಂದರ್ಯವನ್ನು ಎತ್ತಿ ತೋರಿಸಿದವು, ಅಡೆತಡೆಗಳೂ ಸಹ ರಮಣೀಯವಾಗಿರಬಹುದು ಎಂದು ಸಾಬೀತುಪಡಿಸಿತು."
+            },
+            "mr": {
+                "title": "दुबईच्या युवराजाचा पावसातील प्रवास लाखो लोकांना थक्क करतो",
+                "content": "दुबईचे युवराज शेख हमदान यांनी पावसाने भिजलेल्या दुर्मिळ अमिरातीचे व्हायरल व्हिडिओ शेअर करून लाखो लोकांना मंत्रमुग्ध केले. वाळवंटातील बदललेल्या भूभागातून गाडी चालवताना, त्यांनी सामान्यतः शुष्क शहराची \"वास्तव नसलेली\" आणि चिंतनात्मक बाजू उघड केली. या आश्चर्यकारक दृश्यांनी एक अनोखा दृष्टिकोन दिला, असामान्य हवामानादरम्यान दुबईचे अनपेक्षित सौंदर्य अधोरेखित केले, ज्यामुळे असे सिद्ध झाले की अडथळे देखील सुंदर असू शकतात."
+            },
+            "hi": {
+                "title": "दुबई के क्राउन प्रिंस की बारिश में ड्राइव ने लाखों को किया हैरान",
+                "content": "दुबई के क्राउन प्रिंस, शेख हमदान ने बारिश से सराबोर दुर्लभ अमीरात के वायरल वीडियो से लाखों लोगों को मंत्रमुग्ध कर दिया। बदले हुए रेगिस्तानी परिदृश्य से गाड़ी चलाते हुए, उन्होंने आमतौर पर शुष्क शहर का एक \"अवास्तविक\" और चिंतनशील पक्ष दिखाया। इन आश्चर्यजनक दृश्यों ने एक अनूठा दृष्टिकोण प्रस्तुत किया, असामान्य मौसम के बीच दुबई की अप्रत्याशित सुंदरता को उजागर किया, यह साबित करते हुए कि व्यवधान भी सुरम्य हो सकता है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129794256,imgsize-28736.cms",
+        "link": "https://timesofindia.indiatimes.com/world/middle-east/dubai-crown-prince-sheikh-hamdan-drives-through-rain-drenched-emirate-unreal-side-of-desert-in-viral-videos-stuns-millions/articleshow/129793349.cms"
+    },
+    {
+        "id": "53d0e902",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Iran Mocks Trump's Ceasefire Claims, Rejects US Deal",
+                "content": "An Iranian military spokesperson has ridiculed Donald Trump's claims of ongoing ceasefire discussions, stating Iran will \"never make a deal with the US.\" This defiance comes amidst a significant US military buildup in the region, even as airstrikes and missile attacks persist. Iran dismissed Trump's \"agreement\" as \"dressing up defeat,\" emphasizing their rejection of US diplomatic overtures despite escalating tensions and military presence."
+            },
+            "kn": {
+                "title": "ಇರಾನ್ ಟ್ರಂಪ್ ಅವರ ಕದನ ವಿರಾಮದ ಹೇಳಿಕೆಗಳನ್ನು ಗೇಲಿ ಮಾಡಿದೆ, ಅಮೆರಿಕದ ಒಪ್ಪಂದವನ್ನು ತಿರಸ್ಕರಿಸಿದೆ",
+                "content": "ಇರಾನ್‌ನ ಮಿಲಿಟರಿ ವಕ್ತಾರರು ಡೊನಾಲ್ಡ್ ಟ್ರಂಪ್ ಅವರ ನಡೆಯುತ್ತಿರುವ ಕದನ ವಿರಾಮ ಚರ್ಚೆಗಳ ಹೇಳಿಕೆಗಳನ್ನು ಗೇಲಿ ಮಾಡಿದ್ದಾರೆ, ಇರಾನ್ \"ಅಮೆರಿಕದೊಂದಿಗೆ ಎಂದಿಗೂ ಒಪ್ಪಂದ ಮಾಡಿಕೊಳ್ಳುವುದಿಲ್ಲ\" ಎಂದು ಹೇಳಿದ್ದಾರೆ. ಯುಎಸ್ ತನ್ನ ಮಿಲಿಟರಿ ಉಪಸ್ಥಿತಿಯನ್ನು ಹೆಚ್ಚಿಸುತ್ತಿರುವ ಮತ್ತು ವೈಮಾನಿಕ ದಾಳಿಗಳು ಹಾಗೂ ಕ್ಷಿಪಣಿ ದಾಳಿಗಳು ನಡೆಯುತ್ತಿರುವ ಮಧ್ಯೆಯೂ ಈ ತಿರಸ್ಕಾರ ಬಂದಿದೆ. ಇರಾನ್ ಟ್ರಂಪ್‌ನ \"ಒಪ್ಪಂದ\"ವನ್ನು \"ಸೋಲನ್ನು ಒಪ್ಪಂದ ಎಂದು ಬಿಂಬಿಸುವುದು\" ಎಂದು ತಳ್ಳಿಹಾಕಿದೆ, ಉಲ್ಬಣಗೊಳ್ಳುವ ಉದ್ವಿಗ್ನತೆ ಮತ್ತು ಮಿಲಿಟರಿ ಉಪಸ್ಥಿತಿಯ ಹೊರತಾಗಿಯೂ ಅಮೆರಿಕದ ರಾಜತಾಂತ್ರಿಕ ಪ್ರಸ್ತಾಪಗಳನ್ನು ತಿರಸ್ಕರಿಸಿದೆ."
+            },
+            "mr": {
+                "title": "इराणने ट्रम्प यांच्या युद्धविराम दाव्यांची खिल्ली उडवली, अमेरिकेचा करार फेटाळला",
+                "content": "इराणच्या लष्करी प्रवक्त्याने डोनाल्ड ट्रम्प यांच्या सुरू असलेल्या युद्धविराम चर्चेच्या दाव्यांची खिल्ली उडवली आहे, इराण \"अमेरिकेशी कधीही करार करणार नाही\" असे म्हटले आहे. ही अवहेलना अमेरिकेच्या वाढत्या लष्करी ताकदीच्या आणि हवाई हल्ले व क्षेपणास्त्र हल्ले सुरू असतानाही आली आहे. इराणने ट्रम्प यांच्या \"कराराला\" \"पराभवाला करार म्हणून दाखवणे\" असे संबोधत फेटाळले आहे, वाढत्या तणाव आणि लष्करी उपस्थिती असूनही अमेरिकेच्या राजनैतिक प्रस्तावांना आपला नकार दर्शवला आहे."
+            },
+            "hi": {
+                "title": "ईरान ने ट्रम्प के युद्धविराम दावों का मज़ाक उड़ाया, अमेरिकी समझौते को खारिज किया",
+                "content": "एक ईरानी सैन्य प्रवक्ता ने डोनाल्ड ट्रम्प के चल रहे युद्धविराम वार्ता के दावों का मज़ाक उड़ाया है, जिसमें कहा गया है कि ईरान \"अमेरिका के साथ कभी कोई समझौता नहीं करेगा।\" यह चुनौती क्षेत्र में अमेरिका के महत्वपूर्ण सैन्य जमावड़े के बीच आई है, भले ही हवाई हमले और मिसाइल हमले जारी हैं। ईरान ने ट्रम्प के \"समझौते\" को \"हार को समझौता बताने\" के रूप में खारिज कर दिया, बढ़ते तनाव और सैन्य उपस्थिति के बावजूद अमेरिकी राजनयिक प्रस्तावों के प्रति अपनी अस्वीकृति पर जोर दिया।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129792994,imgsize-1046929.cms",
+        "link": "https://timesofindia.indiatimes.com/world/middle-east/dressing-up-defeat-as-agreement-iran-mocks-trump-with-negotiating-with-yourself-dig/articleshow/129792471.cms"
+    },
+    {
+        "id": "f47b8799",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "UAE Spring Rains: When Will They End?",
+                "content": "Unusual spring rains, thunderstorms, and gusty winds are drenching the UAE, disrupting daily life and travel in cities like Dubai. A low-pressure system drives this atmospheric instability, causing intermittent downpours. While welcomed, residents wonder when these unseasonal showers will end and clearer skies finally return."
+            },
+            "kn": {
+                "title": "ಯುಎಇ ವಸಂತ ಮಳೆ: ಯಾವಾಗ ಕೊನೆಗೊಳ್ಳುತ್ತದೆ?",
+                "content": "ಯುಎಇಯಲ್ಲಿ ಅಸಾಮಾನ್ಯ ವಸಂತ ಮಳೆ, ಗುಡುಗು ಸಹಿತ ಬಿರುಗಾಳಿ ಬೀಸುತ್ತಿದ್ದು, ದುಬೈನಂತಹ ನಗರಗಳಲ್ಲಿ ದೈನಂದಿನ ಜೀವನ ಮತ್ತು ಪ್ರಯಾಣಕ್ಕೆ ಅಡ್ಡಿಯಾಗಿದೆ. ಕಡಿಮೆ ಒತ್ತಡದ ವ್ಯವಸ್ಥೆಯು ಈ ವಾತಾವರಣದ ಅಸ್ಥಿರತೆಯನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ, ಇದು ಸಾಂದರ್ಭಿಕ ಮಳೆಗೆ ಕಾರಣವಾಗುತ್ತದೆ. ಈ ಮಳೆಯು ಸ್ವಾಗತಾರ್ಹವಾಗಿದ್ದರೂ, ಈ ಅಕಾಲಿಕ ಮಳೆ ಯಾವಾಗ ಕೊನೆಗೊಳ್ಳುತ್ತದೆ ಮತ್ತು ಸ್ಪಷ್ಟ ಆಕಾಶ ಯಾವಾಗ ಮರಳುತ್ತದೆ ಎಂದು ನಿವಾಸಿಗಳು ಆಶ್ಚರ್ಯ ಪಡುತ್ತಿದ್ದಾರೆ."
+            },
+            "mr": {
+                "title": "यूएईमधील वसंत ऋतूतील पाऊस: तो कधी थांबेल?",
+                "content": "यूएईमध्ये असामान्य वसंत ऋतूतील पाऊस, वादळे आणि जोरदार वाऱ्यामुळे दुबईसारख्या शहरांमधील दैनंदिन जीवन आणि प्रवासात अडथळा निर्माण झाला आहे. कमी दाबाच्या प्रणालीमुळे ही वातावरणीय अस्थिरता निर्माण झाली आहे, ज्यामुळे अधूनमधून पाऊस पडत आहे. या पावसाचे स्वागत असले तरी, हे बेमोसमी पाऊस कधी थांबणार आणि स्वच्छ आकाश कधी परत येणार, असा प्रश्न रहिवाशांना पडला आहे."
+            },
+            "hi": {
+                "title": "यूएई में वसंत की बारिश: यह कब खत्म होगी?",
+                "content": "यूएई में असामान्य वसंत की बारिश, आंधी-तूफान और तेज़ हवाएँ चल रही हैं, जिससे दुबई जैसे शहरों में दैनिक जीवन और यात्रा बाधित हो रही है। एक कम दबाव प्रणाली इस वायुमंडलीय अस्थिरता को बढ़ा रही है, जिससे रुक-रुक कर बारिश हो रही है। हालांकि इस बारिश का स्वागत किया जा रहा है, निवासी यह जानना चाहते हैं कि ये बेमौसम फुहारें कब खत्म होंगी और आसमान कब साफ होगा।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129793234,imgsize-24832.cms",
+        "link": "https://timesofindia.indiatimes.com/world/middle-east/uae-weather-forecast-when-will-the-unsettled-rain-thunder-and-gusty-winds-finally-end-spring-prediction-for-the-emirates/articleshow/129792481.cms"
+    },
+    {
+        "id": "ea88d9b8",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Jazeera Airways Boosts Kuwait's Food Supply",
+                "content": "Jazeera Airways rapidly airlifted 4.5 tonnes of fresh Indian produce to Kuwait, bolstering supermarket stock amid a regional crisis. This vital operation ensures food security, preventing shortages and demonstrating the airline's commitment to maintaining essential supplies for Kuwaiti residents during challenging times."
+            },
+            "kn": {
+                "title": "ಜಝೀರಾ ಏರ್‌ವೇಸ್ ಕುವೈತ್‌ನ ಆಹಾರ ಪೂರೈಕೆಯನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ",
+                "content": "ಜಝೀರಾ ಏರ್‌ವೇಸ್ ಪ್ರಾದೇಶಿಕ ಬಿಕ್ಕಟ್ಟಿನ ನಡುವೆ ಕುವೈತ್‌ನ ಸೂಪರ್‌ಮಾರ್ಕೆಟ್‌ಗಳ ದಾಸ್ತಾನು ಬಲಪಡಿಸಲು 4.5 ಟನ್ ತಾಜಾ ಭಾರತೀಯ ಉತ್ಪನ್ನಗಳನ್ನು ವೇಗವಾಗಿ ವಿಮಾನದಲ್ಲಿ ಸಾಗಿಸಿದೆ. ಈ ಮಹತ್ವದ ಕಾರ್ಯಾಚರಣೆಯು ಆಹಾರ ಭದ್ರತೆಯನ್ನು ಖಚಿತಪಡಿಸುತ್ತದೆ, ಕೊರತೆಯನ್ನು ತಡೆಯುತ್ತದೆ ಮತ್ತು ಕಷ್ಟದ ಸಮಯದಲ್ಲಿ ಕುವೈತ್ ನಿವಾಸಿಗಳಿಗೆ ಅಗತ್ಯ ಸರಬರಾಜುಗಳನ್ನು ನಿರ್ವಹಿಸುವ ಏರ್‌ಲೈನ್‌ನ ಬದ್ಧತೆಯನ್ನು ಪ್ರದರ್ಶಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "जझीरा एअरवेजने कुवेतचा अन्नपुरवठा वाढवला",
+                "content": "जझीरा एअरवेजने एका प्रादेशिक संकटादरम्यान कुवेतमधील सुपरमार्केटमधील साठा मजबूत करण्यासाठी 4.5 टन ताजी भारतीय उत्पादने वेगाने हवाईमार्गे पोहोचवली. ही महत्त्वपूर्ण कारवाई अन्नसुरक्षितता सुनिश्चित करते, तुटवडा टाळते आणि आव्हानात्मक काळात कुवेतच्या रहिवाशांसाठी आवश्यक वस्तूंचा पुरवठा कायम ठेवण्याची एअरलाइनची वचनबद्धता दर्शवते."
+            },
+            "hi": {
+                "title": "जज़ीरा एयरवेज ने कुवैत की खाद्य आपूर्ति बढ़ाई",
+                "content": "जज़ीरा एयरवेज ने एक क्षेत्रीय संकट के बीच कुवैत के सुपरमार्केट स्टॉक को मजबूत करने के लिए 4.5 टन ताजे भारतीय उत्पादों को तेजी से हवाई मार्ग से पहुंचाया। यह महत्वपूर्ण अभियान खाद्य सुरक्षा सुनिश्चित करता है, कमी को रोकता है और चुनौतीपूर्ण समय में कुवैती निवासियों के लिए आवश्यक आपूर्ति बनाए रखने के लिए एयरलाइन की प्रतिबद्धता को दर्शाता है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129792075,imgsize-157350.cms",
+        "link": "https://timesofindia.indiatimes.com/world/middle-east/kuwait-news-jazeera-airways-airlifts-4-5-tonnes-of-indian-produce-to-kuwait-as-crisis-strains-supermarket-shelves/articleshow/129792075.cms"
+    },
+    {
+        "id": "16ec1541",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Dubai Private Schools Extend Remote Learning",
+                "content": "Dubai's private schools will continue distance learning until April 3, the KHDA announced. This extension prioritizes student safety and well-being. Schools wishing to resume on-site classes before the deadline must obtain prior approval from the authorities, ensuring a cautious and regulated return to physical learning environments."
+            },
+            "kn": {
+                "title": "ದುಬೈ ಖಾಸಗಿ ಶಾಲೆಗಳಲ್ಲಿ ದೂರಶಿಕ್ಷಣ ವಿಸ್ತರಣೆ",
+                "content": "ದುಬೈನ ಖಾಸಗಿ ಶಾಲೆಗಳು ಏಪ್ರಿಲ್ 3 ರವರೆಗೆ ದೂರಶಿಕ್ಷಣವನ್ನು ಮುಂದುವರಿಸಲಿವೆ ಎಂದು KHDA ಘೋಷಿಸಿದೆ. ಈ ವಿಸ್ತರಣೆಯು ವಿದ್ಯಾರ್ಥಿಗಳ ಸುರಕ್ಷತೆ ಮತ್ತು ಯೋಗಕ್ಷೇಮಕ್ಕೆ ಆದ್ಯತೆ ನೀಡುತ್ತದೆ. ನಿಗದಿತ ದಿನಾಂಕದ ಮೊದಲು ತರಗತಿಗಳನ್ನು ಆಫ್‌ಲೈನ್‌ನಲ್ಲಿ ನಡೆಸಲು ಬಯಸುವ ಶಾಲೆಗಳು ಅಧಿಕಾರಿಗಳಿಂದ ಪೂರ್ವ ಅನುಮತಿ ಪಡೆಯಬೇಕು, ಭೌತಿಕ ಕಲಿಕೆಗೆ ಎಚ್ಚರಿಕೆಯ ಮತ್ತು ನಿಯಂತ್ರಿತ ಮರಳುವಿಕೆಯನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "दुबईतील खाजगी शाळांमध्ये दूरस्थ शिक्षणाचा विस्तार",
+                "content": "केएचडीएने (KHDA) जाहीर केले की, दुबईतील खाजगी शाळांमध्ये 3 एप्रिलपर्यंत दूरस्थ शिक्षण सुरू राहील. या विस्ताराने विद्यार्थ्यांच्या सुरक्षिततेला आणि कल्याणाला प्राधान्य दिले आहे. मुदतीपूर्वी प्रत्यक्ष वर्ग सुरू करू इच्छिणाऱ्या शाळांना अधिकाऱ्यांची पूर्वपरवानगी घेणे अनिवार्य आहे, ज्यामुळे शारीरिक शिक्षण वातावरणात सावध आणि नियमबद्ध परतीची खात्री होते."
+            },
+            "hi": {
+                "title": "दुबई के निजी स्कूलों में दूरस्थ शिक्षा का विस्तार",
+                "content": "केएचडीए (KHDA) ने घोषणा की है कि दुबई के निजी स्कूल 3 अप्रैल तक दूरस्थ शिक्षा जारी रखेंगे। इस विस्तार से छात्रों की सुरक्षा और भलाई को प्राथमिकता दी गई है। समय सीमा से पहले ऑन-साइट कक्षाएं फिर से शुरू करने के इच्छुक स्कूलों को अधिकारियों से पूर्व अनुमोदन प्राप्त करना होगा, जिससे भौतिक सीखने के माहौल में सावधानीपूर्वक और विनियमित वापसी सुनिश्चित हो सके।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129792096,imgsize-1149477.cms",
+        "link": "https://timesofindia.indiatimes.com/world/middle-east/dubai-extends-distance-learning-for-private-institutions-until-april-3-khda-says-on-site-return-requires-approval/articleshow/129791924.cms"
+    },
+    {
+        "id": "7b2a1546",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Iran's Truce Terms: US Bases Out, Reparations",
+                "content": "Amid escalating Middle East tensions, Iran demands the closure of US Gulf bases and reparations for attacks as conditions for a truce. The US, via Pakistan, proposes a 15-point plan targeting Iran's nuclear and missile programs, offering a potential one-month ceasefire and sanctions relief. A complex diplomatic dance unfolds for regional stability."
+            },
+            "kn": {
+                "title": "ಇರಾನ್‌ನ ಕದನ ವಿರಾಮದ ಷರತ್ತುಗಳು: ಅಮೆರಿಕದ ನೆಲೆಗಳು ಹೊರಗೆ, ಪರಿಹಾರ",
+                "content": "ಮಧ್ಯಪ್ರಾಚ್ಯದಲ್ಲಿ ಹೆಚ್ಚುತ್ತಿರುವ ಉದ್ವಿಗ್ನತೆಯ ನಡುವೆ, ಇರಾನ್ ಕದನ ವಿರಾಮಕ್ಕಾಗಿ ಅಮೆರಿಕದ ಗಲ್ಫ್ ನೆಲೆಗಳನ್ನು ಮುಚ್ಚುವುದು ಮತ್ತು ದಾಳಿಗೆ ಪರಿಹಾರವನ್ನು ಒತ್ತಾಯಿಸಿದೆ. ಅಮೆರಿಕ, ಪಾಕಿಸ್ತಾನದ ಮೂಲಕ, ಇರಾನ್‌ನ ಪರಮಾಣು ಮತ್ತು ಕ್ಷಿಪಣಿ ಕಾರ್ಯಕ್ರಮಗಳನ್ನು ಗುರಿಯಾಗಿಸಿಕೊಂಡು 15 ಅಂಶಗಳ ಯೋಜನೆಯನ್ನು ಪ್ರಸ್ತಾಪಿಸಿದೆ, ಇದು ಒಂದು ತಿಂಗಳ ಕದನ ವಿರಾಮ ಮತ್ತು ನಿರ್ಬಂಧಗಳ ಸಡಿಲಿಕೆಯನ್ನು ನೀಡುತ್ತದೆ. ಪ್ರಾದೇಶಿಕ ಸ್ಥಿರತೆಗಾಗಿ ಒಂದು ಸಂಕೀರ್ಣ ರಾಜತಾಂತ್ರಿಕ ನೃತ್ಯ ನಡೆಯುತ್ತಿದೆ."
+            },
+            "mr": {
+                "title": "इराणच्या युद्धविरामाच्या अटी: अमेरिकेचे तळ बंद, नुकसानभरपाई",
+                "content": "मध्यपूर्वेतील वाढत्या तणावाच्या पार्श्वभूमीवर, इराणने युद्धविरामासाठी अमेरिकेचे आखाती तळ बंद करणे आणि हल्ल्यांसाठी नुकसानभरपाईची मागणी केली आहे. अमेरिका, पाकिस्तानमार्फत, इराणच्या अणु आणि क्षेपणास्त्र कार्यक्रमांना लक्ष्य करणारी 15-कलमी योजना प्रस्तावित करत आहे, ज्यात एक महिन्याचा संभाव्य युद्धविराम आणि निर्बंधात सवलत देण्याचे आश्वासन आहे. प्रादेशिक स्थिरतेसाठी एक गुंतागुंतीचा राजनैतिक खेळ सुरू आहे."
+            },
+            "hi": {
+                "title": "ईरान की संघर्ष-विराम शर्तें: अमेरिकी ठिकाने बंद, हर्जाना",
+                "content": "मध्य पूर्व में बढ़ते तनाव के बीच, ईरान संघर्ष-विराम के लिए अमेरिकी खाड़ी ठिकानों को बंद करने और हमलों के लिए हर्जाने की मांग कर रहा है। अमेरिका ने पाकिस्तान के माध्यम से ईरान के परमाणु और मिसाइल कार्यक्रमों को लक्षित करने वाली 15-सूत्रीय योजना प्रस्तावित की है, जिसमें एक महीने के संभावित संघर्ष-विराम और प्रतिबंधों में ढील की पेशकश की गई है। क्षेत्रीय स्थिरता के लिए एक जटिल कूटनीतिक नृत्य चल रहा है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129791904,imgsize-936035.cms",
+        "link": "https://timesofindia.indiatimes.com/world/middle-east/closure-of-american-bases-in-gulf-reparation-for-attacks-what-iran-is-demanding-in-potential-truce-deal-with-us/articleshow/129791796.cms"
+    },
+    {
+        "id": "72d2bb1e",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Trump Claims Iran Talks, Iran Denies",
+                "content": "President Trump claims ongoing negotiations with Iran, naming Jared Kushner and JD Vance among key figures. Trump expressed optimism for a deal, but Iranian officials vehemently denied any talks, calling US claims 'fake news.' Reports suggest Iran prefers negotiating with Vance, seeing him as more open to ending the conflict. The diplomatic stalemate continues."
+            },
+            "kn": {
+                "title": "ಟ್ರಂಪ್ ಇರಾನ್ ಮಾತುಕತೆ ಹೇಳುತ್ತಾರೆ, ಇರಾನ್ ನಿರಾಕರಿಸುತ್ತದೆ",
+                "content": "ಅಧ್ಯಕ್ಷ ಟ್ರಂಪ್ ಇರಾನ್‌ನೊಂದಿಗೆ ನಿರಂತರ ಮಾತುಕತೆ ನಡೆಯುತ್ತಿದೆ ಎಂದು ಹೇಳಿದ್ದಾರೆ, ಜೇರೆಡ್ ಕುಶ್ನರ್ ಮತ್ತು ಜೆ.ಡಿ. ವ್ಯಾನ್ಸ್ ಪ್ರಮುಖ ವ್ಯಕ್ತಿಗಳಲ್ಲಿ ಸೇರಿದ್ದಾರೆ ಎಂದು ಹೆಸರಿಸಿದ್ದಾರೆ. ಟ್ರಂಪ್ ಒಪ್ಪಂದದ ಬಗ್ಗೆ ಆಶಾವಾದ ವ್ಯಕ್ತಪಡಿಸಿದ್ದಾರೆ, ಆದರೆ ಇರಾನ್ ಅಧಿಕಾರಿಗಳು ಯಾವುದೇ ಮಾತುಕತೆಗಳನ್ನು ತೀವ್ರವಾಗಿ ನಿರಾಕರಿಸಿದ್ದಾರೆ, ಯುಎಸ್ ಹೇಳಿಕೆಗಳನ್ನು 'ನಕಲಿ ಸುದ್ದಿ' ಎಂದು ಕರೆದಿದ್ದಾರೆ. ಇರಾನ್, ವ್ಯಾನ್ಸ್ ಅವರೊಂದಿಗೆ ಮಾತುಕತೆ ನಡೆಸಲು ಆದ್ಯತೆ ನೀಡುತ್ತದೆ, ಅವರನ್ನು ಸಂಘರ್ಷವನ್ನು ಕೊನೆಗೊಳಿಸಲು ಹೆಚ್ಚು ಮುಕ್ತ ಎಂದು ನೋಡುತ್ತದೆ ಎಂದು ವರದಿಗಳು ಸೂಚಿಸುತ್ತವೆ. ರಾಜತಾಂತ್ರಿಕ ಬಿಕ್ಕಟ್ಟು ಮುಂದುವರಿದಿದೆ."
+            },
+            "mr": {
+                "title": "ट्रम्प यांचा इराण चर्चेचा दावा, इराणचा इन्कार",
+                "content": "अध्यक्ष ट्रम्प यांनी इराणसोबत चर्चा सुरू असल्याचा दावा केला आहे, ज्यात जारेड कुशनर आणि जे.डी. वान्स यांचा समावेश आहे. ट्रम्प यांनी कराराबाबत आशावाद व्यक्त केला, परंतु इराणच्या अधिकाऱ्यांनी कोणत्याही चर्चेचा तीव्र इन्कार केला आणि अमेरिकेच्या दाव्यांना 'बनावट बातम्या' म्हटले. अहवालांनुसार, इराण वान्स यांच्याशी चर्चा करण्यास प्राधान्य देतो, त्यांना संघर्ष संपवण्यासाठी अधिक उत्सुक मानतो. राजनैतिक कोंडी कायम आहे."
+            },
+            "hi": {
+                "title": "ट्रम्प का ईरान वार्ता का दावा, ईरान का इनकार",
+                "content": "राष्ट्रपति ट्रम्प ने ईरान के साथ जारी वार्ताओं का दावा किया है, जिसमें जारेड कुशनेर और जे.डी. वेंस को प्रमुख व्यक्तियों में शामिल किया गया है। ट्रम्प ने एक समझौते के लिए आशावाद व्यक्त किया, लेकिन ईरानी अधिकारियों ने किसी भी बातचीत से सख्ती से इनकार किया, अमेरिकी दावों को 'फर्जी खबर' करार दिया। रिपोर्टों से पता चलता है कि ईरान वेंस के साथ बातचीत करना पसंद करता है, उन्हें संघर्ष समाप्त करने के लिए अधिक खुला मानता है। राजनयिक गतिरोध जारी है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129790780,imgsize-1575998.cms",
+        "link": "https://timesofindia.indiatimes.com/world/us/whos-negotiating-with-iran-trump-lists-key-names-including-jd-vance-in-discussions/articleshow/129790564.cms"
+    },
+    {
+        "id": "18b14781",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "US Proposes Bold Plan to Curb Iran's Nuclear Ambitions",
+                "content": "The US, through Pakistan, has presented a 15-point proposal to Iran aimed at ending the Middle East conflict. Highlighting \"They cannot have a nuclear weapon,\" the plan addresses Iran's nuclear and missile programs and maritime security, even as military actions continue. Pakistan is mediating, but Iran's response is uncertain amid internal challenges."
+            },
+            "kn": {
+                "title": "ಇರಾನ್‌ನ ಅಣ್ವಸ್ತ್ರ ಮಹತ್ವಾಕಾಂಕ್ಷೆಗಳನ್ನು ನಿಯಂತ್ರಿಸಲು ಅಮೆರಿಕದ ದಿಟ್ಟ ಯೋಜನೆ",
+                "content": "ಪಾಕಿಸ್ತಾನದ ಮೂಲಕ ಅಮೆರಿಕವು ಇರಾನ್‌ಗೆ 15 ಅಂಶಗಳ ಪ್ರಸ್ತಾವನೆಯನ್ನು ಸಲ್ಲಿಸಿದೆ, ಇದು ಮಧ್ಯಪ್ರಾಚ್ಯ ಸಂಘರ್ಷವನ್ನು ಕೊನೆಗೊಳಿಸುವ ಗುರಿಯನ್ನು ಹೊಂದಿದೆ. \"ಅವರು ಅಣ್ವಸ್ತ್ರ ಹೊಂದಲು ಸಾಧ್ಯವಿಲ್ಲ\" ಎಂದು ಒತ್ತಿಹೇಳುತ್ತಾ, ಈ ಯೋಜನೆಯು ಇರಾನ್‌ನ ಅಣು ಮತ್ತು ಕ್ಷಿಪಣಿ ಕಾರ್ಯಕ್ರಮಗಳು ಹಾಗೂ ಕಡಲ ಭದ್ರತೆಯನ್ನು ಪರಿಹರಿಸುತ್ತದೆ, ಮಿಲಿಟರಿ ಕ್ರಮಗಳು ಮುಂದುವರಿದಿದ್ದರೂ. ಪಾಕಿಸ್ತಾನ ಮಧ್ಯಸ್ಥಿಕೆ ವಹಿಸುತ್ತಿದೆ, ಆದರೆ ಆಂತರಿಕ ಸವಾಲುಗಳ ನಡುವೆ ಇರಾನ್‌ನ ಪ್ರತಿಕ್ರಿಯೆ ಅನಿಶ್ಚಿತವಾಗಿದೆ."
+            },
+            "mr": {
+                "title": "इराणच्या अणुमहत्त्वाकांक्षा रोखण्यासाठी अमेरिकेचा धाडसी प्रस्ताव",
+                "content": "अमेरिकेने पाकिस्तानमार्फत इराणला 15 कलमी प्रस्ताव सादर केला आहे, ज्याचा उद्देश मध्यपूर्वेतील संघर्ष संपवणे हा आहे. \"त्यांच्याकडे अणुबॉम्ब असू शकत नाही\" यावर भर देत, ही योजना इराणच्या अणु आणि क्षेपणास्त्र कार्यक्रमांवर तसेच सागरी सुरक्षेवर लक्ष केंद्रित करते, जरी लष्करी कारवाया सुरू असल्या तरी. पाकिस्तान मध्यस्थी करत आहे, परंतु अंतर्गत आव्हानांमुळे इराणचा प्रतिसाद अनिश्चित आहे."
+            },
+            "hi": {
+                "title": "ईरान की परमाणु महत्वाकांक्षाओं को रोकने के लिए अमेरिका का साहसिक प्रस्ताव",
+                "content": "अमेरिका ने पाकिस्तान के माध्यम से ईरान को 15-सूत्रीय प्रस्ताव प्रस्तुत किया है, जिसका उद्देश्य मध्य पूर्व संघर्ष को समाप्त करना है। \"उनके पास परमाणु हथियार नहीं हो सकते\" पर जोर देते हुए, यह योजना ईरान के परमाणु और मिसाइल कार्यक्रमों तथा समुद्री सुरक्षा को संबोधित करती है, भले ही सैन्य कार्रवाई जारी हो। पाकिस्तान मध्यस्थता कर रहा है, लेकिन आंतरिक चुनौतियों के बीच ईरान की प्रतिक्रिया अनिश्चित है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129790053,imgsize-962621.cms",
+        "link": "https://timesofindia.indiatimes.com/world/us/they-cannot-have-a-nuclear-weapon-us-pushes-15-point-plan-to-end-iran-war-sent-via-pakistan/articleshow/129789762.cms"
+    },
+    {
+        "id": "dd92e44f",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "US Deploys Elite 82nd Airborne to Mideast Amid Tensions",
+                "content": "The US is deploying 3,000 elite 82nd Airborne Division troops to the Middle East, a move signaling heightened military readiness amid rising regional tensions. Known as America’s fastest strike force, this unit, with a history of rapid response, including operations like storming Nazi-occupied France, is being sent to ensure swift action in uncertain situations, emphasizing proactive preparation over mere posture."
+            },
+            "kn": {
+                "title": "ಉದ್ವಿಗ್ನತೆಯ ನಡುವೆ ಮಧ್ಯಪ್ರಾಚ್ಯಕ್ಕೆ ಅಮೆರಿಕದ ಎಲೈಟ್ 82ನೇ ಏರ್‌ಬೋರ್ನ್ ನಿಯೋಜನೆ",
+                "content": "ಪ್ರಾದೇಶಿಕ ಉದ್ವಿಗ್ನತೆ ಹೆಚ್ಚುತ್ತಿರುವ ಹಿನ್ನೆಲೆಯಲ್ಲಿ ಅಮೆರಿಕವು ತನ್ನ 3,000 ಎಲೈಟ್ 82ನೇ ಏರ್‌ಬೋರ್ನ್ ದಳದ ಸೈನಿಕರನ್ನು ಮಧ್ಯಪ್ರಾಚ್ಯಕ್ಕೆ ನಿಯೋಜಿಸುತ್ತಿದೆ. ಅಮೆರಿಕದ ಅತಿ ವೇಗದ ದಾಳಿ ಪಡೆ ಎಂದು ಹೆಸರಾದ ಈ ಘಟಕವು, ನಾಜಿ-ಆಕ್ರಮಿತ ಫ್ರಾನ್ಸ್ ಮೇಲೆ ದಾಳಿ ಮಾಡುವಂತಹ ಕ್ಷಿಪ್ರ ಪ್ರತಿಕ್ರಿಯೆಯ ಇತಿಹಾಸವನ್ನು ಹೊಂದಿದೆ. ಅನಿಶ್ಚಿತ ಸಂದರ್ಭಗಳಲ್ಲಿ ತ್ವರಿತ ಕ್ರಮವನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು ಇದನ್ನು ಕಳುಹಿಸಲಾಗುತ್ತಿದೆ, ಕೇವಲ ಭಂಗಿಗಿಂತ ಸಕ್ರಿಯ ಸಿದ್ಧತೆಗೆ ಒತ್ತು ನೀಡಲಾಗಿದೆ."
+            },
+            "mr": {
+                "title": "तणावाच्या पार्श्वभूमीवर अमेरिकेने एलिट 82वी एअरबॉर्न मध्यपूर्वेत तैनात केली",
+                "content": "प्रादेशिक तणाव वाढत असताना, अमेरिकेने आपल्या 3,000 एलिट 82व्या एअरबॉर्न डिव्हिजनच्या सैनिकांना मध्यपूर्वेत तैनात केले आहे. अमेरिकेचे सर्वात वेगवान स्ट्राइक फोर्स म्हणून ओळखले जाणारे हे युनिट, नाझी-व्याप्त फ्रान्सवर हल्ला करण्यासारख्या जलद प्रतिसादाचा इतिहास आहे. अनिश्चित परिस्थितीत त्वरित कारवाई सुनिश्चित करण्यासाठी ते पाठवले जात आहे, केवळ 'पोझ' करण्याऐवजी सक्रिय तयारीवर भर दिला जात आहे."
+            },
+            "hi": {
+                "title": "तनाव के बीच अमेरिका ने मध्य पूर्व में एलीट 82वीं एयरबोर्न तैनात की",
+                "content": "क्षेत्रीय तनाव बढ़ने के बीच अमेरिका 3,000 एलीट 82वीं एयरबोर्न डिवीजन के सैनिकों को मध्य पूर्व में तैनात कर रहा है। अमेरिका की सबसे तेज़ स्ट्राइक फ़ोर्स के रूप में जानी जाने वाली यह इकाई, नाज़ी-अधिकृत फ़्रांस पर धावा बोलने जैसे त्वरित प्रतिक्रिया का इतिहास रखती है। इसे अनिश्चित स्थितियों में त्वरित कार्रवाई सुनिश्चित करने के लिए भेजा जा रहा है, जो केवल 'मुद्रा' के बजाय सक्रिय तैयारी पर ज़ोर देता है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129786494,imgsize-1383109.cms",
+        "link": "https://timesofindia.indiatimes.com/world/us/82nd-airborne-division-to-be-deployed-in-middle-east-inside-americas-fastest-strike-force-that-once-stormed-nazi-occupied-france/articleshow/129786412.cms"
+    },
+    {
+        "id": "5923335a",
+        "category": "Sports",
+        "translations": {
+            "en": {
+                "title": "Aditya Birla Group-Led Consortium Acquires RCB for Record $1.78 Billion",
+                "content": "A consortium, including Aditya Birla Group, Times of India, Bolt Ventures, and Blackstone, has acquired Royal Challengers Bengaluru (RCB) for a record $1.78 billion. This landmark deal encompasses both men's and women's IPL and WPL franchises. Aryaman Vikram Birla will chair the team, with Satyan Gajwani as vice-chairman, effective post-2026 IPL season."
+            },
+            "kn": {
+                "title": "ಆದಿತ್ಯ ಬಿರ್ಲಾ ಗ್ರೂಪ್ ನೇತೃತ್ವದ ಒಕ್ಕೂಟದಿಂದ ದಾಖಲೆಯ $1.78 ಬಿಲಿಯನ್‌ಗೆ ಆರ್‌ಸಿಬಿ ಖರೀದಿ",
+                "content": "ಆದಿತ್ಯ ಬಿರ್ಲಾ ಗ್ರೂಪ್, ಟೈಮ್ಸ್ ಆಫ್ ಇಂಡಿಯಾ, ಬೋಲ್ಟ್ ವೆಂಚರ್ಸ್ ಮತ್ತು ಬ್ಲ್ಯಾಕ್‌ಸ್ಟೋನ್ ಒಳಗೊಂಡ ಒಕ್ಕೂಟವು ರಾಯಲ್ ಚಾಲೆಂಜರ್ಸ್ ಬೆಂಗಳೂರು (ಆರ್‌ಸಿಬಿ) ಅನ್ನು ದಾಖಲೆಯ $1.78 ಬಿಲಿಯನ್‌ಗೆ ಖರೀದಿಸಿದೆ. ಈ ಮಹತ್ವದ ಒಪ್ಪಂದವು ಪುರುಷರ ಮತ್ತು ಮಹಿಳೆಯರ ಐಪಿಎಲ್ ಮತ್ತು ಡಬ್ಲ್ಯೂಪಿಎಲ್ ಫ್ರಾಂಚೈಸಿಗಳನ್ನು ಒಳಗೊಂಡಿದೆ. 2026ರ ಐಪಿಎಲ್ ಸೀಸನ್ ನಂತರ, ಆರ್ಯಮನ್ ವಿಕ್ರಮ್ ಬಿರ್ಲಾ ತಂಡದ ಅಧ್ಯಕ್ಷರಾಗಿರುತ್ತಾರೆ ಮತ್ತು ಸತ್ಯನ್ ಗಜ್ವಾಣಿ ಉಪಾಧ್ಯಕ್ಷರಾಗಿರುತ್ತಾರೆ."
+            },
+            "mr": {
+                "title": "आदित्य बिर्ला गट-नेतृत्वाखालील संघाने $1.78 अब्ज डॉलरला आरसीबी विकत घेतले",
+                "content": "आदित्य बिर्ला समूह, टाइम्स ऑफ इंडिया, बोल्ट व्हेंचर्स आणि ब्लॅकस्टोन यांचा समावेश असलेल्या एका संघाने रॉयल चॅलेंजर्स बंगळूरु (आरसीबी) विक्रमी $1.78 अब्ज डॉलरला विकत घेतले आहे. या महत्त्वाच्या करारामध्ये पुरुष आणि महिला दोन्ही आयपीएल आणि डब्ल्यूपीएल फ्रँचायझींचा समावेश आहे. 2026 च्या आयपीएल हंगामानंतर आर्यमन विक्रम बिर्ला संघाचे अध्यक्ष असतील, तर सत्यन गजवाणी उपाध्यक्ष म्हणून कार्यभार सांभाळतील."
+            },
+            "hi": {
+                "title": "आदित्य बिर्ला समूह-नेतृत्व संघ ने $1.78 अरब डॉलर में आरसीबी का अधिग्रहण किया",
+                "content": "आदित्य बिर्ला समूह, टाइम्स ऑफ इंडिया, बोल्ट वेंचर्स और ब्लैकस्टोन सहित एक संघ ने रॉयल चैलेंजर्स बेंगलुरु (आरसीबी) का रिकॉर्ड $1.78 अरब डॉलर में अधिग्रहण किया है। इस ऐतिहासिक सौदे में पुरुषों और महिलाओं दोनों की आईपीएल और डब्ल्यूपीएल फ्रेंचाइजी शामिल हैं। 2026 के आईपीएल सीज़न के बाद, आर्यमन विक्रम बिर्ला टीम के अध्यक्ष और सत्यन गजवाणी उपाध्यक्ष होंगे।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129781071,imgsize-108208.cms",
+        "link": "https://timesofindia.indiatimes.com/sports/cricket/news/aditya-birla-group-toi-group-bolt-ventures-blackstone-acquire-rcb-for-1-78-billion/articleshow/129780659.cms"
+    },
+    {
+        "id": "8759b4c6",
+        "category": "Sports",
+        "translations": {
+            "en": {
+                "title": "Kohli's Coaching Clinic: Guiding Salt at RCB Nets",
+                "content": "During a recent RCB practice, Virat Kohli was spotted offering valuable batting tips to English opener Phil Salt. Kohli, known for his prowess with the bat, took on a mentorship role to help Salt bounce back from a dip in form. This unique session highlights Kohli's leadership and commitment to team performance, focusing on individual improvement."
+            },
+            "kn": {
+                "title": "ಕೊಹ್ಲಿಯ ಕೋಚಿಂಗ್ ಕ್ಲಿನಿಕ್: ಆರ್‌ಸಿಬಿ ನೆಟ್ಸ್‌ನಲ್ಲಿ ಸಾಲ್ಟ್‌ಗೆ ಮಾರ್ಗದರ್ಶನ",
+                "content": "ಇತ್ತೀಚಿನ ಆರ್‌ಸಿಬಿ ಅಭ್ಯಾಸದ ವೇಳೆ, ವಿರಾಟ್ ಕೊಹ್ಲಿ ಇಂಗ್ಲಿಷ್ ಓಪನರ್ ಫಿಲ್ ಸಾಲ್ಟ್‌ಗೆ ಬ್ಯಾಟಿಂಗ್ ಸಲಹೆಗಳನ್ನು ನೀಡುತ್ತಿರುವುದು ಕಂಡುಬಂದಿದೆ. ಬ್ಯಾಟ್‌ನೊಂದಿಗೆ ತಮ್ಮ ಪ್ರಾವೀಣ್ಯತೆಗೆ ಹೆಸರುವಾಸಿಯಾದ ಕೊಹ್ಲಿ, ಸಾಲ್ಟ್ ಅವರ ಫಾರ್ಮ್ ಕುಸಿತದಿಂದ ಚೇತರಿಸಿಕೊಳ್ಳಲು ಮಾರ್ಗದರ್ಶಕರ ಪಾತ್ರ ವಹಿಸಿದರು. ಈ ವಿಶೇಷ ಅಧಿವೇಶನವು ಕೊಹ್ಲಿಯ ನಾಯಕತ್ವ ಮತ್ತು ತಂಡದ ಕಾರ್ಯಕ್ಷಮತೆಗೆ ಅವರ ಬದ್ಧತೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ, ವೈಯಕ್ತಿಕ ಸುಧಾರಣೆಗೆ ಗಮನ ನೀಡುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "कोहलीचा कोचिंग क्लिनिक: आरसीबी नेट्समध्ये सॉल्टला मार्गदर्शन",
+                "content": "अलीकडील आरसीबी सरावादरम्यान, विराट कोहली इंग्लिश सलामीवीर फिल सॉल्टला महत्त्वपूर्ण फलंदाजीच्या टिप्स देताना दिसला. फलंदाजीतील आपल्या कौशल्यासाठी ओळखल्या जाणाऱ्या कोहलीने सॉल्टला फॉर्ममधील घसरणेशतून बाहेर पडण्यास मदत करण्यासाठी मार्गदर्शकाची भूमिका स्वीकारली. हे अनोखे सत्र कोहलीचे नेतृत्व आणि संघाच्या कामगिरीप्रती त्याची बांधिलकी अधोरेखित करते, तसेच वैयक्तिक सुधारणेवर लक्ष केंद्रित करते."
+            },
+            "hi": {
+                "title": "कोहली का कोचिंग क्लिनिक: आरसीबी नेट्स में सॉल्ट को मार्गदर्शन",
+                "content": "हाल ही में एक आरसीबी अभ्यास सत्र के दौरान, विराट कोहली को इंग्लिश सलामी बल्लेबाज फिल सॉल्ट को बहुमूल्य बल्लेबाजी युक्तियाँ देते हुए देखा गया। बल्लेबाजी में अपनी महारत के लिए जाने जाने वाले कोहली ने सॉल्ट को फॉर्म में गिरावट से उबरने में मदद करने के लिए एक मार्गदर्शक की भूमिका निभाई। यह अनूठा सत्र कोहली के नेतृत्व और टीम के प्रदर्शन के प्रति उनकी प्रतिबद्धता को उजागर करता है, जिसमें व्यक्तिगत सुधार पर ध्यान केंद्रित किया गया है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129791053,imgsize-196322.cms",
+        "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-virat-kohli-turns-bowler-to-help-his-opening-partner-phil-salt-watch/articleshow/129791055.cms"
+    },
+    {
+        "id": "86780b8c",
+        "category": "Sports",
+        "translations": {
+            "en": {
+                "title": "IPL Captains to Discuss Key Rules with BCCI",
+                "content": "IPL captains will meet BCCI officials on March 25 to discuss crucial rule changes for the upcoming season. The agenda includes the two-bouncer rule, detailed ball replacement specifics (especially in the second innings), bat checks, saliva use, and the retired-out provision. Match referees and umpires will also be present to clarify regulations, aiming for a smoother IPL 2026."
+            },
+            "kn": {
+                "title": "IPL ನಾಯಕರು BCCI ಜೊತೆ ಪ್ರಮುಖ ನಿಯಮಗಳ ಬಗ್ಗೆ ಚರ್ಚಿಸಲಿದ್ದಾರೆ",
+                "content": "IPL ನಾಯಕರು ಮಾರ್ಚ್ 25 ರಂದು BCCI ಅಧಿಕಾರಿಗಳನ್ನು ಭೇಟಿ ಮಾಡಿ ಮುಂಬರುವ ಸೀಸನ್‌ಗಾಗಿ ಪ್ರಮುಖ ನಿಯಮ ಬದಲಾವಣೆಗಳ ಬಗ್ಗೆ ಚರ್ಚಿಸಲಿದ್ದಾರೆ. ಏಜೆಂಡಾದಲ್ಲಿ ಎರಡು ಬೌನ್ಸರ್ ನಿಯಮ, ಚೆಂಡು ಬದಲಾವಣೆ ವಿವರಗಳು (ವಿಶೇಷವಾಗಿ ಎರಡನೇ ಇನ್ನಿಂಗ್ಸ್‌ನಲ್ಲಿ), ಬ್ಯಾಟ್ ಪರಿಶೀಲನೆ, ಲಾಲಾರಸ ಬಳಕೆ ಮತ್ತು ರಿಟೈರ್ಡ್-ಔಟ್ ನಿಯಮ ಸೇರಿವೆ. ಪಂದ್ಯದ ರೆಫರಿಗಳು ಮತ್ತು ಅಂಪೈರ್‌ಗಳು ಸಹ ನಿಯಮಗಳನ್ನು ಸ್ಪಷ್ಟಪಡಿಸಲು ಹಾಜರಿರುತ್ತಾರೆ, ಇದು ಸುಗಮ IPL 2026 ಕ್ಕೆ ಸಹಕಾರಿ."
+            },
+            "mr": {
+                "title": "आयपीएल कर्णधार बीसीसीआयसोबत महत्त्वाच्या नियमांवर चर्चा करणार",
+                "content": "आयपीएल कर्णधार 25 मार्च रोजी बीसीसीआय अधिकाऱ्यांची भेट घेऊन आगामी हंगामासाठी महत्त्वपूर्ण नियमांवर चर्चा करणार आहेत. अजेंड्यावर दोन-बाउन्सर नियम, बॉल बदलण्याची सविस्तर माहिती (विशेषतः दुसऱ्या डावात), बॅट तपासणी, लाळेचा वापर आणि रिटायर्ड-आउटची तरतूद यांचा समावेश आहे. सामना रेफरी आणि पंच देखील नियमांचे स्पष्टीकरण देण्यासाठी उपस्थित असतील, ज्यामुळे आयपीएल 2026 अधिक सुरळीत होईल."
+            },
+            "hi": {
+                "title": "आईपीएल कप्तान बीसीसीआई के साथ अहम नियमों पर करेंगे चर्चा",
+                "content": "आईपीएल कप्तान 25 मार्च को बीसीसीआई अधिकारियों से मिलेंगे और आगामी सीज़न के लिए महत्वपूर्ण नियम परिवर्तनों पर चर्चा करेंगे। एजेंडे में दो-बाउंसर नियम, गेंद बदलने के विस्तृत नियम (विशेषकर दूसरी पारी में), बल्ले की जांच, लार का उपयोग और रिटायर्ड-आउट प्रावधान शामिल हैं। मैच रेफरी और अंपायर भी नियमों को स्पष्ट करने के लिए मौजूद रहेंगे, जिसका उद्देश्य आईपीएल 2026 को सुचारू बनाना है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129791971,imgsize-104766.cms",
+        "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-captains-meet-when-where-and-the-complete-agenda/articleshow/129791955.cms"
+    },
+    {
+        "id": "030dd8e7",
+        "category": "Sports",
+        "translations": {
+            "en": {
+                "title": "Dhoni's IPL Return: Power, Trolls & CSK's Future",
+                "content": "Veteran MS Dhoni, 44, gears up for his 19th IPL, showcasing his classic finishing prowess with a net session six. Despite online trolls targeting the bowler, Dhoni's enduring impact is undeniable. CSK, led by Ruturaj Gaikwad, faces injury woes but strengthens its squad with Sanju Samson, signaling a strategic shift towards futureproofing and continued competitiveness."
+            },
+            "kn": {
+                "title": "ಧೋನಿಯ IPL ಮರಳುವಿಕೆ: ಶಕ್ತಿ, ಟ್ರೋಲ್‌ಗಳು ಮತ್ತು CSK ಭವಿಷ್ಯ",
+                "content": "44ರ ಹಿರಿಯ ಆಟಗಾರ ಎಂ.ಎಸ್. ಧೋನಿ ತಮ್ಮ 19ನೇ ಐಪಿಎಲ್‌ಗೆ ಸಜ್ಜಾಗುತ್ತಿದ್ದಾರೆ, ನೆಟ್ ಸೆಷನ್‌ನಲ್ಲಿ ಸಿಕ್ಸರ್ ಮೂಲಕ ತಮ್ಮ ಕ್ಲಾಸಿಕ್ ಫಿನಿಶಿಂಗ್ ಸಾಮರ್ಥ್ಯವನ್ನು ಪ್ರದರ್ಶಿಸುತ್ತಿದ್ದಾರೆ. ಬೌಲರ್ ಅನ್ನು ಗುರಿಯಾಗಿಸಿದ ಆನ್‌ಲೈನ್ ಟ್ರೋಲ್‌ಗಳ ಹೊರತಾಗಿಯೂ, ಧೋನಿಯ ನಿರಂತರ ಪ್ರಭಾವ ನಿರ್ವಿವಾದ. ಋತುರಾಜ್ ಗಾಯಕ್ವಾಡ್ ನೇತೃತ್ವದ ಸಿಎಸ್‌ಕೆ, ಗಾಯದ ಸಮಸ್ಯೆಗಳನ್ನು ಎದುರಿಸುತ್ತಿದ್ದರೂ, ಸಂಜು ಸ್ಯಾಮ್ಸನ್‌ನೊಂದಿಗೆ ತಂಡವನ್ನು ಬಲಪಡಿಸಿದೆ, ಇದು ಭವಿಷ್ಯದ ದೃಷ್ಟಿಕೋನ ಮತ್ತು ನಿರಂತರ ಸ್ಪರ್ಧಾತ್ಮಕತೆಯತ್ತ ಕಾರ್ಯತಂತ್ರದ ಬದಲಾವಣೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "धोनीचे आयपीएल पुनरागमन: ताकद, ट्रोलिंग आणि सीएसकेचे भविष्य",
+                "content": "44 वर्षीय अनुभवी एम.एस. धोनी आपल्या 19व्या आयपीएलसाठी सज्ज होत आहेत, नेट सत्रातील षटकाराने त्यांची उत्कृष्ट फिनिशिंग क्षमता दर्शवत आहेत. गोलंदाजाला लक्ष्य करणाऱ्या ऑनलाइन ट्रोलिंगच्या पलीकडे, धोनीचा सततचा प्रभाव नाकारता येत नाही. ऋतुराज गायकवाडच्या नेतृत्वाखालील सीएसकेला दुखापतींमुळे अडचणींचा सामना करावा लागत असला तरी, त्यांनी संजू सॅमसनसोबत आपला संघ मजबूत केला आहे, जो भविष्याभिमुख धोरण आणि सततच्या स्पर्धात्मकतेकडे एक धोरणात्मक बदल दर्शवतो."
+            },
+            "hi": {
+                "title": "धोनी की आईपीएल वापसी: पावर, ट्रोल्स और सीएसके का भविष्य",
+                "content": "44 वर्षीय अनुभवी एम.एस. धोनी अपने 19वें आईपीएल के लिए कमर कस रहे हैं, एक नेट सेशन में छक्का मारकर अपनी क्लासिक फिनिशिंग क्षमता का प्रदर्शन कर रहे हैं। गेंदबाज को निशाना बनाने वाले ऑनलाइन ट्रोल्स के बावजूद, धोनी का स्थायी प्रभाव निर्विवाद है। ऋतुराज गायकवाड़ के नेतृत्व में सीएसके को चोट की समस्या का सामना करना पड़ रहा है, लेकिन उसने संजू सैमसन के साथ अपनी टीम को मजबूत किया है, जो भविष्य की तैयारी और निरंतर प्रतिस्पर्धात्मकता की दिशा में एक रणनीतिक बदलाव का संकेत है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129794581,imgsize-1635561.cms",
+        "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ms-dhoni-hits-mukesh-chaudhary-for-a-six-internet-trolls-with-isko-koi-bhi-maar-de-watch/articleshow/129794556.cms"
+    },
+    {
+        "id": "b0ff45b0",
+        "category": "Sports",
+        "translations": {
+            "en": {
+                "title": "Rinku Singh Appointed UP Regional Sports Officer",
+                "content": "Cricket star Rinku Singh has been appointed as a Regional Sports Officer (RSO) by the Uttar Pradesh Government, following his vice-captaincy nod for KKR in IPL 2026. CM Yogi Adityanath presented the appointment letter, emphasizing UP's commitment to integrating athletes into government service. Singh will now play a crucial role in developing sports across the state."
+            },
+            "kn": {
+                "title": "ರಿಂಕು ಸಿಂಗ್ ಯುಪಿ ಪ್ರಾದೇಶಿಕ ಕ್ರೀಡಾ ಅಧಿಕಾರಿಯಾಗಿ ನೇಮಕ",
+                "content": "ಕ್ರಿಕೆಟ್ ತಾರೆ ರಿಂಕು ಸಿಂಗ್ ಅವರನ್ನು ಉತ್ತರ ಪ್ರದೇಶ ಸರ್ಕಾರ ಪ್ರಾದೇಶಿಕ ಕ್ರೀಡಾ ಅಧಿಕಾರಿಯಾಗಿ (RSO) ನೇಮಿಸಿದೆ. 2026ರ ಐಪಿಎಲ್‌ನಲ್ಲಿ ಕೆಕೆಆರ್‌ನ ಉಪ-ನಾಯಕರಾಗಿ ಆಯ್ಕೆಯಾದ ನಂತರ ಈ ಗೌರವ ಸಿಕ್ಕಿದೆ. ಸಿಎಂ ಯೋಗಿ ಆದಿತ್ಯನಾಥ್ ಅವರು ನೇಮಕಾತಿ ಪತ್ರವನ್ನು ಹಸ್ತಾಂತರಿಸಿದರು, ಕ್ರೀಡಾಪಟುಗಳನ್ನು ಸರ್ಕಾರಿ ಸೇವೆಗೆ ಸೇರಿಸುವ ಯುಪಿಯ ಬದ್ಧತೆಯನ್ನು ಒತ್ತಿ ಹೇಳಿದರು. ಸಿಂಗ್ ಈಗ ರಾಜ್ಯದಾದ್ಯಂತ ಕ್ರೀಡೆಗಳನ್ನು ಅಭಿವೃದ್ಧಿಪಡಿಸುವಲ್ಲಿ ಪ್ರಮುಖ ಪಾತ್ರ ವಹಿಸಲಿದ್ದಾರೆ."
+            },
+            "mr": {
+                "title": "रिंकू सिंगची यूपी प्रादेशिक क्रीडा अधिकारीपदी नियुक्ती",
+                "content": "क्रिकेटपटू रिंकू सिंग यांची उत्तर प्रदेश सरकारने प्रादेशिक क्रीडा अधिकारी (RSO) म्हणून नियुक्ती केली आहे. २०२६ च्या आयपीएलमध्ये केकेआरच्या उपकर्णधारपदी निवड झाल्यानंतर त्यांना हा सन्मान मिळाला. मुख्यमंत्री योगी आदित्यनाथ यांनी नियुक्तीपत्र दिले, ज्यामध्ये खेळाडूंना शासकीय सेवेत समाविष्ट करण्याच्या यूपीच्या वचनबद्धतेवर भर दिला. सिंग आता राज्यभरातील खेळांच्या विकासात महत्त्वपूर्ण भूमिका बजावतील."
+            },
+            "hi": {
+                "title": "रिंकू सिंह यूपी के क्षेत्रीय खेल अधिकारी नियुक्त",
+                "content": "क्रिकेट स्टार रिंकू सिंह को उत्तर प्रदेश सरकार ने क्षेत्रीय खेल अधिकारी (RSO) नियुक्त किया है. 2026 के IPL में KKR के उप-कप्तान नामित होने के बाद उन्हें यह सम्मान मिला. सीएम योगी आदित्यनाथ ने नियुक्ति पत्र सौंपा, जिसमें यूपी की एथलीटों को सरकारी सेवा में शामिल करने की प्रतिबद्धता पर जोर दिया गया. सिंह अब पूरे राज्य में खेलों के विकास में महत्वपूर्ण भूमिका निभाएंगे."
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129793741,imgsize-38192.cms",
+        "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/rinku-singh-appointed-regional-sports-officer-salary-role-and-key-details-explained/articleshow/129793762.cms"
+    },
+    {
+        "id": "4cf7fa21",
+        "category": "Sports",
+        "translations": {
+            "en": {
+                "title": "SA Dominates NZ in Live Thriller",
+                "content": "South Africa is currently leading New Zealand in an exhilarating live match, thanks to exceptional performances by Hermann and Esterhuizen. Their pivotal contributions have propelled South Africa firmly ahead, showcasing dominant play and strategic advantage. As the action intensifies, SA aims to sustain its impressive momentum against the formidable NZ side."
+            },
+            "kn": {
+                "title": "ಲೈವ್ ಥ್ರಿಲ್ಲರ್‌ನಲ್ಲಿ SA, NZ ಮೇಲೆ ಪ್ರಾಬಲ್ಯ",
+                "content": "ಉತ್ಸಾಹಭರಿತ ಲೈವ್ ಪಂದ್ಯದಲ್ಲಿ, ಹರ್ಮನ್ ಮತ್ತು ಎಸ್ಟರ್‌ಹುಯಿಜೆನ್ ಅವರ ಅಸಾಧಾರಣ ಪ್ರದರ್ಶನಗಳಿಂದಾಗಿ ದಕ್ಷಿಣ ಆಫ್ರಿಕಾ ನ್ಯೂಜಿಲೆಂಡ್ ವಿರುದ್ಧ ಪ್ರಸ್ತುತ ಮುನ್ನಡೆ ಸಾಧಿಸಿದೆ. ಅವರ ಪ್ರಮುಖ ಕೊಡುಗೆಗಳು ದಕ್ಷಿಣ ಆಫ್ರಿಕಾವನ್ನು ದೃಢವಾಗಿ ಮುಂದಿರಿಸಿವೆ, ಪ್ರಾಬಲ್ಯದ ಆಟ ಮತ್ತು ಕಾರ್ಯತಂತ್ರದ ಪ್ರಯೋಜನವನ್ನು ಪ್ರದರ್ಶಿಸುತ್ತಿವೆ. ಆಕ್ಷನ್ ತೀವ್ರಗೊಳ್ಳುತ್ತಿದ್ದಂತೆ, SA ಪ್ರಬಲ NZ ತಂಡದ ವಿರುದ್ಧ ತನ್ನ ಪ್ರಭಾವಶಾಲಿ ವೇಗವನ್ನು ಉಳಿಸಿಕೊಳ್ಳುವ ಗುರಿಯನ್ನು ಹೊಂದಿದೆ."
+            },
+            "mr": {
+                "title": "लाइव्ह थरार नाट्यात दक्षिण आफ्रिकेचे न्यूझीलंडवर वर्चस्व",
+                "content": "थरारक थेट सामन्यात, हरमन आणि एस्टरहुइझेन यांच्या अपवादात्मक कामगिरीमुळे दक्षिण आफ्रिका सध्या न्यूझीलंडवर आघाडीवर आहे. त्यांच्या महत्त्वपूर्ण योगदानामुळे दक्षिण आफ्रिकेने ठोस आघाडी घेतली आहे, प्रभावी खेळ आणि धोरणात्मक फायदा दर्शवला आहे. कारवाई तीव्र होत असताना, SA बलाढ्य NZ संघाविरुद्ध आपली प्रभावी गती कायम ठेवण्याचे ध्येय ठेवत आहे."
+            },
+            "hi": {
+                "title": "लाइव थ्रिलर में दक्षिण अफ्रीका का न्यूजीलैंड पर दबदबा",
+                "content": "एक रोमांचक लाइव मैच में, हरमन और एस्टरहुइज़न के असाधारण प्रदर्शन के कारण दक्षिण अफ्रीका न्यूजीलैंड से आगे चल रहा है। उनके महत्वपूर्ण योगदान ने दक्षिण अफ्रीका को मज़बूती से आगे बढ़ाया है, जो दबदबा पूर्ण खेल और रणनीतिक लाभ को दर्शाता है। जैसे-जैसे कार्रवाई तेज हो रही है, SA का लक्ष्य मजबूत न्यूजीलैंड टीम के खिलाफ अपनी शानदार गति बनाए रखना है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129794058,imgsize-45074.cms",
+        "link": "https://timesofindia.indiatimes.com/sports/cricket/new-zealand-vs-south-africa-5th-t20i-live-cricket-score-commentary-hagley-oval-christchurch/liveblog/129794058.cms"
+    },
+    {
+        "id": "27206c19",
+        "category": "Sports",
+        "translations": {
+            "en": {
+                "title": "Yash Dayal Out of IPL Amidst Legal Issues",
+                "content": "Royal Challengers Bengaluru pacer Yash Dayal will miss the upcoming IPL season. RCB's Director of Cricket confirmed his absence due to personal circumstances and ongoing legal issues. While Dayal remains under contract, his non-participation is deemed best for both player and franchise. This further strains RCB's bowling depth, already tested by Josh Hazlewood's recovery. The team faces challenges ahead."
+            },
+            "kn": {
+                "title": "ಕಾನೂನು ಸಮಸ್ಯೆಗಳ ನಡುವೆ ಯಶ್ ದಯಾಳ್ ಐಪಿಎಲ್‌ನಿಂದ ಹೊರಕ್ಕೆ",
+                "content": "ರಾಯಲ್ ಚಾಲೆಂಜರ್ಸ್ ಬೆಂಗಳೂರು ತಂಡದ ವೇಗಿ ಯಶ್ ದಯಾಳ್ ಮುಂಬರುವ ಐಪಿಎಲ್ ಸೀಸನ್‌ನಿಂದ ಹೊರಗುಳಿಯಲಿದ್ದಾರೆ. ವೈಯಕ್ತಿಕ ಸನ್ನಿವೇಶಗಳು ಮತ್ತು ನಡೆಯುತ್ತಿರುವ ಕಾನೂನು ಸಮಸ್ಯೆಗಳಿಂದಾಗಿ ಅವರ ಅನುಪಸ್ಥಿತಿಯನ್ನು ಆರ್‌ಸಿಬಿ ನಿರ್ದೇಶಕರು ದೃಢಪಡಿಸಿದ್ದಾರೆ. ದಯಾಳ್ ಒಪ್ಪಂದದಲ್ಲಿ ಉಳಿದಿದ್ದರೂ, ಅವರ ಭಾಗವಹಿಸದಿರುವುದು ಆಟಗಾರ ಮತ್ತು ಫ್ರಾಂಚೈಸಿ ಇಬ್ಬರಿಗೂ ಉತ್ತಮ ಎಂದು ಪರಿಗಣಿಸಲಾಗಿದೆ. ಜೋಶ್ ಹ್ಯಾಜಲ್‌ವುಡ್ ಚೇತರಿಕೆಯಿಂದ ಈಗಾಗಲೇ ಪರೀಕ್ಷಿಸಲ್ಪಟ್ಟಿರುವ ಆರ್‌ಸಿಬಿ ಬೌಲಿಂಗ್ ಸಾಮರ್ಥ್ಯಕ್ಕೆ ಇದು ಮತ್ತಷ್ಟು ಒತ್ತಡವನ್ನು ನೀಡುತ್ತದೆ. ತಂಡವು ಮುಂದಿರುವ ಸವಾಲುಗಳನ್ನು ಎದುರಿಸುತ್ತಿದೆ."
+            },
+            "mr": {
+                "title": "यश दयाळ कायदेशीर अडचणींमुळे आयपीएलमधून बाहेर",
+                "content": "रॉयल चॅलेंजर्स बंगळुरूचा वेगवान गोलंदाज यश दयाळ आगामी आयपीएल हंगामातून बाहेर राहणार आहे. आरसीबीच्या क्रिकेट संचालकांनी वैयक्तिक परिस्थिती आणि कायदेशीर अडचणींमुळे त्याची अनुपस्थिती निश्चित केली. दयाळ कराराखाली असला तरी, त्याचे न खेळणे खेळाडू आणि फ्रँचायझी दोघांसाठी सर्वोत्तम मानले जाते. जोश हेझलवुडच्या दुखापतीमुळे आधीच ताणल्या गेलेल्या आरसीबीच्या गोलंदाजीच्या खोलीवर यामुळे आणखी परिणाम होईल. संघाला पुढे आव्हानांना सामोरे जावे लागेल."
+            },
+            "hi": {
+                "title": "कानूनी मुद्दों के बीच यश दयाल IPL से बाहर",
+                "content": "रॉयल चैलेंजर्स बेंगलुरु के तेज गेंदबाज यश दयाल आगामी आईपीएल सीजन में नहीं खेलेंगे। आरसीबी के क्रिकेट निदेशक ने व्यक्तिगत परिस्थितियों और चल रहे कानूनी मुद्दों के कारण उनकी अनुपस्थिति की पुष्टि की। दयाल अनुबंध के तहत बने रहेंगे, लेकिन उनकी गैर-भागीदारी खिलाड़ी और फ्रेंचाइजी दोनों के लिए सबसे अच्छी मानी गई है। जोश हेजलवुड की रिकवरी से पहले से ही परखी जा चुकी आरसीबी की गेंदबाजी की गहराई पर इसका और दबाव पड़ेगा। टीम को आगे चुनौतियों का सामना करना पड़ेगा।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129790216,imgsize-39512.cms",
+        "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/facing-legal-charges-yash-dayal-wont-be-part-of-ipl/articleshow/129790221.cms"
+    },
+    {
         "id": "87f0472e",
         "category": "National",
         "translations": {
