@@ -1,5 +1,53 @@
 [
     {
+        "id": "47fb5be2",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Evening News Wrap: Iran Ship Incident, Gas Pipeline Mandate",
+                "content": "Iran reportedly turned back a Pakistan-bound ship from the Strait of Hormuz, sparking regional interest. Concurrently, the Indian government has mandated a crucial shift to gas pipelines for various sectors, aiming to increase natural gas consumption and curb pollution. This move signifies a major push towards cleaner energy. Stay updated with these and other top evening developments."
+            },
+            "kn": {
+                "title": "ಸಂಜೆಯ ಸುದ್ದಿಸಾರಾಂಶ: ಇರಾನ್ ಹಡಗು ಘಟನೆ, ಗ್ಯಾಸ್ ಪೈಪ್‌ಲೈನ್ ಆದೇಶ",
+                "content": "ಇರಾನ್ ಹಾರ್ಮುಜ್ ಜಲಸಂಧಿಯಿಂದ ಪಾಕಿಸ್ತಾನಕ್ಕೆ ಹೊರಟಿದ್ದ ಹಡಗನ್ನು ಹಿಂತಿರುಗಿಸಿದೆ ಎಂದು ವರದಿಯಾಗಿದೆ, ಇದು ಪ್ರಾದೇಶಿಕ ಗಮನ ಸೆಳೆದಿದೆ. ಇದೇ ವೇಳೆ, ಭಾರತ ಸರ್ಕಾರವು ನೈಸರ್ಗಿಕ ಅನಿಲ ಬಳಕೆಯನ್ನು ಹೆಚ್ಚಿಸಲು ಮತ್ತು ಮಾಲಿನ್ಯವನ್ನು ಕಡಿಮೆ ಮಾಡಲು ವಿವಿಧ ಕ್ಷೇತ್ರಗಳಿಗೆ ಗ್ಯಾಸ್ ಪೈಪ್‌ಲೈನ್‌ಗಳಿಗೆ ಕಡ್ಡಾಯವಾಗಿ ಬದಲಾಗಲು ಆದೇಶಿಸಿದೆ. ಇದು ಶುದ್ಧ ಇಂಧನದತ್ತ ಪ್ರಮುಖ ಹೆಜ್ಜೆಯಾಗಿದೆ. ಈ ಮತ್ತು ಇತರ ಪ್ರಮುಖ ಸಂಜೆಯ ಬೆಳವಣಣಿಗಳೊಂದಿಗೆ ನವೀಕೃತವಾಗಿರಿ."
+            },
+            "mr": {
+                "title": "सायंकाळच्या बातम्या: इराण जहाज घटना, गॅस पाइपलाइन आदेश",
+                "content": "इराणने होर्मुझच्या सामुद्रधुनीतून पाकिस्तानला जाणारे एक जहाज परत पाठवल्याची बातमी आहे, ज्यामुळे प्रादेशिक लक्ष वेधले आहे. त्याचवेळी, भारत सरकारने नैसर्गिक वायूचा वापर वाढवण्यासाठी आणि प्रदूषण कमी करण्यासाठी विविध क्षेत्रांना गॅस पाइपलाइनकडे वळणे अनिवार्य केले आहे. हे स्वच्छ ऊर्जेच्या दिशेने एक मोठे पाऊल आहे. या आणि इतर महत्त्वाच्या सायंकाळच्या घडामोडींसह अद्ययावत रहा."
+            },
+            "hi": {
+                "title": "शाम की खबरें: ईरान जहाज घटना, गैस पाइपलाइन जनादेश",
+                "content": "ईरान ने कथित तौर पर होर्मुज जलडमरूमध्य से पाकिस्तान जा रहे एक जहाज को वापस मोड़ दिया, जिससे क्षेत्रीय रुचि जगी है। साथ ही, भारत सरकार ने प्राकृतिक गैस के उपयोग को बढ़ावा देने और प्रदूषण को कम करने के उद्देश्य से विभिन्न क्षेत्रों के लिए गैस पाइपलाइनों में बदलाव अनिवार्य कर दिया है। यह कदम स्वच्छ ऊर्जा की दिशा में एक बड़ा धक्का है। इन और अन्य प्रमुख शाम के घटनाक्रमों से अपडेट रहें।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129800751,imgsize-76576.cms",
+        "link": "https://timesofindia.indiatimes.com/india/evening-news-wrap-iran-turns-back-pakistan-bound-ship-from-hormuz-govt-mandates-shifting-to-gas-pipeline-more/articleshow/129800579.cms"
+    },
+    {
+        "id": "9ec5ea8f",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Gujarat Adopts UCC: Second State to Unify Personal Laws",
+                "content": "Gujarat has passed its Uniform Civil Code (UCC) Bill, 2026, becoming the second Indian state to adopt a unified law for marriage, divorce, and inheritance. Union Home Minister Amit Shah called it a 'historic step' for equality. Chief Minister Bhupendra Patel stated the UCC will ensure equal rights and dignity for women across all communities, promoting legal uniformity."
+            },
+            "kn": {
+                "title": "ಗುಜರಾತ್ UCC ಅಳವಡಿಕೆ: ವೈಯಕ್ತಿಕ ಕಾನೂನುಗಳನ್ನು ಏಕೀಕರಿಸಿದ ಎರಡನೇ ರಾಜ್ಯ",
+                "content": "ಗುಜರಾತ್ ತನ್ನ ಏಕರೂಪ ನಾಗರಿಕ ಸಂಹಿತೆ (UCC) ಮಸೂದೆ, 2026 ಅನ್ನು ಅಂಗೀಕರಿಸಿದೆ. ಇದು ಮದುವೆ, ವಿಚ್ಛೇದನ ಮತ್ತು ಉತ್ತರಾಧಿಕಾರಕ್ಕಾಗಿ ಏಕೀಕೃತ ಕಾನೂನನ್ನು ಅಳವಡಿಸಿಕೊಂಡ ಎರಡನೇ ಭಾರತೀಯ ರಾಜ್ಯವಾಗಿದೆ. ಕೇಂದ್ರ ಗೃಹ ಸಚಿವ ಅಮಿತ್ ಶಾ ಇದನ್ನು ಸಮಾನತೆಗಾಗಿ 'ಐತಿಹಾಸಿಕ ಹೆಜ್ಜೆ' ಎಂದು ಕರೆದರು. ಮುಖ್ಯಮಂತ್ರಿ ಭೂಪೇಂದ್ರ ಪಟೇಲ್, UCC ಎಲ್ಲಾ ಸಮುದಾಯಗಳ ಮಹಿಳೆಯರಿಗೆ ಸಮಾನ ಹಕ್ಕುಗಳು ಮತ್ತು ಘನತೆಯನ್ನು ಖಚಿತಪಡಿಸುತ್ತದೆ, ಕಾನೂನು ಏಕರೂಪತೆಯನ್ನು ಉತ್ತೇಜಿಸುತ್ತದೆ ಎಂದು ತಿಳಿಸಿದರು."
+            },
+            "mr": {
+                "title": "गुजरातमध्ये UCC लागू: वैयक्तिक कायद्यांना एकत्रित करणारे दुसरे राज्य",
+                "content": "गुजरातने आपले समान नागरी संहिता (UCC) विधेयक, 2026 मंजूर केले आहे, ज्यामुळे ते विवाह, घटस्फोट आणि वारसा हक्कांसाठी एकसमान कायदा स्वीकारणारे दुसरे भारतीय राज्य बनले आहे. केंद्रीय गृहमंत्री अमित शाह यांनी याला समानतेसाठी 'ऐतिहासिक पाऊल' म्हटले. मुख्यमंत्री भूपेंद्र पटेल यांनी सांगितले की, UCC सर्व समुदायातील महिलांसाठी समान हक्क आणि सन्मान सुनिश्चित करेल, ज्यामुळे कायदेशीर एकरूपता वाढेल."
+            },
+            "hi": {
+                "title": "गुजरात में UCC लागू: व्यक्तिगत कानूनों को एकीकृत करने वाला दूसरा राज्य",
+                "content": "गुजरात ने अपना समान नागरिक संहिता (UCC) विधेयक, 2026 पारित किया है, जिससे यह विवाह, तलाक और विरासत के लिए एक एकीकृत कानून अपनाने वाला दूसरा भारतीय राज्य बन गया है। केंद्रीय गृह मंत्री अमित शाह ने इसे समानता के लिए 'ऐतिहासिक कदम' बताया। मुख्यमंत्री भूपेंद्र पटेल ने कहा कि UCC सभी समुदायों की महिलाओं के लिए समान अधिकार और गरिमा सुनिश्चित करेगा, जिससे कानूनी एकरूपता को बढ़ावा मिलेगा।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129797402,imgsize-491203.cms",
+        "link": "https://timesofindia.indiatimes.com/india/historic-step-after-uttarakhand-gujarat-passes-uniform-civil-code-bill/articleshow/129797203.cms"
+    },
+    {
         "id": "fb643619",
         "category": "National",
         "translations": {
@@ -1870,29 +1918,5 @@
         },
         "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80",
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUlIwSGkxTG9fQi1NMHRfYnlsVnZzR2xxWEUxVEJOOG9KWEJqMlJyN2p2ZTJSU1cwSGRfQU1Ja3NlLW13NnRIRm96WXhuZy1VZlFrM0hwQXZHQkNMMDdJNkJWUWE3MkotV2FPeVd6YXVRWU9oUWQyaDlKSk5uQXR0d29lSy0zNk9ZcVZ5aFZleWFQU2E5cExJenBGd1lIaGJMOUZHQTJSMG1DTXB5cGdpSl9hZVBRY0huY3RYNEYtaUdTMGZtRVFIdUJVc0lYN2VScEx3YTZiQVdsd9IB2gFBVV95cUxNUlIwSGkxTG9fQi1NMHRfYnlsVnZzR2xxWEUxVEJOOG9KWEJqMlJyN2p2ZTJSU1cwSGRfQU1Ja3NlLW13NnRIRm96WXhuZy1VZlFrM0hwQXZHQkNMMDdJNkJWUWE3MkotV2FPeVd6YXVRWU9oUWQyaDlKSk5uQXR0d29lSy0zNk9ZcVZ5aFZleWFQU2E5cExJenBGd1lIaGJMOUZHQTJSMG1DTXB5cGdpSl9hZVBRY0huY3RYNEYtaUdTMGZtRVFIdUJVc0lYN2VScEx3YTZiQVdsdw?oc=5"
-    },
-    {
-        "id": "9ef9eb9a",
-        "category": "Belagavi Politics",
-        "translations": {
-            "en": {
-                "title": "Fraudster Posing as CBI Official Swindles Karnataka Bizman of ₹15 Crore",
-                "content": "A fraudster, impersonating a CBI official, duped a Karnataka businessman into transferring ₹15 crore to a \"fake government account.\" This elaborate scheme highlights the rising threat of sophisticated financial scams. Police are investigating the high-value deception, urging caution against such fraudulent tactics targeting individuals."
-            },
-            "kn": {
-                "title": "ಸಿಬಿಐ ಅಧಿಕಾರಿಯ ಸೋಗಿನಲ್ಲಿ ವಂಚನೆ: ಕರ್ನಾಟಕ ಉದ್ಯಮಿಗೆ ₹15 ಕೋಟಿ ವಂಚನೆ",
-                "content": "ಸಿಬಿಐ ಅಧಿಕಾರಿಯ ಸೋಗಿನಲ್ಲಿ ಬಂದ ವಂಚಕನೊಬ್ಬ ಕರ್ನಾಟಕದ ಉದ್ಯಮಿಯೊಬ್ಬರಿಂದ \"ನಕಲಿ ಸರ್ಕಾರಿ ಖಾತೆ\"ಗೆ ₹15 ಕೋಟಿ ವರ್ಗಾಯಿಸುವಂತೆ ಮೋಸ ಮಾಡಿದ್ದಾನೆ. ಈ ಸಂಕೀರ್ಣ ಯೋಜನೆ, ಸುಧಾರಿತ ಹಣಕಾಸು ವಂಚನೆಗಳ ಹೆಚ್ಚುತ್ತಿರುವ ಬೆದರಿಕೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ಪೊಲೀಸರು ಈ ದೊಡ್ಡ ವಂಚನೆಯ ಬಗ್ಗೆ ತನಿಖೆ ನಡೆಸುತ್ತಿದ್ದು, ಇಂತಹ ವಂಚನೆಯ ತಂತ್ರಗಳ ಬಗ್ಗೆ ಎಚ್ಚರಿಕೆ ವಹಿಸುವಂತೆ ಜನರಿಗೆ ಸೂಚಿಸಿದ್ದಾರೆ."
-            },
-            "mr": {
-                "title": "सीबीआय अधिकारी असल्याचे भासवून कर्नाटकातील व्यावसायिकाला १५ कोटी रुपयांना गंडा",
-                "content": "सीबीआय अधिकारी असल्याची बतावणी करत एका ठगाने कर्नाटकातील व्यावसायिकाला \"बनावट सरकारी खात्यात\" १५ कोटी रुपये हस्तांतरित करण्यास भाग पाडले. ही गुंतागुंतीची योजना अत्याधुनिक आर्थिक फसवणुकीचा वाढता धोका अधोरेखित करते. पोलीस या मोठ्या फसवणुकीचा तपास करत आहेत आणि लोकांना अशा फसव्या युक्त्यांपासून सावध राहण्याचे आवाहन करत आहेत."
-            },
-            "hi": {
-                "title": "सीबीआई अधिकारी बनकर धोखाधड़ी: कर्नाटक के कारोबारी से ₹15 करोड़ ठगे",
-                "content": "एक जालसाज़ ने सीबीआई अधिकारी बनकर कर्नाटक के एक व्यवसायी को \"नकली सरकारी खाते\" में ₹15 करोड़ हस्तांतरित करने का झांसा दिया। यह विस्तृत योजना परिष्कृत वित्तीय घोटालों के बढ़ते खतरे को उजागर करती है। पुलिस इस बड़े धोखे की जांच कर रही है, और व्यक्तियों को ऐसी धोखाधड़ी वाली रणनीति के खिलाफ सावधानी बरतने का आग्रह कर रही है।"
-            }
-        },
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80",
-        "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNcWljWGlnZkxhSGhMVGROOUtXTnFMMXhCTkM3cGsyVFBoaHAzU1Z6TzRZWTdLU3RfVnRvcXpodVRRWG9hdzJJanlteDk0VjRpd1FHTER3NU41ek1jUzFOeVZaVFZPU2RhWFQ1ejY0U3pfcHh5ODFzTDlNMGRBX0VnQUpFNC1ONWNrUXg1VHd6X1FnMWV1Zno1U0h5WjJGeVh5Vmw0elZJbUxCN2M5b1FUeXlMb3BlZTk3b0pkbWc1ZThGeVNibWpkYkw5eG11RHpGN1hnNWRleTJTbDl5YVRKMHdzSEthakZTaThDaEdRcXgtbkNDMm1pNkhvbEpOcG1idTFzeFJrM2xjM2I5bFI2Y1RGc9IBkwJBVV95cUxNcWljWGlnZkxhSGhMVGROOUtXTnFMMXhCTkM3cGsyVFBoaHAzU1Z6TzRZWTdLU3RfVnRvcXpodVRRWG9hdzJJanlteDk0VjRpd1FHTER3NU41ek1jUzFOeVZaVFZPU2RhWFQ1ejY0U3pfcHh5ODFzTDlNMGRBX0VnQUpFNC1ONWNrUXg1VHd6X1FnMWV1Zno1U0h5WjJGeVh5Vmw0elZJbUxCN2M5b1FUeXlMb3BlZTk3b0pkbWc1ZThGeVNibWpkYkw5eG11RHpGN1hnNWRleTJTbDl5YVRKMHdzSEthakZTaThDaEdRcXgtbkNDMm1pNkhvbEpOcG1idTFzeFJrM2xjM2I5bFI2Y1RGcw?oc=5"
     }
 ]
