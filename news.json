@@ -1,5 +1,29 @@
 [
     {
+        "id": "d875af69",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "J&K Division Bill Sparks Row: NC, BJP Slam PDP Proposal",
+                "content": "A bill by PDP MLA Waheed Parra proposing 16 new districts and two divisions in J&K has ignited a fierce political debate. The ruling NC slammed it as an attempt to undermine sub-regional empowerment. Meanwhile, the BJP alleged the proposal aligns with Pakistan's ISI agenda, aiming to create a 'Greater Kashmir' by dividing Jammu, drawing strong opposition."
+            },
+            "kn": {
+                "title": "ಜೆ&ಕೆ ವಿಭಜನಾ ಮಸೂದೆ ವಿವಾದ: ಎನ್‌ಸಿ, ಬಿಜೆಪಿ ಕಡೆಯಿಂದ ಪಿಡಿಪಿ ಪ್ರಸ್ತಾವಕ್ಕೆ ಆಕ್ಷೇಪ",
+                "content": "ಪಿಡಿಪಿ ಶಾಸಕ ವಹೀದ್ ಪಾರಾ ಅವರು ಜಮ್ಮು ಮತ್ತು ಕಾಶ್ಮೀರದಲ್ಲಿ 16 ಹೊಸ ಜಿಲ್ಲೆಗಳು ಮತ್ತು ಎರಡು ವಿಭಾಗಗಳನ್ನು ಪ್ರಸ್ತಾಪಿಸಿದ ಮಸೂದೆಯು ತೀವ್ರ ರಾಜಕೀಯ ಚರ್ಚೆಗೆ ಕಾರಣವಾಗಿದೆ. ಆಡಳಿತಾರೂಢ ಎನ್‌ಸಿ ಇದನ್ನು ಉಪ-ಪ್ರಾದೇಶಿಕ ಸಬಲೀಕರಣವನ್ನು ದುರ್ಬಲಗೊಳಿಸುವ ಪ್ರಯತ್ನ ಎಂದು ಟೀಕಿಸಿದೆ. ಇದೇ ವೇಳೆ, ಜಮ್ಮುವನ್ನು ವಿಭಜಿಸಿ 'ಗ್ರೇಟರ್ ಕಾಶ್ಮೀರ'ವನ್ನು ಸೃಷ್ಟಿಸುವ ಪಾಕಿಸ್ತಾನದ ಐಎಸ್‌ಐ ಕಾರ್ಯಸೂಚಿಯೊಂದಿಗೆ ಈ ಪ್ರಸ್ತಾವನೆ ಹೊಂದಿಕೆಯಾಗುತ್ತದೆ ಎಂದು ಬಿಜೆಪಿ ಆರೋಪಿಸಿದ್ದು, ತೀವ್ರ ವಿರೋಧ ವ್ಯಕ್ತವಾಗಿದೆ."
+            },
+            "mr": {
+                "title": "जे&के विभाजन विधेयकामुळे वाद: एनसी, भाजपने पीडीपीच्या प्रस्तावावर टीका केली",
+                "content": "पीडीपी आमदार वाहीद पर्रा यांनी जम्मू-काश्मीरमध्ये 16 नवीन जिल्हे आणि दोन विभाग प्रस्तावित करणारे विधेयक मांडले असून, यामुळे तीव्र राजकीय वाद निर्माण झाला आहे. सत्ताधारी एनसीने याला उप-प्रादेशिक सक्षमीकरणाला कमी लेखण्याचा प्रयत्न म्हटले आहे. दरम्यान, भाजपने आरोप केला आहे की, हा प्रस्ताव पाकिस्तानच्या आयएसआयच्या अजेंड्याशी जुळतो, ज्याचा उद्देश जम्मूचे विभाजन करून 'ग्रेटर काश्मीर' निर्माण करणे आहे, याला तीव्र विरोध होत आहे."
+            },
+            "hi": {
+                "title": "जम्मू-कश्मीर विभाजन विधेयक पर विवाद: एनसी, भाजपा ने पीडीपी प्रस्ताव को नकारा",
+                "content": "पीडीपी विधायक वहीद पर्रा द्वारा जम्मू-कश्मीर में 16 नए जिले और दो मंडल प्रस्तावित करने वाले विधेयक ने तीव्र राजनीतिक बहस छेड़ दी है। सत्ताधारी एनसी ने इसे उप-क्षेत्रीय सशक्तिकरण को कमजोर करने का प्रयास बताया। वहीं, भाजपा ने आरोप लगाया कि यह प्रस्ताव पाकिस्तान की आईएसआई के एजेंडे के अनुरूप है, जिसका उद्देश्य जम्मू को विभाजित कर 'ग्रेटर कश्मीर' बनाना है, इसे कड़ा विरोध मिल रहा है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129810559,imgsize-1989485.cms",
+        "link": "https://timesofindia.indiatimes.com/india/pdp-mlas-bill-proposing-new-divisions-districts-in-jk-faces-flak-from-nc-bjp/articleshow/129810425.cms"
+    },
+    {
         "id": "b9b57c42",
         "category": "National",
         "translations": {
@@ -1894,29 +1918,5 @@
         },
         "image": "https://static.toiimg.com/photo/msid-129767582,imgsize-1188233.cms",
         "link": "https://timesofindia.indiatimes.com/world/middle-east/dubai-opens-applications-for-hamdan-bin-mohammed-scholarship-programme-for-202627-academic-year/articleshow/129767380.cms"
-    },
-    {
-        "id": "0e548e62",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "Kentucky's Mammoth Cave: A Vast Underground World",
-                "content": "Mammoth Cave in Kentucky is a breathtaking geological marvel, stretching an astonishing 686 kilometres underground. This vast subterranean network, the world's longest known cave system, reveals a hidden universe of unique formations and ecosystems. Explore the depths of this natural wonder, where ancient rivers carved a mesmerizing landscape, offering a glimpse into Earth's mysterious interior. A truly unparalleled adventure awaits beneath the surface."
-            },
-            "kn": {
-                "title": "ಕೆಂಟುಕಿಯ ಮ್ಯಾಮತ್ ಗುಹೆ: ಒಂದು ವಿಶಾಲವಾದ ಭೂಗತ ಜಗತ್ತು",
-                "content": "ಕೆಂಟುಕಿಯಲ್ಲಿರುವ ಮ್ಯಾಮತ್ ಗುಹೆಯು ಉಸಿರುಬಿಗಿದಿಡುವ ಭೌಗೋಳಿಕ ಅದ್ಭುತವಾಗಿದೆ, ಇದು ಆಶ್ಚರ್ಯಕರ 686 ಕಿಲೋಮೀಟರ್ ಭೂಗತವಾಗಿ ವಿಸ್ತರಿಸಿದೆ. ವಿಶ್ವದ ಅತಿ ಉದ್ದದ ಗುಹೆ ವ್ಯವಸ್ಥೆಯಾದ ಈ ವಿಶಾಲವಾದ ಭೂಗತ ಜಾಲವು ಅನನ್ಯ ರಚನೆಗಳು ಮತ್ತು ಪರಿಸರ ವ್ಯವಸ್ಥೆಗಳ ಗುಪ್ತ ವಿಶ್ವವನ್ನು ಬಹಿರಂಗಪಡಿಸುತ್ತದೆ. ಪ್ರಾಚೀನ ನದಿಗಳು ಭವ್ಯವಾದ ಭೂದೃಶ್ಯವನ್ನು ಕೆತ್ತಿದ ಈ ನೈಸರ್ಗಿಕ ಅದ್ಭುತದ ಆಳವನ್ನು ಅನ್ವೇಷಿಸಿ, ಭೂಮಿಯ ರಹಸ್ಯ ಆಂತರ್ಯದ ಒಂದು ನೋಟವನ್ನು ನೀಡುತ್ತದೆ. ಮೇಲ್ಮೈ ಕೆಳಗೆ ನಿಜವಾಗಿಯೂ ಅಪ್ರತಿಮ ಸಾಹಸ ಕಾಯುತ್ತಿದೆ."
-            },
-            "mr": {
-                "title": "केंटकीची मॅमोथ गुहा: एक विशाल भूमिगत जग",
-                "content": "केंटकीमधील मॅमोथ गुहा हे एक नयनरम्य भूगर्भीय आश्चर्य आहे, जे तब्बल 686 किलोमीटरपर्यंत भूगर्भात पसरलेले आहे. जगातील सर्वात लांब ज्ञात गुहा प्रणालीचे हे विशाल भूमिगत जाळे अद्वितीय रचना आणि परिसंस्थेचे एक गुप्त विश्व उघड करते. या नैसर्गिक चमत्काराच्या खोलीचा शोध घ्या, जिथे प्राचीन नद्यांनी एक मनमोहक भूप्रदेश कोरला आहे, जो पृथ्वीच्या रहस्यमय आतील भागाची झलक देतो. पृष्ठभागाखाली एक खरोखरच अतुलनीय साहस तुमची वाट पाहत आहे."
-            },
-            "hi": {
-                "title": "केंटकी की मैमथ गुफा: एक विशाल भूमिगत दुनिया",
-                "content": "केंटकी में स्थित मैमथ गुफा एक लुभावना भूवैज्ञानिक चमत्कार है, जो आश्चर्यजनक रूप से 686 किलोमीटर भूमिगत फैला हुआ है। दुनिया की सबसे लंबी ज्ञात गुफा प्रणाली का यह विशाल भूमिगत नेटवर्क, अद्वितीय संरचनाओं और पारिस्थितिक तंत्रों के एक छिपे हुए ब्रह्मांड को उजागर करता है। इस प्राकृतिक अजूबे की गहराइयों का अन्वेषण करें, जहाँ प्राचीन नदियों ने एक मंत्रमुग्ध कर देने वाला परिदृश्य गढ़ा है, जो पृथ्वी के रहस्यमय आंतरिक भाग की एक झलक प्रदान करता है। सतह के नीचे एक अद्वितीय रोमांच आपका इंतजार कर रहा है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129753003,imgsize-143514.cms",
-        "link": "https://timesofindia.indiatimes.com/world/us/a-hidden-universe-beneath-kentucky-how-mammoth-cave-stretched-686-kilometres-underground/articleshow/129752912.cms"
     }
 ]
