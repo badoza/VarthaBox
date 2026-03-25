@@ -1,5 +1,29 @@
 [
     {
+        "id": "87f0472e",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "India Cracks Down on Unregulated Weight-Loss Drug Sales",
+                "content": "India's drug regulator has launched nationwide raids, exposing alarming easy access to GLP-1 weight-loss drugs. Inspections revealed widespread sales without prescriptions and inadequate medical oversight, raising serious health concerns. Authorities are now intensifying enforcement to curb misuse and ensure these potent medications are dispensed only under strict medical supervision, protecting public health from unregulated use."
+            },
+            "kn": {
+                "title": "ಭಾರತದಲ್ಲಿ ಅನಿಯಂತ್ರಿತ ತೂಕ ಇಳಿಸುವ ಔಷಧಗಳ ಮಾರಾಟದ ಮೇಲೆ ಬಿಗಿ ಕ್ರಮ",
+                "content": "ಭಾರತದ ಔಷಧ ನಿಯಂತ್ರಣ ಪ್ರಾಧಿಕಾರವು GLP-1 ತೂಕ ಇಳಿಸುವ ಔಷಧಗಳ ಅನಿಯಂತ್ರಿತ ಲಭ್ಯತೆಯನ್ನು ಬಯಲು ಮಾಡಲು ದೇಶವ್ಯಾಪಿ ದಾಳಿಗಳನ್ನು ನಡೆಸಿದೆ. ತಪಾಸಣೆಗಳಲ್ಲಿ ಪ್ರಿಸ್ಕ್ರಿಪ್ಷನ್ ಇಲ್ಲದೆ ಮಾರಾಟ ಮತ್ತು ಅಸಮರ್ಪಕ ವೈದ್ಯಕೀಯ ಮೇಲ್ವಿಚಾರಣೆ ಕಂಡುಬಂದಿದ್ದು, ಗಂಭೀರ ಆರೋಗ್ಯ ಕಾಳಜಿಗಳನ್ನು ಹುಟ್ಟುಹಾಕಿದೆ. ಅಧಿಕಾರಿಗಳು ದುರುಪಯೋಗವನ್ನು ತಡೆಯಲು ಮತ್ತು ಈ ಪ್ರಬಲ ಔಷಧಿಗಳನ್ನು ಕಟ್ಟುನಿಟ್ಟಾದ ವೈದ್ಯಕೀಯ ಮೇಲ್ವಿಚಾರಣೆಯಲ್ಲಿ ಮಾತ್ರ ವಿತರಿಸುವುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು ಜಾರಿ ಕ್ರಮಗಳನ್ನು ತೀವ್ರಗೊಳಿಸುತ್ತಿದ್ದಾರೆ."
+            },
+            "mr": {
+                "title": "भारतात अनियमित वजन कमी करणाऱ्या औषधांच्या विक्रीवर कारवाई",
+                "content": "भारताच्या औषध नियामकाने GLP-1 वजन कमी करणाऱ्या औषधांच्या सहज उपलब्धतेचा पर्दाफाश करण्यासाठी देशभरात छापे टाकले आहेत. तपासणीत प्रिस्क्रिप्शनशिवाय विक्री आणि अपुरा वैद्यकीय पर्यवेक्षण दिसून आले, ज्यामुळे गंभीर आरोग्य चिंता निर्माण झाली आहे. अधिकारी आता गैरवापर रोखण्यासाठी आणि ही प्रभावी औषधे केवळ कठोर वैद्यकीय देखरेखीखालीच दिली जातील याची खात्री करण्यासाठी अंमलबजावणी तीव्र करत आहेत, जेणेकरून जनतेचे आरोग्य अनियमित वापरापासून सुरक्षित राहील."
+            },
+            "hi": {
+                "title": "भारत में अनियमित वजन घटाने वाली दवाओं की बिक्री पर नकेल",
+                "content": "भारत के औषधि नियामक ने GLP-1 वजन घटाने वाली दवाओं की आसान उपलब्धता का खुलासा करने के लिए देशव्यापी छापे मारे हैं। निरीक्षणों में बिना प्रिस्क्रिप्शन के बिक्री और अपर्याप्त चिकित्सा पर्यवेक्षण का पता चला, जिससे गंभीर स्वास्थ्य चिंताएं बढ़ गई हैं। अधिकारी अब दुरुपयोग को रोकने और यह सुनिश्चित करने के लिए प्रवर्तन तेज कर रहे हैं कि ये शक्तिशाली दवाएं केवल सख्त चिकित्सा पर्यवेक्षण के तहत ही वितरित की जाएं, ताकि अनियमित उपयोग से सार्वजनिक स्वास्थ्य सुरक्षित रहे।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129792296,imgsize-53658.cms",
+        "link": "https://timesofindia.indiatimes.com/india/glp-1-gold-rush-under-scanner-raids-across-india-expose-easy-access-to-weight-loss-drugs/articleshow/129792211.cms"
+    },
+    {
         "id": "d4eb8ae5",
         "category": "National",
         "translations": {
