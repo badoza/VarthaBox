@@ -1,5 +1,101 @@
 [
     {
+        "id": "b7d9ca65",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Lalu's Land-for-Jobs FIR Stays: Delhi HC Rejects Quash Plea",
+                "content": "The Delhi High Court has dismissed RJD chief Lalu Prasad's plea to quash an FIR in the alleged land-for-railway-jobs scam. The court rejected arguments claiming the case was unsustainable due to an amendment in the Prevention of Corruption Act. This means the CBI investigation against Lalu Prasad and his family concerning the alleged scam will continue, keeping the legal scrutiny ongoing."
+            },
+            "kn": {
+                "title": "ಲಾಲು ಅವರ 'ಉದ್ಯೋಗಕ್ಕಾಗಿ ಭೂಮಿ' ಎಫ್‌ಐಆರ್ ಮುಂದುವರಿಕೆ: ದೆಹಲಿ ಹೈಕೋರ್ಟ್ ರದ್ದು ಕೋರಿಕೆಯನ್ನು ತಿರಸ್ಕರಿಸಿದೆ",
+                "content": "ದೆಹಲಿ ಹೈಕೋರ್ಟ್, ಆರ್‌ಜೆಡಿ ಮುಖ್ಯಸ್ಥ ಲಾಲು ಪ್ರಸಾದ್ ಅವರ 'ಉದ್ಯೋಗಕ್ಕಾಗಿ ರೈಲ್ವೆ ಭೂಮಿ' ಹಗರಣದ ಆರೋಪದ ಎಫ್‌ಐಆರ್ ರದ್ದುಗೊಳಿಸುವ ಅರ್ಜಿಯನ್ನು ತಿರಸ್ಕರಿಸಿದೆ. ಭ್ರಷ್ಟಾಚಾರ ತಡೆ ಕಾಯ್ದೆಯ ತಿದ್ದುಪಡಿಯಿಂದಾಗಿ ಪ್ರಕರಣವು ಅಸಮರ್ಥನೀಯ ಎಂಬ ವಾದಗಳನ್ನು ನ್ಯಾಯಾಲಯವು ನಿರಾಕರಿಸಿದೆ. ಇದು ಲಾಲು ಪ್ರಸಾದ್ ಮತ್ತು ಅವರ ಕುಟುಂಬದ ವಿರುದ್ಧದ ಸಿಬಿಐ ತನಿಖೆ ಮುಂದುವರಿಯಲಿದೆ ಎಂಬುದನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಕಾನೂನು ಪರಿಶೀಲನೆ ಸಾಗಲಿದೆ."
+            },
+            "mr": {
+                "title": "लालूंच्या नोकरीसाठी जमीन एफआयआर कायम: दिल्ली उच्च न्यायालयाने रद्द करण्याची विनंती फेटाळली",
+                "content": "दिल्ली उच्च न्यायालयाने आरजेडी प्रमुख लालू प्रसाद यांच्याविरोधात 'नोकरीसाठी रेल्वे जमीन' घोटाळ्यातील कथित एफआयआर रद्द करण्याची विनंती फेटाळली आहे. भ्रष्टाचार प्रतिबंधक कायद्यातील सुधारणेमुळे हे प्रकरण टिकण्यायोग्य नाही, हे युक्तिवाद न्यायालयाने फेटाळून लावले. यामुळे लालू प्रसाद आणि त्यांच्या कुटुंबाविरुद्धची सीबीआय चौकशी सुरू राहील, आणि कायदेशीर तपास सुरूच राहील."
+            },
+            "hi": {
+                "title": "लालू का 'नौकरी के बदले जमीन' FIR रहेगा बरकरार: दिल्ली HC ने रद्द करने की याचिका खारिज की",
+                "content": "दिल्ली उच्च न्यायालय ने आरजेडी प्रमुख लालू प्रसाद की 'नौकरी के बदले रेलवे भूमि' घोटाले में कथित एफआईआर को रद्द करने की याचिका खारिज कर दी है। अदालत ने भ्रष्टाचार निवारण अधिनियम में संशोधन के कारण मामले को अस्थिर बताने वाले तर्कों को भी खारिज किया। इसका मतलब है कि लालू प्रसाद और उनके परिवार के खिलाफ सीबीआई की जांच जारी रहेगी, और कानूनी जांच-पड़ताल चलती रहेगी।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129789187,imgsize-1146036.cms",
+        "link": "https://timesofindia.indiatimes.com/india/hc-bins-lalus-plea-to-quash-land-for-jobs-fir/articleshow/129789182.cms"
+    },
+    {
+        "id": "41fe30e8",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "PM Modi Forms Groups to Assess Middle East Crisis Impact",
+                "content": "PM Modi has established seven empowered groups to assess the West Asian conflict's impact on India. These teams will analyze repercussions on energy supplies, essential commodities, and supply chains. Drawing lessons from the Covid-19 pandemic, they will develop quick-response strategies to mitigate potential economic fallout and safeguard India's interests amidst the ongoing crisis."
+            },
+            "kn": {
+                "title": "PM ಮೋದಿ ಮಧ್ಯಪ್ರಾಚ್ಯ ಬಿಕ್ಕಟ್ಟಿನ ಪರಿಣಾಮವನ್ನು ಅಂದಾಜಿಸಲು ತಂಡಗಳನ್ನು ರಚಿಸಿದರು",
+                "content": "ಪ್ರಧಾನಿ ಮೋದಿ ಪಶ್ಚಿಮ ಏಷ್ಯಾ ಸಂಘರ್ಷದ ಭಾರತದ ಮೇಲಿನ ಪರಿಣಾಮವನ್ನು ಅಂದಾಜಿಸಲು ಏಳು ಸಶಕ್ತ ಗುಂಪುಗಳನ್ನು ಸ್ಥಾಪಿಸಿದ್ದಾರೆ. ಈ ತಂಡಗಳು ಇಂಧನ ಪೂರೈಕೆ, ಅಗತ್ಯ ವಸ್ತುಗಳು ಮತ್ತು ಪೂರೈಕೆ ಸರಪಳಿಗಳ ಮೇಲಿನ ಪರಿಣಾಮಗಳನ್ನು ವಿಶ್ಲೇಷಿಸುತ್ತವೆ. ಕೋವಿಡ್-19 ಸಾಂಕ್ರಾಮಿಕದಿಂದ ಪಾಠಗಳನ್ನು ಕಲಿಯುವ ಮೂಲಕ, ಅವು ಸಂಭಾವ್ಯ ಆರ್ಥಿಕ ಪರಿಣಾಮಗಳನ್ನು ತಗ್ಗಿಸಲು ಮತ್ತು ನಡೆಯುತ್ತಿರುವ ಬಿಕ್ಕಟ್ಟಿನ ಮಧ್ಯೆ ಭಾರತದ ಹಿತಾಸಕ್ತಿಗಳನ್ನು ರಕ್ಷಿಸಲು ತ್ವರಿತ ಪ್ರತಿಕ್ರಿಯೆ ತಂತ್ರಗಳನ್ನು ಅಭಿವೃದ್ಧಿಪಡಿಸುತ್ತವೆ."
+            },
+            "mr": {
+                "title": "पंतप्रधान मोदींनी मध्य पूर्व संकटाच्या परिणामाचे मूल्यांकन करण्यासाठी गट स्थापन केले",
+                "content": "पंतप्रधान मोदींनी पश्चिम आशियाई संघर्षाचा भारतावरील परिणाम तपासण्यासाठी सात सक्षम गट स्थापन केले आहेत. हे गट ऊर्जा पुरवठा, अत्यावश्यक वस्तू आणि पुरवठा साखळीवर होणाऱ्या परिणामांचे विश्लेषण करतील. कोविड-19 साथीच्या रोगातून धडे घेत, ते संभाव्य आर्थिक परिणामांना कमी करण्यासाठी आणि सध्याच्या संकटात भारताच्या हिताचे रक्षण करण्यासाठी त्वरित प्रतिसाद धोरणे विकसित करतील."
+            },
+            "hi": {
+                "title": "पीएम मोदी ने मध्य पूर्व संकट के प्रभाव का आकलन करने के लिए समूह बनाए",
+                "content": "पीएम मोदी ने भारत पर पश्चिम एशियाई संघर्ष के प्रभाव का आकलन करने के लिए सात सशक्त समूह स्थापित किए हैं। ये दल ऊर्जा आपूर्ति, आवश्यक वस्तुओं और आपूर्ति श्रृंखलाओं पर पड़ने वाले प्रभावों का विश्लेषण करेंगे। कोविड-19 महामारी से सबक लेते हुए, वे संभावित आर्थिक गिरावट को कम करने और मौजूदा संकट के बीच भारत के हितों की रक्षा के लिए त्वरित प्रतिक्रिया रणनीतियाँ विकसित करेंगे।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129789094,imgsize-1063996.cms",
+        "link": "https://timesofindia.indiatimes.com/india/middle-east-crisis-pm-modi-sets-up-7-empowered-groups-to-assess-impact-of-war/articleshow/129789086.cms"
+    },
+    {
+        "id": "ff84f592",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "SC Rejects Separate Census for Nomadic Tribes",
+                "content": "The Supreme Court rejected a PIL seeking separate enumeration of Denotified, Nomadic, and Semi-Nomadic Tribes in the upcoming census. The court questioned the petition's motive, suggesting it aimed to gain SC/ST status and potentially divide the nation. Despite recommendations since 2000, the government hasn't acted on this issue."
+            },
+            "kn": {
+                "title": "ಅಲೆಮಾರಿ ಬುಡಕಟ್ಟು ಜನಾಂಗಗಳಿಗೆ ಪ್ರತ್ಯೇಕ ಜನಗಣತಿ ಮನವಿ ತಿರಸ್ಕರಿಸಿದ ಸುಪ್ರೀಂ ಕೋರ್ಟ್",
+                "content": "ಸುಪ್ರೀಂ ಕೋರ್ಟ್ ಮುಂಬರುವ ಜನಗಣತಿಯಲ್ಲಿ ವಿಮುಕ್ತ, ಅಲೆಮಾರಿ ಮತ್ತು ಅರೆ-ಅಲೆಮಾರಿ ಬುಡಕಟ್ಟು ಜನಾಂಗಗಳ ಪ್ರತ್ಯೇಕ ಗಣತಿಗಾಗಿ ಸಲ್ಲಿಸಿದ ಸಾರ್ವಜನಿಕ ಹಿತಾಸಕ್ತಿ ಅರ್ಜಿಯನ್ನು ತಿರಸ್ಕರಿಸಿದೆ. ಅರ್ಜಿಯ ಉದ್ದೇಶವನ್ನು ನ್ಯಾಯಾಲಯವು ಪ್ರಶ್ನಿಸಿದ್ದು, ಇದು ಎಸ್‌ಸಿ/ಎಸ್‌ಟಿ ಸ್ಥಾನಮಾನ ಪಡೆಯಲು ಮತ್ತು ರಾಷ್ಟ್ರವನ್ನು ವಿಭಜಿಸಲು ಯತ್ನಿಸುತ್ತಿದೆ ಎಂದು ಸೂಚಿಸಿತು. 2000 ರಿಂದ ಶಿಫಾರಸುಗಳ ಹೊರತಾಗಿಯೂ, ಸರ್ಕಾರವು ಈ ವಿಷಯದ ಬಗ್ಗೆ ಯಾವುದೇ ಕ್ರಮ ಕೈಗೊಂಡಿಲ್ಲ."
+            },
+            "mr": {
+                "title": "सर्वोच्च न्यायालयाने भटक्या जमातींसाठी स्वतंत्र जनगणनेची याचिका फेटाळली",
+                "content": "सर्वोच्च न्यायालयाने आगामी जनगणनेत विमुक्त, भटक्या आणि अर्ध-भटक्या जमातींच्या स्वतंत्र गणनेची मागणी करणारी जनहित याचिका फेटाळली. याचिकेच्या उद्देशावर न्यायालयाने प्रश्नचिन्ह उपस्थित केले, हे एससी/एसटी दर्जा मिळवण्यासाठी आणि देशाला विभाजित करण्यासाठी असू शकते असे सुचवले. 2000 पासून शिफारसी असूनही, सरकारने यावर कोणतीही कारवाई केलेली नाही."
+            },
+            "hi": {
+                "title": "सुप्रीम कोर्ट ने खानाबदोश जनजातियों के लिए अलग जनगणना की याचिका खारिज की",
+                "content": "सुप्रीम कोर्ट ने आगामी जनगणना में विमुक्त, खानाबदोश और अर्ध-खानाबदोश जनजातियों की अलग गणना की मांग करने वाली जनहित याचिका खारिज कर दी. अदालत ने याचिका के मकसद पर सवाल उठाया, यह सुझाव देते हुए कि इसका उद्देश्य एससी/एसटी का दर्जा हासिल करना और देश को विभाजित करना हो सकता है. 2000 से सिफारिशों के बावजूद, सरकार ने इस मुद्दे पर कोई कार्रवाई नहीं की है."
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129789035,imgsize-1483477.cms",
+        "link": "https://timesofindia.indiatimes.com/india/sc-rejects-plea-for-separate-enumeration-of-denotified-nomadic-semi-nomadic-tribes/articleshow/129789033.cms"
+    },
+    {
+        "id": "05c137be",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "ICE Airport Deployment: Travel Warning for Non-Citizens",
+                "content": "An immigration attorney warns non-citizens against travel through US airports as ICE agents are deployed. Those with pending immigration cases, certain visa statuses, or past legal issues are urged to avoid travel. The advice aims to prevent potential questioning or detention amidst heightened scrutiny, advising caution for individuals who might be flagged by authorities."
+            },
+            "kn": {
+                "title": "ICE ವಿಮಾನ ನಿಲ್ದಾಣದಲ್ಲಿ ನಿಯೋಜನೆ: ವಿದೇಶಿ ಪ್ರಜೆಗಳಿಗೆ ಪ್ರಯಾಣ ಎಚ್ಚರಿಕೆ",
+                "content": "ವಲಸೆ ವಕೀಲರು ಅಮೆರಿಕಾದ ವಿಮಾನ ನಿಲ್ದಾಣಗಳಲ್ಲಿ ICE ಏಜೆಂಟ್‌ಗಳು ನಿಯೋಜಿತರಾಗಿರುವುದರಿಂದ ವಲಸೆಯೇತರರಿಗೆ ಪ್ರಯಾಣದ ವಿರುದ್ಧ ಎಚ್ಚರಿಕೆ ನೀಡಿದ್ದಾರೆ. ಬಾಕಿ ಇರುವ ವಲಸೆ ಪ್ರಕರಣಗಳು, ಕೆಲವು ವೀಸಾ ಸ್ಥಿತಿಗಳು ಅಥವಾ ಹಿಂದಿನ ಕಾನೂನು ಸಮಸ್ಯೆಗಳನ್ನು ಹೊಂದಿರುವವರಿಗೆ ಪ್ರಯಾಣಿಸದಂತೆ ಸೂಚಿಸಲಾಗಿದೆ. ಸಂಭಾವ್ಯ ಪ್ರಶ್ನಿಸುವಿಕೆ ಅಥವಾ ಬಂಧನವನ್ನು ತಡೆಯಲು ಈ ಸಲಹೆ ನೀಡಲಾಗಿದೆ. ಅಧಿಕಾರಿಗಳಿಂದ ಗುರುತಿಸಲ್ಪಡುವ ಸಾಧ್ಯತೆಯಿರುವ ವ್ಯಕ್ತಿಗಳಿಗೆ ಎಚ್ಚರಿಕೆ ವಹಿಸುವಂತೆ ಸೂಚಿಸಲಾಗಿದೆ."
+            },
+            "mr": {
+                "title": "ICE विमानतळांवर तैनात: परदेशी नागरिकांसाठी प्रवासाचा इशारा",
+                "content": "एक स्थलांतर वकिलाने ICE एजंट अमेरिकन विमानतळांवर तैनात असल्याने बिगर-नागरिकांना अमेरिकेतील विमानतळांवरून प्रवास करण्यापासून सावध केले आहे. ज्यांच्याकडे प्रलंबित स्थलांतर प्रकरणे, विशिष्ट व्हिसा स्थिती किंवा मागील कायदेशीर समस्या आहेत, त्यांना प्रवास टाळण्याचे आवाहन केले आहे. संभाव्य चौकशी किंवा अटकेपासून वाचण्यासाठी हा सल्ला दिला आहे, अधिकाऱ्यांकडून तपासले जाण्याची शक्यता असलेल्या व्यक्तींना सावध राहण्यास सांगितले आहे."
+            },
+            "hi": {
+                "title": "ICE हवाई अड्डों पर तैनात: गैर-नागरिकों के लिए यात्रा चेतावनी",
+                "content": "एक आव्रजन वकील ने गैर-नागरिकों को अमेरिकी हवाई अड्डों के माध्यम से यात्रा न करने की चेतावनी दी है, क्योंकि ICE एजेंट तैनात किए गए हैं। जिन लोगों के आव्रजन मामले लंबित हैं, कुछ वीज़ा स्थितियाँ हैं, या पिछली कानूनी समस्याएँ हैं, उन्हें यात्रा से बचने का आग्रह किया गया है। यह सलाह संभावित पूछताछ या हिरासत से बचने के लिए दी गई है, उन व्यक्तियों को सावधानी बरतने की सलाह दी गई है जिन्हें अधिकारियों द्वारा चिह्नित किया जा सकता है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129786301,imgsize-52540.cms",
+        "link": "https://timesofindia.indiatimes.com/world/us/avoid-traveling-if-you-are-immigration-attorney-on-who-should-be-concerned-as-ice-agents-are-deployed-at-airports/articleshow/129786173.cms"
+    },
+    {
         "id": "7df9a423",
         "category": "National",
         "translations": {
