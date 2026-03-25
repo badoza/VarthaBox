@@ -1,5 +1,77 @@
 [
     {
+        "id": "b2ebb3a9",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "EC Hikes Pay for Poll Officials Ahead of 5-State Elections",
+                "content": "The Election Commission has announced a significant hike in remuneration for polling officials ahead of the upcoming assembly elections in five states. This move aims to recognize their vital role and ensure smooth conduct of democratic processes. Officials from presiding officers to polling personnel will see increased daily allowances, motivating them for election duties."
+            },
+            "kn": {
+                "title": "EC 5 ರಾಜ್ಯಗಳ ಚುನಾವಣೆಗೂ ಮುನ್ನ ಮತಗಟ್ಟೆ ಅಧಿಕಾರಿಗಳ ವೇತನ ಹೆಚ್ಚಳ",
+                "content": "ಚುನಾವಣಾ ಆಯೋಗವು ಐದು ರಾಜ್ಯಗಳಲ್ಲಿ ನಡೆಯಲಿರುವ ವಿಧಾನಸಭಾ ಚುನಾವಣೆಗೂ ಮುನ್ನ ಮತದಾನ ಅಧಿಕಾರಿಗಳಿಗೆ ನೀಡುವ ಸಂಭಾವನೆಯನ್ನು ಗಣನೀಯವಾಗಿ ಹೆಚ್ಚಿಸಿದೆ. ಈ ಕ್ರಮವು ಅವರ ಮಹತ್ವದ ಪಾತ್ರವನ್ನು ಗುರುತಿಸುವ ಮತ್ತು ಪ್ರಜಾಪ್ರಭುತ್ವ ಪ್ರಕ್ರಿಯೆಗಳ ಸುಗಮ ನಿರ್ವಹಣೆಯನ್ನು ಖಚಿತಪಡಿಸುವ ಗುರಿಯನ್ನು ಹೊಂದಿದೆ. ಅಧ್ಯಕ್ಷ ಅಧಿಕಾರಿಗಳಿಂದ ಹಿಡಿದು ಮತಗಟ್ಟೆ ಸಿಬ್ಬಂದಿಯವರೆಗಿನ ಅಧಿಕಾರಿಗಳು ಹೆಚ್ಚಿದ ದೈನಂದಿನ ಭತ್ಯೆಗಳನ್ನು ಪಡೆಯಲಿದ್ದಾರೆ, ಇದು ಚುನಾವಣಾ ಕರ್ತವ್ಯಗಳಿಗೆ ಅವರನ್ನು ಪ್ರೇರೇಪಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "5 राज्यांतील निवडणुकांपूर्वी निवडणूक आयोगाने मतदान अधिकाऱ्यांचे मानधन वाढवले",
+                "content": "निवडणूक आयोगाने आगामी पाच राज्यांतील विधानसभा निवडणुकांपूर्वी मतदान अधिकाऱ्यांच्या मानधनात लक्षणीय वाढ केली आहे. या निर्णयाचा उद्देश त्यांच्या महत्त्वाच्या भूमिकेची दखल घेणे आणि लोकशाही प्रक्रिया सुरळीत पार पडेल याची खात्री करणे आहे. पीठासीन अधिकारी ते मतदान कर्मचारी यांच्यापर्यंतच्या अधिकाऱ्यांना वाढीव दैनिक भत्ते मिळतील, ज्यामुळे त्यांना निवडणूक कर्तव्यासाठी प्रोत्साहन मिळेल."
+            },
+            "hi": {
+                "title": "EC ने 5 राज्यों के चुनावों से पहले मतदान अधिकारियों का वेतन बढ़ाया",
+                "content": "चुनाव आयोग ने आगामी पांच राज्यों में विधानसभा चुनावों से पहले मतदान अधिकारियों के पारिश्रमिक में उल्लेखनीय वृद्धि की घोषणा की है। इस कदम का उद्देश्य उनकी महत्वपूर्ण भूमिका को पहचानना और लोकतांत्रिक प्रक्रियाओं का सुचारू संचालन सुनिश्चित करना है। पीठासीन अधिकारियों से लेकर मतदान कर्मियों तक के अधिकारियों को बढ़े हुए दैनिक भत्ते मिलेंगे, जिससे उन्हें चुनावी कर्तव्यों के लिए प्रोत्साहन मिलेगा।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129803920,imgsize-247124.cms",
+        "link": "https://timesofindia.indiatimes.com/india/ec-hikes-remuneration-for-poll-officials-ahead-of-assembly-elections-in-5-states/articleshow/129803781.cms"
+    },
+    {
+        "id": "96d9b794",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Assam 2026: Sarma vs. Gogoi Battle Heats Up",
+                "content": "Assam's 2026 assembly election is heating up, with BJP aiming for a solo majority against a resurgent Congress. The contest pits Himanta Sarma against Gaurav Gogoi, focusing on issues like identity, infiltration, and development. Post-delimitation changes add complexity to this defining electoral battle. Will Sarma retain power or will Gogoi shift the tide?"
+            },
+            "kn": {
+                "title": "ಅಸ್ಸಾಂ 2026: ಶರ್ಮಾ ವಿರುದ್ಧ ಗೋಗೋಯ್ ಕದನ ತೀವ್ರಗೊಂಡಿದೆ",
+                "content": "ಅಸ್ಸಾಂನ 2026ರ ವಿಧಾನಸಭಾ ಚುನಾವಣೆ ಬಿಸಿ ಏರಿದೆ, ಬಿಜೆಪಿ ಮರು-ಉತ್ಸಾಹದ ಕಾಂಗ್ರೆಸ್ ವಿರುದ್ಧ ಏಕೈಕ ಬಹುಮತ ಸಾಧಿಸುವ ಗುರಿಯಲ್ಲಿದೆ. ಈ ಸ್ಪರ್ಧೆಯು ಹಿಮಂತ ಶರ್ಮಾ ಅವರನ್ನು ಗೌರವ್ ಗೋಗೋಯ್ ವಿರುದ್ಧ ನಿಲ್ಲಿಸಿದೆ, ಗುರುತು, ಒಳನುಸುಳುವಿಕೆ ಮತ್ತು ಅಭಿವೃದ್ಧಿಯಂತಹ ವಿಷಯಗಳ ಮೇಲೆ ಕೇಂದ್ರೀಕರಿಸುತ್ತದೆ. ಸೀಮಾ ನಿರ್ಣಯದ ನಂತರದ ಬದಲಾವಣೆಗಳು ಈ ನಿರ್ಣಾಯಕ ಚುನಾವಣಾ ಕದನಕ್ಕೆ ಸಂಕೀರ್ಣತೆಯನ್ನು ಹೆಚ್ಚಿಸುತ್ತವೆ. ಶರ್ಮಾ ಅಧಿಕಾರ ಉಳಿಸಿಕೊಳ್ಳುತ್ತಾರೋ ಅಥವಾ ಗೋಗೋಯ್ ಅಲೆ ಬದಲಿಸುತ್ತಾರೋ?"
+            },
+            "mr": {
+                "title": "आसाम 2026: सरमा विरुद्ध गोगोई युद्ध तीव्र झाले आहे",
+                "content": "आसाममधील 2026 च्या विधानसभा निवडणुका तापू लागल्या आहेत, भाजप पुन्हा मजबूत झालेल्या काँग्रेसविरुद्ध एकट्याच्या बळावर बहुमत मिळवण्याचे लक्ष्य ठेवत आहे. या लढतीत हिमंता सरमा यांच्या विरोधात गौरव गोगोई उभे आहेत, ज्यात ओळख, घुसखोरी आणि विकासासारख्या मुद्द्यांवर लक्ष केंद्रित केले जात आहे. सीमांकनानंतरचे बदल या महत्त्वपूर्ण निवडणूक लढाईला आणखी गुंतागुंतीचे करतात. सरमा सत्ता राखतील की गोगोई परिस्थिती बदलतील?"
+            },
+            "hi": {
+                "title": "असम 2026: सरमा बनाम गोगोई की लड़ाई तेज",
+                "content": "असम की 2026 विधानसभा चुनाव की सरगर्मी तेज हो गई है, जिसमें भाजपा एक मजबूत कांग्रेस के खिलाफ अकेले बहुमत का लक्ष्य बना रही है। इस मुकाबले में हिमंता सरमा का सामना गौरव गोगोई से होगा, जिसमें पहचान, घुसपैठ और विकास जैसे मुद्दे केंद्र में हैं। परिसीमन के बाद के बदलाव इस निर्णायक चुनावी लड़ाई को और जटिल बनाते हैं। क्या सरमा सत्ता बरकरार रख पाएंगे या गोगोई लहर बदल देंगे?"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129803423,imgsize-104654.cms",
+        "link": "https://timesofindia.indiatimes.com/india/assam-assembly-election-2026-swot-analysis-can-himanta-sarma-retain-power-or-will-gaurav-gogois-debut-shift-the-tide-bpf-agp-ajp-cpm-aiudf-bjp-congress-raijor-dal/articleshow/129797273.cms"
+    },
+    {
+        "id": "dc746c23",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Kerala 2026 Polls: Close Contests & Key Shifts Expected",
+                "content": "Kerala's 2026 Assembly elections are set for tight contests, reflecting the 2021 polls' narrow victory margins and fragmented vote shares. While NOTA remains a factor, recent local body elections suggest potential micro-level swings. Parties must focus on strengthening their presence in hotly contested constituencies, where small shifts could determine outcomes, making every vote crucial."
+            },
+            "kn": {
+                "title": "ಕೇರಳ 2026 ಚುನಾವಣೆ: ತೀವ್ರ ಪೈಪೋಟಿ ಮತ್ತು ಪ್ರಮುಖ ಬದಲಾವಣೆಗಳ ನಿರೀಕ್ಷೆ",
+                "content": "ಕೇರಳದ 2026ರ ವಿಧಾನಸಭಾ ಚುನಾವಣೆಗಳು ತೀವ್ರ ಪೈಪೋಟಿಗೆ ಸಿದ್ಧವಾಗಿವೆ, ಇದು 2021ರ ಚುನಾವಣೆಯ ಸಣ್ಣ ಗೆಲುವಿನ ಅಂತರಗಳು ಮತ್ತು ವಿಭಜಿತ ಮತ ಹಂಚಿಕೆಯನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ. ನೋಟಾ ಒಂದು ಅಂಶವಾಗಿ ಉಳಿದಿದ್ದರೂ, ಇತ್ತೀಚಿನ ಸ್ಥಳೀಯ ಸಂಸ್ಥೆಗಳ ಚುನಾವಣೆಗಳು ಸಂಭಾವ್ಯ ಸೂಕ್ಷ್ಮ ಮಟ್ಟದ ಬದಲಾವಣೆಗಳನ್ನು ಸೂಚಿಸುತ್ತವೆ. ಪಕ್ಷಗಳು ತೀವ್ರವಾಗಿ ಸ್ಪರ್ಧಿಸುವ ಕ್ಷೇತ್ರಗಳಲ್ಲಿ ತಮ್ಮ ಉಪಸ್ಥಿತಿಯನ್ನು ಬಲಪಡಿಸುವತ್ತ ಗಮನಹರಿಸಬೇಕು, ಅಲ್ಲಿ ಸಣ್ಣ ಬದಲಾವಣೆಗಳು ಫಲಿತಾಂಶಗಳನ್ನು ನಿರ್ಧರಿಸಬಹುದು, ಪ್ರತಿಯೊಂದು ಮತವೂ ನಿರ್ಣಾಯಕವಾಗಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "केरळ 2026 निवडणुका: चुरशीच्या लढती आणि महत्त्वाचे बदल अपेक्षित",
+                "content": "केरळमधील 2026 च्या विधानसभा निवडणुका चुरशीच्या लढतींसाठी सज्ज आहेत, ज्यात 2021 च्या निवडणुकांमधील कमी मताधिक्याने विजय आणि विभाजित मतांचा वाटा दिसून येतो. नोटा एक घटक असला तरी, अलीकडील स्थानिक स्वराज्य संस्थांच्या निवडणुका संभाव्य सूक्ष्म-स्तरीय बदलांची सूचना देतात. पक्षांनी जोरदार स्पर्धा असलेल्या मतदारसंघांमध्ये आपली उपस्थिती मजबूत करण्यावर लक्ष केंद्रित केले पाहिजे, जिथे छोटे बदलही निकाल ठरवू शकतात, त्यामुळे प्रत्येक मत महत्त्वाचे ठरते."
+            },
+            "hi": {
+                "title": "केरल 2026 चुनाव: करीबी मुकाबले और अहम बदलाव की उम्मीद",
+                "content": "केरल के 2026 विधानसभा चुनाव करीबी मुकाबलों के लिए तैयार हैं, जो 2021 के चुनावों में मामूली जीत के अंतर और खंडित मत प्रतिशत को दर्शाते हैं। जबकि नोटा एक कारक बना हुआ है, हाल के स्थानीय निकाय चुनाव संभावित सूक्ष्म-स्तरीय बदलावों का संकेत देते हैं। पार्टियों को कड़ी टक्कर वाले निर्वाचन क्षेत्रों में अपनी उपस्थिति मजबूत करने पर ध्यान देना चाहिए, जहां छोटे बदलाव भी परिणाम तय कर सकते हैं, जिससे हर वोट महत्वपूर्ण हो जाता है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129798661,imgsize-579870.cms",
+        "link": "https://timesofindia.indiatimes.com/india/kerala-polls-2026-from-thin-margin-wins-to-increasing-nota-what-last-elections-vote-share-reveal/articleshow/129797481.cms"
+    },
+    {
         "id": "47fb5be2",
         "category": "National",
         "translations": {
@@ -1846,77 +1918,5 @@
         },
         "image": "https://static.toiimg.com/photo/msid-129762098,imgsize-248412.cms",
         "link": "https://timesofindia.indiatimes.com/world/us/is-laguardia-airport-open-hundreds-of-flights-disrupted-after-fatal-runway-collision-in-new-york/articleshow/129762098.cms"
-    },
-    {
-        "id": "3391faa3",
-        "category": "Sports",
-        "translations": {
-            "en": {
-                "title": "Chinnaswamy Stadium to Honour 11 Tragedy Victims",
-                "content": "Chinnaswamy Stadium will honor 11 fans who tragically lost their lives in a past incident. Royal Challengers Bengaluru (RCB) and KSCA are unveiling a memorial plaque and reserving 11 seats in their memory. Tributes will precede an upcoming match, ensuring the victims' legacy remains an integral part of the stadium, remembering those lost during celebrations."
-            },
-            "kn": {
-                "title": "ಚಿನ್ನಸ್ವಾಮಿ ಕ್ರೀಡಾಂಗಣದಲ್ಲಿ 11 ದುರಂತ ಸಂತ್ರಸ್ತರಿಗೆ ಗೌರವ",
-                "content": "ಚಿನ್ನಸ್ವಾಮಿ ಕ್ರೀಡಾಂಗಣವು ಹಿಂದಿನ ಘಟನೆಯಲ್ಲಿ ದುರಂತವಾಗಿ ಪ್ರಾಣ ಕಳೆದುಕೊಂಡ 11 ಅಭಿಮಾನಿಗಳನ್ನು ಗೌರವಿಸಲಿದೆ. ರಾಯಲ್ ಚಾಲೆಂಜರ್ಸ್ ಬೆಂಗಳೂರು (RCB) ಮತ್ತು KSCA ಅವರ ಸ್ಮರಣಾರ್ಥ ಸ್ಮಾರಕ ಫಲಕವನ್ನು ಅನಾವರಣಗೊಳಿಸಿ 11 ಆಸನಗಳನ್ನು ಕಾಯ್ದಿರಿಸುತ್ತಿವೆ. ಮುಂಬರುವ ಪಂದ್ಯದ ಮೊದಲು ಗೌರವ ಸಲ್ಲಿಸಲಾಗುವುದು, ಆಚರಣೆಗಳ ಸಮಯದಲ್ಲಿ ಕಳೆದುಹೋದವರನ್ನು ನೆನಪಿಸಿಕೊಳ್ಳುವ ಮೂಲಕ ಸಂತ್ರಸ್ತರ ಪರಂಪರೆ ಕ್ರೀಡಾಂಗಣದ ಅವಿಭಾಜ್ಯ ಅಂಗವಾಗಿ ಉಳಿಯುವುದನ್ನು ಇದು ಖಚಿತಪಡಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "चिन्नास्वामी स्टेडियममध्ये 11 दुर्घटनाग्रस्तांचा सन्मान",
-                "content": "चिन्नास्वामी स्टेडियम एका मागील घटनेत दुर्दैवी मृत्यूमुखी पडलेल्या 11 चाहत्यांचा सन्मान करणार आहे. रॉयल चॅलेंजर्स बंगळूरु (RCB) आणि KSCA त्यांच्या स्मरणार्थ एक स्मारक फलक आणि 11 जागा आरक्षित करणार आहेत. आगामी सामन्यापूर्वी श्रद्धांजली वाहिली जाईल, ज्यामुळे बळी पडलेल्यांचा वारसा स्टेडियमचा अविभाज्य भाग राहील आणि उत्सवादरम्यान गमावलेल्यांची आठवण ठेवली जाईल."
-            },
-            "hi": {
-                "title": "चिन्नास्वामी स्टेडियम में 11 त्रासदी पीड़ितों का सम्मान",
-                "content": "चिन्नास्वामी स्टेडियम एक पिछली घटना में दुखद रूप से जान गंवाने वाले 11 प्रशंसकों का सम्मान करेगा। रॉयल चैलेंजर्स बेंगलुरु (RCB) और KSCA उनकी याद में एक स्मारक पट्टिका का अनावरण कर रहे हैं और 11 सीटें आरक्षित कर रहे हैं। आगामी मैच से पहले श्रद्धांजलि अर्पित की जाएगी, जिससे पीड़ितों की विरासत स्टेडियम का अभिन्न अंग बनी रहे और उत्सव के दौरान खोए हुए लोगों को याद रखा जा सके।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129766944,imgsize-126734.cms",
-        "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/memorial-plaque-11-seats-to-honour-chinnaswamy-stampede-victims-rcb-ksca/articleshow/129766581.cms"
-    },
-    {
-        "id": "2e4209a7",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Modi Warns Parliament: Conflicts Pose Unprecedented Challenges for India",
-                "content": "Prime Minister Modi told Parliament that global conflicts are creating unprecedented challenges for India. He stressed the need for strategic resilience and national unity to navigate the complex geopolitical landscape. Modi emphasized strengthening defense and diplomatic efforts to protect India's interests amidst rising tensions, affirming the nation's commitment to peace while remaining prepared for all scenarios."
-            },
-            "kn": {
-                "title": "ಮೋದಿ ಸಂಸತ್ತಿಗೆ ಎಚ್ಚರಿಕೆ: ಸಂಘರ್ಷಗಳು ಭಾರತಕ್ಕೆ ಅಭೂತಪೂರ್ವ ಸವಾಲುಗಳನ್ನು ಒಡ್ಡುತ್ತವೆ",
-                "content": "ಪ್ರಧಾನಿ ಮೋದಿ ಸಂಸತ್ತಿನಲ್ಲಿ ಮಾತನಾಡಿ, ಜಾಗತಿಕ ಸಂಘರ್ಷಗಳು ಭಾರತಕ್ಕೆ ಅಭೂತಪೂರ್ವ ಸವಾಲುಗಳನ್ನು ಸೃಷ್ಟಿಸುತ್ತಿವೆ ಎಂದು ತಿಳಿಸಿದರು. ಸಂಕೀರ್ಣ ಭೂರಾಜಕೀಯ ಸನ್ನಿವೇಶವನ್ನು ನಿಭಾಯಿಸಲು ಆಯಕಟ್ಟಿನ ಸ್ಥಿತಿಸ್ಥಾಪಕತ್ವ ಮತ್ತು ರಾಷ್ಟ್ರೀಯ ಏಕತೆಯ ಅಗತ್ಯವನ್ನು ಅವರು ಒತ್ತಿ ಹೇಳಿದರು. ಹೆಚ್ಚುತ್ತಿರುವ ಉದ್ವಿಗ್ನತೆಯ ನಡುವೆ ಭಾರತದ ಹಿತಾಸಕ್ತಿಗಳನ್ನು ರಕ್ಷಿಸಲು ರಕ್ಷಣೆ ಮತ್ತು ರಾಜತಾಂತ್ರಿಕ ಪ್ರಯತ್ನಗಳನ್ನು ಬಲಪಡಿಸುವಂತೆ ಮೋದಿ ಹೇಳಿದರು, ಶಾಂತಿಗೆ ರಾಷ್ಟ್ರದ ಬದ್ಧತೆಯನ್ನು ದೃಢಪಡಿಸಿದರು ಆದರೆ ಎಲ್ಲಾ ಸನ್ನಿವೇಶಗಳಿಗೂ ಸಿದ್ಧವಾಗಿರಲು ತಿಳಿಸಿದರು."
-            },
-            "mr": {
-                "title": "मोदींचा संसदेत इशारा: संघर्ष भारतासमोर अभूतपूर्व आव्हाने उभे करतात",
-                "content": "पंतप्रधान मोदींनी संसदेत सांगितले की, जागतिक संघर्ष भारतासमोर अभूतपूर्व आव्हाने निर्माण करत आहेत. त्यांनी जटिल भू-राजकीय परिस्थितीला तोंड देण्यासाठी धोरणात्मक लवचिकता आणि राष्ट्रीय एकतेची गरज यावर भर दिला. वाढत्या तणावांमध्ये भारताच्या हिताचे रक्षण करण्यासाठी संरक्षण आणि राजनैतिक प्रयत्न बळकट करण्यावर मोदींनी भर दिला, तसेच शांततेसाठी देशाची कटिबद्धता आणि कोणत्याही परिस्थितीसाठी सज्ज राहण्याचे आश्वासन दिले."
-            },
-            "hi": {
-                "title": "मोदी की संसद को चेतावनी: संघर्ष भारत के लिए अभूतपूर्व चुनौतियाँ पैदा करते हैं",
-                "content": "प्रधानमंत्री मोदी ने संसद में कहा कि वैश्विक संघर्ष भारत के लिए अभूतपूर्व चुनौतियाँ पैदा कर रहे हैं। उन्होंने जटिल भू-राजनीतिक परिदृश्य से निपटने के लिए रणनीतिक लचीलेपन और राष्ट्रीय एकता की आवश्यकता पर जोर दिया। मोदी ने बढ़ते तनावों के बीच भारत के हितों की रक्षा के लिए रक्षा और कूटनीतिक प्रयासों को मजबूत करने पर बल दिया, राष्ट्र की शांति के प्रति प्रतिबद्धता की पुष्टि करते हुए सभी परिदृश्यों के लिए तैयार रहने की बात कही।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVVNTYldlV3Z1djZtTUFKRHZOekd1cEVITE91eEM5eVFMOXVLdC01Vm9lS1hUalNLbVVaWHNXclJ5MWs4UmlRUzFkSVYxMkZTdTJIVGFkUS1HX0dOMVR1d2xIbEY5c3lpNVRWZ0NZNkJTRW1jbjZUS0hvcXR2V2J0T0Q0dFZfRS1jS3Q2aWEwMG1xZmlneEI4Ynl2V1JOazdnLTdZdnFEZHh5RGZ5MEsweWU1ajVDUkxyUEFKRzBTVHhvZlNXcW5CTy1OMjg5Mm1iMDZ5ZtIB2gFBVV95cUxQdGt3QVhMcmVnQVZRTEpsQlJEaU1fZnBzcUhCdlF5Y3d5T0dWZlZndzBpODRJTWE3cUo2WmNYREVfbWI4YkE5YzBXQWZJU2pDeS1UQXhRRmQxX2NoZDdrNDAwb01YM3RZX1NURF8wcTlfTGhmbmJSM0pteEt4MGNrc2JQWEFTbzRldTdPeDhudFBRdlRuS3RvQjluYTZjNmxCQTUybVdkWmVRX1pHaUdtVEFzX0g0MDRGT0VrUXN1Yi1KVVc3VUpWemwzeWFwaDNRS2FGZWJZWFVlZw?oc=5"
-    },
-    {
-        "id": "873aa7e5",
-        "category": "Belagavi Politics",
-        "translations": {
-            "en": {
-                "title": "Dynastic Politics Plagues All Parties: Minister Jarkiholi",
-                "content": "Karnataka Minister Satish Jarkiholi has stirred debate, asserting that dynastic politics isn't confined to any single party but is prevalent across the political spectrum. Speaking to reporters, Jarkiholi's frank admission challenges the common narrative, suggesting that the practice of family members inheriting political power is a universal issue impacting Indian political parties. This statement comes amidst ongoing discussions about merit versus lineage in public office."
-            },
-            "kn": {
-                "title": "ಎಲ್ಲಾ ಪಕ್ಷಗಳಲ್ಲಿ ವಂಶಾಡಳಿತ ರಾಜಕೀಯ: ಸಚಿವ ಜಾರಕಿಹೊಳಿ",
-                "content": "ಕರ್ನಾಟಕ ಸಚಿವ ಸತೀಶ್ ಜಾರಕಿಹೊಳಿ ಅವರು ವಂಶಾಡಳಿತ ರಾಜಕೀಯ ಯಾವುದೇ ಒಂದು ಪಕ್ಷಕ್ಕೆ ಸೀಮಿತವಾಗಿಲ್ಲ, ಬದಲಿಗೆ ಇಡೀ ರಾಜಕೀಯ ವಲಯದಲ್ಲಿ ವ್ಯಾಪಕವಾಗಿದೆ ಎಂದು ಹೇಳುವ ಮೂಲಕ ಚರ್ಚೆಗೆ ಗ್ರಾಸವಾಗಿದ್ದಾರೆ. ವರದಿಗಾರರೊಂದಿಗೆ ಮಾತನಾಡಿದ ಜಾರಕಿಹೊಳಿ ಅವರ ಈ ಸ್ಪಷ್ಟ ಹೇಳಿಕೆ ಸಾಮಾನ್ಯ ನಿರೂಪಣೆಗೆ ಸವಾಲು ಹಾಕುತ್ತದೆ, ರಾಜಕೀಯ ಅಧಿಕಾರವನ್ನು ಕುಟುಂಬ ಸದಸ್ಯರು ವಾರಸುದಾರರಾಗಿ ಪಡೆಯುವ ಪದ್ಧತಿಯು ಭಾರತೀಯ ರಾಜಕೀಯ ಪಕ್ಷಗಳ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರುವ ಸಾರ್ವತ್ರಿಕ ಸಮಸ್ಯೆಯಾಗಿದೆ ಎಂದು ಸೂಚಿಸುತ್ತದೆ. ಸಾರ್ವಜನಿಕ ಹುದ್ದೆಗಳಲ್ಲಿ ಅರ್ಹತೆ ಮತ್ತು ವಂಶಾವಳಿಯ ನಡುವಿನ ಚರ್ಚೆಯ ನಡುವೆ ಈ ಹೇಳಿಕೆ ಬಂದಿದೆ."
-            },
-            "mr": {
-                "title": "सर्वच पक्षांमध्ये घराणेशाहीचे राजकारण: मंत्री जारकीहोळी",
-                "content": "कर्नाटकचे मंत्री सतीश जारकीहोळी यांनी घराणेशाहीचे राजकारण कोणत्याही एका पक्षापुरते मर्यादित नसून ते संपूर्ण राजकीय पटलावर पसरले आहे असे सांगून वाद निर्माण केला आहे. पत्रकारांशी बोलताना, जारकीहोळींच्या स्पष्ट कबुलीने सामान्य कथनाला आव्हान दिले आहे, ज्यात असे सूचित केले आहे की कुटुंबातील सदस्यांनी राजकीय सत्ता वारसा हक्काने मिळवणे ही भारतीय राजकीय पक्षांवर परिणाम करणारी एक सार्वत्रिक समस्या आहे. सार्वजनिक पदांवरील योग्यता आणि वंश परंपरा यावरील सध्याच्या चर्चेदरम्यान हे विधान आले आहे."
-            },
-            "hi": {
-                "title": "सभी पार्टियों में वंशवादी राजनीति: मंत्री जारकीहोली",
-                "content": "कर्नाटक के मंत्री सतीश जारकीहोली ने यह दावा कर एक बहस छेड़ दी है कि वंशवादी राजनीति किसी एक पार्टी तक सीमित नहीं है, बल्कि पूरे राजनीतिक परिदृश्य में व्याप्त है। पत्रकारों से बात करते हुए, जारकीहोली की स्पष्ट स्वीकारोक्ति सामान्य धारणा को चुनौती देती है, यह सुझाव देते हुए कि परिवार के सदस्यों द्वारा राजनीतिक सत्ता विरासत में प्राप्त करने की प्रथा भारतीय राजनीतिक दलों को प्रभावित करने वाला एक सार्वभौमिक मुद्दा है। यह बयान सार्वजनिक पद पर योग्यता बनाम वंशावली पर चल रही चर्चाओं के बीच आया है।"
-            }
-        },
-        "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUlIwSGkxTG9fQi1NMHRfYnlsVnZzR2xxWEUxVEJOOG9KWEJqMlJyN2p2ZTJSU1cwSGRfQU1Ja3NlLW13NnRIRm96WXhuZy1VZlFrM0hwQXZHQkNMMDdJNkJWUWE3MkotV2FPeVd6YXVRWU9oUWQyaDlKSk5uQXR0d29lSy0zNk9ZcVZ5aFZleWFQU2E5cExJenBGd1lIaGJMOUZHQTJSMG1DTXB5cGdpSl9hZVBRY0huY3RYNEYtaUdTMGZtRVFIdUJVc0lYN2VScEx3YTZiQVdsd9IB2gFBVV95cUxNUlIwSGkxTG9fQi1NMHRfYnlsVnZzR2xxWEUxVEJOOG9KWEJqMlJyN2p2ZTJSU1cwSGRfQU1Ja3NlLW13NnRIRm96WXhuZy1VZlFrM0hwQXZHQkNMMDdJNkJWUWE3MkotV2FPeVd6YXVRWU9oUWQyaDlKSk5uQXR0d29lSy0zNk9ZcVZ5aFZleWFQU2E5cExJenBGd1lIaGJMOUZHQTJSMG1DTXB5cGdpSl9hZVBRY0huY3RYNEYtaUdTMGZtRVFIdUJVc0lYN2VScEx3YTZiQVdsdw?oc=5"
     }
 ]
