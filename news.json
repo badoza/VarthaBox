@@ -1,5 +1,29 @@
 [
     {
+        "id": "fb643619",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Sonia Gandhi Stable After Hospitalization",
+                "content": "Veteran Congress leader Sonia Gandhi is stable and under observation at Sir Ganga Ram Hospital. Admitted Tuesday night after feeling unwell due to a weather change, doctors are conducting investigations for potential stomach and urinary tract infections. Antibiotics have been administered, and a medical team is closely monitoring her condition."
+            },
+            "kn": {
+                "title": "ಸೋನಿಯಾ ಗಾಂಧಿ ಆಸ್ಪತ್ರೆಗೆ ದಾಖಲಾದ ನಂತರ ಸ್ಥಿರ",
+                "content": "ಹಿರಿಯ ಕಾಂಗ್ರೆಸ್ ನಾಯಕಿ ಸೋನಿಯಾ ಗಾಂಧಿ ಸರ್ ಗಂಗಾರಾಮ್ ಆಸ್ಪತ್ರೆಯಲ್ಲಿ ಸ್ಥಿರ ಸ್ಥಿತಿಯಲ್ಲಿದ್ದು, ನಿಗಾದಲ್ಲಿದ್ದಾರೆ. ಹವಾಮಾನ ಬದಲಾವಣೆಯಿಂದ ಅನಾರೋಗ್ಯಕ್ಕೆ ಒಳಗಾದ ನಂತರ ಮಂಗಳವಾರ ರಾತ್ರಿ ದಾಖಲಾಗಿದ್ದು, ವೈದ್ಯರು ಹೊಟ್ಟೆ ಮತ್ತು ಮೂತ್ರನಾಳದ ಸಂಭಾವ್ಯ ಸೋಂಕುಗಳಿಗಾಗಿ ತನಿಖೆ ನಡೆಸುತ್ತಿದ್ದಾರೆ. ಪ್ರತಿಜೀವಕಗಳನ್ನು ನೀಡಲಾಗಿದ್ದು, ವೈದ್ಯಕೀಯ ತಂಡವು ಅವರ ಸ್ಥಿತಿಯನ್ನು ಸೂಕ್ಷ್ಮವಾಗಿ ಗಮನಿಸುತ್ತಿದೆ."
+            },
+            "mr": {
+                "title": "सोनिया गांधी रुग्णालयात दाखल झाल्यानंतर स्थिर",
+                "content": "ज्येष्ठ काँग्रेस नेत्या सोनिया गांधी सर गंगा राम रुग्णालयात स्थिर असून त्यांच्यावर लक्ष ठेवले जात आहे. हवामानातील बदलामुळे अस्वस्थ वाटू लागल्याने मंगळवारी रात्री त्यांना दाखल करण्यात आले होते. डॉक्टर पोट आणि मूत्रमार्गाच्या संभाव्य संक्रमणासाठी तपासणी करत आहेत. प्रतिजैविके देण्यात आली असून वैद्यकीय पथक त्यांच्या प्रकृतीवर बारकाईने लक्ष ठेवून आहे."
+            },
+            "hi": {
+                "title": "सोनिया गांधी अस्पताल में भर्ती होने के बाद स्थिर",
+                "content": "वरिष्ठ कांग्रेस नेता सोनिया गांधी सर गंगा राम अस्पताल में स्थिर और निगरानी में हैं। मौसम बदलने के कारण अस्वस्थ महसूस होने पर मंगलवार रात उन्हें भर्ती कराया गया था। डॉक्टर पेट और मूत्र पथ के संभावित संक्रमणों के लिए जांच कर रहे हैं। एंटीबायोटिक्स दिए गए हैं, और एक मेडिकल टीम उनकी स्थिति पर करीब से नजर रख रही है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129797691,imgsize-31240.cms",
+        "link": "https://timesofindia.indiatimes.com/india/sonia-gandhi-in-hospital-doctors-say-veteran-congress-leaders-condition-is-stable/articleshow/129797465.cms"
+    },
+    {
         "id": "9bc725a9",
         "category": "National",
         "translations": {
