@@ -1,5 +1,53 @@
 [
     {
+        "id": "d64fc086",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Kerala CM Slams 'Misogynistic' Remark on MLA; Legal Action Planned",
+                "content": "Kerala CM Pinarayi Vijayan strongly condemned UDF leader A Irshad's \"beauty\" remark about MLA U Prathibha, calling it \"misogynistic and insulting.\" Vijayan stated it insulted all women in public life. Prathibha plans legal action, asserting the comments aimed to discourage women. The UDF candidate has distanced himself from the controversial statement."
+            },
+            "kn": {
+                "title": "ಕೇರಳ ಸಿಎಂ ಶಾಸಕಿ ಬಗ್ಗೆ 'ದ್ವೇಷಪೂರಿತ' ಹೇಳಿಕೆಯನ್ನು ಖಂಡಿಸಿದರು; ಕಾನೂನು ಕ್ರಮಕ್ಕೆ ಸಿದ್ಧತೆ",
+                "content": "ಕೇರಳ ಸಿಎಂ ಪಿಣರಾಯಿ ವಿಜಯನ್, ಯುಡಿಎಫ್ ನಾಯಕ ಎ. ಇರ್ಷಾದ್ ಅವರ ಶಾಸಕಿ ಯು. ಪ್ರತಿಭಾ ಕುರಿತ \"ಸೌಂದರ್ಯ\" ಟೀಕೆಯನ್ನು \"ದ್ವೇಷಪೂರಿತ ಮತ್ತು ಅವಮಾನಕರ\" ಎಂದು ತೀವ್ರವಾಗಿ ಖಂಡಿಸಿದರು. ಸಾರ್ವಜನಿಕ ಜೀವನದಲ್ಲಿ ಮಹಿಳೆಯರಿಗೆ ಇದು ಅವಮಾನ ಎಂದರು. ಪ್ರತಿಭಾ ಕಾನೂನು ಕ್ರಮಕ್ಕೆ ಸಿದ್ಧರಾಗಿದ್ದು, ಹೇಳಿಕೆಗಳು ಮಹಿಳೆಯರನ್ನು ನಿರುತ್ಸಾಹಗೊಳಿಸುವ ಉದ್ದೇಶ ಹೊಂದಿವೆ. ಯುಡಿಎಫ್ ಅಭ್ಯರ್ಥಿ ವಿವಾದಾತ್ಮಕ ಹೇಳಿಕೆಯಿಂದ ದೂರವಿದ್ದಾರೆ."
+            },
+            "mr": {
+                "title": "केरळच्या मुख्यमंत्र्यांनी आमदारावरील 'स्त्रीद्वेषी' टिप्पणीवर टीका केली; कायदेशीर कारवाईची योजना",
+                "content": "केरळचे मुख्यमंत्री पिनराई विजयन यांनी यूडीएफ नेते ए. इरशाद यांच्या आमदार यू. प्रतिभा यांच्यावरील \"सौंदर्या\"च्या टिप्पणीचा \"स्त्रीद्वेषी आणि अपमानकारक\" म्हणून तीव्र निषेध केला. यामुळे सार्वजनिक जीवनातील महिलांचा अपमान झाला, असे विजयन म्हणाले. प्रतिभा कायदेशीर कारवाई करणार आहेत, कारण टिप्पण्यांचा उद्देश महिलांना निरुत्साहित करणे हा होता. यूडीएफ उमेदवाराने वादग्रस्त विधानापासून स्वतःला दूर ठेवले आहे."
+            },
+            "hi": {
+                "title": "केरल सीएम ने विधायक पर 'स्त्रीद्वेषी' टिप्पणी की निंदा की; कानूनी कार्रवाई की योजना",
+                "content": "केरल के सीएम पिनाराई विजयन ने यूडीएफ नेता ए. इरशाद की विधायक यू. प्रतिभा पर की गई \"सुंदरता\" टिप्पणी को \"स्त्रीद्वेषी और अपमानजनक\" बताते हुए कड़ी निंदा की. विजयन ने कहा कि यह सार्वजनिक जीवन की सभी महिलाओं का अपमान है. प्रतिभा कानूनी कार्रवाई की योजना बना रही हैं, उनका दावा है कि टिप्पणियों का उद्देश्य महिलाओं को हतोत्साहित करना था. यूडीएफ उम्मीदवार ने विवादास्पद बयान से खुद को दूर कर लिया है."
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129805649,imgsize-25140.cms",
+        "link": "https://timesofindia.indiatimes.com/india/misogynistic-and-insulting-keralam-cm-pinarayi-vijayan-slams-udf-leader-a-irshads-beauty-remark-on-mla-pratibha/articleshow/129805488.cms"
+    },
+    {
+        "id": "96b1c18a",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Iran Rejects US Peace Plan, Demands Own Terms",
+                "content": "Iran has rejected the US' 15-point de-escalation proposal, firmly stating \"Trump will not dictate\" the war's end. Tehran insists on concluding the conflict on its own terms, presenting five counter-demands. These include halting attacks, guarantees against future wars, war damage compensation, ending regional hostilities, and sovereignty over the Strait of Hormuz, rejecting external timelines for peace."
+            },
+            "kn": {
+                "title": "ಇರಾನ್ ಯುಎಸ್ ಶಾಂತಿ ಯೋಜನೆ ತಿರಸ್ಕರಿಸಿದೆ, ತನ್ನದೇ ಷರತ್ತುಗಳನ್ನು ಮುಂದಿಟ್ಟಿದೆ",
+                "content": "ಇರಾನ್ ಯುಎಸ್‌ನ 15-ಸೂತ್ರಗಳ ಉದ್ವಿಗ್ನತೆ ಕಡಿಮೆಗೊಳಿಸುವ ಪ್ರಸ್ತಾವನೆಯನ್ನು ತಿರಸ್ಕರಿಸಿದೆ, \"ಟ್ರಂಪ್ ಯುದ್ಧದ ಅಂತ್ಯವನ್ನು ನಿರ್ಧರಿಸುವುದಿಲ್ಲ\" ಎಂದು ಸ್ಪಷ್ಟಪಡಿಸಿದೆ. ಟೆಹ್ರಾನ್ ತನ್ನದೇ ಆದ ಐದು ಪ್ರತಿದಾಳಿಗಳನ್ನು ಮುಂದಿಟ್ಟು, ತನ್ನದೇ ಆದ ನಿಯಮಗಳ ಮೇಲೆ ಸಂಘರ್ಷವನ್ನು ಕೊನೆಗೊಳಿಸಲು ಒತ್ತಾಯಿಸಿದೆ. ಇವುಗಳಲ್ಲಿ ದಾಳಿಗಳನ್ನು ನಿಲ್ಲಿಸುವುದು, ಭವಿಷ್ಯದ ಯುದ್ಧಗಳ ವಿರುದ್ಧ ಖಾತರಿಗಳು, ಯುದ್ಧದ ಹಾನಿ ಪರಿಹಾರ, ಪ್ರಾದೇಶಿಕ ಹಗೆತನಗಳ ಅಂತ್ಯ ಮತ್ತು ಹೋರ್ಮುಜ್ ಜಲಸಂಧಿಯ ಮೇಲೆ ಸಾರ್ವಭೌಮತ್ವ ಸೇರಿವೆ, ಶಾಂತಿಗಾಗಿ ಬಾಹ್ಯ ಸಮಯಾವಧಿಗಳನ್ನು ತಿರಸ್ಕರಿಸಿದೆ."
+            },
+            "mr": {
+                "title": "इराणने अमेरिकेचा शांतता प्रस्ताव फेटाळला, स्वतःच्या अटी ठेवल्या",
+                "content": "इराणने अमेरिकेच्या 15-कलमी तणाव कमी करण्याच्या प्रस्तावाला फेटाळून लावले आहे, ठामपणे म्हटले आहे की \"ट्रम्प युद्धाचा अंत ठरवणार नाहीत.\" तेहरान आपल्या स्वतःच्या अटींवर संघर्ष संपवण्याचा आग्रह धरत आहे आणि पाच प्रति-मागण्या सादर केल्या आहेत. यामध्ये हल्ले थांबवणे, भविष्यातील युद्धांविरुद्ध हमी, युद्धाच्या नुकसानीची भरपाई, प्रादेशिक शत्रुत्व संपुष्टात आणणे आणि होर्मुझच्या सामुद्रधुनीवरील सार्वभौमत्व यांचा समावेश आहे, शांततेसाठी बाह्य वेळापत्रक फेटाळले आहे."
+            },
+            "hi": {
+                "title": "ईरान ने अमेरिकी शांति योजना ठुकराई, अपनी शर्तें रखीं",
+                "content": "ईरान ने अमेरिका के 15-सूत्रीय तनाव-कम करने वाले प्रस्ताव को खारिज कर दिया है, दृढ़ता से कहा है कि \"ट्रंप युद्ध का अंत तय नहीं करेंगे।\" तेहरान अपने स्वयं के शर्तों पर संघर्ष समाप्त करने पर जोर दे रहा है, और पांच जवाबी मांगें पेश की हैं। इनमें हमलों को रोकना, भविष्य के युद्धों के खिलाफ गारंटी, युद्ध क्षतिपूर्ति, क्षेत्रीय शत्रुता का अंत और होर्मुज़ जलडमरूमध्य पर संप्रभुता शामिल है, शांति के लिए बाहरी समयसीमा को अस्वीकार करते हुए।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129805460,imgsize-1385032.cms",
+        "link": "https://timesofindia.indiatimes.com/world/middle-east/trump-will-not-dictate-end-of-war-iran-rejects-us-15-point-plan-counters-with-its-own-5-demands/articleshow/129804889.cms"
+    },
+    {
         "id": "b2ebb3a9",
         "category": "National",
         "translations": {
@@ -1870,53 +1918,5 @@
         },
         "image": "https://static.toiimg.com/photo/msid-129762250,imgsize-72748.cms",
         "link": "https://timesofindia.indiatimes.com/world/us/who-was-antoine-forest-one-of-2-air-canada-pilots-killed-in-laguardia-plane-crash-identified/articleshow/129762250.cms"
-    },
-    {
-        "id": "c9eb20fc",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "Florida Democrat's Bill Pushes Green Cards for TPS Holders",
-                "content": "A Florida Democrat has introduced a landmark bill to offer Green Cards to Temporary Protected Status (TPS) holders. This legislative push aims to create a permanent residency path for thousands of long-term residents living in the U.S. under TPS, igniting renewed debate on comprehensive immigration reform and their future."
-            },
-            "kn": {
-                "title": "ಫ್ಲೋರಿಡಾ ಡೆಮೋಕ್ರಾಟ್‌ನ ಮಸೂದೆ TPS ಹೊಂದಿರುವವರಿಗೆ ಗ್ರೀನ್ ಕಾರ್ಡ್‌ಗಳಿಗಾಗಿ ಒತ್ತಾಯ",
-                "content": "ಫ್ಲೋರಿಡಾ ಡೆಮೋಕ್ರಾಟ್ ತಾತ್ಕಾಲಿಕ ಸಂರಕ್ಷಿತ ಸ್ಥಿತಿ (TPS) ಹೊಂದಿರುವವರಿಗೆ ಗ್ರೀನ್ ಕಾರ್ಡ್‌ಗಳನ್ನು ನೀಡಲು ಮಹತ್ವದ ಮಸೂದೆಯನ್ನು ಪರಿಚಯಿಸಿದ್ದಾರೆ. ಈ ಶಾಸಕಾಂಗದ ಪ್ರಯತ್ನವು TPS ಅಡಿಯಲ್ಲಿ ಅಮೆರಿಕದಲ್ಲಿ ವಾಸಿಸುತ್ತಿರುವ ಸಾವಿರಾರು ದೀರ್ಘಕಾಲೀನ ನಿವಾಸಿಗಳಿಗೆ ಶಾಶ್ವತ ವಾಸಸ್ಥಳದ ಮಾರ್ಗವನ್ನು ಸೃಷ್ಟಿಸುವ ಗುರಿಯನ್ನು ಹೊಂದಿದೆ, ಸಮಗ್ರ ವಲಸೆ ಸುಧಾರಣೆ ಮತ್ತು ಅವರ ಭವಿಷ್ಯದ ಬಗ್ಗೆ ಹೊಸ ಚರ್ಚೆಯನ್ನು ಹುಟ್ಟುಹಾಕಿದೆ."
-            },
-            "mr": {
-                "title": "फ्लोरिडा डेमोक्रॅटचे विधेयक TPS धारकांसाठी ग्रीन कार्ड्सची मागणी करते",
-                "content": "एका फ्लोरिडा डेमोक्रॅटने तात्पुरत्या संरक्षित स्थिती (TPS) धारकांना ग्रीन कार्ड्स देणारे एक महत्त्वपूर्ण विधेयक सादर केले आहे. हा कायदेशीर प्रयत्न TPS अंतर्गत अमेरिकेत राहणाऱ्या हजारो दीर्घकाळच्या रहिवाशांसाठी कायमस्वरूपी निवासाचा मार्ग तयार करण्याचे उद्दिष्ट ठेवतो, ज्यामुळे व्यापक स्थलांतरण सुधारणा आणि त्यांच्या भविष्याबद्दल पुन्हा चर्चा सुरू झाली आहे."
-            },
-            "hi": {
-                "title": "फ्लोरिडा डेमोक्रेट का विधेयक TPS धारकों के लिए ग्रीन कार्ड्स पर जोर",
-                "content": "एक फ्लोरिडा डेमोक्रेट ने अस्थायी संरक्षित स्थिति (TPS) धारकों को ग्रीन कार्ड प्रदान करने के लिए एक ऐतिहासिक विधेयक पेश किया है। इस विधायी प्रयास का उद्देश्य TPS के तहत अमेरिका में रह रहे हजारों दीर्घकालिक निवासियों के लिए स्थायी निवास का मार्ग बनाना है, जिससे व्यापक आव्रजन सुधार और उनके भविष्य पर नए सिरे से बहस छिड़ गई है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129762248,imgsize-103106.cms",
-        "link": "https://timesofindia.indiatimes.com/world/us/give-green-cards-to-tps-holders-florida-democrat-introduces-new-bill-is-it-possible/articleshow/129762244.cms"
-    },
-    {
-        "id": "8c6bc598",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "Fatal Runway Collision Disrupts LaGuardia Flights",
-                "content": "LaGuardia Airport experienced major disruptions today following a fatal runway collision in New York. Hundreds of flights were canceled or delayed, significantly impacting operations. Travelers are urged to check their flight status and contact airlines as authorities investigate the tragic incident that has thrown one of NYC's busiest airports into chaos."
-            },
-            "kn": {
-                "title": "ಮಾರಣಾಂತಿಕ ರನ್‌ವೇ ಘರ್ಷಣೆ ಲಾಗಾರ್ಡಿಯಾ ವಿಮಾನಗಳನ್ನು ಅಸ್ತವ್ಯಸ್ತಗೊಳಿಸಿತು",
-                "content": "ನ್ಯೂಯಾರ್ಕ್‌ನಲ್ಲಿ ಮಾರಣಾಂತಿಕ ರನ್‌ವೇ ಘರ್ಷಣೆಯ ನಂತರ ಲಾಗಾರ್ಡಿಯಾ ವಿಮಾನ ನಿಲ್ದಾಣದಲ್ಲಿ ಇಂದು ಪ್ರಮುಖ ಅಡೆತಡೆಗಳುಂಟಾಗಿವೆ. ನೂರಾರು ವಿಮಾನಗಳು ರದ್ದುಗೊಂಡಿವೆ ಅಥವಾ ವಿಳಂಬವಾಗಿವೆ, ಕಾರ್ಯಾಚರಣೆಗಳಿಗೆ ಗಣನೀಯವಾಗಿ ಪರಿಣಾಮ ಬೀರಿವೆ. ಅಧಿಕಾರಿಗಳು ದುರಂತ ಘಟನೆಯನ್ನು ತನಿಖೆ ಮಾಡುತ್ತಿರುವಾಗ, ಪ್ರಯಾಣಿಕರು ತಮ್ಮ ವಿಮಾನದ ಸ್ಥಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಲು ಮತ್ತು ವಿಮಾನಯಾನ ಸಂಸ್ಥೆಗಳನ್ನು ಸಂಪರ್ಕಿಸಲು ಸೂಚಿಸಲಾಗಿದೆ, ಇದು NYC ಯ ಅತ್ಯಂತ ಜನನಿಬಿಡ ವಿಮಾನ ನಿಲ್ದಾಣಗಳಲ್ಲಿ ಒಂದನ್ನು ಗೊಂದಲಕ್ಕೀಡಾಗಿದೆ."
-            },
-            "mr": {
-                "title": "घातक धावपट्टी टक्कर, ला गार्डिया विमानसेवेला फटका",
-                "content": "न्यूयॉर्कमध्ये झालेल्या एका घातक धावपट्टी टक्करमुळे ला गार्डिया विमानतळावर आज मोठा व्यत्यय आला आहे. शेकडो विमानांच्या सेवा रद्द झाल्या किंवा उशिराने धावल्याने कामकाजावर लक्षणीय परिणाम झाला आहे. अधिकारी या दुःखद घटनेची चौकशी करत असल्याने प्रवाशांना त्यांच्या विमानाची स्थिती तपासण्याचे आणि एअरलाईन्सशी संपर्क साधण्याचे आवाहन करण्यात आले आहे, ज्यामुळे न्यूयॉर्कच्या सर्वात व्यस्त विमानतळांपैकी एकावर गोंधळाचे वातावरण निर्माण झाले आहे."
-            },
-            "hi": {
-                "title": "लागार्डिया उड़ानें बाधित: घातक रनवे टक्कर",
-                "content": "न्यूयॉर्क में एक घातक रनवे टक्कर के बाद आज लागार्डिया हवाई अड्डे पर बड़ी बाधाएं उत्पन्न हुई हैं। सैकड़ों उड़ानें रद्द या विलंबित हुईं, जिससे परिचालन बुरी तरह प्रभावित हुआ। यात्रियों से अपनी उड़ान की स्थिति जांचने और एयरलाइंस से संपर्क करने का आग्रह किया गया है, क्योंकि अधिकारी इस दुखद घटना की जांच कर रहे हैं, जिसने न्यूयॉर्क के सबसे व्यस्त हवाई अड्डों में से एक को अराजकता में डाल दिया है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129762098,imgsize-248412.cms",
-        "link": "https://timesofindia.indiatimes.com/world/us/is-laguardia-airport-open-hundreds-of-flights-disrupted-after-fatal-runway-collision-in-new-york/articleshow/129762098.cms"
     }
 ]
