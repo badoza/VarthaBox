@@ -1,5 +1,77 @@
 [
     {
+        "id": "d4eb8ae5",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Kashmiri Separatist Asiya Andrabi Gets Life Imprisonment",
+                "content": "A Delhi court sentenced Kashmiri separatist leader Asiya Andrabi to life imprisonment for conspiring against the state and plotting to secede Kashmir from India. Her associates, Sofi Fehmeeda and Nahida Nasreen, received 30-year sentences. The court emphasized that leniency would embolden secessionist aims, sending a strong message against anti-national activities."
+            },
+            "kn": {
+                "title": "ಕಾಶ್ಮೀರಿ ಪ್ರತ್ಯೇಕತಾವಾದಿ ಅಸಿಯಾ ಅಂದ್ರಬಿಗೆ ಜೀವಾವಧಿ ಶಿಕ್ಷೆ",
+                "content": "ದೆಹಲಿ ನ್ಯಾಯಾಲಯವು ಕಾಶ್ಮೀರಿ ಪ್ರತ್ಯೇಕತಾವಾದಿ ನಾಯಕಿ ಅಸಿಯಾ ಅಂದ್ರಬಿಗೆ ರಾಜ್ಯದ ವಿರುದ್ಧ ಪಿತೂರಿ ಮತ್ತು ಕಾಶ್ಮೀರವನ್ನು ಭಾರತದಿಂದ ಬೇರ್ಪಡಿಸಲು ಸಂಚು ರೂಪಿಸಿದ್ದಕ್ಕಾಗಿ ಜೀವಾವಧಿ ಶಿಕ್ಷೆ ವಿಧಿಸಿದೆ. ಆಕೆಯ ಸಹಚರರಾದ ಸೋಫಿ ಫೆಹ್ಮೀದಾ ಮತ್ತು ನಹೀದಾ ನಸ್ರೀನ್‌ಗೆ 30 ವರ್ಷಗಳ ಶಿಕ್ಷೆ ವಿಧಿಸಲಾಯಿತು. ಮೃದುತ್ವವು ಪ್ರತ್ಯೇಕತಾವಾದಿ ಉದ್ದೇಶಗಳನ್ನು ಪ್ರೋತ್ಸಾಹಿಸುತ್ತದೆ ಎಂದು ನ್ಯಾಯಾಲಯ ಒತ್ತಿಹೇಳಿತು, ರಾಷ್ಟ್ರವಿರೋಧಿ ಚಟುವಟಿಕೆಗಳ ವಿರುದ್ಧ ಬಲವಾದ ಸಂದೇಶವನ್ನು ಕಳುಹಿಸಿತು."
+            },
+            "mr": {
+                "title": "काश्मिरी फुटीरतावादी आसिया अंद्राबीला जन्मठेपेची शिक्षा",
+                "content": "दिल्ली न्यायालयाने काश्मिरी फुटीरतावादी नेत्या आसिया अंद्राबीला राज्याविरुद्ध कट रचल्याबद्दल आणि काश्मीरला भारतापासून वेगळे करण्याच्या कटाबद्दल जन्मठेपेची शिक्षा सुनावली. तिच्या सहकारी, सोफी फहमीदा आणि नाहिदा नसरीन यांना ३० वर्षांची शिक्षा झाली. न्यायालयाने जोर दिला की, नरमाईने फुटीरतावादी उद्दिष्टांना प्रोत्साहन मिळेल, ज्यामुळे देशविरोधी कारवायांविरोधात एक कडक संदेश दिला गेला."
+            },
+            "hi": {
+                "title": "कश्मीरी अलगाववादी आसिया अंद्राबी को उम्रकैद",
+                "content": "दिल्ली की एक अदालत ने कश्मीरी अलगाववादी नेता आसिया अंद्राबी को राज्य के खिलाफ साजिश रचने और कश्मीर को भारत से अलग करने की साजिश के लिए उम्रकैद की सजा सुनाई। उनकी सहयोगी, सोफी फेहमीदा और नाहिदा नसरीन को 30 साल की सजा मिली। अदालत ने जोर दिया कि नरमी से अलगाववादी उद्देश्यों को बढ़ावा मिलेगा, जिससे राष्ट्रविरोधी गतिविधियों के खिलाफ एक कड़ा संदेश गया।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129789168,imgsize-343300.cms",
+        "link": "https://timesofindia.indiatimes.com/india/kashmiri-separatist-andrabi-gets-life-term-2-aides-30-yrs/articleshow/129789161.cms"
+    },
+    {
+        "id": "f72694a2",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Rahul Slams Modi's Foreign Policy",
+                "content": "Rahul Gandhi slammed PM Modi's foreign policy as a 'universal joke' and 'compromised,' arguing it has diminished India's global standing. He questioned India's role, citing Pakistan's potential mediation in the Iran conflict, and stated Modi's personal approach leaves India without a clear stance on international issues, making parliamentary speeches 'irrelevant'."
+            },
+            "kn": {
+                "title": "ರಾಹುಲ್ ಮೋದಿ ವಿದೇಶಾಂಗ ನೀತಿಯನ್ನು ಟೀಕಿಸಿದರು",
+                "content": "ರಾಹುಲ್ ಗಾಂಧಿ ಪ್ರಧಾನಿ ಮೋದಿಯವರ ವಿದೇಶಾಂಗ ನೀತಿಯನ್ನು 'ಜಾಗತಿಕ ಹಾಸ್ಯ' ಮತ್ತು 'ಸಂಧಾನಿತ' ಎಂದು ತೀವ್ರವಾಗಿ ಟೀಕಿಸಿದ್ದಾರೆ. ಇದು ಭಾರತದ ಜಾಗತಿಕ ಸ್ಥಾನಮಾನವನ್ನು ಕಡಿಮೆ ಮಾಡಿದೆ ಎಂದು ಅವರು ವಾದಿಸಿದರು. ಇರಾನ್ ಸಂಘರ್ಷದಲ್ಲಿ ಪಾಕಿಸ್ತಾನದ ಸಂಭಾವ್ಯ ಮಧ್ಯಸ್ಥಿಕೆಯನ್ನು ಉಲ್ಲೇಖಿಸಿ, ಭಾರತದ ಪಾತ್ರವನ್ನು ಪ್ರಶ್ನಿಸಿದರು. ಮೋದಿಯವರ ವೈಯಕ್ತಿಕ ವಿಧಾನವು ಭಾರತವನ್ನು ಅಂತರರಾಷ್ಟ್ರೀಯ ವಿಷಯಗಳ ಬಗ್ಗೆ ಸ್ಪಷ್ಟ ನಿಲುವಿಲ್ಲದೆ ಮಾಡಿದೆ ಎಂದರು."
+            },
+            "mr": {
+                "title": "राहुलने मोदींच्या परराष्ट्र धोरणावर टीका केली",
+                "content": "राहुल गांधींनी पंतप्रधान मोदींच्या परराष्ट्र धोरणाला 'जागतिक विनोद' आणि 'तडजोड केलेले' असे संबोधत जोरदार टीका केली. यामुळे भारताचे जागतिक स्थान कमी झाले आहे, असे त्यांनी म्हटले. इराण संघर्षात पाकिस्तानच्या संभाव्य मध्यस्थीचा उल्लेख करत त्यांनी भारताच्या भूमिकेवर प्रश्नचिन्ह उपस्थित केले. मोदींच्या वैयक्तिक दृष्टिकोनामुळे भारताची आंतरराष्ट्रीय मुद्द्यांवर स्पष्ट भूमिका राहिलेली नाही, असेही ते म्हणाले."
+            },
+            "hi": {
+                "title": "राहुल ने मोदी की विदेश नीति पर साधा निशाना",
+                "content": "राहुल गांधी ने पीएम मोदी की विदेश नीति को 'विश्वव्यापी मज़ाक' और 'समझौतापूर्ण' बताते हुए कड़ी आलोचना की। उन्होंने तर्क दिया कि इसने भारत की वैश्विक स्थिति को कमजोर किया है। उन्होंने ईरान संघर्ष में पाकिस्तान की संभावित मध्यस्थता का हवाला देते हुए भारत की भूमिका पर सवाल उठाया। गांधी ने कहा कि मोदी के व्यक्तिगत दृष्टिकोण ने भारत को अंतरराष्ट्रीय मुद्दों पर स्पष्ट रुख के बिना छोड़ दिया है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129789118,imgsize-938697.cms",
+        "link": "https://timesofindia.indiatimes.com/india/pm-modis-foreign-policy-a-universal-joke-rahul/articleshow/129789109.cms"
+    },
+    {
+        "id": "8ba4ee9f",
+        "category": "Sports",
+        "translations": {
+            "en": {
+                "title": "DC's Reinforced Squad: Can They Deliver?",
+                "content": "Delhi Capitals strengthened their lower-middle order with Miller and explosive talents, with Axar Patel eyeing leadership. Concerns remain over historical crunch-situation struggles and Mitchell Starc's availability. A stable Powerplay opening is crucial to avoid slow starts. Can DC overcome these hurdles and deliver a winning season?"
+            },
+            "kn": {
+                "title": "ಡಿಸಿ ಬಲವರ್ಧಿತ ತಂಡ: ಅವರು ಗೆಲ್ಲಬಲ್ಲರೇ?",
+                "content": "ಡೆಲ್ಲಿ ಕ್ಯಾಪಿಟಲ್ಸ್ ಮಿಲ್ಲಿರ್ ಮತ್ತು ಸ್ಫೋಟಕ ಪ್ರತಿಭೆಗಳೊಂದಿಗೆ ತಮ್ಮ ಲೋವರ್-ಮಿಡಲ್ ಆರ್ಡರ್ ಅನ್ನು ಬಲಪಡಿಸಿದೆ, ಅಕ್ಷರ್ ಪಟೇಲ್ ನಾಯಕತ್ವದ ಕಡೆಗೆ ನೋಡುತ್ತಿದ್ದಾರೆ. ಐತಿಹಾಸಿಕ ಬಿಕ್ಕಟ್ಟಿನ ಪರಿಸ್ಥಿತಿಗಳಲ್ಲಿನ ಹೋರಾಟಗಳು ಮತ್ತು ಮಿಚೆಲ್ ಸ್ಟಾರ್ಕ್ ಲಭ್ಯತೆಯ ಬಗ್ಗೆ ಆತಂಕಗಳು ಉಳಿದಿವೆ. ನಿಧಾನಗತಿಯ ಆರಂಭವನ್ನು ತಪ್ಪಿಸಲು ಸ್ಥಿರ ಪವರ್‌ಪ್ಲೇ ಆರಂಭಿಕ ಪಾಲುದಾರಿಕೆ ನಿರ್ಣಾಯಕವಾಗಿದೆ. ಡಿಸಿ ಈ ಅಡೆತಡೆಗಳನ್ನು ನಿವಾರಿಸಿ ವಿಜೇತ ಋತುವನ್ನು ನೀಡಬಲ್ಲದೇ?"
+            },
+            "mr": {
+                "title": "डीसीचा सुदृढ संघ: ते विजय मिळवणार का?",
+                "content": "दिल्ली कॅपिटल्सने मिलर आणि स्फोटक प्रतिभावान खेळाडूंसह त्यांच्या लोअर-मिडल ऑर्डरला बळकट केले आहे, तर अक्षर पटेल नेतृत्वाकडे लक्ष देत आहेत. निर्णायक परिस्थितीत ऐतिहासिक संघर्ष आणि मिचेल स्टार्कच्या उपलब्धतेबद्दल चिंता कायम आहे. संथ सुरुवात टाळण्यासाठी स्थिर पॉवरप्ले सलामीची भागीदारी महत्त्वपूर्ण आहे. डीसी या अडचणींवर मात करून विजयी हंगाम देऊ शकेल का?"
+            },
+            "hi": {
+                "title": "डीसी का सुदृढ़ दस्ता: क्या वे सफल हो पाएंगे?",
+                "content": "दिल्ली कैपिटल्स ने मिलर और विस्फोटक प्रतिभाओं के साथ अपने निचले-मध्य क्रम को मजबूत किया है, और अक्षर पटेल नेतृत्व की भूमिका पर नजर गड़ाए हुए हैं। महत्वपूर्ण परिस्थितियों में ऐतिहासिक संघर्ष और मिशेल स्टार्क की उपलब्धता को लेकर चिंताएं बनी हुई हैं। धीमी शुरुआत से बचने के लिए एक स्थिर पावरप्ले सलामी साझेदारी महत्वपूर्ण है। क्या डीसी इन बाधाओं को पार कर एक विजयी सीज़न दे पाएगा?"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129790582,imgsize-147408.cms",
+        "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/delhi-capitals-swot-reinforced-squad-balanced-core-can-dc-deliver/articleshow/129790585.cms"
+    },
+    {
         "id": "b7d9ca65",
         "category": "National",
         "translations": {
