@@ -1,5 +1,29 @@
 [
     {
+        "id": "b9c39fd0",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "SC: Singing 'Vande Mataram' Not Compulsory, Dismisses Plea",
+                "content": "The Supreme Court dismissed a petition challenging the Centre's circular for schools to begin the day with 'Vande Mataram'. Filed by Raza Academy, the plea argued compelling students to sing the national song, invoking Hindu deities, infringes religious freedom. The SC observed that singing 'Vande Mataram' is not mandatory, effectively upholding the circular while reiterating its optional nature."
+            },
+            "kn": {
+                "title": "SC: 'ವಂದೇ ಮಾತರಂ' ಹಾಡುವುದು ಕಡ್ಡಾಯವಲ್ಲ, ಅರ್ಜಿಯನ್ನು ವಜಾಗೊಳಿಸಿದೆ",
+                "content": "ಸುಪ್ರೀಂ ಕೋರ್ಟ್ ಶಾಲೆಗಳಲ್ಲಿ ದಿನವನ್ನು 'ವಂದೇ ಮಾತರಂ'ನೊಂದಿಗೆ ಪ್ರಾರಂಭಿಸುವಂತೆ ಕೇಂದ್ರದ ಸುತ್ತೋಲೆಯನ್ನು ಪ್ರಶ್ನಿಸಿ ಸಲ್ಲಿಸಿದ್ದ ಅರ್ಜಿಯನ್ನು ವಜಾಗೊಳಿಸಿದೆ. ರಝಾ ಅಕಾಡೆಮಿಯು ಸಲ್ಲಿಸಿದ್ದ ಈ ಅರ್ಜಿಯಲ್ಲಿ, ಹಿಂದೂ ದೇವತೆಗಳನ್ನು ಆವಾಹಿಸುವ ರಾಷ್ಟ್ರಗೀತೆಯನ್ನು ಹಾಡಲು ವಿದ್ಯಾರ್ಥಿಗಳನ್ನು ಕಡ್ಡಾಯಗೊಳಿಸುವುದು ಧಾರ್ಮಿಕ ಸ್ವಾತಂತ್ರ್ಯವನ್ನು ಉಲ್ಲಂಘಿಸುತ್ತದೆ ಎಂದು ವಾದಿಸಲಾಗಿತ್ತು. 'ವಂದೇ ಮಾತರಂ' ಹಾಡುವುದು ಕಡ್ಡಾಯವಲ್ಲ ಎಂದು ಸುಪ್ರೀಂ ಕೋರ್ಟ್ ಗಮನಿಸಿದೆ, ಸುತ್ತೋಲೆಯನ್ನು ಎತ್ತಿಹಿಡಿದು ಅದರ ಐಚ್ಛಿಕ ಸ್ವರೂಪವನ್ನು ಪುನರುಚ್ಚರಿಸಿದೆ."
+            },
+            "mr": {
+                "title": "सर्वोच्च न्यायालय: 'वंदे मातरम' गाणे अनिवार्य नाही, याचिका फेटाळली",
+                "content": "शाळांमध्ये दिवसाची सुरुवात 'वंदे मातरम'ने करण्याच्या केंद्राच्या परिपत्रकाला आव्हान देणारी याचिका सर्वोच्च न्यायालयाने फेटाळली. रझा अकादमीने दाखल केलेल्या या याचिकेत, हिंदू देवतांचा उल्लेख असलेले राष्ट्रगीत गाण्यास विद्यार्थ्यांना सक्ती करणे धार्मिक स्वातंत्र्याचे उल्लंघन करते, असा युक्तिवाद करण्यात आला होता. सर्वोच्च न्यायालयाने 'वंदे मातरम' गाणे अनिवार्य नसल्याचे निरीक्षण नोंदवत, परिपत्रकाला कायम ठेवले आणि त्याचे ऐच्छिक स्वरूप पुन्हा सांगितले."
+            },
+            "hi": {
+                "title": "सुप्रीम कोर्ट: 'वंदे मातरम' गाना अनिवार्य नहीं, याचिका खारिज",
+                "content": "सुप्रीम कोर्ट ने स्कूलों में दिन की शुरुआत 'वंदे मातरम' से करने के केंद्र के सर्कुलर को चुनौती देने वाली याचिका खारिज कर दी। रज़ा अकादमी द्वारा दायर याचिका में तर्क दिया गया था कि हिंदू देवी-देवताओं का आह्वान करने वाले राष्ट्रगीत को गाने के लिए छात्रों को मजबूर करना धार्मिक स्वतंत्रता का उल्लंघन है। सुप्रीम कोर्ट ने कहा कि 'वंदे मातरम' गाना अनिवार्य नहीं है, जिससे सर्कुलर को बरकरार रखते हुए इसकी ऐच्छिक प्रकृति की पुष्टि हुई।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129813787,imgsize-1114500.cms",
+        "link": "https://timesofindia.indiatimes.com/india/its-not-must-sc-nixes-plea-against-vande-circular/articleshow/129813783.cms"
+    },
+    {
         "id": "71113db9",
         "category": "National",
         "translations": {
@@ -1894,29 +1918,5 @@
         },
         "image": "https://static.toiimg.com/photo/msid-129767267,imgsize-27758.cms",
         "link": "https://timesofindia.indiatimes.com/india/congress-mp-sukhdeo-bhagat-slams-pm-modis-one-way-address-on-west-asia-conflict/articleshow/129766883.cms"
-    },
-    {
-        "id": "0cf70982",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Gopinath: Geopolitics Shapes Global Policy",
-                "content": "Economist Gita Gopinath asserts geopolitics is an inescapable, permanent force dictating global policy. She highlights its constant influence on international relations, trade, and economic strategies, urging nations to always factor in geopolitical realities. Her insight emphasizes the intricate, unchanging link between power dynamics and worldwide governance, essential for crafting effective global approaches."
-            },
-            "kn": {
-                "title": "ಗೋಪಿನಾಥ್: ಭೂರಾಜಕೀಯ ಜಾಗತಿಕ ನೀತಿ ರೂಪಿಸುತ್ತದೆ",
-                "content": "ಅರ್ಥಶಾಸ್ತ್ರಜ್ಞೆ ಗೀತಾ ಗೋಪಿನಾಥ್ ಭೂರಾಜಕೀಯವು ಜಾಗತಿಕ ನೀತಿಯನ್ನು ನಿರ್ದೇಶಿಸುವ ಅನಿವಾರ್ಯ, ಶಾಶ್ವತ ಶಕ್ತಿ ಎಂದು ಪ್ರತಿಪಾದಿಸುತ್ತಾರೆ. ಇದು ಅಂತರರಾಷ್ಟ್ರೀಯ ಸಂಬಂಧಗಳು, ವ್ಯಾಪಾರ ಮತ್ತು ಆರ್ಥಿಕ ಕಾರ್ಯತಂತ್ರಗಳ ಮೇಲೆ ನಿರಂತರ ಪ್ರಭಾವ ಬೀರುತ್ತದೆ, ರಾಷ್ಟ್ರಗಳು ಯಾವಾಗಲೂ ಭೂರಾಜಕೀಯ ವಾಸ್ತವಗಳನ್ನು ಗಣನೆಗೆ ತೆಗೆದುಕೊಳ್ಳುವಂತೆ ಒತ್ತಾಯಿಸುತ್ತದೆ. ಅವರ ಒಳನೋಟವು ಅಧಿಕಾರದ ಡೈನಾಮಿಕ್ಸ್ ಮತ್ತು ವಿಶ್ವಾದ್ಯಂತ ಆಡಳಿತದ ನಡುವಿನ ಜಟಿಲ, ಬದಲಾಗದ ಸಂಪರ್ಕವನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ, ಪರಿಣಾಮಕಾರಿ ಜಾಗತಿಕ ವಿಧಾನಗಳನ್ನು ರೂಪಿಸಲು ಅವಶ್ಯಕವಾಗಿದೆ."
-            },
-            "mr": {
-                "title": "गोपीनाथ: भूराजकारण जागतिक धोरण ठरवते",
-                "content": "अर्थतज्ज्ञ गीता गोपीनाथ यांच्या मते, भूराजकारण ही जागतिक धोरणे ठरवणारी एक अपरिहार्य, कायमस्वरूपी शक्ती आहे. आंतरराष्ट्रीय संबंध, व्यापार आणि आर्थिक धोरणांवर याचा सततचा प्रभाव असतो, त्यामुळे राष्ट्रांनी भूराजकीय वास्तवांचा नेहमी विचार करावा असे त्या आवाहन करतात. त्यांचे मत सत्ता समीकरणे आणि जागतिक प्रशासनामधील गुंतागुंतीचा, न बदलणारा दुवा दर्शवते, जो प्रभावी जागतिक दृष्टिकोन तयार करण्यासाठी आवश्यक आहे."
-            },
-            "hi": {
-                "title": "गोपीनाथ: भू-राजनीति वैश्विक नीति तय करती है",
-                "content": "अर्थशास्त्री गीता गोपीनाथ का मानना है कि भू-राजनीति वैश्विक नीति निर्धारित करने वाली एक अपरिहार्य, स्थायी शक्ति है। वह अंतरराष्ट्रीय संबंधों, व्यापार और आर्थिक रणनीतियों पर इसके निरंतर प्रभाव को उजागर करती हैं, राष्ट्रों से हमेशा भू-राजनीतिक वास्तविकताओं को ध्यान में रखने का आग्रह करती हैं। उनकी यह अंतर्दृष्टि सत्ता की गतिशीलता और विश्वव्यापी शासन के बीच के जटिल, अपरिवर्तनीय संबंध पर जोर देती है, जो प्रभावी वैश्विक दृष्टिकोणों के लिए आवश्यक है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129766540,imgsize-1065519.cms",
-        "link": "https://timesofindia.indiatimes.com/india/geopolitics-is-a-permanent-force-in-global-policy-feels-economist-gita-gopinath/articleshow/129766562.cms"
     }
 ]
