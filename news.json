@@ -1,5 +1,77 @@
 [
     {
+        "id": "0eb36200",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Congress Jabs Jaishankar Over 'Broker Nation' Remark",
+                "content": "Congress slammed EAM Jaishankar's 'India isn't a broker nation' remark, recalling PM Modi's past Russia-Ukraine mediation. Accusing the government of 'selective brokering,' the opposition questioned its diplomatic stance and demanded a parliamentary debate on the West Asia crisis, expressing dissatisfaction with its current approach to global conflicts."
+            },
+            "kn": {
+                "title": "ಜೈಶಂಕರ್ ಅವರ 'ದಲಾಲ್ ರಾಷ್ಟ್ರ' ಹೇಳಿಕೆ ಬಗ್ಗೆ ಕಾಂಗ್ರೆಸ್ ಚಾಟಿ ಬೀಸಿದೆ",
+                "content": "ವಿದೇಶಾಂಗ ಸಚಿವ ಜೈಶಂಕರ್ ಅವರ 'ಭಾರತ ದಲಾಲ್ ರಾಷ್ಟ್ರವಲ್ಲ' ಹೇಳಿಕೆಗೆ ಕಾಂಗ್ರೆಸ್ ತೀವ್ರ ಆಕ್ಷೇಪ ವ್ಯಕ್ತಪಡಿಸಿದೆ. ಪ್ರಧಾನಿ ಮೋದಿ ರಷ್ಯಾ-ಉಕ್ರೇನ್ ಮಧ್ಯಸ್ಥಿಕೆ ಪ್ರಯತ್ನಗಳನ್ನು ಸ್ಮರಿಸಿದೆ. ಸರ್ಕಾರವನ್ನು 'ಆಯ್ದ ಮಧ್ಯಸ್ಥಿಕೆ' ಎಂದು ಆರೋಪಿಸಿ, ವಿರೋಧ ಪಕ್ಷ ಅದರ ರಾಜತಾಂತ್ರಿಕ ನಿಲುವನ್ನು ಪ್ರಶ್ನಿಸಿತು. ಪಶ್ಚಿಮ ಏಷ್ಯಾ ಬಿಕ್ಕಟ್ಟಿನ ಕುರಿತು ಸಂಸದೀಯ ಚರ್ಚೆಗೆ ಒತ್ತಾಯಿಸಿ, ಜಾಗತಿಕ ಸಂಘರ್ಷಗಳಿಗೆ ಪ್ರಸ್ತುತ ವಿಧಾನದ ಬಗ್ಗೆ ಅಸಮಾಧಾನ ವ್ಯಕ್ತಪಡಿಸಿತು."
+            },
+            "mr": {
+                "title": "'दलाल राष्ट्र' टीकेवरून काँग्रेसने जयशंकर यांना टोला लगावला",
+                "content": "परराष्ट्र मंत्री जयशंकर यांच्या 'भारत दलाल राष्ट्र नाही' या वक्तव्यावर काँग्रेसने जोरदार टीका केली. त्यांनी पंतप्रधान मोदींच्या रशिया-युक्रेनमधील मध्यस्थीच्या पूर्वीच्या प्रयत्नांची आठवण करून दिली. सरकारवर 'निवडक दलाली'चा आरोप करत, विरोधकांनी त्याच्या राजनैतिक भूमिकेवर प्रश्नचिन्ह उपस्थित केले. पश्चिम आशिया संकटावर संसदीय चर्चेची मागणी करत, जागतिक संघर्षांवरील सरकारच्या सध्याच्या दृष्टिकोनाबद्दल त्यांनी असमाधान व्यक्त केले."
+            },
+            "hi": {
+                "title": "'दलाल राष्ट्र' टिप्पणी पर कांग्रेस का जयशंकर पर वार",
+                "content": "कांग्रेस ने विदेश मंत्री जयशंकर की 'भारत दलाल राष्ट्र नहीं है' टिप्पणी की निंदा की. उसने पीएम मोदी के रूस-यूक्रेन मध्यस्थता के पिछले प्रयासों को याद दिलाया. सरकार पर 'चयनात्मक दलाली' का आरोप लगाते हुए, विपक्ष ने उसकी राजनयिक स्थिति पर सवाल उठाया. पश्चिम एशिया संकट पर संसदीय बहस की मांग करते हुए, उसने वैश्विक संघर्षों के प्रति उसके मौजूदा दृष्टिकोण पर असंतोष व्यक्त किया."
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129806644,imgsize-69442.cms",
+        "link": "https://timesofindia.indiatimes.com/india/desperate-to-mediate-russia-ukraine-congress-takes-selective-brokering-jab-at-jaishankar-over-dalaal-remark/articleshow/129806351.cms"
+    },
+    {
+        "id": "0f64dbc3",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Victim's Mother Contests Bengal Polls Seeking Justice",
+                "content": "Ratna Debnath, mother of the RG Kar Medical College rape and murder victim, has secured a BJP ticket for the West Bengal Assembly elections from Panihati. Her decision to contest aims to achieve justice for her daughter and advocate for broader women's safety. This move by the BJP has ignited discussions among activists, framing the election as a battle for accountability and protection."
+            },
+            "kn": {
+                "title": "ನ್ಯಾಯಕ್ಕಾಗಿ ಬಂಗಾಳ ಚುನಾವಣೆಗೆ ಇಳಿದ ಸಂತ್ರಸ್ತೆಯ ತಾಯಿ",
+                "content": "ಆರ್‌ಜಿ ಕಾರ್ ವೈದ್ಯಕೀಯ ಕಾಲೇಜು ಅತ್ಯಾಚಾರ ಮತ್ತು ಕೊಲೆ ಪ್ರಕರಣದ ಸಂತ್ರಸ್ತೆಯ ತಾಯಿ ರತ್ನ ದೇಬನಾಥ್ ಅವರು ಪಾಣಿಹಾಟಿ ಕ್ಷೇತ್ರದಿಂದ ಪಶ್ಚಿಮ ಬಂಗಾಳ ವಿಧಾನಸಭಾ ಚುನಾವಣೆಗೆ ಬಿಜೆಪಿ ಟಿಕೆಟ್ ಪಡೆದಿದ್ದಾರೆ. ತಮ್ಮ ಮಗಳಿಗೆ ನ್ಯಾಯ ಒದಗಿಸಲು ಮತ್ತು ಮಹಿಳೆಯರ ಸುರಕ್ಷತೆಗಾಗಿ ಹೋರಾಡಲು ಅವರ ಈ ನಿರ್ಧಾರ. ಬಿಜೆಪಿಯ ಈ ನಡೆ ಕಾರ್ಯಕರ್ತರ ನಡುವೆ ಚರ್ಚೆಯನ್ನು ಹುಟ್ಟುಹಾಕಿದ್ದು, ಚುನಾವಣೆಯನ್ನು ಹೊಣೆಗಾರಿಕೆ ಮತ್ತು ರಕ್ಷಣೆಯ ಯುದ್ಧವನ್ನಾಗಿ ರೂಪಿಸಿದೆ."
+            },
+            "mr": {
+                "title": "न्यायासाठी बंगाळ निवडणुकीत पीडितेच्या आईचा सहभाग",
+                "content": "आरजी कार मेडिकल कॉलेज बलात्कार आणि हत्या पीडित मुलीची आई रत्ना देबनाथ यांना पश्चिम बंगाल विधानसभा निवडणुकीसाठी पाणिहाटीतून भाजपचे तिकीट मिळाले आहे. आपल्या मुलीसाठी न्याय मिळवण्यासाठी आणि व्यापक महिला सुरक्षेसाठी लढण्याचा त्यांचा निर्णय आहे. भाजपच्या या पावलामुळे कार्यकर्त्यांमध्ये चर्चा सुरू झाली आहे, ज्यामध्ये निवडणूक ही जबाबदारी आणि संरक्षणाची लढाई म्हणून पाहिली जात आहे."
+            },
+            "hi": {
+                "title": "न्याय की खातिर बंगाल चुनाव लड़ेंगी पीड़िता की माँ",
+                "content": "आरजी कार मेडिकल कॉलेज बलात्कार और हत्या पीड़िता की माँ रत्ना देबनाथ को पानीहाटी से पश्चिम बंगाल विधानसभा चुनाव के लिए भाजपा का टिकट मिला है। चुनाव लड़ने का उनका निर्णय अपनी बेटी के लिए न्याय प्राप्त करने और व्यापक महिला सुरक्षा की वकालत करने के उद्देश्य से है। भाजपा के इस कदम ने कार्यकर्ताओं के बीच बहस छेड़ दी है, जो चुनाव को जवाबदेही और सुरक्षा की लड़ाई के रूप में देख रहे हैं।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129805773,imgsize-153514.cms",
+        "link": "https://timesofindia.indiatimes.com/india/west-bengal-polls-rg-kar-victims-mother-ratna-debnath-gets-bjp-ticket-from-panihati/articleshow/129804969.cms"
+    },
+    {
+        "id": "fd8a03a1",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Reports Affirm India's Rise as Global AI Hub",
+                "content": "New reports by Indiaspora and Zinnov affirm India's burgeoning role as a global AI hub. They detail AI's transformative impact on startups and Global Capability Centers (GCCs), driving innovation and compelling GCCs to evolve from execution to co-creation. India's unique advantages are crucial in navigating this AI-powered shift, preventing displacement."
+            },
+            "kn": {
+                "title": "ಜಾಗತಿಕ AI ಕೇಂದ್ರವಾಗಿ ಭಾರತದ ಉನ್ನತಿ: ವರದಿಗಳು ದೃಢಪಡಿಸುತ್ತವೆ",
+                "content": "ಇಂಡಿಯಾಸ್ಪೋರಾ ಮತ್ತು ಜಿನ್ನೋವ್‌ನ ಹೊಸ ವರದಿಗಳು ಭಾರತವು ಜಾಗತಿಕ AI ಕೇಂದ್ರವಾಗಿ ಬೆಳೆಯುತ್ತಿರುವ ಪಾತ್ರವನ್ನು ದೃಢಪಡಿಸುತ್ತವೆ. ಅವು AI ಸ್ಟಾರ್ಟ್‌ಅಪ್‌ಗಳು ಮತ್ತು ಗ್ಲೋಬಲ್ ಕ್ಯಾಪಬಿಲಿಟಿ ಸೆಂಟರ್‌ಗಳ (GCCs) ಮೇಲೆ ಬೀರುವ ಪರಿವರ್ತಕ ಪರಿಣಾಮವನ್ನು ವಿವರಿಸುತ್ತವೆ, ನಾವೀನ್ಯತೆಯನ್ನು ಪ್ರೇರೇಪಿಸುತ್ತವೆ ಮತ್ತು GCC ಗಳನ್ನು ಕಾರ್ಯಗತಗೊಳಿಸುವುದರಿಂದ ಸಹ-ರಚನೆಗೆ ವಿಕಸಿಸಲು ಒತ್ತಾಯಿಸುತ್ತವೆ. ಈ AI-ಚಾಲಿತ ಬದಲಾವಣೆಯನ್ನು ನ್ಯಾವಿಗೇಟ್ ಮಾಡಲು, ಸ್ಥಳಾಂತರವನ್ನು ತಡೆಗಟ್ಟಲು ಭಾರತದ ವಿಶಿಷ್ಟ ಅನುಕೂಲಗಳು ನಿರ್ಣಾಯಕವಾಗಿವೆ."
+            },
+            "mr": {
+                "title": "भारताचा जागतिक AI केंद्र म्हणून उदय: अहवाल पुष्टी करतात",
+                "content": "इंडिआस्पोरा आणि झिन्नोव्हच्या नवीन अहवालांनी भारताची जागतिक AI केंद्र म्हणून वाढती भूमिका निश्चित केली आहे. ते स्टार्टअप्स आणि ग्लोबल कॅपॅबिलिटी सेंटर्स (GCCs) वर AI च्या परिवर्तनात्मक परिणामाचे तपशील देतात, ज्यामुळे नवोपक्रम वाढतो आणि GCCs ना केवळ अंमलबजावणीऐवजी सह-निर्मितीकडे वळण्यास भाग पाडते. या AI-शक्तीशाली बदलामध्ये, विस्थापन टाळण्यासाठी भारताचे अद्वितीय फायदे महत्त्वाचे आहेत."
+            },
+            "hi": {
+                "title": "भारत का वैश्विक AI हब के रूप में उदय: रिपोर्टों की पुष्टि",
+                "content": "इंडियास्पोरा और ज़िन्नोव की नई रिपोर्टें भारत की वैश्विक AI हब के रूप में बढ़ती भूमिका की पुष्टि करती हैं। वे स्टार्टअप्स और ग्लोबल कैपेबिलिटी सेंटर्स (GCCs) पर AI के परिवर्तनकारी प्रभाव का विस्तार से वर्णन करती हैं, नवाचार को बढ़ावा देती हैं और GCCs को निष्पादन से सह-निर्माण की ओर विकसित होने के लिए मजबूर करती हैं। इस AI-संचालित बदलाव में, विस्थापन को रोकने के लिए भारत के अद्वितीय लाभ महत्वपूर्ण हैं।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129805076,imgsize-25468.cms",
+        "link": "https://timesofindia.indiatimes.com/india/indiaspora-and-zinnov-release-reports-on-indias-ai-start-ups-and-gccs/articleshow/129804287.cms"
+    },
+    {
         "id": "d64fc086",
         "category": "National",
         "translations": {
@@ -1846,77 +1918,5 @@
         },
         "image": "https://static.toiimg.com/photo/msid-129765588,imgsize-1765100.cms",
         "link": "https://timesofindia.indiatimes.com/world/middle-east/israels-missile-defence-under-scrutiny-after-iran-strikes-nuke-research-facility/articleshow/129765577.cms"
-    },
-    {
-        "id": "2aa81e7a",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "Air Canada Plane Hits Fire Truck at LaGuardia",
-                "content": "A startling video captures an Air Canada plane colliding with a fire truck at LaGuardia Airport. The Boeing 737 Max jet was involved in the ground collision, but thankfully, no injuries were reported. This unusual incident has prompted an investigation into airport safety protocols, raising concerns about ground operations."
-            },
-            "kn": {
-                "title": "ಏರ್ ಕೆನಡಾ ವಿಮಾನ ಲಾಗಾರ್ಡಿಯಾದಲ್ಲಿ ಅಗ್ನಿಶಾಮಕ ಟ್ರಕ್‌ಗೆ ಡಿಕ್ಕಿ",
-                "content": "ಲಾಗಾರ್ಡಿಯಾ ವಿಮಾನ ನಿಲ್ದಾಣದಲ್ಲಿ ಏರ್ ಕೆನಡಾ ವಿಮಾನ ಅಗ್ನಿಶಾಮಕ ಟ್ರಕ್‌ಗೆ ಡಿಕ್ಕಿ ಹೊಡೆದ ಆಘಾತಕಾರಿ ದೃಶ್ಯವನ್ನು ವೀಡಿಯೊ ಸೆರೆಹಿಡಿದಿದೆ. ಬೋಯಿಂಗ್ 737 ಮ್ಯಾಕ್ಸ್ ಜೆಟ್ ನೆಲದ ಡಿಕ್ಕಿಯಲ್ಲಿ ಭಾಗಿಯಾಗಿತ್ತು, ಆದರೆ ಅದೃಷ್ಟವಶಾತ್, ಯಾವುದೇ ಗಾಯಗಳು ವರದಿಯಾಗಿಲ್ಲ. ಈ ಅಸಾಮಾನ್ಯ ಘಟನೆಯು ವಿಮಾನ ನಿಲ್ದಾಣದ ಸುರಕ್ಷತಾ ಪ್ರೋಟೋಕಾಲ್‌ಗಳ ಬಗ್ಗೆ ತನಿಖೆಗೆ ಕಾರಣವಾಗಿದೆ, ನೆಲದ ಕಾರ್ಯಾಚರಣೆಗಳ ಬಗ್ಗೆ ಕಾಳಜಿ ಹೆಚ್ಚಿಸಿದೆ."
-            },
-            "mr": {
-                "title": "लागार्डिया विमानतळावर एअर कॅनडा विमानाची अग्निशमन दलाच्या ट्रकशी धडक",
-                "content": "लागार्डिया विमानतळावर एअर कॅनडा विमानाची अग्निशमन दलाच्या ट्रकशी धडक झाल्याचा धक्कादायक व्हिडिओ समोर आला आहे. बोईंग ७३७ मॅक्स जेट या जमिनीवरील धडकेत सामील होते, सुदैवाने कोणतीही दुखापत झाली नाही. या असामान्य घटनेमुळे विमानतळाच्या सुरक्षा नियमावलीची चौकशी सुरू झाली आहे, ज्यामुळे जमिनीवरील कामकाजाबद्दल चिंता वाढली आहे."
-            },
-            "hi": {
-                "title": "लागार्डिया में एयर कनाडा विमान की फायर ट्रक से टक्कर",
-                "content": "लागार्डिया एयरपोर्ट पर एयर कनाडा के एक विमान की फायर ट्रक से टक्कर का चौंकाने वाला वीडियो सामने आया है। इस जमीनी टक्कर में बोइंग 737 मैक्स जेट शामिल था, लेकिन गनीमत रही कि कोई हताहत नहीं हुआ। इस असामान्य घटना ने एयरपोर्ट सुरक्षा प्रोटोकॉल की जांच शुरू कर दी है, जिससे जमीनी संचालन को लेकर चिंताएं बढ़ गई हैं।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129767028,imgsize-2970380.cms",
-        "link": "https://timesofindia.indiatimes.com/world/us/video-captures-moment-air-canada-plane-collides-with-fire-truck-at-laguardia-airport-pilot-co-pilot-killed/articleshow/129766725.cms"
-    },
-    {
-        "id": "4b242a27",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "Donna Motsinger Awarded $19M in Cosby Sexual Assault Case",
-                "content": "Donna Motsinger has been awarded $19 million by a jury that found Bill Cosby liable for sexual assault stemming from a 1972 incident. The verdict brings a measure of justice to Motsinger, who sued Cosby for the decades-old assault. This follows Cosby's prior conviction being overturned, highlighting the ongoing legal battles surrounding the disgraced comedian."
-            },
-            "kn": {
-                "title": "ಕಾಸ್ಬಿ ಲೈಂಗಿಕ ದೌರ್ಜನ್ಯ ಪ್ರಕರಣದಲ್ಲಿ ಡೊನ್ನಾ ಮೋಟ್ಸಿಂಗರ್​ಗೆ $19 ಮಿಲಿಯನ್ ಪರಿಹಾರ",
-                "content": "1972ರ ಲೈಂಗಿಕ ದೌರ್ಜನ್ಯ ಪ್ರಕರಣದಲ್ಲಿ ಬಿಲ್ ಕಾಸ್ಬಿಯನ್ನು ಹೊಣೆಗಾರನೆಂದು ಜ್ಯೂರಿ ತೀರ್ಪು ನೀಡಿದ ನಂತರ ಡೊನ್ನಾ ಮೋಟ್ಸಿಂಗರ್ ಅವರಿಗೆ $19 ಮಿಲಿಯನ್ ಪರಿಹಾರ ದೊರೆತಿದೆ. ದಶಕಗಳಷ್ಟು ಹಳೆಯ ದೌರ್ಜನ್ಯಕ್ಕಾಗಿ ಕಾಸ್ಬಿ ವಿರುದ್ಧ ಮೊಕದ್ದಮೆ ಹೂಡಿದ್ದ ಮೋಟ್ಸಿಂಗರ್ ಅವರಿಗೆ ಈ ತೀರ್ಪು ನ್ಯಾಯವನ್ನು ತಂದಿದೆ. ಕಾಸ್ಬಿಯ ಹಿಂದಿನ ಅಪರಾಧ ತೀರ್ಪು ರದ್ದಾಗಿದ್ದರೂ, ಅಪಖ್ಯಾತ ಹಾಸ್ಯನಟನ ಸುತ್ತಲಿನ ಕಾನೂನು ಹೋರಾಟಗಳು ಮುಂದುವರಿದಿರುವುದನ್ನು ಇದು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "कॉस्बी लैंगिक अत्याचार प्रकरणात डोना मोत्सिंगर यांना $19 दशलक्ष मंजूर",
-                "content": "1972 च्या लैंगिक अत्याचार प्रकरणात बिल कॉस्बीला दोषी ठरवणाऱ्या ज्युरीने डोना मोत्सिंगर यांना $19 दशलक्ष मंजूर केले आहेत. दशकांपूर्वीच्या या अत्याचारासाठी कॉस्बीवर खटला दाखल करणाऱ्या मोत्सिंगर यांना या निर्णयातून न्याय मिळाला आहे. कॉस्बीची पूर्वीची शिक्षा रद्द झाल्यानंतरही, या अपमानास्पद विनोदी कलाकाराभोवतीचे कायदेशीर लढे सुरूच असल्याचे यातून दिसून येते."
-            },
-            "hi": {
-                "title": "कॉस्बी यौन उत्पीड़न मामले में डोना मोत्सिंगर को $19 मिलियन मिले",
-                "content": "1972 के यौन उत्पीड़न मामले में बिल कॉस्बी को जिम्मेदार ठहराने वाली जूरी द्वारा डोना मोत्सिंगर को $19 मिलियन का मुआवजा दिया गया है। दशकों पुराने इस उत्पीड़न के लिए कॉस्बी पर मुकदमा करने वाली मोत्सिंगर को इस फैसले से न्याय मिला है। यह कॉस्बी की पिछली सजा को पलटने के बाद आया है, जो अपमानित हास्य अभिनेता के इर्द-गिर्द चल रही कानूनी लड़ाइयों को उजागर करता है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129762175,imgsize-123998.cms",
-        "link": "https://timesofindia.indiatimes.com/world/us/who-is-donna-motsinger-woman-awarded-19-million-after-jury-finds-bill-cosby-liable-in-1972-sexual-assault-case/articleshow/129762175.cms"
-    },
-    {
-        "id": "2ac160a1",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "Air Canada Pilot Killed in LaGuardia Crash",
-                "content": "Antoine Forest, an Air Canada pilot, tragically lost his life in a recent crash at New York's LaGuardia Airport. The incident involved an Air Canada aircraft, prompting immediate investigations into the cause of the fatal accident. Forest's death serves as a somber reminder of aviation's inherent risks, raising critical questions about flight safety and operational procedures."
-            },
-            "kn": {
-                "title": "ಏರ್ ಕೆನಡಾ ಪೈಲಟ್ ಲಾಗಾರ್ಡಿಯಾ ಅಪಘಾತದಲ್ಲಿ ಸಾವು",
-                "content": "ನ್ಯೂಯಾರ್ಕ್‌ನ ಲಾಗಾರ್ಡಿಯಾ ವಿಮಾನ ನಿಲ್ದಾಣದಲ್ಲಿ ಇತ್ತೀಚೆಗೆ ಸಂಭವಿಸಿದ ಅಪಘಾತದಲ್ಲಿ ಏರ್ ಕೆನಡಾ ಪೈಲಟ್ ಆಂಟೊಯಿನ್ ಫಾರೆಸ್ಟ್ ದುರಂತವಾಗಿ ಸಾವನ್ನಪ್ಪಿದ್ದಾರೆ. ಈ ಘಟನೆಯಲ್ಲಿ ಏರ್ ಕೆನಡಾ ವಿಮಾನ ಭಾಗಿಯಾಗಿತ್ತು, ಮತ್ತು ಮಾರಣಾಂತಿಕ ಅಪಘಾತದ ಕಾರಣವನ್ನು ತಕ್ಷಣವೇ ತನಿಖೆ ಮಾಡಲಾಗುತ್ತಿದೆ. ಫಾರೆಸ್ಟ್ ಅವರ ಸಾವು ವಿಮಾನಯಾನದ ಅಂತರ್ಗತ ಅಪಾಯಗಳ ಬಗ್ಗೆ ದುಃಖಕರ ನೆನಪಾಗಿದ್ದು, ವಿಮಾನ ಸುರಕ್ಷತೆ ಮತ್ತು ಕಾರ್ಯಾಚರಣೆಯ ಕಾರ್ಯವಿಧಾನಗಳ ಬಗ್ಗೆ ನಿರ್ಣಾಯಕ ಪ್ರಶ್ನೆಗಳನ್ನು ಹುಟ್ಟುಹಾಕಿದೆ."
-            },
-            "mr": {
-                "title": "लागार्डिया अपघातात एअर कॅनडाच्या वैमानिकाचा मृत्यू",
-                "content": "न्यू यॉर्कमधील लागार्डिया विमानतळावर नुकत्याच झालेल्या अपघातात एअर कॅनडाचे वैमानिक अँटोनी फॉरेस्ट यांचे दुःखद निधन झाले. या घटनेत एअर कॅनडाचे विमान सामील होते, ज्यामुळे या प्राणघातक अपघाताच्या कारणांची तात्काळ चौकशी सुरू झाली आहे. फॉरेस्ट यांच्या निधनाने विमान वाहतुकीतील अंतर्भूत धोक्यांची गंभीर आठवण करून दिली आहे, ज्यामुळे विमान सुरक्षा आणि परिचालन प्रक्रियेबद्दल महत्त्वपूर्ण प्रश्न निर्माण झाले आहेत."
-            },
-            "hi": {
-                "title": "लागुआर्डिया दुर्घटना में एयर कनाडा के पायलट की मौत",
-                "content": "न्यूयॉर्क के लागुआर्डिया हवाई अड्डे पर हाल ही में हुए एक विमान दुर्घटना में एयर कनाडा के पायलट एंटोनी फॉरेस्ट की दुखद मृत्यु हो गई। इस घटना में एयर कनाडा का एक विमान शामिल था, जिसके बाद घातक दुर्घटना के कारणों की तत्काल जांच शुरू की गई है। फॉरेस्ट की मृत्यु विमानन के अंतर्निहित जोखिमों की एक दुखद याद दिलाती है, जिससे उड़ान सुरक्षा और परिचालन प्रक्रियाओं के बारे में महत्वपूर्ण प्रश्न उठते हैं।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129762250,imgsize-72748.cms",
-        "link": "https://timesofindia.indiatimes.com/world/us/who-was-antoine-forest-one-of-2-air-canada-pilots-killed-in-laguardia-plane-crash-identified/articleshow/129762250.cms"
     }
 ]
