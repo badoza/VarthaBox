@@ -1,5 +1,29 @@
 [
     {
+        "id": "a44f9339",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "EC: ₹400 Cr Poll Inducements Seized",
+                "content": "The Election Commission announced seizures of over ₹400 crore in poll inducements across election-bound states and UTs since February 26. This massive crackdown targeted cash, liquor, drugs, precious metals, and freebies meant to sway voters. Tamil Nadu recorded the highest seizures. The EC is intensifying efforts, deploying enforcement teams and reviewing poll readiness to ensure free and fair elections."
+            },
+            "kn": {
+                "title": "EC: ₹400 ಕೋಟಿ ಮತ ಪ್ರಚೋದನೆ ವಸ್ತುಗಳು ವಶ",
+                "content": "ಚುನಾವಣಾ ಆಯೋಗವು ಫೆಬ್ರವರಿ 26 ರಿಂದ ಚುನಾವಣೆ ಎದುರಿಸುತ್ತಿರುವ ರಾಜ್ಯಗಳಲ್ಲಿ ₹400 ಕೋಟಿಗೂ ಹೆಚ್ಚು ಮೌಲ್ಯದ ಮತ ಪ್ರಚೋದನೆ ವಸ್ತುಗಳನ್ನು ವಶಪಡಿಸಿಕೊಂಡಿರುವುದಾಗಿ ಘೋಷಿಸಿದೆ. ಮತದಾರರನ್ನು ಪ್ರಭಾವಿಸಲು ಉದ್ದೇಶಿಸಿದ ನಗದು, ಮದ್ಯ, ಮಾದಕವಸ್ತುಗಳು, ಲೋಹಗಳು ಮತ್ತು ಉಚಿತ ವಸ್ತುಗಳನ್ನು ಈ ಕಾರ್ಯಾಚರಣೆ ಒಳಗೊಂಡಿದೆ. ತಮಿಳುನಾಡು ಅತಿ ಹೆಚ್ಚು ಜಪ್ತಿ ದಾಖಲಿಸಿದೆ. ಮುಕ್ತ ಮತ್ತು ನ್ಯಾಯಸಮ್ಮತ ಚುನಾವಣೆ ಖಚಿತಪಡಿಸಲು ಇಸಿ ಜಾರಿ ತಂಡಗಳನ್ನು ನಿಯೋಜಿಸಿ ಸಿದ್ಧತೆಗಳನ್ನು ಪರಿಶೀಲಿಸುತ್ತಿದೆ."
+            },
+            "mr": {
+                "title": "निवडणूक आयोग: ₹400 कोटींची निवडणूक प्रलोभने जप्त",
+                "content": "निवडणूक आयोगाने 26 फेब्रुवारीपासून निवडणूक असलेल्या राज्यांमध्ये ₹400 कोटींहून अधिक किमतीची निवडणूक प्रलोभने जप्त केल्याची घोषणा केली. मतदारांना प्रभावित करण्यासाठी रोख रक्कम, दारू, अंमली पदार्थ, मौल्यवान धातू आणि मोफत वस्तूंचा यात समावेश होता. तामिळनाडूमध्ये सर्वाधिक जप्ती झाली. मुक्त आणि निष्पक्ष निवडणुका सुनिश्चित करण्यासाठी आयोग अंमलबजावणी पथके तैनात करत असून तयारीचा आढावा घेत आहे."
+            },
+            "hi": {
+                "title": "चुनाव आयोग: ₹400 करोड़ के चुनावी प्रलोभन जब्त",
+                "content": "चुनाव आयोग ने 26 फरवरी से चुनाव वाले राज्यों में ₹400 करोड़ से अधिक के चुनावी प्रलोभन जब्त करने की घोषणा की है। इस कार्रवाई में मतदाताओं को लुभाने के लिए नकदी, शराब, ड्रग्स, कीमती धातुएं और मुफ्त चीजें शामिल थीं। तमिलनाडु में सर्वाधिक बरामदगी हुई है। आयोग स्वतंत्र और निष्पक्ष चुनाव सुनिश्चित करने के लिए प्रवर्तन टीमों को तैनात कर रहा है और तैयारियों की समीक्षा कर रहा है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129834984,imgsize-1152768.cms",
+        "link": "https://timesofindia.indiatimes.com/india/poll-inducement-seizures-cross-400-crore-ec/articleshow/129834766.cms"
+    },
+    {
         "id": "ceb9e140",
         "category": "National",
         "translations": {
@@ -1894,29 +1918,5 @@
         },
         "image": "https://static.toiimg.com/photo/msid-129792994,imgsize-1046929.cms",
         "link": "https://timesofindia.indiatimes.com/world/middle-east/dressing-up-defeat-as-agreement-iran-mocks-trump-with-negotiating-with-yourself-dig/articleshow/129792471.cms"
-    },
-    {
-        "id": "f47b8799",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "UAE Spring Rains: When Will They End?",
-                "content": "Unusual spring rains, thunderstorms, and gusty winds are drenching the UAE, disrupting daily life and travel in cities like Dubai. A low-pressure system drives this atmospheric instability, causing intermittent downpours. While welcomed, residents wonder when these unseasonal showers will end and clearer skies finally return."
-            },
-            "kn": {
-                "title": "ಯುಎಇ ವಸಂತ ಮಳೆ: ಯಾವಾಗ ಕೊನೆಗೊಳ್ಳುತ್ತದೆ?",
-                "content": "ಯುಎಇಯಲ್ಲಿ ಅಸಾಮಾನ್ಯ ವಸಂತ ಮಳೆ, ಗುಡುಗು ಸಹಿತ ಬಿರುಗಾಳಿ ಬೀಸುತ್ತಿದ್ದು, ದುಬೈನಂತಹ ನಗರಗಳಲ್ಲಿ ದೈನಂದಿನ ಜೀವನ ಮತ್ತು ಪ್ರಯಾಣಕ್ಕೆ ಅಡ್ಡಿಯಾಗಿದೆ. ಕಡಿಮೆ ಒತ್ತಡದ ವ್ಯವಸ್ಥೆಯು ಈ ವಾತಾವರಣದ ಅಸ್ಥಿರತೆಯನ್ನು ಉಂಟುಮಾಡುತ್ತದೆ, ಇದು ಸಾಂದರ್ಭಿಕ ಮಳೆಗೆ ಕಾರಣವಾಗುತ್ತದೆ. ಈ ಮಳೆಯು ಸ್ವಾಗತಾರ್ಹವಾಗಿದ್ದರೂ, ಈ ಅಕಾಲಿಕ ಮಳೆ ಯಾವಾಗ ಕೊನೆಗೊಳ್ಳುತ್ತದೆ ಮತ್ತು ಸ್ಪಷ್ಟ ಆಕಾಶ ಯಾವಾಗ ಮರಳುತ್ತದೆ ಎಂದು ನಿವಾಸಿಗಳು ಆಶ್ಚರ್ಯ ಪಡುತ್ತಿದ್ದಾರೆ."
-            },
-            "mr": {
-                "title": "यूएईमधील वसंत ऋतूतील पाऊस: तो कधी थांबेल?",
-                "content": "यूएईमध्ये असामान्य वसंत ऋतूतील पाऊस, वादळे आणि जोरदार वाऱ्यामुळे दुबईसारख्या शहरांमधील दैनंदिन जीवन आणि प्रवासात अडथळा निर्माण झाला आहे. कमी दाबाच्या प्रणालीमुळे ही वातावरणीय अस्थिरता निर्माण झाली आहे, ज्यामुळे अधूनमधून पाऊस पडत आहे. या पावसाचे स्वागत असले तरी, हे बेमोसमी पाऊस कधी थांबणार आणि स्वच्छ आकाश कधी परत येणार, असा प्रश्न रहिवाशांना पडला आहे."
-            },
-            "hi": {
-                "title": "यूएई में वसंत की बारिश: यह कब खत्म होगी?",
-                "content": "यूएई में असामान्य वसंत की बारिश, आंधी-तूफान और तेज़ हवाएँ चल रही हैं, जिससे दुबई जैसे शहरों में दैनिक जीवन और यात्रा बाधित हो रही है। एक कम दबाव प्रणाली इस वायुमंडलीय अस्थिरता को बढ़ा रही है, जिससे रुक-रुक कर बारिश हो रही है। हालांकि इस बारिश का स्वागत किया जा रहा है, निवासी यह जानना चाहते हैं कि ये बेमौसम फुहारें कब खत्म होंगी और आसमान कब साफ होगा।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129793234,imgsize-24832.cms",
-        "link": "https://timesofindia.indiatimes.com/world/middle-east/uae-weather-forecast-when-will-the-unsettled-rain-thunder-and-gusty-winds-finally-end-spring-prediction-for-the-emirates/articleshow/129792481.cms"
     }
 ]
