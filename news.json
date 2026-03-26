@@ -1,5 +1,53 @@
 [
     {
+        "id": "ca70a5fa",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Congress Slams Govt's West Asia Policy as Pakistan Gains Mediator Role",
+                "content": "Congress has sharply criticized the Modi government's foreign policy amidst the West Asia crisis. They argue India's 'Vishwaguru' status has faltered, turning it into a 'broker country.' The party highlights 'extreme embarrassment' as Pakistan, despite its terror record, gains prominence as a regional mediator, signaling a significant setback for India's regional diplomacy."
+            },
+            "kn": {
+                "title": "ಪಶ್ಚಿಮ ಏಷ್ಯಾ ನೀತಿ: ಪಾಕಿಸ್ತಾನಕ್ಕೆ ಮಧ್ಯಸ್ಥಿಕೆ ಪಾತ್ರ ಲಭಿಸಿದಾಗ ಸರ್ಕಾರದ ವಿರುದ್ಧ ಕಾಂಗ್ರೆಸ್ ವಾಗ್ದಾಳಿ",
+                "content": "ಪಶ್ಚಿಮ ಏಷ್ಯಾ ಬಿಕ್ಕಟ್ಟಿನ ಮಧ್ಯೆ ಮೋದಿ ಸರ್ಕಾರದ ವಿದೇಶಾಂಗ ನೀತಿಯನ್ನು ಕಾಂಗ್ರೆಸ್ ತೀವ್ರವಾಗಿ ಟೀಕಿಸಿದೆ. ಭಾರತದ 'ವಿಶ್ವಗುರು' ಸ್ಥಾನಮಾನವು ದುರ್ಬಲಗೊಂಡಿದೆ, ಅದು 'ಬ್ರೋಕರ್ ದೇಶ'ವಾಗಿ ಮಾರ್ಪಟ್ಟಿದೆ ಎಂದು ಅವರು ವಾದಿಸಿದ್ದಾರೆ. ಭಯೋತ್ಪಾದನಾ ಇತಿಹಾಸವಿದ್ದರೂ ಪಾಕಿಸ್ತಾನವು ಪ್ರಾದೇಶಿಕ ಮಧ್ಯಸ್ಥಗಾರನಾಗಿ ಪ್ರಾಮುಖ್ಯತೆ ಪಡೆದಿರುವುದರಿಂದ 'ತೀವ್ರ ಮುಜುಗರ' ಉಂಟಾಗಿದೆ ಎಂದು ಪಕ್ಷವು ಎತ್ತಿ ತೋರಿಸಿದೆ, ಇದು ಭಾರತದ ಪ್ರಾದೇಶಿಕ ರಾಜತಾಂತ್ರಿಕತೆಗೆ ದೊಡ್ಡ ಹಿನ್ನಡೆಯಾಗಿದೆ."
+            },
+            "mr": {
+                "title": "पश्चिम आशिया धोरण: पाकिस्तानला मध्यस्थीची भूमिका मिळाल्याने काँग्रेसची सरकारवर टीका",
+                "content": "पश्चिम आशिया संकटात मोदी सरकारच्या परराष्ट्र धोरणावर काँग्रेसने जोरदार टीका केली आहे. ते म्हणतात की भारताचा 'विश्वगुरू' दर्जा ढासळला असून, तो 'ब्रोकर देश' बनला आहे. पक्षाने 'अत्यंत लाजिरवाण्या' परिस्थितीवर प्रकाश टाकला आहे, कारण दहशतवादाचा इतिहास असूनही पाकिस्तानला प्रादेशिक मध्यस्थ म्हणून महत्त्व मिळत आहे, जे भारताच्या प्रादेशिक राजनैतिकतेसाठी मोठा धक्का आहे."
+            },
+            "hi": {
+                "title": "पश्चिम एशिया नीति: पाकिस्तान को मध्यस्थ की भूमिका मिलने पर कांग्रेस ने सरकार पर साधा निशाना",
+                "content": "पश्चिम एशिया संकट के बीच कांग्रेस ने मोदी सरकार की विदेश नीति की कड़ी आलोचना की है। उनका तर्क है कि भारत का 'विश्वगुरु' दर्जा लड़खड़ा गया है, जिससे वह 'दलाल देश' बन गया है। पार्टी ने 'अत्यधिक शर्मिंदगी' पर प्रकाश डाला, क्योंकि आतंकवाद के रिकॉर्ड के बावजूद पाकिस्तान को क्षेत्रीय मध्यस्थ के रूप में प्रमुखता मिल रही है, जो भारत की क्षेत्रीय कूटनीति के लिए एक बड़ी चुनौती है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129835974,imgsize-1038726.cms",
+        "link": "https://timesofindia.indiatimes.com/india/congress-again-attacks-governments-foreign-policy/articleshow/129835945.cms"
+    },
+    {
+        "id": "4a81da84",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "SC: Don't Grant Mechanical Bail in Dowry Deaths",
+                "content": "The Supreme Court has strongly cautioned High Courts against mechanically granting bail in dowry death cases. Highlighting dowry as a grave social evil causing thousands of women's unnatural deaths, the SC deemed a Patna High Court bail order unsustainable. It directed the accused husband to surrender, stressing the need for careful judicial consideration in such serious matters."
+            },
+            "kn": {
+                "title": "ವರದಕ್ಷಿಣೆ ಸಾವುಗಳಲ್ಲಿ ಯಾಂತ್ರಿಕ ಜಾಮೀನು ನೀಡಬೇಡಿ: ಎಸ್‌ಸಿ",
+                "content": "ವರದಕ್ಷಿಣೆ ಸಾವು ಪ್ರಕರಣಗಳಲ್ಲಿ ಯಾಂತ್ರಿಕವಾಗಿ ಜಾಮೀನು ನೀಡದಂತೆ ಸುಪ್ರೀಂ ಕೋರ್ಟ್ ಹೈಕೋರ್ಟ್‌ಗಳಿಗೆ ಬಲವಾಗಿ ಎಚ್ಚರಿಕೆ ನೀಡಿದೆ. ಸಾವಿರಾರು ಮಹಿಳೆಯರ ಅಸ್ವಾಭಾವಿಕ ಸಾವುಗಳಿಗೆ ಕಾರಣವಾಗುವ ವರದಕ್ಷಿಣೆ ಗಂಭೀರ ಸಾಮಾಜಿಕ ಪಿಡುಗು. ಪಟ್ನಾ ಹೈಕೋರ್ಟ್‌ನ ಜಾಮೀನು ಆದೇಶವನ್ನು ಅಸ್ಥಿರವೆಂದು ಪರಿಗಣಿಸಿದ ಸುಪ್ರೀಂ ಕೋರ್ಟ್, ಆರೋಪಿ ಪತಿಯನ್ನು ಶರಣಾಗಲು ನಿರ್ದೇಶಿಸಿದೆ. ಇಂತಹ ಗಂಭೀರ ವಿಷಯಗಳಲ್ಲಿ ಎಚ್ಚರಿಕೆಯ ನ್ಯಾಯಾಂಗ ಪರಿಗಣನೆಯ ಅಗತ್ಯವನ್ನು ಅದು ಒತ್ತಿಹೇಳಿದೆ."
+            },
+            "mr": {
+                "title": "हुंडाबळी प्रकरणांत यांत्रिक जामीन देऊ नका: SC",
+                "content": "सर्वोच्च न्यायालयाने उच्च न्यायालयांना हुंडाबळी प्रकरणांमध्ये यांत्रिकरित्या जामीन मंजूर करण्याविरोधात कठोरपणे ताकीद दिली आहे. हजारो महिलांच्या अनैसर्गिक मृत्यूला कारणीभूत ठरणारी हुंडा ही गंभीर सामाजिक वाईट प्रथा असल्याचे अधोरेखित करत, सर्वोच्च न्यायालयाने पाटणा उच्च न्यायालयाचा जामीन आदेश अस्थिर मानला. आरोपी पतीला शरण येण्याचे निर्देश देत, अशा गंभीर प्रकरणांमध्ये योग्य न्यायिक विचारांची गरज असल्याचे न्यायालयाने सांगितले."
+            },
+            "hi": {
+                "title": "दहेज मौतों में यांत्रिक जमानत न दें: SC",
+                "content": "सुप्रीम कोर्ट ने दहेज मृत्यु मामलों में यांत्रिक रूप से जमानत देने के खिलाफ उच्च न्यायालयों को कड़ी चेतावनी दी है। दहेज को हजारों महिलाओं की अप्राकृतिक मौतों का कारण बनने वाली एक गंभीर सामाजिक बुराई बताते हुए, SC ने पटना उच्च न्यायालय के जमानत आदेश को अस्वीकार्य ठहराया। इसने आरोपी पति को आत्मसमर्पण करने का निर्देश दिया, ऐसे गंभीर मामलों में सावधानीपूर्वक न्यायिक विचार की आवश्यकता पर जोर दिया।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129835909,imgsize-1046633.cms",
+        "link": "https://timesofindia.indiatimes.com/india/dowry-claims-lives-of-thousands-do-not-give-bail-for-such-deaths-mechanically-sc/articleshow/129835879.cms"
+    },
+    {
         "id": "a44f9339",
         "category": "National",
         "translations": {
@@ -1870,53 +1918,5 @@
         },
         "image": "https://static.toiimg.com/photo/msid-129793967,imgsize-935764.cms",
         "link": "https://timesofindia.indiatimes.com/world/rest-of-world/how-iran-war-is-helping-kim-jong-un-justify-north-koreas-nuclear-arsenal/articleshow/129793865.cms"
-    },
-    {
-        "id": "1c8d270b",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "Dubai Crown Prince's Rain Drive Stuns Millions",
-                "content": "Dubai's Crown Prince, Sheikh Hamdan, captivated millions with viral videos showcasing a rare, rain-drenched emirate. Driving through the transformed desert landscape, he revealed an \"unreal\" and reflective side of the typically arid city. These stunning visuals offered a unique perspective, highlighting Dubai's unexpected beauty amidst unusual weather, proving even disruption can be picturesque."
-            },
-            "kn": {
-                "title": "ದುಬೈ ಯುವರಾಜನ ಮಳೆ ಚಾಲನೆ ಲಕ್ಷಾಂತರ ಮಂದಿಯನ್ನು ಬೆರಗುಗೊಳಿಸಿತು",
-                "content": "ದುಬೈ ಯುವರಾಜ ಶೇಖ್ ಹಮ್ದಾನ್, ಅಪರೂಪದ, ಮಳೆಯಿಂದ ತೋಯ್ದ ಎಮಿರೇಟ್‌ನ ವೈರಲ್ ವೀಡಿಯೊಗಳೊಂದಿಗೆ ಲಕ್ಷಾಂತರ ಮಂದಿಯನ್ನು ಮಂತ್ರಮುಗ್ಧಗೊಳಿಸಿದರು. ರೂಪಾಂತರಗೊಂಡ ಮರುಭೂಮಿ ಭೂದೃಶ್ಯದ ಮೂಲಕ ಚಾಲನೆ ಮಾಡುತ್ತಾ, ಅವರು ಸಾಮಾನ್ಯವಾಗಿ ಶುಷ್ಕ ನಗರದ \"ನೈಜವಲ್ಲದ\" ಮತ್ತು ಪ್ರತಿಫಲಿತ ಭಾಗವನ್ನು ಅನಾವರಣಗೊಳಿಸಿದರು. ಈ ಅದ್ಭುತ ದೃಶ್ಯಗಳು ವಿಶಿಷ್ಟ ದೃಷ್ಟಿಕೋನವನ್ನು ನೀಡಿದವು, ಅಸಾಮಾನ್ಯ ಹವಾಮಾನದ ನಡುವೆಯೂ ದುಬೈನ ಅನಿರೀಕ್ಷಿತ ಸೌಂದರ್ಯವನ್ನು ಎತ್ತಿ ತೋರಿಸಿದವು, ಅಡೆತಡೆಗಳೂ ಸಹ ರಮಣೀಯವಾಗಿರಬಹುದು ಎಂದು ಸಾಬೀತುಪಡಿಸಿತು."
-            },
-            "mr": {
-                "title": "दुबईच्या युवराजाचा पावसातील प्रवास लाखो लोकांना थक्क करतो",
-                "content": "दुबईचे युवराज शेख हमदान यांनी पावसाने भिजलेल्या दुर्मिळ अमिरातीचे व्हायरल व्हिडिओ शेअर करून लाखो लोकांना मंत्रमुग्ध केले. वाळवंटातील बदललेल्या भूभागातून गाडी चालवताना, त्यांनी सामान्यतः शुष्क शहराची \"वास्तव नसलेली\" आणि चिंतनात्मक बाजू उघड केली. या आश्चर्यकारक दृश्यांनी एक अनोखा दृष्टिकोन दिला, असामान्य हवामानादरम्यान दुबईचे अनपेक्षित सौंदर्य अधोरेखित केले, ज्यामुळे असे सिद्ध झाले की अडथळे देखील सुंदर असू शकतात."
-            },
-            "hi": {
-                "title": "दुबई के क्राउन प्रिंस की बारिश में ड्राइव ने लाखों को किया हैरान",
-                "content": "दुबई के क्राउन प्रिंस, शेख हमदान ने बारिश से सराबोर दुर्लभ अमीरात के वायरल वीडियो से लाखों लोगों को मंत्रमुग्ध कर दिया। बदले हुए रेगिस्तानी परिदृश्य से गाड़ी चलाते हुए, उन्होंने आमतौर पर शुष्क शहर का एक \"अवास्तविक\" और चिंतनशील पक्ष दिखाया। इन आश्चर्यजनक दृश्यों ने एक अनूठा दृष्टिकोण प्रस्तुत किया, असामान्य मौसम के बीच दुबई की अप्रत्याशित सुंदरता को उजागर किया, यह साबित करते हुए कि व्यवधान भी सुरम्य हो सकता है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129794256,imgsize-28736.cms",
-        "link": "https://timesofindia.indiatimes.com/world/middle-east/dubai-crown-prince-sheikh-hamdan-drives-through-rain-drenched-emirate-unreal-side-of-desert-in-viral-videos-stuns-millions/articleshow/129793349.cms"
-    },
-    {
-        "id": "53d0e902",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "Iran Mocks Trump's Ceasefire Claims, Rejects US Deal",
-                "content": "An Iranian military spokesperson has ridiculed Donald Trump's claims of ongoing ceasefire discussions, stating Iran will \"never make a deal with the US.\" This defiance comes amidst a significant US military buildup in the region, even as airstrikes and missile attacks persist. Iran dismissed Trump's \"agreement\" as \"dressing up defeat,\" emphasizing their rejection of US diplomatic overtures despite escalating tensions and military presence."
-            },
-            "kn": {
-                "title": "ಇರಾನ್ ಟ್ರಂಪ್ ಅವರ ಕದನ ವಿರಾಮದ ಹೇಳಿಕೆಗಳನ್ನು ಗೇಲಿ ಮಾಡಿದೆ, ಅಮೆರಿಕದ ಒಪ್ಪಂದವನ್ನು ತಿರಸ್ಕರಿಸಿದೆ",
-                "content": "ಇರಾನ್‌ನ ಮಿಲಿಟರಿ ವಕ್ತಾರರು ಡೊನಾಲ್ಡ್ ಟ್ರಂಪ್ ಅವರ ನಡೆಯುತ್ತಿರುವ ಕದನ ವಿರಾಮ ಚರ್ಚೆಗಳ ಹೇಳಿಕೆಗಳನ್ನು ಗೇಲಿ ಮಾಡಿದ್ದಾರೆ, ಇರಾನ್ \"ಅಮೆರಿಕದೊಂದಿಗೆ ಎಂದಿಗೂ ಒಪ್ಪಂದ ಮಾಡಿಕೊಳ್ಳುವುದಿಲ್ಲ\" ಎಂದು ಹೇಳಿದ್ದಾರೆ. ಯುಎಸ್ ತನ್ನ ಮಿಲಿಟರಿ ಉಪಸ್ಥಿತಿಯನ್ನು ಹೆಚ್ಚಿಸುತ್ತಿರುವ ಮತ್ತು ವೈಮಾನಿಕ ದಾಳಿಗಳು ಹಾಗೂ ಕ್ಷಿಪಣಿ ದಾಳಿಗಳು ನಡೆಯುತ್ತಿರುವ ಮಧ್ಯೆಯೂ ಈ ತಿರಸ್ಕಾರ ಬಂದಿದೆ. ಇರಾನ್ ಟ್ರಂಪ್‌ನ \"ಒಪ್ಪಂದ\"ವನ್ನು \"ಸೋಲನ್ನು ಒಪ್ಪಂದ ಎಂದು ಬಿಂಬಿಸುವುದು\" ಎಂದು ತಳ್ಳಿಹಾಕಿದೆ, ಉಲ್ಬಣಗೊಳ್ಳುವ ಉದ್ವಿಗ್ನತೆ ಮತ್ತು ಮಿಲಿಟರಿ ಉಪಸ್ಥಿತಿಯ ಹೊರತಾಗಿಯೂ ಅಮೆರಿಕದ ರಾಜತಾಂತ್ರಿಕ ಪ್ರಸ್ತಾಪಗಳನ್ನು ತಿರಸ್ಕರಿಸಿದೆ."
-            },
-            "mr": {
-                "title": "इराणने ट्रम्प यांच्या युद्धविराम दाव्यांची खिल्ली उडवली, अमेरिकेचा करार फेटाळला",
-                "content": "इराणच्या लष्करी प्रवक्त्याने डोनाल्ड ट्रम्प यांच्या सुरू असलेल्या युद्धविराम चर्चेच्या दाव्यांची खिल्ली उडवली आहे, इराण \"अमेरिकेशी कधीही करार करणार नाही\" असे म्हटले आहे. ही अवहेलना अमेरिकेच्या वाढत्या लष्करी ताकदीच्या आणि हवाई हल्ले व क्षेपणास्त्र हल्ले सुरू असतानाही आली आहे. इराणने ट्रम्प यांच्या \"कराराला\" \"पराभवाला करार म्हणून दाखवणे\" असे संबोधत फेटाळले आहे, वाढत्या तणाव आणि लष्करी उपस्थिती असूनही अमेरिकेच्या राजनैतिक प्रस्तावांना आपला नकार दर्शवला आहे."
-            },
-            "hi": {
-                "title": "ईरान ने ट्रम्प के युद्धविराम दावों का मज़ाक उड़ाया, अमेरिकी समझौते को खारिज किया",
-                "content": "एक ईरानी सैन्य प्रवक्ता ने डोनाल्ड ट्रम्प के चल रहे युद्धविराम वार्ता के दावों का मज़ाक उड़ाया है, जिसमें कहा गया है कि ईरान \"अमेरिका के साथ कभी कोई समझौता नहीं करेगा।\" यह चुनौती क्षेत्र में अमेरिका के महत्वपूर्ण सैन्य जमावड़े के बीच आई है, भले ही हवाई हमले और मिसाइल हमले जारी हैं। ईरान ने ट्रम्प के \"समझौते\" को \"हार को समझौता बताने\" के रूप में खारिज कर दिया, बढ़ते तनाव और सैन्य उपस्थिति के बावजूद अमेरिकी राजनयिक प्रस्तावों के प्रति अपनी अस्वीकृति पर जोर दिया।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129792994,imgsize-1046929.cms",
-        "link": "https://timesofindia.indiatimes.com/world/middle-east/dressing-up-defeat-as-agreement-iran-mocks-trump-with-negotiating-with-yourself-dig/articleshow/129792471.cms"
     }
 ]
