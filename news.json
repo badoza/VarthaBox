@@ -1,5 +1,29 @@
 [
     {
+        "id": "e59f43e2",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "J&K Fuel Panic: Abdullah Warns of Pump Shutdowns",
+                "content": "J&K leader Omar Abdullah cautioned that petrol pumps could shut down if panic buying persists due to rumors. He emphasized \"everyone believes rumours,\" urging residents to avoid unnecessary crowding. Abdullah assured no fuel or LPG shortage exists in the Union Territory, advising reliance on official communications to prevent service disruptions."
+            },
+            "kn": {
+                "title": "J&K ಇಂಧನ ಆತಂಕ: ಅಬ್ದುಲ್ಲಾ ಪಂಪ್‌ ಬಂದ್‌ ಬಗ್ಗೆ ಎಚ್ಚರಿಕೆ",
+                "content": "J&K ನಾಯಕ ಒಮರ್ ಅಬ್ದುಲ್ಲಾ ಅವರು ವದಂತಿಗಳಿಂದಾಗಿ ಆತಂಕದ ಖರೀದಿ ಮುಂದುವರಿದರೆ ಪೆಟ್ರೋಲ್ ಪಂಪ್‌ಗಳು ಮುಚ್ಚಬಹುದು ಎಂದು ಎಚ್ಚರಿಸಿದ್ದಾರೆ. \"ಪ್ರತಿಯೊಬ್ಬರೂ ವದಂತಿಗಳನ್ನು ನಂಬುತ್ತಾರೆ\" ಎಂದು ಒತ್ತಿಹೇಳಿದ ಅವರು, ನಿವಾಸಿಗಳು ಅನಗತ್ಯ ಜನಸಂದಣಿಯನ್ನು ತಪ್ಪಿಸಲು ಕರೆ ನೀಡಿದರು. ಕೇಂದ್ರಾಡಳಿತ ಪ್ರದೇಶದಲ್ಲಿ ಇಂಧನ ಅಥವಾ ಎಲ್‌ಪಿಜಿ ಕೊರತೆಯಿಲ್ಲ ಎಂದು ಅಬ್ದುಲ್ಲಾ ಭರವಸೆ ನೀಡಿದ್ದು, ಸೇವಾ ಅಡೆತಡೆಗಳನ್ನು ತಡೆಗಟ್ಟಲು ಅಧಿಕೃತ ಸಂವಹನಗಳನ್ನು ಅವಲಂಬಿಸುವಂತೆ ಸಲಹೆ ನೀಡಿದ್ದಾರೆ."
+            },
+            "mr": {
+                "title": "J&K इंधन भीती: अब्दुल्ला यांचा पंप बंद होण्याचा इशारा",
+                "content": "जम्मू-काश्मीरचे नेते ओमर अब्दुल्ला यांनी अफवांमुळे घाईगडबडीने खरेदी सुरू राहिल्यास पेट्रोल पंप बंद होऊ शकतात, असा इशारा दिला आहे. \"प्रत्येकजण अफवांवर विश्वास ठेवतो,\" असे त्यांनी नमूद केले आणि रहिवाशांना अनावश्यक गर्दी टाळण्याचे आवाहन केले. अब्दुल्ला यांनी केंद्रशासित प्रदेशात इंधन किंवा एलपीजीची कोणतीही कमतरता नसल्याचे आश्वासन दिले आणि सेवांमधील व्यत्यय टाळण्यासाठी अधिकृत माहितीवर अवलंबून राहण्याचा सल्ला दिला."
+            },
+            "hi": {
+                "title": "J&K ईंधन घबराहट: अब्दुल्ला ने पंप बंद होने की चेतावनी दी",
+                "content": "J&K नेता उमर अब्दुल्ला ने चेतावनी दी है कि अगर अफवाहों के कारण घबराहट में खरीदारी जारी रही तो पेट्रोल पंप बंद हो सकते हैं। उन्होंने जोर देकर कहा, \"हर कोई अफवाहों पर विश्वास करता है,\" और निवासियों से अनावश्यक भीड़ से बचने का आग्रह किया। अब्दुल्ला ने आश्वासन दिया कि केंद्र शासित प्रदेश में ईंधन या एलपीजी की कोई कमी नहीं है, और सेवा बाधित होने से रोकने के लिए आधिकारिक संचार पर निर्भर रहने की सलाह दी।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129822596,imgsize-51540.cms",
+        "link": "https://timesofindia.indiatimes.com/india/everyone-believes-rumours-omar-abdullah-warns-of-petrol-pump-shutdown-over-panic-queues/articleshow/129822646.cms"
+    },
+    {
         "id": "605509ee",
         "category": "National",
         "translations": {
@@ -1894,29 +1918,5 @@
         },
         "image": "https://static.toiimg.com/photo/msid-129789118,imgsize-938697.cms",
         "link": "https://timesofindia.indiatimes.com/india/pm-modis-foreign-policy-a-universal-joke-rahul/articleshow/129789109.cms"
-    },
-    {
-        "id": "8ba4ee9f",
-        "category": "Sports",
-        "translations": {
-            "en": {
-                "title": "DC's Reinforced Squad: Can They Deliver?",
-                "content": "Delhi Capitals strengthened their lower-middle order with Miller and explosive talents, with Axar Patel eyeing leadership. Concerns remain over historical crunch-situation struggles and Mitchell Starc's availability. A stable Powerplay opening is crucial to avoid slow starts. Can DC overcome these hurdles and deliver a winning season?"
-            },
-            "kn": {
-                "title": "ಡಿಸಿ ಬಲವರ್ಧಿತ ತಂಡ: ಅವರು ಗೆಲ್ಲಬಲ್ಲರೇ?",
-                "content": "ಡೆಲ್ಲಿ ಕ್ಯಾಪಿಟಲ್ಸ್ ಮಿಲ್ಲಿರ್ ಮತ್ತು ಸ್ಫೋಟಕ ಪ್ರತಿಭೆಗಳೊಂದಿಗೆ ತಮ್ಮ ಲೋವರ್-ಮಿಡಲ್ ಆರ್ಡರ್ ಅನ್ನು ಬಲಪಡಿಸಿದೆ, ಅಕ್ಷರ್ ಪಟೇಲ್ ನಾಯಕತ್ವದ ಕಡೆಗೆ ನೋಡುತ್ತಿದ್ದಾರೆ. ಐತಿಹಾಸಿಕ ಬಿಕ್ಕಟ್ಟಿನ ಪರಿಸ್ಥಿತಿಗಳಲ್ಲಿನ ಹೋರಾಟಗಳು ಮತ್ತು ಮಿಚೆಲ್ ಸ್ಟಾರ್ಕ್ ಲಭ್ಯತೆಯ ಬಗ್ಗೆ ಆತಂಕಗಳು ಉಳಿದಿವೆ. ನಿಧಾನಗತಿಯ ಆರಂಭವನ್ನು ತಪ್ಪಿಸಲು ಸ್ಥಿರ ಪವರ್‌ಪ್ಲೇ ಆರಂಭಿಕ ಪಾಲುದಾರಿಕೆ ನಿರ್ಣಾಯಕವಾಗಿದೆ. ಡಿಸಿ ಈ ಅಡೆತಡೆಗಳನ್ನು ನಿವಾರಿಸಿ ವಿಜೇತ ಋತುವನ್ನು ನೀಡಬಲ್ಲದೇ?"
-            },
-            "mr": {
-                "title": "डीसीचा सुदृढ संघ: ते विजय मिळवणार का?",
-                "content": "दिल्ली कॅपिटल्सने मिलर आणि स्फोटक प्रतिभावान खेळाडूंसह त्यांच्या लोअर-मिडल ऑर्डरला बळकट केले आहे, तर अक्षर पटेल नेतृत्वाकडे लक्ष देत आहेत. निर्णायक परिस्थितीत ऐतिहासिक संघर्ष आणि मिचेल स्टार्कच्या उपलब्धतेबद्दल चिंता कायम आहे. संथ सुरुवात टाळण्यासाठी स्थिर पॉवरप्ले सलामीची भागीदारी महत्त्वपूर्ण आहे. डीसी या अडचणींवर मात करून विजयी हंगाम देऊ शकेल का?"
-            },
-            "hi": {
-                "title": "डीसी का सुदृढ़ दस्ता: क्या वे सफल हो पाएंगे?",
-                "content": "दिल्ली कैपिटल्स ने मिलर और विस्फोटक प्रतिभाओं के साथ अपने निचले-मध्य क्रम को मजबूत किया है, और अक्षर पटेल नेतृत्व की भूमिका पर नजर गड़ाए हुए हैं। महत्वपूर्ण परिस्थितियों में ऐतिहासिक संघर्ष और मिशेल स्टार्क की उपलब्धता को लेकर चिंताएं बनी हुई हैं। धीमी शुरुआत से बचने के लिए एक स्थिर पावरप्ले सलामी साझेदारी महत्वपूर्ण है। क्या डीसी इन बाधाओं को पार कर एक विजयी सीज़न दे पाएगा?"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129790582,imgsize-147408.cms",
-        "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/delhi-capitals-swot-reinforced-squad-balanced-core-can-dc-deliver/articleshow/129790585.cms"
     }
 ]
