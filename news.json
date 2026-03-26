@@ -1,5 +1,29 @@
 [
     {
+        "id": "605509ee",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Air India A350 Diverted Again: Noise Troubles Spark DGCA Probe",
+                "content": "Air India's new A350 (VT-JRF) was forced to return to Delhi from a London-bound flight after experiencing excessive noise and turbulence in its belly hold. This is the second such incident for the same aircraft in ten days, prompting a DGCA investigation. The recurring issue previously caused a diversion to Shannon, raising concerns about the new fleet's operational reliability."
+            },
+            "kn": {
+                "title": "ಏರ್ ಇಂಡಿಯಾ A350 ಮತ್ತೆ ದಿಕ್ಕು ಬದಲಿಸಿತು: ಶಬ್ದದ ಸಮಸ್ಯೆಗಳಿಂದ DGCA ತನಿಖೆ",
+                "content": "ಏರ್ ಇಂಡಿಯಾದ ಹೊಸ A350 (VT-JRF) ವಿಮಾನದಲ್ಲಿ ಅತಿಯಾದ ಶಬ್ದ ಮತ್ತು ಹೊಟ್ಟೆಯ ಭಾಗದಲ್ಲಿ ಕಂಪನದ ಸಮಸ್ಯೆಯುಂಟಾದ ಕಾರಣ, ಲಂಡನ್‌ಗೆ ಹೊರಟಿದ್ದ ವಿಮಾನ ದೆಹಲಿಗೆ ಮರಳಬೇಕಾಯಿತು. ಹತ್ತು ದಿನಗಳಲ್ಲಿ ಇದೇ ವಿಮಾನಕ್ಕೆ ಇದು ಎರಡನೇ ಘಟನೆಯಾಗಿದ್ದು, DGCA ತನಿಖೆಗೆ ಆದೇಶಿಸಿದೆ. ಈ ಪುನರಾವರ್ತಿತ ಸಮಸ್ಯೆಯಿಂದಾಗಿ ಹಿಂದೆ ಶಾನನ್‌ಗೆ ಸಹ ವಿಮಾನವನ್ನು ತಿರುಗಿಸಲಾಗಿತ್ತು, ಇದು ಹೊಸ ವಿಮಾನಸಮೂಹದ ಕಾರ್ಯಾಚರಣೆಯ ವಿಶ್ವಾಸಾರ್ಹತೆಯ ಬಗ್ಗೆ ಕಳವಳ ಮೂಡಿಸಿದೆ."
+            },
+            "mr": {
+                "title": "एअर इंडिया A350 पुन्हा वळवले: आवाजाच्या समस्येमुळे DGCA चौकशी",
+                "content": "एअर इंडियाच्या नवीन A350 (VT-JRF) विमानाला त्याच्या खालच्या भागात जास्त आवाज आणि गडबडीचा अनुभव आल्याने, लंडनला जाणारे विमान दिल्लीला परतण्यास भाग पडले. दहा दिवसांत याच विमानासोबत ही दुसरी घटना असून, त्यामुळे DGCA ने चौकशी सुरू केली आहे. या आधीही याच समस्येमुळे विमानाला शॅनन येथे वळवण्यात आले होते, ज्यामुळे नवीन ताफ्याच्या कार्यक्षमतेच्या विश्वासार्हतेबद्दल चिंता वाढली आहे."
+            },
+            "hi": {
+                "title": "एयर इंडिया A350 फिर डायवर्ट: शोर की समस्याओं के कारण DGCA जांच शुरू",
+                "content": "एयर इंडिया के नए A350 (VT-JRF) विमान को उसके निचले हिस्से में अत्यधिक शोर और कंपन का अनुभव होने के बाद, लंदन जाने वाली उड़ान से दिल्ली वापस लौटने पर मजबूर होना पड़ा. यह दस दिनों में इसी विमान के साथ दूसरी ऐसी घटना है, जिसके कारण DGCA ने जांच शुरू कर दी है. इस आवर्ती समस्या के कारण पहले भी विमान को शैनन डायवर्ट किया गया था, जिससे नए बेड़े की परिचालन विश्वसनीयता पर चिंताएँ बढ़ गई हैं."
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129820427,imgsize-62614.cms",
+        "link": "https://timesofindia.indiatimes.com/india/2nd-time-in-10-days-excessive-noise-forces-air-india-a350-to-divert-london-bound-air-india-flight-makes-u-turn-after-7-hours/articleshow/129820428.cms"
+    },
+    {
         "id": "85ea785f",
         "category": "National",
         "translations": {
@@ -1894,29 +1918,5 @@
         },
         "image": "https://static.toiimg.com/photo/msid-129790582,imgsize-147408.cms",
         "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/delhi-capitals-swot-reinforced-squad-balanced-core-can-dc-deliver/articleshow/129790585.cms"
-    },
-    {
-        "id": "b7d9ca65",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Lalu's Land-for-Jobs FIR Stays: Delhi HC Rejects Quash Plea",
-                "content": "The Delhi High Court has dismissed RJD chief Lalu Prasad's plea to quash an FIR in the alleged land-for-railway-jobs scam. The court rejected arguments claiming the case was unsustainable due to an amendment in the Prevention of Corruption Act. This means the CBI investigation against Lalu Prasad and his family concerning the alleged scam will continue, keeping the legal scrutiny ongoing."
-            },
-            "kn": {
-                "title": "ಲಾಲು ಅವರ 'ಉದ್ಯೋಗಕ್ಕಾಗಿ ಭೂಮಿ' ಎಫ್‌ಐಆರ್ ಮುಂದುವರಿಕೆ: ದೆಹಲಿ ಹೈಕೋರ್ಟ್ ರದ್ದು ಕೋರಿಕೆಯನ್ನು ತಿರಸ್ಕರಿಸಿದೆ",
-                "content": "ದೆಹಲಿ ಹೈಕೋರ್ಟ್, ಆರ್‌ಜೆಡಿ ಮುಖ್ಯಸ್ಥ ಲಾಲು ಪ್ರಸಾದ್ ಅವರ 'ಉದ್ಯೋಗಕ್ಕಾಗಿ ರೈಲ್ವೆ ಭೂಮಿ' ಹಗರಣದ ಆರೋಪದ ಎಫ್‌ಐಆರ್ ರದ್ದುಗೊಳಿಸುವ ಅರ್ಜಿಯನ್ನು ತಿರಸ್ಕರಿಸಿದೆ. ಭ್ರಷ್ಟಾಚಾರ ತಡೆ ಕಾಯ್ದೆಯ ತಿದ್ದುಪಡಿಯಿಂದಾಗಿ ಪ್ರಕರಣವು ಅಸಮರ್ಥನೀಯ ಎಂಬ ವಾದಗಳನ್ನು ನ್ಯಾಯಾಲಯವು ನಿರಾಕರಿಸಿದೆ. ಇದು ಲಾಲು ಪ್ರಸಾದ್ ಮತ್ತು ಅವರ ಕುಟುಂಬದ ವಿರುದ್ಧದ ಸಿಬಿಐ ತನಿಖೆ ಮುಂದುವರಿಯಲಿದೆ ಎಂಬುದನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಕಾನೂನು ಪರಿಶೀಲನೆ ಸಾಗಲಿದೆ."
-            },
-            "mr": {
-                "title": "लालूंच्या नोकरीसाठी जमीन एफआयआर कायम: दिल्ली उच्च न्यायालयाने रद्द करण्याची विनंती फेटाळली",
-                "content": "दिल्ली उच्च न्यायालयाने आरजेडी प्रमुख लालू प्रसाद यांच्याविरोधात 'नोकरीसाठी रेल्वे जमीन' घोटाळ्यातील कथित एफआयआर रद्द करण्याची विनंती फेटाळली आहे. भ्रष्टाचार प्रतिबंधक कायद्यातील सुधारणेमुळे हे प्रकरण टिकण्यायोग्य नाही, हे युक्तिवाद न्यायालयाने फेटाळून लावले. यामुळे लालू प्रसाद आणि त्यांच्या कुटुंबाविरुद्धची सीबीआय चौकशी सुरू राहील, आणि कायदेशीर तपास सुरूच राहील."
-            },
-            "hi": {
-                "title": "लालू का 'नौकरी के बदले जमीन' FIR रहेगा बरकरार: दिल्ली HC ने रद्द करने की याचिका खारिज की",
-                "content": "दिल्ली उच्च न्यायालय ने आरजेडी प्रमुख लालू प्रसाद की 'नौकरी के बदले रेलवे भूमि' घोटाले में कथित एफआईआर को रद्द करने की याचिका खारिज कर दी है। अदालत ने भ्रष्टाचार निवारण अधिनियम में संशोधन के कारण मामले को अस्थिर बताने वाले तर्कों को भी खारिज किया। इसका मतलब है कि लालू प्रसाद और उनके परिवार के खिलाफ सीबीआई की जांच जारी रहेगी, और कानूनी जांच-पड़ताल चलती रहेगी।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129789187,imgsize-1146036.cms",
-        "link": "https://timesofindia.indiatimes.com/india/hc-bins-lalus-plea-to-quash-land-for-jobs-fir/articleshow/129789182.cms"
     }
 ]
