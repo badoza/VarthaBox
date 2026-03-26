@@ -1,5 +1,29 @@
 [
     {
+        "id": "c54cf168",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "SC Flags 'Menace' of AI Fake Judgments",
+                "content": "The Supreme Court has voiced serious concern over lawyers citing non-existent, AI-generated judgments. Justices Rajesh Bindal and Vijay Bishnoi highlighted this growing global trend, emphasizing the critical need for greater caution with AI-assisted legal materials. The court noted this 'menace' is under judicial consideration, urging practitioners to rigorously verify sources and avoid misinformation from artificial intelligence."
+            },
+            "kn": {
+                "title": "ಸುಪ್ರೀಂ ಕೋರ್ಟ್ AI ನಕಲಿ ತೀರ್ಪುಗಳ 'ಸಮಸ್ಯೆ' ಬಗ್ಗೆ ಎಚ್ಚರಿಕೆ",
+                "content": "ವಕೀಲರು ಅಸ್ತಿತ್ವದಲ್ಲಿಲ್ಲದ, AI-ರಚಿತ ತೀರ್ಪುಗಳನ್ನು ಉಲ್ಲೇಖಿಸುವುದರ ಬಗ್ಗೆ ಸುಪ್ರೀಂ ಕೋರ್ಟ್ ಗಂಭೀರ ಕಳವಳ ವ್ಯಕ್ತಪಡಿಸಿದೆ. ನ್ಯಾಯಮೂರ್ತಿಗಳಾದ ರಾಜೇಶ್ ಬಿಂದಾಲ್ ಮತ್ತು ವಿಜಯ್ ಬಿಷ್ಣೋಯ್ ಈ ಹೆಚ್ಚುತ್ತಿರುವ ಜಾಗತಿಕ ಪ್ರವೃತ್ತಿಯನ್ನು ಎತ್ತಿ ತೋರಿಸಿದರು, AI-ಸಹಾಯದ ಕಾನೂನು ಸಾಮಗ್ರಿಗಳೊಂದಿಗೆ ಹೆಚ್ಚಿನ ಎಚ್ಚರಿಕೆಯ ಅಗತ್ಯವನ್ನು ಒತ್ತಿ ಹೇಳಿದರು. ಈ 'ಸಮಸ್ಯೆ' ನ್ಯಾಯಾಂಗ ಪರಿಗಣನೆಯಲ್ಲಿದೆ ಎಂದು ನ್ಯಾಯಾಲಯ ಹೇಳಿದ್ದು, ಅಭ್ಯಾಸ ಮಾಡುವವರಿಗೆ ಮೂಲಗಳನ್ನು ಕಟ್ಟುನಿಟ್ಟಾಗಿ ಪರಿಶೀಲಿಸಲು ಮತ್ತು ಕೃತಕ ಬುದ್ಧಿಮತ್ತೆಯಿಂದ ತಪ್ಪು ಮಾಹಿತಿಯನ್ನು ತಪ್ಪಿಸಲು ಒತ್ತಾಯಿಸಿದೆ."
+            },
+            "mr": {
+                "title": "सर्वोच्च न्यायालयाचा AI बनावट निकालांच्या 'धोक्याबद्दल' इशारा",
+                "content": "वकिलांकडून अस्तित्वात नसलेले, AI-व्युत्पन्न निकाल उद्धृत करण्यावर सर्वोच्च न्यायालयाने गंभीर चिंता व्यक्त केली आहे. न्यायमूर्ती राजेश बिंदल आणि विजय बिष्णोई यांनी या वाढत्या जागतिक प्रवृत्तीवर प्रकाश टाकला, AI-सहाय्यित कायदेशीर सामग्री वापरताना अधिक सावधगिरी बाळगण्याच्या गंभीर गरजेवर जोर दिला. न्यायालयाने नमूद केले की हा 'धोका' न्यायिक विचाराधीन आहे आणि वकिलांना स्त्रोत काटेकोरपणे पडताळण्याचे आणि कृत्रिम बुद्धिमत्तेकडून चुकीची माहिती टाळण्याचे आवाहन केले आहे."
+            },
+            "hi": {
+                "title": "सुप्रीम कोर्ट ने AI नकली फैसलों के 'खतरे' पर झंडी दिखाई",
+                "content": "सुप्रीम कोर्ट ने वकीलों द्वारा गैर-मौजूद, AI-जनित फैसलों का हवाला देने पर गंभीर चिंता व्यक्त की है। न्यायमूर्ति राजेश बिंदल और विजय बिश्नोई ने इस बढ़ती वैश्विक प्रवृत्ति पर प्रकाश डाला, और AI-सहायता प्राप्त कानूनी सामग्री के साथ अधिक सावधानी बरतने की महत्वपूर्ण आवश्यकता पर जोर दिया। कोर्ट ने कहा कि यह 'खतरा' न्यायिक विचाराधीन है, और वकीलों से स्रोतों को सख्ती से सत्यापित करने और कृत्रिम बुद्धिमत्ता से गलत सूचना से बचने का आग्रह किया।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129822911,imgsize-815877.cms",
+        "link": "https://timesofindia.indiatimes.com/india/sc-flags-menace-of-ai-generated-fake-judgments-cautions-lawyers/articleshow/129822900.cms"
+    },
+    {
         "id": "e59f43e2",
         "category": "National",
         "translations": {
@@ -1894,29 +1918,5 @@
         },
         "image": "https://static.toiimg.com/photo/msid-129789168,imgsize-343300.cms",
         "link": "https://timesofindia.indiatimes.com/india/kashmiri-separatist-andrabi-gets-life-term-2-aides-30-yrs/articleshow/129789161.cms"
-    },
-    {
-        "id": "f72694a2",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Rahul Slams Modi's Foreign Policy",
-                "content": "Rahul Gandhi slammed PM Modi's foreign policy as a 'universal joke' and 'compromised,' arguing it has diminished India's global standing. He questioned India's role, citing Pakistan's potential mediation in the Iran conflict, and stated Modi's personal approach leaves India without a clear stance on international issues, making parliamentary speeches 'irrelevant'."
-            },
-            "kn": {
-                "title": "ರಾಹುಲ್ ಮೋದಿ ವಿದೇಶಾಂಗ ನೀತಿಯನ್ನು ಟೀಕಿಸಿದರು",
-                "content": "ರಾಹುಲ್ ಗಾಂಧಿ ಪ್ರಧಾನಿ ಮೋದಿಯವರ ವಿದೇಶಾಂಗ ನೀತಿಯನ್ನು 'ಜಾಗತಿಕ ಹಾಸ್ಯ' ಮತ್ತು 'ಸಂಧಾನಿತ' ಎಂದು ತೀವ್ರವಾಗಿ ಟೀಕಿಸಿದ್ದಾರೆ. ಇದು ಭಾರತದ ಜಾಗತಿಕ ಸ್ಥಾನಮಾನವನ್ನು ಕಡಿಮೆ ಮಾಡಿದೆ ಎಂದು ಅವರು ವಾದಿಸಿದರು. ಇರಾನ್ ಸಂಘರ್ಷದಲ್ಲಿ ಪಾಕಿಸ್ತಾನದ ಸಂಭಾವ್ಯ ಮಧ್ಯಸ್ಥಿಕೆಯನ್ನು ಉಲ್ಲೇಖಿಸಿ, ಭಾರತದ ಪಾತ್ರವನ್ನು ಪ್ರಶ್ನಿಸಿದರು. ಮೋದಿಯವರ ವೈಯಕ್ತಿಕ ವಿಧಾನವು ಭಾರತವನ್ನು ಅಂತರರಾಷ್ಟ್ರೀಯ ವಿಷಯಗಳ ಬಗ್ಗೆ ಸ್ಪಷ್ಟ ನಿಲುವಿಲ್ಲದೆ ಮಾಡಿದೆ ಎಂದರು."
-            },
-            "mr": {
-                "title": "राहुलने मोदींच्या परराष्ट्र धोरणावर टीका केली",
-                "content": "राहुल गांधींनी पंतप्रधान मोदींच्या परराष्ट्र धोरणाला 'जागतिक विनोद' आणि 'तडजोड केलेले' असे संबोधत जोरदार टीका केली. यामुळे भारताचे जागतिक स्थान कमी झाले आहे, असे त्यांनी म्हटले. इराण संघर्षात पाकिस्तानच्या संभाव्य मध्यस्थीचा उल्लेख करत त्यांनी भारताच्या भूमिकेवर प्रश्नचिन्ह उपस्थित केले. मोदींच्या वैयक्तिक दृष्टिकोनामुळे भारताची आंतरराष्ट्रीय मुद्द्यांवर स्पष्ट भूमिका राहिलेली नाही, असेही ते म्हणाले."
-            },
-            "hi": {
-                "title": "राहुल ने मोदी की विदेश नीति पर साधा निशाना",
-                "content": "राहुल गांधी ने पीएम मोदी की विदेश नीति को 'विश्वव्यापी मज़ाक' और 'समझौतापूर्ण' बताते हुए कड़ी आलोचना की। उन्होंने तर्क दिया कि इसने भारत की वैश्विक स्थिति को कमजोर किया है। उन्होंने ईरान संघर्ष में पाकिस्तान की संभावित मध्यस्थता का हवाला देते हुए भारत की भूमिका पर सवाल उठाया। गांधी ने कहा कि मोदी के व्यक्तिगत दृष्टिकोण ने भारत को अंतरराष्ट्रीय मुद्दों पर स्पष्ट रुख के बिना छोड़ दिया है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129789118,imgsize-938697.cms",
-        "link": "https://timesofindia.indiatimes.com/india/pm-modis-foreign-policy-a-universal-joke-rahul/articleshow/129789109.cms"
     }
 ]
