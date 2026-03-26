@@ -1,5 +1,533 @@
 [
     {
+        "id": "1bd58f41",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "FIR Against X for 'Misleading' AI Video on PM Modi, ECI",
+                "content": "An FIR has been lodged against X (formerly Twitter) in Delhi concerning a deepfake AI-generated video featuring Prime Minister Narendra Modi and Election Commission chief Gyanesh Kumar. The complaint, filed by the BJP’s IT cell head Amit Malviya, alleges the video has the 'potential to mislead' and spread misinformation during the ongoing elections. Authorities are investigating the platform's role in allowing such content."
+            },
+            "kn": {
+                "title": "ಪಿಎಂ ಮೋದಿ, ಇಸಿಐ ಕುರಿತ 'ತಪ್ಪು ದಾರಿಗೆ ಎಳೆಯುವ' ಎಐ ವಿಡಿಯೋಗಾಗಿ ಎಕ್ಸ್ ವಿರುದ್ಧ ಎಫ್‌ಐಆರ್",
+                "content": "ಪ್ರಧಾನಿ ನರೇಂದ್ರ ಮೋದಿ ಮತ್ತು ಚುನಾವಣಾ ಆಯೋಗದ ಮುಖ್ಯಸ್ಥ ಜ್ಞಾನೇಶ್ ಕುಮಾರ್ ಅವರ ಡೀಪ್‌ಫೇಕ್ ಎಐ-ನಿರ್ಮಿತ ವೀಡಿಯೊಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ದೆಹಲಿಯಲ್ಲಿ ಎಕ್ಸ್ (ಹಿಂದಿನ ಟ್ವಿಟರ್) ವಿರುದ್ಧ ಎಫ್‌ಐಆರ್ ದಾಖಲಿಸಲಾಗಿದೆ. ಬಿಜೆಪಿ ಐಟಿ ಸೆಲ್ ಮುಖ್ಯಸ್ಥ ಅಮಿತ್ ಮಾಳವಿಯಾ ಅವರು ಸಲ್ಲಿಸಿದ ದೂರಿನಲ್ಲಿ, ಈ ವೀಡಿಯೊವು 'ತಪ್ಪು ಮಾಹಿತಿಗೆ ಕಾರಣವಾಗಬಹುದು' ಮತ್ತು ನಡೆಯುತ್ತಿರುವ ಚುನಾವಣೆಗಳ ಸಮಯದಲ್ಲಿ ತಪ್ಪು ಮಾಹಿತಿ ಹರಡಬಹುದು ಎಂದು ಆರೋಪಿಸಲಾಗಿದೆ. ಇಂತಹ ವಿಷಯವನ್ನು ಅನುಮತಿಸಿದ ವೇದಿಕೆಯ ಪಾತ್ರದ ಬಗ್ಗೆ ಅಧಿಕಾರಿಗಳು ತನಿಖೆ ನಡೆಸುತ್ತಿದ್ದಾರೆ."
+            },
+            "mr": {
+                "title": "पंतप्रधान मोदी, निवडणूक आयोग संबंधित 'दिशाभूल करणाऱ्या' एआय व्हिडिओसाठी X विरुद्ध FIR",
+                "content": "पंतप्रधान नरेंद्र मोदी आणि निवडणूक आयोगाचे प्रमुख ज्ञानेश कुमार यांच्या डीपफेक एआय-निर्मित व्हिडिओबाबत दिल्लीत एक्स (पूर्वीचे ट्विटर) विरुद्ध एफआयआर दाखल करण्यात आला आहे. भाजपच्या आयटी सेलचे प्रमुख अमित मालवीय यांनी दाखल केलेल्या तक्रारीत आरोप करण्यात आला आहे की, हा व्हिडिओ 'दिशाभूल करण्याची क्षमता' ठेवतो आणि सध्याच्या निवडणुकांदरम्यान गैरमाहिती पसरवू शकतो. अशा सामग्रीला परवानगी देण्यात प्लॅटफॉर्मच्या भूमिकेबद्दल अधिकारी तपास करत आहेत."
+            },
+            "hi": {
+                "title": "पीएम मोदी, चुनाव आयोग पर 'भ्रामक' AI वीडियो को लेकर X के खिलाफ FIR",
+                "content": "प्रधानमंत्री नरेंद्र मोदी और चुनाव आयोग के प्रमुख ज्ञानेश कुमार से जुड़े एक डीपफेक एआई-जनरेटेड वीडियो के संबंध में दिल्ली में एक्स (पूर्व में ट्विटर) के खिलाफ एफआईआर दर्ज की गई है। भाजपा आईटी सेल प्रमुख अमित मालवीय द्वारा दायर शिकायत में आरोप लगाया गया है कि वीडियो में 'गुमराह करने की क्षमता' है और यह चल रहे चुनावों के दौरान गलत सूचना फैला सकता है। अधिकारी ऐसी सामग्री की अनुमति देने में प्लेटफॉर्म की भूमिका की जांच कर रहे हैं।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129818190,imgsize-756312.cms",
+        "link": "https://timesofindia.indiatimes.com/india/potential-to-mislead-fir-registered-against-x-for-ai-video-on-pm-modi-eci-chief-gyanesh-kumar/articleshow/129817472.cms"
+    },
+    {
+        "id": "b162a1d3",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Kerala CM Slams Rahul Gandhi, Calls Congress BJP's 'B-team'",
+                "content": "Kerala CM Pinarayi Vijayan slammed Rahul Gandhi, calling Congress the BJP's 'B-team' and questioning Gandhi's grasp of state politics. This came after Gandhi accused the LDF and BJP of a hidden understanding and criticized Kerala's job promises. Both leaders are trading barbs, with each side alleging the other lacks accountability to the people."
+            },
+            "kn": {
+                "title": "ಕೇರಳ ಸಿಎಂ ರಾಹುಲ್ ಗಾಂಧಿ ವಾಗ್ದಾಳಿ, ಕಾಂಗ್ರೆಸ್ ಅನ್ನು ಬಿಜೆಪಿ 'ಬಿ-ತಂಡ' ಎಂದರು",
+                "content": "ಕೇರಳ ಸಿಎಂ ಪಿಣರಾಯಿ ವಿಜಯನ್ ರಾಹುಲ್ ಗಾಂಧಿಯವರನ್ನು ತರಾಟೆಗೆ ತೆಗೆದುಕೊಂಡರು, ಕಾಂಗ್ರೆಸ್ ಅನ್ನು ಬಿಜೆಪಿಯ 'ಬಿ-ತಂಡ' ಎಂದು ಕರೆದರು ಮತ್ತು ಗಾಂಧಿಯವರಿಗೆ ರಾಜ್ಯ ರಾಜಕೀಯದ ತಿಳುವಳಿಕೆಯನ್ನು ಪ್ರಶ್ನಿಸಿದರು. ಗಾಂಧಿಯವರು ಎಲ್‌ಡಿಎಫ್ ಮತ್ತು ಬಿಜೆಪಿಯ ನಡುವೆ ಗುಪ್ತ ತಿಳುವಳಿಕೆ ಇದೆ ಎಂದು ಆರೋಪಿಸಿದ ನಂತರ ಮತ್ತು ಕೇರಳದ ಉದ್ಯೋಗ ಭರವಸೆಗಳನ್ನು ಟೀಕಿಸಿದ ನಂತರ ಈ ಹೇಳಿಕೆ ಬಂದಿದೆ. ಎರಡೂ ಕಡೆಯವರು ಜನರ ಜವಾಬ್ದಾರಿಯನ್ನು ನಿರ್ವಹಿಸುತ್ತಿಲ್ಲ ಎಂದು ಆರೋಪಿಸುತ್ತಾ ವಾಗ್ದಾಳಿ ನಡೆಸುತ್ತಿದ್ದಾರೆ."
+            },
+            "mr": {
+                "title": "केरळच्या मुख्यमंत्र्यांनी राहुल गांधींवर निशाणा साधला, काँग्रेसला भाजपची 'बी-टीम' म्हटले",
+                "content": "केरळचे मुख्यमंत्री पिनराई विजयन यांनी राहुल गांधींवर जोरदार टीका केली, काँग्रेसला भाजपची 'बी-टीम' म्हटले आणि गांधींच्या राज्य राजकारणाच्या समजूतदारपणावर प्रश्नचिन्ह उपस्थित केले. गांधींनी एलडीएफ आणि भाजपमध्ये गुप्त समझोता असल्याचा आरोप केल्यानंतर आणि केरळमधील नोकरीच्या आश्वासनांवर टीका केल्यानंतर ही टीका आली. दोन्ही नेते एकमेकांवर लोकांप्रति जबाबदारीचा अभाव असल्याचा आरोप करत आहेत."
+            },
+            "hi": {
+                "title": "केरल सीएम ने राहुल गांधी पर साधा निशाना, कांग्रेस को बताया बीजेपी की 'बी-टीम'",
+                "content": "केरल के सीएम पिनाराई विजयन ने राहुल गांधी पर हमला बोलते हुए कांग्रेस को भाजपा की 'बी-टीम' बताया और गांधी की राज्य की राजनीति की समझ पर सवाल उठाया। यह तब आया जब गांधी ने एलडीएफ और भाजपा पर गुप्त समझ का आरोप लगाया और केरल के नौकरी के वादों की आलोचना की। दोनों नेता एक-दूसरे पर जनता के प्रति जवाबदेही की कमी का आरोप लगाते हुए जुबानी जंग कर रहे हैं।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129817179,imgsize-32144.cms",
+        "link": "https://timesofindia.indiatimes.com/india/lacks-basic-understanding-keralam-cm-pinarayi-vijayan-slams-rahul-gandhi-calls-congress-b-team-of-bjp/articleshow/129816956.cms"
+    },
+    {
+        "id": "3d6ee6d6",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Assam CM Hits Back: \"People With BJP, Not Infiltrators\"",
+                "content": "Assam CM Himanta Biswa Sarma slammed the Congress-led opposition's pledge to oust his government. Sarma asserted that the people of Assam are entirely with the ruling BJP, claiming the opposition has no agenda. He controversially added that only \"Bangladeshi infiltrators\" are not supporting the BJP, intensifying the political discourse in the state."
+            },
+            "kn": {
+                "title": "ಅಸ್ಸಾಂ ಸಿಎಂ ಪ್ರತ್ಯುತ್ತರ: \"ಜನರು ಬಿಜೆಪಿಯೊಂದಿಗಿದ್ದಾರೆ, ಒಳನುಸುಳುಕೋರರಲ್ಲ\"",
+                "content": "ಅಸ್ಸಾಂ ಸಿಎಂ ಹಿಮಂತ ಬಿಸ್ವ ಶರ್ಮಾ ತಮ್ಮ ಸರ್ಕಾರವನ್ನು ಪದಚ್ಯುತಗೊಳಿಸುವ ಕಾಂಗ್ರೆಸ್ ನೇತೃತ್ವದ ವಿರೋಧ ಪಕ್ಷದ ಪ್ರತಿಜ್ಞೆಯನ್ನು ತೀವ್ರವಾಗಿ ಟೀಕಿಸಿದ್ದಾರೆ. ಶರ್ಮಾ, ವಿರೋಧ ಪಕ್ಷಕ್ಕೆ ಯಾವುದೇ ಕಾರ್ಯಸೂಚಿ ಇಲ್ಲ ಎಂದು ಹೇಳಿ, ಅಸ್ಸಾಂನ ಜನರು ಆಡಳಿತಾರೂಢ ಬಿಜೆಪಿಯೊಂದಿಗೆ ಸಂಪೂರ್ಣವಾಗಿ ಇದ್ದಾರೆ ಎಂದು ಪ್ರತಿಪಾದಿಸಿದರು. ಅವರು ವಿವಾದಾತ್ಮಕವಾಗಿ, ಕೇವಲ \"ಬಾಂಗ್ಲಾದೇಶಿ ಒಳನುಸುಳುಕೋರರು\" ಮಾತ್ರ ಬಿಜೆಪಿಯನ್ನು ಬೆಂಬಲಿಸುತ್ತಿಲ್ಲ ಎಂದು ಸೇರಿಸಿದರು, ಇದು ರಾಜ್ಯದಲ್ಲಿ ರಾಜಕೀಯ ಚರ್ಚೆಯನ್ನು ತೀವ್ರಗೊಳಿಸಿತು."
+            },
+            "mr": {
+                "title": "आसामच्या मुख्यमंत्र्यांचा पलटवार: \"लोक भाजपसोबत, घुसखोरांसोबत नाहीत\"",
+                "content": "आसामचे मुख्यमंत्री हिमंता बिस्वा सरमा यांनी त्यांचे सरकार पाडण्याच्या काँग्रेस-नेतृत्वाखालील विरोधकांच्या प्रतिज्ञेवर जोरदार टीका केली. शर्मा यांनी सांगितले की, विरोधकांकडे कोणताही अजेंडा नाही आणि आसाममधील जनता पूर्णपणे सत्ताधारी भाजपसोबत आहे. त्यांनी वादग्रस्तपणे असेही म्हटले की, फक्त \"बांगलादेशी घुसखोर\" भाजपला पाठिंबा देत नाहीत, ज्यामुळे राज्यातील राजकीय वाद तीव्र झाला आहे."
+            },
+            "hi": {
+                "title": "असम के CM का पलटवार: \"लोग BJP के साथ, घुसपैठियों के साथ नहीं\"",
+                "content": "असम के मुख्यमंत्री हिमंता बिस्वा सरमा ने अपनी सरकार को सत्ता से बेदखल करने की कांग्रेस-नेतृत्व वाले विपक्ष की प्रतिज्ञा पर पलटवार किया। सरमा ने दावा किया कि असम की जनता पूरी तरह से सत्तारूढ़ भाजपा के साथ है और विपक्ष के पास कोई एजेंडा नहीं है। उन्होंने विवादास्पद रूप से कहा कि केवल \"बांग्लादेशी घुसपैठिए\" ही भाजपा का समर्थन नहीं कर रहे हैं, जिससे राज्य में राजनीतिक बहस और तेज हो गई है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129814929,imgsize-71576.cms",
+        "link": "https://timesofindia.indiatimes.com/india/people-with-bjp-except-bangladeshi-infiltrators-assam-cm-hits-out-at-congress-as-gogoi-eyes-change/articleshow/129814790.cms"
+    },
+    {
+        "id": "9d37000e",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Amit Shah Leads GoM on Middle East Crisis Strategy",
+                "content": "Home Minister Amit Shah now heads an informal Group of Ministers (GoM) to address strategic implications of the West Asia crisis, particularly regarding cooking gas and LNG supplies. A separate GoM, led by Manohar Lal, focuses on broader energy supply and promoting piped gas (PNG) for homes, as India navigates the conflict's far-reaching economic impacts."
+            },
+            "kn": {
+                "title": "ಅಮಿತ್ ಶಾ ಮಧ್ಯಪ್ರಾಚ್ಯ ಬಿಕ್ಕಟ್ಟು ಕಾರ್ಯತಂತ್ರಕ್ಕಾಗಿ GoM ಮುನ್ನಡೆಸುತ್ತಿದ್ದಾರೆ",
+                "content": "ಗೃಹ ಸಚಿವ ಅಮಿತ್ ಶಾ ಈಗ ಪಶ್ಚಿಮ ಏಷ್ಯಾ ಬಿಕ್ಕಟ್ಟಿನ ಕಾರ್ಯತಂತ್ರದ ಪರಿಣಾಮಗಳನ್ನು, ವಿಶೇಷವಾಗಿ ಅಡುಗೆ ಅನಿಲ ಮತ್ತು ಎಲ್‌ಎನ್‌ಜಿ ಪೂರೈಕೆಗೆ ಸಂಬಂಧಿಸಿದಂತೆ, ಪರಿಹರಿಸಲು ಅನೌಪಚಾರಿಕ ಸಚಿವರ ಗುಂಪಿನ (GoM) ನೇತೃತ್ವ ವಹಿಸಿದ್ದಾರೆ. ಮನೋಹರ್ ಲಾಲ್ ನೇತೃತ್ವದ ಪ್ರತ್ಯೇಕ GoM, ವ್ಯಾಪಕ ಇಂಧನ ಪೂರೈಕೆ ಮತ್ತು ಮನೆಗಳಿಗೆ ಪೈಪ್ ಅನಿಲ (PNG) ಉತ್ತೇಜಿಸುವುದರ ಮೇಲೆ ಗಮನ ಹರಿಸಿದೆ, ಏಕೆಂದರೆ ಭಾರತವು ಸಂಘರ್ಷದ ದೂರಗಾಮಿ ಆರ್ಥಿಕ ಪರಿಣಾಮಗಳನ್ನು ನಿಭಾಯಿಸುತ್ತಿದೆ."
+            },
+            "mr": {
+                "title": "अमित शाह मध्यपूर्व संकटावरील धोरणात्मक गटाचे नेतृत्व करणार",
+                "content": "गृहमंत्री अमित शाह आता पश्चिम आशिया संकटाच्या धोरणात्मक परिणामांवर, विशेषतः स्वयंपाकाचा गॅस आणि एलएनजी पुरवठ्याबाबत, लक्ष देण्यासाठी अनौपचारिक मंत्री गटाचे (GoM) नेतृत्व करत आहेत. मनोहर लाल यांच्या नेतृत्वाखालील एक स्वतंत्र GoM, विस्तृत ऊर्जा पुरवठा आणि घरांसाठी पाईप गॅस (PNG) ला प्रोत्साहन देण्यावर लक्ष केंद्रित करत आहे, कारण भारत या संघर्षाच्या दूरगामी आर्थिक परिणामांवर मात करत आहे."
+            },
+            "hi": {
+                "title": "अमित शाह मध्य पूर्व संकट रणनीति पर GoM का नेतृत्व करेंगे",
+                "content": "गृह मंत्री अमित शाह अब पश्चिम एशिया संकट के रणनीतिक प्रभावों को संबोधित करने के लिए एक अनौपचारिक मंत्री समूह (GoM) का नेतृत्व कर रहे हैं, विशेष रूप से रसोई गैस और एलएनजी आपूर्ति के संबंध में। मनोहर लाल के नेतृत्व में एक अलग GoM, व्यापक ऊर्जा आपूर्ति और घरों के लिए पाइप गैस (PNG) को बढ़ावा देने पर केंद्रित है, क्योंकि भारत संघर्ष के दूरगामी आर्थिक प्रभावों को संभाल रहा है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129813940,imgsize-28450.cms",
+        "link": "https://timesofindia.indiatimes.com/india/shah-heading-informal-gom-on-overall-strategic-issues/articleshow/129813939.cms"
+    },
+    {
+        "id": "0f9431b2",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Agnikul Cosmos Tests Groundbreaking 3D-Printed 'Agnite' Engine",
+                "content": "Indian space company Agnikul Cosmos successfully tested its 3D-printed booster engine, 'Agnite'. This single-piece Inconel engine can be fully printed within a week, drastically cutting production complexity and turnaround time. The successful in-house test marks a crucial end-to-end cycle completion, paving the way for larger engines and showcasing India's advanced manufacturing capabilities in space technology."
+            },
+            "kn": {
+                "title": "ಅಗ್ನಿಕುಲ್ ಕಾಸ್ಮಾಸ್ ಮಹತ್ವದ 3D-ಮುದ್ರಿತ 'ಅಗ್ನೈಟ್' ಎಂಜಿನ್ ಪರೀಕ್ಷಿಸಿತು",
+                "content": "ಭಾರತೀಯ ಬಾಹ್ಯಾಕಾಶ ಕಂಪನಿ ಅಗ್ನಿಕುಲ್ ಕಾಸ್ಮಾಸ್ ತನ್ನ 3D-ಮುದ್ರಿತ ಬೂಸ್ಟರ್ ಎಂಜಿನ್ 'ಅಗ್ನೈಟ್' ಅನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಪರೀಕ್ಷಿಸಿದೆ. ಈ ಏಕ-ತುಂಡು ಇನ್‌ಕೋನೆಲ್ ಎಂಜಿನ್ ಅನ್ನು ಒಂದು ವಾರದೊಳಗೆ ಸಂಪೂರ್ಣವಾಗಿ ಮುದ್ರಿಸಬಹುದು, ಇದು ಉತ್ಪಾದನಾ ಸಂಕೀರ್ಣತೆ ಮತ್ತು ಸಮಯವನ್ನು ತೀವ್ರವಾಗಿ ಕಡಿಮೆ ಮಾಡುತ್ತದೆ. ಯಶಸ್ವಿ ಆಂತರಿಕ ಪರೀಕ್ಷೆಯು ಪ್ರಮುಖ ಎಂಡ್-ಟು-ಎಂಡ್ ಚಕ್ರ ಪೂರ್ಣಗೊಳಿಸುವಿಕೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಇದು ದೊಡ್ಡ ಎಂಜಿನ್‌ಗಳಿಗೆ ದಾರಿ ಮಾಡಿಕೊಡುತ್ತದೆ ಮತ್ತು ಬಾಹ್ಯಾಕಾಶ ತಂತ್ರಜ್ಞಾನದಲ್ಲಿ ಭಾರತದ ಸುಧಾರಿತ ಉತ್ಪಾದನಾ ಸಾಮರ್ಥ್ಯಗಳನ್ನು ಪ್ರದರ್ಶಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "अग्निकुल कॉसमॉसने महत्त्वपूर्ण 3D-मुद्रित 'अग्नाईट' इंजिनची चाचणी केली",
+                "content": "भारतीय अंतराळ कंपनी अग्निकुल कॉसमॉसने आपल्या 3D-मुद्रित बूस्टर इंजिन 'अग्नाईट'ची यशस्वी चाचणी केली. हे एक-तुकडा इनकनेल इंजिन एका आठवड्यात पूर्णपणे मुद्रित केले जाऊ शकते, ज्यामुळे उत्पादन गुंतागुंत आणि वेळ लक्षणीयरीत्या कमी होतो. यशस्वी अंतर्गत चाचणीमुळे महत्त्वपूर्ण एंड-टू-एंड सायकल पूर्ण झाली आहे, ज्यामुळे मोठ्या इंजिनांसाठी मार्ग मोकळा झाला आहे आणि अंतराळ तंत्रज्ञानातील भारताची प्रगत उत्पादन क्षमता दिसून येते."
+            },
+            "hi": {
+                "title": "अग्निकुल कॉसमॉस ने अभूतपूर्व 3D-मुद्रित 'अग्नाईट' इंजन का परीक्षण किया",
+                "content": "भारतीय अंतरिक्ष कंपनी अग्निकुल कॉसमॉस ने अपने 3D-मुद्रित बूस्टर इंजन 'अग्नाईट' का सफलतापूर्वक परीक्षण किया है। यह एक-टुकड़ा इनकोनेल इंजन एक सप्ताह के भीतर पूरी तरह से मुद्रित किया जा सकता है, जिससे उत्पादन की जटिलता और लगने वाला समय काफी कम हो जाता है। सफल इन-हाउस परीक्षण एक महत्वपूर्ण एंड-टू-एंड चक्र पूरा करता है, जो बड़े इंजनों के लिए मार्ग प्रशस्त करता है और अंतरिक्ष प्रौद्योगिकी में भारत की उन्नत विनिर्माण क्षमताओं को प्रदर्शित करता है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129813920,imgsize-994722.cms",
+        "link": "https://timesofindia.indiatimes.com/india/space-co-agnikul-successfully-tests-3d-printed-agnite-booster-engine/articleshow/129813922.cms"
+    },
+    {
+        "id": "27e0b9da",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Op Urja Suraksha: Navy Secures Vital Cargo Routes",
+                "content": "India's Navy has launched 'Operation Urja Suraksha,' deploying over five warships to ensure safe passage for vital India-bound cargo vessels, including LPG and crude oil tankers. These warships escort ships out of the troubled Strait of Hormuz, safeguarding critical maritime routes and Indian crews. The operation has already achieved significant successes, reinforcing maritime security."
+            },
+            "kn": {
+                "title": "ಆಪರೇಷನ್ ಉರ್ಜಾ ಸುರಕ್ಷಾ: ನೌಕಾಪಡೆ ನಿರ್ಣಾಯಕ ಸರಕು ಮಾರ್ಗಗಳನ್ನು ಭದ್ರಪಡಿಸುತ್ತದೆ",
+                "content": "ಭಾರತೀಯ ನೌಕಾಪಡೆಯು 'ಆಪರೇಷನ್ ಉರ್ಜಾ ಸುರಕ್ಷಾ'ವನ್ನು ಪ್ರಾರಂಭಿಸಿದೆ, ಐದಕ್ಕೂ ಹೆಚ್ಚು ಯುದ್ಧನೌಕೆಗಳನ್ನು ನಿಯೋಜಿಸಿ ಎಲ್‌ಪಿಜಿ ಮತ್ತು ಕಚ್ಚಾ ತೈಲ ಟ್ಯಾಂಕರ್‌ಗಳನ್ನು ಒಳಗೊಂಡಂತೆ ಭಾರತಕ್ಕೆ ಬರುವ ಪ್ರಮುಖ ಸರಕು ಹಡಗುಗಳಿಗೆ ಸುರಕ್ಷಿತ ಮಾರ್ಗವನ್ನು ಖಚಿತಪಡಿಸುತ್ತಿದೆ. ಈ ಯುದ್ಧನೌಕೆಗಳು ಹಾರ್ಮುಜ್ ಜಲಸಂಧಿಯಿಂದ ಹಡಗುಗಳಿಗೆ ಬೆಂಗಾವಲು ಒದಗಿಸುತ್ತಿದ್ದು, ನಿರ್ಣಾಯಕ ಕಡಲ ಮಾರ್ಗಗಳು ಮತ್ತು ಭಾರತೀಯ ಸಿಬ್ಬಂದಿಯನ್ನು ರಕ್ಷಿಸುತ್ತಿವೆ. ಕಾರ್ಯಾಚರಣೆಯು ಈಗಾಗಲೇ ಗಮನಾರ್ಹ ಯಶಸ್ಸನ್ನು ಸಾಧಿಸಿ, ಕಡಲ ಭದ್ರತೆಯನ್ನು ಬಲಪಡಿಸಿದೆ."
+            },
+            "mr": {
+                "title": "ऑपरेशन ऊर्जा सुरक्षा: नौदल महत्त्वपूर्ण मालवाहतूक मार्गांना सुरक्षित करते",
+                "content": "भारतीय नौदलाने 'ऑपरेशन ऊर्जा सुरक्षा' सुरू केले आहे, ज्यात एलपीजी आणि कच्चे तेल वाहून नेणाऱ्या जहाजांसह भारताकडे येणाऱ्या महत्त्वाच्या मालवाहतूक जहाजांना सुरक्षित मार्ग सुनिश्चित करण्यासाठी पाचपेक्षा जास्त युद्धनौका तैनात केल्या आहेत. या युद्धनौका हॉर्मुझच्या त्रासदायक सामुद्रधुनीतून जहाजांना बाहेर काढत आहेत, ज्यामुळे महत्त्वाचे सागरी मार्ग आणि भारतीय कर्मचाऱ्यांचे संरक्षण होते. या ऑपरेशनने आधीच महत्त्वपूर्ण यश मिळवले आहे, ज्यामुळे सागरी सुरक्षा मजबूत झाली आहे."
+            },
+            "hi": {
+                "title": "ऑप ऊर्जा सुरक्षा: नौसेना ने महत्वपूर्ण माल मार्गों को सुरक्षित किया",
+                "content": "भारतीय नौसेना ने 'ऑपरेशन ऊर्जा सुरक्षा' शुरू किया है, जिसमें एलपीजी और कच्चे तेल के टैंकरों सहित भारत आने वाले महत्वपूर्ण मालवाहक जहाजों के सुरक्षित मार्ग को सुनिश्चित करने के लिए पांच से अधिक युद्धपोत तैनात किए गए हैं। ये युद्धपोत अशांत होर्मुज जलडमरूमध्य से जहाजों को बाहर निकाल रहे हैं, जिससे महत्वपूर्ण समुद्री मार्ग और भारतीय चालक दल सुरक्षित रहें। इस ऑपरेशन ने पहले ही महत्वपूर्ण सफलताएं हासिल की हैं, जिससे समुद्री सुरक्षा मजबूत हुई है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129813913,imgsize-1201875.cms",
+        "link": "https://timesofindia.indiatimes.com/india/op-urja-suraksha-navy-deploys-5-warships-to-guide-cargo-vessels-exiting-troubled-strait-of-hormuz/articleshow/129813914.cms"
+    },
+    {
+        "id": "9399b013",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "US Rep's 'Third World Rituals' Jibe Sparks Chhat Puja Fury",
+                "content": "US Representative Brandon Gill sparked online fury by calling Chhat Puja 'Third World rituals.' His controversial comment ignited widespread outrage, drawing sharp criticism for disparaging the revered Hindu festival. The jibe has intensified debates on cultural insensitivity and respect for diverse traditions, causing a significant online backlash against the politician's remarks."
+            },
+            "kn": {
+                "title": "US ಪ್ರತಿನಿಧಿಯ 'ಮೂರನೇ ವಿಶ್ವದ ಆಚರಣೆಗಳು' ಎಂಬ ಟೀಕೆ ಛತ್ ಪೂಜಾ ಆಕ್ರೋಶಕ್ಕೆ ಕಾರಣ",
+                "content": "ಯುಎಸ್ ಪ್ರತಿನಿಧಿ ಬ್ರಾಂಡನ್ ಗಿಲ್ ಛತ್ ಪೂಜೆಯನ್ನು 'ಮೂರನೇ ವಿಶ್ವದ ಆಚರಣೆಗಳು' ಎಂದು ಜರಿಯುವ ಮೂಲಕ ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ಭಾರಿ ಆಕ್ರೋಶಕ್ಕೆ ಕಾರಣರಾಗಿದ್ದಾರೆ. ಅವರ ವಿವಾದಾತ್ಮಕ ಹೇಳಿಕೆಯು ಗೌರವಾನ್ವಿತ ಹಿಂದೂ ಹಬ್ಬವನ್ನು ಅವಮಾನಿಸಿದ್ದಕ್ಕಾಗಿ ತೀವ್ರ ಟೀಕೆಯನ್ನು ಎದುರಿಸಿದೆ, ಸಾಂಸ್ಕೃತಿಕ ಸೂಕ್ಷ್ಮತೆ ಮತ್ತು ವೈವಿಧ್ಯಮಯ ಸಂಪ್ರದಾಯಗಳ ಗೌರವದ ಬಗ್ಗೆ ವ್ಯಾಪಕ ಚರ್ಚೆಗೆ ಕಾರಣವಾಗಿದೆ."
+            },
+            "mr": {
+                "title": "अमेरिकेच्या प्रतिनिधीची 'तिसऱ्या जगातील विधी' टिप्पणीने छठ पूजेवर संताप",
+                "content": "यूएस प्रतिनिधी ब्रँडन गिल यांनी छठ पूजेला 'तिसऱ्या जगातील विधी' संबोधून ऑनलाइनमध्ये मोठा संताप निर्माण केला. त्यांच्या वादग्रस्त वक्तव्यामुळे आदरणीय हिंदू सणाला अपमानित केल्याबद्दल तीव्र टीका झाली आहे, ज्यामुळे सांस्कृतिक संवेदनशीलता आणि विविध परंपरांच्या सन्मानाबद्दल व्यापक चर्चा सुरू झाली आहे."
+            },
+            "hi": {
+                "title": "अमेरिकी प्रतिनिधि की 'तीसरे विश्व के अनुष्ठान' टिप्पणी ने छठ पूजा पर भड़काया आक्रोश",
+                "content": "अमेरिकी प्रतिनिधि ब्रैंडन गिल ने छठ पूजा को 'तीसरे विश्व के अनुष्ठान' कहकर ऑनलाइन भारी आक्रोश भड़काया। उनकी विवादास्पद टिप्पणी ने प्रतिष्ठित हिंदू त्योहार का अपमान करने के लिए तीखी आलोचना झेली, जिससे सांस्कृतिक संवेदनशीलता और विविध परंपराओं के सम्मान पर व्यापक बहस छिड़ गई है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129817438,imgsize-123666.cms",
+        "link": "https://timesofindia.indiatimes.com/world/us/dont-want-third-world-rituals-us-rep-brandon-gills-chhat-puja-jibe-sparks-online-fury/articleshow/129817438.cms"
+    },
+    {
+        "id": "c99be86e",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Melania Trump's Robot Teacher Sparks Backlash",
+                "content": "Melania Trump has drawn sharp criticism for unveiling 'Plato', an AI-powered robot teacher for American students. The initiative, aimed at modernizing education, faced immediate backlash with many questioning its necessity and effectiveness. Critics widely stated, \"No one asked for this,\" highlighting concerns over the human element in teaching and resource allocation."
+            },
+            "kn": {
+                "title": "ಮೆಲಾನಿಯಾ ಟ್ರಂಪ್ ಅವರ ರೋಬೋಟ್ ಶಿಕ್ಷಕ ತೀವ್ರ ಟೀಕೆಗೆ ಗುರಿ",
+                "content": "ಮೆಲಾನಿಯಾ ಟ್ರಂಪ್ ಅವರು ಅಮೆರಿಕನ್ ವಿದ್ಯಾರ್ಥಿಗಳಿಗಾಗಿ 'ಪ್ಲೇಟೋ' ಎಂಬ AI-ಚಾಲಿತ ರೋಬೋಟ್ ಶಿಕ್ಷಕನನ್ನು ಅನಾವರಣಗೊಳಿಸಿದ್ದಕ್ಕಾಗಿ ತೀವ್ರ ಟೀಕೆಗೆ ಒಳಗಾಗಿದ್ದಾರೆ. ಶಿಕ್ಷಣವನ್ನು ಆಧುನೀಕರಿಸುವ ಗುರಿಯನ್ನು ಹೊಂದಿದ್ದ ಈ ಉಪಕ್ರಮವು ತಕ್ಷಣದ ಹಿನ್ನಡೆಗೆ ಗುರಿಯಾಯಿತು, ಅನೇಕರು ಅದರ ಅಗತ್ಯತೆ ಮತ್ತು ಪರಿಣಾಮಕಾರಿತ್ವವನ್ನು ಪ್ರಶ್ನಿಸಿದರು. ವಿಮರ್ಶಕರು \"ಇದನ್ನು ಯಾರೂ ಕೇಳಿರಲಿಲ್ಲ\" ಎಂದು ವ್ಯಾಪಕವಾಗಿ ಹೇಳಿ, ಬೋಧನೆಯಲ್ಲಿ ಮಾನವ ಅಂಶ ಮತ್ತು ಸಂಪನ್ಮೂಲ ಹಂಚಿಕೆಯ ಬಗ್ಗೆ ಕಳವಳ ವ್ಯಕ್ತಪಡಿಸಿದರು."
+            },
+            "mr": {
+                "title": "मेलानिया ट्रम्पच्या रोबोट शिक्षकामुळे संताप",
+                "content": "मेलानिया ट्रम्प यांनी अमेरिकन विद्यार्थ्यांसाठी 'प्लेटो' नावाच्या एआय-शक्तीवर चालणाऱ्या रोबोट शिक्षकाचे अनावरण केल्याने तीव्र टीका ओढवून घेतली आहे. शिक्षणाच्या आधुनिकीकरणाच्या उद्देशाने सुरू करण्यात आलेल्या या उपक्रमाला त्वरित विरोध झाला, अनेकांनी त्याची गरज आणि परिणामकारकता यावर प्रश्नचिन्ह उपस्थित केले. \"याची कोणी मागणी नव्हती,\" असे म्हणत टीकाकारांनी शिकवण्यातील मानवी घटक आणि संसाधनांच्या वाटपाबद्दल चिंता व्यक्त केली."
+            },
+            "hi": {
+                "title": "मेलानिया ट्रम्प के रोबोट शिक्षक पर विवाद",
+                "content": "मेलानिया ट्रम्प को अमेरिकी छात्रों के लिए 'प्लेटो' नामक एआई-संचालित रोबोट शिक्षक का अनावरण करने पर कड़ी आलोचना का सामना करना पड़ा है। शिक्षा के आधुनिकीकरण के उद्देश्य से शुरू की गई इस पहल को तुरंत झटका लगा, कई लोगों ने इसकी आवश्यकता और प्रभावशीलता पर सवाल उठाया। आलोचकों ने व्यापक रूप से कहा, \"इसकी किसी ने मांग नहीं की थी,\" शिक्षण में मानवीय तत्व और संसाधन आवंटन पर चिंता व्यक्त की।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129815741,imgsize-97300.cms",
+        "link": "https://timesofindia.indiatimes.com/world/us/no-one-asked-for-this-melania-trump-slammed-for-introducing-robot-teacher-plato-for-american-students/articleshow/129815741.cms"
+    },
+    {
+        "id": "e7784c8f",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Kuwait Airways Simplifies Saudi Transit Visas",
+                "content": "Kuwait Airways now offers a seamless Saudi Transit Visa service, integrated directly into flight bookings. This innovative move streamlines travel, allowing passengers to secure both their visa and tickets simultaneously via sales offices or the call center. Simplifying the process, applicants only need a photo, Civil ID, and passport copy, making international connections through Saudi Arabia significantly more convenient for travelers."
+            },
+            "kn": {
+                "title": "ಕುವೈತ್ ಏರ್‌ವೇಸ್ ಸೌದಿ ಟ್ರಾನ್ಸಿಟ್ ವೀಸಾಗಳನ್ನು ಸರಳಗೊಳಿಸಿದೆ",
+                "content": "ಕುವೈತ್ ಏರ್‌ವೇಸ್ ಈಗ ವಿಮಾನ ಟಿಕೆಟ್ ಬುಕಿಂಗ್‌ನೊಂದಿಗೆ ನೇರವಾಗಿ ಸಂಯೋಜಿತವಾದ ತಡೆರಹಿತ ಸೌದಿ ಟ್ರಾನ್ಸಿಟ್ ವೀಸಾ ಸೇವೆಯನ್ನು ಒದಗಿಸುತ್ತದೆ. ಈ ನವೀನ ಕ್ರಮವು ಪ್ರಯಾಣವನ್ನು ಸುಗಮಗೊಳಿಸುತ್ತದೆ, ಪ್ರಯಾಣಿಕರಿಗೆ ಮಾರಾಟ ಕಚೇರಿಗಳು ಅಥವಾ ಕರೆ ಕೇಂದ್ರದ ಮೂಲಕ ಏಕಕಾಲದಲ್ಲಿ ತಮ್ಮ ವೀಸಾ ಮತ್ತು ಟಿಕೆಟ್‌ಗಳನ್ನು ಪಡೆಯಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ. ಪ್ರಕ್ರಿಯೆಯನ್ನು ಸರಳಗೊಳಿಸಿ, ಅರ್ಜಿದಾರರಿಗೆ ಕೇವಲ ಫೋಟೋ, ಸಿವಿಲ್ ಐಡಿ ಮತ್ತು ಪಾಸ್‌ಪೋರ್ಟ್ ನಕಲು ಬೇಕಾಗುತ್ತದೆ, ಸೌದಿ ಅರೇಬಿಯಾ ಮೂಲಕ ಅಂತರರಾಷ್ಟ್ರೀಯ ಸಂಪರ್ಕಗಳನ್ನು ಪ್ರಯಾಣಿಕರಿಗೆ ಗಮನಾರ್ಹವಾಗಿ ಹೆಚ್ಚು ಅನುಕೂಲಕರವಾಗಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "कुवैत एअरवेजने सौदी ट्रान्झिट व्हिसा सुलभ केले",
+                "content": "कुवैत एअरवेज आता थेट फ्लाइट बुकिंगमध्ये समाकलित केलेली एक अखंड सौदी ट्रान्झिट व्हिसा सेवा देत आहे. या अभिनव पावलामुळे प्रवास सुलभ होतो, ज्यामुळे प्रवासी विक्री कार्यालये किंवा कॉल सेंटरद्वारे एकाच वेळी त्यांचा व्हिसा आणि तिकिटे सुरक्षित करू शकतात. प्रक्रिया सुलभ करताना, अर्जदारांना फक्त एक फोटो, सिव्हिल आयडी आणि पासपोर्टची प्रत आवश्यक आहे, ज्यामुळे सौदी अरेबियामार्गे आंतरराष्ट्रीय कनेक्शन प्रवाशांसाठी लक्षणीयरीत्या अधिक सोयीस्कर होतात."
+            },
+            "hi": {
+                "title": "कुवैत एयरवेज ने सऊदी ट्रांजिट वीजा को सरल बनाया",
+                "content": "कुवैत एयरवेज अब फ्लाइट बुकिंग के साथ सीधे एकीकृत एक सहज सऊदी ट्रांजिट वीजा सेवा प्रदान करता है। यह अभिनव कदम यात्रा को सुव्यवस्थित करता है, जिससे यात्रियों को बिक्री कार्यालयों या कॉल सेंटर के माध्यम से एक साथ अपना वीजा और टिकट सुरक्षित करने की सुविधा मिलती है। प्रक्रिया को सरल बनाते हुए, आवेदकों को केवल एक फोटो, सिविल आईडी और पासपोर्ट की प्रति की आवश्यकता होती है, जिससे सऊदी अरब के माध्यम से अंतरराष्ट्रीय कनेक्शन यात्रियों के लिए काफी अधिक सुविधाजनक हो जाते हैं।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129817548,imgsize-533811.cms",
+        "link": "https://timesofindia.indiatimes.com/world/middle-east/kuwait-airways-to-allow-saudi-transit-visa-during-ticket-booking-where-to-apply-required-documents-all-you-need-to-know/articleshow/129817125.cms"
+    },
+    {
+        "id": "0d84494c",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Vance's Pakistan Trip: US-Iran De-escalation Push Looms",
+                "content": "US VP JD Vance might visit Pakistan this week for crucial backchannel talks with Iran, aiming to de-escalate the Middle East conflict. This potential mediation follows Iran's preference for negotiating through Vance. Pakistan has offered to host these sensitive discussions, even as the US maintains military pressure, signaling a diplomatic push amid regional tensions."
+            },
+            "kn": {
+                "title": "ವೇನ್ಸ್ ಪಾಕಿಸ್ತಾನ ಭೇಟಿ: ಅಮೆರಿಕ-ಇರಾನ್ ಬಿಕ್ಕಟ್ಟು ಶಮನಕ್ಕೆ ಯತ್ನ",
+                "content": "ಅಮೆರಿಕದ ಉಪಾಧ್ಯಕ್ಷ ಜೆಡಿ ವೇನ್ಸ್ ಈ ವಾರ ಪಾಕಿಸ್ತಾನಕ್ಕೆ ಭೇಟಿ ನೀಡಿ ಇರಾನ್ ಜೊತೆ ರಹಸ್ಯ ಮಾತುಕತೆ ನಡೆಸುವ ಸಾಧ್ಯತೆಯಿದೆ. ಮಧ್ಯಪ್ರಾಚ್ಯದಲ್ಲಿನ ಬಿಕ್ಕಟ್ಟನ್ನು ಶಮನಗೊಳಿಸುವುದು ಇದರ ಗುರಿಯಾಗಿದೆ. ಇರಾನ್, ವೇನ್ಸ್ ಮೂಲಕ ಮಾತುಕತೆ ನಡೆಸಲು ಆದ್ಯತೆ ನೀಡಿರುವುದರಿಂದ ಈ ಸಂಭಾವ್ಯ ಮಧ್ಯಸ್ಥಿಕೆ ಸಾಧ್ಯವಾಗಿದೆ. ಅಮೆರಿಕ ಮಿಲಿಟರಿ ಒತ್ತಡವನ್ನು ಕಾಯ್ದುಕೊಂಡಿದ್ದರೂ, ಪಾಕಿಸ್ತಾನ ಈ ಸೂಕ್ಷ್ಮ ಚರ್ಚೆಗಳಿಗೆ ಆತಿಥ್ಯ ನೀಡಲು ಮುಂದಾಗಿದೆ, ಇದು ಪ್ರಾದೇಶಿಕ ಉದ್ವಿಗ್ನತೆಗಳ ನಡುವೆ ರಾಜತಾಂತ್ರಿಕ ಪ್ರಯತ್ನವನ್ನು ಸೂಚಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "वेन्सचा पाकिस्तान दौरा: अमेरिका-इराण तणाव कमी करण्याचा प्रयत्न?",
+                "content": "अमेरिकेचे उपाध्यक्ष जेडी वेन्स या आठवड्यात पाकिस्तानला भेट देऊन इराणसोबत महत्त्वपूर्ण पडद्यामागील चर्चा करण्याची शक्यता आहे. याचा उद्देश मध्यपूर्वेतील संघर्ष कमी करणे आहे. इराणने वेन्सच्या माध्यमातून वाटाघाटी करण्यास प्राधान्य दिल्याने हे संभाव्य मध्यस्थी शक्य झाली आहे. अमेरिका लष्करी दबाव कायम ठेवत असतानाही, पाकिस्तानने या संवेदनशील चर्चांसाठी यजमानपद स्वीकारण्याची ऑफर दिली आहे, जे प्रादेशिक तणावामध्ये मुत्सद्दीपणाच्या प्रयत्नांचे संकेत देते."
+            },
+            "hi": {
+                "title": "वेन्स का पाकिस्तान दौरा: अमेरिका-ईरान तनाव कम करने की पहल",
+                "content": "अमेरिकी उपराष्ट्रपति जेडी वेन्स इस सप्ताह ईरान के साथ महत्वपूर्ण परोक्ष वार्ता के लिए पाकिस्तान का दौरा कर सकते हैं, जिसका उद्देश्य मध्य पूर्व संघर्ष को कम करना है। यह संभावित मध्यस्थता ईरान की वेन्स के माध्यम से बातचीत करने की प्राथमिकता के बाद आई है। अमेरिका सैन्य दबाव बनाए हुए है, फिर भी पाकिस्तान ने इन संवेदनशील चर्चाओं की मेजबानी की पेशकश की है, जो क्षेत्रीय तनाव के बीच एक राजनयिक प्रयास का संकेत देता है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129816702,imgsize-1147733.cms",
+        "link": "https://timesofindia.indiatimes.com/world/us/us-iran-mediation-jd-vance-might-visit-pakistan-over-weekend-to-talk-it-out-with-tehran/articleshow/129816652.cms"
+    },
+    {
+        "id": "21a1163a",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "White House Warns Iran: \"Unleash Hell\" Over Deal Rejection",
+                "content": "The White House issued a stern warning to Iran, asserting President Trump will \"unleash hell\" if Tehran rejects a deal to end the Middle East conflict. Press secretary Karoline Leavitt stated Iran is militarily defeated and will face intensified strikes for any miscalculation. The message underscores US resolve amidst regional tensions, pushing Iran to accept reality or face severe consequences."
+            },
+            "kn": {
+                "title": "ಶ್ವೇತಭವನದಿಂದ ಇರಾನ್‌ಗೆ ಎಚ್ಚರಿಕೆ: ಒಪ್ಪಂದ ನಿರಾಕರಿಸಿದರೆ \"ನರಕವನ್ನು ಸಡಿಲಿಸುತ್ತೇವೆ\"",
+                "content": "ಶ್ವೇತಭವನವು ಇರಾನ್‌ಗೆ ಕಠಿಣ ಎಚ್ಚರಿಕೆ ನೀಡಿದ್ದು, ಮಧ್ಯಪ್ರಾಚ್ಯ ಸಂಘರ್ಷವನ್ನು ಕೊನೆಗೊಳಿಸುವ ಒಪ್ಪಂದವನ್ನು ಟೆಹ್ರಾನ್ ನಿರಾಕರಿಸಿದರೆ ಅಧ್ಯಕ್ಷ ಟ್ರಂಪ್ \"ನರಕವನ್ನು ಸಡಿಲಿಸಲಿದ್ದಾರೆ\" ಎಂದು ಹೇಳಿದೆ. ಇರಾನ್ ಮಿಲಿಟರಿ ಸೋಲನ್ನು ಅನುಭವಿಸಿದೆ ಮತ್ತು ಯಾವುದೇ ತಪ್ಪು ಲೆಕ್ಕಾಚಾರಕ್ಕೆ ತೀವ್ರಗೊಂಡ ದಾಳಿಯನ್ನು ಎದುರಿಸಲಿದೆ ಎಂದು ಪತ್ರಿಕಾ ಕಾರ್ಯದರ್ಶಿ ಕರೋಲಿನ್ ಲೀವಿಟ್ ತಿಳಿಸಿದ್ದಾರೆ. ಈ ಸಂದೇಶವು ಪ್ರಾದೇಶಿಕ ಉದ್ವಿಗ್ನತೆಗಳ ನಡುವೆ ಅಮೆರಿಕದ ದೃಢತೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ, ಇರಾನ್‌ಗೆ ವಾಸ್ತವವನ್ನು ಒಪ್ಪಿಕೊಳ್ಳಲು ಅಥವಾ ಗಂಭೀರ ಪರಿಣಾಮಗಳನ್ನು ಎದುರಿಸಲು ಒತ್ತಾಯಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "व्हाईट हाऊसचा इराणला इशारा: करार नाकारल्यास \"अग्नितांडव\"",
+                "content": "व्हाईट हाऊसने इराणला तीव्र इशारा दिला आहे की, मध्यपूर्वेतील संघर्ष संपवण्याचा करार तेहरानने नाकारल्यास अध्यक्ष ट्रम्प \"अग्नितांडव\" करतील. प्रेस सचिव कॅरोलिन लीव्हिट यांनी सांगितले की, इराणचा लष्करी पराभव झाला आहे आणि कोणत्याही चुकीच्या अंदाजामुळे त्याला तीव्र हल्ल्यांना सामोरे जावे लागेल. हा संदेश प्रादेशिक तणावांमध्ये अमेरिकेचा दृढनिश्चय अधोरेखित करतो, इराणला वास्तव स्वीकारण्यास किंवा गंभीर परिणामांना सामोरे जाण्यास प्रवृत्त करतो."
+            },
+            "hi": {
+                "title": "व्हाइट हाउस की ईरान को चेतावनी: सौदा ठुकराया तो \"नरक का कोप\"",
+                "content": "व्हाइट हाउस ने ईरान को कड़ी चेतावनी दी है कि यदि तेहरान मध्य पूर्व संघर्ष को समाप्त करने के सौदे को अस्वीकार करता है तो राष्ट्रपति ट्रंप \"नरक का कोप\" बरसाएंगे। प्रेस सचिव कैरोलिन लीविट ने कहा कि ईरान सैन्य रूप से पराजित हो चुका है और किसी भी गलत अनुमान पर उसे तीव्र हमलों का सामना करना पड़ेगा। यह संदेश क्षेत्रीय तनावों के बीच अमेरिकी दृढ़ संकल्प को रेखांकित करता है, ईरान को वास्तविकता स्वीकार करने या गंभीर परिणामों का सामना करने के लिए प्रेरित करता है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129815367,imgsize-983865.cms",
+        "link": "https://timesofindia.indiatimes.com/world/us/trump-doesnt-bluff-white-house-warns-iran-says-will-unleash-hell-against-any-miscalculation/articleshow/129815370.cms"
+    },
+    {
+        "id": "fa07a77d",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "NASA's Artemis II Targets 2026 Moon Orbit",
+                "content": "NASA's historic Artemis II lunar mission is now slated for a 2026 launch window, bringing humanity closer to the Moon. Astronauts will orbit our celestial neighbor, a critical precursor to future human landings under the ambitious Artemis program. This monumental journey marks a significant step in deep space exploration, reigniting the spirit of lunar discovery. Get ready for a monumental leap!"
+            },
+            "kn": {
+                "title": "NASA ದ ಆರ್ಟೆಮಿಸ್ II 2026 ರಲ್ಲಿ ಚಂದ್ರನ ಕಕ್ಷೆಗೆ ಗುರಿ",
+                "content": "NASA ದ ಐತಿಹಾಸಿಕ ಆರ್ಟೆಮಿಸ್ II ಚಂದ್ರಯಾನವು ಈಗ 2026 ರಲ್ಲಿ ಉಡಾವಣೆಗೆ ಸಿದ್ಧವಾಗಿದೆ, ಇದು ಮಾನವಕುಲವನ್ನು ಚಂದ್ರನಿಗೆ ಹತ್ತಿರ ತರುತ್ತದೆ. ಗಗನಯಾತ್ರಿಗಳು ನಮ್ಮ ಆಕಾಶ ನೆರೆಹೊರೆಯನ್ನು ಸುತ್ತುತ್ತಾರೆ, ಇದು ಮಹತ್ವಾಕಾಂಕ್ಷೆಯ ಆರ್ಟೆಮಿಸ್ ಕಾರ್ಯಕ್ರಮದ ಅಡಿಯಲ್ಲಿ ಭವಿಷ್ಯದ ಮಾನವ ಇಳಿಯುವಿಕೆಗೆ ನಿರ್ಣಾಯಕ ಪೂರ್ವಗಾಮಿಯಾಗಿದೆ. ಈ ಮಹತ್ವದ ಪ್ರಯಾಣವು ಆಳವಾದ ಬಾಹ್ಯಾಕಾಶ ಪರಿಶೋಧನೆಯಲ್ಲಿ ಒಂದು ಮಹತ್ವದ ಹೆಜ್ಜೆಯಾಗಿದೆ, ಚಂದ್ರನ ಆವಿಷ್ಕಾರದ ಮನೋಭಾವವನ್ನು ಪುನರುಜ್ಜೀವನಗೊಳಿಸುತ್ತದೆ. ಒಂದು ಭವ್ಯವಾದ ನೆಗೆತಕ್ಕೆ ಸಿದ್ಧರಾಗಿ!"
+            },
+            "mr": {
+                "title": "नासाचे आर्टेमिस II 2026 मध्ये चंद्राच्या कक्षेकडे",
+                "content": "नासाचे ऐतिहासिक आर्टेमिस II चंद्र मोहीम आता 2026 च्या प्रक्षेपण कालावधीसाठी नियोजित आहे, ज्यामुळे मानवतेला चंद्राच्या जवळ आणले जाईल. अंतराळवीर आपल्या आकाशीय शेजाऱ्याभोवती फिरतील, जे महत्त्वाकांक्षी आर्टेमिस कार्यक्रमांतर्गत भविष्यातील मानवी लँडिंगसाठी एक महत्त्वपूर्ण पूर्वसूचक आहे. हा महत्त्वाचा प्रवास खोल अंतराळ संशोधनात एक महत्त्वपूर्ण पाऊल आहे, ज्यामुळे चंद्राच्या शोधाची भावना पुन्हा जागृत होईल. एका भव्य झेप घेण्यासाठी तयार रहा!"
+            },
+            "hi": {
+                "title": "नासा का आर्टेमिस II 2026 में चंद्रमा की कक्षा का लक्ष्य",
+                "content": "नासा का ऐतिहासिक आर्टेमिस II चंद्र मिशन अब 2026 के लॉन्च विंडो के लिए निर्धारित है, जो मानवता को चंद्रमा के करीब लाएगा। अंतरिक्ष यात्री हमारे खगोलीय पड़ोसी की परिक्रमा करेंगे, जो महत्वाकांक्षी आर्टेमिस कार्यक्रम के तहत भविष्य की मानव लैंडिंग के लिए एक महत्वपूर्ण अग्रदूत है। यह स्मारकीय यात्रा गहरे अंतरिक्ष अन्वेषण में एक महत्वपूर्ण कदम है, जो चंद्र खोज की भावना को फिर से जगाती है। एक स्मारकीय छलांग के लिए तैयार हो जाइए!"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129802190,imgsize-133138.cms",
+        "link": "https://timesofindia.indiatimes.com/science/nasa-artemis-ii-launch-window-2026-one-week-to-go-for-historic-moon-mission/articleshow/129802131.cms"
+    },
+    {
+        "id": "c552d82c",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "NASA Unveils Permanent Moon Base Plan",
+                "content": "NASA unveils an ambitious roadmap for a permanent Moon presence, aiming for frequent crewed missions and sustained human operations. Through a phased approach, leveraging commercial and international partnerships, the agency is accelerating its return to the lunar surface. This strategy reinforces the U.S. commitment to \"never give up the Moon again,\" setting foundations for future deep space exploration."
+            },
+            "kn": {
+                "title": "NASA ಶಾಶ್ವತ ಚಂದ್ರ ನೆಲೆಯ ಯೋಜನೆಯನ್ನು ಅನಾವರಣಗೊಳಿಸಿದೆ",
+                "content": "NASA ಚಂದ್ರನ ಮೇಲೆ ಶಾಶ್ವತ ಅಸ್ತಿತ್ವಕ್ಕಾಗಿ ಮಹತ್ವಾಕಾಂಕ್ಷೆಯ ಯೋಜನಾ ರೂಪರೇಷೆಯನ್ನು ಅನಾವರಣಗೊಳಿಸಿದೆ, ಆಗಾಗ್ಗೆ ಮಾನವ ಸಹಿತ ಕಾರ್ಯಾಚರಣೆಗಳು ಮತ್ತು ನಿರಂತರ ಮಾನವ ಕಾರ್ಯಗಳನ್ನು ಗುರಿಯಾಗಿಸಿದೆ. ಹಂತ ಹಂತದ ವಿಧಾನದ ಮೂಲಕ, ವಾಣಿಜ್ಯ ಮತ್ತು ಅಂತರರಾಷ್ಟ್ರೀಯ ಸಹಭಾಗಿತ್ವಗಳನ್ನು ಬಳಸಿಕೊಂಡು, ಏಜೆನ್ಸಿ ಚಂದ್ರನ ಮೇಲ್ಮೈಗೆ ತನ್ನ ಮರಳುವಿಕೆಯನ್ನು ವೇಗಗೊಳಿಸುತ್ತಿದೆ. ಈ ತಂತ್ರವು ಯು.ಎಸ್. \"ಮತ್ತೆ ಎಂದಿಗೂ ಚಂದ್ರನನ್ನು ಬಿಟ್ಟುಕೊಡುವುದಿಲ್ಲ\" ಎಂಬ ಬದ್ಧತೆಯನ್ನು ಬಲಪಡಿಸುತ್ತದೆ, ಭವಿಷ್ಯದ ಆಳವಾದ ಬಾಹ್ಯಾಕಾಶ ಪರಿಶೋಧನೆಗೆ ಅಡಿಪಾಯ ಹಾಕುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "नासाने कायमस्वरूपी चंद्र तळ योजना उघड केली",
+                "content": "नासाने चंद्रावर कायमस्वरूपी उपस्थितीसाठी एक महत्त्वाकांक्षी योजना उघड केली आहे, ज्यामध्ये वारंवार मानवी मोहिमा आणि दीर्घकाळ टिकणाऱ्या मानवी ऑपरेशन्सचे लक्ष्य आहे. टप्प्याटप्प्याने, व्यावसायिक आणि आंतरराष्ट्रीय भागीदारीचा लाभ घेत, ही एजन्सी चंद्राच्या पृष्ठभागावर परत येण्यास गती देत आहे. ही रणनीती अमेरिकेची \"चंद्राला पुन्हा कधीही सोडणार नाही\" ही वचनबद्धता मजबूत करते, भविष्यातील खोल अंतराळ संशोधनासाठी पाया तयार करते."
+            },
+            "hi": {
+                "title": "नासा ने स्थायी चंद्र बेस योजना का अनावरण किया",
+                "content": "नासा ने चंद्रमा पर स्थायी उपस्थिति के लिए एक महत्वाकांक्षी रोडमैप का अनावरण किया है, जिसका लक्ष्य बार-बार मानवयुक्त मिशन और निरंतर मानव संचालन है। चरणबद्ध दृष्टिकोण के माध्यम से, वाणिज्यिक और अंतर्राष्ट्रीय साझेदारियों का लाभ उठाते हुए, एजेंसी चंद्र सतह पर अपनी वापसी को गति दे रही है। यह रणनीति अमेरिका की \"चंद्रमा को फिर कभी नहीं छोड़ेगा\" की प्रतिबद्धता को मजबूत करती है, जो भविष्य के गहरे अंतरिक्ष अन्वेषण के लिए आधार तैयार करती है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129779153,imgsize-460748.cms",
+        "link": "https://timesofindia.indiatimes.com/science/us-will-never-give-up-the-moon-again-nasa-unveils-lunar-base-roadmap-nuclear-mars-mission/articleshow/129778955.cms"
+    },
+    {
+        "id": "bc6c446d",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "UAE Airports Face Weather Chaos",
+                "content": "UAE airports, including Dubai and Abu Dhabi, are facing widespread flight delays and cancellations on March 26, 2026, due to unstable, rainy weather. Major airlines like Emirates and Etihad are operating reduced schedules. Passengers are advised to check flight statuses, expect disruptions, and remain flexible as aviation systems are vulnerable amidst a fragile recovery."
+            },
+            "kn": {
+                "title": "ಯುಎಇ ವಿಮಾನ ನಿಲ್ದಾಣಗಳಲ್ಲಿ ಹವಾಮಾನದ ಗೊಂದಲ",
+                "content": "ಯುಎಇ ವಿಮಾನ ನಿಲ್ದಾಣಗಳು, ದುಬೈ ಮತ್ತು ಅಬುಧಾಬಿಯನ್ನು ಒಳಗೊಂಡಂತೆ, ಮಾರ್ಚ್ 26, 2026 ರಂದು ಅಸ್ಥಿರ, ಮಳೆಯ ವಾತಾವರಣದಿಂದಾಗಿ ವ್ಯಾಪಕ ವಿಮಾನ ವಿಳಂಬ ಮತ್ತು ರದ್ದತಿಗೆ ಒಳಗಾಗಿವೆ. ಎಮಿರೇಟ್ಸ್ ಮತ್ತು ಇತಿಹಾದ್‌ನಂತಹ ಪ್ರಮುಖ ವಿಮಾನಯಾನ ಸಂಸ್ಥೆಗಳು ಕಡಿಮೆ ವೇಳಾಪಟ್ಟಿಯಲ್ಲಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಿವೆ. ವಾಯುಯಾನ ವ್ಯವಸ್ಥೆಗಳು ದುರ್ಬಲವಾಗಿರುವುದರಿಂದ ಪ್ರಯಾಣಿಕರು ವಿಮಾನದ ಸ್ಥಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಲು, ಅಡಚಣೆಗಳನ್ನು ನಿರೀಕ್ಷಿಸಲು ಮತ್ತು ಹೊಂದಿಕೊಳ್ಳುವಂತೆ ಸಲಹೆ ನೀಡಲಾಗಿದೆ."
+            },
+            "mr": {
+                "title": "यूएई विमानतळांवर हवामानामुळे गोंधळ",
+                "content": "यूएईमधील दुबई आणि अबू धाबीसह विमानतळांवर 26 मार्च 2026 रोजी अस्थिर, पावसाळी हवामानामुळे मोठ्या प्रमाणात विमानांना विलंब होत आहे आणि रद्द केले जात आहे. एमिरेट्स आणि एतिहादसारख्या प्रमुख एअरलाईन्स कमी वेळापत्रकानुसार कार्यरत आहेत. प्रवाशांना त्यांच्या विमानाची स्थिती तपासण्याचा, अडथळे अपेक्षित ठेवण्याचा आणि लवचिक राहण्याचा सल्ला दिला जातो, कारण हवाई वाहतूक व्यवस्था नाजूक स्थितीत आहे."
+            },
+            "hi": {
+                "title": "यूएई हवाई अड्डों पर मौसम का कहर",
+                "content": "दुबई और अबू धाबी सहित यूएई के हवाई अड्डे 26 मार्च 2026 को अस्थिर, बारिश के मौसम के कारण व्यापक उड़ान देरी और रद्दीकरण का सामना कर रहे हैं। एमिरेट्स और एतिहाद जैसी प्रमुख एयरलाइंस कम उड़ानों के साथ काम कर रही हैं। यात्रियों को उड़ान की स्थिति जांचने, व्यवधानों की अपेक्षा करने और लचीले रहने की सलाह दी गई है, क्योंकि विमानन प्रणालियाँ एक नाजुक सुधार चरण में कमजोर हैं।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129816546,imgsize-39844.cms",
+        "link": "https://timesofindia.indiatimes.com/world/middle-east/uae-airport-updates-for-march-26-2026-flight-delays-cancellations-as-rainy-weather-disrupts-dubai-abu-dhabi-travel/articleshow/129815795.cms"
+    },
+    {
+        "id": "a0e9c912",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "From Hidden Planets to Tooth Worms: 10 Absurd Past Theories",
+                "content": "Even brilliant scientists once believed absurd theories. From hidden planets causing cosmic wobbles to tooth worms creating cavities, these ideas were once seriously defended. Exploring ten such debunked beliefs, like vegetable lambs and emotional asthma, reveals science's true nature: a constant, self-correcting journey toward truth, acknowledging its spectacular mistakes en route to discovery."
+            },
+            "kn": {
+                "title": "ಗುಪ್ತ ಗ್ರಹಗಳಿಂದ ಹಲ್ಲಿನ ಹುಳುಗಳವರೆಗೆ: 10 ಅಸಂಬದ್ಧ ಹಿಂದಿನ ಸಿದ್ಧಾಂತಗಳು",
+                "content": "ಅತ್ಯಂತ ಪ್ರತಿಭಾವಂತ ವಿಜ್ಞಾನಿಗಳು ಸಹ ಒಮ್ಮೆ ಅಸಂಬದ್ಧ ಸಿದ್ಧಾಂತಗಳನ್ನು ನಂಬಿದ್ದರು. ಬಾಹ್ಯಾಕಾಶದ ಚಂಚಲತೆಗೆ ಗುಪ್ತ ಗ್ರಹಗಳು ಕಾರಣವೆಂದು ಅಥವಾ ಹಲ್ಲಿನ ಹುಳುಗಳು ಕುಳಿಗಳನ್ನು ಸೃಷ್ಟಿಸುತ್ತವೆ ಎಂದು ಈ ವಿಚಾರಗಳನ್ನು ಒಮ್ಮೆ ಗಂಭೀರವಾಗಿ ಸಮರ್ಥಿಸಲಾಗಿತ್ತು. ತರಕಾರಿ ಕುರಿ ಮತ್ತು ಭಾವನಾತ್ಮಕ ಆಸ್ತಮಾದಂತಹ ಹತ್ತು ನಿರಾಕರಿಸಿದ ನಂಬಿಕೆಗಳನ್ನು ಅನ್ವೇಷಿಸುವುದು ವಿಜ್ಞಾನದ ನಿಜವಾದ ಸ್ವರೂಪವನ್ನು ಬಹಿರಂಗಪಡಿಸುತ್ತದೆ: ಇದು ಸತ್ಯದ ಕಡೆಗೆ ನಿರಂತರ, ಸ್ವಯಂ-ತಿದ್ದುಪಡಿ ಪ್ರಯಾಣ, ಆವಿಷ್ಕಾರದ ಹಾದಿಯಲ್ಲಿ ಅದರ ಅದ್ಭುತ ತಪ್ಪುಗಳನ್ನು ಒಪ್ಪಿಕೊಳ್ಳುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "लपलेल्या ग्रहांपासून दाताच्या किड्यांपर्यंत: 10 अनाकलनीय जुने सिद्धांत",
+                "content": "अत्यंत प्रतिभावान शास्त्रज्ञांनीही एकेकाळी विचित्र सिद्धांत खरे मानले होते. ब्रह्मांडातील डगमगण्याला लपलेले ग्रह कारणीभूत ठरण्यापासून ते दात किड्यांमुळे पोकळ्या तयार होतात या विचारांपर्यंत, या कल्पनांचे एकेकाळी गांभीर्याने समर्थन केले जात होते. भाजीपाला मेंढी आणि भावनिक अस्थमा यांसारख्या अशा दहा खोट्या समजुतींचा शोध घेतल्यास विज्ञानाचे खरे स्वरूप दिसून येते: सत्याकडे जाणारा एक सततचा, स्व-सुधारित प्रवास, ज्यामध्ये शोधाच्या मार्गावरील त्याच्या नेत्रदीपक चुका मान्य केल्या जातात."
+            },
+            "hi": {
+                "title": "छिपे हुए ग्रहों से दांतों के कीड़ों तक: 10 बेतुके पुराने सिद्धांत",
+                "content": "प्रतिभाशाली वैज्ञानिकों ने भी कभी बेतुके सिद्धांतों को सच माना था। ब्रह्मांडीय डगमगाहट के लिए छिपे हुए ग्रहों को जिम्मेदार मानने से लेकर दांत के कीड़ों को कैविटी का कारण मानने तक, इन विचारों का कभी गंभीरता से बचाव किया गया था। वनस्पति भेड़ और भावनात्मक अस्थमा जैसी दस ऐसी खारिज की गई धारणाओं की पड़ताल, विज्ञान की वास्तविक प्रकृति को उजागर करती है: सत्य की ओर एक निरंतर, आत्म-सुधार यात्रा, जो खोज के रास्ते में अपनी शानदार गलतियों को स्वीकार करती है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129802446,imgsize-63508.cms",
+        "link": "https://timesofindia.indiatimes.com/science/10-strange-scientific-theories-sound-absurd-today-but-scientists-once-believed-them/photostory/129802446.cms"
+    },
+    {
+        "id": "e8e61d9b",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "45 Planets Emerge as Top Alien Life Targets",
+                "content": "Scientists have revealed 45 planets that are potential candidates for hosting alien life. These exoplanets are now considered top targets for telescopes, which will search for biosignatures and other indications of extraterrestrial life. This discovery significantly narrows the search for life beyond Earth, offering new hope and specific locations for future observations and detailed studies."
+            },
+            "kn": {
+                "title": "ಅನ್ಯಗ್ರಹ ಜೀವಿಗಳ ಹುಡುಕಾಟಕ್ಕೆ 45 ಗ್ರಹಗಳು ಪ್ರಮುಖ ಗುರಿ",
+                "content": "ವಿಜ್ಞಾನಿಗಳು ಅನ್ಯಗ್ರಹ ಜೀವಿಗಳನ್ನು ಆತಿಥ್ಯ ವಹಿಸುವ ಸಾಮರ್ಥ್ಯವಿರುವ 45 ಗ್ರಹಗಳನ್ನು ಬಹಿರಂಗಪಡಿಸಿದ್ದಾರೆ. ಈ ಬಾಹ್ಯಗ್ರಹಗಳು ಈಗ ದೂರದರ್ಶಕಗಳಿಗೆ ಪ್ರಮುಖ ಗುರಿಗಳಾಗಿವೆ, ಇವು ಜೈವಿಕ ಗುರುತುಗಳು ಮತ್ತು ಅನ್ಯಲೋಕದ ಜೀವದ ಇತರ ಸೂಚನೆಗಳಿಗಾಗಿ ಹುಡುಕುತ್ತವೆ. ಈ ಆವಿಷ್ಕಾರವು ಭೂಮಿಯ ಹೊರಗಿನ ಜೀವನದ ಹುಡುಕಾಟವನ್ನು ಗಣನೀಯವಾಗಿ ಸಂಕುಚಿತಗೊಳಿಸುತ್ತದೆ, ಭವಿಷ್ಯದ ವೀಕ್ಷಣೆಗಳು ಮತ್ತು ವಿವರವಾದ ಅಧ್ಯಯನಗಳಿಗೆ ಹೊಸ ಭರವಸೆ ಮತ್ತು ನಿರ್ದಿಷ್ಟ ಸ್ಥಳಗಳನ್ನು ನೀಡುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "परग्रहावरील जीवनासाठी ४५ ग्रह प्रमुख लक्ष्य",
+                "content": "वैज्ञानिकांनी ४५ ग्रहांचा शोध लावला आहे जे परग्रहावरील जीवनाचे संभाव्य यजमान असू शकतात. हे बाह्यग्रह आता दुर्बिणींसाठी प्रमुख लक्ष्य मानले जात आहेत, जे जीवनाच्या जैविक खुणा आणि इतर संकेतांचा शोध घेतील. या शोधामुळे पृथ्वीबाहेरील जीवनाच्या शोधाचा आवाका लक्षणीयरीत्या कमी झाला आहे, ज्यामुळे भविष्यातील निरीक्षणांसाठी आणि सखोल अभ्यासासाठी नवीन आशा आणि विशिष्ट ठिकाणे मिळत आहेत."
+            },
+            "hi": {
+                "title": "परग्रही जीवन की खोज के लिए 45 ग्रह प्रमुख लक्ष्य",
+                "content": "वैज्ञानिकों ने 45 ऐसे ग्रहों का खुलासा किया है जो परग्रही जीवन की मेजबानी के संभावित उम्मीदवार हो सकते हैं। ये बाह्यग्रह अब दूरबीनों के लिए प्रमुख लक्ष्य माने जाते हैं, जो जैव-संकेतों और अलौकिक जीवन के अन्य संकेतों की तलाश करेंगे। इस खोज से पृथ्वी से परे जीवन की तलाश काफी हद तक संकुचित हो गई है, जिससे भविष्य के अवलोकनों और विस्तृत अध्ययनों के लिए नई उम्मीद और विशिष्ट स्थान मिल रहे हैं।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129803414,imgsize-27634.cms",
+        "link": "https://timesofindia.indiatimes.com/science/scientists-reveal-45-planets-where-alien-life-may-be-possible-top-targets-for-telescopes-to-detect-signs-of-life/articleshow/129803407.cms"
+    },
+    {
+        "id": "a2e50855",
+        "category": "Sports",
+        "translations": {
+            "en": {
+                "title": "IPL 2026: Unburdened Virat Kohli Set to Unleash Most Dangerous Form",
+                "content": "After finally clinching the IPL trophy with RCB in 2025, leading run-scorer Virat Kohli enters IPL 2026 with newfound freedom. Having achieved his long-standing dream and unburdened by captaincy, experts anticipate Kohli will unleash his most formidable and dangerous version yet, making him a player to watch."
+            },
+            "kn": {
+                "title": "IPL 2026: ನಿರ್ಭಾರ ವಿರಾಟ್ ಕೊಹ್ಲಿ ತಮ್ಮ ಅತ್ಯಂತ ಅಪಾಯಕಾರಿ ರೂಪವನ್ನು ಅನಾವರಣಗೊಳಿಸಲು ಸಿದ್ಧ",
+                "content": "2025 ರಲ್ಲಿ ಆರ್‌ಸಿಬಿ ಜೊತೆ ಅಂತಿಮವಾಗಿ ಐಪಿಎಲ್ ಟ್ರೋಫಿ ಗೆದ್ದ ನಂತರ, ಪ್ರಮುಖ ರನ್-ಸ್ಕೋರರ್ ವಿರಾಟ್ ಕೊಹ್ಲಿ ಹೊಸದಾಗಿ ಗಳಿಸಿದ ಸ್ವಾತಂತ್ರ್ಯದೊಂದಿಗೆ ಐಪಿಎಲ್ 2026 ಕ್ಕೆ ಪ್ರವೇಶಿಸುತ್ತಿದ್ದಾರೆ. ತಮ್ಮ ಬಹುಕಾಲದ ಕನಸನ್ನು ಸಾಧಿಸಿ ಮತ್ತು ನಾಯಕತ್ವದ ಭಾರದಿಂದ ಮುಕ್ತರಾಗಿರುವುದರಿಂದ, ತಜ್ಞರು ಕೊಹ್ಲಿ ತಮ್ಮ ಅತ್ಯಂತ ಪ್ರಬಲ ಮತ್ತು ಅಪಾಯಕಾರಿ ರೂಪವನ್ನು ಅನಾವರಣಗೊಳಿಸುತ್ತಾರೆ ಎಂದು ನಿರೀಕ್ಷಿಸಿದ್ದಾರೆ, ಇದು ಅವರನ್ನು ನೋಡಲು ಯೋಗ್ಯವಾದ ಆಟಗಾರನನ್ನಾಗಿ ಮಾಡುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "आयपीएल 2026: अपेक्षाविरहित विराट कोहली सर्वात धोकादायक फॉर्ममध्ये येण्यास सज्ज",
+                "content": "2025 मध्ये आरसीबीसोबत आयपीएल ट्रॉफी जिंकल्यानंतर, आघाडीचा धावा करणारा विराट कोहली नव्याने मिळालेल्या स्वातंत्र्यासह आयपीएल 2026 मध्ये दाखल झाला आहे. आपले दीर्घकाळाचे स्वप्न पूर्ण झाल्यामुळे आणि कर्णधारपदाच्या ओझ्यातून मुक्त झाल्यामुळे, तज्ञांना अपेक्षा आहे की कोहली त्याचे सर्वात धोकादायक आणि प्रभावी रूप प्रकट करेल, ज्यामुळे तो पाहण्यासारखा खेळाडू बनेल."
+            },
+            "hi": {
+                "title": "आईपीएल 2026: बोझ मुक्त विराट कोहली अपना सबसे खतरनाक रूप दिखाने को तैयार",
+                "content": "2025 में आरसीबी के साथ आखिरकार आईपीएल ट्रॉफी जीतने के बाद, अग्रणी रन-स्कोरर विराट कोहली नए सिरे से आजादी के साथ आईपीएल 2026 में प्रवेश कर रहे हैं। अपना लंबे समय से चला आ रहा सपना पूरा करने और कप्तानी के बोझ से मुक्त होने के बाद, विशेषज्ञों का मानना है कि कोहली अपना सबसे प्रचंड और खतरनाक रूप दिखाएंगे, जिससे वह देखने लायक खिलाड़ी बन जाएंगे।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129818107,imgsize-32552.cms",
+        "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/why-ipl-2026-could-unleash-virat-kohlis-most-dangerous-version-yet/articleshow/129818059.cms"
+    },
+    {
+        "id": "dd85c188",
+        "category": "Sports",
+        "translations": {
+            "en": {
+                "title": "Gambhir Deepfake Win: Delhi HC Orders Takedown",
+                "content": "The Delhi High Court has ordered tech giants like Google, Meta, and Amazon to remove AI-generated deepfakes and unauthorized merchandise misusing cricketer Gautam Gambhir's identity for commercial gain. This landmark decision protects his personality and publicity rights, marking a significant win. The court also seeks details of the offenders involved in these violations."
+            },
+            "kn": {
+                "title": "ಗಂಭೀರ್ ಡೀಪ್‌ಫೇಕ್ ಗೆಲುವು: ದೆಹಲಿ ಹೈಕೋರ್ಟ್ ತೆಗೆದುಹಾಕಲು ಆದೇಶ",
+                "content": "ದೆಹಲಿ ಹೈಕೋರ್ಟ್ ಗೂಗಲ್, ಮೆಟಾ ಮತ್ತು ಅಮೆಜಾನ್‌ನಂತಹ ಟೆಕ್ ದೈತ್ಯರಿಗೆ ಕ್ರಿಕೆಟಿಗ ಗೌತಮ್ ಗಂಭೀರ್ ಅವರ ಗುರುತನ್ನು ವಾಣಿಜ್ಯ ಲಾಭಕ್ಕಾಗಿ ದುರುಪಯೋಗಪಡಿಸಿಕೊಳ್ಳುವ AI-ರಚಿತ ಡೀಪ್‌ಫೇಕ್‌ಗಳು ಮತ್ತು ಅನಧಿಕೃತ ಸರಕುಗಳನ್ನು ತೆಗೆದುಹಾಕಲು ಆದೇಶಿಸಿದೆ. ಈ ಮಹತ್ವದ ನಿರ್ಧಾರವು ಅವರ ವ್ಯಕ್ತಿತ್ವ ಮತ್ತು ಪ್ರಚಾರದ ಹಕ್ಕುಗಳನ್ನು ರಕ್ಷಿಸುತ್ತದೆ, ಇದು ಮಹತ್ವದ ಗೆಲುವಾಗಿದೆ. ನ್ಯಾಯಾಲಯವು ಈ ಉಲ್ಲಂಘನೆಗಳಲ್ಲಿ ಭಾಗಿಯಾಗಿರುವ ಅಪರಾಧಿಗಳ ವಿವರಗಳನ್ನು ಸಹ ಕೇಳಿದೆ."
+            },
+            "mr": {
+                "title": "गंभीर डीपफेक विजय: दिल्ली उच्च न्यायालयाचा काढण्याचा आदेश",
+                "content": "दिल्ली उच्च न्यायालयाने गुगल, मेटा आणि ॲमेझॉनसारख्या टेक कंपन्यांना क्रिकेटपटू गौतम गंभीर यांची ओळख व्यावसायिक लाभासाठी गैरवापर करणाऱ्या एआय-निर्मित डीपफेक आणि अनधिकृत वस्तूंना काढून टाकण्याचे आदेश दिले आहेत. या महत्त्वपूर्ण निर्णयामुळे त्यांच्या व्यक्तिमत्व आणि प्रसिद्धी अधिकारांचे संरक्षण होते, जो एक महत्त्वाचा विजय आहे. न्यायालयाने या उल्लंघनांमध्ये सहभागी असलेल्या गुन्हेगारांचे तपशील देखील मागवले आहेत."
+            },
+            "hi": {
+                "title": "गंभीर डीपफेक जीत: दिल्ली HC ने हटाने का दिया आदेश",
+                "content": "दिल्ली उच्च न्यायालय ने गूगल, मेटा और अमेज़ॅन जैसे तकनीकी दिग्गजों को क्रिकेटर गौतम गंभीर की पहचान का व्यावसायिक लाभ के लिए दुरुपयोग करने वाले एआई-निर्मित डीपफेक और अनाधिकृत माल को हटाने का आदेश दिया है। यह ऐतिहासिक निर्णय उनके व्यक्तित्व और प्रचार अधिकारों की रक्षा करता है, जो एक महत्वपूर्ण जीत है। अदालत ने इन उल्लंघनों में शामिल अपराधियों का विवरण भी मांगा है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129818668,imgsize-148848.cms",
+        "link": "https://timesofindia.indiatimes.com/sports/cricket/news/gautam-gambhir-deepfake-case-delhi-hc-orders-google-meta-amazon-to-remove-posts/articleshow/129818625.cms"
+    },
+    {
+        "id": "d107f35d",
+        "category": "Sports",
+        "translations": {
+            "en": {
+                "title": "Yograj Slams Abhishek Sharma Over Focus & Discipline",
+                "content": "Former India cricketer Yograj Singh sharply criticized young opener Abhishek Sharma post-T20 World Cup. Citing off-field distractions and inconsistent tournament performance, Singh questioned Abhishek's focus. He stressed the need for rigorous training and discipline, drawing parallels with son Yuvraj Singh's work ethic, warning that a diverted mind leads to failure."
+            },
+            "kn": {
+                "title": "ಯೋಗರಾಜ್ ಸಿಂಗ್ ಅವರಿಂದ ಅಭಿಷೇಕ್ ಶರ್ಮಾ ಅವರಿಗೆ ಗಮನ ಮತ್ತು ಶಿಸ್ತಿನ ಬಗ್ಗೆ ತೀವ್ರ ತರಾಟೆ",
+                "content": "ಮಾಜಿ ಭಾರತೀಯ ಕ್ರಿಕೆಟಿಗ ಯೋಗರಾಜ್ ಸಿಂಗ್ ಅವರು ಟಿ20 ವಿಶ್ವಕಪ್ ನಂತರ ಯುವ ಆರಂಭಿಕ ಆಟಗಾರ ಅಭಿಷೇಕ್ ಶರ್ಮಾಗೆ ತೀವ್ರ ತರಾಟೆ ತೆಗೆದುಕೊಂಡಿದ್ದಾರೆ. ಮೈದಾನದಿಂದ ಹೊರಗಿನ ಚಟುವಟಿಕೆಗಳು ಮತ್ತು ಸ್ಥಿರವಲ್ಲದ ಪಂದ್ಯಾವಳಿಯ ಪ್ರದರ್ಶನವನ್ನು ಉಲ್ಲೇಖಿಸಿ, ಸಿಂಗ್ ಅವರು ಅಭಿಷೇಕ್ ಅವರ ಗಮನವನ್ನು ಪ್ರಶ್ನಿಸಿದ್ದಾರೆ. ಅವರು ಕಠಿಣ ತರಬೇತಿ ಮತ್ತು ಶಿಸ್ತಿನ ಅಗತ್ಯವನ್ನು ಒತ್ತಿ ಹೇಳಿದರು, ತಮ್ಮ ಮಗ ಯುವರಾಜ್ ಸಿಂಗ್ ಅವರ ಕಾರ್ಯ ನೀತಿಯೊಂದಿಗೆ ಹೋಲಿಸಿ, ಮನಸ್ಸು ಬೇರೆಡೆ ಹೋದರೆ ವೈಫಲ್ಯ ಖಚಿತ ಎಂದು ಎಚ್ಚರಿಸಿದರು."
+            },
+            "mr": {
+                "title": "योगराज सिंह यांचा अभिषेक शर्माला लक्ष आणि शिस्तीवरून फटकार",
+                "content": "माजी भारतीय क्रिकेटपटू योगराज सिंह यांनी टी-20 विश्वचषकानंतर युवा सलामीवीर अभिषेक शर्मावर जोरदार टीका केली आहे. मैदानाबाहेरील व्यत्यय आणि स्पर्धेतील अस्थिर कामगिरीचा उल्लेख करत, सिंह यांनी अभिषेकच्या एकाग्रतेवर प्रश्नचिन्ह उपस्थित केले. त्यांनी कठोर प्रशिक्षण आणि शिस्तीची गरज यावर भर दिला, आपला मुलगा युवराज सिंहच्या कार्यक्षमतेशी तुलना करत, विचलित मन अपयशाकडे नेते असा इशारा दिला."
+            },
+            "hi": {
+                "title": "योगराज सिंह ने अभिषेक शर्मा को एकाग्रता और अनुशासन पर लताड़ा",
+                "content": "पूर्व भारतीय क्रिकेटर योगराज सिंह ने टी20 विश्व कप के बाद युवा सलामी बल्लेबाज अभिषेक शर्मा की कड़ी आलोचना की है। मैदान से बाहर के भटकाव और टूर्नामेंट में असंगत प्रदर्शन का हवाला देते हुए, सिंह ने अभिषेक की एकाग्रता पर सवाल उठाए। उन्होंने कड़े प्रशिक्षण और अनुशासन की आवश्यकता पर जोर दिया, अपने बेटे युवराज सिंह की कार्यशैली से तुलना करते हुए चेतावनी दी कि विचलित मन असफलता की ओर ले जाता है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129818332,imgsize-87948.cms",
+        "link": "https://timesofindia.indiatimes.com/sports/cricket/news/yograj-singh-slams-abhishek-sharma-you-fail-because-your-mind-is-somewhere-else/articleshow/129818318.cms"
+    },
+    {
+        "id": "46919430",
+        "category": "Entertainment",
+        "translations": {
+            "en": {
+                "title": "Ananya Panday's Fresh Style Steals the Show",
+                "content": "Ananya Panday's latest look, featuring soft bangs and wavy hair, has gone viral. Her recent social media appearance and grey dress at a Mumbai gala drew comparisons to Dakota Johnson from fans. Panday's fresh style is attracting significant attention as she gears up for upcoming projects: 'Call Me Bae S2' and 'Chand Mera Dil' with Lakshya, set for May 22."
+            },
+            "kn": {
+                "title": "ಅನನ್ಯಾ ಪಾಂಡೆ ಅವರ ಹೊಸ ಶೈಲಿ ಎಲ್ಲರ ಗಮನ ಸೆಳೆದಿದೆ",
+                "content": "ಅನನ್ಯಾ ಪಾಂಡೆ ಅವರ ಇತ್ತೀಚಿನ ನೋಟ, ಮೃದುವಾದ ಬ್ಯಾಂಗ್ಸ್ ಮತ್ತು ಅಲೆಯುವ ಕೂದಲಿನೊಂದಿಗೆ ವೈರಲ್ ಆಗಿದೆ. ಮುಂಬೈ ಗಾಲಾದಲ್ಲಿ ಅವರ ಇತ್ತೀಚಿನ ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮ ಪ್ರವೇಶ ಮತ್ತು ಬೂದು ಬಣ್ಣದ ಉಡುಗೆ ಅಭಿಮಾನಿಗಳಿಂದ ಡಕೋಟಾ ಜಾನ್ಸನ್‌ಗೆ ಹೋಲಿಕೆಯನ್ನು ಗಳಿಸಿವೆ. ಪಾಂಡೆ ಅವರ ಹೊಸ ಶೈಲಿಯು ಸಾಕಷ್ಟು ಗಮನ ಸೆಳೆಯುತ್ತಿದೆ, ಅವರು ಮೇ 22 ರಂದು 'ಕಾಲ್ ಮಿ ಬೇ ಎಸ್2' ಮತ್ತು ಲಕ್ಷ್ಯ ಅವರೊಂದಿಗೆ 'ಚಂದ್ ಮೇರಾ ದಿಲ್' ಮುಂಬರುವ ಯೋಜನೆಗಳಿಗೆ ಸಿದ್ಧರಾಗಿದ್ದಾರೆ."
+            },
+            "mr": {
+                "title": "अनन्या पांडेच्या ताज्या स्टाईलने वेधले लक्ष",
+                "content": "अनन्या पांडेचा सॉफ्ट बॅंग्स आणि लहरी केसांचा नवीन लूक व्हायरल झाला आहे. मुंबईतील एका सोहळ्यात ग्रे ड्रेसमधील तिच्या अलीकडील सोशल मीडिया एन्ट्रीमुळे चाहत्यांनी तिची तुलना डकोटा जॉन्सनशी केली. २२ मे रोजी प्रदर्शित होणाऱ्या 'कॉल मी बे एस२' आणि लक्ष्यासह 'चाँद मेरा दिल' या आगामी प्रोजेक्ट्ससाठी ती तयारी करत असताना, तिच्या ताज्या स्टाईलने खूप लक्ष वेधून घेतले आहे."
+            },
+            "hi": {
+                "title": "अनन्या पांडे की नई स्टाइल ने चुराया सबका दिल",
+                "content": "अनन्या पांडे का सॉफ्ट बैंग्स और वेवी बालों वाला नया लुक वायरल हो गया है। मुंबई गाला में ग्रे ड्रेस में उनकी हालिया सोशल मीडिया एंट्री ने प्रशंसकों द्वारा उन्हें डकोटा जॉनसन से तुलना दिलाई। पांडे की ताज़ा स्टाइल काफी ध्यान आकर्षित कर रही है, क्योंकि वह 22 मई को रिलीज़ होने वाले 'कॉल मी बे एस2' और लक्ष्य के साथ 'चांद मेरा दिल' जैसी आगामी परियोजनाओं के लिए तैयार हैं।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129817705,imgsize-18820.cms",
+        "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ananya-pandays-fresh-style-attracts-major-eye-balls-she-looks-like-dakota-johnson/articleshow/129817705.cms"
+    },
+    {
+        "id": "6a46be9d",
+        "category": "Entertainment",
+        "translations": {
+            "en": {
+                "title": "Tamil OTT Releases: This Week's Must-Watch Films",
+                "content": "This week marks the final wave of March 2026's Tamil OTT releases. Catch Sasikumar's social justice drama 'My Lord' on Amazon Prime Video. Aadhi Pinisetty's horror thriller 'Sabdham' is now streaming on ZEE5. Additionally, Sun NXT premieres 'Naangal,' an emotional family drama inspired by real life, on March 27, offering diverse viewing options for Tamil cinema fans."
+            },
+            "kn": {
+                "title": "ತಮಿಳು OTT ಬಿಡುಗಡೆಗಳು: ಈ ವಾರದ ತಪ್ಪದೇ ನೋಡಬೇಕಾದ ಚಿತ್ರಗಳು",
+                "content": "ಮಾರ್ಚ್ 2026 ರ ಈ ವಾರ ತಮಿಳು OTT ಬಿಡುಗಡೆಗಳ ಅಂತಿಮ ಅಲೆ ಕಂಡಿದೆ. ಸಸಿಕುಮಾರ್ ಅವರ ಸಾಮಾಜಿಕ ನ್ಯಾಯ ನಾಟಕ 'My Lord' ಅನ್ನು Amazon Prime Video ನಲ್ಲಿ ನೋಡಿ. ಆದಿ ಪಿನಿಸೆಟ್ಟಿ ಅವರ ಭಯಾನಕ ಥ್ರಿಲ್ಲರ್ 'Sabdham' ಈಗ ZEE5 ನಲ್ಲಿ ಸ್ಟ್ರೀಮಿಂಗ್ ಆಗುತ್ತಿದೆ. ಹೆಚ್ಚುವರಿಯಾಗಿ, Sun NXT ಮಾರ್ಚ್ 27 ರಂದು ನೈಜ ಜೀವನದಿಂದ ಪ್ರೇರಿತವಾದ ಭಾವನಾತ್ಮಕ ಕುಟುಂಬ ನಾಟಕ 'Naangal' ಅನ್ನು ಪ್ರದರ್ಶಿಸುತ್ತದೆ, ಇದು ತಮಿಳು ಚಲನಚಿತ್ರ ಅಭಿಮಾನಿಗಳಿಗೆ ವೈವಿಧ್ಯಮಯ ವೀಕ್ಷಣಾ ಆಯ್ಕೆಗಳನ್ನು ನೀಡುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "तमिळ OTT रिलीज: या आठवड्यातील आवर्जून पाहण्यासारखे चित्रपट",
+                "content": "या आठवड्यात मार्च 2026 च्या तमिळ OTT रिलीजची अंतिम लाट आली आहे. ससिकुमार यांचा सामाजिक न्याय नाटक 'My Lord' Amazon Prime Video वर पहा. आधी पिनिशेट्टी यांचा हॉरर थ्रिलर 'Sabdham' आता ZEE5 वर उपलब्ध आहे. याशिवाय, Sun NXT 27 मार्च रोजी 'Naangal' हा वास्तविक जीवनावर आधारित भावनिक कौटुंबिक नाटक प्रदर्शित करत आहे, जो तमिळ चित्रपट चाहत्यांसाठी विविध पर्याय सादर करतो."
+            },
+            "hi": {
+                "title": "तमिल ओटीटी रिलीज़: इस हफ़्ते की ज़रूर देखें फ़िल्में",
+                "content": "यह हफ़्ता मार्च 2026 की तमिल ओटीटी रिलीज़ की अंतिम लहर का गवाह है। सासिकुमार का सामाजिक न्याय ड्रामा 'My Lord' अमेज़न प्राइम वीडियो पर देखें। आधी पिनिसेट्टी की हॉरर थ्रिलर 'Sabdham' अब ZEE5 पर स्ट्रीम हो रही है। इसके अतिरिक्त, सन एनएक्सटी 27 मार्च को 'Naangal' का प्रीमियर कर रहा है, जो वास्तविक जीवन से प्रेरित एक भावनात्मक पारिवारिक ड्रामा है, जो तमिल सिनेमा प्रेमियों के लिए विविध विकल्प प्रदान करता है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129817343,imgsize-77468.cms",
+        "link": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/new-tamil-ott-releases-this-week-sasikumars-my-lord-to-aadhi-pinisettys-sabdham/articleshow/129817213.cms"
+    },
+    {
+        "id": "ff321a25",
+        "category": "Entertainment",
+        "translations": {
+            "en": {
+                "title": "Cruz Beckham's Emotional Stage Debut",
+                "content": "Cruz Beckham delivered an emotional performance of his new song, 'Loneliest Boy,' at London's Courtyard Theatre, moving a packed crowd and even himself to tears. Parents David and Victoria Beckham were visibly shaken by the touching lyrics, which subtly hint at his relationship with his brother. A powerful and personal debut."
+            },
+            "kn": {
+                "title": "ಕ್ರೂಜ್ ಬೆಕ್ಹ್ಯಾಮ್ ಅವರ ಭಾವುಕ ವೇದಿಕೆ ಚೊಚ್ಚಲ ಪ್ರದರ್ಶನ",
+                "content": "ಲಂಡನ್‌ನ ಕೋರ್ಟ್‌ಯಾರ್ಡ್ ಥಿಯೇಟರ್‌ನಲ್ಲಿ ಕ್ರೂಜ್ ಬೆಕ್ಹ್ಯಾಮ್ ತಮ್ಮ ಹೊಸ ಹಾಡು 'ಲೋನ್ಲಿಯೆಸ್ಟ್ ಬಾಯ್' ಅನ್ನು ಭಾವನಾತ್ಮಕವಾಗಿ ಪ್ರದರ್ಶಿಸಿದರು, ಅಲ್ಲಿ ನೆರೆದಿದ್ದ ಜನಸಮೂಹ ಮತ್ತು ಸ್ವತಃ ಅವರನ್ನು ಕಣ್ಣೀರಿಗೆ ತಳ್ಳಿದರು. ಪೋಷಕರಾದ ಡೇವಿಡ್ ಮತ್ತು ವಿಕ್ಟೋರಿಯಾ ಬೆಕ್ಹ್ಯಾಮ್ ಸ್ಪರ್ಶಿಸುವ ಸಾಹಿತ್ಯದಿಂದ ಸ್ಪಷ್ಟವಾಗಿ ಚಕಿತಗೊಂಡಿದ್ದರು, ಇದು ಅವರ ಸಹೋದರನೊಂದಿಗಿನ ಸಂಬಂಧವನ್ನು ಸೂಕ್ಷ್ಮವಾಗಿ ಸೂಚಿಸುತ್ತದೆ. ಒಂದು ಶಕ್ತಿಶಾಲಿ ಮತ್ತು ವೈಯಕ್ತಿಕ ಚೊಚ್ಚಲ ಪ್ರದರ್ಶನ."
+            },
+            "mr": {
+                "title": "क्रूझ बेकहॅमचे भावनिक रंगमंचावरील पदार्पण",
+                "content": "लंडनच्या कोर्टयार्ड थिएटरमध्ये क्रूझ बेकहॅमने त्याचे नवीन गाणे 'लोनलीस्ट बॉय' चे भावनिक सादरीकरण केले, ज्यामुळे उपस्थितांची गर्दी आणि स्वतः तोही रडला. त्याचे पालक डेव्हिड आणि व्हिक्टोरिया बेकहॅम स्पर्श करणाऱ्या गीतांमुळे स्पष्टपणे हादरले होते, जे त्याच्या भावाशी असलेल्या त्याच्या संबंधांची सूक्ष्मपणे आठवण करून देतात. एक शक्तिशाली आणि वैयक्तिक पदार्पण."
+            },
+            "hi": {
+                "title": "क्रूज़ बेकहम का भावुक स्टेज डेब्यू",
+                "content": "लंदन के कोर्टयार्ड थिएटर में क्रूज़ बेकहम ने अपने नए गाने 'लोनलीस्ट बॉय' का भावुक प्रदर्शन किया, जिसने खचाखच भरी भीड़ और खुद उन्हें भी रुला दिया। माता-पिता डेविड और विक्टोरिया बेकहम मार्मिक बोलों से स्पष्ट रूप से हिल गए थे, जो उनके भाई के साथ उनके रिश्ते की सूक्ष्मता से झलक देते हैं। एक शक्तिशाली और व्यक्तिगत शुरुआत।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129816708,imgsize-69838.cms",
+        "link": "https://timesofindia.indiatimes.com/entertainment/english/music/news/cruz-beckham-breaks-down-on-stage-while-performing-loneliest-boy-scathing-lyrics-hint-at-brother-brooklyn-amid-family-rift-mama-dont-talk-too-much/articleshow/129816708.cms"
+    },
+    {
         "id": "a6dee13d",
         "category": "National",
         "translations": {
@@ -1390,533 +1918,5 @@
         },
         "image": "https://static.toiimg.com/photo/msid-129789035,imgsize-1483477.cms",
         "link": "https://timesofindia.indiatimes.com/india/sc-rejects-plea-for-separate-enumeration-of-denotified-nomadic-semi-nomadic-tribes/articleshow/129789033.cms"
-    },
-    {
-        "id": "05c137be",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "ICE Airport Deployment: Travel Warning for Non-Citizens",
-                "content": "An immigration attorney warns non-citizens against travel through US airports as ICE agents are deployed. Those with pending immigration cases, certain visa statuses, or past legal issues are urged to avoid travel. The advice aims to prevent potential questioning or detention amidst heightened scrutiny, advising caution for individuals who might be flagged by authorities."
-            },
-            "kn": {
-                "title": "ICE ವಿಮಾನ ನಿಲ್ದಾಣದಲ್ಲಿ ನಿಯೋಜನೆ: ವಿದೇಶಿ ಪ್ರಜೆಗಳಿಗೆ ಪ್ರಯಾಣ ಎಚ್ಚರಿಕೆ",
-                "content": "ವಲಸೆ ವಕೀಲರು ಅಮೆರಿಕಾದ ವಿಮಾನ ನಿಲ್ದಾಣಗಳಲ್ಲಿ ICE ಏಜೆಂಟ್‌ಗಳು ನಿಯೋಜಿತರಾಗಿರುವುದರಿಂದ ವಲಸೆಯೇತರರಿಗೆ ಪ್ರಯಾಣದ ವಿರುದ್ಧ ಎಚ್ಚರಿಕೆ ನೀಡಿದ್ದಾರೆ. ಬಾಕಿ ಇರುವ ವಲಸೆ ಪ್ರಕರಣಗಳು, ಕೆಲವು ವೀಸಾ ಸ್ಥಿತಿಗಳು ಅಥವಾ ಹಿಂದಿನ ಕಾನೂನು ಸಮಸ್ಯೆಗಳನ್ನು ಹೊಂದಿರುವವರಿಗೆ ಪ್ರಯಾಣಿಸದಂತೆ ಸೂಚಿಸಲಾಗಿದೆ. ಸಂಭಾವ್ಯ ಪ್ರಶ್ನಿಸುವಿಕೆ ಅಥವಾ ಬಂಧನವನ್ನು ತಡೆಯಲು ಈ ಸಲಹೆ ನೀಡಲಾಗಿದೆ. ಅಧಿಕಾರಿಗಳಿಂದ ಗುರುತಿಸಲ್ಪಡುವ ಸಾಧ್ಯತೆಯಿರುವ ವ್ಯಕ್ತಿಗಳಿಗೆ ಎಚ್ಚರಿಕೆ ವಹಿಸುವಂತೆ ಸೂಚಿಸಲಾಗಿದೆ."
-            },
-            "mr": {
-                "title": "ICE विमानतळांवर तैनात: परदेशी नागरिकांसाठी प्रवासाचा इशारा",
-                "content": "एक स्थलांतर वकिलाने ICE एजंट अमेरिकन विमानतळांवर तैनात असल्याने बिगर-नागरिकांना अमेरिकेतील विमानतळांवरून प्रवास करण्यापासून सावध केले आहे. ज्यांच्याकडे प्रलंबित स्थलांतर प्रकरणे, विशिष्ट व्हिसा स्थिती किंवा मागील कायदेशीर समस्या आहेत, त्यांना प्रवास टाळण्याचे आवाहन केले आहे. संभाव्य चौकशी किंवा अटकेपासून वाचण्यासाठी हा सल्ला दिला आहे, अधिकाऱ्यांकडून तपासले जाण्याची शक्यता असलेल्या व्यक्तींना सावध राहण्यास सांगितले आहे."
-            },
-            "hi": {
-                "title": "ICE हवाई अड्डों पर तैनात: गैर-नागरिकों के लिए यात्रा चेतावनी",
-                "content": "एक आव्रजन वकील ने गैर-नागरिकों को अमेरिकी हवाई अड्डों के माध्यम से यात्रा न करने की चेतावनी दी है, क्योंकि ICE एजेंट तैनात किए गए हैं। जिन लोगों के आव्रजन मामले लंबित हैं, कुछ वीज़ा स्थितियाँ हैं, या पिछली कानूनी समस्याएँ हैं, उन्हें यात्रा से बचने का आग्रह किया गया है। यह सलाह संभावित पूछताछ या हिरासत से बचने के लिए दी गई है, उन व्यक्तियों को सावधानी बरतने की सलाह दी गई है जिन्हें अधिकारियों द्वारा चिह्नित किया जा सकता है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129786301,imgsize-52540.cms",
-        "link": "https://timesofindia.indiatimes.com/world/us/avoid-traveling-if-you-are-immigration-attorney-on-who-should-be-concerned-as-ice-agents-are-deployed-at-airports/articleshow/129786173.cms"
-    },
-    {
-        "id": "7df9a423",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "OBCs Surpass EWS in 2025 Civil Services Merit List",
-                "content": "OBC candidates outperformed Economically Weaker Sections (EWS) in the 2025 Civil Services final merit list, reversing a recent trend. Despite scoring lower in interviews, OBCs secured higher overall cut-offs due to stronger written exam performance. This marks a significant shift in UPSC results, showcasing the impact of robust scores in the main examination."
-            },
-            "kn": {
-                "title": "2025ರ ನಾಗರಿಕ ಸೇವಾ ಅರ್ಹತಾ ಪಟ್ಟಿಯಲ್ಲಿ OBCಗಳು EWS ಮೀರಿಸಿದರು",
-                "content": "2025ರ ನಾಗರಿಕ ಸೇವಾ ಅಂತಿಮ ಅರ್ಹತಾ ಪಟ್ಟಿಯಲ್ಲಿ ಇತರ ಹಿಂದುಳಿದ ವರ್ಗಗಳ (OBC) ಅಭ್ಯರ್ಥಿಗಳು ಆರ್ಥಿಕವಾಗಿ ದುರ್ಬಲ ವರ್ಗಗಳ (EWS) ಅಭ್ಯರ್ಥಿಗಳನ್ನು ಮೀರಿಸಿದ್ದಾರೆ, ಇದು ಇತ್ತೀಚಿನ ಪ್ರವೃತ್ತಿಯನ್ನು ಬದಲಾಯಿಸಿದೆ. ಸಂದರ್ಶನದಲ್ಲಿ ಕಡಿಮೆ ಅಂಕ ಗಳಿಸಿದ್ದರೂ, ಬರವಣಿಗೆ ಪರೀಕ್ಷೆಗಳಲ್ಲಿನ ಉತ್ತಮ ಪ್ರದರ್ಶನದಿಂದಾಗಿ OBCಗಳು ಹೆಚ್ಚಿನ ಒಟ್ಟಾರೆ ಕಟ್-ಆಫ್ ಪಡೆದುಕೊಂಡಿದ್ದಾರೆ. ಇದು UPSC ಫಲಿತಾಂಶಗಳಲ್ಲಿ ಮಹತ್ವದ ಬದಲಾವಣೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಮುಖ್ಯ ಪರೀಕ್ಷೆಯ ಪ್ರಬಲ ಅಂಕಗಳ ಪರಿಣಾಮವನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "2025 च्या नागरी सेवा गुणवत्ता यादीत OBC उमेदवारांनी EWS ला मागे टाकले",
-                "content": "2025 च्या नागरी सेवा अंतिम गुणवत्ता यादीत इतर मागासवर्गीय (OBC) उमेदवारांनी आर्थिकदृष्ट्या दुर्बळ घटक (EWS) उमेदवारांना मागे टाकले आहे, ज्यामुळे अलीकडील कल उलटला आहे. मुलाखतींमध्ये कमी गुण मिळवूनही, लेखी परीक्षेत मजबूत कामगिरीमुळे OBC उमेदवारांनी अधिक एकूण कट-ऑफ मिळवला. हे UPSC निकालांमध्ये एक महत्त्वाचे बदल दर्शवते, मुख्य परीक्षेतील चांगल्या गुणांचा प्रभाव अधोरेखित करते."
-            },
-            "hi": {
-                "title": "2025 की सिविल सेवा मेरिट सूची में OBC ने EWS को पछाड़ा",
-                "content": "2025 की सिविल सेवा अंतिम मेरिट सूची में अन्य पिछड़ा वर्ग (OBC) के उम्मीदवारों ने आर्थिक रूप से कमजोर वर्ग (EWS) के उम्मीदवारों को पीछे छोड़ दिया है, जिससे हालिया प्रवृत्ति उलट गई है। साक्षात्कार में कम अंक प्राप्त करने के बावजूद, OBC उम्मीदवारों ने लिखित परीक्षा में मजबूत प्रदर्शन के कारण उच्च समग्र कट-ऑफ हासिल किया। यह UPSC परिणामों में एक महत्वपूर्ण बदलाव को दर्शाता है, जो मुख्य परीक्षा में मजबूत अंकों के प्रभाव को प्रदर्शित करता है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129788598,imgsize-2664860.cms",
-        "link": "https://timesofindia.indiatimes.com/india/civils-25-obcs-pip-ews-despite-interview-drag/articleshow/129788343.cms"
-    },
-    {
-        "id": "0b083e6c",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Congress Faces Eviction from Lutyens Delhi Offices",
-                "content": "Congress is facing eviction from its national headquarters at 24, Akbar Road, and the Indian Youth Congress office at 5, Raisina Road in Lutyens Delhi. Notices mandate vacating both premises by March 28. The party intends to challenge these orders in court, alleging political motivation and illegality behind the move to remove them from their long-standing key addresses."
-            },
-            "kn": {
-                "title": "ಕಾಂಗ್ರೆಸ್ ಲೂಟಿಯೆನ್ಸ್ ದೆಹಲಿ ಕಚೇರಿಗಳಿಂದ ಖಾಲಿ ಮಾಡುವ ಸೂಚನೆ ಎದುರಿಸುತ್ತಿದೆ",
-                "content": "ಕಾಂಗ್ರೆಸ್ ಲೂಟಿಯೆನ್ಸ್ ದೆಹಲಿಯಲ್ಲಿರುವ ತನ್ನ 24, ಅಕ್ಬರ್ ರಸ್ತೆ ರಾಷ್ಟ್ರೀಯ ಕೇಂದ್ರ ಕಚೇರಿ ಮತ್ತು 5, ರೈಸಿನಾ ರಸ್ತೆಯಲ್ಲಿರುವ ಭಾರತೀಯ ಯುವ ಕಾಂಗ್ರೆಸ್ ಕಚೇರಿಯಿಂದ ಖಾಲಿ ಮಾಡುವ ಸವಾಲು ಎದುರಿಸುತ್ತಿದೆ. ಮಾರ್ಚ್ 28 ರೊಳಗೆ ಎರಡೂ ಆವರಣಗಳನ್ನು ಖಾಲಿ ಮಾಡುವಂತೆ ಸೂಚನೆ ನೀಡಲಾಗಿದೆ. ಈ ಕ್ರಮದ ಹಿಂದೆ ರಾಜಕೀಯ ಪ್ರೇರಣೆ ಮತ್ತು ಕಾನೂನುಬಾಹಿರತೆ ಇದೆ ಎಂದು ಆರೋಪಿಸಿ ಪಕ್ಷವು ಈ ಆದೇಶಗಳನ್ನು ನ್ಯಾಯಾಲಯದಲ್ಲಿ ಪ್ರಶ್ನಿಸಲು ಉದ್ದೇಶಿಸಿದೆ."
-            },
-            "mr": {
-                "title": "काँग्रेसला लुटियन्स दिल्लीतील कार्यालये रिकामी करण्याच्या नोटिसा",
-                "content": "काँग्रेसला लुटियन्स दिल्लीतील २४, अकबर रोड येथील राष्ट्रीय मुख्यालय आणि ५, रायसिना रोड येथील भारतीय युवक काँग्रेस कार्यालय रिकामे करण्याच्या नोटिसा मिळाल्या आहेत. २८ मार्चपर्यंत दोन्ही जागा रिकाम्या कराव्या लागतील. पक्षाने हे आदेश न्यायालयात आव्हान देण्याचा निर्णय घेतला आहे, ज्यात राजकीय हेतू आणि त्यांच्या जुन्या महत्त्वाच्या ठिकाणांवरून हटवण्यामागे बेकायदेशीरता असल्याचा आरोप केला आहे."
-            },
-            "hi": {
-                "title": "कांग्रेस को लुटियंस दिल्ली के कार्यालयों से बेदखली का सामना",
-                "content": "कांग्रेस को लुटियंस दिल्ली में अपने राष्ट्रीय मुख्यालय 24, अकबर रोड और भारतीय युवा कांग्रेस कार्यालय 5, रायसीना रोड से बेदखली का सामना करना पड़ रहा है। नोटिस के अनुसार, 28 मार्च तक दोनों परिसरों को खाली करना अनिवार्य है। पार्टी इन आदेशों को अदालत में चुनौती देने का इरादा रखती है, जिसमें उन्हें उनके पुराने और महत्वपूर्ण ठिकानों से हटाने के पीछे राजनीतिक मंशा और अवैधता का आरोप लगाया गया है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129787580,imgsize-997631.cms",
-        "link": "https://timesofindia.indiatimes.com/india/congress-gets-notice-to-move-out-of-lutyens-address/articleshow/129787346.cms"
-    },
-    {
-        "id": "43fa18f9",
-        "category": "Sports",
-        "translations": {
-            "en": {
-                "title": "From Cheapest to Costliest: RR's Staggering 2332% Value Jump",
-                "content": "Rajasthan Royals, once IPL's cheapest team at $67 million in 2008, now boasts a staggering $1.63 billion valuation by 2026. This 2,332.84% surge transforms them into one of the most valuable franchises. The jump highlights the Indian Premier League's explosive financial growth and robust investor interest, significantly elevating RR's market status."
-            },
-            "kn": {
-                "title": "ಅಗ್ಗದಿಂದ ಅತಿ ದುಬಾರಿಗೆ: RR ಮೌಲ್ಯದಲ್ಲಿ 2332% ಅದ್ಭುತ ಜಿಗಿತ",
-                "content": "2008ರಲ್ಲಿ $67 ಮಿಲಿಯನ್‌ನೊಂದಿಗೆ ಐಪಿಎಲ್‌ನ ಅಗ್ಗದ ತಂಡವಾಗಿದ್ದ ರಾಜಸ್ಥಾನ್ ರಾಯಲ್ಸ್, 2026ರ ವೇಳೆಗೆ $1.63 ಬಿಲಿಯನ್‌ನ ಅದ್ಭುತ ಮೌಲ್ಯವನ್ನು ಗಳಿಸಿದೆ. ಈ 2,332.84% ಜಿಗಿತವು ಅವರನ್ನು ಅತ್ಯಂತ ಮೌಲ್ಯಯುತ ಫ್ರಾಂಚೈಸಿಗಳಲ್ಲಿ ಒಂದನ್ನಾಗಿ ಪರಿವರ್ತಿಸಿದೆ. ಈ ಏರಿಕೆಯು ಇಂಡಿಯನ್ ಪ್ರೀಮಿಯರ್ ಲೀಗ್‌ನ ಭಾರಿ ಆರ್ಥಿಕ ಬೆಳವಣಿಗೆ ಮತ್ತು ಬಲವಾದ ಹೂಡಿಕೆದಾರರ ಆಸಕ್ತಿಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ, ಇದು RR ನ ಮಾರುಕಟ್ಟೆ ಸ್ಥಾನಮಾನವನ್ನು ಗಮನಾರ್ಹವಾಗಿ ಹೆಚ್ಚಿಸಿದೆ."
-            },
-            "mr": {
-                "title": "स्वस्त ते सर्वात महाग: RR च्या मूल्यात 2332% ची आश्चर्यकारक वाढ",
-                "content": "2008 मध्ये $67 दशलक्षमध्ये IPL मधील सर्वात स्वस्त संघ असलेला राजस्थान रॉयल्स, 2026 पर्यंत $1.63 अब्ज डॉलर्सच्या आश्चर्यकारक मूल्यावर पोहोचला आहे. ही 2,332.84% वाढ त्यांना सर्वात मौल्यवान फ्रँचायझींपैकी एक बनवते. ही वाढ इंडियन प्रीमियर लीगची प्रचंड आर्थिक वाढ आणि मजबूत गुंतवणूकदार स्वारस्य दर्शवते, ज्यामुळे RR चा बाजारातील दर्जा लक्षणीयरीत्या वाढला आहे."
-            },
-            "hi": {
-                "title": "सबसे सस्ते से सबसे महंगे तक: RR के मूल्य में 2332% की हैरतअंगेज़ उछाल",
-                "content": "2008 में $67 मिलियन के साथ आईपीएल की सबसे सस्ती टीम रही राजस्थान रॉयल्स, अब 2026 तक $1.63 बिलियन के चौंकाने वाले मूल्यांकन पर पहुंच गई है। यह 2,332.84% की वृद्धि उन्हें सबसे मूल्यवान फ्रेंचाइजी में से एक बनाती है। यह उछाल इंडियन प्रीमियर लीग की विस्फोटक वित्तीय वृद्धि और मजबूत निवेशक रुचि को दर्शाता है, जिससे RR की बाजार स्थिति में उल्लेखनीय सुधार हुआ है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129775668,imgsize-101570.cms",
-        "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/from-cheapest-to-one-of-the-costliest-rr-sees-2332-84-jump-in-value-in-19-years/articleshow/129775504.cms"
-    },
-    {
-        "id": "60eca540",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Gujarat to Host India's Third Spaceport",
-                "content": "Gujarat is set to host India's third spaceport near Gir Somnath, a strategic move to propel the nation's booming space sector. This development, identified in consultation with IN-SPACe, will establish the state as a key aerospace hub. Gujarat is also developing a space park and a private satellite manufacturing plant, solidifying its role in India's ambitious space future."
-            },
-            "kn": {
-                "title": "ಗುಜರಾತ್ ಭಾರತದ ಮೂರನೇ ಬಾಹ್ಯಾಕಾಶ ನಿಲ್ದಾಣಕ್ಕೆ ಆತಿಥ್ಯ ವಹಿಸಲಿದೆ",
-                "content": "ಗುಜರಾತ್ ಗಿರ್ ಸೋಮನಾಥ್ ಬಳಿ ಭಾರತದ ಮೂರನೇ ಬಾಹ್ಯಾಕಾಶ ನಿಲ್ದಾಣವನ್ನು ಆತಿಥ್ಯ ವಹಿಸಲು ಸಜ್ಜಾಗಿದೆ. ಇದು ದೇಶದ ವೇಗವಾಗಿ ಬೆಳೆಯುತ್ತಿರುವ ಬಾಹ್ಯಾಕಾಶ ಕ್ಷೇತ್ರವನ್ನು ಉತ್ತೇಜಿಸುವ ಒಂದು ಕಾರ್ಯತಂತ್ರದ ಹೆಜ್ಜೆಯಾಗಿದೆ. IN-SPACe ಜೊತೆ ಸಮಾಲೋಚಿಸಿ ಗುರುತಿಸಲಾದ ಈ ಬೆಳವಣಿಗೆಯು ರಾಜ್ಯವನ್ನು ಪ್ರಮುಖ ಏರೋಸ್ಪೇಸ್ ಕೇಂದ್ರವಾಗಿ ಸ್ಥಾಪಿಸುತ್ತದೆ. ಗುಜರಾತ್ ಬಾಹ್ಯಾಕಾಶ ಪಾರ್ಕ್ ಮತ್ತು ಖಾಸಗಿ ಉಪಗ್ರಹ ಉತ್ಪಾದನಾ ಘಟಕವನ್ನು ಸಹ ಅಭಿವೃದ್ಧಿಪಡಿಸುತ್ತಿದೆ, ಇದು ಭಾರತದ ಮಹತ್ವಾಕಾಂಕ್ಷೆಯ ಬಾಹ್ಯಾಕಾಶ ಭವಿಷ್ಯದಲ್ಲಿ ಅದರ ಪಾತ್ರವನ್ನು ಗಟ್ಟಿಗೊಳಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "गुजरातमध्ये भारताचे तिसरे स्पेसपोर्ट होणार",
-                "content": "गुजरात गीर सोमनाथजवळ भारताचे तिसरे स्पेसपोर्ट उभारणार आहे, ज्यामुळे देशाच्या वाढत्या अंतराळ क्षेत्राला चालना मिळेल. IN-SPACe सोबतच्या चर्चेतून निश्चित झालेली ही योजना राज्याला एक महत्त्वाचे एरोस्पेस केंद्र म्हणून स्थापित करेल. गुजरात एक स्पेस पार्क आणि खासगी उपग्रह उत्पादन प्रकल्प देखील विकसित करत आहे, ज्यामुळे भारताच्या महत्त्वाकांक्षी अंतराळ भविष्यातील त्याची भूमिका मजबूत होईल."
-            },
-            "hi": {
-                "title": "गुजरात में होगा भारत का तीसरा स्पेसपोर्ट",
-                "content": "गुजरात गीर सोमनाथ के पास भारत के तीसरे स्पेसपोर्ट की मेजबानी करने के लिए तैयार है, जो देश के बढ़ते अंतरिक्ष क्षेत्र को बढ़ावा देने का एक रणनीतिक कदम है। IN-SPACe के परामर्श से पहचान की गई यह परियोजना राज्य को एक प्रमुख एयरोस्पेस केंद्र के रूप में स्थापित करेगी। गुजरात एक स्पेस पार्क और एक निजी उपग्रह निर्माण संयंत्र भी विकसित कर रहा है, जिससे भारत के महत्वाकांक्षी अंतरिक्ष भविष्य में उसकी भूमिका मजबूत होगी।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129786605,imgsize-662655.cms",
-        "link": "https://timesofindia.indiatimes.com/india/gujarat-government-plans-indias-third-spaceport-near-gir-somnath/articleshow/129786612.cms"
-    },
-    {
-        "id": "662a7fc4",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Trump, Modi Discuss West Asia, Hormuz Amid Iran Tensions",
-                "content": "Amidst US consideration of Iran peace talks, President Trump called PM Modi to discuss the West Asia situation. Both leaders emphasized the critical need to keep the Strait of Hormuz open and secure for global stability. Modi reiterated India's strong support for de-escalation and peace, highlighting safe passage's importance for economic well-being."
-            },
-            "kn": {
-                "title": "ಟ್ರಂಪ್, ಮೋದಿ ಪಶ್ಚಿಮ ಏಷ್ಯಾ, ಹಾರ್ಮುಜ್ ಕುರಿತು ಚರ್ಚೆ",
-                "content": "ಇರಾನ್ ಶಾಂತಿ ಮಾತುಕತೆಗಳ ಅಮೆರಿಕದ ಪರಿಗಣನೆಯ ನಡುವೆ, ಅಧ್ಯಕ್ಷ ಟ್ರಂಪ್ ಪ್ರಧಾನಿ ಮೋದಿಗೆ ಕರೆ ಮಾಡಿ ಪಶ್ಚಿಮ ಏಷ್ಯಾ ಪರಿಸ್ಥಿತಿಯನ್ನು ಚರ್ಚಿಸಿದರು. ಜಾಗತಿಕ ಸ್ಥಿರತೆಗೆ ಹಾರ್ಮುಜ್ ಜಲಸಂಧಿಯನ್ನು ತೆರೆದಿಡುವುದು ಮತ್ತು ಸುರಕ್ಷಿತವಾಗಿಡುವುದು ಅತ್ಯಗತ್ಯ ಎಂದು ಎರಡೂ ನಾಯಕರು ಒತ್ತಿ ಹೇಳಿದರು. ಆರ್ಥಿಕ ಸುಸ್ಥಿತಿಗೆ ಸುರಕ್ಷಿತ ಮಾರ್ಗದ ಮಹತ್ವವನ್ನು ಎತ್ತಿ ತೋರಿಸಿ, ಮೋದಿ ಉದ್ವಿಗ್ನತೆ ಇಳಿಕೆ ಮತ್ತು ಶಾಂತಿಗಾಗಿ ಭಾರತದ ದೃಢ ಬೆಂಬಲವನ್ನು ಪುನರುಚ್ಚರಿಸಿದರು."
-            },
-            "mr": {
-                "title": "ट्रम्प, मोदींकडून पश्चिम आशिया, होर्मुझवर चर्चा",
-                "content": "इराणसोबत शांतता चर्चेच्या अमेरिकेच्या विचारांदरम्यान, राष्ट्राध्यक्ष ट्रम्प यांनी पंतप्रधान मोदींना फोन करून पश्चिम आशियातील परिस्थितीवर चर्चा केली. जागतिक स्थिरतेसाठी होर्मुझची सामुद्रधुनी खुली आणि सुरक्षित ठेवण्याची गरज दोन्ही नेत्यांनी अधोरेखित केली. आर्थिक कल्याणासाठी सुरक्षित मार्गाच्या महत्त्वावर भर देत मोदींनी तणाव कमी करण्याच्या आणि शांततेसाठी भारताच्या जोरदार पाठिंब्याचा पुनरुच्चार केला."
-            },
-            "hi": {
-                "title": "ट्रम्प, मोदी ने पश्चिम एशिया, होर्मुज पर की चर्चा",
-                "content": "ईरान शांति वार्ता पर अमेरिका के विचार के बीच, राष्ट्रपति ट्रम्प ने पीएम मोदी को पश्चिम एशिया की स्थिति पर चर्चा करने के लिए फोन किया। दोनों नेताओं ने वैश्विक स्थिरता के लिए होर्मुज जलडमरूमध्य को खुला और सुरक्षित रखने की महत्वपूर्ण आवश्यकता पर जोर दिया। मोदी ने आर्थिक कल्याण के लिए सुरक्षित मार्ग के महत्व को उजागर करते हुए तनाव कम करने और शांति के लिए भारत के मजबूत समर्थन को दोहराया।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129784740,imgsize-727271.cms",
-        "link": "https://timesofindia.indiatimes.com/india/trump-dials-modi-as-us-contemplates-peace-talks-with-iran/articleshow/129784744.cms"
-    },
-    {
-        "id": "3da08257",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "India Engages US on Chabahar Sanctions Amidst Iran Deal",
-                "content": "India is actively discussing US sanctions on Chabahar Port, despite signing a 10-year operation contract with Iran. India fulfilled its $120 million equipment commitment. While a conditional US waiver extends until April 2026, India is addressing implications from changes in the US sanctions framework, highlighting ongoing diplomatic efforts for this strategic port."
-            },
-            "kn": {
-                "title": "ಚಾಬಹಾರ್ ನಿರ್ಬಂಧಗಳ ಕುರಿತು ಇರಾನ್ ಒಪ್ಪಂದದ ನಡುವೆ ಅಮೆರಿಕದೊಂದಿಗೆ ಭಾರತದ ಸಂವಾದ",
-                "content": "ಇರಾನ್‌ನೊಂದಿಗೆ 10 ವರ್ಷಗಳ ಕಾರ್ಯಾಚರಣೆಯ ಒಪ್ಪಂದಕ್ಕೆ ಸಹಿ ಹಾಕಿದ್ದರೂ, ಭಾರತವು ಚಾಬಹಾರ್ ಬಂದರು ಮೇಲಿನ ಅಮೆರಿಕದ ನಿರ್ಬಂಧಗಳ ಬಗ್ಗೆ ಸಕ್ರಿಯವಾಗಿ ಚರ್ಚಿಸುತ್ತಿದೆ. ಭಾರತವು ತನ್ನ $120 ಮಿಲಿಯನ್ ಉಪಕರಣಗಳ ಬದ್ಧತೆಯನ್ನು ಪೂರೈಸಿದೆ. ಷರತ್ತುಬದ್ಧ ಅಮೆರಿಕದ ವಿನಾಯಿತಿ ಏಪ್ರಿಲ್ 2026 ರವರೆಗೆ ವಿಸ್ತರಿಸಿದ್ದರೂ, ಈ ಕಾರ್ಯತಂತ್ರದ ಬಂದರಿಗಾಗಿ ನಡೆಯುತ್ತಿರುವ ರಾಜತಾಂತ್ರಿಕ ಪ್ರಯತ್ನಗಳನ್ನು ಎತ್ತಿ ತೋರಿಸುವ ಮೂಲಕ ಅಮೆರಿಕದ ನಿರ್ಬಂಧಗಳ ಚೌಕಟ್ಟಿನಲ್ಲಿನ ಬದಲಾವಣೆಗಳಿಂದ ಉಂಟಾಗುವ ಪರಿಣಾಮಗಳನ್ನು ಭಾರತವು ನಿರ್ವಹಿಸುತ್ತಿದೆ."
-            },
-            "mr": {
-                "title": "इराण करारादरम्यान चाबहार निर्बंधांवर अमेरिकेशी भारताचा संवाद",
-                "content": "इराणसोबत 10 वर्षांच्या कामकाजाच्या करारावर स्वाक्षरी करूनही, भारत चाबहार बंदरावरील अमेरिकेच्या निर्बंधांवर सक्रियपणे चर्चा करत आहे. भारताने 120 दशलक्ष डॉलरच्या उपकरणांची आपली वचनबद्धता पूर्ण केली आहे. अमेरिकेची सशर्त सूट एप्रिल 2026 पर्यंत वाढलेली असली तरी, भारत अमेरिकेच्या निर्बंधांच्या चौकटीतील बदलांमुळे उद्भवणाऱ्या परिणामांवर लक्ष देत आहे, या धोरणात्मक बंदरासाठी सुरू असलेल्या राजनैतिक प्रयत्नांवर भर देत आहे."
-            },
-            "hi": {
-                "title": "ईरान समझौते के बीच चाबहार प्रतिबंधों पर अमेरिका से भारत की बातचीत",
-                "content": "ईरान के साथ 10 साल के संचालन समझौते पर हस्ताक्षर करने के बावजूद, भारत चाबहार बंदरगाह पर अमेरिकी प्रतिबंधों पर सक्रिय रूप से चर्चा कर रहा है। भारत ने 120 मिलियन डॉलर के उपकरण के लिए अपनी प्रतिबद्धता पूरी कर ली है। जबकि सशर्त अमेरिकी छूट अप्रैल 2026 तक बढ़ी हुई है, भारत अमेरिकी प्रतिबंध ढांचे में बदलावों से उत्पन्न होने वाले प्रभावों को संबोधित कर रहा है, जो इस रणनीतिक बंदरगाह के लिए चल रहे राजनयिक प्रयासों पर प्रकाश डालता है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129783807,imgsize-129251.cms",
-        "link": "https://timesofindia.indiatimes.com/india/india-remains-engaged-with-us-on-chabahar-port-sanctions-meets-120-million-obligation/articleshow/129783831.cms"
-    },
-    {
-        "id": "45cd54cb",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "TN Polls Heat Up: Alliances Form for Key Battle",
-                "content": "Tamil Nadu's assembly elections are heating up with major alliances solidifying. The DMK-led alliance and the AIADMK-led NDA are gearing up for a fierce contest, reflecting past strong DMK performances. BJP eyes a greater presence. Strategies are firming up as political activity intensifies across the state."
-            },
-            "kn": {
-                "title": "ತಮಿಳುನಾಡು ಚುನಾವಣೆಗಳು ಬಿಸಿ ಏರಿವೆ: ಪ್ರಮುಖ ಸಮರಕ್ಕೆ ಮೈತ್ರಿಗಳು ಸಿದ್ಧ",
-                "content": "ತಮಿಳುನಾಡಿನ ವಿಧಾನಸಭಾ ಚುನಾವಣೆಗಳು ಬಿಸಿ ಏರಿವೆ, ಪ್ರಮುಖ ಮೈತ್ರಿಗಳು ಗಟ್ಟಿಯಾಗುತ್ತಿವೆ. ಡಿಎಂಕೆ ನೇತೃತ್ವದ ಮೈತ್ರಿಕೂಟ ಮತ್ತು ಎಐಎಡಿಎಂಕೆ ನೇತೃತ್ವದ ಎನ್‌ಡಿಎ ತೀವ್ರ ಸ್ಪರ್ಧೆಗೆ ಸಜ್ಜಾಗಿದ್ದು, ಹಿಂದಿನ ಪ್ರಬಲ ಡಿಎಂಕೆ ಪ್ರದರ್ಶನಗಳನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ. ಬಿಜೆಪಿ ಹೆಚ್ಚಿನ ಅಸ್ತಿತ್ವವನ್ನು ಬಯಸಿದೆ. ರಾಜ್ಯಾದ್ಯಂತ ರಾಜಕೀಯ ಚಟುವಟಿಕೆಗಳು ತೀವ್ರಗೊಳ್ಳುತ್ತಿದ್ದಂತೆ ತಂತ್ರಗಳು ದೃಢಗೊಳ್ಳುತ್ತಿವೆ."
-            },
-            "mr": {
-                "title": "तामिळनाडू निवडणुकांचा पारा चढला: निर्णायक लढ्यासाठी आघाड्या तयार",
-                "content": "तामिळनाडूच्या विधानसभा निवडणुकांचा पारा चढला असून प्रमुख आघाड्या मजबूत होत आहेत. डीएमके-नेतृत्वाखालील आघाडी आणि एआयएडीएमके-नेतृत्वाखालील एनडीए तीव्र लढ्यासाठी सज्ज आहेत, ज्यामुळे पूर्वीच्या डीएमकेच्या मजबूत कामगिरीचे प्रतिबिंब दिसते. भाजपला अधिक उपस्थिती वाढवायची आहे. राज्यभरात राजकीय हालचाली तीव्र होत असताना धोरणे निश्चित होत आहेत."
-            },
-            "hi": {
-                "title": "तमिलनाडु चुनाव गरमाए: प्रमुख लड़ाई के लिए गठबंधन तैयार",
-                "content": "तमिलनाडु के विधानसभा चुनाव गरमा रहे हैं, प्रमुख गठबंधन मजबूत हो रहे हैं। डीएमके-नेतृत्व वाला गठबंधन और एआईएडीएमके-नेतृत्व वाला एनडीए एक भयंकर मुकाबले के लिए तैयार हैं, जो डीएमके के पिछले मजबूत प्रदर्शनों को दर्शाता है। भाजपा अपनी उपस्थिति बढ़ाना चाहती है। राज्य भर में राजनीतिक गतिविधियां तेज होने के साथ रणनीतियां मजबूत हो रही हैं।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129781389,imgsize-36428.cms",
-        "link": "https://timesofindia.indiatimes.com/india/tamil-nadu-assembly-election-alliances-take-shape-amid-aiadmk-dmk-contest-spotlight-on-previous-performance/articleshow/129781236.cms"
-    },
-    {
-        "id": "b4c662aa",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "US Pushes Stronger India to Counter China in Indo-Pacific",
-                "content": "The US sees a strong India as crucial for a balanced, free Indo-Pacific, countering China's growing influence. Emphasizing deeper defense and strategic ties, the US aims to boost India's operational interoperability and defense capabilities. This includes fostering co-production and a robust domestic industry. The goal is to prevent single-power dominance and solidify India's vital role in regional stability."
-            },
-            "kn": {
-                "title": "ಇಂಡೋ-ಪೆಸಿಫಿಕ್‌ನಲ್ಲಿ ಚೀನಾವನ್ನು ಎದುರಿಸಲು ಬಲಿಷ್ಠ ಭಾರತಕ್ಕೆ ಯುಎಸ್ ಒತ್ತಡ",
-                "content": "ಚೀನಾದ ಹೆಚ್ಚುತ್ತಿರುವ ಪ್ರಭಾವವನ್ನು ಎದುರಿಸಲು ಸಮತೋಲಿತ, ಮುಕ್ತ ಇಂಡೋ-ಪೆಸಿಫಿಕ್‌ಗೆ ಬಲಿಷ್ಠ ಭಾರತ ಅತ್ಯಗತ್ಯ ಎಂದು ಅಮೆರಿಕ ನೋಡುತ್ತದೆ. ಆಳವಾದ ರಕ್ಷಣೆ ಮತ್ತು ಕಾರ್ಯತಂತ್ರದ ಸಂಬಂಧಗಳಿಗೆ ಒತ್ತು ನೀಡುತ್ತಾ, ಅಮೆರಿಕವು ಭಾರತದ ಕಾರ್ಯಾಚರಣೆಯ ಪರಸ್ಪರ ಕಾರ್ಯಸಾಧ್ಯತೆ ಮತ್ತು ರಕ್ಷಣಾ ಸಾಮರ್ಥ್ಯಗಳನ್ನು ಹೆಚ್ಚಿಸುವ ಗುರಿ ಹೊಂದಿದೆ. ಇದು ಸಹ-ಉತ್ಪಾದನೆ ಮತ್ತು ಸದೃಢ ದೇಶೀಯ ಕೈಗಾರಿಕೆಯನ್ನು ಉತ್ತೇಜಿಸುವುದನ್ನು ಒಳಗೊಂಡಿದೆ. ಏಕ-ಶಕ್ತಿಯ ಪ್ರಾಬಲ್ಯವನ್ನು ತಡೆಗಟ್ಟುವುದು ಮತ್ತು ಪ್ರಾದೇಶಿಕ ಸ್ಥಿರತೆಯಲ್ಲಿ ಭಾರತದ ಪ್ರಮುಖ ಪಾತ್ರವನ್ನು ಬಲಪಡಿಸುವುದು ಇದರ ಗುರಿಯಾಗಿದೆ."
-            },
-            "mr": {
-                "title": "इंडो-पॅसिफिकमध्ये चीनला प्रत्युत्तर देण्यासाठी अमेरिकेचा मजबूत भारतावर भर",
-                "content": "चीनचा वाढता प्रभाव रोखण्यासाठी संतुलित आणि मुक्त इंडो-पॅसिफिकसाठी मजबूत भारत महत्त्वाचा आहे, असे अमेरिकेला वाटते. संरक्षण आणि धोरणात्मक संबंध अधिक दृढ करण्यावर भर देत, अमेरिकेचे उद्दिष्ट भारताची कार्यात्मक आंतरकार्यक्षमता आणि संरक्षण क्षमता वाढवणे आहे. यात सह-उत्पादन आणि मजबूत स्वदेशी उद्योगाला प्रोत्साहन देणे समाविष्ट आहे. एकाच शक्तीचे वर्चस्व रोखणे आणि प्रादेशिक स्थिरतेमध्ये भारताची महत्त्वाची भूमिका मजबूत करणे हे उद्दिष्ट आहे."
-            },
-            "hi": {
-                "title": "इंडो-पैसिफिक में चीन का मुकाबला करने के लिए अमेरिका का मजबूत भारत पर जोर",
-                "content": "अमेरिका एक मजबूत भारत को संतुलित, मुक्त इंडो-पैसिफिक के लिए महत्वपूर्ण मानता है, जो चीन के बढ़ते प्रभाव का मुकाबला करेगा। गहरे रक्षा और रणनीतिक संबंधों पर जोर देते हुए, अमेरिका का लक्ष्य भारत की परिचालन अंतरसंचालनीयता और रक्षा क्षमताओं को बढ़ावा देना है। इसमें सह-उत्पादन और एक मजबूत घरेलू उद्योग को बढ़ावा देना शामिल है। इसका लक्ष्य किसी एक शक्ति के प्रभुत्व को रोकना और क्षेत्रीय स्थिरता में भारत की महत्वपूर्ण भूमिका को मजबूत करना है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129780163,imgsize-47572.cms",
-        "link": "https://timesofindia.indiatimes.com/india/strong-india-good-for-us-trump-admin-on-countering-chinas-hold-on-indo-pacific/articleshow/129780058.cms"
-    },
-    {
-        "id": "7d4ce868",
-        "category": "Entertainment",
-        "translations": {
-            "en": {
-                "title": "Udaybir Sandhu Shines in 'Dhurandhar', Thanks Mukesh Chhabra",
-                "content": "Udaybir Sandhu is garnering praise for his impactful portrayal of Pinda in the successful film 'Dhurandhar: The Revenge'. He expressed heartfelt gratitude to casting director Mukesh Chhabra for the significant opportunity. The movie is performing exceptionally well at the box office, further highlighting Sandhu's dedication and praised performance. Chhabra reciprocated his appreciation, acknowledging Sandhu's talent."
-            },
-            "kn": {
-                "title": "ಧುರಂಧರ್‌ನಲ್ಲಿ ಉದಯ್ಬೀರ್ ಸಂಧು ಮಿಂಚು, ಮುಖೇಶ್ ಛಾಬ್ರಾಗೆ ಧನ್ಯವಾದ",
-                "content": "'ಧುರಂಧರ್: ದಿ ರಿವೆಂಜ್' ಯಶಸ್ವಿ ಚಿತ್ರದಲ್ಲಿ ಪಿಂಡಾ ಪಾತ್ರದ ಪ್ರಭಾವಶಾಲಿ ಅಭಿನಯಕ್ಕಾಗಿ ಉದಯ್ಬೀರ್ ಸಂಧು ಮೆಚ್ಚುಗೆ ಗಳಿಸುತ್ತಿದ್ದಾರೆ. ಈ ಮಹತ್ವದ ಅವಕಾಶಕ್ಕಾಗಿ ಅವರು ಕಾಸ್ಟಿಂಗ್ ನಿರ್ದೇಶಕ ಮುಖೇಶ್ ಛಾಬ್ರಾಗೆ ಹೃತ್ಪೂರ್ವಕ ಕೃತಜ್ಞತೆ ಸಲ್ಲಿಸಿದರು. ಚಲನಚಿತ್ರವು ಗಲ್ಲಾಪೆಟ್ಟಿಗೆಯಲ್ಲಿ ಅತ್ಯುತ್ತಮವಾಗಿ ಪ್ರದರ್ಶನ ನೀಡುತ್ತಿದೆ, ಇದು ಸಂಧು ಅವರ ಸಮರ್ಪಣೆ ಮತ್ತು ಶ್ಲಾಘನೀಯ ಅಭಿನಯವನ್ನು ಇನ್ನಷ್ಟು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ಛಾಬ್ರಾ ಸಂಧು ಅವರ ಪ್ರತಿಭೆಯನ್ನು ಗುರುತಿಸಿ ತಮ್ಮ ಮೆಚ್ಚುಗೆಯನ್ನು ವ್ಯಕ್ತಪಡಿಸಿದರು."
-            },
-            "mr": {
-                "title": "'धुरंधर'मध्ये उदयबीर संधू चमकला, मुकेश छाबडाचे मानले आभार",
-                "content": "'धुरंधर: द रिव्हेंज' या यशस्वी चित्रपटातील पिंडाच्या प्रभावी भूमिकेसाठी उदयबीर संधूची प्रशंसा होत आहे. या महत्त्वाच्या संधीसाठी त्याने कास्टिंग दिग्दर्शक मुकेश छाबडाचे मनःपूर्वक आभार मानले. हा चित्रपट बॉक्स ऑफिसवर उत्कृष्ट कामगिरी करत आहे, ज्यामुळे संधूची निष्ठा आणि प्रशंसनीय कामगिरी अधिक ठळक होते. छाबडाने संधूच्या प्रतिभेची दखल घेऊन आपल्या कौतुकाची परतफेड केली."
-            },
-            "hi": {
-                "title": "'धुरंधर' में उदयबीर संधू चमके, मुकेश छाबड़ा का किया धन्यवाद",
-                "content": "सफल फिल्म 'धुरंधर: द रिवेंज' में पिंडा के प्रभावशाली चित्रण के लिए उदयबीर संधू खूब प्रशंसा बटोर रहे हैं। उन्होंने इस महत्वपूर्ण अवसर के लिए कास्टिंग डायरेक्टर मुकेश छाबड़ा का हार्दिक आभार व्यक्त किया। यह फिल्म बॉक्स ऑफिस पर असाधारण प्रदर्शन कर रही है, जिससे संधू के समर्पण और प्रशंसित प्रदर्शन को और बल मिलता है। छाबड़ा ने संधू की प्रतिभा को स्वीकार करते हुए अपनी सराहना व्यक्त की।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129778234,imgsize-51088.cms",
-        "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/paaji-aapa-poori-jaan-laa-ditti-udaybir-sandhu-thanks-mukesh-chhabra-for-dhurandhar-the-revenge-role/articleshow/129778236.cms"
-    },
-    {
-        "id": "c46ddde5",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Martyrs' Status Beyond Records: Govt Clarifies on Bhagat Singh & Co.",
-                "content": "The government informed Lok Sabha that the esteemed status of freedom fighters Bhagat Singh, Sukhdev, and Rajguru as martyrs is not dependent on 'official records'. This significant clarification underscores that their supreme sacrifice for India's independence is a matter of national reverence and public recognition, transcending formal bureaucratic classifications. It solidifies their symbolic standing as national heroes."
-            },
-            "kn": {
-                "title": "ದಾಖಲೆಗಳ ಆಚೆಗೆ ಹುತಾತ್ಮರ ಸ್ಥಾನಮಾನ: ಭಗತ್ ಸಿಂಗ್ ಮತ್ತು ಸಹಚರರ ಬಗ್ಗೆ ಸರ್ಕಾರ ಸ್ಪಷ್ಟನೆ",
-                "content": "ಸರ್ಕಾರವು ಲೋಕಸಭೆಗೆ ತಿಳಿಸಿದ್ದು, ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟಗಾರರಾದ ಭಗತ್ ಸಿಂಗ್, ಸುಖದೇವ್ ಮತ್ತು ರಾಜಗುರು ಅವರ ಹುತಾತ್ಮರ ಸ್ಥಾನಮಾನವು 'ಅಧಿಕೃತ ದಾಖಲೆಗಳ' ಮೇಲೆ ಅವಲಂಬಿತವಾಗಿಲ್ಲ. ಈ ಮಹತ್ವದ ಸ್ಪಷ್ಟೀಕರಣವು ಭಾರತದ ಸ್ವಾತಂತ್ರ್ಯಕ್ಕಾಗಿ ಅವರ ಸರ್ವೋಚ್ಚ ತ್ಯಾಗವು ರಾಷ್ಟ್ರೀಯ ಗೌರವ ಮತ್ತು ಸಾರ್ವಜನಿಕ ಮನ್ನಣೆಯ ವಿಷಯವಾಗಿದೆ ಎಂದು ಒತ್ತಿಹೇಳುತ್ತದೆ, ಇದು ಔಪಚಾರಿಕ ಅಧಿಕಾರಶಾಹಿ ವರ್ಗೀಕರಣಗಳನ್ನು ಮೀರಿ ನಿಲ್ಲುತ್ತದೆ. ಇದು ರಾಷ್ಟ್ರೀಯ ನಾಯಕರಾಗಿ ಅವರ ಸಾಂಕೇತಿಕ ಸ್ಥಾನಮಾನವನ್ನು ಗಟ್ಟಿಗೊಳಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "हुतात्म्यांचा दर्जा नोंदींच्या पलीकडे: भगतसिंग आणि सहकाऱ्यांवर सरकारचे स्पष्टीकरण",
-                "content": "सरकारने लोकसभेत माहिती दिली की, स्वातंत्र्यसैनिक भगतसिंग, सुखदेव आणि राजगुरू यांना मिळालेला हुतात्म्यांचा दर्जा 'अधिकृत नोंदीं'वर अवलंबून नाही. या महत्त्वपूर्ण स्पष्टीकरणातून हे अधोरेखित होते की, भारताच्या स्वातंत्र्यासाठी त्यांचे सर्वोच्च बलिदान हे राष्ट्रीय आदर आणि सार्वजनिक मान्यतेचा विषय आहे, जे औपचारिक नोकरशाहीच्या वर्गीकरणाच्या पलीकडचे आहे. हे त्यांना राष्ट्रीय नायक म्हणून असलेले त्यांचे प्रतीकात्मक स्थान दृढ करते."
-            },
-            "hi": {
-                "title": "शहीदों का दर्जा रिकॉर्ड से परे: भगत सिंह और सहकर्मियों पर सरकार का स्पष्टीकरण",
-                "content": "सरकार ने लोकसभा को सूचित किया कि स्वतंत्रता सेनानियों भगत सिंह, सुखदेव और राजगुरु का शहीदों के रूप में सम्मानित दर्जा 'आधिकारिक रिकॉर्ड' पर निर्भर नहीं करता है। यह महत्वपूर्ण स्पष्टीकरण इस बात पर ज़ोर देता है कि भारत की स्वतंत्रता के लिए उनका सर्वोच्च बलिदान राष्ट्रीय श्रद्धा और सार्वजनिक मान्यता का विषय है, जो औपचारिक नौकरशाही वर्गीकरणों से परे है। यह राष्ट्रीय नायकों के रूप में उनकी प्रतीकात्मक स्थिति को मजबूत करता।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129781044,imgsize-1606025.cms",
-        "link": "https://timesofindia.indiatimes.com/india/status-of-bhagat-singh-sukhdev-and-rajguru-as-martyrs-not-tied-to-official-records-govt-informs-lok-sabha/articleshow/129780928.cms"
-    },
-    {
-        "id": "ea444d00",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Separatist Asiya Andrabi Gets Life Term",
-                "content": "A Delhi court sentenced Kashmiri separatist Asiya Andrabi to life imprisonment for conspiring to secede Kashmir from India. Her associates, Sofi Fehmeeda and Nahida Nasreen, received 30-year terms. The court found they used speeches and social media, advocating its merger with Pakistan and portraying it as under illegal occupation, thus plotting against the state."
-            },
-            "kn": {
-                "title": "ಪ್ರತ್ಯೇಕತಾವಾದಿ ಆಸಿಯಾ ಅಂದ್ರಾಬಿಗೆ ಜೀವಾವಧಿ ಶಿಕ್ಷೆ",
-                "content": "ದೆಹಲಿ ನ್ಯಾಯಾಲಯವು ಕಾಶ್ಮೀರವನ್ನು ಭಾರತದಿಂದ ಪ್ರತ್ಯೇಕಿಸುವ ಪಿತೂರಿಯಲ್ಲಿ ಪ್ರತ್ಯೇಕತಾವಾದಿ ಆಸಿಯಾ ಅಂದ್ರಾಬಿಗೆ ಜೀವಾವಧಿ ಶಿಕ್ಷೆ ವಿಧಿಸಿದೆ. ಅವರ ಸಹವರ್ತಿಗಳಾದ ಸೂಫಿ ಫೆಹ್ಮೀದಾ ಮತ್ತು ನಹೀದಾ ನಸ್ರೀನ್ 30 ವರ್ಷಗಳ ಶಿಕ್ಷೆ ಪಡೆದರು. ನ್ಯಾಯಾಲಯವು ಅವರು ಭಾಷಣಗಳು ಮತ್ತು ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮಗಳನ್ನು ಬಳಸಿಕೊಂಡು, ಪಾಕಿಸ್ತಾನದೊಂದಿಗೆ ವಿಲೀನಗೊಳಿಸಲು ಪ್ರತಿಪಾದಿಸಿ, ಅದನ್ನು ಅಕ್ರಮ ಆಕ್ರಮಣದಲ್ಲಿರುವುದಾಗಿ ಚಿತ್ರಿಸಿ, ರಾಜ್ಯದ ವಿರುದ್ಧ ಸಂಚು ರೂಪಿಸಿದ್ದಾರೆ ಎಂದು ತೀರ್ಪು ನೀಡಿದೆ."
-            },
-            "mr": {
-                "title": "फुटीरतावादी आसिया अंद्राबीला जन्मठेप",
-                "content": "दिल्ली न्यायालयाने काश्मीरला भारतातून वेगळे करण्याच्या कटासाठी फुटीरतावादी आसिया अंद्राबीला जन्मठेपेची शिक्षा सुनावली आहे. तिच्या साथीदार सोफी फहमीदा आणि नाहिदा नसरीन यांना 30 वर्षांची शिक्षा झाली. न्यायालयाने म्हटले की त्यांनी भाषणे आणि सोशल मीडियाचा वापर करून काश्मीरला पाकिस्तानमध्ये विलीन करण्याची व ते बेकायदेशीर ताब्याखाली असल्याचे चित्रित करून राज्याविरुद्ध कट रचला."
-            },
-            "hi": {
-                "title": "अलगाववादी आसिया अंद्राबी को आजीवन कारावास",
-                "content": "दिल्ली की एक अदालत ने कश्मीरी अलगाववादी आसिया अंद्राबी को भारत से कश्मीर को अलग करने की साजिश रचने के लिए आजीवन कारावास की सज़ा सुनाई है। उनकी सहयोगी सोफी फहमीदा और नाहिदा नसरीन को 30 साल की सज़ा मिली। अदालत ने पाया कि उन्होंने भाषणों और सोशल मीडिया का इस्तेमाल करते हुए इसे पाकिस्तान में विलय करने और अवैध कब्जे में दिखाने की वकालत की, इस प्रकार राज्य के खिलाफ साजिश रची।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129780988,imgsize-29644.cms",
-        "link": "https://timesofindia.indiatimes.com/india/hatched-conspiracy-to-secede-kashmir-from-india-why-jk-separatist-asiya-andrabi-got-life-term-in-uapa-case/articleshow/129780441.cms"
-    },
-    {
-        "id": "478bdc06",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Bollywood's Narrative Shift: Dhar Films Redefine Storytelling",
-                "content": "Bollywood is embracing a significant narrative evolution, moving from agitprop accusations to competent 'civilisational storytelling'. Films associated with Aditya Dhar, particularly his 'Dhurandhar duology', are striking a nerve. This shift marks a pivotal moment, showcasing a new era of myth-making and challenging conventional narratives in Indian cinema."
-            },
-            "kn": {
-                "title": "ಬಾಲಿವುಡ್‌ನ ನಿರೂಪಣಾ ಬದಲಾವಣೆ: ಧರ್ ಚಿತ್ರಗಳು ಕಥೆ ಹೇಳುವಿಕೆಯನ್ನು ಮರು ವ್ಯಾಖ್ಯಾನಿಸುತ್ತವೆ",
-                "content": "ಬಾಲಿವುಡ್ ಮಹತ್ವದ ನಿರೂಪಣಾ ವಿಕಸನವನ್ನು ಅಳವಡಿಸಿಕೊಳ್ಳುತ್ತಿದೆ, ಆಂದೋಲನಕಾರಿ ಆರೋಪಗಳಿಂದ ಸಮರ್ಥ 'ನಾಗರಿಕ ಕಥೆ ಹೇಳುವಿಕೆ'ಗೆ ಸಾಗುತ್ತಿದೆ. ಆದಿತ್ಯ ಧರ್ ಅವರೊಂದಿಗೆ ಸಂಬಂಧ ಹೊಂದಿರುವ ಚಲನಚಿತ್ರಗಳು, ವಿಶೇಷವಾಗಿ ಅವರ 'ಧುರಂಧರ್ ಡ್ಯುಯಾಲಜಿ', ಜನರ ಮನಸ್ಸನ್ನು ತಟ್ಟುತ್ತಿವೆ. ಈ ಬದಲಾವಣೆಯು ಒಂದು ಪ್ರಮುಖ ಕ್ಷಣವನ್ನು ಗುರುತಿಸುತ್ತದೆ, ಇದು ಭಾರತೀಯ ಸಿನೆಮಾದಲ್ಲಿ ಪುರಾಣ-ನಿರ್ಮಾಣದ ಹೊಸ ಯುಗವನ್ನು ಮತ್ತು ಸಾಂಪ್ರದಾಯಿಕ ನಿರೂಪಣೆಗಳನ್ನು ಸವಾಲು ಮಾಡುತ್ತಿದೆ."
-            },
-            "mr": {
-                "title": "बॉलिवूडची कथनात्मक बदल: धर चित्रपट कथाकथनाला नव्याने परिभाषित करतात",
-                "content": "बॉलिवूड एका महत्त्वाच्या कथनात्मक उत्क्रांतीचा स्वीकार करत आहे, आंदोलनकारी आरोपांकडून सक्षम 'सांस्कृतिक कथाकथना'कडे वाटचाल करत आहे. आदित्य धर यांच्याशी संबंधित चित्रपट, विशेषतः त्यांची 'धुरंधर द्वयी', लोकांच्या भावनांना हात घालत आहेत. हा बदल एक महत्त्वपूर्ण क्षण दर्शवतो, भारतीय सिनेमात मिथक-निर्मितीचे एक नवे युग आणि पारंपरिक कथांना आव्हान देत आहे."
-            },
-            "hi": {
-                "title": "बॉलीवुड का कथात्मक बदलाव: धर की फिल्में कहानी कहने को फिर से परिभाषित करती हैं",
-                "content": "बॉलीवुड एक महत्वपूर्ण कथात्मक विकास को अपना रहा है, जो आंदोलनकारी आरोपों से सक्षम 'सभ्यतागत कहानी कहने' की ओर बढ़ रहा है। आदित्य धर से जुड़ी फिल्में, विशेषकर उनकी 'धुरंधर द्वयी', लोगों के दिलों को छू रही हैं। यह बदलाव एक महत्वपूर्ण क्षण को चिह्नित करता है, जो भारतीय सिनेमा में मिथक-निर्माण के एक नए युग और पारंपरिक कथाओं को चुनौती देता है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129779134,imgsize-100960.cms",
-        "link": "https://timesofindia.indiatimes.com/india/dhurandhar-derangement-syndrome-bollywood-aditya-dhar/articleshow/129779123.cms"
-    },
-    {
-        "id": "ec6a99d1",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "SC Grills Bengal on ED Obstruction in Raid Case",
-                "content": "The Supreme Court questioned West Bengal's opposition to the ED's plea concerning alleged obstruction by CM Mamata Banerjee during a raid. Justices stressed the fundamental rights of individual ED officers, urging the state to specify their alleged victimhood instead of broadly accusing the agency. The court challenged Bengal's 'ED, ED, ED' argument, seeking more substance on individual grievances."
-            },
-            "kn": {
-                "title": "ಇಡಿ ದಾಳಿಯಲ್ಲಿ ಅಡ್ಡಿಪಡಿಸಿದ ಆರೋಪದ ಬಗ್ಗೆ SC ಬಂಗಾಳವನ್ನು ತರಾಟೆಗೆ ತೆಗೆದುಕೊಂಡಿತು",
-                "content": "ಮುಖ್ಯಮಂತ್ರಿ ಮಮತಾ ಬ್ಯಾನರ್ಜಿ ಇಡಿ ದಾಳಿಯ ವೇಳೆ ಅಡ್ಡಿಪಡಿಸಿದ್ದಾರೆ ಎಂಬ ಆರೋಪಕ್ಕೆ ಸಂಬಂಧಿಸಿದಂತೆ ಇಡಿ ಅರ್ಜಿಗೆ ಪಶ್ಚಿಮ ಬಂಗಾಳದ ವಿರೋಧವನ್ನು ಸುಪ್ರೀಂ ಕೋರ್ಟ್ ಪ್ರಶ್ನಿಸಿದೆ. ನ್ಯಾಯಮೂರ್ತಿಗಳು ವೈಯಕ್ತಿಕ ಇಡಿ ಅಧಿಕಾರಿಗಳ ಮೂಲಭೂತ ಹಕ್ಕುಗಳನ್ನು ಒತ್ತಿಹೇಳಿ, ಏಜೆನ್ಸಿಯನ್ನು ಸಾಮಾನ್ಯವಾಗಿ ಆರೋಪಿಸುವ ಬದಲು ಅವರ ಆರೋಪಿತ ಸಂತ್ರಸ್ತ ಸ್ಥಿತಿಯನ್ನು ಸ್ಪಷ್ಟಪಡಿಸಲು ರಾಜ್ಯಕ್ಕೆ ಸೂಚಿಸಿದರು. ನ್ಯಾಯಾಲಯವು ಬಂಗಾಳದ 'ಇಡಿ, ಇಡಿ, ಇಡಿ' ವಾದವನ್ನು ಪ್ರಶ್ನಿಸಿತು."
-            },
-            "mr": {
-                "title": "ईडी छाप्यात अडथळा आणल्याच्या आरोपावरून एससीने बंगालला धारेवर धरले",
-                "content": "मुख्यमंत्री ममता बॅनर्जी यांनी इडीच्या छाप्यात अडथळा आणल्याच्या आरोपावर इडीच्या याचिकेला पश्चिम बंगालने केलेल्या विरोधावर सर्वोच्च न्यायालयाने प्रश्नचिन्ह उपस्थित केले. न्यायाधीशांनी वैयक्तिक इडी अधिकाऱ्यांच्या मूलभूत हक्कांवर जोर दिला आणि राज्याला केवळ एजन्सीवर सरसकट आरोप करण्याऐवजी त्यांच्या कथित पीडितपणाचा तपशील देण्याचे आवाहन केले. न्यायालयाने बंगालच्या 'ईडी, ईडी, ईडी' या युक्तिवादावर आक्षेप घेतला."
-            },
-            "hi": {
-                "title": "ईडी छापे में बाधा डालने के आरोप पर SC ने बंगाल को घेरा",
-                "content": "सुप्रीम कोर्ट ने ईडी की याचिका पर पश्चिम बंगाल के विरोध पर सवाल उठाया, जिसमें मुख्यमंत्री ममता बनर्जी पर एक छापे के दौरान कथित बाधा डालने का आरोप है। न्यायाधीशों ने व्यक्तिगत ईडी अधिकारियों के मौलिक अधिकारों पर जोर दिया, राज्य से केवल एजेंसी पर व्यापक आरोप लगाने के बजाय उनकी कथित पीड़ित स्थिति को निर्दिष्ट करने का आग्रह किया। कोर्ट ने बंगाल के 'ईडी, ईडी, ईडी' तर्क को चुनौती दी।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129777906,imgsize-130986.cms",
-        "link": "https://timesofindia.indiatimes.com/india/dont-just-say-ed-ed-ed-supreme-court-questions-west-bengal-government-in-mamata-i-pac-raid-case/articleshow/129777679.cms"
-    },
-    {
-        "id": "4075df59",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "Quad Amputee Cornhole Star Charged with Murder",
-                "content": "Quadruple amputee cornhole pro Dayton James Webber faces murder charges after allegedly fatally shooting Bradrick Michael Wells in Maryland. Webber, known for his cornhole prowess despite losing all four limbs, was apprehended in Virginia. Witnesses claim he fired shots during an argument in a vehicle. Authorities believe he acted alone in the ongoing investigation."
-            },
-            "kn": {
-                "title": "ಕ್ವಾಡ್ ಆಂಪುಟೀ ಕಾರ್ನ್‌ಹೋಲ್ ತಾರೆ ಮೇಲೆ ಕೊಲೆ ಆರೋಪ",
-                "content": "ನಾಲ್ಕು ಅಂಗಚ್ಛೇದನಕ್ಕೊಳಗಾದ ಕಾರ್ನ್‌ಹೋಲ್ ವೃತ್ತಿಪರ ಡೇಟನ್ ಜೇಮ್ಸ್ ವೆಬ್ಬರ್ ವಿರುದ್ಧ ಮೇರಿಲ್ಯಾಂಡ್‌ನಲ್ಲಿ ಬ್ರಾಡ್ರಿಕ್ ಮೈಕೆಲ್ ವೆಲ್ಸ್‌ನನ್ನು ಕೊಲೆ ಮಾಡಿದ ಆರೋಪವಿದೆ. ನಾಲ್ಕು ಅಂಗಗಳನ್ನು ಕಳೆದುಕೊಂಡಿದ್ದರೂ ಕಾರ್ನ್‌ಹೋಲ್‌ನಲ್ಲಿ ಪ್ರಸಿದ್ಧನಾಗಿದ್ದ ವೆಬ್ಬರ್‌ನನ್ನು ವರ್ಜೀನಿಯಾದಲ್ಲಿ ಬಂಧಿಸಲಾಯಿತು. ವಾಹನದಲ್ಲಿನ ವಾಗ್ವಾದದ ವೇಳೆ ಆತ ಗುಂಡು ಹಾರಿಸಿದ್ದಾನೆ ಎಂದು ಸಾಕ್ಷಿಗಳು ಹೇಳಿದ್ದಾರೆ. ತನಿಖೆ ಮುಂದುವರಿದಿದ್ದು, ಅಧಿಕಾರಿಗಳು ಆತ ಒಬ್ಬನೇ ಕೃತ್ಯ ಎಸಗಿದ್ದಾನೆ ಎಂದು ನಂಬಿದ್ದಾರೆ."
-            },
-            "mr": {
-                "title": "चारही अवयव गमावलेल्या कॉर्नहोल स्टारवर हत्येचा आरोप",
-                "content": "चारही अवयव गमावलेला कॉर्नहोल खेळाडू डेटन जेम्स वेबरवर मेरीलँडमध्ये ब्रॅड्रीक मायकल वेल्सची कथितपणे गोळ्या घालून हत्या केल्याप्रकरणी खुनाचा आरोप आहे. चारही अवयव गमावूनही कॉर्नहोलमधील त्याच्या कौशल्यासाठी प्रसिद्ध असलेल्या वेबरला व्हर्जिनियामध्ये अटक करण्यात आली. गाडीतील वादविवादादरम्यान त्याने गोळीबार केल्याचा दावा साक्षीदारांनी केला आहे. तपास सुरू असून, अधिकाऱ्यांचा असा विश्वास आहे की त्याने एकट्यानेच हे कृत्य केले."
-            },
-            "hi": {
-                "title": "चौगुने विकलांग कॉर्नहोल स्टार पर हत्या का आरोप",
-                "content": "चौगुने विकलांग कॉर्नहोल पेशेवर डेटन जेम्स वेबर पर मैरीलैंड में ब्रैड्रिक माइकल वेल्स की कथित तौर पर गोली मारकर हत्या करने के बाद हत्या का आरोप लगा है। वेबर, अपने चारों अंगों को खोने के बावजूद कॉर्नहोल में अपनी दक्षता के लिए जाने जाते हैं, उन्हें वर्जीनिया में गिरफ्तार किया गया। गवाहों का दावा है कि उन्होंने एक वाहन में बहस के दौरान गोली चलाई थी। अधिकारियों का मानना है कि चल रही जांच में उन्होंने अकेले ही यह कृत्य किया।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129777251,imgsize-23482.cms",
-        "link": "https://timesofindia.indiatimes.com/world/us/quadruple-amputee-cornhole-star-dayton-james-webber-arrested-on-suspicion-of-killing-bradrick-michael-wells/articleshow/129776740.cms"
-    },
-    {
-        "id": "ad3479d8",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "AIADMK Rolls Out Sweeping Election Promises for TN Polls",
-                "content": "AIADMK has unveiled its Tamil Nadu Assembly election manifesto, packed with populist promises. Key pledges include Rs 2,000 monthly for female household heads and Rs 10,000 for every family. The party also committed to providing free refrigerators, extended bus travel for men, and three free cooking gas cylinders annually for ration cardholders, aiming to attract voters with extensive welfare schemes."
-            },
-            "kn": {
-                "title": "AIADMK ತಮಿಳುನಾಡು ಚುನಾವಣೆಗೆ ಭಾರಿ ಭರವಸೆಗಳನ್ನು ಪ್ರಕಟಿಸಿದೆ",
-                "content": "AIADMK ತನ್ನ ತಮಿಳುನಾಡು ವಿಧಾನಸಭಾ ಚುನಾವಣಾ ಪ್ರಣಾಳಿಕೆಯನ್ನು ಅನಾವರಣಗೊಳಿಸಿದೆ, ಇದು ಜನಪ್ರಿಯ ಭರವಸೆಗಳಿಂದ ತುಂಬಿದೆ. ಪ್ರಮುಖ ಭರವಸೆಗಳಲ್ಲಿ ಮಹಿಳಾ ಕುಟುಂಬ ಮುಖ್ಯಸ್ಥರಿಗೆ ಮಾಸಿಕ 2,000 ರೂ. ಮತ್ತು ಪ್ರತಿ ಕುಟುಂಬಕ್ಕೆ 10,000 ರೂ. ಸೇರಿವೆ. ಪಕ್ಷವು ಉಚಿತ ರೆಫ್ರಿಜರೇಟರ್‌ಗಳು, ಪುರುಷರಿಗೆ ವಿಸ್ತೃತ ಬಸ್ ಪ್ರಯಾಣ ಮತ್ತು ಪಡಿತರ ಚೀಟಿ ಹೊಂದಿರುವವರಿಗೆ ವಾರ್ಷಿಕ ಮೂರು ಉಚಿತ ಅಡುಗೆ ಅನಿಲ ಸಿಲಿಂಡರ್‌ಗಳನ್ನು ಒದಗಿಸಲು ಬದ್ಧವಾಗಿದೆ, ವ್ಯಾಪಕ ಕಲ್ಯಾಣ ಯೋಜನೆಗಳೊಂದಿಗೆ ಮತದಾರರನ್ನು ಆಕರ್ಷಿಸುವ ಗುರಿಯನ್ನು ಹೊಂದಿದೆ."
-            },
-            "mr": {
-                "title": "AIADMK ने तामिळनाडू निवडणुकीसाठी मोठ्या घोषणा केल्या",
-                "content": "AIADMK ने तामिळनाडू विधानसभा निवडणुकीसाठी आपला जाहीरनामा प्रसिद्ध केला आहे, ज्यात लोकानुनयी आश्वासने भरलेली आहेत. प्रमुख आश्वासनांमध्ये महिला कुटुंबप्रमुखांसाठी मासिक 2,000 रुपये आणि प्रत्येक कुटुंबासाठी 10,000 रुपये यांचा समावेश आहे. पक्षाने मोफत रेफ्रिजरेटर, पुरुषांसाठी विस्तारित बस प्रवास आणि रेशनकार्ड धारकांना वार्षिक तीन मोफत स्वयंपाकाचे गॅस सिलिंडर देण्याचेही वचन दिले आहे, ज्याचा उद्देश व्यापक कल्याणकारी योजनांद्वारे मतदारांना आकर्षित करणे आहे."
-            },
-            "hi": {
-                "title": "AIADMK ने तमिलनाडु चुनाव के लिए बड़े वादे किए",
-                "content": "AIADMK ने तमिलनाडु विधानसभा चुनाव के लिए अपना घोषणापत्र जारी किया है, जिसमें लोकलुभावन वादों की भरमार है। प्रमुख वादों में महिला परिवार प्रमुखों के लिए मासिक 2,000 रुपये और हर परिवार के लिए 10,000 रुपये शामिल हैं। पार्टी ने मुफ्त रेफ्रिजरेटर, पुरुषों के लिए विस्तारित बस यात्रा और राशन कार्ड धारकों के लिए सालाना तीन मुफ्त रसोई गैस सिलेंडर प्रदान करने का भी वादा किया है, जिसका लक्ष्य व्यापक कल्याणकारी योजनाओं के माध्यम से मतदाताओं को आकर्षित करना है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129777591,imgsize-759746.cms",
-        "link": "https://timesofindia.indiatimes.com/india/tamil-nadu-assembly-elections-aiadmk-releases-manifesto-palaniswami-rolls-out-297-promises/articleshow/129777557.cms"
-    },
-    {
-        "id": "dc82ae0e",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Rahul Slams Modi's Fuel Crisis-Covid Comparison, Cites Deaths",
-                "content": "PM Modi likened the fuel crisis to Covid-19, sparking strong criticism from Rahul Gandhi. Gandhi condemned the comparison, emphasizing the pandemic's tragic death toll and reminding Modi not to forget the lives lost. He further attacked the government on foreign policy, its handling of the West Asia conflict, and issues concerning stranded Indian ships, accusing Modi of compromising India's international standing."
-            },
-            "kn": {
-                "title": "ಇಂಧನ ಬಿಕ್ಕಟ್ಟು-ಕೋವಿಡ್ ಹೋಲಿಕೆ: ರಾಹುಲ್‌ನಿಂದ ಮೋದಿ ಟೀಕೆ, ಸಾವುಗಳ ಸ್ಮರಣೆ",
-                "content": "ಪ್ರಧಾನಿ ಮೋದಿ ಇಂಧನ ಬಿಕ್ಕಟ್ಟನ್ನು ಕೋವಿಡ್-19ಗೆ ಹೋಲಿಸಿದ್ದು, ರಾಹುಲ್ ಗಾಂಧಿಯಿಂದ ತೀವ್ರ ಟೀಕೆಗೆ ಗುರಿಯಾಯಿತು. ಸಾಂಕ್ರಾಮಿಕ ರೋಗದ ದುರಂತ ಸಾವಿನ ಸಂಖ್ಯೆಯನ್ನು ಒತ್ತಿಹೇಳಿದ ಗಾಂಧಿ, ಮಡಿದವರನ್ನು ಮರೆಯದಂತೆ ಮೋದಿಗೆ ನೆನಪಿಸಿದರು. ಅವರು ವಿದೇಶಾಂಗ ನೀತಿ, ಪಶ್ಚಿಮ ಏಷ್ಯಾ ಸಂಘರ್ಷ ಮತ್ತು ಸಿಲುಕಿರುವ ಭಾರತೀಯ ಹಡಗುಗಳ ಬಗ್ಗೆ ಸರ್ಕಾರದ ನಿರ್ವಹಣೆಯನ್ನು ಟೀಕಿಸಿ, ಭಾರತದ ಅಂತಾರಾಷ್ಟ್ರೀಯ ಸ್ಥಾನಮಾನವನ್ನು ರಾಜಿ ಮಾಡಿಕೊಂಡಿದ್ದಾರೆ ಎಂದು ಆರೋಪಿಸಿದರು."
-            },
-            "mr": {
-                "title": "इंधन संकट-कोविड तुलना: राहुल गांधींकडून मोदींवर टीका, मृत्यूंची आठवण करून दिली",
-                "content": "पंतप्रधान मोदींनी इंधन संकटाची तुलना कोविड-19 शी केली, ज्यामुळे राहुल गांधींनी तीव्र टीका केली. गांधींनी या तुलनेचा निषेध करत साथीच्या रोगातील भीषण मृत्यूंवर भर दिला आणि मोदींना गमावलेल्या जीवांना विसरू नये अशी आठवण करून दिली. त्यांनी परराष्ट्र धोरण, पश्चिम आशिया संघर्षाचे हाताळणी आणि अडकलेल्या भारतीय जहाजांच्या मुद्द्यांवरून सरकारवर हल्ला चढवला, मोदींवर भारताची आंतरराष्ट्रीय प्रतिमा धोक्यात आणल्याचा आरोप केला."
-            },
-            "hi": {
-                "title": "ईंधन संकट-कोविड तुलना: राहुल गांधी ने मोदी पर साधा निशाना, मृतकों का किया स्मरण",
-                "content": "पीएम मोदी ने ईंधन संकट की तुलना कोविड-19 से की, जिस पर राहुल गांधी ने कड़ी आपत्ति जताई। गांधी ने तुलना की निंदा करते हुए महामारी में हुई दुखद मौतों पर जोर दिया और मोदी को उन जानों को न भूलने की याद दिलाई। उन्होंने विदेश नीति, पश्चिम एशिया संघर्ष के सरकारी प्रबंधन और फंसे हुए भारतीय जहाजों के मुद्दों पर भी सरकार पर हमला बोला, मोदी पर भारत की अंतरराष्ट्रीय स्थिति से समझौता करने का आरोप लगाया।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129776212,imgsize-59366.cms",
-        "link": "https://timesofindia.indiatimes.com/india/pm-modi-compares-fuel-crisis-to-covid-19-in-parliament-rahul-gandhi-says-dont-forget-the-deaths/articleshow/129775986.cms"
-    },
-    {
-        "id": "51c06805",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Morarji Desai: India's First Non-Congress PM in 1977",
-                "content": "On this day in 1977, Morarji Desai made history, becoming India's first non-Congress Prime Minister. Following the post-Emergency elections, the Janata Party's landslide victory ended decades of Congress rule, ushering in a new political era. Desai, a veteran leader, led a diverse coalition, aiming to restore democracy and depart from past policies. His premiership was a pivotal moment, reshaping India's multi-party landscape and demonstrating significant electoral change."
-            },
-            "kn": {
-                "title": "ಮೊರಾರ್ಜಿ ದೇಸಾಯಿ: 1977 ರಲ್ಲಿ ಭಾರತದ ಮೊದಲ ಕಾಂಗ್ರೆಸ್ಸೇತರ ಪ್ರಧಾನಿ",
-                "content": "1977 ರ ಈ ದಿನ, ಮೊರಾರ್ಜಿ ದೇಸಾಯಿ ಭಾರತದ ಮೊದಲ ಕಾಂಗ್ರೆಸ್ಸೇತರ ಪ್ರಧಾನಮಂತ್ರಿಯಾಗಿ ಇತಿಹಾಸ ನಿರ್ಮಿಸಿದರು. ತುರ್ತು ಪರಿಸ್ಥಿತಿ ನಂತರದ ಚುನಾವಣೆಗಳಲ್ಲಿ ಜನತಾ ಪಕ್ಷದ ಭಾರಿ ವಿಜಯವು ದಶಕಗಳ ಕಾಲದ ಕಾಂಗ್ರೆಸ್ ಆಡಳಿತವನ್ನು ಕೊನೆಗೊಳಿಸಿ, ಹೊಸ ರಾಜಕೀಯ ಯುಗವನ್ನು ಆರಂಭಿಸಿತು. ಹಿರಿಯ ನಾಯಕರಾದ ದೇಸಾಯಿ, ಪ್ರಜಾಪ್ರಭುತ್ವವನ್ನು ಮರುಸ್ಥಾಪಿಸಲು ಮತ್ತು ಹಿಂದಿನ ನೀತಿಗಳಿಂದ ಭಿನ್ನವಾಗಲು ಗುರಿ ಹೊಂದಿದ್ದ ವೈವಿಧ್ಯಮಯ ಒಕ್ಕೂಟವನ್ನು ಮುನ್ನಡೆಸಿದರು. ಅವರ ಪ್ರಧಾನಿತ್ವವು ಭಾರತದ ಬಹು-ಪಕ್ಷ ರಾಜಕೀಯ ಚಿತ್ರಣವನ್ನು ಮರುರೂಪಿಸಿದ ಮತ್ತು ಮಹತ್ವದ ಚುನಾವಣಾ ಬದಲಾವಣೆಯನ್ನು ಪ್ರದರ್ಶಿಸಿದ ಒಂದು ನಿರ್ಣಾಯಕ ಕ್ಷಣವಾಗಿತ್ತು."
-            },
-            "mr": {
-                "title": "मोरारजी देसाई: 1977 मध्ये भारताचे पहिले बिगर-काँग्रेस पंतप्रधान",
-                "content": "1977 च्या या दिवशी, मोरारजी देसाई यांनी भारताचे पहिले बिगर-काँग्रेस पंतप्रधान बनून इतिहास घडवला. आणीबाणीनंतरच्या निवडणुकांमध्ये, जनता पक्षाच्या दणदणीत विजयामुळे दशकांच्या काँग्रेस राजवटीचा अंत झाला आणि एका नव्या राजकीय युगाची सुरुवात झाली. ज्येष्ठ नेते देसाई यांनी लोकशाही पुनर्संचयित करणे आणि पूर्वीच्या धोरणांपासून दूर राहण्याचे उद्दिष्ट ठेवून एका विविध आघाडीचे नेतृत्व केले. त्यांचे पंतप्रधानपद भारताच्या बहु-पक्षीय राजकीय भूभागाला नव्याने आकार देणारा आणि महत्त्वपूर्ण निवडणूक बदलाचे प्रदर्शन करणारा एक महत्त्वाचा क्षण होता."
-            },
-            "hi": {
-                "title": "मोरारजी देसाई: 1977 में भारत के पहले गैर-कांग्रेसी प्रधानमंत्री",
-                "content": "1977 के इस दिन, मोरारजी देसाई ने भारत के पहले गैर-कांग्रेसी प्रधानमंत्री बनकर इतिहास रचा। आपातकाल के बाद हुए चुनावों में, जनता पार्टी की भारी जीत ने दशकों के कांग्रेस शासन को समाप्त कर एक नए राजनीतिक युग की शुरुआत की। अनुभवी नेता देसाई ने लोकतंत्र को बहाल करने और पिछली नीतियों से अलग हटकर काम करने के उद्देश्य से एक विविध गठबंधन का नेतृत्व किया। उनका प्रधानमंत्रित्व भारत के बहु-दलीय राजनीतिक परिदृश्य को नया आकार देने और महत्वपूर्ण चुनावी बदलाव को प्रदर्शित करने वाला एक महत्वपूर्ण क्षण था।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129775813,imgsize-1017070.cms",
-        "link": "https://timesofindia.indiatimes.com/india/this-day-in-1977-how-morarji-desai-became-indias-first-non-congress-pm/articleshow/129775159.cms"
-    },
-    {
-        "id": "77bb6170",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Kejriwal's Bold Prediction: Modi Out by 2026?",
-                "content": "Delhi CM Arvind Kejriwal made a bold prediction at a book launch: PM Narendra Modi might not remain in office beyond 2026. Citing declining popularity and alleged electoral 'corruption,' Kejriwal's remarks were echoed by other opposition leaders, including Derek O'Brien, who also voiced concerns about democratic institutions and forecast BJP's electoral defeats."
-            },
-            "kn": {
-                "title": "ಕೇಜ್ರಿವಾಲ್ ಅವರ ದಿಟ್ಟ ಭವಿಷ್ಯ: 2026ರೊಳಗೆ ಮೋದಿ ಅಧಿಕಾರದಿಂದ ನಿರ್ಗಮಿಸುತ್ತಾರೆಯೇ?",
-                "content": "ದೆಹಲಿ ಸಿಎಂ ಅರವಿಂದ್ ಕೇಜ್ರಿವಾಲ್ ಪುಸ್ತಕ ಬಿಡುಗಡೆ ಸಮಾರಂಭದಲ್ಲಿ ಧೈರ್ಯದ ಭವಿಷ್ಯ ನುಡಿದರು: ಪ್ರಧಾನಿ ನರೇಂದ್ರ ಮೋದಿ 2026ರ ನಂತರ ಅಧಿಕಾರದಲ್ಲಿ ಇರುವುದಿಲ್ಲ. ಕುಸಿಯುತ್ತಿರುವ ಜನಪ್ರಿಯತೆ ಮತ್ತು ಚುನಾವಣಾ 'ಭ್ರಷ್ಟಾಚಾರ' ಆರೋಪಗಳನ್ನು ಉಲ್ಲೇಖಿಸಿ, ಕೇಜ್ರಿವಾಲ್ ಅವರ ಹೇಳಿಕೆಗಳನ್ನು ಡೆರೆಕ್ ಓ'ಬ್ರಿಯಾನ್ ಸೇರಿದಂತೆ ಇತರ ವಿರೋಧ ಪಕ್ಷದ ನಾಯಕರು ಪ್ರತಿಧ್ವನಿಸಿದರು. ಅವರು ಪ್ರಜಾಪ್ರಭುತ್ವ ಸಂಸ್ಥೆಗಳ ಬಗ್ಗೆ ಕಳವಳ ವ್ಯಕ್ತಪಡಿಸಿದರು ಮತ್ತು ಬಿಜೆಪಿಯ ಚುನಾವಣಾ ಸೋಲುಗಳನ್ನು ಭವಿಷ್ಯ ನುಡಿದರು."
-            },
-            "mr": {
-                "title": "केजरीवाल यांचे धाडसी भाकीत: 2026 पर्यंत मोदी पंतप्रधान राहणार नाहीत?",
-                "content": "दिल्लीचे मुख्यमंत्री अरविंद केजरीवाल यांनी एका पुस्तक प्रकाशन सोहळ्यात धाडसी भाकीत केले: पंतप्रधान नरेंद्र मोदी 2026 नंतर सत्तेत राहणार नाहीत. घटती लोकप्रियता आणि कथित निवडणूक 'भ्रष्टाचार' यांचा हवाला देत, केजरीवाल यांच्या मतांचे इतर विरोधी पक्षनेत्यांनी, ज्यात डेरेक ओ'ब्रायन यांचा समावेश आहे, समर्थन केले. त्यांनी लोकशाही संस्थांबद्दल चिंता व्यक्त केली आणि भाजपच्या निवडणुकीतील पराभवाचे भाकीतही केले."
-            },
-            "hi": {
-                "title": "केजरीवाल की बड़ी भविष्यवाणी: 2026 तक मोदी प्रधानमंत्री नहीं रहेंगे?",
-                "content": "दिल्ली के सीएम अरविंद केजरीवाल ने एक पुस्तक विमोचन पर बड़ी भविष्यवाणी की: प्रधानमंत्री नरेंद्र मोदी 2026 के बाद पद पर नहीं रहेंगे। गिरती लोकप्रियता और कथित चुनावी 'भ्रष्टाचार' का हवाला देते हुए, केजरीवाल की टिप्पणियों को डेरेक ओ'ब्रायन सहित अन्य विपक्षी नेताओं ने दोहराया, जिन्होंने लोकतांत्रिक संस्थानों के बारे में चिंता व्यक्त की और भाजपा की चुनावी हार की भविष्यवाणी भी की।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129775393,imgsize-26844.cms",
-        "link": "https://timesofindia.indiatimes.com/india/modi-may-not-be-pm-by-2026-end-arvind-kejriwal-at-sanjay-raut-launch/articleshow/129775240.cms"
-    },
-    {
-        "id": "b7b71994",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Puducherry Polls: CM vs. Ex-CM Showdown",
-                "content": "Puducherry's Thattanchavady constituency is witnessing a high-stakes battle in the ongoing assembly polls. Current Chief Minister N. Rangasamy faces a formidable challenge from former Chief Minister V. Vaithilingam. This much-anticipated electoral clash between two seasoned political heavyweights promises an intense contest, making Thattanchavady a focal point in the Puducherry elections."
-            },
-            "kn": {
-                "title": "ಪುದುಚೇರಿ ಚುನಾವಣೆ: ಮುಖ್ಯಮಂತ್ರಿ ಮತ್ತು ಮಾಜಿ ಮುಖ್ಯಮಂತ್ರಿಗಳ ನೇರ ಹಣಾಹಣಿ",
-                "content": "ಪುದುಚೇರಿಯ ತಟ್ಟಂಚಾವಡಿ ಕ್ಷೇತ್ರದಲ್ಲಿ ನಡೆಯುತ್ತಿರುವ ವಿಧಾನಸಭಾ ಚುನಾವಣೆಯಲ್ಲಿ ಭಾರಿ ಪೈಪೋಟಿ ನಡೆಯುತ್ತಿದೆ. ಹಾಲಿ ಮುಖ್ಯಮಂತ್ರಿ ಎನ್. ರಂಗಸ್ವಾಮಿ ಅವರಿಗೆ ಮಾಜಿ ಮುಖ್ಯಮಂತ್ರಿ ವಿ. ವೈತಿಲಿಂಗಂ ಅವರಿಂದ ಕಠಿಣ ಸವಾಲು ಎದುರಾಗಿದೆ. ಇಬ್ಬರು ಅನುಭವಿ ರಾಜಕೀಯ ಧುರೀಣರ ನಡುವಿನ ಈ ಬಹು ನಿರೀಕ್ಷಿತ ಚುನಾವಣಾ ಕದನವು ತೀವ್ರ ಸ್ಪರ್ಧೆಯನ್ನು ಭರವಸೆ ನೀಡುತ್ತದೆ, ಇದು ತಟ್ಟಂಚಾವಡಿಯನ್ನು ಪುದುಚೇರಿ ಚುನಾವಣೆಗಳಲ್ಲಿ ಪ್ರಮುಖ ಕೇಂದ್ರವನ್ನಾಗಿಸಿದೆ."
-            },
-            "mr": {
-                "title": "पुदुचेरी निवडणूक: मुख्यमंत्री विरुद्ध माजी मुख्यमंत्री संघर्ष",
-                "content": "पुदुचेरीतील थट्टंचवाडी मतदारसंघात सध्याच्या विधानसभा निवडणुकीत मोठी लढत पाहायला मिळत आहे. विद्यमान मुख्यमंत्री एन. रंगस्वामी यांच्यासमोर माजी मुख्यमंत्री व्ही. वैतिलिंगम यांचे मोठे आव्हान आहे. दोन अनुभवी राजकारण्यांमधील ही बहुप्रतीक्षित निवडणूक लढत तीव्र स्पर्धा देण्याचे वचन देते, ज्यामुळे थट्टंचवाडी पुदुचेरी निवडणुकीत एक महत्त्वाचे केंद्र बनले आहे."
-            },
-            "hi": {
-                "title": "पुदुचेरी चुनाव: मुख्यमंत्री बनाम पूर्व मुख्यमंत्री की जंग",
-                "content": "पुदुचेरी के थट्टंचवाड़ी निर्वाचन क्षेत्र में चल रहे विधानसभा चुनावों में एक हाई-स्टेक्स मुकाबला देखने को मिल रहा है। वर्तमान मुख्यमंत्री एन. रंगस्वामी को पूर्व मुख्यमंत्री वी. वैतिलिंगम से कड़ी चुनौती का सामना करना पड़ रहा है। दो अनुभवी राजनीतिक दिग्गजों के बीच यह बहुप्रतीक्षित चुनावी टकराव एक तीव्र प्रतिस्पर्धा का वादा करता है, जिससे थट्टंचवाड़ी पुदुचेरी चुनावों में एक महत्वपूर्ण केंद्र बन गया है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129772060,imgsize-43546.cms",
-        "link": "https://timesofindia.indiatimes.com/india/puducherry-assembly-polls-high-calibre-fight-in-thattanchavady-as-cm-rangasamy-takes-on-ex-cm-vaithilingam/articleshow/129772041.cms"
-    },
-    {
-        "id": "3b5b902e",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "Kentucky Farmers Battle AI Giant in $26M Standoff",
-                "content": "Kentucky farmers are embroiled in a $26 million dispute with a 'shadowy AI giant,' claiming their land has historically fed the nation. The standoff highlights a tense battle over agricultural resources and the impact of artificial intelligence on traditional livelihoods. Farmers assert their deep connection to the land and the vital role they play, challenging the tech company's ambitions and potential displacement."
-            },
-            "kn": {
-                "title": "ಕೆಂಟಕಿ ರೈತರು $26M ಕಾದಾಟದಲ್ಲಿ AI ದೈತ್ಯನೊಂದಿಗೆ ಸೆಣಸಾಟ",
-                "content": "ಕೆಂಟಕಿ ರೈತರು 'ಅಪಾರದರ್ಶಕ AI ದೈತ್ಯ' ದೊಂದಿಗೆ $26 ಮಿಲಿಯನ್ ವಿವಾದದಲ್ಲಿ ಸಿಲುಕಿಕೊಂಡಿದ್ದಾರೆ, ತಮ್ಮ ಭೂಮಿ ಐತಿಹಾಸಿಕವಾಗಿ ರಾಷ್ಟ್ರಕ್ಕೆ ಆಹಾರ ನೀಡಿದೆ ಎಂದು ಪ್ರತಿಪಾದಿಸುತ್ತಿದ್ದಾರೆ. ಈ ಕಾದಾಟವು ಕೃಷಿ ಸಂಪನ್ಮೂಲಗಳು ಮತ್ತು ಕೃತಕ ಬುದ್ಧಿಮತ್ತೆಯು ಸಾಂಪ್ರದಾಯಿಕ ಜೀವನೋಪಾಯದ ಮೇಲೆ ಬೀರುವ ಪರಿಣಾಮದ ನಡುವಿನ ಉದ್ವಿಗ್ನ ಹೋರಾಟವನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ರೈತರು ಭೂಮಿಯೊಂದಿಗಿನ ತಮ್ಮ ಆಳವಾದ ಸಂಪರ್ಕ ಮತ್ತು ಅವರು ನಿರ್ವಹಿಸುವ ಮಹತ್ವದ ಪಾತ್ರವನ್ನು ಒತ್ತಿಹೇಳುತ್ತಾರೆ, ತಂತ್ರಜ್ಞಾನ ಕಂಪನಿಯ ಆಕಾಂಕ್ಷೆಗಳು ಮತ್ತು ಸಂಭವನೀಯ ಸ್ಥಳಾಂತರವನ್ನು ಪ್ರಶ್ನಿಸುತ್ತಾರೆ."
-            },
-            "mr": {
-                "title": "केंटकीचे शेतकरी $26 दशलक्ष वादात AI महाकाय कंपनीशी संघर्ष",
-                "content": "केंटकीचे शेतकरी एका 'अस्पष्ट AI महाकाय कंपनी' सोबत $26 दशलक्षच्या विवादात गुंतले आहेत, ते दावा करतात की त्यांच्या जमिनीने ऐतिहासिकदृष्ट्या देशाला अन्न पुरवले आहे. हा संघर्ष कृषी संसाधने आणि कृत्रिम बुद्धिमत्तेचा पारंपरिक उपजीविकेवर होणाऱ्या परिणामावरच्या तणावपूर्ण लढ्याला अधोरेखित करतो. शेतकरी जमिनीशी असलेले त्यांचे सखोल संबंध आणि त्यांची महत्त्वाची भूमिका यावर जोर देतात, तंत्रज्ञान कंपनीच्या महत्त्वाकांक्षा आणि संभाव्य विस्थापनाला आव्हान देतात."
-            },
-            "hi": {
-                "title": "केंटकी के किसान $26M विवाद में AI दिग्गज से संघर्ष",
-                "content": "केंटकी के किसान एक 'अस्पष्ट AI दिग्गज' के साथ $26 मिलियन के विवाद में उलझे हुए हैं, उनका दावा है कि उनकी जमीन ने ऐतिहासिक रूप से राष्ट्र को भोजन प्रदान किया है। यह गतिरोध कृषि संसाधनों और पारंपरिक आजीविका पर कृत्रिम बुद्धिमत्ता के प्रभाव को लेकर एक तनावपूर्ण लड़ाई को उजागर करता है। किसान भूमि के साथ अपने गहरे संबंध और अपनी महत्वपूर्ण भूमिका पर जोर देते हुए, तकनीकी कंपनी की महत्वाकांक्षाओं और संभावित विस्थापन को चुनौती दे रहे हैं।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129771064,imgsize-98846.cms",
-        "link": "https://timesofindia.indiatimes.com/world/us/fed-a-nation-off-of-it-inside-the-26m-standoff-between-kentucky-farmers-and-a-shadowy-ai-giant/articleshow/129771064.cms"
-    },
-    {
-        "id": "c32c30b9",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "WB Voter Roll: Appeal Window Sparks Timeline Fears",
-                "content": "West Bengal's voter roll revision faces intense scrutiny as a \"limited window\" for appeals sparks significant timeline concerns. Critics warn this narrow timeframe could compromise the accuracy and fairness of the electoral list before upcoming elections. Stakeholders are urging authorities to extend the appeal period, ensuring adequate time for citizens to resolve discrepancies and secure their rightful place on the voter roll."
-            },
-            "kn": {
-                "title": "ಪಶ್ಚಿಮ ಬಂಗಾಳ ಮತದಾರರ ಪಟ್ಟಿ: ಮೇಲ್ಮನವಿ ಅವಧಿ ಕಾಲಮಿತಿ ಆತಂಕ ಸೃಷ್ಟಿ",
-                "content": "ಪಶ್ಚಿಮ ಬಂಗಾಳದ ಮತದಾರರ ಪಟ್ಟಿ ಪರಿಷ್ಕರಣೆಯು ತೀವ್ರ ಪರಿಶೀಲನೆಗೆ ಒಳಪಟ್ಟಿದೆ, ಏಕೆಂದರೆ ಮೇಲ್ಮನವಿಗಳಿಗೆ “ಸೀಮಿತ ಅವಧಿ” ಕಾಲಮಿತಿ ಆತಂಕಗಳನ್ನು ಹುಟ್ಟುಹಾಕಿದೆ. ಈ ಕಿರಿದಾದ ಕಾಲಮಿತಿಯು ಮುಂಬರುವ ಚುನಾವಣೆಗಳ ಮೊದಲು ಮತದಾರರ ಪಟ್ಟಿಯ ನಿಖರತೆ ಮತ್ತು ನ್ಯಾಯಸಮ್ಮತತೆಯನ್ನು ದುರ್ಬಲಗೊಳಿಸಬಹುದು ಎಂದು ವಿಮರ್ಶಕರು ಎಚ್ಚರಿಸಿದ್ದಾರೆ. ನಾಗರಿಕರು ತಮ್ಮ ವ್ಯತ್ಯಾಸಗಳನ್ನು ಪರಿಹರಿಸಲು ಮತ್ತು ಮತದಾರರ ಪಟ್ಟಿಯಲ್ಲಿ ತಮ್ಮ ಸರಿಯಾದ ಸ್ಥಾನವನ್ನು ಭದ್ರಪಡಿಸಿಕೊಳ್ಳಲು ಸಾಕಷ್ಟು ಸಮಯವನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು ಮೇಲ್ಮನವಿ ಅವಧಿಯನ್ನು ವಿಸ್ತರಿಸುವಂತೆ ಪಾಲುದಾರರು ಅಧಿಕಾರಿಗಳನ್ನು ಒತ್ತಾಯಿಸುತ್ತಿದ್ದಾರೆ."
-            },
-            "mr": {
-                "title": "प. बंगाल मतदार यादी: अपील कालावधीमुळे वेळेबद्दल चिंता",
-                "content": "पश्चिम बंगालच्या मतदार यादीच्या सुधारणेवर सखोल तपासणी सुरू आहे, कारण अपीलसाठी “मर्यादित कालावधी” असल्याने वेळेच्या बाबतीत महत्त्वपूर्ण चिंता निर्माण झाली आहे. टीकाकारांनी इशारा दिला आहे की, ही कमी वेळ आगामी निवडणुकांपूर्वी मतदार यादीची अचूकता आणि निष्पक्षता धोक्यात आणू शकते. नागरिक त्यांच्या त्रुटी दूर करून मतदार यादीत आपले योग्य स्थान सुरक्षित करू शकतील याची खात्री करण्यासाठी अपील कालावधी वाढवण्याची मागणी भागधारक अधिकाऱ्यांकडे करत आहेत."
-            },
-            "hi": {
-                "title": "प. बंगाल वोटर लिस्ट: अपील विंडो से समय-सीमा को लेकर चिंता",
-                "content": "पश्चिम बंगाल की मतदाता सूची के पुनरीक्षण पर गहन पड़ताल चल रही है, क्योंकि अपीलों के लिए \"सीमित अवधि\" ने समय-सीमा को लेकर महत्वपूर्ण चिंताएं पैदा की हैं। आलोचकों ने चेतावनी दी है कि यह कम समय आगामी चुनावों से पहले मतदाता सूची की सटीकता और निष्पक्षता से समझौता कर सकता है। हितधारक अधिकारियों से अपील की अवधि बढ़ाने का आग्रह कर रहे हैं, ताकि नागरिकों को विसंगतियों को दूर करने और मतदाता सूची में अपना सही स्थान सुरक्षित करने के लिए पर्याप्त समय मिल सके।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129771166,imgsize-1749058.cms",
-        "link": "https://timesofindia.indiatimes.com/india/west-bengal-sir-voter-roll-revision-limited-window-for-appeals-raises-timeline-concerns/articleshow/129771125.cms"
     }
 ]
