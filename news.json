@@ -1,5 +1,29 @@
 [
     {
+        "id": "49e90779",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Nayara Drastically Hikes Fuel Prices",
+                "content": "Nayara Energy has significantly increased fuel prices, raising petrol by an unprecedented Rs 5 per litre and diesel by Rs 3 per litre. This aggressive move by the private fuel retailer could impact consumer spending and potentially pressure public sector oil companies to review their pricing strategies amidst fluctuating global crude oil rates."
+            },
+            "kn": {
+                "title": "ನಯಾರಾ ಇಂಧನ ಬೆಲೆಗಳನ್ನು ತೀವ್ರವಾಗಿ ಹೆಚ್ಚಿಸಿದೆ",
+                "content": "ನಯಾರಾ ಎನರ್ಜಿ ಇಂಧನ ಬೆಲೆಗಳನ್ನು ಗಣನೀಯವಾಗಿ ಹೆಚ್ಚಿಸಿದೆ, ಪೆಟ್ರೋಲ್ ಅನ್ನು ಪ್ರತಿ ಲೀಟರ್‌ಗೆ ಅಭೂತಪೂರ್ವ 5 ರೂ ಮತ್ತು ಡೀಸೆಲ್ ಅನ್ನು ಪ್ರತಿ ಲೀಟರ್‌ಗೆ 3 ರೂ ಹೆಚ್ಚಿಸಿದೆ. ಖಾಸಗಿ ಇಂಧನ ಚಿಲ್ಲರೆ ವ್ಯಾಪಾರಿಯ ಈ ಆಕ್ರಮಣಕಾರಿ ಕ್ರಮವು ಗ್ರಾಹಕರ ವೆಚ್ಚದ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರಬಹುದು ಮತ್ತು ಜಾಗತಿಕ ಕಚ್ಚಾ ತೈಲ ದರಗಳ ಏರಿಳಿತದ ನಡುವೆ ಸಾರ್ವಜನಿಕ ವಲಯದ ತೈಲ ಕಂಪನಿಗಳು ತಮ್ಮ ಬೆಲೆ ನೀತಿಗಳನ್ನು ಪರಿಶೀಲಿಸುವಂತೆ ಒತ್ತಡ ಹೇರಬಹುದು."
+            },
+            "mr": {
+                "title": "नायराने इंधनाच्या किमतीत प्रचंड वाढ केली",
+                "content": "नायरा एनर्जीने इंधनाच्या किमतीत लक्षणीय वाढ केली आहे, पेट्रोलमध्ये प्रति लिटर 5 रुपये आणि डिझेलमध्ये प्रति लिटर 3 रुपये अशी अभूतपूर्व वाढ केली आहे. खासगी इंधन विक्रेत्याच्या या आक्रमक पावलामुळे ग्राहकांच्या खर्चावर परिणाम होऊ शकतो आणि जागतिक कच्च्या तेलाच्या दरांमधील चढउतारांदरम्यान सार्वजनिक क्षेत्रातील तेल कंपन्यांवर त्यांच्या किंमत धोरणांचा आढावा घेण्यासाठी दबाव येऊ शकतो."
+            },
+            "hi": {
+                "title": "नायरा ने ईंधन की कीमतों में भारी बढ़ोतरी की",
+                "content": "नायरा एनर्जी ने ईंधन की कीमतों में काफी बढ़ोतरी की है, पेट्रोल में प्रति लीटर अभूतपूर्व 5 रुपये और डीजल में प्रति लीटर 3 रुपये की वृद्धि की है। निजी ईंधन खुदरा विक्रेता का यह आक्रामक कदम उपभोक्ता खर्च को प्रभावित कर सकता है और वैश्विक कच्चे तेल की दरों में उतार-चढ़ाव के बीच सार्वजनिक क्षेत्र की तेल कंपनियों पर अपनी मूल्य निर्धारण रणनीतियों की समीक्षा करने का दबाव डाल सकता है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129836287,imgsize-480381.cms",
+        "link": "https://timesofindia.indiatimes.com/india/nayara-hikes-petrol-by-5/l-diesel-by-3/articleshow/129836282.cms"
+    },
+    {
         "id": "ca70a5fa",
         "category": "National",
         "translations": {
@@ -1894,29 +1918,5 @@
         },
         "image": "https://static.toiimg.com/photo/msid-129789075,imgsize-953861.cms",
         "link": "https://timesofindia.indiatimes.com/india/5-india-flagged-lpg-loaded-tankers-stuck-at-hormuz/articleshow/129789073.cms"
-    },
-    {
-        "id": "1936dabf",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "North Korea's Nuclear Justification: Kim Cites Iran War, Threatens South Korea",
-                "content": "Kim Jong Un defends North Korea's nuclear arsenal, citing the Iran war as proof of the need for strong military deterrence. He accuses the US of aggression and vows to advance their \"defensive\" nuclear capabilities. Declaring South Korea the \"most hostile nation,\" Kim warns of severe consequences for any provocations, reinforcing his nation's hardline stance on security amidst regional tensions."
-            },
-            "kn": {
-                "title": "ಉತ್ತರ ಕೊರಿಯಾದ ಅಣ್ವಸ್ತ್ರ ಸಮರ್ಥನೆ: ಕಿಮ್ ಇರಾನ್ ಯುದ್ಧವನ್ನು ಉಲ್ಲೇಖಿಸಿ, ದಕ್ಷಿಣ ಕೊರಿಯಾಕ್ಕೆ ಬೆದರಿಕೆ",
-                "content": "ಕಿಮ್ ಜುಂಗ್ ಉನ್ ಉತ್ತರ ಕೊರಿಯಾದ ಅಣ್ವಸ್ತ್ರ ಭಂಡಾರವನ್ನು ಸಮರ್ಥಿಸಿಕೊಂಡಿದ್ದಾರೆ, ಇರಾನ್ ಯುದ್ಧವನ್ನು ಬಲವಾದ ಮಿಲಿಟರಿ ಪ್ರತಿಬಂಧಕದ ಅಗತ್ಯಕ್ಕೆ ಪುರಾವೆಯಾಗಿ ಉಲ್ಲೇಖಿಸಿದ್ದಾರೆ. ಅವರು ಅಮೆರಿಕವನ್ನು ಆಕ್ರಮಣಶೀಲತೆ ಎಂದು ಆರೋಪಿಸಿ, ತಮ್ಮ \"ರಕ್ಷಣಾತ್ಮಕ\" ಅಣು ಸಾಮರ್ಥ್ಯಗಳನ್ನು ಮುನ್ನಡೆಸುವುದಾಗಿ ಪ್ರತಿಜ್ಞೆ ಮಾಡಿದರು. ದಕ್ಷಿಣ ಕೊರಿಯಾವನ್ನು \"ಅತ್ಯಂತ ಪ್ರತಿಕೂಲ ರಾಷ್ಟ್ರ\" ಎಂದು ಘೋಷಿಸಿದ ಕಿಮ್, ಯಾವುದೇ ಪ್ರಚೋದನೆಗಳಿಗೆ ತೀವ್ರ ಪರಿಣಾಮಗಳ ಬಗ್ಗೆ ಎಚ್ಚರಿಕೆ ನೀಡಿದರು, ಪ್ರಾದೇಶಿಕ ಉದ್ವಿಗ್ನತೆಯ ನಡುವೆ ತಮ್ಮ ದೇಶದ ಕಠಿಣ ಭದ್ರತಾ ನಿಲುವನ್ನು ಬಲಪಡಿಸಿದರು."
-            },
-            "mr": {
-                "title": "उत्तर कोरियाचे अणु समर्थन: किमने इराण युद्धाचा उल्लेख केला, दक्षिण कोरियाला धमकी",
-                "content": "किम जोंग उन यांनी उत्तर कोरियाच्या अणु शस्त्रास्त्रांचे समर्थन केले आहे, इराण युद्धाचा दाखला देऊन मजबूत लष्करी प्रतिबंधाची गरज असल्याचे म्हटले आहे. त्यांनी अमेरिकेवर आक्रमकतेचा आरोप केला आणि त्यांच्या \"संरक्षणात्मक\" अणु क्षमता वाढवण्याची शपथ घेतली. दक्षिण कोरियाला \"सर्वात प्रतिकूल राष्ट्र\" घोषित करत, किमने कोणत्याही चिथावणीचे गंभीर परिणाम होतील असा इशारा दिला, प्रादेशिक तणावामध्ये आपल्या देशाच्या कठोर सुरक्षा भूमिकेला बळकटी दिली."
-            },
-            "hi": {
-                "title": "उत्तर कोरिया का परमाणु औचित्य: किम ने ईरान युद्ध का हवाला दिया, दक्षिण कोरिया को धमकी दी",
-                "content": "किम जोंग उन ने उत्तर कोरिया के परमाणु शस्त्रागार का बचाव करते हुए, ईरान युद्ध को मजबूत सैन्य निवारण की आवश्यकता के प्रमाण के रूप में उद्धृत किया। उन्होंने अमेरिका पर आक्रामकता का आरोप लगाया और अपनी \"रक्षात्मक\" परमाणु क्षमताओं को आगे बढ़ाने की कसम खाई। दक्षिण कोरिया को \"सबसे शत्रुतापूर्ण राष्ट्र\" घोषित करते हुए, किम ने किसी भी उकसावे के गंभीर परिणामों की चेतावनी दी, जिससे क्षेत्रीय तनाव के बीच उनके देश की कड़ी सुरक्षा स्थिति मजबूत हुई।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129793967,imgsize-935764.cms",
-        "link": "https://timesofindia.indiatimes.com/world/rest-of-world/how-iran-war-is-helping-kim-jong-un-justify-north-koreas-nuclear-arsenal/articleshow/129793865.cms"
     }
 ]
