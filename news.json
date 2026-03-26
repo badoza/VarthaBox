@@ -1,5 +1,53 @@
 [
     {
+        "id": "dd0db42c",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Bengaluru Professor Barred for Harassment, Proposal",
+                "content": "A Bengaluru professor, previously barred from campus, is again in the spotlight after proposing to a student. Investigations revealed a history of harassment towards other individuals as well. This recurring behavior has led to serious concerns about campus safety and professional conduct, prompting renewed scrutiny and potential further action against the professor."
+            },
+            "kn": {
+                "title": "ಬೆಂಗಳೂರು ಪ್ರಾಧ್ಯಾಪಕರಿಗೆ ಕಿರುಕುಳ, ಪ್ರಸ್ತಾವನೆಗಾಗಿ ನಿಷೇಧ",
+                "content": "ಕ್ಯಾಂಪಸ್‌ನಿಂದ ಹಿಂದೆ ನಿಷೇಧಿಸಲ್ಪಟ್ಟಿದ್ದ ಬೆಂಗಳೂರಿನ ಪ್ರಾಧ್ಯಾಪಕರೊಬ್ಬರು ವಿದ್ಯಾರ್ಥಿನಿಗೆ ಪ್ರಪೋಸ್ ಮಾಡಿದ ನಂತರ ಮತ್ತೆ ಗಮನ ಸೆಳೆದಿದ್ದಾರೆ. ತನಿಖೆಗಳು ಇತರರಿಗೂ ಕಿರುಕುಳ ನೀಡಿದ ಇತಿಹಾಸವನ್ನು ಬಹಿರಂಗಪಡಿಸಿವೆ. ಈ ಪುನರಾವೃತ್ತಿ ವರ್ತನೆಯು ಕ್ಯಾಂಪಸ್ ಸುರಕ್ಷತೆ ಮತ್ತು ವೃತ್ತಿಪರ ನಡವಳಿಕೆಯ ಬಗ್ಗೆ ಗಂಭೀರ ಕಾಳಜಿಗಳನ್ನು ಹುಟ್ಟುಹಾಕಿದೆ, ಪ್ರಾಧ್ಯಾಪಕರ ವಿರುದ್ಧ ಹೊಸ ಪರಿಶೀಲನೆ ಮತ್ತು ಸಂಭಾವ್ಯ ಮತ್ತಷ್ಟು ಕ್ರಮಕ್ಕೆ ಕಾರಣವಾಗಬಹುದು."
+            },
+            "mr": {
+                "title": "बेंगळुरू प्रोफेसरवर छेडछाड, प्रपोजलसाठी बंदी",
+                "content": "कॅम्पसमधून पूर्वी बेंगळुरूच्या एका प्रोफेसरला बंदी घालण्यात आली होती, ते एका विद्यार्थिनीला प्रपोज केल्यानंतर पुन्हा चर्चेत आले आहेत. चौकशीत इतर व्यक्तींशीही गैरवर्तन केल्याचा इतिहास उघड झाला आहे. या वारंवार होणाऱ्या वर्तनामुळे कॅम्पसची सुरक्षा आणि व्यावसायिक आचरणाबद्दल गंभीर चिंता निर्माण झाली आहे, ज्यामुळे प्रोफेसरविरुद्ध नवीन तपासणी आणि संभाव्य पुढील कारवाई होऊ शकते."
+            },
+            "hi": {
+                "title": "बेंगलुरु प्रोफेसर पर उत्पीड़न, प्रस्ताव के लिए प्रतिबंध",
+                "content": "बेंगलुरु के एक प्रोफेसर, जिन्हें पहले कैंपस से प्रतिबंधित किया गया था, अब एक छात्रा को प्रपोज़ करने के बाद फिर से सुर्खियों में हैं। जांच में अन्य व्यक्तियों के प्रति भी उत्पीड़न का इतिहास सामने आया है। इस बार-बार होने वाले व्यवहार ने कैंपस सुरक्षा और पेशेवर आचरण के बारे में गंभीर चिंताएँ बढ़ा दी हैं, जिससे प्रोफेसर के खिलाफ नए सिरे से जांच और संभावित आगे की कार्रवाई हो सकती है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129829372,imgsize-28962.cms",
+        "link": "https://timesofindia.indiatimes.com/india/bengaluru-professor-who-proposed-to-student-was-barred-from-campus-earlier-harassed-others-too/articleshow/129829385.cms"
+    },
+    {
+        "id": "4ce1b6bd",
+        "category": "Sports",
+        "translations": {
+            "en": {
+                "title": "Chopra Dares Rahane: 'Prove Me Wrong' in IPL 2026",
+                "content": "Former India batter Aakash Chopra has challenged Ajinkya Rahane for IPL 2026, urging him to \"prove me wrong\" on post-powerplay scoring, despite a strong IPL 2025. Chopra also tipped Rinku Singh as a future captain and called on Varun Chakaravarthy to rediscover his wicket-taking form after a T20 World Cup slump. Rahane faces pressure to deliver."
+            },
+            "kn": {
+                "title": "ಚೋಪ್ರಾ ರಹಾನೆಗೆ ಸವಾಲು: ಐಪಿಎಲ್ 2026ರಲ್ಲಿ 'ನನ್ನನ್ನು ಸುಳ್ಳು ಮಾಡಿ'",
+                "content": "ಮಾಜಿ ಭಾರತೀಯ ಬ್ಯಾಟರ್ ಆಕಾಶ್ ಚೋಪ್ರಾ ಅವರು ಐಪಿಎಲ್ 2026ರ ಕುರಿತು ಅಜಿಂಕ್ಯ ರಹಾನೆಗೆ ಸವಾಲು ಹಾಕಿದ್ದಾರೆ. ಐಪಿಎಲ್ 2025ರಲ್ಲಿ ಉತ್ತಮ ಪ್ರದರ್ಶನ ನೀಡಿದರೂ, ಪವರ್‌ಪ್ಲೇ ನಂತರದ ಸ್ಕೋರಿಂಗ್‌ಗಾಗಿ 'ನನ್ನನ್ನು ಸುಳ್ಳು ಮಾಡಿ' ಎಂದು ಒತ್ತಾಯಿಸಿದ್ದಾರೆ. ಚೋಪ್ರಾ ರಿಂಕು ಸಿಂಗ್ ಅವರನ್ನು ಭವಿಷ್ಯದ ನಾಯಕರಾಗಿ ಸೂಚಿಸಿದರು ಮತ್ತು ಟಿ20 ವಿಶ್ವಕಪ್ ನಂತರ ತಮ್ಮ ವಿಕೆಟ್ ಕೀಳುವ ಫಾರ್ಮ್ ಮರುಪಡೆಯಲು ವರುಣ್ ಚಕ್ರವರ್ತಿಗೆ ಕರೆ ನೀಡಿದರು. ರಹಾನೆ ಉತ್ತಮ ಪ್ರದರ್ಶನ ನೀಡುವ ಒತ್ತಡದಲ್ಲಿದ್ದಾರೆ."
+            },
+            "mr": {
+                "title": "चोप्राचं रहाणेला आव्हान: आयपीएल 2026 मध्ये 'मला चुकीचं सिद्ध करा'",
+                "content": "माजी भारतीय फलंदाज आकाश चोप्राने आयपीएल 2026 साठी अजिंक्य रहाणेला आव्हान दिले आहे, त्याला आयपीएल 2025 मध्ये दमदार प्रदर्शन असूनही, पॉवरप्लेनंतरच्या धावसंख्येवर 'मला चुकीचं सिद्ध करा' असं आवाहन केलं आहे. चोप्राने रिंकू सिंगला भविष्यातील कर्णधार म्हणूनही सुचवले आणि वरुण चक्रवर्तीला टी20 विश्वचषक मधील खराब कामगिरीनंतर त्याची विकेट घेण्याची लय पुन्हा मिळवण्यास सांगितले. रहाणेवर चांगली कामगिरी करण्याचे दडपण आहे."
+            },
+            "hi": {
+                "title": "चोपड़ा की रहाणे को चुनौती: IPL 2026 में 'मुझे गलत साबित करो'",
+                "content": "पूर्व भारतीय बल्लेबाज आकाश चोपड़ा ने आईपीएल 2026 के लिए अजिंक्य रहाणे को चुनौती दी है, उनसे आग्रह किया है कि आईपीएल 2025 में मजबूत प्रदर्शन के बावजूद, पोस्ट-पावरप्ले स्कोरिंग पर 'मुझे गलत साबित करो'। चोपड़ा ने रिंकू सिंह को भविष्य का कप्तान भी बताया और वरुण चक्रवर्ती से टी20 विश्व कप में गिरावट के बाद अपनी विकेट लेने की फॉर्म फिर से हासिल करने का आग्रह किया। रहाणे पर प्रदर्शन का दबाव है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129820625,imgsize-105990.cms",
+        "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/prove-me-wrong-ex-india-batter-throws-challenge-to-ajinkya-rahane-ahead-of-ipl-2026/articleshow/129820597.cms"
+    },
+    {
         "id": "a1a0fe7e",
         "category": "National",
         "translations": {
@@ -1870,53 +1918,5 @@
         },
         "image": "https://static.toiimg.com/photo/msid-129791971,imgsize-104766.cms",
         "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-captains-meet-when-where-and-the-complete-agenda/articleshow/129791955.cms"
-    },
-    {
-        "id": "030dd8e7",
-        "category": "Sports",
-        "translations": {
-            "en": {
-                "title": "Dhoni's IPL Return: Power, Trolls & CSK's Future",
-                "content": "Veteran MS Dhoni, 44, gears up for his 19th IPL, showcasing his classic finishing prowess with a net session six. Despite online trolls targeting the bowler, Dhoni's enduring impact is undeniable. CSK, led by Ruturaj Gaikwad, faces injury woes but strengthens its squad with Sanju Samson, signaling a strategic shift towards futureproofing and continued competitiveness."
-            },
-            "kn": {
-                "title": "ಧೋನಿಯ IPL ಮರಳುವಿಕೆ: ಶಕ್ತಿ, ಟ್ರೋಲ್‌ಗಳು ಮತ್ತು CSK ಭವಿಷ್ಯ",
-                "content": "44ರ ಹಿರಿಯ ಆಟಗಾರ ಎಂ.ಎಸ್. ಧೋನಿ ತಮ್ಮ 19ನೇ ಐಪಿಎಲ್‌ಗೆ ಸಜ್ಜಾಗುತ್ತಿದ್ದಾರೆ, ನೆಟ್ ಸೆಷನ್‌ನಲ್ಲಿ ಸಿಕ್ಸರ್ ಮೂಲಕ ತಮ್ಮ ಕ್ಲಾಸಿಕ್ ಫಿನಿಶಿಂಗ್ ಸಾಮರ್ಥ್ಯವನ್ನು ಪ್ರದರ್ಶಿಸುತ್ತಿದ್ದಾರೆ. ಬೌಲರ್ ಅನ್ನು ಗುರಿಯಾಗಿಸಿದ ಆನ್‌ಲೈನ್ ಟ್ರೋಲ್‌ಗಳ ಹೊರತಾಗಿಯೂ, ಧೋನಿಯ ನಿರಂತರ ಪ್ರಭಾವ ನಿರ್ವಿವಾದ. ಋತುರಾಜ್ ಗಾಯಕ್ವಾಡ್ ನೇತೃತ್ವದ ಸಿಎಸ್‌ಕೆ, ಗಾಯದ ಸಮಸ್ಯೆಗಳನ್ನು ಎದುರಿಸುತ್ತಿದ್ದರೂ, ಸಂಜು ಸ್ಯಾಮ್ಸನ್‌ನೊಂದಿಗೆ ತಂಡವನ್ನು ಬಲಪಡಿಸಿದೆ, ಇದು ಭವಿಷ್ಯದ ದೃಷ್ಟಿಕೋನ ಮತ್ತು ನಿರಂತರ ಸ್ಪರ್ಧಾತ್ಮಕತೆಯತ್ತ ಕಾರ್ಯತಂತ್ರದ ಬದಲಾವಣೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "धोनीचे आयपीएल पुनरागमन: ताकद, ट्रोलिंग आणि सीएसकेचे भविष्य",
-                "content": "44 वर्षीय अनुभवी एम.एस. धोनी आपल्या 19व्या आयपीएलसाठी सज्ज होत आहेत, नेट सत्रातील षटकाराने त्यांची उत्कृष्ट फिनिशिंग क्षमता दर्शवत आहेत. गोलंदाजाला लक्ष्य करणाऱ्या ऑनलाइन ट्रोलिंगच्या पलीकडे, धोनीचा सततचा प्रभाव नाकारता येत नाही. ऋतुराज गायकवाडच्या नेतृत्वाखालील सीएसकेला दुखापतींमुळे अडचणींचा सामना करावा लागत असला तरी, त्यांनी संजू सॅमसनसोबत आपला संघ मजबूत केला आहे, जो भविष्याभिमुख धोरण आणि सततच्या स्पर्धात्मकतेकडे एक धोरणात्मक बदल दर्शवतो."
-            },
-            "hi": {
-                "title": "धोनी की आईपीएल वापसी: पावर, ट्रोल्स और सीएसके का भविष्य",
-                "content": "44 वर्षीय अनुभवी एम.एस. धोनी अपने 19वें आईपीएल के लिए कमर कस रहे हैं, एक नेट सेशन में छक्का मारकर अपनी क्लासिक फिनिशिंग क्षमता का प्रदर्शन कर रहे हैं। गेंदबाज को निशाना बनाने वाले ऑनलाइन ट्रोल्स के बावजूद, धोनी का स्थायी प्रभाव निर्विवाद है। ऋतुराज गायकवाड़ के नेतृत्व में सीएसके को चोट की समस्या का सामना करना पड़ रहा है, लेकिन उसने संजू सैमसन के साथ अपनी टीम को मजबूत किया है, जो भविष्य की तैयारी और निरंतर प्रतिस्पर्धात्मकता की दिशा में एक रणनीतिक बदलाव का संकेत है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129794581,imgsize-1635561.cms",
-        "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ms-dhoni-hits-mukesh-chaudhary-for-a-six-internet-trolls-with-isko-koi-bhi-maar-de-watch/articleshow/129794556.cms"
-    },
-    {
-        "id": "b0ff45b0",
-        "category": "Sports",
-        "translations": {
-            "en": {
-                "title": "Rinku Singh Appointed UP Regional Sports Officer",
-                "content": "Cricket star Rinku Singh has been appointed as a Regional Sports Officer (RSO) by the Uttar Pradesh Government, following his vice-captaincy nod for KKR in IPL 2026. CM Yogi Adityanath presented the appointment letter, emphasizing UP's commitment to integrating athletes into government service. Singh will now play a crucial role in developing sports across the state."
-            },
-            "kn": {
-                "title": "ರಿಂಕು ಸಿಂಗ್ ಯುಪಿ ಪ್ರಾದೇಶಿಕ ಕ್ರೀಡಾ ಅಧಿಕಾರಿಯಾಗಿ ನೇಮಕ",
-                "content": "ಕ್ರಿಕೆಟ್ ತಾರೆ ರಿಂಕು ಸಿಂಗ್ ಅವರನ್ನು ಉತ್ತರ ಪ್ರದೇಶ ಸರ್ಕಾರ ಪ್ರಾದೇಶಿಕ ಕ್ರೀಡಾ ಅಧಿಕಾರಿಯಾಗಿ (RSO) ನೇಮಿಸಿದೆ. 2026ರ ಐಪಿಎಲ್‌ನಲ್ಲಿ ಕೆಕೆಆರ್‌ನ ಉಪ-ನಾಯಕರಾಗಿ ಆಯ್ಕೆಯಾದ ನಂತರ ಈ ಗೌರವ ಸಿಕ್ಕಿದೆ. ಸಿಎಂ ಯೋಗಿ ಆದಿತ್ಯನಾಥ್ ಅವರು ನೇಮಕಾತಿ ಪತ್ರವನ್ನು ಹಸ್ತಾಂತರಿಸಿದರು, ಕ್ರೀಡಾಪಟುಗಳನ್ನು ಸರ್ಕಾರಿ ಸೇವೆಗೆ ಸೇರಿಸುವ ಯುಪಿಯ ಬದ್ಧತೆಯನ್ನು ಒತ್ತಿ ಹೇಳಿದರು. ಸಿಂಗ್ ಈಗ ರಾಜ್ಯದಾದ್ಯಂತ ಕ್ರೀಡೆಗಳನ್ನು ಅಭಿವೃದ್ಧಿಪಡಿಸುವಲ್ಲಿ ಪ್ರಮುಖ ಪಾತ್ರ ವಹಿಸಲಿದ್ದಾರೆ."
-            },
-            "mr": {
-                "title": "रिंकू सिंगची यूपी प्रादेशिक क्रीडा अधिकारीपदी नियुक्ती",
-                "content": "क्रिकेटपटू रिंकू सिंग यांची उत्तर प्रदेश सरकारने प्रादेशिक क्रीडा अधिकारी (RSO) म्हणून नियुक्ती केली आहे. २०२६ च्या आयपीएलमध्ये केकेआरच्या उपकर्णधारपदी निवड झाल्यानंतर त्यांना हा सन्मान मिळाला. मुख्यमंत्री योगी आदित्यनाथ यांनी नियुक्तीपत्र दिले, ज्यामध्ये खेळाडूंना शासकीय सेवेत समाविष्ट करण्याच्या यूपीच्या वचनबद्धतेवर भर दिला. सिंग आता राज्यभरातील खेळांच्या विकासात महत्त्वपूर्ण भूमिका बजावतील."
-            },
-            "hi": {
-                "title": "रिंकू सिंह यूपी के क्षेत्रीय खेल अधिकारी नियुक्त",
-                "content": "क्रिकेट स्टार रिंकू सिंह को उत्तर प्रदेश सरकार ने क्षेत्रीय खेल अधिकारी (RSO) नियुक्त किया है. 2026 के IPL में KKR के उप-कप्तान नामित होने के बाद उन्हें यह सम्मान मिला. सीएम योगी आदित्यनाथ ने नियुक्ति पत्र सौंपा, जिसमें यूपी की एथलीटों को सरकारी सेवा में शामिल करने की प्रतिबद्धता पर जोर दिया गया. सिंह अब पूरे राज्य में खेलों के विकास में महत्वपूर्ण भूमिका निभाएंगे."
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129793741,imgsize-38192.cms",
-        "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/rinku-singh-appointed-regional-sports-officer-salary-role-and-key-details-explained/articleshow/129793762.cms"
     }
 ]
