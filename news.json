@@ -1,5 +1,53 @@
 [
     {
+        "id": "31dda7ac",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "No 'LPG Charge': CCPA Warns Eateries Against Illegal Surcharges",
+                "content": "The Central Consumer Protection Authority (CCPA) has warned hotels and restaurants against levying illegal 'LPG charges' or 'fuel cost recovery' on food bills. Such additional surcharges are deemed unfair trade practices, as operational costs should already be included in menu prices. Consumers are advised to dispute these charges and can file complaints if encountered. Strict action will be taken against establishments violating this directive."
+            },
+            "kn": {
+                "title": "ಅಕ್ರಮ 'LPG ಶುಲ್ಕ' ವಿಧಿಸುವ ಹೋಟೆಲ್‌ಗಳಿಗೆ CCPA ಎಚ್ಚರಿಕೆ",
+                "content": "ಕೇಂದ್ರ ಗ್ರಾಹಕ ಸಂರಕ್ಷಣಾ ಪ್ರಾಧಿಕಾರ (CCPA) ಹೋಟೆಲ್‌ಗಳು ಮತ್ತು ರೆಸ್ಟೋರೆಂಟ್‌ಗಳಿಗೆ ಆಹಾರ ಬಿಲ್‌ಗಳ ಮೇಲೆ ಅಕ್ರಮ 'LPG ಶುಲ್ಕ' ಅಥವಾ 'ಇಂಧನ ವೆಚ್ಚ ಮರುಪಡೆಯುವಿಕೆ' ವಿಧಿಸದಂತೆ ಎಚ್ಚರಿಕೆ ನೀಡಿದೆ. ಇಂತಹ ಹೆಚ್ಚುವರಿ ಶುಲ್ಕಗಳು ಅನುಚಿತ ವ್ಯಾಪಾರ ಪದ್ಧತಿಗಳು. ಕಾರ್ಯಾಚರಣಾ ವೆಚ್ಚಗಳು ಮೆನು ಬೆಲೆಗಳಲ್ಲಿ ಸೇರಿರಬೇಕು. ಗ್ರಾಹಕರು ಈ ಶುಲ್ಕಗಳನ್ನು ವಿರೋಧಿಸಬಹುದು ಮತ್ತು ದೂರುಗಳನ್ನು ಸಲ್ಲಿಸಬಹುದು. ನಿಯಮ ಉಲ್ಲಂಘಿಸುವವರ ವಿರುದ್ಧ ಕಠಿಣ ಕ್ರಮ."
+            },
+            "mr": {
+                "title": "'एलपीजी शुल्क' नाही: बेकायदेशीर अधिभारांविरुद्ध सीसीपीएचा हॉटेल्सना इशारा",
+                "content": "केंद्रीय ग्राहक संरक्षण प्राधिकरणाने (CCPA) हॉटेल्स-रेस्टॉरंट्सना खाद्य बिलांवर बेकायदेशीर 'एलपीजी शुल्क' किंवा 'इंधन खर्च वसुली' आकारू नये असा इशारा दिला आहे. हे अतिरिक्त शुल्क अनुचित व्यापार मानले जातात, कारण परिचालन खर्च मेनू किमतीत समाविष्ट असावा. ग्राहक हे शुल्क नाकारू शकतात आणि तक्रारी दाखल करू शकतात. उल्लंघन करणाऱ्यांवर कठोर कारवाई होईल."
+            },
+            "hi": {
+                "title": "'एलपीजी चार्ज' नहीं: अवैध अधिभार पर सीसीपीए की भोजनालयों को चेतावनी",
+                "content": "केंद्रीय उपभोक्ता संरक्षण प्राधिकरण (CCPA) ने होटलों और रेस्तरां को खाद्य बिलों पर अवैध 'एलपीजी शुल्क' या 'ईंधन लागत वसूली' न लगाने की चेतावनी दी है। ऐसे अतिरिक्त शुल्क अनुचित व्यापार प्रथा हैं, क्योंकि परिचालन लागत मेनू कीमतों में शामिल होनी चाहिए। उपभोक्ता इन शुल्कों का विरोध कर सकते हैं और शिकायत दर्ज करा सकते हैं। उल्लंघन करने वालों पर सख्त कार्रवाई होगी।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129813949,imgsize-70044.cms",
+        "link": "https://timesofindia.indiatimes.com/india/lpg-charge-not-legal-will-invite-action-ccpa-warns-eateries/articleshow/129813947.cms"
+    },
+    {
+        "id": "a8c4e99e",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Leavitt Blasts Philly DA Over ICE Arrest Threat",
+                "content": "Karoline Leavitt has fiercely condemned Philadelphia DA Larry Krasner for threatening to arrest ICE agents, calling his stance \"disgraceful.\" Leavitt argued that Krasner's policy undermines federal law enforcement and jeopardizes public safety. The controversy escalates tensions between local and federal immigration authorities, drawing strong criticism and calls for the DA to reverse his controversial directive."
+            },
+            "kn": {
+                "title": "ಲೆವಿಟ್ ICE ಏಜೆಂಟ್‌ಗಳ ಬಂಧನದ ಬೆದರಿಕೆಯ ಬಗ್ಗೆ ಫಿಲಿ DA ಗೆ ತರಾಟೆ",
+                "content": "ಕರೋಲಿನ್ ಲೆವಿಟ್ ಅವರು ಫಿಲಡೆಲ್ಫಿಯಾ DA ಲ್ಯಾರಿ ಕ್ರಾಸ್ನರ್ ಅವರನ್ನು ICE ಏಜೆಂಟ್‌ಗಳನ್ನು ಬಂಧಿಸುವ ಬೆದರಿಕೆ ಹಾಕಿದ್ದಕ್ಕಾಗಿ ತೀವ್ರವಾಗಿ ಖಂಡಿಸಿದ್ದಾರೆ, ಅವರ ನಿಲುವನ್ನು \"ಅವಹೇಳನಕಾರಿ\" ಎಂದು ಕರೆದಿದ್ದಾರೆ. ಕ್ರಾಸ್ನರ್ ಅವರ ನೀತಿಯು ಫೆಡರಲ್ ಕಾನೂನು ಜಾರಿಯನ್ನು ದುರ್ಬಲಗೊಳಿಸುತ್ತದೆ ಮತ್ತು ಸಾರ್ವಜನಿಕ ಸುರಕ್ಷತೆಗೆ ಅಪಾಯವನ್ನುಂಟುಮಾಡುತ್ತದೆ ಎಂದು ಲೆವಿಟ್ ವಾದಿಸಿದರು. ಈ ವಿವಾದವು ಸ್ಥಳೀಯ ಮತ್ತು ಫೆಡರಲ್ ವಲಸೆ ಅಧಿಕಾರಿಗಳ ನಡುವಿನ ಉದ್ವಿಗ್ನತೆಯನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ, ಬಲವಾದ ಟೀಕೆಗಳನ್ನು ಆಹ್ವಾನಿಸುತ್ತದೆ ಮತ್ತು DA ತನ್ನ ವಿವಾದಾತ್ಮಕ ನಿರ್ದೇಶನವನ್ನು ಹಿಂತೆಗೆದುಕೊಳ್ಳಬೇಕೆಂದು ಕರೆ ನೀಡುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "लेव्हिटने ICE एजंट्सच्या अटकेच्या धमकीवरून फिलाडेल्फिया DA वर निशाणा साधला",
+                "content": "कॅरोलिन लेव्हिट यांनी फिलाडेल्फियाचे DA लॅरी क्रास्नर यांच्यावर ICE एजंट्सना अटक करण्याच्या धमकीबद्दल तीव्र शब्दात निंदा केली आहे, त्यांच्या भूमिकेला \"अपमानास्पद\" म्हटले आहे. लेव्हिट यांनी युक्तिवाद केला की क्रास्नरचे धोरण फेडरल कायद्याची अंमलबजावणी कमकुवत करते आणि सार्वजनिक सुरक्षिततेला धोका निर्माण करते. या वादामुळे स्थानिक आणि फेडरल इमिग्रेशन अधिकाऱ्यांमधील तणाव वाढतो आहे, ज्यामुळे तीव्र टीका होत आहे आणि DA ला आपली वादग्रस्त सूचना मागे घेण्याचे आवाहन केले जात आहे."
+            },
+            "hi": {
+                "title": "लेविट ने ICE गिरफ्तारी धमकी पर फिलाडेल्फिया DA की निंदा की",
+                "content": "कैरोलीन लेविट ने फिलाडेल्फिया के DA लैरी क्रास्नर की ICE एजेंटों को गिरफ्तार करने की धमकी के लिए कड़ी निंदा की है, उनके रुख को \"अपमानजनक\" बताया है। लेविट ने तर्क दिया कि क्रास्नर की नीति संघीय कानून प्रवर्तन को कमजोर करती है और सार्वजनिक सुरक्षा को खतरे में डालती है। यह विवाद स्थानीय और संघीय आव्रजन अधिकारियों के बीच तनाव को बढ़ाता है, जिससे कड़ी आलोचना हो रही है और DA से अपने विवादास्पद निर्देश को वापस लेने का आह्वान किया जा रहा है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129811194,imgsize-141230.cms",
+        "link": "https://timesofindia.indiatimes.com/world/us/disgraceful-karoline-leavitt-slams-philadelphia-da-larry-krasner-over-arrest-threat-to-ice-agents-deployed-at-us-airports/articleshow/129811194.cms"
+    },
+    {
         "id": "b9c39fd0",
         "category": "National",
         "translations": {
@@ -1870,53 +1918,5 @@
         },
         "image": "https://static.toiimg.com/photo/msid-129767740,imgsize-63492.cms",
         "link": "https://timesofindia.indiatimes.com/india/govt-tightens-watch-on-glp-1-weight-loss-drugs-amid-concerns-over-unauthorised-sales/articleshow/129767740.cms"
-    },
-    {
-        "id": "fb7bbe5a",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "India Flags Unapproved Drug Combos: Public Safety Alert",
-                "content": "India's health authorities are sounding the alarm over unapproved fixed-dose drug combinations (FDCs) circulating in the market. The Centre has flagged these drugs, highlighting significant safety concerns and potential health risks to consumers. This move aims to ensure patient safety and push for stricter adherence to drug approval protocols, safeguarding public health from potentially harmful pharmaceutical concoctions."
-            },
-            "kn": {
-                "title": "ಭಾರತವು ಅನುಮೋದಿತವಲ್ಲದ ಔಷಧ ಸಂಯೋಜನೆಗಳಿಗೆ ಎಚ್ಚರಿಕೆ: ಸಾರ್ವಜನಿಕ ಸುರಕ್ಷತಾ ಎಚ್ಚರಿಕೆ",
-                "content": "ಭಾರತದ ಆರೋಗ್ಯ ಪ್ರಾಧಿಕಾರಗಳು ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ಚಲಾವಣೆಯಲ್ಲಿರುವ ಅನುಮೋದಿತವಲ್ಲದ ಸ್ಥಿರ-ಡೋಸ್ ಔಷಧ ಸಂಯೋಜನೆಗಳ (FDCs) ಬಗ್ಗೆ ಎಚ್ಚರಿಕೆ ನೀಡಿವೆ. ಕೇಂದ್ರವು ಈ ಔಷಧಿಗಳನ್ನು ಗುರುತಿಸಿದ್ದು, ಪ್ರಮುಖ ಸುರಕ್ಷತಾ ಕಳವಳಗಳು ಮತ್ತು ಗ್ರಾಹಕರಿಗೆ ಸಂಭವನೀಯ ಆರೋಗ್ಯ ಅಪಾಯಗಳನ್ನು ಎತ್ತಿ ತೋರಿಸಿದೆ. ಈ ಕ್ರಮವು ರೋಗಿಗಳ ಸುರಕ್ಷತೆಯನ್ನು ಖಚಿತಪಡಿಸುವುದು ಮತ್ತು ಔಷಧ ಅನುಮೋದನೆ ಪ್ರೋಟೋಕಾಲ್‌ಗಳಿಗೆ ಕಟ್ಟುನಿಟ್ಟಾದ ಅನುಸರಣೆಯನ್ನು ಉತ್ತೇಜಿಸುವ ಗುರಿಯನ್ನು ಹೊಂದಿದೆ, ಇದರಿಂದ ಸಾರ್ವಜನಿಕ ಆರೋಗ್ಯವನ್ನು ಸಂಭಾವ್ಯ ಹಾನಿಕಾರಕ ಔಷಧ ಮಿಶ್ರಣಗಳಿಂದ ರಕ್ಷಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "भारताने अननुमोदित औषध संयोजनांना झेंडा दाखवला: सार्वजनिक सुरक्षिततेचा इशारा",
-                "content": "भारतातील आरोग्य प्राधिकरणांनी बाजारात फिरणाऱ्या अननुमोदित फिक्स्ड-डोस औषध संयोजनांबद्दल (FDCs) धोक्याची घंटा वाजवली आहे. केंद्राने या औषधांना सूचित केले असून, महत्त्वपूर्ण सुरक्षिततेच्या चिंता आणि ग्राहकांसाठी संभाव्य आरोग्य धोके अधोरेखित केले आहेत. या उपायाचा उद्देश रुग्णांची सुरक्षा सुनिश्चित करणे आणि औषध मान्यता प्रोटोकॉलचे कठोर पालन करण्यास प्रोत्साहन देणे, तसेच संभाव्य हानिकारक औषधी मिश्रणांपासून सार्वजनिक आरोग्याचे रक्षण करणे आहे."
-            },
-            "hi": {
-                "title": "भारत ने अस्वीकृत दवा संयोजनों पर चिंता जताई: सार्वजनिक सुरक्षा चेतावनी",
-                "content": "भारत के स्वास्थ्य अधिकारियों ने बाजार में चल रहे अस्वीकृत फिक्स्ड-डोज दवा संयोजनों (FDCs) पर चिंता व्यक्त की है। केंद्र ने इन दवाओं को चिह्नित करते हुए महत्वपूर्ण सुरक्षा चिंताओं और उपभोक्ताओं के लिए संभावित स्वास्थ्य जोखिमों पर प्रकाश डाला है। इस कदम का उद्देश्य रोगी सुरक्षा सुनिश्चित करना और दवा अनुमोदन प्रोटोकॉल का कड़ाई से पालन करने को बढ़ावा देना है, जिससे सार्वजनिक स्वास्थ्य को संभावित हानिकारक दवा मिश्रणों से बचाया जा सके।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129767545,imgsize-442356.cms",
-        "link": "https://timesofindia.indiatimes.com/india/centre-flags-unapproved-drug-combinations-raises-safety-concerns/articleshow/129767510.cms"
-    },
-    {
-        "id": "e3484ba5",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Congress Slams PM Modi's 'One-Way' Middle East Speech",
-                "content": "Congress MP Sukhdeo Bhagat criticized PM Modi's recent parliamentary address on the West Asia conflict. Bhagat alleged the speech was a 'one-way communication,' lacking scope for discussion on the critical issue. He emphasized the need for a comprehensive and open dialogue instead of a monologue."
-            },
-            "kn": {
-                "title": "ಕಾಂಗ್ರೆಸ್ PM ಮೋದಿ ಅವರ 'ಏಕಮುಖ' ಮಧ್ಯಪ್ರಾಚ್ಯ ಭಾಷಣವನ್ನು ಟೀಕಿಸಿದೆ",
-                "content": "ಕಾಂಗ್ರೆಸ್ ಸಂಸದ ಸುಖದೇವ್ ಭಗತ್ ಅವರು ಪಶ್ಚಿಮ ಏಷ್ಯಾ ಸಂಘರ್ಷದ ಕುರಿತು ಪ್ರಧಾನಿ ಮೋದಿ ಅವರ ಇತ್ತೀಚಿನ ಸಂಸದೀಯ ಭಾಷಣವನ್ನು ಟೀಕಿಸಿದರು. ಭಗತ್ ಅವರು ಈ ಭಾಷಣವು 'ಏಕಮುಖ ಸಂವಹನ' ಆಗಿದ್ದು, ನಿರ್ಣಾಯಕ ವಿಷಯದ ಬಗ್ಗೆ ಚರ್ಚೆಗೆ ಅವಕಾಶವಿಲ್ಲ ಎಂದು ಆರೋಪಿಸಿದರು. ಅವರು ಏಕಭಾಷಣದ ಬದಲಿಗೆ ಸಮಗ್ರ ಮತ್ತು ಮುಕ್ತ ಸಂವಾದದ ಅಗತ್ಯವನ್ನು ಒತ್ತಿ ಹೇಳಿದರು."
-            },
-            "mr": {
-                "title": "काँग्रेसने PM मोदींच्या 'एकतर्फी' मध्य पूर्व भाषणावर टीका केली",
-                "content": "काँग्रेस खासदार सुखदेव भगत यांनी पश्चिम आशिया संघर्षावर पंतप्रधान मोदींच्या अलीकडील संसदीय भाषणावर टीका केली. भगत यांनी आरोप केला की हे भाषण 'एकतर्फी संवाद' होते आणि गंभीर मुद्द्यावर चर्चेला वाव नव्हता. त्यांनी एका निवेदनाच्या ऐवजी सर्वसमावेशक आणि खुल्या संवादाची गरज अधोरेखित केली."
-            },
-            "hi": {
-                "title": "कांग्रेस ने PM मोदी के 'एकतरफा' मध्य पूर्व भाषण की निंदा की",
-                "content": "कांग्रेस सांसद सुखदेव भगत ने पश्चिम एशिया संघर्ष पर प्रधानमंत्री मोदी के हालिया संसदीय संबोधन की आलोचना की. भगत ने आरोप लगाया कि यह भाषण 'एकतरफा संवाद' था, जिसमें गंभीर मुद्दे पर चर्चा की कोई गुंजाइश नहीं थी. उन्होंने एकालाप के बजाय एक व्यापक और खुले संवाद की आवश्यकता पर जोर दिया."
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129767267,imgsize-27758.cms",
-        "link": "https://timesofindia.indiatimes.com/india/congress-mp-sukhdeo-bhagat-slams-pm-modis-one-way-address-on-west-asia-conflict/articleshow/129766883.cms"
     }
 ]
