@@ -1,5 +1,29 @@
 [
     {
+        "id": "ceb9e140",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "J&K Police Busts Covid Medical Supply Fraud",
+                "content": "J&K police's economic offences wing raided Srinagar and Budgam over a Covid-19 medical supply fraud. Two men allegedly impersonated government officials, issuing fake procurement orders to siphon funds during the pandemic. A Delhi firm's complaint led to the raids and evidence recovery, exposing a deceitful scheme to illicitly gain money from medical supplies."
+            },
+            "kn": {
+                "title": "ಜಮ್ಮು ಮತ್ತು ಕಾಶ್ಮೀರ ಪೊಲೀಸರಿಂದ ಕೋವಿಡ್ ವೈದ್ಯಕೀಯ ಪೂರೈಕೆ ವಂಚನೆ ಬಯಲು",
+                "content": "ಜಮ್ಮು ಮತ್ತು ಕಾಶ್ಮೀರ ಪೊಲೀಸರ ಆರ್ಥಿಕ ಅಪರಾಧ ವಿಭಾಗವು ಕೋವಿಡ್-19 ವೈದ್ಯಕೀಯ ಪೂರೈಕೆ ವಂಚನೆಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಶ್ರೀನಗರ ಮತ್ತು ಬುಡ್ಗಾಮ್‌ನಲ್ಲಿ ದಾಳಿ ನಡೆಸಿದೆ. ಇಬ್ಬರು ವ್ಯಕ್ತಿಗಳು ಸರ್ಕಾರಿ ಅಧಿಕಾರಿಗಳ ಸೋಗಿನಲ್ಲಿ ನಕಲಿ ಖರೀದಿ ಆದೇಶಗಳನ್ನು ನೀಡಿ ಸಾಂಕ್ರಾಮಿಕ ಸಮಯದಲ್ಲಿ ಹಣವನ್ನು ಲೂಟಿ ಮಾಡಿದ್ದಾರೆ ಎನ್ನಲಾಗಿದೆ. ದೆಹಲಿ ಮೂಲದ ಸಂಸ್ಥೆಯ ದೂರಿನಿಂದ ದಾಳಿ ಮತ್ತು ಸಾಕ್ಷ್ಯಗಳ ವಶಪಡಿಸಿಕೊಳ್ಳುವಿಕೆಗೆ ಕಾರಣವಾಯಿತು, ಇದು ವೈದ್ಯಕೀಯ ಪೂರೈಕೆಗಳಿಂದ ಅಕ್ರಮವಾಗಿ ಹಣ ಗಳಿಸುವ ಮೋಸದ ಯೋಜನೆಯನ್ನು ಬಯಲುಮಾಡಿದೆ."
+            },
+            "mr": {
+                "title": "जम्मू-काश्मीर पोलिसांनी कोविड वैद्यकीय पुरवठा घोटाळ्याचा पर्दाफाश केला",
+                "content": "जम्मू-काश्मीर पोलिसांच्या आर्थिक गुन्हे शाखेने कोविड-19 वैद्यकीय पुरवठा घोटाळ्याप्रकरणी श्रीनगर आणि बुडगाम येथे छापे टाकले. दोन व्यक्तींनी सरकारी अधिकाऱ्यांचा वेश धारण करून बनावट खरेदी आदेश जारी केले आणि महामारीदरम्यान निधी हडप केला. दिल्लीतील एका कंपनीच्या तक्रारीमुळे छापे आणि पुरावे जप्त करण्यात आले, ज्यामुळे वैद्यकीय पुरवठ्यातून बेकायदेशीरपणे पैसे कमविण्याची कपटी योजना उघड झाली."
+            },
+            "hi": {
+                "title": "जम्मू-कश्मीर पुलिस ने कोविड मेडिकल सप्लाई धोखाधड़ी का भंडाफोड़ किया",
+                "content": "जम्मू-कश्मीर पुलिस की आर्थिक अपराध शाखा ने कोविड-19 मेडिकल सप्लाई धोखाधड़ी के संबंध में श्रीनगर और बडगाम में छापे मारे। आरोप है कि दो लोगों ने सरकारी अधिकारियों का रूप धारण कर नकली खरीद आदेश जारी किए और महामारी के दौरान धन की हेराफेरी की। दिल्ली की एक फर्म की शिकायत से छापे पड़े और सबूत बरामद हुए, जिससे मेडिकल सप्लाई से अवैध रूप से पैसा कमाने की कपटपूर्ण योजना का खुलासा हुआ।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129833235,imgsize-105420.cms",
+        "link": "https://timesofindia.indiatimes.com/india/raids-in-srinagar-badgam-for-fake-covid-medical-supply-orders/articleshow/129833219.cms"
+    },
+    {
         "id": "6c9127da",
         "category": "National",
         "translations": {
@@ -1894,29 +1918,5 @@
         },
         "image": "https://static.toiimg.com/photo/msid-129793234,imgsize-24832.cms",
         "link": "https://timesofindia.indiatimes.com/world/middle-east/uae-weather-forecast-when-will-the-unsettled-rain-thunder-and-gusty-winds-finally-end-spring-prediction-for-the-emirates/articleshow/129792481.cms"
-    },
-    {
-        "id": "ea88d9b8",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "Jazeera Airways Boosts Kuwait's Food Supply",
-                "content": "Jazeera Airways rapidly airlifted 4.5 tonnes of fresh Indian produce to Kuwait, bolstering supermarket stock amid a regional crisis. This vital operation ensures food security, preventing shortages and demonstrating the airline's commitment to maintaining essential supplies for Kuwaiti residents during challenging times."
-            },
-            "kn": {
-                "title": "ಜಝೀರಾ ಏರ್‌ವೇಸ್ ಕುವೈತ್‌ನ ಆಹಾರ ಪೂರೈಕೆಯನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ",
-                "content": "ಜಝೀರಾ ಏರ್‌ವೇಸ್ ಪ್ರಾದೇಶಿಕ ಬಿಕ್ಕಟ್ಟಿನ ನಡುವೆ ಕುವೈತ್‌ನ ಸೂಪರ್‌ಮಾರ್ಕೆಟ್‌ಗಳ ದಾಸ್ತಾನು ಬಲಪಡಿಸಲು 4.5 ಟನ್ ತಾಜಾ ಭಾರತೀಯ ಉತ್ಪನ್ನಗಳನ್ನು ವೇಗವಾಗಿ ವಿಮಾನದಲ್ಲಿ ಸಾಗಿಸಿದೆ. ಈ ಮಹತ್ವದ ಕಾರ್ಯಾಚರಣೆಯು ಆಹಾರ ಭದ್ರತೆಯನ್ನು ಖಚಿತಪಡಿಸುತ್ತದೆ, ಕೊರತೆಯನ್ನು ತಡೆಯುತ್ತದೆ ಮತ್ತು ಕಷ್ಟದ ಸಮಯದಲ್ಲಿ ಕುವೈತ್ ನಿವಾಸಿಗಳಿಗೆ ಅಗತ್ಯ ಸರಬರಾಜುಗಳನ್ನು ನಿರ್ವಹಿಸುವ ಏರ್‌ಲೈನ್‌ನ ಬದ್ಧತೆಯನ್ನು ಪ್ರದರ್ಶಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "जझीरा एअरवेजने कुवेतचा अन्नपुरवठा वाढवला",
-                "content": "जझीरा एअरवेजने एका प्रादेशिक संकटादरम्यान कुवेतमधील सुपरमार्केटमधील साठा मजबूत करण्यासाठी 4.5 टन ताजी भारतीय उत्पादने वेगाने हवाईमार्गे पोहोचवली. ही महत्त्वपूर्ण कारवाई अन्नसुरक्षितता सुनिश्चित करते, तुटवडा टाळते आणि आव्हानात्मक काळात कुवेतच्या रहिवाशांसाठी आवश्यक वस्तूंचा पुरवठा कायम ठेवण्याची एअरलाइनची वचनबद्धता दर्शवते."
-            },
-            "hi": {
-                "title": "जज़ीरा एयरवेज ने कुवैत की खाद्य आपूर्ति बढ़ाई",
-                "content": "जज़ीरा एयरवेज ने एक क्षेत्रीय संकट के बीच कुवैत के सुपरमार्केट स्टॉक को मजबूत करने के लिए 4.5 टन ताजे भारतीय उत्पादों को तेजी से हवाई मार्ग से पहुंचाया। यह महत्वपूर्ण अभियान खाद्य सुरक्षा सुनिश्चित करता है, कमी को रोकता है और चुनौतीपूर्ण समय में कुवैती निवासियों के लिए आवश्यक आपूर्ति बनाए रखने के लिए एयरलाइन की प्रतिबद्धता को दर्शाता है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129792075,imgsize-157350.cms",
-        "link": "https://timesofindia.indiatimes.com/world/middle-east/kuwait-news-jazeera-airways-airlifts-4-5-tonnes-of-indian-produce-to-kuwait-as-crisis-strains-supermarket-shelves/articleshow/129792075.cms"
     }
 ]
