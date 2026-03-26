@@ -1,5 +1,29 @@
 [
     {
+        "id": "98c0a8cc",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "NMC: Empty Boards, State Directives",
+                "content": "The National Medical Commission (NMC) is under fire as key board positions remain vacant, even as it directs states to urgently fill teacher vacancies in medical colleges. This incongruity highlights a significant challenge in India's medical education system. Critics question NMC's ability to effectively lead reforms and ensure quality standards when its internal structure is incomplete."
+            },
+            "kn": {
+                "title": "ಎನ್‌ಎಂಸಿ: ಖಾಲಿ ಮಂಡಳಿಗಳು, ರಾಜ್ಯಗಳಿಗೆ ನಿರ್ದೇಶನಗಳು",
+                "content": "ರಾಷ್ಟ್ರೀಯ ವೈದ್ಯಕೀಯ ಆಯೋಗ (ಎನ್‌ಎಂಸಿ) ದಲ್ಲಿ ಪ್ರಮುಖ ಮಂಡಳಿ ಸ್ಥಾನಗಳು ಖಾಲಿ ಉಳಿದಿರುವ ಹಿನ್ನೆಲೆಯಲ್ಲಿ ಟೀಕೆಗೆ ಗುರಿಯಾಗಿದೆ. ಆದರೆ ಅದೇ ಸಮಯದಲ್ಲಿ, ರಾಜ್ಯಗಳಿಗೆ ವೈದ್ಯಕೀಯ ಕಾಲೇಜುಗಳಲ್ಲಿ ಶಿಕ್ಷಕರ ಹುದ್ದೆಗಳನ್ನು ತುರ್ತಾಗಿ ಭರ್ತಿ ಮಾಡಲು ನಿರ್ದೇಶನ ನೀಡಿದೆ. ಈ ಅಸಾಮರಸ್ಯವು ಭಾರತದ ವೈದ್ಯಕೀಯ ಶಿಕ್ಷಣ ವ್ಯವಸ್ಥೆಯಲ್ಲಿನ ಮಹತ್ವದ ಸವಾಲನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ತನ್ನ ಆಂತರಿಕ ರಚನೆಯು ಅಪೂರ್ಣವಾದಾಗ ಎನ್‌ಎಂಸಿ ಸುಧಾರಣೆಗಳನ್ನು ಪರಿಣಾಮಕಾರಿಯಾಗಿ ಮುನ್ನಡೆಸಲು ಮತ್ತು ಗುಣಮಟ್ಟದ ಮಾನದಂಡಗಳನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು ಹೇಗೆ ಸಾಧ್ಯ ಎಂದು ವಿಮರ್ಶಕರು ಪ್ರಶ್ನಿಸುತ್ತಾರೆ."
+            },
+            "mr": {
+                "title": "एनएमसी: रिक्त मंडळे, राज्यांसाठी निर्देश",
+                "content": "राष्ट्रीय वैद्यकीय आयोग (एनएमसी) सध्या टीकेच्या घेऱ्यात आहे कारण, एका बाजूला त्याचीच प्रमुख मंडळाची पदे रिक्त आहेत, तर दुसरीकडे ते राज्यांना वैद्यकीय महाविद्यालयांमधील शिक्षकांच्या रिक्त जागा तातडीने भरण्याचे निर्देश देत आहे. हा विरोधाभास भारतातील वैद्यकीय शिक्षण प्रणालीतील एक मोठे आव्हान दर्शवतो. जेव्हा एनएमसीची अंतर्गत रचनाच अपूर्ण असते, तेव्हा ती सुधारणांचे प्रभावीपणे नेतृत्व करून गुणवत्ता मानके कशी सुनिश्चित करू शकते, असा प्रश्न समीक्षक विचारत आहेत."
+            },
+            "hi": {
+                "title": "एनएमसी: खाली बोर्ड, राज्यों को निर्देश",
+                "content": "राष्ट्रीय चिकित्सा आयोग (एनएमसी) सवालों के घेरे में है क्योंकि इसके प्रमुख बोर्ड पद खाली पड़े हैं, जबकि यह राज्यों को मेडिकल कॉलेजों में शिक्षकों की रिक्तियों को तत्काल भरने का निर्देश दे रहा है। यह विसंगति भारत की चिकित्सा शिक्षा प्रणाली में एक महत्वपूर्ण चुनौती को उजागर करती है। आलोचकों का सवाल है कि जब एनएमसी की अपनी आंतरिक संरचना अधूरी है, तो यह प्रभावी ढंग से सुधारों का नेतृत्व कैसे कर सकता है और गुणवत्ता मानकों को कैसे सुनिश्चित कर सकता है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129815224,imgsize-40574.cms",
+        "link": "https://timesofindia.indiatimes.com/india/nmc-boards-lie-vacant-as-it-directs-states-to-deal-with-teacher-vacancies/articleshow/129815231.cms"
+    },
+    {
         "id": "31dda7ac",
         "category": "National",
         "translations": {
@@ -1894,29 +1918,5 @@
         },
         "image": "https://static.toiimg.com/photo/msid-129768873,imgsize-95378.cms",
         "link": "https://timesofindia.indiatimes.com/india/adversely-affected-overall-merit-sc-slams-bias-in-evaluating-women-officers-for-permanent-commission/articleshow/129768386.cms"
-    },
-    {
-        "id": "f5bb566d",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "India Cracks Down on GLP-1 Weight-Loss Drug Sales",
-                "content": "India's government is tightening oversight on GLP-1 weight-loss drugs like Ozempic, driven by rising concerns over unauthorized sales and misuse. This crackdown aims to ensure responsible dispensing, mitigate public health risks from uncontrolled availability, and protect consumers. The move underscores strict regulatory compliance for these powerful pharmaceuticals, safeguarding public health and preventing misuse."
-            },
-            "kn": {
-                "title": "ಭಾರತದಲ್ಲಿ GLP-1 ತೂಕ ಇಳಿಸುವ ಔಷಧಿಗಳ ಮಾರಾಟದ ಮೇಲೆ ನಿಗಾ",
-                "content": "ಅನಧಿಕೃತ ಮಾರಾಟ ಮತ್ತು ದುರುಪಯೋಗದ ಹೆಚ್ಚುತ್ತಿರುವ ಕಳವಳಗಳ ನಡುವೆ ಭಾರತ ಸರ್ಕಾರವು ಓಝೆಮ್ಪಿಕ್‌ನಂತಹ GLP-1 ತೂಕ ಇಳಿಸುವ ಔಷಧಿಗಳ ಮೇಲೆ ನಿಗಾ ಇಡುತ್ತಿದೆ. ಈ ಕ್ರಮವು ಜವಾಬ್ದಾರಿಯುತ ವಿತರಣೆಯನ್ನು ಖಚಿತಪಡಿಸುವುದು, ಅನಿಯಂತ್ರಿತ ಲಭ್ಯತೆಯಿಂದ ಸಾರ್ವಜನಿಕ ಆರೋಗ್ಯ ಅಪಾಯಗಳನ್ನು ಕಡಿಮೆ ಮಾಡುವುದು ಮತ್ತು ಗ್ರಾಹಕರನ್ನು ರಕ್ಷಿಸುವ ಗುರಿ ಹೊಂದಿದೆ. ಈ ಶಕ್ತಿಯುತ ಔಷಧಿಗಳಿಗಾಗಿ ಕಟ್ಟುನಿಟ್ಟಾದ ನಿಯಂತ್ರಕ ಅನುಸರಣೆಯನ್ನು ಇದು ಒತ್ತಿಹೇಳುತ್ತದೆ, ಸಾರ್ವಜನಿಕ ಆರೋಗ್ಯವನ್ನು ರಕ್ಷಿಸುತ್ತದೆ ಮತ್ತು ದುರುಪಯೋಗವನ್ನು ತಡೆಯುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "भारतात GLP-1 वजन कमी करणाऱ्या औषधांच्या विक्रीवर सरकारची करडी नजर",
-                "content": "अनधिकृत विक्री आणि गैरवापराच्या वाढत्या चिंतेमुळे भारत सरकारने ओझेम्पिकसारख्या GLP-1 वजन कमी करणाऱ्या औषधांवर देखरेख वाढवली आहे. या कारवाईचा उद्देश जबाबदार वितरण सुनिश्चित करणे, अनियंत्रित उपलब्धतेमुळे होणारे सार्वजनिक आरोग्य धोके कमी करणे आणि ग्राहकांचे संरक्षण करणे आहे. हे पाऊल या शक्तिशाली औषधांसाठी कठोर नियामक अनुपालनावर भर देते, सार्वजनिक आरोग्याचे रक्षण करते आणि गैरवापर टाळते."
-            },
-            "hi": {
-                "title": "भारत में GLP-1 वजन घटाने वाली दवाओं की बिक्री पर सरकार की कड़ी कार्रवाई",
-                "content": "अनधिकृत बिक्री और दुरुपयोग की बढ़ती चिंताओं के कारण भारत सरकार ओजेम्पिक जैसी GLP-1 वजन घटाने वाली दवाओं पर निगरानी बढ़ा रही है। इस कार्रवाई का उद्देश्य जिम्मेदार वितरण सुनिश्चित करना, अनियंत्रित उपलब्धता से होने वाले सार्वजनिक स्वास्थ्य जोखिमों को कम करना और उपभोक्ताओं की सुरक्षा करना है। यह कदम इन शक्तिशाली फार्मास्यूटिकल्स के लिए सख्त नियामक अनुपालन पर जोर देता है, सार्वजनिक स्वास्थ्य की रक्षा करता है और दुरुपयोग को रोकता है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129767740,imgsize-63492.cms",
-        "link": "https://timesofindia.indiatimes.com/india/govt-tightens-watch-on-glp-1-weight-loss-drugs-amid-concerns-over-unauthorised-sales/articleshow/129767740.cms"
     }
 ]
