@@ -1,5 +1,53 @@
 [
     {
+        "id": "548f131b",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Karnataka's Welfare Schemes Strain Finances, Development Suffers",
+                "content": "Karnataka's finances are strained by welfare schemes, leading to cuts in development programs. A CAG report highlights ₹52,525 crore spent on five guarantee schemes, consuming significant revenue. This forces increased borrowing, impacts capital expenditure, and raises concerns about future growth and rising debt. The state prioritizes 'freebies first,' risking long-term development."
+            },
+            "kn": {
+                "title": "ಕರ್ನಾಟಕದ ಕಲ್ಯಾಣ ಯೋಜನೆಗಳಿಂದ ಆರ್ಥಿಕ ಸಂಕಷ್ಟ, ಅಭಿವೃದ್ಧಿ ಕಡಿತ",
+                "content": "ಕರ್ನಾಟಕದ ಆರ್ಥಿಕತೆಯು ಕಲ್ಯಾಣ ಯೋಜನೆಗಳಿಂದ ತಗ್ಗಿದೆ, ಇದು ಅಭಿವೃದ್ಧಿ ಕಾರ್ಯಕ್ರಮಗಳಲ್ಲಿ ಕಡಿತಕ್ಕೆ ಕಾರಣವಾಗಿದೆ. ಸಿಎಜಿ ವರದಿಯ ಪ್ರಕಾರ, ಐದು ಗ್ಯಾರಂಟಿ ಯೋಜನೆಗಳಿಗಾಗಿ ₹52,525 ಕೋಟಿ ಖರ್ಚು ಮಾಡಲಾಗಿದ್ದು, ಇದು ಗಣನೀಯ ಆದಾಯವನ್ನು ಬಳಸಿದೆ. ಇದರಿಂದ ಸಾಲ ಹೆಚ್ಚಳ, ಬಂಡವಾಳ ವೆಚ್ಚದ ಮೇಲೆ ಪರಿಣಾಮ ಮತ್ತು ಭವಿಷ್ಯದ ಬೆಳವಣಿಗೆ ಹಾಗೂ ಹೆಚ್ಚುತ್ತಿರುವ ಸಾಲದ ಕುರಿತು ಕಳವಳ ಮೂಡಿದೆ. ರಾಜ್ಯವು 'ಉಚಿತ ಯೋಜನೆಗಳಿಗೆ' ಆದ್ಯತೆ ನೀಡಿ, ದೀರ್ಘಕಾಲೀನ ಅಭಿವೃದ್ಧಿಯನ್ನು ಅಪಾಯಕ್ಕೆ ಸಿಲುಕಿಸುತ್ತಿದೆ."
+            },
+            "mr": {
+                "title": "कर्नाटकच्या कल्याणकारी योजनांमुळे आर्थिक ताण, विकास रखडला",
+                "content": "कर्नाटकच्या कल्याणकारी योजनांमुळे राज्याच्या आर्थिक स्थितीवर ताण आला आहे, ज्यामुळे विकास कार्यक्रमांमध्ये कपात करावी लागत आहे. कॅगच्या अहवालानुसार, पाच हमी योजनांवर ₹52,525 कोटी खर्च झाले असून, यामुळे मोठ्या प्रमाणावर महसूल वापरला गेला आहे. परिणामी कर्ज वाढले आहे, भांडवली खर्चावर परिणाम झाला आहे आणि भविष्यातील वाढ व वाढत्या कर्जाबाबत चिंता निर्माण झाली आहे. राज्याने 'आधी मोफत योजना'ंना प्राधान्य दिल्याने दीर्घकालीन विकासाला धोका निर्माण झाला आहे."
+            },
+            "hi": {
+                "title": "कर्नाटक की कल्याणकारी योजनाओं से वित्त पर दबाव, विकास प्रभावित",
+                "content": "कर्नाटक की वित्तीय स्थिति कल्याणकारी योजनाओं के कारण तनावग्रस्त है, जिससे विकास कार्यक्रमों में कटौती हो रही है। सीएजी की रिपोर्ट में बताया गया है कि पांच गारंटी योजनाओं पर ₹52,525 करोड़ खर्च किए गए, जिससे राजस्व का बड़ा हिस्सा उपयोग हुआ। इससे कर्ज बढ़ा है, पूंजीगत व्यय पर असर पड़ा है और भविष्य की वृद्धि व बढ़ते कर्ज को लेकर चिंताएँ बढ़ी हैं। राज्य 'पहले मुफ्त योजनाएँ' को प्राथमिकता दे रहा है, जिससे दीर्घकालिक विकास जोखिम में है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129831431,imgsize-79384.cms",
+        "link": "https://timesofindia.indiatimes.com/india/freebies-first-development-later-karnataka-cuts-programs-to-fund-welfare-schemes-cag-flags-deficit-risks/articleshow/129831323.cms"
+    },
+    {
+        "id": "0cef53eb",
+        "category": "Entertainment",
+        "translations": {
+            "en": {
+                "title": "Arjun Rampal's 'Bharat Mata Ki Jai' Remark Sparks Row, GF Hits Back at Critic",
+                "content": "Actor Arjun Rampal's \"Bharat Mata Ki Jai\" remark at an awards show, referencing the 26/11 attacks, ignited controversy. Columnist Shobhaa De criticized it as a loyalty display. In response, Rampal's girlfriend hit back, defending his patriotism, while other supporters also weighed in. The incident fueled a public debate on the statement's intent and nationalistic expression."
+            },
+            "kn": {
+                "title": "ಅರ್ಜುನ್ ರಾಂಪಾಲ್‌ನ 'ಭಾರತ್ ಮಾತಾ ಕಿ ಜೈ' ಹೇಳಿಕೆ ವಿವಾದಕ್ಕೆ, ಗೆಳತಿ ಟೀಕಾಕಾರರಿಗೆ ತಿರುಗೇಟು",
+                "content": "ನಟ ಅರ್ಜುನ್ ರಾಂಪಾಲ್ ಅವರ 26/11 ದಾಳಿಯನ್ನು ಉಲ್ಲೇಖಿಸಿ ಪ್ರಶಸ್ತಿ ಸಮಾರಂಭದಲ್ಲಿ ಹೇಳಿದ \"ಭಾರತ್ ಮಾತಾ ಕಿ ಜೈ\" ಹೇಳಿಕೆ ವಿವಾದಕ್ಕೆ ಕಾರಣವಾಯಿತು. ಕಾಲಮಿಸ್ಟ್ ಶೋಭಾ ಡೆ ಇದನ್ನು ನಿಷ್ಠೆಯ ಪ್ರದರ್ಶನ ಎಂದು ಟೀಕಿಸಿದರು. ಇದಕ್ಕೆ ಪ್ರತಿಕ್ರಿಯೆಯಾಗಿ, ರಾಂಪಾಲ್ ಅವರ ಗೆಳತಿ ಅವರ ದೇಶಭಕ್ತಿಯನ್ನು ಸಮರ್ಥಿಸಿಕೊಂಡರು, ಜೊತೆಗೆ ಇತರ ಬೆಂಬಲಿಗರು ಕೂಡಾ ತಮ್ಮ ಅಭಿಪ್ರಾಯ ವ್ಯಕ್ತಪಡಿಸಿದರು. ಈ ಘಟನೆ ಹೇಳಿಕೆಯ ಉದ್ದೇಶ ಮತ್ತು ರಾಷ್ಟ್ರೀಯತೆಯ ಅಭಿವ್ಯಕ್ತಿಯ ಕುರಿತು ಸಾರ್ವಜನಿಕ ಚರ್ಚೆಗೆ ಕಾರಣವಾಯಿತು."
+            },
+            "mr": {
+                "title": "अर्जुन रामपालच्या 'भारत माता की जय' टिप्पणीवरून वाद, गर्लफ्रेंडचा समीक्षकांना पलटवार",
+                "content": "अभिनेता अर्जुन रामपालच्या पुरस्कार सोहळ्यात 26/11 च्या हल्ल्यांचा उल्लेख करत केलेल्या \"भारत माता की जय\" या टिप्पणीमुळे वाद निर्माण झाला. स्तंभलेखिका शोभा डे यांनी याला निष्ठेचे प्रदर्शन म्हणत टीका केली. याला प्रत्युत्तर म्हणून, रामपालच्या गर्लफ्रेंडने त्याच्या देशभक्तीचा बचाव केला, तर इतर समर्थकांनीही आपले मत मांडले. या घटनेमुळे विधानाचा हेतू आणि राष्ट्रवादी अभिव्यक्ती यावर सार्वजनिक चर्चा सुरू झाली."
+            },
+            "hi": {
+                "title": "अर्जुन रामपाल की 'भारत माता की जय' टिप्पणी पर विवाद, गर्लफ्रेंड ने आलोचकों को दिया जवाब",
+                "content": "अभिनेता अर्जुन रामपाल की 26/11 हमलों का जिक्र करते हुए एक अवार्ड शो में की गई \"भारत माता की जय\" टिप्पणी ने विवाद खड़ा कर दिया। स्तंभकार शोभा डे ने इसे निष्ठा का प्रदर्शन बताकर आलोचना की। जवाब में, रामपाल की गर्लफ्रेंड ने उनकी देशभक्ति का बचाव किया, जबकि अन्य समर्थकों ने भी अपनी बात रखी। इस घटना ने बयान के इरादे और राष्ट्रवादी अभिव्यक्ति पर सार्वजनिक बहस को हवा दी।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129829122,imgsize-49160.cms",
+        "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/arjun-rampals-girlfriend-gabriella-hits-back-at-shobhaa-des-aricle-criticising-the-dhurandhar-2-actor-for-saying-bharat-mata-ki-jai/articleshow/129829082.cms"
+    },
+    {
         "id": "dd0db42c",
         "category": "National",
         "translations": {
@@ -1870,53 +1918,5 @@
         },
         "image": "https://static.toiimg.com/photo/msid-129781071,imgsize-108208.cms",
         "link": "https://timesofindia.indiatimes.com/sports/cricket/news/aditya-birla-group-toi-group-bolt-ventures-blackstone-acquire-rcb-for-1-78-billion/articleshow/129780659.cms"
-    },
-    {
-        "id": "8759b4c6",
-        "category": "Sports",
-        "translations": {
-            "en": {
-                "title": "Kohli's Coaching Clinic: Guiding Salt at RCB Nets",
-                "content": "During a recent RCB practice, Virat Kohli was spotted offering valuable batting tips to English opener Phil Salt. Kohli, known for his prowess with the bat, took on a mentorship role to help Salt bounce back from a dip in form. This unique session highlights Kohli's leadership and commitment to team performance, focusing on individual improvement."
-            },
-            "kn": {
-                "title": "ಕೊಹ್ಲಿಯ ಕೋಚಿಂಗ್ ಕ್ಲಿನಿಕ್: ಆರ್‌ಸಿಬಿ ನೆಟ್ಸ್‌ನಲ್ಲಿ ಸಾಲ್ಟ್‌ಗೆ ಮಾರ್ಗದರ್ಶನ",
-                "content": "ಇತ್ತೀಚಿನ ಆರ್‌ಸಿಬಿ ಅಭ್ಯಾಸದ ವೇಳೆ, ವಿರಾಟ್ ಕೊಹ್ಲಿ ಇಂಗ್ಲಿಷ್ ಓಪನರ್ ಫಿಲ್ ಸಾಲ್ಟ್‌ಗೆ ಬ್ಯಾಟಿಂಗ್ ಸಲಹೆಗಳನ್ನು ನೀಡುತ್ತಿರುವುದು ಕಂಡುಬಂದಿದೆ. ಬ್ಯಾಟ್‌ನೊಂದಿಗೆ ತಮ್ಮ ಪ್ರಾವೀಣ್ಯತೆಗೆ ಹೆಸರುವಾಸಿಯಾದ ಕೊಹ್ಲಿ, ಸಾಲ್ಟ್ ಅವರ ಫಾರ್ಮ್ ಕುಸಿತದಿಂದ ಚೇತರಿಸಿಕೊಳ್ಳಲು ಮಾರ್ಗದರ್ಶಕರ ಪಾತ್ರ ವಹಿಸಿದರು. ಈ ವಿಶೇಷ ಅಧಿವೇಶನವು ಕೊಹ್ಲಿಯ ನಾಯಕತ್ವ ಮತ್ತು ತಂಡದ ಕಾರ್ಯಕ್ಷಮತೆಗೆ ಅವರ ಬದ್ಧತೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ, ವೈಯಕ್ತಿಕ ಸುಧಾರಣೆಗೆ ಗಮನ ನೀಡುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "कोहलीचा कोचिंग क्लिनिक: आरसीबी नेट्समध्ये सॉल्टला मार्गदर्शन",
-                "content": "अलीकडील आरसीबी सरावादरम्यान, विराट कोहली इंग्लिश सलामीवीर फिल सॉल्टला महत्त्वपूर्ण फलंदाजीच्या टिप्स देताना दिसला. फलंदाजीतील आपल्या कौशल्यासाठी ओळखल्या जाणाऱ्या कोहलीने सॉल्टला फॉर्ममधील घसरणेशतून बाहेर पडण्यास मदत करण्यासाठी मार्गदर्शकाची भूमिका स्वीकारली. हे अनोखे सत्र कोहलीचे नेतृत्व आणि संघाच्या कामगिरीप्रती त्याची बांधिलकी अधोरेखित करते, तसेच वैयक्तिक सुधारणेवर लक्ष केंद्रित करते."
-            },
-            "hi": {
-                "title": "कोहली का कोचिंग क्लिनिक: आरसीबी नेट्स में सॉल्ट को मार्गदर्शन",
-                "content": "हाल ही में एक आरसीबी अभ्यास सत्र के दौरान, विराट कोहली को इंग्लिश सलामी बल्लेबाज फिल सॉल्ट को बहुमूल्य बल्लेबाजी युक्तियाँ देते हुए देखा गया। बल्लेबाजी में अपनी महारत के लिए जाने जाने वाले कोहली ने सॉल्ट को फॉर्म में गिरावट से उबरने में मदद करने के लिए एक मार्गदर्शक की भूमिका निभाई। यह अनूठा सत्र कोहली के नेतृत्व और टीम के प्रदर्शन के प्रति उनकी प्रतिबद्धता को उजागर करता है, जिसमें व्यक्तिगत सुधार पर ध्यान केंद्रित किया गया है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129791053,imgsize-196322.cms",
-        "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-virat-kohli-turns-bowler-to-help-his-opening-partner-phil-salt-watch/articleshow/129791055.cms"
-    },
-    {
-        "id": "86780b8c",
-        "category": "Sports",
-        "translations": {
-            "en": {
-                "title": "IPL Captains to Discuss Key Rules with BCCI",
-                "content": "IPL captains will meet BCCI officials on March 25 to discuss crucial rule changes for the upcoming season. The agenda includes the two-bouncer rule, detailed ball replacement specifics (especially in the second innings), bat checks, saliva use, and the retired-out provision. Match referees and umpires will also be present to clarify regulations, aiming for a smoother IPL 2026."
-            },
-            "kn": {
-                "title": "IPL ನಾಯಕರು BCCI ಜೊತೆ ಪ್ರಮುಖ ನಿಯಮಗಳ ಬಗ್ಗೆ ಚರ್ಚಿಸಲಿದ್ದಾರೆ",
-                "content": "IPL ನಾಯಕರು ಮಾರ್ಚ್ 25 ರಂದು BCCI ಅಧಿಕಾರಿಗಳನ್ನು ಭೇಟಿ ಮಾಡಿ ಮುಂಬರುವ ಸೀಸನ್‌ಗಾಗಿ ಪ್ರಮುಖ ನಿಯಮ ಬದಲಾವಣೆಗಳ ಬಗ್ಗೆ ಚರ್ಚಿಸಲಿದ್ದಾರೆ. ಏಜೆಂಡಾದಲ್ಲಿ ಎರಡು ಬೌನ್ಸರ್ ನಿಯಮ, ಚೆಂಡು ಬದಲಾವಣೆ ವಿವರಗಳು (ವಿಶೇಷವಾಗಿ ಎರಡನೇ ಇನ್ನಿಂಗ್ಸ್‌ನಲ್ಲಿ), ಬ್ಯಾಟ್ ಪರಿಶೀಲನೆ, ಲಾಲಾರಸ ಬಳಕೆ ಮತ್ತು ರಿಟೈರ್ಡ್-ಔಟ್ ನಿಯಮ ಸೇರಿವೆ. ಪಂದ್ಯದ ರೆಫರಿಗಳು ಮತ್ತು ಅಂಪೈರ್‌ಗಳು ಸಹ ನಿಯಮಗಳನ್ನು ಸ್ಪಷ್ಟಪಡಿಸಲು ಹಾಜರಿರುತ್ತಾರೆ, ಇದು ಸುಗಮ IPL 2026 ಕ್ಕೆ ಸಹಕಾರಿ."
-            },
-            "mr": {
-                "title": "आयपीएल कर्णधार बीसीसीआयसोबत महत्त्वाच्या नियमांवर चर्चा करणार",
-                "content": "आयपीएल कर्णधार 25 मार्च रोजी बीसीसीआय अधिकाऱ्यांची भेट घेऊन आगामी हंगामासाठी महत्त्वपूर्ण नियमांवर चर्चा करणार आहेत. अजेंड्यावर दोन-बाउन्सर नियम, बॉल बदलण्याची सविस्तर माहिती (विशेषतः दुसऱ्या डावात), बॅट तपासणी, लाळेचा वापर आणि रिटायर्ड-आउटची तरतूद यांचा समावेश आहे. सामना रेफरी आणि पंच देखील नियमांचे स्पष्टीकरण देण्यासाठी उपस्थित असतील, ज्यामुळे आयपीएल 2026 अधिक सुरळीत होईल."
-            },
-            "hi": {
-                "title": "आईपीएल कप्तान बीसीसीआई के साथ अहम नियमों पर करेंगे चर्चा",
-                "content": "आईपीएल कप्तान 25 मार्च को बीसीसीआई अधिकारियों से मिलेंगे और आगामी सीज़न के लिए महत्वपूर्ण नियम परिवर्तनों पर चर्चा करेंगे। एजेंडे में दो-बाउंसर नियम, गेंद बदलने के विस्तृत नियम (विशेषकर दूसरी पारी में), बल्ले की जांच, लार का उपयोग और रिटायर्ड-आउट प्रावधान शामिल हैं। मैच रेफरी और अंपायर भी नियमों को स्पष्ट करने के लिए मौजूद रहेंगे, जिसका उद्देश्य आईपीएल 2026 को सुचारू बनाना है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129791971,imgsize-104766.cms",
-        "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-captains-meet-when-where-and-the-complete-agenda/articleshow/129791955.cms"
     }
 ]
