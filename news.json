@@ -1,5 +1,29 @@
 [
     {
+        "id": "a1a0fe7e",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "CPI(M) Fires Back: Congress Helps BJP, Accuses of 'Sinister Agenda'",
+                "content": "CPI(M) fiercely hit back at Rahul Gandhi and Mallikarjun Kharge, accusing Congress of a 'sinister agenda' by targeting the Left in Kerala. The party claims Congress helps BJP for electoral gains, abandoning the fight against communal forces. They questioned Congress's focus on CPI(M) over BJP, highlighting their own defections."
+            },
+            "kn": {
+                "title": "CPI(M) ತೀಕ್ಷ್ಣ ಪ್ರತಿಕ್ರಿಯೆ: ಕಾಂಗ್ರೆಸ್ ಬಿಜೆಪಿಗೆ ನೆರವು, 'ದುಷ್ಟ ಅಜೆಂಡಾ' ಆರೋಪ",
+                "content": "ಕೇರಳದಲ್ಲಿ ಎಡಪಕ್ಷಗಳನ್ನು ಗುರಿಯಾಗಿಸಿ 'ದುಷ್ಟ ಅಜೆಂಡಾ'ದಿಂದ ಕಾಂಗ್ರೆಸ್ ಬಿಜೆಪಿಗೆ ನೆರವಾಗುತ್ತಿದೆ ಎಂದು ಆರೋಪಿಸಿ CPI(M) ರಾಹುಲ್ ಗಾಂಧಿ ಮತ್ತು ಮಲ್ಲಿಕಾರ್ಜುನ ಖರ್ಗೆ ಅವರಿಗೆ ತೀಕ್ಷ್ಣ ಪ್ರತಿಕ್ರಿಯೆ ನೀಡಿದೆ. ಕೋಮುವಾದಿ ಶಕ್ತಿಗಳ ವಿರುದ್ಧದ ಹೋರಾಟವನ್ನು ಕೈಬಿಟ್ಟು, ಕಾಂಗ್ರೆಸ್ ಚುನಾವಣಾ ಲಾಭಕ್ಕಾಗಿ ಬಿಜೆಪಿಗೆ ಸಹಾಯ ಮಾಡುತ್ತಿದೆ ಎಂದು ಅದು ಹೇಳಿದೆ. ತಮ್ಮದೇ ನಾಯಕರ ಬಿಜೆಪಿ ಪಕ್ಷಾಂತರಗಳನ್ನೂ CPI(M) ಪ್ರಶ್ನಿಸಿತು."
+            },
+            "mr": {
+                "title": "CPI(M) चा पलटवार: काँग्रेस भाजपला मदत करतेय, 'घातक अजेंड्याचा' आरोप",
+                "content": "केरळमध्ये डाव्यांना लक्ष्य करून 'घातक अजेंड्याद्वारे' काँग्रेस भाजपला मदत करत असल्याचा आरोप करत CPI(M) ने राहुल गांधी आणि मल्लिकार्जुन खर्गे यांना जोरदार प्रत्युत्तर दिले. काँग्रेस जातीयवादी शक्तींविरोधातील लढाई सोडून, ​​निवडणुकीतील फायद्यासाठी भाजपला मदत करत असल्याचा पक्षाचा दावा आहे. CPI(M) ने काँग्रेसच्या भाजपमधील स्वतःच्या पक्षांतरावरही प्रश्नचिन्ह उपस्थित केले."
+            },
+            "hi": {
+                "title": "CPI(M) का पलटवार: कांग्रेस भाजपा की मदद कर रही, 'नापाक एजेंडे' का आरोप",
+                "content": "केरल में वामपंथियों को निशाना बनाकर 'नापाक एजेंडे' से कांग्रेस भाजपा की मदद कर रही है, यह आरोप लगाते हुए CPI(M) ने राहुल गांधी और मल्लिकार्जुन खर्गे पर तीखा पलटवार किया. पार्टी का दावा है कि कांग्रेस सांप्रदायिक ताकतों के खिलाफ लड़ाई छोड़कर चुनावी फायदे के लिए भाजपा की मदद कर रही है. CPI(M) ने कांग्रेस के अपने नेताओं के भाजपा में दलबदल पर भी सवाल उठाए."
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129828591,imgsize-672461.cms",
+        "link": "https://timesofindia.indiatimes.com/india/sinister-agenda-cpim-fires-back-at-rahul-kharge-accuses-congress-of-helping-bjp/articleshow/129828590.cms"
+    },
+    {
         "id": "6388f00c",
         "category": "National",
         "translations": {
@@ -1894,29 +1918,5 @@
         },
         "image": "https://static.toiimg.com/photo/msid-129793741,imgsize-38192.cms",
         "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/rinku-singh-appointed-regional-sports-officer-salary-role-and-key-details-explained/articleshow/129793762.cms"
-    },
-    {
-        "id": "4cf7fa21",
-        "category": "Sports",
-        "translations": {
-            "en": {
-                "title": "SA Dominates NZ in Live Thriller",
-                "content": "South Africa is currently leading New Zealand in an exhilarating live match, thanks to exceptional performances by Hermann and Esterhuizen. Their pivotal contributions have propelled South Africa firmly ahead, showcasing dominant play and strategic advantage. As the action intensifies, SA aims to sustain its impressive momentum against the formidable NZ side."
-            },
-            "kn": {
-                "title": "ಲೈವ್ ಥ್ರಿಲ್ಲರ್‌ನಲ್ಲಿ SA, NZ ಮೇಲೆ ಪ್ರಾಬಲ್ಯ",
-                "content": "ಉತ್ಸಾಹಭರಿತ ಲೈವ್ ಪಂದ್ಯದಲ್ಲಿ, ಹರ್ಮನ್ ಮತ್ತು ಎಸ್ಟರ್‌ಹುಯಿಜೆನ್ ಅವರ ಅಸಾಧಾರಣ ಪ್ರದರ್ಶನಗಳಿಂದಾಗಿ ದಕ್ಷಿಣ ಆಫ್ರಿಕಾ ನ್ಯೂಜಿಲೆಂಡ್ ವಿರುದ್ಧ ಪ್ರಸ್ತುತ ಮುನ್ನಡೆ ಸಾಧಿಸಿದೆ. ಅವರ ಪ್ರಮುಖ ಕೊಡುಗೆಗಳು ದಕ್ಷಿಣ ಆಫ್ರಿಕಾವನ್ನು ದೃಢವಾಗಿ ಮುಂದಿರಿಸಿವೆ, ಪ್ರಾಬಲ್ಯದ ಆಟ ಮತ್ತು ಕಾರ್ಯತಂತ್ರದ ಪ್ರಯೋಜನವನ್ನು ಪ್ರದರ್ಶಿಸುತ್ತಿವೆ. ಆಕ್ಷನ್ ತೀವ್ರಗೊಳ್ಳುತ್ತಿದ್ದಂತೆ, SA ಪ್ರಬಲ NZ ತಂಡದ ವಿರುದ್ಧ ತನ್ನ ಪ್ರಭಾವಶಾಲಿ ವೇಗವನ್ನು ಉಳಿಸಿಕೊಳ್ಳುವ ಗುರಿಯನ್ನು ಹೊಂದಿದೆ."
-            },
-            "mr": {
-                "title": "लाइव्ह थरार नाट्यात दक्षिण आफ्रिकेचे न्यूझीलंडवर वर्चस्व",
-                "content": "थरारक थेट सामन्यात, हरमन आणि एस्टरहुइझेन यांच्या अपवादात्मक कामगिरीमुळे दक्षिण आफ्रिका सध्या न्यूझीलंडवर आघाडीवर आहे. त्यांच्या महत्त्वपूर्ण योगदानामुळे दक्षिण आफ्रिकेने ठोस आघाडी घेतली आहे, प्रभावी खेळ आणि धोरणात्मक फायदा दर्शवला आहे. कारवाई तीव्र होत असताना, SA बलाढ्य NZ संघाविरुद्ध आपली प्रभावी गती कायम ठेवण्याचे ध्येय ठेवत आहे."
-            },
-            "hi": {
-                "title": "लाइव थ्रिलर में दक्षिण अफ्रीका का न्यूजीलैंड पर दबदबा",
-                "content": "एक रोमांचक लाइव मैच में, हरमन और एस्टरहुइज़न के असाधारण प्रदर्शन के कारण दक्षिण अफ्रीका न्यूजीलैंड से आगे चल रहा है। उनके महत्वपूर्ण योगदान ने दक्षिण अफ्रीका को मज़बूती से आगे बढ़ाया है, जो दबदबा पूर्ण खेल और रणनीतिक लाभ को दर्शाता है। जैसे-जैसे कार्रवाई तेज हो रही है, SA का लक्ष्य मजबूत न्यूजीलैंड टीम के खिलाफ अपनी शानदार गति बनाए रखना है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129794058,imgsize-45074.cms",
-        "link": "https://timesofindia.indiatimes.com/sports/cricket/new-zealand-vs-south-africa-5th-t20i-live-cricket-score-commentary-hagley-oval-christchurch/liveblog/129794058.cms"
     }
 ]
