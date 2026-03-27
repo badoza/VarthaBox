@@ -1,5 +1,30 @@
 [
     {
+        "id": "6b6ca2cd",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Mars' Spin Accelerates: Active Interior Revealed",
+                "content": "NASA's InSight lander has detected a slight but consistent speeding up in Mars' rotation. Data reveals the Red Planet's spin is accelerating by about 4 milliarcseconds per year, shortening its day by fractions of a millisecond. This subtle change, attributed to mass redistribution within Mars, provides crucial evidence of an active interior and ongoing geological processes, deepening our understanding of the planet's evolution."
+            },
+            "kn": {
+                "title": "ಮಂಗಳ ಗ್ರಹದ ಪರಿಭ್ರಮಣೆ ವೇಗ ಹೆಚ್ಚಳ: ಸಕ್ರಿಯ ಆಂತರಿಕ ಭಾಗ ಬಹಿರಂಗ",
+                "content": "ನಾಸಾದ ಇನ್‌ಸೈಟ್ ಲ್ಯಾಂಡರ್ ಮಂಗಳ ಗ್ರಹದ ಪರಿಭ್ರಮಣೆಯಲ್ಲಿ ಸಣ್ಣ ಆದರೆ ಸ್ಥಿರ ವೇಗ ಹೆಚ್ಚಳವನ್ನು ಪತ್ತೆ ಮಾಡಿದೆ. ದತ್ತಾಂಶವು ಕೆಂಪು ಗ್ರಹದ ತಿರುಗುವಿಕೆ ವರ್ಷಕ್ಕೆ ಸುಮಾರು 4 ಮಿಲಿಯಾರ್ಕ್‌ಸೆಕೆಂಡ್‌ಗಳಷ್ಟು ವೇಗವನ್ನು ಪಡೆಯುತ್ತಿದೆ ಎಂದು ಬಹಿರಂಗಪಡಿಸುತ್ತದೆ, ಇದರಿಂದ ಅದರ ದಿನವು ಮಿಲಿಸೆಕೆಂಡ್‌ನ ಭಿನ್ನಾಂಕಗಳಿಂದ ಕಡಿಮೆಯಾಗುತ್ತದೆ. ಮಂಗಳ ಗ್ರಹದೊಳಗಿನ ದ್ರವ್ಯರಾಶಿ ಪುನರ್ವಿತರಣೆಗೆ ಕಾರಣವಾದ ಈ ಸೂಕ್ಷ್ಮ ಬದಲಾವಣೆಯು, ಸಕ್ರಿಯ ಆಂತರಿಕ ಮತ್ತು ನಡೆಯುತ್ತಿರುವ ಭೂವೈಜ್ಞಾನಿಕ ಪ್ರಕ್ರಿಯೆಗಳ ನಿರ್ಣಾಯಕ ಪುರಾವೆಗಳನ್ನು ಒದಗಿಸುತ್ತದೆ, ಇದು ಗ್ರಹದ ವಿಕಾಸದ ಕುರಿತು ನಮ್ಮ ತಿಳುವಳಿಕೆಯನ್ನು ಆಳವಾಗಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "मंगळाचा वेग वाढला: सक्रिय आंतरिक भाग उघड",
+                "content": "नासाच्या इनसाइट लँडरने मंगळाच्या परिभ्रमणात थोडी पण सातत्यपूर्ण गती वाढ नोंदवली आहे. डेटानुसार, लाल ग्रहाचा फिरण्याचा वेग वर्षाला सुमारे 4 मिलीआर्कसेकंदने वाढत आहे, ज्यामुळे त्याचा दिवस मिलिसेकंदांच्या काही अंशांनी कमी होत आहे. मंगळाच्या आत वस्तुमान पुनर्वितरणाशी संबंधित हा सूक्ष्म बदल, सक्रिय आंतरिक भाग आणि चालू असलेल्या भूगर्भीय प्रक्रियांचे महत्त्वपूर्ण पुरावे देतो, ज्यामुळे ग्रहाच्या उत्क्रांतीबद्दलची आपली समज वाढते."
+            },
+            "hi": {
+                "title": "मंगल का घूर्णन तेज हुआ: सक्रिय आंतरिक भाग उजागर",
+                "content": "नासा के इनसाइट लैंडर ने मंगल ग्रह के घूर्णन में एक हल्की लेकिन लगातार बढ़ती गति का पता लगाया है। डेटा से पता चलता है कि लाल ग्रह का घूर्णन प्रति वर्ष लगभग 4 मिलीआर्कसेकंड की दर से तेज हो रहा है, जिससे इसका दिन मिलीसेकंड के कुछ अंशों से छोटा हो रहा है। मंगल के भीतर द्रव्यमान के पुनर्वितरण के लिए जिम्मेदार यह सूक्ष्म परिवर्तन, एक सक्रिय आंतरिक भाग और चल रही भूवैज्ञानिक प्रक्रियाओं का महत्वपूर्ण प्रमाण प्रदान करता है, जिससे ग्रह के विकास के बारे में हमारी समझ गहरी होती है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129843500,imgsize-112472.cms",
+        "link": "https://timesofindia.indiatimes.com/science/mars-rotation-is-speeding-up-at-an-unprecedented-rate-scientists-reveal-why/articleshow/129843500.cms",
+        "date": "2026-03-27T15:03:21+05:30"
+    },
+    {
         "id": "dff3020f",
         "category": "National",
         "translations": {
@@ -1922,29 +1947,5 @@
         },
         "image": "https://static.toiimg.com/photo/msid-129814801,imgsize-844776.cms",
         "link": "https://timesofindia.indiatimes.com/world/middle-east/iran-claims-it-shot-down-f-18-fighter-jet-over-chabahar-us-fact-check-tells-a-different-story/articleshow/129814667.cms"
-    },
-    {
-        "id": "98c0a8cc",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "NMC: Empty Boards, State Directives",
-                "content": "The National Medical Commission (NMC) is under fire as key board positions remain vacant, even as it directs states to urgently fill teacher vacancies in medical colleges. This incongruity highlights a significant challenge in India's medical education system. Critics question NMC's ability to effectively lead reforms and ensure quality standards when its internal structure is incomplete."
-            },
-            "kn": {
-                "title": "ಎನ್‌ಎಂಸಿ: ಖಾಲಿ ಮಂಡಳಿಗಳು, ರಾಜ್ಯಗಳಿಗೆ ನಿರ್ದೇಶನಗಳು",
-                "content": "ರಾಷ್ಟ್ರೀಯ ವೈದ್ಯಕೀಯ ಆಯೋಗ (ಎನ್‌ಎಂಸಿ) ದಲ್ಲಿ ಪ್ರಮುಖ ಮಂಡಳಿ ಸ್ಥಾನಗಳು ಖಾಲಿ ಉಳಿದಿರುವ ಹಿನ್ನೆಲೆಯಲ್ಲಿ ಟೀಕೆಗೆ ಗುರಿಯಾಗಿದೆ. ಆದರೆ ಅದೇ ಸಮಯದಲ್ಲಿ, ರಾಜ್ಯಗಳಿಗೆ ವೈದ್ಯಕೀಯ ಕಾಲೇಜುಗಳಲ್ಲಿ ಶಿಕ್ಷಕರ ಹುದ್ದೆಗಳನ್ನು ತುರ್ತಾಗಿ ಭರ್ತಿ ಮಾಡಲು ನಿರ್ದೇಶನ ನೀಡಿದೆ. ಈ ಅಸಾಮರಸ್ಯವು ಭಾರತದ ವೈದ್ಯಕೀಯ ಶಿಕ್ಷಣ ವ್ಯವಸ್ಥೆಯಲ್ಲಿನ ಮಹತ್ವದ ಸವಾಲನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ತನ್ನ ಆಂತರಿಕ ರಚನೆಯು ಅಪೂರ್ಣವಾದಾಗ ಎನ್‌ಎಂಸಿ ಸುಧಾರಣೆಗಳನ್ನು ಪರಿಣಾಮಕಾರಿಯಾಗಿ ಮುನ್ನಡೆಸಲು ಮತ್ತು ಗುಣಮಟ್ಟದ ಮಾನದಂಡಗಳನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು ಹೇಗೆ ಸಾಧ್ಯ ಎಂದು ವಿಮರ್ಶಕರು ಪ್ರಶ್ನಿಸುತ್ತಾರೆ."
-            },
-            "mr": {
-                "title": "एनएमसी: रिक्त मंडळे, राज्यांसाठी निर्देश",
-                "content": "राष्ट्रीय वैद्यकीय आयोग (एनएमसी) सध्या टीकेच्या घेऱ्यात आहे कारण, एका बाजूला त्याचीच प्रमुख मंडळाची पदे रिक्त आहेत, तर दुसरीकडे ते राज्यांना वैद्यकीय महाविद्यालयांमधील शिक्षकांच्या रिक्त जागा तातडीने भरण्याचे निर्देश देत आहे. हा विरोधाभास भारतातील वैद्यकीय शिक्षण प्रणालीतील एक मोठे आव्हान दर्शवतो. जेव्हा एनएमसीची अंतर्गत रचनाच अपूर्ण असते, तेव्हा ती सुधारणांचे प्रभावीपणे नेतृत्व करून गुणवत्ता मानके कशी सुनिश्चित करू शकते, असा प्रश्न समीक्षक विचारत आहेत."
-            },
-            "hi": {
-                "title": "एनएमसी: खाली बोर्ड, राज्यों को निर्देश",
-                "content": "राष्ट्रीय चिकित्सा आयोग (एनएमसी) सवालों के घेरे में है क्योंकि इसके प्रमुख बोर्ड पद खाली पड़े हैं, जबकि यह राज्यों को मेडिकल कॉलेजों में शिक्षकों की रिक्तियों को तत्काल भरने का निर्देश दे रहा है। यह विसंगति भारत की चिकित्सा शिक्षा प्रणाली में एक महत्वपूर्ण चुनौती को उजागर करती है। आलोचकों का सवाल है कि जब एनएमसी की अपनी आंतरिक संरचना अधूरी है, तो यह प्रभावी ढंग से सुधारों का नेतृत्व कैसे कर सकता है और गुणवत्ता मानकों को कैसे सुनिश्चित कर सकता है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129815224,imgsize-40574.cms",
-        "link": "https://timesofindia.indiatimes.com/india/nmc-boards-lie-vacant-as-it-directs-states-to-deal-with-teacher-vacancies/articleshow/129815231.cms"
     }
 ]
