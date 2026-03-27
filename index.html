@@ -22,7 +22,7 @@
         body, html { 
             margin: 0; padding: 0; 
             width: 100vw; 
-            height: 100dvh; /* Dynamic Viewport Height fixes the bottom getting cut off on mobile */
+            height: 100dvh; 
             background-color: var(--bg); color: var(--text);
             font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', sans-serif; 
             overflow: hidden; -webkit-font-smoothing: antialiased;
@@ -63,7 +63,7 @@
         /* 3. SWIPE CONTAINER */
         #news-container { 
             position: absolute; top: 100px; left: 0; width: 100%; 
-            height: calc(100dvh - 100px); /* Strictly fills remaining screen */
+            height: calc(100dvh - 100px); 
             overflow-y: scroll; scroll-snap-type: y mandatory; scroll-behavior: smooth; 
         }
         #news-container::-webkit-scrollbar { display: none; }
@@ -74,27 +74,20 @@
             display: flex; flex-direction: column; box-sizing: border-box;
         }
         
-        /* Fixed Image Section (No Black Bars) */
         .article-img { 
-            width: 100%; height: 40%; /* Image takes top 40% */
-            object-fit: cover; /* Perfectly fills the area without distortion */
-            object-position: top center;
-            border-bottom: 2px solid var(--accent);
-            background: #111;
+            width: 100%; height: 40%; 
+            object-fit: cover; object-position: top center;
+            border-bottom: 2px solid var(--accent); background: #111;
         }
         
-        /* Fixed Content Section (Scrollable if text is too long) */
         .content-box { 
-            height: 60%; /* Text takes bottom 60% */
+            height: 60%; 
             padding: 20px 20px calc(20px + env(safe-area-inset-bottom, 0px)) 20px; 
             display: flex; flex-direction: column; 
             background: var(--bg); box-sizing: border-box;
         }
         
-        /* Scrolling Text Area */
-        .text-scroll-area {
-            flex-grow: 1; overflow-y: auto; padding-right: 5px;
-        }
+        .text-scroll-area { flex-grow: 1; overflow-y: auto; padding-right: 5px; }
         .text-scroll-area::-webkit-scrollbar { width: 4px; }
         .text-scroll-area::-webkit-scrollbar-thumb { background: #333; border-radius: 4px; }
 
@@ -108,8 +101,7 @@
         /* 5. CLASSY BOTTOM BUTTONS */
         .action-row { 
             display: flex; gap: 12px; margin-top: 15px; 
-            padding-top: 15px; border-top: 1px solid rgba(255,255,255,0.1);
-            flex-shrink: 0; /* Prevents buttons from getting squished */
+            padding-top: 15px; border-top: 1px solid rgba(255,255,255,0.1); flex-shrink: 0; 
         }
         .action-btn { 
             flex: 1; background: var(--surface); border: 1px solid rgba(255,255,255,0.1); 
@@ -133,10 +125,10 @@
             <a href="https://www.instagram.com/kunal___dongare/" target="_blank" class="dev-by">by Kunal Dongare</a>
         </div>
         <div class="lang-selector">
-            <button class="lang-btn active" onclick="setLanguage('en', this)">EN</button>
-            <button class="lang-btn" onclick="setLanguage('kn', this)">ಕನ್ನಡ</button>
-            <button class="lang-btn" onclick="setLanguage('mr', this)">मराठी</button>
-            <button class="lang-btn" onclick="setLanguage('hi', this)">हिंदी</button>
+            <button id="btn-en" class="lang-btn active" onclick="setLanguage('en')">EN</button>
+            <button id="btn-kn" class="lang-btn" onclick="setLanguage('kn')">ಕನ್ನಡ</button>
+            <button id="btn-mr" class="lang-btn" onclick="setLanguage('mr')">मराठी</button>
+            <button id="btn-hi" class="lang-btn" onclick="setLanguage('hi')">हिंदी</button>
         </div>
     </div>
     
@@ -156,10 +148,12 @@
         const synth = window.speechSynthesis; 
         const langVoiceMap = { 'en': 'en-IN', 'kn': 'kn-IN', 'mr': 'mr-IN', 'hi': 'hi-IN' };
 
-        function setLanguage(lang, buttonElement) {
+        // Handle Language Switching
+        function setLanguage(lang) {
             currentLang = lang;
+            // Update UI Buttons
             document.querySelectorAll('.lang-btn').forEach(btn => btn.classList.remove('active'));
-            buttonElement.classList.add('active');
+            document.getElementById('btn-' + lang).classList.add('active');
             synth.cancel();
             renderNews();
         }
@@ -185,7 +179,6 @@
                 const articleHTML = `
                     <div class="article" id="${article.id}">
                         <img class="article-img" src="${article.image}" alt="News" onerror="this.src='https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80'">
-                        
                         <div class="content-box">
                             <div class="text-scroll-area">
                                 <div class="meta-row">
@@ -195,15 +188,10 @@
                                 <h2>${content.title}</h2>
                                 <p>${content.content}</p>
                             </div>
-                            
                             <div>
                                 <div class="action-row">
-                                    <button class="action-btn" onclick="readAloud('${article.id}', \`${content.title}\`, \`${content.content}\`)">
-                                        🔊 Listen
-                                    </button>
-                                    <button class="action-btn share" onclick="shareArticle('${article.id}', \`${content.title}\`, \`${content.content}\`)">
-                                        🚀 Share
-                                    </button>
+                                    <button class="action-btn" onclick="readAloud('${article.id}', \`${content.title}\`, \`${content.content}\`)">🔊 Listen</button>
+                                    <button class="action-btn share" onclick="shareArticle('${article.id}', \`${content.title}\`, \`${content.content}\`)">🚀 Share</button>
                                 </div>
                                 <div class="swipe-instruction">
                                     Swipe up for next &nbsp;&bull;&nbsp; <a href="${article.link}" target="_blank">Read Full Source</a>
@@ -225,7 +213,10 @@
         }
 
         function shareArticle(articleId, title, summary) {
-            const uniqueLink = window.location.href.split('#')[0] + '#' + articleId;
+            // FIX 1: Add the current language as a parameter BEFORE the hashtag
+            const baseUrl = window.location.href.split('?')[0].split('#')[0];
+            const uniqueLink = `${baseUrl}?lang=${currentLang}#${articleId}`;
+            
             if (navigator.share) {
                 navigator.share({ title: 'VarthaBox: ' + title, text: summary, url: uniqueLink }).catch(console.error);
             } else {
@@ -234,10 +225,39 @@
             }
         }
 
-        const uniqueCacheBuster = new Date().getTime();
-        fetch(`news.json?v=${uniqueCacheBuster}`)
-            .then(response => response.json())
-            .then(data => { newsData = data; renderNews(); });
+        // INITIALIZATION ALGORITHM
+        function initApp() {
+            // FIX 2: Check URL for language parameter on load
+            const urlParams = new URLSearchParams(window.location.search);
+            const urlLang = urlParams.get('lang');
+            if (urlLang && ['en', 'kn', 'mr', 'hi'].includes(urlLang)) {
+                currentLang = urlLang;
+                document.querySelectorAll('.lang-btn').forEach(btn => btn.classList.remove('active'));
+                document.getElementById('btn-' + currentLang).classList.add('active');
+            }
+
+            const uniqueCacheBuster = new Date().getTime();
+            fetch(`news.json?v=${uniqueCacheBuster}`)
+                .then(response => response.json())
+                .then(data => { 
+                    newsData = data; 
+                    renderNews(); 
+                    
+                    // FIX 3: Check URL for Article ID (Hash) and auto-scroll
+                    const hash = window.location.hash;
+                    if (hash) {
+                        setTimeout(() => {
+                            const targetElement = document.querySelector(hash);
+                            if (targetElement) {
+                                targetElement.scrollIntoView({ behavior: 'smooth' });
+                            }
+                        }, 500); // 0.5s delay ensures images have rendered before measuring scroll depth
+                    }
+                });
+        }
+
+        // Run Initialization
+        initApp();
 
         async function fetchLiveScores() {
             const proxyUrl = `https://api.allorigins.win/get?url=${encodeURIComponent('http://static.cricinfo.com/rss/livescores.xml')}`;
