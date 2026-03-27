@@ -1,5 +1,30 @@
 [
     {
+        "id": "dff3020f",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "PM Modi Virtually Observes Surya Tilak at Ram Mandir",
+                "content": "Prime Minister Modi virtually participated in Ayodhya's Ram Mandir Surya Tilak ceremony and offered prayers, extending Ram Navami greetings. He wished for renewed energy and enthusiasm across the nation. Devotees flocked to temples nationwide, especially Ayodhya, where security was enhanced to manage large crowds celebrating Lord Rama's birth."
+            },
+            "kn": {
+                "title": "ಪ್ರಧಾನಿ ಮೋದಿ ರಾಮ ಮಂದಿರದಲ್ಲಿ ಸೂರ್ಯ ತಿಲಕವನ್ನು ವರ್ಚುವಲ್ ಆಗಿ ವೀಕ್ಷಿಸಿದರು",
+                "content": "ಪ್ರಧಾನಮಂತ್ರಿ ಮೋದಿ ಅಯೋಧ್ಯೆಯ ರಾಮ ಮಂದಿರದಲ್ಲಿ ಸೂರ್ಯ ತಿಲಕ ಸಮಾರಂಭ ಮತ್ತು ಪ್ರಾರ್ಥನೆಯಲ್ಲಿ ವರ್ಚುವಲ್ ಆಗಿ ಭಾಗವಹಿಸಿ, ರಾಮ ನವಮಿ ಶುಭಾಶಯ ಕೋರಿದರು. ಅವರು ದೇಶಾದ್ಯಂತ ಹೊಸ ಶಕ್ತಿ ಮತ್ತು ಉತ್ಸಾಹವನ್ನು ಹಾರೈಸಿದರು. ದೇಶಾದ್ಯಂತ ಭಕ್ತರು ದೇವಾಲಯಗಳಲ್ಲಿ ಸೇರಿದರು, ವಿಶೇಷವಾಗಿ ಅಯೋಧ್ಯೆಯಲ್ಲಿ ಹೆಚ್ಚಿನ ಜನಸಂದಣಿ ಇತ್ತು. ಭಗವಾನ್ ರಾಮನ ಜನ್ಮವನ್ನು ಆಚರಿಸಲು ಭಕ್ತರನ್ನು ನಿರ್ವಹಿಸಲು ಭದ್ರತೆಯನ್ನು ಹೆಚ್ಚಿಸಲಾಯಿತು."
+            },
+            "mr": {
+                "title": "पंतप्रधान मोदींनी राम मंदिरातून व्हर्चुअली सूर्य तिलक सोहळा पाहिला",
+                "content": "पंतप्रधान मोदींनी अयोध्येतील राम मंदिरातून व्हर्चुअली सूर्य तिलक सोहळ्यात भाग घेतला आणि प्रार्थना केली, रामनवमीच्या शुभेच्छा दिल्या. त्यांनी देशभरात नवी ऊर्जा आणि उत्साहाची कामना केली. देशभरातील मंदिरांमध्ये भाविकांनी गर्दी केली होती, विशेषतः अयोध्येत प्रचंड गर्दी होती. भगवान रामाच्या जन्मोत्सवासाठी भाविकांना सांभाळण्यासाठी सुरक्षा वाढवण्यात आली होती."
+            },
+            "hi": {
+                "title": "पीएम मोदी ने राम मंदिर में वर्चुअली देखा सूर्य तिलक",
+                "content": "प्रधानमंत्री मोदी ने अयोध्या के राम मंदिर में वर्चुअली सूर्य तिलक समारोह और प्रार्थना में भाग लिया, रामनवमी की शुभकामनाएं दीं। उन्होंने देशभर में नई ऊर्जा और उत्साह की कामना की। देशभर के मंदिरों में भक्तों की भीड़ उमड़ी, खासकर अयोध्या में भारी भीड़ थी। भगवान राम के जन्मोत्सव पर भक्तों को संभालने के लिए सुरक्षा बढ़ाई गई थी।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129840914,imgsize-99908.cms",
+        "link": "https://timesofindia.indiatimes.com/india/pm-modi-prayers-to-lord-ram-observes-surya-tilak-ceremony-at-ayodhyas-ram-mandir-virtually/articleshow/129840890.cms",
+        "date": "2026-03-27T13:05:44+05:30"
+    },
+    {
         "id": "aefaad2d",
         "category": "National",
         "translations": {
@@ -1921,29 +1946,5 @@
         },
         "image": "https://static.toiimg.com/photo/msid-129815224,imgsize-40574.cms",
         "link": "https://timesofindia.indiatimes.com/india/nmc-boards-lie-vacant-as-it-directs-states-to-deal-with-teacher-vacancies/articleshow/129815231.cms"
-    },
-    {
-        "id": "31dda7ac",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "No 'LPG Charge': CCPA Warns Eateries Against Illegal Surcharges",
-                "content": "The Central Consumer Protection Authority (CCPA) has warned hotels and restaurants against levying illegal 'LPG charges' or 'fuel cost recovery' on food bills. Such additional surcharges are deemed unfair trade practices, as operational costs should already be included in menu prices. Consumers are advised to dispute these charges and can file complaints if encountered. Strict action will be taken against establishments violating this directive."
-            },
-            "kn": {
-                "title": "ಅಕ್ರಮ 'LPG ಶುಲ್ಕ' ವಿಧಿಸುವ ಹೋಟೆಲ್‌ಗಳಿಗೆ CCPA ಎಚ್ಚರಿಕೆ",
-                "content": "ಕೇಂದ್ರ ಗ್ರಾಹಕ ಸಂರಕ್ಷಣಾ ಪ್ರಾಧಿಕಾರ (CCPA) ಹೋಟೆಲ್‌ಗಳು ಮತ್ತು ರೆಸ್ಟೋರೆಂಟ್‌ಗಳಿಗೆ ಆಹಾರ ಬಿಲ್‌ಗಳ ಮೇಲೆ ಅಕ್ರಮ 'LPG ಶುಲ್ಕ' ಅಥವಾ 'ಇಂಧನ ವೆಚ್ಚ ಮರುಪಡೆಯುವಿಕೆ' ವಿಧಿಸದಂತೆ ಎಚ್ಚರಿಕೆ ನೀಡಿದೆ. ಇಂತಹ ಹೆಚ್ಚುವರಿ ಶುಲ್ಕಗಳು ಅನುಚಿತ ವ್ಯಾಪಾರ ಪದ್ಧತಿಗಳು. ಕಾರ್ಯಾಚರಣಾ ವೆಚ್ಚಗಳು ಮೆನು ಬೆಲೆಗಳಲ್ಲಿ ಸೇರಿರಬೇಕು. ಗ್ರಾಹಕರು ಈ ಶುಲ್ಕಗಳನ್ನು ವಿರೋಧಿಸಬಹುದು ಮತ್ತು ದೂರುಗಳನ್ನು ಸಲ್ಲಿಸಬಹುದು. ನಿಯಮ ಉಲ್ಲಂಘಿಸುವವರ ವಿರುದ್ಧ ಕಠಿಣ ಕ್ರಮ."
-            },
-            "mr": {
-                "title": "'एलपीजी शुल्क' नाही: बेकायदेशीर अधिभारांविरुद्ध सीसीपीएचा हॉटेल्सना इशारा",
-                "content": "केंद्रीय ग्राहक संरक्षण प्राधिकरणाने (CCPA) हॉटेल्स-रेस्टॉरंट्सना खाद्य बिलांवर बेकायदेशीर 'एलपीजी शुल्क' किंवा 'इंधन खर्च वसुली' आकारू नये असा इशारा दिला आहे. हे अतिरिक्त शुल्क अनुचित व्यापार मानले जातात, कारण परिचालन खर्च मेनू किमतीत समाविष्ट असावा. ग्राहक हे शुल्क नाकारू शकतात आणि तक्रारी दाखल करू शकतात. उल्लंघन करणाऱ्यांवर कठोर कारवाई होईल."
-            },
-            "hi": {
-                "title": "'एलपीजी चार्ज' नहीं: अवैध अधिभार पर सीसीपीए की भोजनालयों को चेतावनी",
-                "content": "केंद्रीय उपभोक्ता संरक्षण प्राधिकरण (CCPA) ने होटलों और रेस्तरां को खाद्य बिलों पर अवैध 'एलपीजी शुल्क' या 'ईंधन लागत वसूली' न लगाने की चेतावनी दी है। ऐसे अतिरिक्त शुल्क अनुचित व्यापार प्रथा हैं, क्योंकि परिचालन लागत मेनू कीमतों में शामिल होनी चाहिए। उपभोक्ता इन शुल्कों का विरोध कर सकते हैं और शिकायत दर्ज करा सकते हैं। उल्लंघन करने वालों पर सख्त कार्रवाई होगी।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129813949,imgsize-70044.cms",
-        "link": "https://timesofindia.indiatimes.com/india/lpg-charge-not-legal-will-invite-action-ccpa-warns-eateries/articleshow/129813947.cms"
     }
 ]
