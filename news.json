@@ -1,5 +1,29 @@
 [
     {
+        "id": "a0726e4d",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Army Tests New Drone Squadrons for Tank Units",
+                "content": "Indian Army is testing new 'Shaurya' drone squadrons for its tank units. These dedicated units enhance surveillance, precision strikes, and electronic warfare capabilities. The initiative aims to significantly boost battlefield awareness and response times for armoured formations, reflecting insights from recent global conflicts."
+            },
+            "kn": {
+                "title": "ಸೇನೆಯಿಂದ ಟ್ಯಾಂಕ್ ಘಟಕಗಳಿಗಾಗಿ ಹೊಸ ಡ್ರೋನ್ ಸ್ಕ್ವಾಡ್ರನ್‌ಗಳ ಪರೀಕ್ಷೆ",
+                "content": "ಭಾರತೀಯ ಸೇನೆಯು ತನ್ನ ಟ್ಯಾಂಕ್ ಘಟಕಗಳಿಗಾಗಿ ಹೊಸ 'ಶೌರ್ಯ' ಡ್ರೋನ್ ಸ್ಕ್ವಾಡ್ರನ್‌ಗಳನ್ನು ಪರೀಕ್ಷಿಸುತ್ತಿದೆ. ಈ ಮೀಸಲಾದ ಘಟಕಗಳು ಕಣ್ಗಾವಲು, ನಿಖರ ದಾಳಿಗಳು ಮತ್ತು ಎಲೆಕ್ಟ್ರಾನಿಕ್ ಯುದ್ಧ ಸಾಮರ್ಥ್ಯಗಳನ್ನು ಹೆಚ್ಚಿಸುತ್ತವೆ. ಈ ಕ್ರಮವು ಯುದ್ಧಭೂಮಿಯ ಅರಿವು ಮತ್ತು ಶಸ್ತ್ರಸಜ್ಜಿತ ರಚನೆಗಳ ಪ್ರತಿಕ್ರಿಯೆ ಸಮಯವನ್ನು ಗಮನಾರ್ಹವಾಗಿ ಹೆಚ್ಚಿಸುವ ಗುರಿಯನ್ನು ಹೊಂದಿದೆ, ಇತ್ತೀಚಿನ ಜಾಗತಿಕ ಸಂಘರ್ಷಗಳಿಂದ ಪಡೆದ ಒಳನೋಟಗಳನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "लष्कराकडून रणगाडा तुकड्यांसाठी नवीन ड्रोन स्क्वाड्रनची चाचणी",
+                "content": "भारतीय लष्कर आपल्या रणगाडा तुकड्यांसाठी नवीन 'शौर्य' ड्रोन स्क्वाड्रनची चाचणी करत आहे. ही समर्पित युनिट्स पाळत ठेवणे, अचूक हल्ले आणि इलेक्ट्रॉनिक युद्ध क्षमता वाढवतात. या उपक्रमामुळे रणगाडा दलांना रणांगणावरील जागरूकता आणि प्रतिसाद वेळ लक्षणीयरीत्या वाढवण्याचे उद्दिष्ट आहे, जे अलीकडील जागतिक संघर्षांतील धड्यांवर आधारित आहे."
+            },
+            "hi": {
+                "title": "सेना ने टैंक इकाइयों के लिए नए ड्रोन स्क्वाड्रन का परीक्षण किया",
+                "content": "भारतीय सेना अपनी टैंक इकाइयों के लिए नए 'शौर्य' ड्रोन स्क्वाड्रन का परीक्षण कर रही है। ये समर्पित इकाइयाँ निगरानी, ​​सटीक हमले और इलेक्ट्रॉनिक युद्ध क्षमताओं को बढ़ाती हैं। इस पहल का उद्देश्य बख्तरबंद संरचनाओं के लिए युद्धक्षेत्र जागरूकता और प्रतिक्रिया समय को महत्वपूर्ण रूप से बढ़ावा देना है, जो हाल के वैश्विक संघर्षों से मिली सीख को दर्शाती है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129836739,imgsize-1038438.cms",
+        "link": "https://timesofindia.indiatimes.com/india/army-puts-to-test-its-new-shaurya-drone-squadron-for-tank-units/articleshow/129836740.cms"
+    },
+    {
         "id": "49e90779",
         "category": "National",
         "translations": {
@@ -1894,29 +1918,5 @@
         },
         "image": "https://static.toiimg.com/photo/msid-129789084,imgsize-1480775.cms",
         "link": "https://timesofindia.indiatimes.com/india/government-calls-all-party-meet-today-to-address-concerns-over-west-asia-crisis/articleshow/129789078.cms"
-    },
-    {
-        "id": "d40ee4c7",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Indian LPG Tankers Await Hormuz Transit Amid Tensions",
-                "content": "Five India-flagged LPG tankers, carrying 2.3 lakh tonnes of cooking gas, are west of the Strait of Hormuz. Two are due at Indian ports this week. While no special permission is needed to transit the international strait, officials emphasize safety assessments are critical given the current geopolitical climate and regional tensions."
-            },
-            "kn": {
-                "title": "ಭಾರತೀಯ ಎಲ್‌ಪಿಜಿ ಟ್ಯಾಂಕರ್‌ಗಳು ಹಾರ್ಮುಜ್ ಸಂಚಾರಕ್ಕೆ ಉದ್ವಿಗ್ನತೆಯ ನಡುವೆ ಕಾಯುತ್ತಿವೆ",
-                "content": "ಭಾರತದ ಧ್ವಜ ಹೊತ್ತ ಐದು ಎಲ್‌ಪಿಜಿ ಟ್ಯಾಂಕರ್‌ಗಳು, 2.3 ಲಕ್ಷ ಟನ್ ಅಡುಗೆ ಅನಿಲ ಹೊತ್ತು, ಹಾರ್ಮುಜ್ ಜಲಸಂಧಿಯ ಪಶ್ಚಿಮದಲ್ಲಿವೆ. ಈ ವಾರ ಎರಡು ಭಾರತೀಯ ಬಂದರುಗಳನ್ನು ತಲುಪುವ ನಿರೀಕ್ಷೆಯಿದೆ. ಅಂತರರಾಷ್ಟ್ರೀಯ ಜಲಸಂಧಿಯನ್ನು ದಾಟಲು ವಿಶೇಷ ಅನುಮತಿ ಅಗತ್ಯವಿಲ್ಲದಿದ್ದರೂ, ಪ್ರಸ್ತುತ ಭೌಗೋಳಿಕ ರಾಜಕೀಯ ಪರಿಸ್ಥಿತಿ ಮತ್ತು ಪ್ರಾದೇಶಿಕ ಉದ್ವಿಗ್ನತೆಗಳನ್ನು ಗಮನದಲ್ಲಿಟ್ಟುಕೊಂಡು ಸುರಕ್ಷತಾ ಮೌಲ್ಯಮಾಪನಗಳು ನಿರ್ಣಾಯಕ ಎಂದು ಅಧಿಕಾರಿಗಳು ಒತ್ತಿಹೇಳಿದ್ದಾರೆ."
-            },
-            "mr": {
-                "title": "तणावाच्या परिस्थितीत भारतीय एलपीजी टँकर हॉर्मुजमधून मार्गक्रमणेच्या प्रतीक्षेत",
-                "content": "भारताच्या ध्वजांकित पाच एलपीजी टँकर, 2.3 लाख टन स्वयंपाकाचा गॅस घेऊन, हॉर्मुजच्या सामुद्रधुनीच्या पश्चिमेला आहेत. या आठवड्यात दोन भारतीय बंदरांवर पोहोचण्याची अपेक्षा आहे. आंतरराष्ट्रीय सामुद्रधुनीतून मार्गक्रमणेसाठी कोणतीही विशेष परवानगी आवश्यक नसली तरी, सद्यस्थितीतील भू-राजकीय वातावरण आणि प्रादेशिक तणाव पाहता सुरक्षा मूल्यांकनांना अधिकारी महत्त्वपूर्ण मानतात."
-            },
-            "hi": {
-                "title": "तनाव के बीच हॉर्मुज से गुजरने के लिए भारतीय एलपीजी टैंकर प्रतीक्षारत",
-                "content": "भारत के झंडे वाले पांच एलपीजी टैंकर, जिनमें 2.3 लाख टन खाना पकाने वाली गैस है, हॉर्मुज जलडमरूमध्य के पश्चिम में मौजूद हैं। इस सप्ताह दो टैंकरों के भारतीय बंदरगाहों पर पहुंचने की उम्मीद है। अंतरराष्ट्रीय जलडमरूमध्य से गुजरने के लिए किसी विशेष अनुमति की आवश्यकता नहीं है, लेकिन अधिकारियों ने मौजूदा भू-राजनीतिक स्थिति और क्षेत्रीय तनावों को देखते हुए सुरक्षा आकलन को महत्वपूर्ण बताया है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129789075,imgsize-953861.cms",
-        "link": "https://timesofindia.indiatimes.com/india/5-india-flagged-lpg-loaded-tankers-stuck-at-hormuz/articleshow/129789073.cms"
     }
 ]
