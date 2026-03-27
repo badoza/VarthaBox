@@ -10,7 +10,10 @@ import time
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 client = genai.Client(api_key=GEMINI_API_KEY)
 
+# Feeds combining strict 24-hour local Google News searches and reliable direct RSS
 SEARCH_FEEDS = {
+    "Belagavi Core Politics": "https://news.google.com/rss/search?q=Belagavi+AND+(Jarkiholi+OR+Hebbalkar+OR+Katti)+when:24h&hl=en-IN&gl=IN&ceid=IN:en",
+    "IPL Scoop": "https://news.google.com/rss/search?q=IPL+2026+behind+the+scenes+OR+controversy+OR+hidden+facts+OR+insider+when:24h&hl=en-IN&gl=IN&ceid=IN:en",
     "Karnataka Local": "https://timesofindia.indiatimes.com/rssfeeds/46088681.cms",
     "National": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
     "World": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms",
@@ -42,7 +45,7 @@ def generate_id(url):
     return hashlib.md5(url.encode()).hexdigest()[:8]
 
 def run_news_pipeline():
-    print("Fetching reliable multi-source news...")
+    print("Fetching expanded hyper-local and multi-source news...")
     
     current_db = []
     if os.path.exists("news.json"):
@@ -66,8 +69,6 @@ def run_news_pipeline():
                 continue
                 
             image_url = extract_real_image(entry.link, entry)
-            
-            # Extract the official published date
             pub_date = entry.get('published', '') or entry.get('updated', '')
             
             prompt = f"""
@@ -95,7 +96,7 @@ def run_news_pipeline():
                     "translations": translations,
                     "image": image_url,
                     "link": entry.link,
-                    "date": pub_date # Saving the date to the database
+                    "date": pub_date
                 }
                 new_articles.append(article)
                 print(f"Successfully processed {category}!")
