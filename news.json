@@ -1,5 +1,30 @@
 [
     {
+        "id": "ca07dbd3",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "Kohli's Lotus Tattoo Ignites IPL Buzz",
+                "content": "Virat Kohli's new lotus tattoo has created a stir ahead of the IPL 2024 season. Fans are buzzing, speculating about its spiritual meaning and connection to his upcoming performance. The intricate design, a symbol of purity and rebirth, adds a mysterious element as the cricketing icon prepares to lead RCB, igniting excitement among supporters."
+            },
+            "kn": {
+                "title": "ಕೋಹ್ಲಿ ಅವರ ಕಮಲದ ಹಚ್ಚೆ ಐಪಿಎಲ್ ಸಂಚಲನ ಮೂಡಿಸಿದೆ",
+                "content": "ಐಪಿಎಲ್ 2024 ಸೀಸನ್‌ಗೂ ಮುನ್ನ ವಿರಾಟ್ ಕೋಹ್ಲಿ ಅವರ ಹೊಸ ಕಮಲದ ಹಚ್ಚೆ ಸಂಚಲನ ಸೃಷ್ಟಿಸಿದೆ. ಅಭಿಮಾನಿಗಳು ಅದರ ಆಧ್ಯಾತ್ಮಿಕ ಅರ್ಥ ಮತ್ತು ಅವರ ಮುಂಬರುವ ಪ್ರದರ್ಶನದ ನಡುವಿನ ಸಂಪರ್ಕದ ಬಗ್ಗೆ ಊಹಾಪೋಹಗಳನ್ನು ಹರಡುತ್ತಿದ್ದಾರೆ. ಶುದ್ಧತೆ ಮತ್ತು ಪುನರ್ಜನ್ಮದ ಸಂಕೇತವಾಗಿರುವ ಈ ಸೂಕ್ಷ್ಮ ವಿನ್ಯಾಸವು, ಕ್ರಿಕೆಟ್ ಐಕಾನ್ ಆರ್‌ಸಿಬಿಯನ್ನು ಮುನ್ನಡೆಸಲು ಸಿದ್ಧರಾಗುತ್ತಿರುವಾಗ ನಿಗೂಢ ಅಂಶವನ್ನು ಸೇರಿಸಿದೆ, ಇದು ಬೆಂಬಲಿಗರಲ್ಲಿ ಉತ್ಸಾಹವನ್ನು ಹೆಚ್ಚಿಸಿದೆ."
+            },
+            "mr": {
+                "title": "कोहलीच्या कमळाच्या टॅटूने आयपीएलमध्ये खळबळ उडवली",
+                "content": "आयपीएल 2024 हंगामापूर्वी विराट कोहलीच्या नवीन कमळाच्या टॅटूने खळबळ निर्माण केली आहे. चाहते त्याच्या आध्यात्मिक अर्थाबद्दल आणि त्याच्या आगामी कामगिरीशी असलेल्या संबंधाबद्दल चर्चा करत आहेत. शुद्धता आणि पुनर्जन्माचे प्रतीक असलेल्या या जटिल डिझाइनने, क्रिकेटचा हा तारा आरसीबीचे नेतृत्व करण्यासाठी सज्ज होत असताना एक रहस्यमय घटक जोडला आहे, ज्यामुळे समर्थकांमध्ये उत्साह वाढला आहे."
+            },
+            "hi": {
+                "title": "कोहली के कमल टैटू ने IPL में धूम मचाई",
+                "content": "आईपीएल 2024 सीज़न से पहले विराट कोहली के नए कमल टैटू ने हलचल मचा दी है। प्रशंसक इसके आध्यात्मिक अर्थ और उनके आगामी प्रदर्शन से संबंध के बारे में अटकलें लगा रहे हैं। शुद्धता और पुनर्जन्म का प्रतीक यह जटिल डिज़ाइन, क्रिकेट आइकन के आरसीबी का नेतृत्व करने की तैयारी करते ही एक रहस्यमय तत्व जोड़ता है, जिससे समर्थकों में उत्साह बढ़ता है।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNalV0eGpaSGhmMTUtazdWN2xLSVdIZ0hfS1d3LS1GT3JWY2dGN0pjRzFrMnNGNVVCODRRQmR3eGkzalBTUV9aVVpacDhROUZXSGhXLWtYY0t3RjBhQ01lWk14Ymx4V2RyejZNNjhPQ3dBQTJOYnR1V2RKaE9CTkN4blpVMmdyVmUyRmViVjhaZERRdDh0T1djbkVNRkowX2FGbkpEZklScWE5ZENPaDdEbi1EdXEtcVdiMldZZVZZUlY2NWctZ2I5M1hXcjJqcGdoMWVzMg?oc=5",
+        "date": "Fri, 27 Mar 2026 13:30:13 GMT"
+    },
+    {
         "id": "9fff45d4",
         "category": "IPL Scoop",
         "translations": {
@@ -1939,29 +1964,5 @@
         },
         "image": "https://static.toiimg.com/photo/msid-129815741,imgsize-97300.cms",
         "link": "https://timesofindia.indiatimes.com/world/us/no-one-asked-for-this-melania-trump-slammed-for-introducing-robot-teacher-plato-for-american-students/articleshow/129815741.cms"
-    },
-    {
-        "id": "e7784c8f",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "Kuwait Airways Simplifies Saudi Transit Visas",
-                "content": "Kuwait Airways now offers a seamless Saudi Transit Visa service, integrated directly into flight bookings. This innovative move streamlines travel, allowing passengers to secure both their visa and tickets simultaneously via sales offices or the call center. Simplifying the process, applicants only need a photo, Civil ID, and passport copy, making international connections through Saudi Arabia significantly more convenient for travelers."
-            },
-            "kn": {
-                "title": "ಕುವೈತ್ ಏರ್‌ವೇಸ್ ಸೌದಿ ಟ್ರಾನ್ಸಿಟ್ ವೀಸಾಗಳನ್ನು ಸರಳಗೊಳಿಸಿದೆ",
-                "content": "ಕುವೈತ್ ಏರ್‌ವೇಸ್ ಈಗ ವಿಮಾನ ಟಿಕೆಟ್ ಬುಕಿಂಗ್‌ನೊಂದಿಗೆ ನೇರವಾಗಿ ಸಂಯೋಜಿತವಾದ ತಡೆರಹಿತ ಸೌದಿ ಟ್ರಾನ್ಸಿಟ್ ವೀಸಾ ಸೇವೆಯನ್ನು ಒದಗಿಸುತ್ತದೆ. ಈ ನವೀನ ಕ್ರಮವು ಪ್ರಯಾಣವನ್ನು ಸುಗಮಗೊಳಿಸುತ್ತದೆ, ಪ್ರಯಾಣಿಕರಿಗೆ ಮಾರಾಟ ಕಚೇರಿಗಳು ಅಥವಾ ಕರೆ ಕೇಂದ್ರದ ಮೂಲಕ ಏಕಕಾಲದಲ್ಲಿ ತಮ್ಮ ವೀಸಾ ಮತ್ತು ಟಿಕೆಟ್‌ಗಳನ್ನು ಪಡೆಯಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ. ಪ್ರಕ್ರಿಯೆಯನ್ನು ಸರಳಗೊಳಿಸಿ, ಅರ್ಜಿದಾರರಿಗೆ ಕೇವಲ ಫೋಟೋ, ಸಿವಿಲ್ ಐಡಿ ಮತ್ತು ಪಾಸ್‌ಪೋರ್ಟ್ ನಕಲು ಬೇಕಾಗುತ್ತದೆ, ಸೌದಿ ಅರೇಬಿಯಾ ಮೂಲಕ ಅಂತರರಾಷ್ಟ್ರೀಯ ಸಂಪರ್ಕಗಳನ್ನು ಪ್ರಯಾಣಿಕರಿಗೆ ಗಮನಾರ್ಹವಾಗಿ ಹೆಚ್ಚು ಅನುಕೂಲಕರವಾಗಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "कुवैत एअरवेजने सौदी ट्रान्झिट व्हिसा सुलभ केले",
-                "content": "कुवैत एअरवेज आता थेट फ्लाइट बुकिंगमध्ये समाकलित केलेली एक अखंड सौदी ट्रान्झिट व्हिसा सेवा देत आहे. या अभिनव पावलामुळे प्रवास सुलभ होतो, ज्यामुळे प्रवासी विक्री कार्यालये किंवा कॉल सेंटरद्वारे एकाच वेळी त्यांचा व्हिसा आणि तिकिटे सुरक्षित करू शकतात. प्रक्रिया सुलभ करताना, अर्जदारांना फक्त एक फोटो, सिव्हिल आयडी आणि पासपोर्टची प्रत आवश्यक आहे, ज्यामुळे सौदी अरेबियामार्गे आंतरराष्ट्रीय कनेक्शन प्रवाशांसाठी लक्षणीयरीत्या अधिक सोयीस्कर होतात."
-            },
-            "hi": {
-                "title": "कुवैत एयरवेज ने सऊदी ट्रांजिट वीजा को सरल बनाया",
-                "content": "कुवैत एयरवेज अब फ्लाइट बुकिंग के साथ सीधे एकीकृत एक सहज सऊदी ट्रांजिट वीजा सेवा प्रदान करता है। यह अभिनव कदम यात्रा को सुव्यवस्थित करता है, जिससे यात्रियों को बिक्री कार्यालयों या कॉल सेंटर के माध्यम से एक साथ अपना वीजा और टिकट सुरक्षित करने की सुविधा मिलती है। प्रक्रिया को सरल बनाते हुए, आवेदकों को केवल एक फोटो, सिविल आईडी और पासपोर्ट की प्रति की आवश्यकता होती है, जिससे सऊदी अरब के माध्यम से अंतरराष्ट्रीय कनेक्शन यात्रियों के लिए काफी अधिक सुविधाजनक हो जाते हैं।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129817548,imgsize-533811.cms",
-        "link": "https://timesofindia.indiatimes.com/world/middle-east/kuwait-airways-to-allow-saudi-transit-visa-during-ticket-booking-where-to-apply-required-documents-all-you-need-to-know/articleshow/129817125.cms"
     }
 ]
