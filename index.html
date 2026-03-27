@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
-    <title>VarthaBox | Premium News</title>
+    <title>VarthaBox | Real-Time News</title>
     
-    <meta property="og:title" content="VarthaBox | Short News App" />
-    <meta property="og:description" content="Read real-time, hyper-local news in multiple languages." />
+    <meta property="og:title" content="VarthaBox | Premium News" />
+    <meta property="og:description" content="Hyper-local, real-time updates in your language." />
     <meta property="og:image" content="https://badoza.github.io/VarthaBox/icon-512.png" />
     <meta property="og:url" content="https://badoza.github.io/VarthaBox/" />
     <meta property="og:type" content="website" />
@@ -16,154 +16,141 @@
     <link rel="apple-touch-icon" href="icon-192.png">
 
     <style>
-        /* BASE PREMIUM RESET */
+        /* BASE MINIMALIST RESET */
+        :root { --accent: #E63946; --bg: #030303; --surface: #121212; --text: #F8F9FA; --text-muted: #8E8E93; }
+        
         body, html { 
-            margin: 0; padding: 0; 
-            width: 100vw; height: 100vh; 
-            background-color: #050505; 
-            background-image: radial-gradient(circle at 50% 0%, #1a0000 0%, #000000 70%);
-            font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', sans-serif; 
-            overflow: hidden; color: white;
-            -webkit-font-smoothing: antialiased;
+            margin: 0; padding: 0; width: 100vw; height: 100vh; 
+            background-color: var(--bg); color: var(--text);
+            font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', sans-serif; 
+            overflow: hidden; -webkit-font-smoothing: antialiased;
             display: flex; justify-content: center; align-items: center;
         }
 
-        /* DESKTOP DEVICE EMULATOR (Sleek Frame) */
+        /* DESKTOP EMULATOR (Sleek Phone Frame on PC) */
         #app-wrapper {
             position: relative; width: 100%; height: 100%;
-            background-color: #000; overflow: hidden;
+            background-color: var(--bg); overflow: hidden;
         }
         @media (min-width: 768px) {
             #app-wrapper {
-                width: 400px; height: 850px; max-height: 90vh;
-                border-radius: 40px;
-                border: 10px solid #1a1a1a;
-                box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.8), 0 0 0 2px #333;
+                width: 414px; height: 896px; max-height: 92vh;
+                border-radius: 40px; border: 8px solid #222;
+                box-shadow: 0 30px 60px rgba(0,0,0,0.8), 0 0 0 1px #333;
             }
         }
         
-        /* TOP HEADER - Frosted Glass */
+        /* 1. THE SMART HEADER (Fixes Overlap) */
         .top-bar { 
-            position: absolute; top: 0; left: 0; width: 100%; padding: env(safe-area-inset-top, 20px) 20px 15px; 
-            background: linear-gradient(to bottom, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0) 100%);
-            z-index: 100; display: flex; justify-content: space-between; align-items: flex-start; box-sizing: border-box;
-            pointer-events: none; /* Lets clicks pass through the invisible gradient part */
+            position: absolute; top: 0; left: 0; width: 100%; height: 70px;
+            padding: env(safe-area-inset-top, 15px) 20px 10px; 
+            background: rgba(3, 3, 3, 0.85); backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px);
+            z-index: 100; display: flex; justify-content: space-between; align-items: center; 
+            box-sizing: border-box; border-bottom: 1px solid rgba(255,255,255,0.05);
         }
         
-        .brand-container { display: flex; flex-direction: column; justify-content: center; pointer-events: auto;}
-        .brand { font-size: 1.8em; font-weight: 900; color: white; letter-spacing: -0.5px; margin-bottom: 2px; text-shadow: 0 2px 10px rgba(0,0,0,0.5);}
-        .brand span { color: #ff3333; }
-        .dev-by { font-size: 0.7em; color: rgba(255,255,255,0.7); text-decoration: none; font-weight: 500; letter-spacing: 0.5px; text-transform: uppercase;}
+        .brand { font-size: 1.5em; font-weight: 800; letter-spacing: -0.5px; flex-shrink: 0;}
+        .brand span { color: var(--accent); }
         
-        /* LANGUAGE SELECTOR - Sleek Pills */
-        .lang-selector { display: flex; gap: 8px; pointer-events: auto;}
+        /* Minimalist Pill Language Selector */
+        .lang-selector { 
+            display: flex; gap: 4px; background: rgba(255,255,255,0.05); 
+            padding: 4px; border-radius: 20px; flex-shrink: 1; overflow-x: auto;
+        }
         .lang-btn { 
-            background: rgba(255,255,255,0.15); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px);
-            border: 1px solid rgba(255,255,255,0.1); color: white; padding: 6px 14px; border-radius: 30px; 
-            font-size: 0.75em; font-weight: 600; cursor: pointer; transition: all 0.3s ease;
+            background: transparent; border: none; color: var(--text-muted); 
+            padding: 6px 12px; border-radius: 16px; font-size: 0.75em; font-weight: 700; 
+            cursor: pointer; transition: all 0.3s ease; text-transform: uppercase;
         }
-        .lang-btn:active { transform: scale(0.9); }
-        .lang-btn.active { background: #ff3333; border-color: #ff3333; color: white; box-shadow: 0 4px 15px rgba(255, 51, 51, 0.4);}
+        .lang-btn.active { background: var(--text); color: var(--bg); box-shadow: 0 2px 8px rgba(0,0,0,0.3); }
 
-        /* FLOATING LIVE SCORE PILL */
-        .score-ticker-container {
-            position: absolute; top: calc(env(safe-area-inset-top, 20px) + 65px); width: 100%;
-            display: flex; justify-content: center; z-index: 90; pointer-events: none;
-        }
+        /* SLEEK SCORE TICKER */
         .score-ticker { 
-            background: rgba(0, 0, 0, 0.6); backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
-            border: 1px solid rgba(255, 177, 66, 0.3); color: #ffb142; 
-            font-size: 0.8em; font-weight: 700; padding: 8px 20px; border-radius: 30px;
-            white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 85%;
-            box-shadow: 0 8px 20px rgba(0,0,0,0.4); pointer-events: auto;
+            position: absolute; top: 70px; left: 0; width: 100%; height: 32px; line-height: 32px; 
+            background: var(--accent); color: white; font-size: 0.75em; font-weight: 700; 
+            white-space: nowrap; overflow: hidden; text-overflow: ellipsis; 
+            z-index: 90; text-align: center; box-sizing: border-box; letter-spacing: 0.5px;
         }
 
-        /* FULL-SCREEN SWIPER */
+        /* SWIPE CONTAINER */
         #news-container { 
-            position: absolute; top: 0; left: 0; width: 100%; height: 100%; 
+            position: absolute; top: 102px; left: 0; width: 100%; height: calc(100% - 102px); 
             overflow-y: scroll; scroll-snap-type: y mandatory; scroll-behavior: smooth; 
         }
-        #news-container::-webkit-scrollbar { display: none; } /* Hide scrollbar for clean look */
+        #news-container::-webkit-scrollbar { display: none; }
         
-        /* THE IMMERSIVE ARTICLE CARD */
-        .article { height: 100%; width: 100%; scroll-snap-align: start; position: relative; }
+        .article { height: 100%; width: 100%; scroll-snap-align: start; display: flex; flex-direction: column; position: relative; box-sizing: border-box;}
         
-        /* Full Bleed Background Image */
-        .article-img { position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; z-index: 1;}
-        
-        /* Cinematic Gradient Fade (Darkens the bottom so text is readable) */
-        .gradient-overlay {
-            position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 2;
-            background: linear-gradient(to bottom, rgba(0,0,0,0.1) 0%, rgba(0,0,0,0.3) 40%, rgba(0,0,0,0.9) 80%, #000000 100%);
+        /* 2. THE PERFECT IMAGE FIX (Cinematic Blur Container) */
+        .article-visual {
+            position: relative; width: 100%; height: 42vh; overflow: hidden;
+            background: #000; flex-shrink: 0;
+        }
+        .blur-bg {
+            position: absolute; top: -10%; left: -10%; width: 120%; height: 120%;
+            background-size: cover; background-position: center;
+            filter: blur(25px); opacity: 0.4; transform: scale(1.1);
+        }
+        .clear-img {
+            position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+            object-fit: contain; /* PERFECT FIT - NO CROPPING */
+            z-index: 2;
         }
         
-        /* CONTENT POSITIONED AT BOTTOM */
+        /* EDITORIAL CONTENT AREA */
         .content-box { 
-            position: absolute; bottom: 0; left: 0; width: 100%; padding: 20px 20px calc(20px + env(safe-area-inset-bottom, 10px)); 
-            z-index: 3; display: flex; flex-direction: column; box-sizing: border-box;
+            flex-grow: 1; padding: 25px 20px calc(20px + env(safe-area-inset-bottom, 10px)); 
+            display: flex; flex-direction: column; background: var(--bg); box-sizing: border-box;
+            border-top: 1px solid rgba(255,255,255,0.05);
         }
-        
         .meta-row { display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; }
-        .category-tag { background: #ff3333; color: white; font-size: 0.7em; font-weight: 800; padding: 4px 10px; border-radius: 6px; text-transform: uppercase; letter-spacing: 1px; box-shadow: 0 2px 10px rgba(255, 51, 51, 0.3);}
-        .date-tag { font-size: 0.75em; color: rgba(255,255,255,0.6); font-weight: 500; }
+        .category-tag { color: var(--accent); font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px;}
+        .date-tag { font-size: 0.7em; color: var(--text-muted); font-weight: 500; }
         
-        .article h2 { margin: 0 0 12px 0; font-size: 1.55em; line-height: 1.3; font-weight: 800; text-shadow: 0 2px 10px rgba(0,0,0,0.8);}
-        .article p { margin: 0; font-size: 1.05em; line-height: 1.55; color: rgba(255,255,255,0.9); text-shadow: 0 1px 5px rgba(0,0,0,0.8);}
+        .article h2 { margin: 0 0 12px 0; font-size: 1.45em; line-height: 1.35; font-weight: 700; color: var(--text);}
+        .article p { margin: 0; font-size: 1.05em; line-height: 1.6; color: rgba(255,255,255,0.85); flex-grow: 1; font-weight: 400;}
         
-        /* CREATIVE PILL BUTTONS */
-        .action-row { display: flex; gap: 12px; margin-top: 20px;}
+        /* MINIMALIST ICON BUTTONS */
+        .action-row { display: flex; gap: 15px; margin-top: 15px;}
         .action-btn { 
-            flex: 1; padding: 14px; border-radius: 20px; font-weight: 700; font-size: 0.9em; 
+            flex: 1; background: var(--surface); border: 1px solid rgba(255,255,255,0.08); 
+            color: var(--text); padding: 14px; border-radius: 16px; font-weight: 600; font-size: 0.85em; 
             display: flex; justify-content: center; align-items: center; gap: 8px; cursor: pointer;
-            transition: transform 0.2s ease;
+            transition: all 0.2s ease;
         }
-        .action-btn:active { transform: scale(0.95); }
-        .action-btn.glass { 
-            background: rgba(255,255,255,0.15); backdrop-filter: blur(15px); -webkit-backdrop-filter: blur(15px);
-            border: 1px solid rgba(255,255,255,0.2); color: white;
-        }
-        .action-btn.share { 
-            background: linear-gradient(135deg, #ff4d4d, #9e0000); border: none; color: white;
-            box-shadow: 0 4px 15px rgba(158, 0, 0, 0.5);
-        }
+        .action-btn:active { transform: scale(0.96); background: #222;}
+        .action-btn svg { width: 18px; height: 18px; fill: currentColor; }
         
-        .swipe-instruction { text-align: center; font-size: 0.75em; color: rgba(255,255,255,0.5); margin-top: 15px;}
-        .swipe-instruction a { color: #ff3333; text-decoration: none; font-weight: bold;}
+        .action-btn.share { background: var(--text); color: var(--bg); border: none;}
+        .action-btn.share svg { fill: var(--bg); }
+        
+        .swipe-instruction { text-align: center; font-size: 0.75em; color: var(--text-muted); margin-top: 25px;}
+        .swipe-instruction a { color: var(--text); text-decoration: none; font-weight: 600; border-bottom: 1px solid rgba(255,255,255,0.3); padding-bottom: 2px;}
 
-        /* RED LIVE DOT ANIMATION */
-        @keyframes livePulse {
-            0% { opacity: 1; text-shadow: 0 0 5px red;}
-            50% { opacity: 0.4; text-shadow: none;}
-            100% { opacity: 1; text-shadow: 0 0 5px red;}
-        }
-        .live-indicator { animation: livePulse 1.5s infinite; }
+        @keyframes pulse { 0% { opacity: 1; } 50% { opacity: 0.5; } 100% { opacity: 1; } }
+        .live-dot { display: inline-block; width: 6px; height: 6px; background: white; border-radius: 50%; margin-right: 6px; animation: pulse 1s infinite; vertical-align: middle;}
     </style>
 </head>
 <body>
 
 <div id="app-wrapper">
     <div class="top-bar">
-        <div class="brand-container">
-            <div class="brand">Vartha<span>Box</span></div>
-            <a href="https://www.instagram.com/kunal___dongare/" target="_blank" class="dev-by">by Kunal Dongare</a>
-        </div>
+        <div class="brand">Vartha<span>.</span></div>
         <div class="lang-selector">
             <button class="lang-btn active" onclick="setLanguage('en', this)">EN</button>
-            <button class="lang-btn" onclick="setLanguage('kn', this)">ಕನ್ನಡ</button>
-            <button class="lang-btn" onclick="setLanguage('mr', this)">मराठी</button>
-            <button class="lang-btn" onclick="setLanguage('hi', this)">हिंदी</button>
+            <button class="lang-btn" onclick="setLanguage('kn', this)">KN</button>
+            <button class="lang-btn" onclick="setLanguage('mr', this)">MR</button>
+            <button class="lang-btn" onclick="setLanguage('hi', this)">HI</button>
         </div>
     </div>
     
-    <div class="score-ticker-container">
-        <div class="score-ticker" id="live-score">
-            🏏 Fetching Live IPL Score...
-        </div>
+    <div class="score-ticker" id="live-score">
+        <span class="live-dot"></span> Fetching Live Match...
     </div>
     
     <div id="news-container">
-        <div style="height: 100%; display: flex; justify-content: center; align-items: center; text-align: center; padding: 20px; background: #050505; z-index: 10;">
-            <h2>Curating Premium News...<br><span style="font-size: 0.6em; color: #888; font-weight: normal;">Please wait a moment</span></h2>
+        <div style="height: 100%; display: flex; justify-content: center; align-items: center; text-align: center; padding: 20px;">
+            <h2 style="font-weight: 400; color: #888;">Curating News...</h2>
         </div>
     </div>
 </div>
@@ -173,6 +160,11 @@
         let newsData = [];
         const synth = window.speechSynthesis; 
         const langVoiceMap = { 'en': 'en-IN', 'kn': 'kn-IN', 'mr': 'mr-IN', 'hi': 'hi-IN' };
+
+        // Play Icon SVG
+        const iconPlay = `<svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>`;
+        // Share Icon SVG
+        const iconShare = `<svg viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81 1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.16c-.05.21-.08.43-.08.65 0 1.61 1.31 2.92 2.92 2.92 1.61 0 2.92-1.31 2.92-2.92s-1.31-2.92-2.92-2.92z"/></svg>`;
 
         function setLanguage(lang, buttonElement) {
             currentLang = lang;
@@ -200,11 +192,13 @@
                     }
                 }
                 
-                // PREMIUM IMMERSIVE CARD HTML
                 const articleHTML = `
                     <div class="article" id="${article.id}">
-                        <img class="article-img" src="${article.image}" alt="News" onerror="this.src='https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80'">
-                        <div class="gradient-overlay"></div>
+                        
+                        <div class="article-visual">
+                            <div class="blur-bg" style="background-image: url('${article.image}')"></div>
+                            <img class="clear-img" src="${article.image}" alt="News" onerror="this.src='https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80'">
+                        </div>
                         
                         <div class="content-box">
                             <div class="meta-row">
@@ -215,16 +209,16 @@
                             <p>${content.content}</p>
                             
                             <div class="action-row">
-                                <button class="action-btn glass" onclick="readAloud('${article.id}', \`${content.title}\`, \`${content.content}\`)">
-                                    <span style="font-size: 1.2em;">🔊</span> Listen
+                                <button class="action-btn" onclick="readAloud('${article.id}', \`${content.title}\`, \`${content.content}\`)">
+                                    ${iconPlay} Listen
                                 </button>
                                 <button class="action-btn share" onclick="shareArticle('${article.id}', \`${content.title}\`, \`${content.content}\`)">
-                                    <span style="font-size: 1.2em;">🚀</span> Share
+                                    ${iconShare} Share
                                 </button>
                             </div>
 
                             <div class="swipe-instruction">
-                                Swipe up for next story &bull; <a href="${article.link}" target="_blank">View Original Source</a>
+                                Swipe for next &nbsp;&bull;&nbsp; <a href="${article.link}" target="_blank">View Source</a>
                             </div>
                         </div>
                     </div>
@@ -251,13 +245,11 @@
             }
         }
 
-        // Cache Buster
         const uniqueCacheBuster = new Date().getTime();
         fetch(`news.json?v=${uniqueCacheBuster}`)
             .then(response => response.json())
             .then(data => { newsData = data; renderNews(); });
 
-        // SUPER-POLLING IPL LIVE WIDGET (15 Seconds)
         async function fetchLiveScores() {
             const proxyUrl = `https://api.allorigins.win/get?url=${encodeURIComponent('http://static.cricinfo.com/rss/livescores.xml')}`;
             try {
@@ -279,9 +271,9 @@
                     }
 
                     if (matchText.includes("RCB") || matchText.includes("CSK") || matchText.includes("MI") || matchText.includes("IPL")) {
-                         document.getElementById('live-score').innerHTML = `<span class="live-indicator">🔴 LIVE IPL:</span> ${matchText}`;
+                         document.getElementById('live-score').innerHTML = `<span class="live-dot"></span> LIVE IPL: ${matchText}`;
                     } else {
-                         document.getElementById('live-score').innerText = "🏏 " + matchText;
+                         document.getElementById('live-score').innerText = "🏏 LIVE: " + matchText;
                     }
                 }
             } catch (error) {}
