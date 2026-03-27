@@ -1,5 +1,30 @@
 [
     {
+        "id": "25529c4d",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "PM Modi, CMs Discuss Iran War Impact",
+                "content": "PM Modi virtually met Chief Ministers to discuss the Middle East conflict's impact on India's fuel supply, inflation, and logistics. The meeting emphasized Centre-state coordination, preparedness for disruptions, and maintaining stability in essential sectors. Contingency plans for fuel availability and price pressures were reviewed to ensure national resilience."
+            },
+            "kn": {
+                "title": "ಪ್ರಧಾನಿ ಮೋದಿ, ಮುಖ್ಯಮಂತ್ರಿಗಳ ಇರಾನ್ ಯುದ್ಧದ ಪರಿಣಾಮದ ಚರ್ಚೆ",
+                "content": "ಪ್ರಧಾನಿ ಮೋದಿ ಅವರು ಮುಖ್ಯಮಂತ್ರಿಗಳೊಂದಿಗೆ ವಾಸ್ತವ ಸಭೆ ನಡೆಸಿ, ಮಧ್ಯಪ್ರಾಚ್ಯ ಸಂಘರ್ಷದಿಂದ ಭಾರತದ ಇಂಧನ ಪೂರೈಕೆ, ಹಣದುಬ್ಬರ ಮತ್ತು ಲಾಜಿಸ್ಟಿಕ್ಸ್‌ ಮೇಲೆ ಆಗುವ ಪರಿಣಾಮಗಳ ಕುರಿತು ಚರ್ಚಿಸಿದರು. ಸಭೆಯಲ್ಲಿ ಕೇಂದ್ರ-ರಾಜ್ಯ ಸಮನ್ವಯ, ಅಡೆತಡೆಗಳಿಗೆ ಸಿದ್ಧತೆ ಮತ್ತು ಅಗತ್ಯ ವಲಯಗಳಲ್ಲಿ ಸ್ಥಿರತೆಯನ್ನು ಕಾಯ್ದುಕೊಳ್ಳುವುದಕ್ಕೆ ಒತ್ತು ನೀಡಲಾಯಿತು. ರಾಷ್ಟ್ರೀಯ ಸ್ಥಿತಿಸ್ಥಾಪಕತ್ವವನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು ಇಂಧನ ಲಭ್ಯತೆ ಮತ್ತು ಬೆಲೆ ಒತ್ತಡಗಳಿಗೆ ತುರ್ತು ಯೋಜನೆಗಳನ್ನು ಪರಿಶೀಲಿಸಲಾಯಿತು."
+            },
+            "mr": {
+                "title": "पंतप्रधान मोदी, मुख्यमंत्र्यांनी इराण युद्धाच्या परिणामांवर चर्चा केली",
+                "content": "पंतप्रधान मोदींनी मुख्यमंत्र्यांसोबत आभासी बैठक घेऊन मध्यपूर्वेतील संघर्षाचा भारताच्या इंधन पुरवठा, महागाई आणि लॉजिस्टिक्सवरील परिणामांवर चर्चा केली. बैठकीत केंद्र-राज्य समन्वय, संभाव्य अडथळ्यांसाठी तयारी आणि आवश्यक क्षेत्रांमध्ये स्थिरता राखण्यावर भर दिला गेला. राष्ट्रीय लवचिकता सुनिश्चित करण्यासाठी इंधनाची उपलब्धता आणि किमतीच्या दबावासाठी आकस्मिक योजनांचा आढावा घेण्यात आला."
+            },
+            "hi": {
+                "title": "पीएम मोदी, सीएम ने ईरान युद्ध के प्रभाव पर चर्चा की",
+                "content": "पीएम मोदी ने मुख्यमंत्रियों के साथ वर्चुअल बैठक की, जिसमें मध्य पूर्व संघर्ष के भारत की ईंधन आपूर्ति, मुद्रास्फीति और लॉजिस्टिक्स पर पड़ने वाले प्रभावों पर चर्चा हुई। बैठक में केंद्र-राज्य समन्वय, व्यवधानों के लिए तैयारी और आवश्यक क्षेत्रों में स्थिरता बनाए रखने पर जोर दिया गया। राष्ट्रीय लचीलेपन सुनिश्चित करने हेतु ईंधन उपलब्धता और मूल्य दबावों के लिए आकस्मिक योजनाओं की समीक्षा की गई।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129849661,imgsize-71282.cms",
+        "link": "https://timesofindia.indiatimes.com/india/synergy-team-india-spirit-what-was-discussed-in-key-pm-modi-cms-meet-amid-iran-war/articleshow/129849650.cms",
+        "date": "2026-03-27T19:34:13+05:30"
+    },
+    {
         "id": "2859042b",
         "category": "National",
         "translations": {
@@ -1929,29 +1954,5 @@
         },
         "image": "https://static.toiimg.com/photo/msid-129818668,imgsize-148848.cms",
         "link": "https://timesofindia.indiatimes.com/sports/cricket/news/gautam-gambhir-deepfake-case-delhi-hc-orders-google-meta-amazon-to-remove-posts/articleshow/129818625.cms"
-    },
-    {
-        "id": "d107f35d",
-        "category": "Sports",
-        "translations": {
-            "en": {
-                "title": "Yograj Slams Abhishek Sharma Over Focus & Discipline",
-                "content": "Former India cricketer Yograj Singh sharply criticized young opener Abhishek Sharma post-T20 World Cup. Citing off-field distractions and inconsistent tournament performance, Singh questioned Abhishek's focus. He stressed the need for rigorous training and discipline, drawing parallels with son Yuvraj Singh's work ethic, warning that a diverted mind leads to failure."
-            },
-            "kn": {
-                "title": "ಯೋಗರಾಜ್ ಸಿಂಗ್ ಅವರಿಂದ ಅಭಿಷೇಕ್ ಶರ್ಮಾ ಅವರಿಗೆ ಗಮನ ಮತ್ತು ಶಿಸ್ತಿನ ಬಗ್ಗೆ ತೀವ್ರ ತರಾಟೆ",
-                "content": "ಮಾಜಿ ಭಾರತೀಯ ಕ್ರಿಕೆಟಿಗ ಯೋಗರಾಜ್ ಸಿಂಗ್ ಅವರು ಟಿ20 ವಿಶ್ವಕಪ್ ನಂತರ ಯುವ ಆರಂಭಿಕ ಆಟಗಾರ ಅಭಿಷೇಕ್ ಶರ್ಮಾಗೆ ತೀವ್ರ ತರಾಟೆ ತೆಗೆದುಕೊಂಡಿದ್ದಾರೆ. ಮೈದಾನದಿಂದ ಹೊರಗಿನ ಚಟುವಟಿಕೆಗಳು ಮತ್ತು ಸ್ಥಿರವಲ್ಲದ ಪಂದ್ಯಾವಳಿಯ ಪ್ರದರ್ಶನವನ್ನು ಉಲ್ಲೇಖಿಸಿ, ಸಿಂಗ್ ಅವರು ಅಭಿಷೇಕ್ ಅವರ ಗಮನವನ್ನು ಪ್ರಶ್ನಿಸಿದ್ದಾರೆ. ಅವರು ಕಠಿಣ ತರಬೇತಿ ಮತ್ತು ಶಿಸ್ತಿನ ಅಗತ್ಯವನ್ನು ಒತ್ತಿ ಹೇಳಿದರು, ತಮ್ಮ ಮಗ ಯುವರಾಜ್ ಸಿಂಗ್ ಅವರ ಕಾರ್ಯ ನೀತಿಯೊಂದಿಗೆ ಹೋಲಿಸಿ, ಮನಸ್ಸು ಬೇರೆಡೆ ಹೋದರೆ ವೈಫಲ್ಯ ಖಚಿತ ಎಂದು ಎಚ್ಚರಿಸಿದರು."
-            },
-            "mr": {
-                "title": "योगराज सिंह यांचा अभिषेक शर्माला लक्ष आणि शिस्तीवरून फटकार",
-                "content": "माजी भारतीय क्रिकेटपटू योगराज सिंह यांनी टी-20 विश्वचषकानंतर युवा सलामीवीर अभिषेक शर्मावर जोरदार टीका केली आहे. मैदानाबाहेरील व्यत्यय आणि स्पर्धेतील अस्थिर कामगिरीचा उल्लेख करत, सिंह यांनी अभिषेकच्या एकाग्रतेवर प्रश्नचिन्ह उपस्थित केले. त्यांनी कठोर प्रशिक्षण आणि शिस्तीची गरज यावर भर दिला, आपला मुलगा युवराज सिंहच्या कार्यक्षमतेशी तुलना करत, विचलित मन अपयशाकडे नेते असा इशारा दिला."
-            },
-            "hi": {
-                "title": "योगराज सिंह ने अभिषेक शर्मा को एकाग्रता और अनुशासन पर लताड़ा",
-                "content": "पूर्व भारतीय क्रिकेटर योगराज सिंह ने टी20 विश्व कप के बाद युवा सलामी बल्लेबाज अभिषेक शर्मा की कड़ी आलोचना की है। मैदान से बाहर के भटकाव और टूर्नामेंट में असंगत प्रदर्शन का हवाला देते हुए, सिंह ने अभिषेक की एकाग्रता पर सवाल उठाए। उन्होंने कड़े प्रशिक्षण और अनुशासन की आवश्यकता पर जोर दिया, अपने बेटे युवराज सिंह की कार्यशैली से तुलना करते हुए चेतावनी दी कि विचलित मन असफलता की ओर ले जाता है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129818332,imgsize-87948.cms",
-        "link": "https://timesofindia.indiatimes.com/sports/cricket/news/yograj-singh-slams-abhishek-sharma-you-fail-because-your-mind-is-somewhere-else/articleshow/129818318.cms"
     }
 ]
