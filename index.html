@@ -3,9 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
-    <title>VarthaBox | Real-Time News</title>
+    <title>VarthaBox | Premium News</title>
     
-    <meta property="og:title" content="VarthaBox | Premium News" />
+    <meta property="og:title" content="VarthaBox | Real-Time News" />
     <meta property="og:description" content="Hyper-local, real-time updates in your language." />
     <meta property="og:image" content="https://badoza.github.io/VarthaBox/icon-512.png" />
     <meta property="og:url" content="https://badoza.github.io/VarthaBox/" />
@@ -16,131 +16,127 @@
     <link rel="apple-touch-icon" href="icon-192.png">
 
     <style>
-        /* BASE MINIMALIST RESET */
-        :root { --accent: #E63946; --bg: #030303; --surface: #121212; --text: #F8F9FA; --text-muted: #8E8E93; }
+        /* PREMIUM MOBILE RESET */
+        :root { --accent: #E63946; --bg: #000000; --surface: #0f0f0f; --text: #ffffff; --text-muted: #888888; }
         
         body, html { 
-            margin: 0; padding: 0; width: 100vw; height: 100vh; 
+            margin: 0; padding: 0; 
+            width: 100vw; 
+            height: 100dvh; /* Dynamic Viewport Height fixes the bottom getting cut off on mobile */
             background-color: var(--bg); color: var(--text);
             font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', sans-serif; 
             overflow: hidden; -webkit-font-smoothing: antialiased;
-            display: flex; justify-content: center; align-items: center;
         }
 
-        /* DESKTOP EMULATOR (Sleek Phone Frame on PC) */
-        #app-wrapper {
-            position: relative; width: 100%; height: 100%;
-            background-color: var(--bg); overflow: hidden;
-        }
-        @media (min-width: 768px) {
-            #app-wrapper {
-                width: 414px; height: 896px; max-height: 92vh;
-                border-radius: 40px; border: 8px solid #222;
-                box-shadow: 0 30px 60px rgba(0,0,0,0.8), 0 0 0 1px #333;
-            }
-        }
-        
-        /* 1. THE SMART HEADER (Fixes Overlap) */
+        /* 1. TOP HEADER */
         .top-bar { 
-            position: absolute; top: 0; left: 0; width: 100%; height: 70px;
-            padding: env(safe-area-inset-top, 15px) 20px 10px; 
-            background: rgba(3, 3, 3, 0.85); backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px);
+            position: absolute; top: 0; left: 0; width: 100%; height: 65px;
+            padding: env(safe-area-inset-top, 10px) 15px 0 15px; 
+            background: rgba(0, 0, 0, 0.85); backdrop-filter: blur(15px); -webkit-backdrop-filter: blur(15px);
             z-index: 100; display: flex; justify-content: space-between; align-items: center; 
-            box-sizing: border-box; border-bottom: 1px solid rgba(255,255,255,0.05);
+            box-sizing: border-box; border-bottom: 1px solid rgba(255,255,255,0.1);
         }
         
-        .brand { font-size: 1.5em; font-weight: 800; letter-spacing: -0.5px; flex-shrink: 0;}
+        .brand-container { display: flex; flex-direction: column; justify-content: center; }
+        .brand { font-size: 1.5em; font-weight: 900; letter-spacing: -0.5px; margin-bottom: -2px;}
         .brand span { color: var(--accent); }
+        .dev-by { font-size: 0.65em; color: var(--text-muted); text-decoration: none; font-weight: 500; letter-spacing: 0.5px;}
         
-        /* Minimalist Pill Language Selector */
-        .lang-selector { 
-            display: flex; gap: 4px; background: rgba(255,255,255,0.05); 
-            padding: 4px; border-radius: 20px; flex-shrink: 1; overflow-x: auto;
-        }
+        /* Language Selector */
+        .lang-selector { display: flex; gap: 6px; }
         .lang-btn { 
-            background: transparent; border: none; color: var(--text-muted); 
-            padding: 6px 12px; border-radius: 16px; font-size: 0.75em; font-weight: 700; 
-            cursor: pointer; transition: all 0.3s ease; text-transform: uppercase;
+            background: rgba(255,255,255,0.1); border: 1px solid rgba(255,255,255,0.05); 
+            color: var(--text-muted); padding: 6px 12px; border-radius: 16px; 
+            font-size: 0.75em; font-weight: 700; cursor: pointer; transition: 0.2s ease;
         }
-        .lang-btn.active { background: var(--text); color: var(--bg); box-shadow: 0 2px 8px rgba(0,0,0,0.3); }
+        .lang-btn.active { background: #ffffff; color: #000000; }
 
-        /* SLEEK SCORE TICKER */
+        /* 2. SCORE TICKER */
         .score-ticker { 
-            position: absolute; top: 70px; left: 0; width: 100%; height: 32px; line-height: 32px; 
-            background: var(--accent); color: white; font-size: 0.75em; font-weight: 700; 
+            position: absolute; top: 65px; left: 0; width: 100%; height: 35px; line-height: 35px; 
+            background: var(--surface); color: #ffb142; font-size: 0.8em; font-weight: 700; 
             white-space: nowrap; overflow: hidden; text-overflow: ellipsis; 
-            z-index: 90; text-align: center; box-sizing: border-box; letter-spacing: 0.5px;
+            z-index: 90; text-align: center; box-sizing: border-box; 
+            border-bottom: 1px solid rgba(255,255,255,0.05);
         }
 
-        /* SWIPE CONTAINER */
+        /* 3. SWIPE CONTAINER */
         #news-container { 
-            position: absolute; top: 102px; left: 0; width: 100%; height: calc(100% - 102px); 
+            position: absolute; top: 100px; left: 0; width: 100%; 
+            height: calc(100dvh - 100px); /* Strictly fills remaining screen */
             overflow-y: scroll; scroll-snap-type: y mandatory; scroll-behavior: smooth; 
         }
         #news-container::-webkit-scrollbar { display: none; }
         
-        .article { height: 100%; width: 100%; scroll-snap-align: start; display: flex; flex-direction: column; position: relative; box-sizing: border-box;}
-        
-        /* 2. THE PERFECT IMAGE FIX (Cinematic Blur Container) */
-        .article-visual {
-            position: relative; width: 100%; height: 42vh; overflow: hidden;
-            background: #000; flex-shrink: 0;
-        }
-        .blur-bg {
-            position: absolute; top: -10%; left: -10%; width: 120%; height: 120%;
-            background-size: cover; background-position: center;
-            filter: blur(25px); opacity: 0.4; transform: scale(1.1);
-        }
-        .clear-img {
-            position: absolute; top: 0; left: 0; width: 100%; height: 100%;
-            object-fit: contain; /* PERFECT FIT - NO CROPPING */
-            z-index: 2;
+        /* 4. INDIVIDUAL ARTICLE CARD */
+        .article { 
+            height: 100%; width: 100%; scroll-snap-align: start; 
+            display: flex; flex-direction: column; box-sizing: border-box;
         }
         
-        /* EDITORIAL CONTENT AREA */
+        /* Fixed Image Section (No Black Bars) */
+        .article-img { 
+            width: 100%; height: 40%; /* Image takes top 40% */
+            object-fit: cover; /* Perfectly fills the area without distortion */
+            object-position: top center;
+            border-bottom: 2px solid var(--accent);
+            background: #111;
+        }
+        
+        /* Fixed Content Section (Scrollable if text is too long) */
         .content-box { 
-            flex-grow: 1; padding: 25px 20px calc(20px + env(safe-area-inset-bottom, 10px)); 
-            display: flex; flex-direction: column; background: var(--bg); box-sizing: border-box;
-            border-top: 1px solid rgba(255,255,255,0.05);
+            height: 60%; /* Text takes bottom 60% */
+            padding: 20px 20px calc(20px + env(safe-area-inset-bottom, 0px)) 20px; 
+            display: flex; flex-direction: column; 
+            background: var(--bg); box-sizing: border-box;
         }
-        .meta-row { display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; }
-        .category-tag { color: var(--accent); font-size: 0.7em; font-weight: 800; text-transform: uppercase; letter-spacing: 1.5px;}
-        .date-tag { font-size: 0.7em; color: var(--text-muted); font-weight: 500; }
         
-        .article h2 { margin: 0 0 12px 0; font-size: 1.45em; line-height: 1.35; font-weight: 700; color: var(--text);}
-        .article p { margin: 0; font-size: 1.05em; line-height: 1.6; color: rgba(255,255,255,0.85); flex-grow: 1; font-weight: 400;}
-        
-        /* MINIMALIST ICON BUTTONS */
-        .action-row { display: flex; gap: 15px; margin-top: 15px;}
-        .action-btn { 
-            flex: 1; background: var(--surface); border: 1px solid rgba(255,255,255,0.08); 
-            color: var(--text); padding: 14px; border-radius: 16px; font-weight: 600; font-size: 0.85em; 
-            display: flex; justify-content: center; align-items: center; gap: 8px; cursor: pointer;
-            transition: all 0.2s ease;
+        /* Scrolling Text Area */
+        .text-scroll-area {
+            flex-grow: 1; overflow-y: auto; padding-right: 5px;
         }
-        .action-btn:active { transform: scale(0.96); background: #222;}
-        .action-btn svg { width: 18px; height: 18px; fill: currentColor; }
-        
-        .action-btn.share { background: var(--text); color: var(--bg); border: none;}
-        .action-btn.share svg { fill: var(--bg); }
-        
-        .swipe-instruction { text-align: center; font-size: 0.75em; color: var(--text-muted); margin-top: 25px;}
-        .swipe-instruction a { color: var(--text); text-decoration: none; font-weight: 600; border-bottom: 1px solid rgba(255,255,255,0.3); padding-bottom: 2px;}
+        .text-scroll-area::-webkit-scrollbar { width: 4px; }
+        .text-scroll-area::-webkit-scrollbar-thumb { background: #333; border-radius: 4px; }
 
-        @keyframes pulse { 0% { opacity: 1; } 50% { opacity: 0.5; } 100% { opacity: 1; } }
-        .live-dot { display: inline-block; width: 6px; height: 6px; background: white; border-radius: 50%; margin-right: 6px; animation: pulse 1s infinite; vertical-align: middle;}
+        .meta-row { display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px; }
+        .category-tag { color: var(--accent); font-size: 0.75em; font-weight: 800; text-transform: uppercase; letter-spacing: 1px;}
+        .date-tag { font-size: 0.75em; color: var(--text-muted); font-weight: 500; }
+        
+        .article h2 { margin: 0 0 10px 0; font-size: 1.45em; line-height: 1.35; font-weight: 800; color: var(--text);}
+        .article p { margin: 0; font-size: 1.05em; line-height: 1.55; color: #cccccc; font-weight: 400;}
+        
+        /* 5. CLASSY BOTTOM BUTTONS */
+        .action-row { 
+            display: flex; gap: 12px; margin-top: 15px; 
+            padding-top: 15px; border-top: 1px solid rgba(255,255,255,0.1);
+            flex-shrink: 0; /* Prevents buttons from getting squished */
+        }
+        .action-btn { 
+            flex: 1; background: var(--surface); border: 1px solid rgba(255,255,255,0.1); 
+            color: var(--text); padding: 14px; border-radius: 14px; font-weight: 700; font-size: 0.9em; 
+            display: flex; justify-content: center; align-items: center; gap: 8px; cursor: pointer;
+        }
+        .action-btn.share { background: var(--accent); border: none; color: white; }
+        
+        .swipe-instruction { text-align: center; font-size: 0.75em; color: var(--text-muted); margin-top: 15px;}
+        .swipe-instruction a { color: var(--accent); text-decoration: none; font-weight: 600;}
+
+        .live-dot { display: inline-block; width: 6px; height: 6px; background: red; border-radius: 50%; margin-right: 6px; animation: pulse 1s infinite; vertical-align: middle;}
+        @keyframes pulse { 0% { opacity: 1; } 50% { opacity: 0.3; } 100% { opacity: 1; } }
     </style>
 </head>
 <body>
 
-<div id="app-wrapper">
     <div class="top-bar">
-        <div class="brand">Vartha<span>.</span></div>
+        <div class="brand-container">
+            <div class="brand">Vartha<span>Box</span></div>
+            <a href="https://www.instagram.com/kunal___dongare/" target="_blank" class="dev-by">by Kunal Dongare</a>
+        </div>
         <div class="lang-selector">
             <button class="lang-btn active" onclick="setLanguage('en', this)">EN</button>
-            <button class="lang-btn" onclick="setLanguage('kn', this)">KN</button>
-            <button class="lang-btn" onclick="setLanguage('mr', this)">MR</button>
-            <button class="lang-btn" onclick="setLanguage('hi', this)">HI</button>
+            <button class="lang-btn" onclick="setLanguage('kn', this)">ಕನ್ನಡ</button>
+            <button class="lang-btn" onclick="setLanguage('mr', this)">मराठी</button>
+            <button class="lang-btn" onclick="setLanguage('hi', this)">हिंदी</button>
         </div>
     </div>
     
@@ -150,21 +146,15 @@
     
     <div id="news-container">
         <div style="height: 100%; display: flex; justify-content: center; align-items: center; text-align: center; padding: 20px;">
-            <h2 style="font-weight: 400; color: #888;">Curating News...</h2>
+            <h2 style="font-weight: 500; color: #888;">Loading VarthaBox...</h2>
         </div>
     </div>
-</div>
 
     <script>
         let currentLang = 'en';
         let newsData = [];
         const synth = window.speechSynthesis; 
         const langVoiceMap = { 'en': 'en-IN', 'kn': 'kn-IN', 'mr': 'mr-IN', 'hi': 'hi-IN' };
-
-        // Play Icon SVG
-        const iconPlay = `<svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg>`;
-        // Share Icon SVG
-        const iconShare = `<svg viewBox="0 0 24 24"><path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81 1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.16c-.05.21-.08.43-.08.65 0 1.61 1.31 2.92 2.92 2.92 1.61 0 2.92-1.31 2.92-2.92s-1.31-2.92-2.92-2.92z"/></svg>`;
 
         function setLanguage(lang, buttonElement) {
             currentLang = lang;
@@ -194,31 +184,30 @@
                 
                 const articleHTML = `
                     <div class="article" id="${article.id}">
-                        
-                        <div class="article-visual">
-                            <div class="blur-bg" style="background-image: url('${article.image}')"></div>
-                            <img class="clear-img" src="${article.image}" alt="News" onerror="this.src='https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80'">
-                        </div>
+                        <img class="article-img" src="${article.image}" alt="News" onerror="this.src='https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80'">
                         
                         <div class="content-box">
-                            <div class="meta-row">
-                                <span class="category-tag">${article.category}</span>
-                                <span class="date-tag">${displayDate}</span>
+                            <div class="text-scroll-area">
+                                <div class="meta-row">
+                                    <span class="category-tag">${article.category}</span>
+                                    <span class="date-tag">${displayDate}</span>
+                                </div>
+                                <h2>${content.title}</h2>
+                                <p>${content.content}</p>
                             </div>
-                            <h2>${content.title}</h2>
-                            <p>${content.content}</p>
                             
-                            <div class="action-row">
-                                <button class="action-btn" onclick="readAloud('${article.id}', \`${content.title}\`, \`${content.content}\`)">
-                                    ${iconPlay} Listen
-                                </button>
-                                <button class="action-btn share" onclick="shareArticle('${article.id}', \`${content.title}\`, \`${content.content}\`)">
-                                    ${iconShare} Share
-                                </button>
-                            </div>
-
-                            <div class="swipe-instruction">
-                                Swipe for next &nbsp;&bull;&nbsp; <a href="${article.link}" target="_blank">View Source</a>
+                            <div>
+                                <div class="action-row">
+                                    <button class="action-btn" onclick="readAloud('${article.id}', \`${content.title}\`, \`${content.content}\`)">
+                                        🔊 Listen
+                                    </button>
+                                    <button class="action-btn share" onclick="shareArticle('${article.id}', \`${content.title}\`, \`${content.content}\`)">
+                                        🚀 Share
+                                    </button>
+                                </div>
+                                <div class="swipe-instruction">
+                                    Swipe up for next &nbsp;&bull;&nbsp; <a href="${article.link}" target="_blank">Read Full Source</a>
+                                </div>
                             </div>
                         </div>
                     </div>
