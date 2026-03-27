@@ -10,7 +10,6 @@ import time
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 client = genai.Client(api_key=GEMINI_API_KEY)
 
-# Direct publisher RSS feeds to prevent GitHub from being blocked
 SEARCH_FEEDS = {
     "Karnataka Local": "https://timesofindia.indiatimes.com/rssfeeds/46088681.cms",
     "National": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms",
@@ -21,16 +20,13 @@ SEARCH_FEEDS = {
 }
 
 def extract_real_image(url, entry):
-    # 1. Check official RSS enclosures
     if 'enclosures' in entry and len(entry.enclosures) > 0:
         return entry.enclosures[0].get('href', '')
     
-    # 2. Check hidden summary tags
     img_match = re.search(r'<img[^>]+src="([^">]+)"', entry.summary)
     if img_match:
         return img_match.group(1)
         
-    # 3. Scrape the live website for the high-res meta image
     try:
         headers = {'User-Agent': 'Mozilla/5.0'}
         response = requests.get(url, headers=headers, timeout=5)
@@ -40,7 +36,6 @@ def extract_real_image(url, entry):
     except Exception:
         pass
         
-    # 4. Premium Fallback
     return "https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80"
 
 def generate_id(url):
@@ -72,6 +67,9 @@ def run_news_pipeline():
                 
             image_url = extract_real_image(entry.link, entry)
             
+            # Extract the official published date
+            pub_date = entry.get('published', '') or entry.get('updated', '')
+            
             prompt = f"""
             Rewrite this raw news into a tight, engaging, 60-word summary for an app.
             Translate the title and summary perfectly into Kannada, Marathi, and Hindi.
@@ -96,18 +94,19 @@ def run_news_pipeline():
                     "category": category,
                     "translations": translations,
                     "image": image_url,
-                    "link": entry.link
+                    "link": entry.link,
+                    "date": pub_date # Saving the date to the database
                 }
                 new_articles.append(article)
                 print(f"Successfully processed {category}!")
-                time.sleep(4) # Prevent rate limits
+                time.sleep(4) 
                 
             except Exception as e:
                 print(f"Skipped article due to error.")
                 time.sleep(4)
 
     updated_db = new_articles + current_db
-    updated_db = updated_db[:80] # Keep 80 articles for endless swiping
+    updated_db = updated_db[:80] 
     
     with open("news.json", "w", encoding='utf-8') as f:
         json.dump(updated_db, f, ensure_ascii=False, indent=4)
