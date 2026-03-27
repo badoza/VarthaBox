@@ -1,5 +1,80 @@
 [
     {
+        "id": "9fff45d4",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "Gattuso: Milan Beat Napoli to Tonali Signing",
+                "content": "Gennaro Gattuso revealed a behind-the-scenes transfer story, stating he attempted to bring midfielder Sandro Tonali to Napoli. However, AC Milan ultimately proved more successful in acquiring the player. Gattuso shared his efforts during his tenure at Napoli, highlighting the competitive nature of top-tier club transfers and Milan's triumph in securing the talented Italian."
+            },
+            "kn": {
+                "title": "ಗಟ್ಟೂಸೋ: ಟೊನಾಲಿ ಸೇರ್ಪಡೆಗಾಗಿ ಮಿಲನ್ ನಾಪೋಲಿಯನ್ನು ಸೋಲಿಸಿತು",
+                "content": "ಜೆನ್ನಾರೋ ಗಟ್ಟೂಸೋ ಒಂದು ತೆರೆಮರೆಯ ವರ್ಗಾವಣೆ ಕಥೆಯನ್ನು ಬಹಿರಂಗಪಡಿಸಿದರು, ಮಿಡ್‌ಫೀಲ್ಡರ್ ಸ್ಯಾಂಡ್ರೋ ಟೊನಾಲಿಯನ್ನು ನಾಪೋಲಿಗೆ ಕರೆತರಲು ತಾನು ಪ್ರಯತ್ನಿಸಿದ್ದೆ ಎಂದು ಹೇಳಿದರು. ಆದಾಗ್ಯೂ, ಎಸಿ ಮಿಲನ್ ಅಂತಿಮವಾಗಿ ಆಟಗಾರನನ್ನು ಪಡೆಯುವಲ್ಲಿ ಹೆಚ್ಚು ಯಶಸ್ವಿಯಾಯಿತು. ನಾಪೋಲಿಯಲ್ಲಿ ತನ್ನ ಅವಧಿಯಲ್ಲಿ ಗಟ್ಟೂಸೋ ತಮ್ಮ ಪ್ರಯತ್ನಗಳನ್ನು ಹಂಚಿಕೊಂಡರು, ಉನ್ನತ ಮಟ್ಟದ ಕ್ಲಬ್ ವರ್ಗಾವಣೆಗಳ ಸ್ಪರ್ಧಾತ್ಮಕ ಸ್ವರೂಪ ಮತ್ತು ಪ್ರತಿಭಾವಂತ ಇಟಾಲಿಯನ್ ಆಟಗಾರನನ್ನು ಪಡೆಯುವಲ್ಲಿ ಮಿಲನ್‌ನ ವಿಜಯವನ್ನು ಎತ್ತಿ ತೋರಿಸಿದರು."
+            },
+            "mr": {
+                "title": "गट्टूसो: मिलानने नापोलीला हरवून टोनालीला करारबद्ध केले",
+                "content": "जेन्नारो गट्टूसोने पडद्यामागची एक हस्तांतरण कथा उघड केली, ज्यात त्यांनी सांगितले की त्यांनी मिडफिल्डर सांड्रो टोनालीला नापोलीमध्ये आणण्याचा प्रयत्न केला होता. मात्र, एसी मिलानने शेवटी त्या खेळाडूला मिळवण्यात अधिक यश मिळवले. नापोलीमध्ये असताना गट्टूसोने आपले प्रयत्न सांगितले, ज्यामुळे उच्च-स्तरीय क्लब हस्तांतरणाचे स्पर्धात्मक स्वरूप आणि प्रतिभावान इटालियन खेळाडूला मिळवण्यात मिलानचा विजय अधोरेखित झाला."
+            },
+            "hi": {
+                "title": "गैट्टूसो: मिलान ने टोनाली के लिए नेपोली को पछाड़ा",
+                "content": "गेन्नारो गैट्टूसो ने एक पर्दे के पीछे की ट्रांसफर कहानी का खुलासा किया, जिसमें उन्होंने बताया कि उन्होंने मिडफील्डर सैंड्रो टोनाली को नेपोली में लाने की कोशिश की थी। हालांकि, एसी मिलान अंततः खिलाड़ी को हासिल करने में अधिक सफल रहा। नेपोली में अपने कार्यकाल के दौरान गैट्टूसो ने अपने प्रयासों को साझा किया, जिसमें शीर्ष-स्तरीय क्लब हस्तांतरण की प्रतिस्पर्धी प्रकृति और प्रतिभाशाली इतालवी खिलाड़ी को सुरक्षित करने में मिलान की जीत पर प्रकाश डाला गया।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNZW9JS21pcVRnTGJxUnlvN2pOV0owcG1hOWxVV3F1LVNwdENaYkx0VVhrN0hvWTNZSjJvcnBzcG5MU2syTll5aDFndXh1cTJ5MUNNeDFRbDZiTTBXYXgtbVBWcmgzSDBfMlRlclVKUWxmWVlGaHhPSnJpZ0tYVTNvNWhyejRMTWVoclFmN2ZUbTlxU2tJVHNNOC1OSG9ZX1lidXRqUkhkN2ZXWWNtWGtVck5OZjFlTW8tLXhORkNSRFRScUdORzA2VDhCNDEyTF9fRGp2OFBIQVczQklTTUdXcTRXOGtaTlp3V0JRWkd0bEVKRDZRUjVlRldnZ21JWS1uV1I1Zm1tTzB0akpaUkROTE5n?oc=5",
+        "date": "Fri, 27 Mar 2026 10:57:10 GMT"
+    },
+    {
+        "id": "d1dac196",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "Hardik Pandya's Generous Gesture for Wankhede Ground Staff",
+                "content": "Indian cricketer Hardik Pandya has donated ₹10,000 each to every member of the Wankhede Stadium ground staff. This thoughtful gesture is a token of appreciation for their tireless efforts in maintaining the pitch and grounds. Pandya's act highlights the crucial role these unsung heroes play in cricket, recognizing their dedication beyond the field."
+            },
+            "kn": {
+                "title": "ಹಾರ್ದಿಕ್ ಪಾಂಡ್ಯರಿಂದ ವಾಂಖೆಡೆ ಮೈದಾನ ಸಿಬ್ಬಂದಿಗೆ ಉದಾರ ಕೊಡುಗೆ",
+                "content": "ಭಾರತೀಯ ಕ್ರಿಕೆಟಿಗ ಹಾರ್ದಿಕ್ ಪಾಂಡ್ಯ ಅವರು ವಾಂಖೆಡೆ ಸ್ಟೇಡಿಯಂನ ಪ್ರತಿಯೊಬ್ಬ ಮೈದಾನ ಸಿಬ್ಬಂದಿಗೆ ತಲಾ ₹10,000 ದೇಣಿಗೆ ನೀಡಿದ್ದಾರೆ. ಅವರ ನಿರಂತರ ಪ್ರಯತ್ನಗಳನ್ನು ಮತ್ತು ಪಿಚ್ ಹಾಗೂ ಮೈದಾನಗಳನ್ನು ನಿರ್ವಹಿಸುವಲ್ಲಿನ ಸಮರ್ಪಣೆಯನ್ನು ಪ್ರಶಂಸಿಸಲು ಈ ಸೌಹಾರ್ದಯುತ ಕೊಡುಗೆ ನೀಡಲಾಗಿದೆ. ಪಾಂಡ್ಯ ಅವರ ಈ ಕಾರ್ಯವು ಕ್ರಿಕೆಟ್‌ನಲ್ಲಿ ಈ ಅಪ್ರಕಟಿತ ವೀರರು ವಹಿಸುವ ನಿರ್ಣಾಯಕ ಪಾತ್ರವನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ, ಮೈದಾನದಾಚೆಗಿನ ಅವರ ಸಮರ್ಪಣೆಯನ್ನು ಗುರುತಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "हार्दिक पांड्याचा वानखेडे मैदानातील कर्मचाऱ्यांसाठी उदार सत्कार",
+                "content": "भारतीय क्रिकेटपटू हार्दिक पांड्याने वानखेडे स्टेडियमच्या प्रत्येक मैदानातील कर्मचाऱ्याला प्रत्येकी ₹10,000 दान केले आहेत. ही विचारपूर्वक केलेली कृती म्हणजे पिच आणि मैदानांची देखभाल करण्यासाठी केलेल्या त्यांच्या अथक प्रयत्नांची आणि निष्ठेची प्रशंसा आहे. पांड्याच्या या कृतीमुळे क्रिकेटमध्ये या 'अनामिक हिरों'ची महत्त्वाची भूमिका अधोरेखित होते, त्यांच्या मैदानावरील योगदानाला मान्यता मिळते."
+            },
+            "hi": {
+                "title": "हार्दिक पांड्या का वानखेड़े ग्राउंड स्टाफ के लिए उदार भाव",
+                "content": "भारतीय क्रिकेटर हार्दिक पांड्या ने वानखेड़े स्टेडियम के प्रत्येक ग्राउंड स्टाफ सदस्य को ₹10,000 का दान दिया है। यह विचारशील कदम पिच और मैदानों के रखरखाव में उनके अथक प्रयासों और समर्पण की सराहना के प्रतीक के रूप में है। पांड्या का यह कार्य क्रिकेट में इन गुमनाम नायकों की महत्वपूर्ण भूमिका को उजागर करता है, मैदान से परे उनके योगदान को पहचानता है।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNbUhvUGFvT3FGdVVSTm02bzc5YWhMaVVpemp4S0ZmZkdoc2lyb1h3ZnBWekFsNmloYkltNGFwaHlsa1JTU2IzTnNWTHZwc2doV19Gbl8tUXdXTFVMR3luM3prQmk1OVBOTDdTWjRwc1Rmd2hnLUI4NmM4bUVVUkRPSklqTm9uMVpOLXZOUV9idFpiM1ZYeFlmR2RjcEwxSXFaUjRDRk9LVFZMc0tHWmtPRFZuOXo5M1Nrb184NXQ3ZnRIaFMwVFRCcThqamlnVGhRVGxLZWpqMXZ5Z1d4MVpzdzY3Q0ZJcGVjYUQxNEo1a2RBbHc0VE9PN2JxblExQdIB_gFBVV95cUxNbUhvUGFvT3FGdVVSTm02bzc5YWhMaVVpemp4S0ZmZkdoc2lyb1h3ZnBWekFsNmloYkltNGFwaHlsa1JTU2IzTnNWTHZwc2doV19Gbl8tUXdXTFVMR3luM3prQmk1OVBOTDdTWjRwc1Rmd2hnLUI4NmM4bUVVUkRPSklqTm9uMVpOLXZOUV9idFpiM1ZYeFlmR2RjcEwxSXFaUjRDRk9LVFZMc0tHWmtPRFZuOXo5M1Nrb184NXQ3ZnRIaFMwVFRCcThqamlnVGhRVGxLZWpqMXZ5Z1d4MVpzdzY3Q0ZJcGVjYUQxNEo1a2RBbHc0VE9PN2JxblExQQ?oc=5",
+        "date": "Fri, 27 Mar 2026 12:04:18 GMT"
+    },
+    {
+        "id": "05637124",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "Breaking Bad Spin-Off Hint? Hank Schrader Speaks!",
+                "content": "Dean Norris, beloved as Hank Schrader from \"Breaking Bad,\" has sparked immense excitement among fans with a cryptic announcement. While not explicitly confirming a new spin-off or project, his playful hint about \"something brewing\" related to the iconic series has sent ripples across the internet. Could the compelling world of Walter White be expanding soon? Fans are eagerly awaiting more details!"
+            },
+            "kn": {
+                "title": "ಬ್ರೇಕಿಂಗ್ ಬ್ಯಾಡ್ ಸ್ಪಿನ್-ಆಫ್ ಸುಳಿವು? ಹ್ಯಾಂಕ್ ಶ್ರೇಡರ್ ಮಾತನಾಡಿದರು!",
+                "content": "ಬ್ರೇಕಿಂಗ್ ಬ್ಯಾಡ್‌ನ ಹ್ಯಾಂಕ್ ಶ್ರೇಡರ್ ಆಗಿ ಪ್ರಸಿದ್ಧರಾದ ಡೀನ್ ನಾರ್ರಿಸ್, ಒಂದು ನಿಗೂಢ ಪ್ರಕಟಣೆಯೊಂದಿಗೆ ಅಭಿಮಾನಿಗಳಲ್ಲಿ ಅಪಾರ ಉತ್ಸಾಹ ಮೂಡಿಸಿದ್ದಾರೆ. ಹೊಸ ಸ್ಪಿನ್-ಆಫ್ ಅಥವಾ ಪ್ರಾಜೆಕ್ಟ್ ಅನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ದೃಢೀಕರಿಸದಿದ್ದರೂ, ಐಕಾನಿಕ್ ಸರಣಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ 'ಏನೋ brewing' ಇದೆ ಎಂಬ ಅವರ ತಮಾಷೆಯ ಸುಳಿವಿನಿಂದ ಇಂಟರ್ನೆಟ್‌ನಲ್ಲಿ ಸಂಚಲನ ಸೃಷ್ಟಿಯಾಗಿದೆ. ವಾಲ್ಟರ್ ವೈಟ್‌ನ ಆಕರ್ಷಕ ಪ್ರಪಂಚವು ಶೀಘ್ರದಲ್ಲೇ ವಿಸ್ತರಿಸಬಹುದೇ? ಅಭಿಮಾನಿಗಳು ಹೆಚ್ಚಿನ ವಿವರಗಳಿಗಾಗಿ ಕುತೂಹಲದಿಂದ ಕಾಯುತ್ತಿದ್ದಾರೆ!"
+            },
+            "mr": {
+                "title": "ब्रेकिंग बॅड स्पिन-ऑफचा सुगावा? हँक श्रॅडर बोलले!",
+                "content": "ब्रेकिंग बॅड'मधील हँक श्रॅडर म्हणून प्रसिद्ध असलेल्या डीन नॉरिस यांनी एका गूढ घोषणेने चाहत्यांमध्ये प्रचंड उत्सुकता निर्माण केली आहे. नवीन स्पिन-ऑफ किंवा प्रकल्पाची स्पष्टपणे पुष्टी न करताही, प्रतिष्ठित मालिकेबद्दल 'काहीतरी शिजत आहे' या त्यांच्या विनोदी इशाऱ्याने इंटरनेटवर खळबळ उडवून दिली आहे. वॉल्टर व्हाईटचे आकर्षक जग लवकरच विस्तारू शकते का? चाहते अधिक तपशीलांसाठी आतुरतेने वाट पाहत आहेत!"
+            },
+            "hi": {
+                "title": "ब्रेकिंग बैड स्पिन-ऑफ का संकेत? हैंक श्रैडर ने दिया बयान!",
+                "content": "ब्रेकिंग बैड\" में हैंक श्रैडर के रूप में पसंद किए जाने वाले डीन नॉरिस ने एक रहस्यमय घोषणा से प्रशंसकों में अत्यधिक उत्साह भर दिया है। नए स्पिन-ऑफ या प्रोजेक्ट की स्पष्ट रूप से पुष्टि न करते हुए भी, प्रतिष्ठित सीरीज़ से संबंधित 'कुछ पक रहा है' के उनके चंचल संकेत ने इंटरनेट पर हलचल मचा दी है। क्या वॉल्टर व्हाइट की सम्मोहक दुनिया जल्द ही विस्तार कर सकती है? प्रशंसक बेसब्री से अधिक जानकारी का इंतजार कर रहे हैं!"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNX0ZVWHpDUmhNMndYeHg3czBkRjdyTHh0RWRlQ2pmeGlYVlR6VjhmZEt0XzdJUk9TRlphUHd1TWRiRTJJbk1VTHBKMk0xdnlTT3pDVkRlRlc5c0VBOHMxTEVTalNGTEJvbnIwRm1yVkcweWk0TS1PSWh3ZUpFMmxuTkh0cFNydnpKS3VGX1drdmZhNWtsdEFOWVhzc3NlbGkwU3R5bFJJX2FnbjFROWIxb0wxQllHSWhnY002a0tVekNpbU1UeVVnd3IzNFJVN091bG5IcXNPeWxIZ2Fab3hpRFRvcmt1RG0wYy00TWExVC0zQ0h3eGlJX2RSVGfSAYICQVVfeXFMUEU4U2Z5Qkd4YnRUN1dQVlF1WVFfN1FjbU5RTkFYczAzR1RHZFFYYmlrWmstaU1iQnRzcDAwdkxJT2UzU2xNdmphVnJzS1FkNXdrdGxBQS1DOENWU2NQbHBMUU1zdG5Lejd4aGxwalUxUnlMWWNOMnJPT1RBSkFOVDVVYV9sRmxCQ1JEaTVTUHFtQUJ1UGJKX3pGVGlTZWJmbHlRMUVfUW5LNTBXU2sxaUpjQkRiWHB2STl0SVhZVzlUZXZOMEdQNGMtN3F3UmVOSEV2VDdEaG9GSi1sRjYwY20wUDI0ZWZhNFpTVUJtbGJzcUFCMnNVYkZOYUJUY3BGTUZR?oc=5",
+        "date": "Fri, 27 Mar 2026 08:52:13 GMT"
+    },
+    {
         "id": "2ad5d5af",
         "category": "IPL Scoop",
         "translations": {
@@ -1888,77 +1963,5 @@
         },
         "image": "https://static.toiimg.com/photo/msid-129817548,imgsize-533811.cms",
         "link": "https://timesofindia.indiatimes.com/world/middle-east/kuwait-airways-to-allow-saudi-transit-visa-during-ticket-booking-where-to-apply-required-documents-all-you-need-to-know/articleshow/129817125.cms"
-    },
-    {
-        "id": "0d84494c",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "Vance's Pakistan Trip: US-Iran De-escalation Push Looms",
-                "content": "US VP JD Vance might visit Pakistan this week for crucial backchannel talks with Iran, aiming to de-escalate the Middle East conflict. This potential mediation follows Iran's preference for negotiating through Vance. Pakistan has offered to host these sensitive discussions, even as the US maintains military pressure, signaling a diplomatic push amid regional tensions."
-            },
-            "kn": {
-                "title": "ವೇನ್ಸ್ ಪಾಕಿಸ್ತಾನ ಭೇಟಿ: ಅಮೆರಿಕ-ಇರಾನ್ ಬಿಕ್ಕಟ್ಟು ಶಮನಕ್ಕೆ ಯತ್ನ",
-                "content": "ಅಮೆರಿಕದ ಉಪಾಧ್ಯಕ್ಷ ಜೆಡಿ ವೇನ್ಸ್ ಈ ವಾರ ಪಾಕಿಸ್ತಾನಕ್ಕೆ ಭೇಟಿ ನೀಡಿ ಇರಾನ್ ಜೊತೆ ರಹಸ್ಯ ಮಾತುಕತೆ ನಡೆಸುವ ಸಾಧ್ಯತೆಯಿದೆ. ಮಧ್ಯಪ್ರಾಚ್ಯದಲ್ಲಿನ ಬಿಕ್ಕಟ್ಟನ್ನು ಶಮನಗೊಳಿಸುವುದು ಇದರ ಗುರಿಯಾಗಿದೆ. ಇರಾನ್, ವೇನ್ಸ್ ಮೂಲಕ ಮಾತುಕತೆ ನಡೆಸಲು ಆದ್ಯತೆ ನೀಡಿರುವುದರಿಂದ ಈ ಸಂಭಾವ್ಯ ಮಧ್ಯಸ್ಥಿಕೆ ಸಾಧ್ಯವಾಗಿದೆ. ಅಮೆರಿಕ ಮಿಲಿಟರಿ ಒತ್ತಡವನ್ನು ಕಾಯ್ದುಕೊಂಡಿದ್ದರೂ, ಪಾಕಿಸ್ತಾನ ಈ ಸೂಕ್ಷ್ಮ ಚರ್ಚೆಗಳಿಗೆ ಆತಿಥ್ಯ ನೀಡಲು ಮುಂದಾಗಿದೆ, ಇದು ಪ್ರಾದೇಶಿಕ ಉದ್ವಿಗ್ನತೆಗಳ ನಡುವೆ ರಾಜತಾಂತ್ರಿಕ ಪ್ರಯತ್ನವನ್ನು ಸೂಚಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "वेन्सचा पाकिस्तान दौरा: अमेरिका-इराण तणाव कमी करण्याचा प्रयत्न?",
-                "content": "अमेरिकेचे उपाध्यक्ष जेडी वेन्स या आठवड्यात पाकिस्तानला भेट देऊन इराणसोबत महत्त्वपूर्ण पडद्यामागील चर्चा करण्याची शक्यता आहे. याचा उद्देश मध्यपूर्वेतील संघर्ष कमी करणे आहे. इराणने वेन्सच्या माध्यमातून वाटाघाटी करण्यास प्राधान्य दिल्याने हे संभाव्य मध्यस्थी शक्य झाली आहे. अमेरिका लष्करी दबाव कायम ठेवत असतानाही, पाकिस्तानने या संवेदनशील चर्चांसाठी यजमानपद स्वीकारण्याची ऑफर दिली आहे, जे प्रादेशिक तणावामध्ये मुत्सद्दीपणाच्या प्रयत्नांचे संकेत देते."
-            },
-            "hi": {
-                "title": "वेन्स का पाकिस्तान दौरा: अमेरिका-ईरान तनाव कम करने की पहल",
-                "content": "अमेरिकी उपराष्ट्रपति जेडी वेन्स इस सप्ताह ईरान के साथ महत्वपूर्ण परोक्ष वार्ता के लिए पाकिस्तान का दौरा कर सकते हैं, जिसका उद्देश्य मध्य पूर्व संघर्ष को कम करना है। यह संभावित मध्यस्थता ईरान की वेन्स के माध्यम से बातचीत करने की प्राथमिकता के बाद आई है। अमेरिका सैन्य दबाव बनाए हुए है, फिर भी पाकिस्तान ने इन संवेदनशील चर्चाओं की मेजबानी की पेशकश की है, जो क्षेत्रीय तनाव के बीच एक राजनयिक प्रयास का संकेत देता है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129816702,imgsize-1147733.cms",
-        "link": "https://timesofindia.indiatimes.com/world/us/us-iran-mediation-jd-vance-might-visit-pakistan-over-weekend-to-talk-it-out-with-tehran/articleshow/129816652.cms"
-    },
-    {
-        "id": "21a1163a",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "White House Warns Iran: \"Unleash Hell\" Over Deal Rejection",
-                "content": "The White House issued a stern warning to Iran, asserting President Trump will \"unleash hell\" if Tehran rejects a deal to end the Middle East conflict. Press secretary Karoline Leavitt stated Iran is militarily defeated and will face intensified strikes for any miscalculation. The message underscores US resolve amidst regional tensions, pushing Iran to accept reality or face severe consequences."
-            },
-            "kn": {
-                "title": "ಶ್ವೇತಭವನದಿಂದ ಇರಾನ್‌ಗೆ ಎಚ್ಚರಿಕೆ: ಒಪ್ಪಂದ ನಿರಾಕರಿಸಿದರೆ \"ನರಕವನ್ನು ಸಡಿಲಿಸುತ್ತೇವೆ\"",
-                "content": "ಶ್ವೇತಭವನವು ಇರಾನ್‌ಗೆ ಕಠಿಣ ಎಚ್ಚರಿಕೆ ನೀಡಿದ್ದು, ಮಧ್ಯಪ್ರಾಚ್ಯ ಸಂಘರ್ಷವನ್ನು ಕೊನೆಗೊಳಿಸುವ ಒಪ್ಪಂದವನ್ನು ಟೆಹ್ರಾನ್ ನಿರಾಕರಿಸಿದರೆ ಅಧ್ಯಕ್ಷ ಟ್ರಂಪ್ \"ನರಕವನ್ನು ಸಡಿಲಿಸಲಿದ್ದಾರೆ\" ಎಂದು ಹೇಳಿದೆ. ಇರಾನ್ ಮಿಲಿಟರಿ ಸೋಲನ್ನು ಅನುಭವಿಸಿದೆ ಮತ್ತು ಯಾವುದೇ ತಪ್ಪು ಲೆಕ್ಕಾಚಾರಕ್ಕೆ ತೀವ್ರಗೊಂಡ ದಾಳಿಯನ್ನು ಎದುರಿಸಲಿದೆ ಎಂದು ಪತ್ರಿಕಾ ಕಾರ್ಯದರ್ಶಿ ಕರೋಲಿನ್ ಲೀವಿಟ್ ತಿಳಿಸಿದ್ದಾರೆ. ಈ ಸಂದೇಶವು ಪ್ರಾದೇಶಿಕ ಉದ್ವಿಗ್ನತೆಗಳ ನಡುವೆ ಅಮೆರಿಕದ ದೃಢತೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ, ಇರಾನ್‌ಗೆ ವಾಸ್ತವವನ್ನು ಒಪ್ಪಿಕೊಳ್ಳಲು ಅಥವಾ ಗಂಭೀರ ಪರಿಣಾಮಗಳನ್ನು ಎದುರಿಸಲು ಒತ್ತಾಯಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "व्हाईट हाऊसचा इराणला इशारा: करार नाकारल्यास \"अग्नितांडव\"",
-                "content": "व्हाईट हाऊसने इराणला तीव्र इशारा दिला आहे की, मध्यपूर्वेतील संघर्ष संपवण्याचा करार तेहरानने नाकारल्यास अध्यक्ष ट्रम्प \"अग्नितांडव\" करतील. प्रेस सचिव कॅरोलिन लीव्हिट यांनी सांगितले की, इराणचा लष्करी पराभव झाला आहे आणि कोणत्याही चुकीच्या अंदाजामुळे त्याला तीव्र हल्ल्यांना सामोरे जावे लागेल. हा संदेश प्रादेशिक तणावांमध्ये अमेरिकेचा दृढनिश्चय अधोरेखित करतो, इराणला वास्तव स्वीकारण्यास किंवा गंभीर परिणामांना सामोरे जाण्यास प्रवृत्त करतो."
-            },
-            "hi": {
-                "title": "व्हाइट हाउस की ईरान को चेतावनी: सौदा ठुकराया तो \"नरक का कोप\"",
-                "content": "व्हाइट हाउस ने ईरान को कड़ी चेतावनी दी है कि यदि तेहरान मध्य पूर्व संघर्ष को समाप्त करने के सौदे को अस्वीकार करता है तो राष्ट्रपति ट्रंप \"नरक का कोप\" बरसाएंगे। प्रेस सचिव कैरोलिन लीविट ने कहा कि ईरान सैन्य रूप से पराजित हो चुका है और किसी भी गलत अनुमान पर उसे तीव्र हमलों का सामना करना पड़ेगा। यह संदेश क्षेत्रीय तनावों के बीच अमेरिकी दृढ़ संकल्प को रेखांकित करता है, ईरान को वास्तविकता स्वीकार करने या गंभीर परिणामों का सामना करने के लिए प्रेरित करता है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129815367,imgsize-983865.cms",
-        "link": "https://timesofindia.indiatimes.com/world/us/trump-doesnt-bluff-white-house-warns-iran-says-will-unleash-hell-against-any-miscalculation/articleshow/129815370.cms"
-    },
-    {
-        "id": "fa07a77d",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "NASA's Artemis II Targets 2026 Moon Orbit",
-                "content": "NASA's historic Artemis II lunar mission is now slated for a 2026 launch window, bringing humanity closer to the Moon. Astronauts will orbit our celestial neighbor, a critical precursor to future human landings under the ambitious Artemis program. This monumental journey marks a significant step in deep space exploration, reigniting the spirit of lunar discovery. Get ready for a monumental leap!"
-            },
-            "kn": {
-                "title": "NASA ದ ಆರ್ಟೆಮಿಸ್ II 2026 ರಲ್ಲಿ ಚಂದ್ರನ ಕಕ್ಷೆಗೆ ಗುರಿ",
-                "content": "NASA ದ ಐತಿಹಾಸಿಕ ಆರ್ಟೆಮಿಸ್ II ಚಂದ್ರಯಾನವು ಈಗ 2026 ರಲ್ಲಿ ಉಡಾವಣೆಗೆ ಸಿದ್ಧವಾಗಿದೆ, ಇದು ಮಾನವಕುಲವನ್ನು ಚಂದ್ರನಿಗೆ ಹತ್ತಿರ ತರುತ್ತದೆ. ಗಗನಯಾತ್ರಿಗಳು ನಮ್ಮ ಆಕಾಶ ನೆರೆಹೊರೆಯನ್ನು ಸುತ್ತುತ್ತಾರೆ, ಇದು ಮಹತ್ವಾಕಾಂಕ್ಷೆಯ ಆರ್ಟೆಮಿಸ್ ಕಾರ್ಯಕ್ರಮದ ಅಡಿಯಲ್ಲಿ ಭವಿಷ್ಯದ ಮಾನವ ಇಳಿಯುವಿಕೆಗೆ ನಿರ್ಣಾಯಕ ಪೂರ್ವಗಾಮಿಯಾಗಿದೆ. ಈ ಮಹತ್ವದ ಪ್ರಯಾಣವು ಆಳವಾದ ಬಾಹ್ಯಾಕಾಶ ಪರಿಶೋಧನೆಯಲ್ಲಿ ಒಂದು ಮಹತ್ವದ ಹೆಜ್ಜೆಯಾಗಿದೆ, ಚಂದ್ರನ ಆವಿಷ್ಕಾರದ ಮನೋಭಾವವನ್ನು ಪುನರುಜ್ಜೀವನಗೊಳಿಸುತ್ತದೆ. ಒಂದು ಭವ್ಯವಾದ ನೆಗೆತಕ್ಕೆ ಸಿದ್ಧರಾಗಿ!"
-            },
-            "mr": {
-                "title": "नासाचे आर्टेमिस II 2026 मध्ये चंद्राच्या कक्षेकडे",
-                "content": "नासाचे ऐतिहासिक आर्टेमिस II चंद्र मोहीम आता 2026 च्या प्रक्षेपण कालावधीसाठी नियोजित आहे, ज्यामुळे मानवतेला चंद्राच्या जवळ आणले जाईल. अंतराळवीर आपल्या आकाशीय शेजाऱ्याभोवती फिरतील, जे महत्त्वाकांक्षी आर्टेमिस कार्यक्रमांतर्गत भविष्यातील मानवी लँडिंगसाठी एक महत्त्वपूर्ण पूर्वसूचक आहे. हा महत्त्वाचा प्रवास खोल अंतराळ संशोधनात एक महत्त्वपूर्ण पाऊल आहे, ज्यामुळे चंद्राच्या शोधाची भावना पुन्हा जागृत होईल. एका भव्य झेप घेण्यासाठी तयार रहा!"
-            },
-            "hi": {
-                "title": "नासा का आर्टेमिस II 2026 में चंद्रमा की कक्षा का लक्ष्य",
-                "content": "नासा का ऐतिहासिक आर्टेमिस II चंद्र मिशन अब 2026 के लॉन्च विंडो के लिए निर्धारित है, जो मानवता को चंद्रमा के करीब लाएगा। अंतरिक्ष यात्री हमारे खगोलीय पड़ोसी की परिक्रमा करेंगे, जो महत्वाकांक्षी आर्टेमिस कार्यक्रम के तहत भविष्य की मानव लैंडिंग के लिए एक महत्वपूर्ण अग्रदूत है। यह स्मारकीय यात्रा गहरे अंतरिक्ष अन्वेषण में एक महत्वपूर्ण कदम है, जो चंद्र खोज की भावना को फिर से जगाती है। एक स्मारकीय छलांग के लिए तैयार हो जाइए!"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129802190,imgsize-133138.cms",
-        "link": "https://timesofindia.indiatimes.com/science/nasa-artemis-ii-launch-window-2026-one-week-to-go-for-historic-moon-mission/articleshow/129802131.cms"
     }
 ]
