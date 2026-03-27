@@ -5,12 +5,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
     <title>VarthaBox | Premium News</title>
     
+    <meta property="og:title" content="VarthaBox | Short News App" />
+    <meta property="og:description" content="Read real-time, hyper-local news in multiple languages." />
+    <meta property="og:image" content="https://badoza.github.io/VarthaBox/icon-512.png" />
+    <meta property="og:url" content="https://badoza.github.io/VarthaBox/" />
+    <meta property="og:type" content="website" />
+
     <link rel="manifest" href="manifest.json">
     <meta name="theme-color" content="#9e0000">
     <link rel="apple-touch-icon" href="icon-192.png">
 
     <style>
-        /* PERFECT MOBILE CSS LOCK */
         body, html { 
             margin: 0; padding: 0; 
             width: 100vw; height: 100vh; 
@@ -47,9 +52,7 @@
         .action-btn { flex: 1; background: #222; border: 1px solid #333; color: white; padding: 12px; border-radius: 12px; font-weight: bold; font-size: 0.9em; display: flex; justify-content: center; align-items: center; gap: 8px;}
         .action-btn.share { background: #9e0000; border: none;}
         
-        .signature { text-align: center; font-size: 0.85em; color: #888; margin-top: 15px;}
-        .signature a { color: #ff4d4d; text-decoration: none; font-weight: bold;}
-        .swipe-instruction { text-align: center; font-size: 0.75em; color: #666; margin-top: 10px; padding-bottom: 25px;}
+        .swipe-instruction { text-align: center; font-size: 0.75em; color: #666; margin-top: 15px; padding-bottom: 25px;}
     </style>
 </head>
 <body>
@@ -101,11 +104,20 @@
                 const content = article.translations[currentLang];
                 if (!content) return; 
                 
+                // Format the Date nicely
+                let displayDate = "Recent";
+                if (article.date) {
+                    const d = new Date(article.date);
+                    if (!isNaN(d.getTime())) {
+                        displayDate = d.toLocaleDateString(undefined, { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' });
+                    }
+                }
+                
                 const articleHTML = `
                     <div class="article" id="${article.id}">
                         <img class="article-img" src="${article.image}" alt="News Image" onerror="this.src='https://images.unsplash.com/photo-1495020689067-958852a7765e?w=800&q=80'">
                         <div class="content-box">
-                            <div class="category-tag">${article.category}</div>
+                            <div class="category-tag">${article.category} &bull; ${displayDate}</div>
                             <h2>${content.title}</h2>
                             <p>${content.content}</p>
                             
@@ -114,11 +126,8 @@
                                 <button class="action-btn share" onclick="shareArticle('${article.id}', \`${content.title}\`, \`${content.content}\`)">🚀 Share</button>
                             </div>
 
-                            <div class="signature">
-                                developed by <a href="https://www.instagram.com/kunal___dongare/" target="_blank">Kunal Dongare</a>
-                            </div>
                             <div class="swipe-instruction">
-                                Swipe up for next &bull; <a href="${article.link}" target="_blank" style="color:#666;">Original</a>
+                                Swipe up for next &bull; <a href="${article.link}" target="_blank" style="color:#666;">Original Source</a>
                             </div>
                         </div>
                     </div>
@@ -145,7 +154,6 @@
             }
         }
 
-        // CACHE BUSTER: Forces the browser to load the fresh database
         const uniqueCacheBuster = new Date().getTime();
         fetch(`news.json?v=${uniqueCacheBuster}`)
             .then(response => response.json())
