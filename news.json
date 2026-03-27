@@ -1,5 +1,55 @@
 [
     {
+        "id": "e3c1e3c8",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Rajnath Singh to Lead Group on Middle East Crisis Impact",
+                "content": "Rajnath Singh will lead a new inter-ministerial group to monitor the Middle East conflict's impact on India. Union Ministers Amit Shah, Nirmala Sitharaman, and Hardeep Singh Puri are members. The group will focus on crucial areas like energy security, supply chains, and global order disruptions. This initiative follows Prime Minister Modi's announcement of empowered groups to assess and mitigate the economic repercussions."
+            },
+            "kn": {
+                "title": "ಮಧ್ಯಪ್ರಾಚ್ಯ ಬಿಕ್ಕಟ್ಟಿನ ಪರಿಣಾಮಗಳ ಕುರಿತು ರಾಜ್‌ನಾಥ್ ಸಿಂಗ್ ತಂಡದ ನೇತೃತ್ವ ವಹಿಸಲಿದ್ದಾರೆ",
+                "content": "ಮಧ್ಯಪ್ರಾಚ್ಯ ಸಂಘರ್ಷದ ಪರಿಣಾಮಗಳನ್ನು ಭಾರತದ ಮೇಲೆ ನಿಗಾ ವಹಿಸಲು ರಾಜ್‌ನಾಥ್ ಸಿಂಗ್ ಹೊಸ ಅಂತರ-ಸಚಿವಾಲಯ ತಂಡದ ನೇತೃತ್ವ ವಹಿಸಲಿದ್ದಾರೆ. ಕೇಂದ್ರ ಸಚಿವರಾದ ಅಮಿತ್ ಶಾ, ನಿರ್ಮಲಾ ಸೀತಾರಾಮನ್ ಮತ್ತು ಹರ್ದೀಪ್ ಸಿಂಗ್ ಪುರಿ ಇದರ ಸದಸ್ಯರಾಗಿದ್ದಾರೆ. ಇಂಧನ ಭದ್ರತೆ, ಪೂರೈಕೆ ಸರಪಳಿಗಳು ಮತ್ತು ಜಾಗತಿಕ ವ್ಯವಸ್ಥೆಯ ಅಡಚಣೆಗಳಂತಹ ನಿರ್ಣಾಯಕ ಕ್ಷೇತ್ರಗಳ ಮೇಲೆ ತಂಡವು ಗಮನ ಹರಿಸಲಿದೆ. ಆರ್ಥಿಕ ಪರಿಣಾಮಗಳನ್ನು ನಿರ್ಣಯಿಸಲು ಮತ್ತು ತಗ್ಗಿಸಲು ಪ್ರಧಾನಿ ಮೋದಿಯವರ ಸಶಕ್ತ ತಂಡಗಳ ಘೋಷಣೆಯ ನಂತರ ಈ ಉಪಕ್ರಮ ಕೈಗೊಳ್ಳಲಾಗಿದೆ."
+            },
+            "mr": {
+                "title": "राजनाथ सिंह मध्यपूर्वेतील संकटाच्या परिणामांवर गटाचे नेतृत्व करणार",
+                "content": "राजनाथ सिंह मध्यपूर्वेतील संघर्षाच्या भारतावरील परिणामांवर लक्ष ठेवण्यासाठी एका नवीन आंतर-मंत्रालयीन गटाचे नेतृत्व करतील. केंद्रीय मंत्री अमित शाह, निर्मला सीतारामन आणि हरदीप सिंह पुरी हे या गटाचे सदस्य आहेत. हा गट ऊर्जा सुरक्षा, पुरवठा साखळी आणि जागतिक व्यवस्थेतील व्यत्यय यासारख्या महत्त्वाच्या क्षेत्रांवर लक्ष केंद्रित करेल. आर्थिक परिणामांचे मूल्यांकन आणि शमन करण्यासाठी पंतप्रधान मोदींनी सशक्त गटांची घोषणा केल्यानंतर हा उपक्रम सुरू करण्यात आला आहे."
+            },
+            "hi": {
+                "title": "राजनाथ सिंह मध्य पूर्व संकट के प्रभाव पर समूह का नेतृत्व करेंगे",
+                "content": "राजनाथ सिंह मध्य पूर्व संघर्ष के भारत पर पड़ने वाले प्रभाव की निगरानी के लिए एक नए अंतर-मंत्रालयी समूह का नेतृत्व करेंगे। केंद्रीय मंत्री अमित शाह, निर्मला सीतारमण और हरदीप सिंह पुरी इसके सदस्य हैं। यह समूह ऊर्जा सुरक्षा, आपूर्ति श्रृंखला और वैश्विक व्यवस्था में व्यवधान जैसे महत्वपूर्ण क्षेत्रों पर ध्यान केंद्रित करेगा। आर्थिक प्रभावों का आकलन और शमन करने के लिए प्रधानमंत्री मोदी द्वारा सशक्त समूहों की घोषणा के बाद यह पहल की गई है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129844611,imgsize-674577.cms",
+        "link": "https://timesofindia.indiatimes.com/india/middle-east-crisis-rajnath-singh-to-head-inter-ministerial-group-to-monitor-conflict-linked-issues/articleshow/129843808.cms",
+        "date": "2026-03-27T15:52:31+05:30"
+    },
+    {
+        "id": "62b2754c",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Owens Accuses Erika Kirk of Murder Plot",
+                "content": "Candace Owens accused Erika Kirk of plotting husband Charlie Kirk's murder. Owens alleges Erika posted a video of her frail mother on September 8 to garner sympathy and manipulate public perception, anticipating an assassination attempt. These unverified claims sparked intense online debate, raising serious questions of pre-meditated deception."
+            },
+            "kn": {
+                "title": "ಓವೆನ್ಸ್ ಎರಿಕಾ ಕಿರ್ಕ್ ಮೇಲೆ ಕೊಲೆ ಸಂಚಿನ ಆರೋಪ",
+                "content": "ಕ್ಯಾಂಡೆಸ್ ಓವೆನ್ಸ್, ಎರಿಕಾ ಕಿರ್ಕ್ ತಮ್ಮ ಪತಿ ಚಾರ್ಲಿ ಕಿರ್ಕ್ ಅವರ ಕೊಲೆಗೆ ಸಂಚು ರೂಪಿಸಿದ್ದಾರೆ ಎಂದು ಆರೋಪಿಸಿದ್ದಾರೆ. ಹತ್ಯೆಯ ಪ್ರಯತ್ನವನ್ನು ನಿರೀಕ್ಷಿಸಿ, ಸಾರ್ವಜನಿಕರ ಸಹಾನುಭೂತಿ ಪಡೆಯಲು ಮತ್ತು ಗ್ರಹಿಕೆಯನ್ನು ಕುಶಲತೆಯಿಂದ ನಿರ್ವಹಿಸಲು ಎರಿಕಾ ಸೆಪ್ಟೆಂಬರ್ 8 ರಂದು ತಮ್ಮ ದುರ್ಬಲ ತಾಯಿಯ ವೀಡಿಯೊವನ್ನು ಪೋಸ್ಟ್ ಮಾಡಿದ್ದಾರೆ ಎಂದು ಓವೆನ್ಸ್ ಆರೋಪಿಸಿದ್ದಾರೆ. ಈ ಪರಿಶೀಲಿಸದ ಹೇಳಿಕೆಗಳು ತೀವ್ರ ಆನ್‌ಲೈನ್ ಚರ್ಚೆಗೆ ಕಾರಣವಾಗಿವೆ, ಪೂರ್ವಯೋಜಿತ ವಂಚನೆಯ ಬಗ್ಗೆ ಗಂಭೀರ ಪ್ರಶ್ನೆಗಳನ್ನು ಹುಟ್ಟುಹಾಕಿವೆ."
+            },
+            "mr": {
+                "title": "ओवेन्सने एरिका किर्कवर खुनाच्या कटाचा आरोप केला",
+                "content": "कॅन्डेस ओवेन्सने एरिका किर्कवर पती चार्ली किर्क यांच्या खुनाचा कट रचल्याचा आरोप केला आहे. ओवेन्सच्या म्हणण्यानुसार, खुनाच्या प्रयत्नाची शक्यता लक्षात घेता, एरिकाने लोकांची सहानुभूती मिळवण्यासाठी आणि जनमत प्रभावित करण्यासाठी 8 सप्टेंबर रोजी तिच्या अशक्त आईचा व्हिडिओ पोस्ट केला. या अपुष्ट दाव्यांमुळे तीव्र ऑनलाइन वादविवाद सुरू झाले आहेत, ज्यामुळे पूर्वनियोजित फसवणुकीबद्दल गंभीर प्रश्न निर्माण झाले आहेत."
+            },
+            "hi": {
+                "title": "ओवेन्स ने एरिका किर्क पर हत्या की साजिश का आरोप लगाया",
+                "content": "कैंडेंस ओवेन्स ने एरिका किर्क पर पति चार्ली किर्क की हत्या की साजिश रचने का आरोप लगाया है। ओवेन्स का आरोप है कि एरिका ने संभावित हत्या के प्रयास से पहले, जन सहानुभूति बटोरने और सार्वजनिक धारणा को प्रभावित करने के लिए 8 सितंबर को अपनी कमजोर माँ का एक वीडियो पोस्ट किया था। इन अपुष्ट दावों ने तीखी ऑनलाइन बहस छेड़ दी है, जिससे पूर्व-नियोजित धोखे पर गंभीर सवाल खड़े हो गए हैं।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129840525,imgsize-52328.cms",
+        "link": "https://timesofindia.indiatimes.com/world/us-streamers/days-before-charlie-gets-assassinated-candace-owens-accuses-erika-kirk-of-plotting-charlie-kirks-murder-and-staging-sympathy-posts/articleshow/129840525.cms",
+        "date": "2026-03-27T16:32:00+05:30"
+    },
+    {
         "id": "37dc208b",
         "category": "National",
         "translations": {
@@ -1900,53 +1950,5 @@
         },
         "image": "https://static.toiimg.com/photo/msid-129816708,imgsize-69838.cms",
         "link": "https://timesofindia.indiatimes.com/entertainment/english/music/news/cruz-beckham-breaks-down-on-stage-while-performing-loneliest-boy-scathing-lyrics-hint-at-brother-brooklyn-amid-family-rift-mama-dont-talk-too-much/articleshow/129816708.cms"
-    },
-    {
-        "id": "a6dee13d",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Puducherry: Congress Cries Corruption, Statehood Delay",
-                "content": "Congress claims '30% commission' and widespread corruption plague Puducherry, accusing the administration. The party also pressed the Centre regarding the persistent delay in granting statehood to the Union Territory, demanding transparency and accountability for the alleged misgovernance."
-            },
-            "kn": {
-                "title": "ಪುದುಚೇರಿ: ಕಾಂಗ್ರೆಸ್ ಭ್ರಷ್ಟಾಚಾರ, ರಾಜ್ಯತ್ವ ವಿಳಂಬ ಆರೋಪ",
-                "content": "ಕಾಂಗ್ರೆಸ್ ಪುದುಚೇರಿಯಲ್ಲಿ '30% ಕಮಿಷನ್' ಮತ್ತು ವ್ಯಾಪಕ ಭ್ರಷ್ಟಾಚಾರ ಹರಡಿದೆ ಎಂದು ಆರೋಪಿಸಿದೆ, ಆಡಳಿತವನ್ನು ದೂಷಿಸಿದೆ. ಪಕ್ಷವು ಕೇಂದ್ರಾಡಳಿತ ಪ್ರದೇಶಕ್ಕೆ ರಾಜ್ಯತ್ವ ನೀಡುವಲ್ಲಿನ ನಿರಂತರ ವಿಳಂಬದ ಬಗ್ಗೆ ಕೇಂದ್ರವನ್ನು ಒತ್ತಾಯಿಸಿದೆ, ಆರೋಪಿತ ದುರಾಡಳಿತಕ್ಕೆ ಪಾರದರ್ಶಕತೆ ಮತ್ತು ಹೊಣೆಗಾರಿಕೆಯನ್ನು ಕೋರಿದೆ."
-            },
-            "mr": {
-                "title": "पुदुचेरी: काँग्रेसचा भ्रष्टाचार आणि राज्याच्या दर्जाला विलंब झाल्याचा आरोप",
-                "content": "काँग्रेसने पुदुचेरीमध्ये '30% कमिशन' आणि मोठ्या प्रमाणावर भ्रष्टाचार बोकाळल्याचा दावा केला आहे, प्रशासनावर आरोप केला आहे. पक्षाने केंद्रशासित प्रदेशाला राज्याचा दर्जा देण्यास होणाऱ्या सततच्या विलंबाबाबत केंद्रावरही दबाव आणला, कथित गैरकारभारासाठी पारदर्शकता आणि जबाबदारीची मागणी केली."
-            },
-            "hi": {
-                "title": "पुदुचेरी: कांग्रेस ने लगाया भ्रष्टाचार और राज्य के दर्जे में देरी का आरोप",
-                "content": "कांग्रेस ने पुदुचेरी में '30% कमीशन' और व्यापक भ्रष्टाचार फैलने का आरोप लगाया है, प्रशासन को दोषी ठहराया है। पार्टी ने केंद्रशासित प्रदेश को राज्य का दर्जा देने में लगातार हो रही देरी के संबंध में केंद्र पर भी दबाव डाला, कथित कुशासन के लिए पारदर्शिता और जवाबदेही की मांग की।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129816200,imgsize-38688.cms",
-        "link": "https://timesofindia.indiatimes.com/india/30-commission-congress-alleges-widespread-corruption-in-puducherry-questions-delay-in-statehood/articleshow/129816176.cms"
-    },
-    {
-        "id": "b8f52182",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "India Fortifies Myanmar Border Infra",
-                "content": "Defence Minister Rajnath Singh announced BRO will develop 1600 km of infrastructure along the Indo-Myanmar border. This initiative aims to bolster management, ensure all-weather connectivity in remote areas, and enhance operational mobility and defence preparedness. BRO is employing modern techniques for robust border security and strategic advantage."
-            },
-            "kn": {
-                "title": "ಭಾರತ ಮ್ಯಾನ್ಮಾರ್ ಗಡಿಯಲ್ಲಿ ಮೂಲಸೌಕರ್ಯ ಬಲಪಡಿಸುತ್ತದೆ",
-                "content": "ರಕ್ಷಣಾ ಸಚಿವ ರಾಜನಾಥ್ ಸಿಂಗ್ ಅವರು ಇಂಡೋ-ಮ್ಯಾನ್ಮಾರ್ ಗಡಿಯುದ್ದಕ್ಕೂ 1600 ಕಿ.ಮೀ. ಮೂಲಸೌಕರ್ಯವನ್ನು ಬಿಆರ್‌ಒ ಅಭಿವೃದ್ಧಿಪಡಿಸಲಿದೆ ಎಂದು ಘೋಷಿಸಿದರು. ಈ ಉಪಕ್ರಮವು ನಿರ್ವಹಣೆಯನ್ನು ಬಲಪಡಿಸಲು, ದೂರದ ಪ್ರದೇಶಗಳಲ್ಲಿ ಎಲ್ಲಾ ಹವಾಮಾನ ಸಂಪರ್ಕವನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು ಮತ್ತು ಕಾರ್ಯಾಚರಣೆಯ ಚಲನಶೀಲತೆ ಹಾಗೂ ರಕ್ಷಣಾ ಸಿದ್ಧತೆಯನ್ನು ಹೆಚ್ಚಿಸುವ ಗುರಿ ಹೊಂದಿದೆ. ಬಿಆರ್‌ಒ ಗಡಿ ಭದ್ರತೆಗಾಗಿ ಆಧುನಿಕ ತಂತ್ರಗಳನ್ನು ಬಳಸುತ್ತಿದೆ."
-            },
-            "mr": {
-                "title": "भारत म्यानमार सीमेवर पायाभूत सुविधा बळकट करणार",
-                "content": "संरक्षण मंत्री राजनाथ सिंह यांनी घोषणा केली की बीआरओ भारत-म्यानमार सीमेवर 1600 किलोमीटरच्या पायाभूत सुविधांचा विकास करेल. या उपक्रमाचा उद्देश व्यवस्थापन मजबूत करणे, दुर्गम भागात सर्व हवामानातील कनेक्टिव्हिटी सुनिश्चित करणे आणि कार्यात्मक गतिशीलता व संरक्षण सज्जता वाढवणे आहे. बीआरओ मजबूत सीमा सुरक्षेसाठी आधुनिक तंत्रज्ञान वापरत आहे."
-            },
-            "hi": {
-                "title": "भारत म्यांमार सीमा पर बुनियादी ढांचा मजबूत करेगा",
-                "content": "रक्षा मंत्री राजनाथ सिंह ने घोषणा की कि बीआरओ भारत-म्यांमार सीमा पर 1600 किलोमीटर के बुनियादी ढांचे का विकास करेगा। इस पहल का उद्देश्य प्रबंधन को सुदृढ़ करना, दूरदराज के क्षेत्रों में हर मौसम में कनेक्टिविटी सुनिश्चित करना और परिचालन गतिशीलता व रक्षा तैयारियों को बढ़ाना है। बीआरओ मजबूत सीमा सुरक्षा के लिए आधुनिक तकनीकों का उपयोग कर रहा है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129813932,imgsize-1633354.cms",
-        "link": "https://timesofindia.indiatimes.com/india/bro-entrusted-with-task-of-developing-infra-along-1600-km-myanmar-border-rajnath-at-parl-panel-meet/articleshow/129813933.cms"
     }
 ]
