@@ -1,5 +1,30 @@
 [
     {
+        "id": "37dc208b",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Uttarakhand CM Dhami Meets PM Modi, Seeks Support for Development",
+                "content": "Uttarakhand CM Pushkar Singh Dhami met PM Modi in Delhi, discussing the state's development, infrastructure, and connectivity projects. Dhami sought central support for initiatives in tourism, spiritual economy, and entrepreneurship, while also extending an invitation for the PM to visit Uttarakhand. He presented local specialties, reinforcing the state's progress and future aspirations."
+            },
+            "kn": {
+                "title": "ಉತ್ತರಾಖಂಡ ಸಿಎಂ ಧಾಮಿ ಪ್ರಧಾನಿ ಮೋದಿಯನ್ನು ಭೇಟಿ, ಅಭಿವೃದ್ಧಿಗೆ ಬೆಂಬಲ ಕೋರಿದರು",
+                "content": "ಉತ್ತರಾಖಂಡ ಸಿಎಂ ಪುಷ್ಕರ್ ಸಿಂಗ್ ಧಾಮಿ ದೆಹಲಿಯಲ್ಲಿ ಪ್ರಧಾನಿ ಮೋದಿಯನ್ನು ಭೇಟಿಯಾಗಿ, ರಾಜ್ಯದ ಅಭಿವೃದ್ಧಿ, ಮೂಲಸೌಕರ್ಯ ಮತ್ತು ಸಂಪರ್ಕ ಯೋಜನೆಗಳ ಕುರಿತು ಚರ್ಚಿಸಿದರು. ಧಾಮಿ ಪ್ರವಾಸೋದ್ಯಮ, ಆಧ್ಯಾತ್ಮಿಕ ಆರ್ಥಿಕತೆ ಮತ್ತು ಉದ್ಯಮಶೀಲತೆಯ ಉಪಕ್ರಮಗಳಿಗೆ ಕೇಂದ್ರದ ಬೆಂಬಲವನ್ನು ಕೋರಿದರು, ಜೊತೆಗೆ ಪ್ರಧಾನಮಂತ್ರಿಯನ್ನು ಉತ್ತರಾಖಂಡಕ್ಕೆ ಭೇಟಿ ನೀಡಲು ಆಹ್ವಾನಿಸಿದರು. ಅವರು ಸ್ಥಳೀಯ ವಿಶೇಷತೆಗಳನ್ನು ಪ್ರಸ್ತುತಪಡಿಸಿದರು, ರಾಜ್ಯದ ಪ್ರಗತಿ ಮತ್ತು ಭವಿಷ್ಯದ ಆಕಾಂಕ್ಷೆಗಳನ್ನು ಬಲಪಡಿಸಿದರು."
+            },
+            "mr": {
+                "title": "उत्तराखंडचे मुख्यमंत्री धामींची पंतप्रधान मोदींशी भेट, विकासासाठी पाठिंबा मागितला",
+                "content": "उत्तराखंडचे मुख्यमंत्री पुष्कर सिंह धामी यांनी दिल्लीत पंतप्रधान मोदींची भेट घेतली. यावेळी त्यांनी राज्याच्या विकास, पायाभूत सुविधा आणि कनेक्टिव्हिटी प्रकल्पांवर चर्चा केली. धामींनी पर्यटन, आध्यात्मिक अर्थव्यवस्था आणि उद्योजकतेच्या उपक्रमांसाठी केंद्राचा पाठिंबा मागितला, तसेच पंतप्रधानांना उत्तराखंडला भेट देण्यासाठी आमंत्रित केले. त्यांनी स्थानिक वैशिष्ट्ये सादर केली, ज्यामुळे राज्याची प्रगती आणि भविष्यातील आकांक्षांना बळ मिळाले."
+            },
+            "hi": {
+                "title": "उत्तराखंड के सीएम धामी ने पीएम मोदी से मुलाकात की, विकास के लिए समर्थन मांगा",
+                "content": "उत्तराखंड के मुख्यमंत्री पुष्कर सिंह धामी ने दिल्ली में पीएम मोदी से मुलाकात की और राज्य के विकास, बुनियादी ढांचे और कनेक्टिविटी परियोजनाओं पर चर्चा की। धामी ने पर्यटन, आध्यात्मिक अर्थव्यवस्था और उद्यमिता की पहल के लिए केंद्र से समर्थन मांगा, साथ ही पीएम को उत्तराखंड आने का निमंत्रण भी दिया। उन्होंने स्थानीय विशिष्ट वस्तुएं भेंट कीं, जिससे राज्य की प्रगति और भविष्य की आकांक्षाएं सुदृढ़ हुईं।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129844714,imgsize-914163.cms",
+        "link": "https://timesofindia.indiatimes.com/india/uttarakhand-cm-dhami-meets-pm-modi-discusses-development-and-key-projects/articleshow/129844650.cms",
+        "date": "2026-03-27T15:55:14+05:30"
+    },
+    {
         "id": "6b6ca2cd",
         "category": "World",
         "translations": {
@@ -1923,29 +1948,5 @@
         },
         "image": "https://static.toiimg.com/photo/msid-129813932,imgsize-1633354.cms",
         "link": "https://timesofindia.indiatimes.com/india/bro-entrusted-with-task-of-developing-infra-along-1600-km-myanmar-border-rajnath-at-parl-panel-meet/articleshow/129813933.cms"
-    },
-    {
-        "id": "8814518f",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "US Debunks Iran's 'F-18 Shot Down' Claim",
-                "content": "Iran claimed to have shot down a US F-18 fighter jet near Chabahar, sharing footage. However, the US Central Command (CENTCOM) explicitly debunked these claims on X, stating no American aircraft were downed. This refutation comes as Iran rejected a US ceasefire proposal, insisting on its own terms for ending hostilities, highlighting rising tensions."
-            },
-            "kn": {
-                "title": "ಅಮೆರಿಕ ಇರಾನ್‌ನ 'F-18 ಹೊಡೆದುರುಳಿಸಿದ' ಹೇಳಿಕೆಯನ್ನು ತಳ್ಳಿಹಾಕಿದೆ",
-                "content": "ಚಾಬಹಾರ್ ಬಳಿ US F-18 ಜೆಟ್ ಅನ್ನು ಹೊಡೆದುರುಳಿಸಿದ್ದೇವೆ ಎಂದು ಇರಾನ್ ಹೇಳಿಕೊಂಡರೂ, ಅಮೆರಿಕದ ಸೆಂಟ್ರಲ್ ಕಮಾಂಡ್ (CENTCOM) ಇದನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ತಳ್ಳಿಹಾಕಿದೆ. X ನಲ್ಲಿ, ಯಾವುದೇ ಅಮೆರಿಕನ್ ವಿಮಾನವನ್ನು ಹೊಡೆದುರುಳಿಸಿಲ್ಲ ಎಂದು CENTCOM ಸ್ಪಷ್ಟಪಡಿಸಿದೆ. US ಯುದ್ಧವಿರಾಮ ಪ್ರಸ್ತಾಪವನ್ನು ಇರಾನ್ ತಿರಸ್ಕರಿಸಿದ ನಂತರ, ತನ್ನದೇ ನಿಯಮಗಳನ್ನು ಒತ್ತಾಯಿಸುತ್ತಾ, ಈ ನಿರಾಕರಣೆ ಬಂದಿದ್ದು, ಉದ್ವಿಗ್ನತೆ ಹೆಚ್ಚಿಸಿದೆ."
-            },
-            "mr": {
-                "title": "अमेरिकेने इराणचा 'F-18 पाडल्याचा' दावा फेटाळला",
-                "content": "चाबहारजवळ अमेरिकन F-18 जेट पाडल्याचा इराणचा दावा अमेरिकेच्या सेंट्रल कमांडने (CENTCOM) स्पष्टपणे फेटाळला आहे. X वर CENTCOM ने कोणतीही अमेरिकन विमाने पाडली नसल्याचे म्हटले आहे. अमेरिकेचा युद्धविराम प्रस्ताव इराणने नाकारत आपल्या अटींवर भर दिल्याने हे खंडन आले आहे, ज्यामुळे तणाव वाढत आहे."
-            },
-            "hi": {
-                "title": "अमेरिका ने ईरान के 'F-18 गिराने' के दावे को खारिज किया",
-                "content": "चाबहार के पास अमेरिकी F-18 जेट गिराने के ईरान के दावे को अमेरिकी सेंट्रल कमांड (CENTCOM) ने स्पष्ट रूप से खारिज कर दिया है। CENTCOM ने X पर बताया कि कोई भी अमेरिकी विमान नहीं गिराया गया। ईरान द्वारा अमेरिकी संघर्ष विराम प्रस्ताव को अस्वीकार कर अपनी शर्तों पर जोर देने के बाद यह खंडन आया है, जिससे तनाव बढ़ रहा है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129814801,imgsize-844776.cms",
-        "link": "https://timesofindia.indiatimes.com/world/middle-east/iran-claims-it-shot-down-f-18-fighter-jet-over-chabahar-us-fact-check-tells-a-different-story/articleshow/129814667.cms"
     }
 ]
