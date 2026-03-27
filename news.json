@@ -1,5 +1,80 @@
 [
     {
+        "id": "2859042b",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Evening Wrap: Fuel Duty Cut, Rajnath Leads ME Crisis Group",
+                "content": "In today's evening news, the government announced a significant cut in fuel duty, offering relief to consumers nationwide. Concurrently, Defence Minister Rajnath Singh has been tapped to lead a high-level group tasked with addressing the evolving Middle East crisis, highlighting India's proactive diplomatic role. Other key national developments were also covered."
+            },
+            "kn": {
+                "title": "ಸಂಜೆ ಸಾರಾಂಶ: ಇಂಧನ ಸುಂಕ ಕಡಿತ, ರಾಜ್‌ನಾಥ್ ಮಧ್ಯಪ್ರಾಚ್ಯ ಬಿಕ್ಕಟ್ಟು ಗುಂಪಿನ ನೇತೃತ್ವ",
+                "content": "ಇಂದಿನ ಸಂಜೆ ಸುದ್ದಿಯಲ್ಲಿ, ಸರ್ಕಾರವು ಇಂಧನ ಸುಂಕದಲ್ಲಿ ಗಣನೀಯ ಕಡಿತವನ್ನು ಘೋಷಿಸಿದ್ದು, ದೇಶಾದ್ಯಂತ ಗ್ರಾಹಕರಿಗೆ ಪರಿಹಾರ ನೀಡಿದೆ. ಇದೇ ವೇಳೆ, ರಕ್ಷಣಾ ಸಚಿವ ರಾಜ್‌ನಾಥ್ ಸಿಂಗ್ ಅವರು ಮಧ್ಯಪ್ರಾಚ್ಯದ ಬಿಕ್ಕಟ್ಟನ್ನು ನಿಭಾಯಿಸಲು ಉನ್ನತ ಮಟ್ಟದ ಗುಂಪಿನ ನೇತೃತ್ವ ವಹಿಸಲು ನಿಯುಕ್ತರಾಗಿದ್ದಾರೆ, ಇದು ಭಾರತದ ಸಕ್ರಿಯ ರಾಜತಾಂತ್ರಿಕ ಪಾತ್ರವನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ಇತರ ಪ್ರಮುಖ ರಾಷ್ಟ್ರೀಯ ಬೆಳವಣಿಗೆಗಳನ್ನೂ ವರದಿ ಮಾಡಲಾಗಿದೆ."
+            },
+            "mr": {
+                "title": "सायंकालीन आढावा: इंधन शुल्कात कपात, राजनाथ मध्यपूर्वेतील संकट गटाचे नेतृत्व करणार",
+                "content": "आजच्या सायंकालीन बातम्यात, सरकारने इंधन शुल्कात लक्षणीय कपात जाहीर केली, ज्यामुळे देशभरातील ग्राहकांना दिलासा मिळाला. त्याचबरोबर, संरक्षण मंत्री राजनाथ सिंह यांना मध्यपूर्वेतील वाढत्या संकटावर लक्ष ठेवण्यासाठी एका उच्चस्तरीय गटाचे नेतृत्व करण्याची जबाबदारी सोपवण्यात आली आहे, ज्यामुळे भारताची सक्रिय राजनैतिक भूमिका अधोरेखित होते. इतर महत्त्वाच्या राष्ट्रीय घडामोडींवरही प्रकाश टाकण्यात आला."
+            },
+            "hi": {
+                "title": "शाम की खास खबरें: ईंधन शुल्क में कटौती, राजनाथ मध्य पूर्व संकट समूह का नेतृत्व करेंगे",
+                "content": "आज शाम की खबरों में, सरकार ने ईंधन शुल्क में बड़ी कटौती की घोषणा की, जिससे देश भर के उपभोक्ताओं को राहत मिली। इसी बीच, रक्षा मंत्री राजनाथ सिंह को मध्य पूर्व के उभरते संकट से निपटने के लिए एक उच्च-स्तरीय समूह का नेतृत्व करने के लिए चुना गया है, जो भारत की सक्रिय राजनयिक भूमिका को उजागर करता है। अन्य प्रमुख राष्ट्रीय घटनाक्रमों को भी कवर किया गया।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129847418,imgsize-525080.cms",
+        "link": "https://timesofindia.indiatimes.com/india/evening-news-wrap-govt-cuts-fuel-duty-rajnath-to-lead-middle-east-crisis-group-more/articleshow/129846916.cms",
+        "date": "2026-03-27T17:50:52+05:30"
+    },
+    {
+        "id": "98191e75",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Daytona Airport Chaos: Man Crashes Gate, Tries Boarding Planes",
+                "content": "A Florida man caused chaos at Daytona Beach International Airport, crashing his car through a security gate. Police quickly responded as the individual then attempted to board multiple aircraft. Authorities apprehended the man. His actions disrupted operations but resulted in no injuries or successful breach of plane security, highlighting unusual airport security challenges."
+            },
+            "kn": {
+                "title": "ಡೇಟೋನಾ ವಿಮಾನ ನಿಲ್ದಾಣದಲ್ಲಿ ಗೊಂದಲ: ವ್ಯಕ್ತಿಯಿಂದ ಗೇಟ್ ಧ್ವಂಸ, ವಿಮಾನ ಪ್ರವೇಶಕ್ಕೆ ಯತ್ನ",
+                "content": "ಫ್ಲೋರಿಡಾ ವ್ಯಕ್ತಿಯೊಬ್ಬ ಡೇಟೋನಾ ಬೀಚ್ ಅಂತರಾಷ್ಟ್ರೀಯ ವಿಮಾನ ನಿಲ್ದಾಣದಲ್ಲಿ ತನ್ನ ಕಾರನ್ನು ಭದ್ರತಾ ಗೇಟ್ ಮೂಲಕ ನುಗ್ಗಿಸಿ ಗೊಂದಲ ಸೃಷ್ಟಿಸಿದನು. ಆತ ವಿಮಾನಗಳನ್ನು ಹತ್ತಲು ಯತ್ನಿಸುತ್ತಿದ್ದಾಗ ಪೊಲೀಸರು ತಕ್ಷಣ ಬಂಧಿಸಿದರು. ಆತನ ಕೃತ್ಯಗಳು ಕಾರ್ಯಾಚರಣೆಗೆ ಅಡ್ಡಿಯುಂಟುಮಾಡಿದರೂ, ಯಾವುದೇ ಗಾಯಗಳು ಅಥವಾ ವಿಮಾನ ಭದ್ರತಾ ಉಲ್ಲಂಘನೆ ಸಂಭವಿಸಲಿಲ್ಲ, ಇದು ವಿಮಾನ ನಿಲ್ದಾಣದ ಅಸಾಮಾನ್ಯ ಭದ್ರತಾ ಸವಾಲುಗಳನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "डेटोना विमानतळावर गोंधळ: व्यक्तीने गेट तोडले, विमानात घुसण्याचा प्रयत्न",
+                "content": "फ्लोरिडातील एका व्यक्तीने डेटोना बीच आंतरराष्ट्रीय विमानतळावर गाडीने सुरक्षा गेट तोडून गोंधळ निर्माण केला. तो अनेक विमानांमध्ये चढण्याचा प्रयत्न करत असताना पोलिसांनी तातडीने त्याला पकडले. त्याच्या कृतीमुळे कामकाज विस्कळीत झाले, परंतु कोणतीही दुखापत किंवा विमानाची सुरक्षा यशस्वीरित्या भंग झाली नाही, ज्यामुळे विमानतळावरील असामान्य सुरक्षा आव्हाने अधोरेखित झाली."
+            },
+            "hi": {
+                "title": "डेटोना हवाई अड्डे पर हंगामा: शख्स ने गेट तोड़ा, विमान में घुसने की कोशिश",
+                "content": "फ्लोरिडा के एक शख्स ने डेटोना बीच अंतरराष्ट्रीय हवाई अड्डे पर अपनी कार से सुरक्षा गेट तोड़कर हंगामा कर दिया. यह शख्स कई विमानों में घुसने की कोशिश कर रहा था, तभी पुलिस ने तुरंत उसे पकड़ लिया. उसके इस काम से कामकाज बाधित हुआ, लेकिन किसी को चोट नहीं आई और न ही विमान की सुरक्षा में सेंध लग पाई, जिससे हवाई अड्डों पर असामान्य सुरक्षा चुनौतियों का पता चलता है."
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129786433,imgsize-263752.cms",
+        "link": "https://timesofindia.indiatimes.com/world/us/florida-man-crashes-car-through-airport-gate-tries-to-enter-planes-in-daytona-beach/articleshow/129786433.cms",
+        "date": "2026-03-27T18:19:42+05:30"
+    },
+    {
+        "id": "51bb648d",
+        "category": "Sports",
+        "translations": {
+            "en": {
+                "title": "SRH IPL 2026: Campaign Dates Unveiled",
+                "content": "Sunrisers Hyderabad kicks off their IPL 2026 journey against Royal Challengers Bengaluru on March 28 in Bengaluru. Following a productive auction, SRH's finalized squad, blending seasoned players with fresh talent, is set for action. Their first home game will be on April 5, hosting Lucknow Super Giants. Fans can expect an exciting season as SRH aims for glory with their new-look team."
+            },
+            "kn": {
+                "title": "SRH IPL 2026: ಅಭಿಯಾನದ ದಿನಾಂಕಗಳು ಅನಾವರಣ",
+                "content": "ಸನ್‌ರೈಸರ್ಸ್ ಹೈದರಾಬಾದ್ ತನ್ನ IPL 2026 ಅಭಿಯಾನವನ್ನು ಮಾರ್ಚ್ 28 ರಂದು ಬೆಂಗಳೂರಿನಲ್ಲಿ ರಾಯಲ್ ಚಾಲೆಂಜರ್ಸ್ ಬೆಂಗಳೂರು ವಿರುದ್ಧ ಪ್ರಾರಂಭಿಸುತ್ತದೆ. ಯಶಸ್ವಿ ಹರಾಜಿನ ನಂತರ, ಅನುಭವಿ ಹಾಗೂ ಹೊಸ ಪ್ರತಿಭೆಗಳಿರುವ SRH ತಂಡ ಸಿದ್ಧವಾಗಿದೆ. ಅವರ ಮೊದಲ ತವರು ಪಂದ್ಯ ಏಪ್ರಿಲ್ 5 ರಂದು ಲಕ್ನೋ ಸೂಪರ್ ಜೈಂಟ್ಸ್ ವಿರುದ್ಧ ನಡೆಯಲಿದೆ. ಹೊಸ ತಂಡದೊಂದಿಗೆ SRH ವಿಜಯಕ್ಕಾಗಿ ಗುರಿ ಇಡುತ್ತಿದ್ದಂತೆ ಅಭಿಮಾನಿಗಳು ರೋಮಾಂಚಕ ಸೀಸನ್ ಅನ್ನು ನಿರೀಕ್ಷಿಸಬಹುದು."
+            },
+            "mr": {
+                "title": "SRH IPL 2026: मोहिमेच्या तारखा जाहीर",
+                "content": "सनरायझर्स हैदराबाद 28 मार्च रोजी बेंगळुरू येथे रॉयल चॅलेंजर्स बेंगळुरू विरुद्ध आपल्या IPL 2026 मोहिमेला सुरुवात करणार आहे. यशस्वी लिलावानंतर, अनुभवी आणि नवीन खेळाडूंच्या मिश्रणासह SRH चा अंतिम संघ तयारीला लागला आहे. त्यांचा पहिला घरचा सामना 5 एप्रिल रोजी लखनऊ सुपर जायंट्स विरुद्ध खेळवला जाईल. नवीन संघासह SRH विजयाचे लक्ष्य ठेवत असल्याने चाहते एका रोमांचक हंगामाची अपेक्षा करू शकतात."
+            },
+            "hi": {
+                "title": "SRH IPL 2026: अभियान की तारीखें घोषित",
+                "content": "सनराइजर्स हैदराबाद 28 मार्च को बेंगलुरु में रॉयल चैलेंजर्स बेंगलुरु के खिलाफ अपने IPL 2026 अभियान की शुरुआत करेगा। एक सफल नीलामी के बाद, अनुभवी और नए खिलाड़ियों के मिश्रण के साथ SRH का अंतिम दल एक्शन के लिए तैयार है। उनका पहला घरेलू मैच 5 अप्रैल को लखनऊ सुपर जायंट्स के खिलाफ होगा। जैसे ही SRH अपनी नई टीम के साथ जीत का लक्ष्य रखेगा, प्रशंसक एक रोमांचक सीज़न की उम्मीद कर सकते हैं।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129844958,imgsize-180152.cms",
+        "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/srh-ipl-2026-full-schedule-check-dates-venues-and-home-away-fixtures-of-sunrisers-hyderabad/articleshow/129844618.cms",
+        "date": "2026-03-27T16:07:03+05:30"
+    },
+    {
         "id": "e3c1e3c8",
         "category": "National",
         "translations": {
@@ -1878,77 +1953,5 @@
         },
         "image": "https://static.toiimg.com/photo/msid-129818332,imgsize-87948.cms",
         "link": "https://timesofindia.indiatimes.com/sports/cricket/news/yograj-singh-slams-abhishek-sharma-you-fail-because-your-mind-is-somewhere-else/articleshow/129818318.cms"
-    },
-    {
-        "id": "46919430",
-        "category": "Entertainment",
-        "translations": {
-            "en": {
-                "title": "Ananya Panday's Fresh Style Steals the Show",
-                "content": "Ananya Panday's latest look, featuring soft bangs and wavy hair, has gone viral. Her recent social media appearance and grey dress at a Mumbai gala drew comparisons to Dakota Johnson from fans. Panday's fresh style is attracting significant attention as she gears up for upcoming projects: 'Call Me Bae S2' and 'Chand Mera Dil' with Lakshya, set for May 22."
-            },
-            "kn": {
-                "title": "ಅನನ್ಯಾ ಪಾಂಡೆ ಅವರ ಹೊಸ ಶೈಲಿ ಎಲ್ಲರ ಗಮನ ಸೆಳೆದಿದೆ",
-                "content": "ಅನನ್ಯಾ ಪಾಂಡೆ ಅವರ ಇತ್ತೀಚಿನ ನೋಟ, ಮೃದುವಾದ ಬ್ಯಾಂಗ್ಸ್ ಮತ್ತು ಅಲೆಯುವ ಕೂದಲಿನೊಂದಿಗೆ ವೈರಲ್ ಆಗಿದೆ. ಮುಂಬೈ ಗಾಲಾದಲ್ಲಿ ಅವರ ಇತ್ತೀಚಿನ ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮ ಪ್ರವೇಶ ಮತ್ತು ಬೂದು ಬಣ್ಣದ ಉಡುಗೆ ಅಭಿಮಾನಿಗಳಿಂದ ಡಕೋಟಾ ಜಾನ್ಸನ್‌ಗೆ ಹೋಲಿಕೆಯನ್ನು ಗಳಿಸಿವೆ. ಪಾಂಡೆ ಅವರ ಹೊಸ ಶೈಲಿಯು ಸಾಕಷ್ಟು ಗಮನ ಸೆಳೆಯುತ್ತಿದೆ, ಅವರು ಮೇ 22 ರಂದು 'ಕಾಲ್ ಮಿ ಬೇ ಎಸ್2' ಮತ್ತು ಲಕ್ಷ್ಯ ಅವರೊಂದಿಗೆ 'ಚಂದ್ ಮೇರಾ ದಿಲ್' ಮುಂಬರುವ ಯೋಜನೆಗಳಿಗೆ ಸಿದ್ಧರಾಗಿದ್ದಾರೆ."
-            },
-            "mr": {
-                "title": "अनन्या पांडेच्या ताज्या स्टाईलने वेधले लक्ष",
-                "content": "अनन्या पांडेचा सॉफ्ट बॅंग्स आणि लहरी केसांचा नवीन लूक व्हायरल झाला आहे. मुंबईतील एका सोहळ्यात ग्रे ड्रेसमधील तिच्या अलीकडील सोशल मीडिया एन्ट्रीमुळे चाहत्यांनी तिची तुलना डकोटा जॉन्सनशी केली. २२ मे रोजी प्रदर्शित होणाऱ्या 'कॉल मी बे एस२' आणि लक्ष्यासह 'चाँद मेरा दिल' या आगामी प्रोजेक्ट्ससाठी ती तयारी करत असताना, तिच्या ताज्या स्टाईलने खूप लक्ष वेधून घेतले आहे."
-            },
-            "hi": {
-                "title": "अनन्या पांडे की नई स्टाइल ने चुराया सबका दिल",
-                "content": "अनन्या पांडे का सॉफ्ट बैंग्स और वेवी बालों वाला नया लुक वायरल हो गया है। मुंबई गाला में ग्रे ड्रेस में उनकी हालिया सोशल मीडिया एंट्री ने प्रशंसकों द्वारा उन्हें डकोटा जॉनसन से तुलना दिलाई। पांडे की ताज़ा स्टाइल काफी ध्यान आकर्षित कर रही है, क्योंकि वह 22 मई को रिलीज़ होने वाले 'कॉल मी बे एस2' और लक्ष्य के साथ 'चांद मेरा दिल' जैसी आगामी परियोजनाओं के लिए तैयार हैं।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129817705,imgsize-18820.cms",
-        "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ananya-pandays-fresh-style-attracts-major-eye-balls-she-looks-like-dakota-johnson/articleshow/129817705.cms"
-    },
-    {
-        "id": "6a46be9d",
-        "category": "Entertainment",
-        "translations": {
-            "en": {
-                "title": "Tamil OTT Releases: This Week's Must-Watch Films",
-                "content": "This week marks the final wave of March 2026's Tamil OTT releases. Catch Sasikumar's social justice drama 'My Lord' on Amazon Prime Video. Aadhi Pinisetty's horror thriller 'Sabdham' is now streaming on ZEE5. Additionally, Sun NXT premieres 'Naangal,' an emotional family drama inspired by real life, on March 27, offering diverse viewing options for Tamil cinema fans."
-            },
-            "kn": {
-                "title": "ತಮಿಳು OTT ಬಿಡುಗಡೆಗಳು: ಈ ವಾರದ ತಪ್ಪದೇ ನೋಡಬೇಕಾದ ಚಿತ್ರಗಳು",
-                "content": "ಮಾರ್ಚ್ 2026 ರ ಈ ವಾರ ತಮಿಳು OTT ಬಿಡುಗಡೆಗಳ ಅಂತಿಮ ಅಲೆ ಕಂಡಿದೆ. ಸಸಿಕುಮಾರ್ ಅವರ ಸಾಮಾಜಿಕ ನ್ಯಾಯ ನಾಟಕ 'My Lord' ಅನ್ನು Amazon Prime Video ನಲ್ಲಿ ನೋಡಿ. ಆದಿ ಪಿನಿಸೆಟ್ಟಿ ಅವರ ಭಯಾನಕ ಥ್ರಿಲ್ಲರ್ 'Sabdham' ಈಗ ZEE5 ನಲ್ಲಿ ಸ್ಟ್ರೀಮಿಂಗ್ ಆಗುತ್ತಿದೆ. ಹೆಚ್ಚುವರಿಯಾಗಿ, Sun NXT ಮಾರ್ಚ್ 27 ರಂದು ನೈಜ ಜೀವನದಿಂದ ಪ್ರೇರಿತವಾದ ಭಾವನಾತ್ಮಕ ಕುಟುಂಬ ನಾಟಕ 'Naangal' ಅನ್ನು ಪ್ರದರ್ಶಿಸುತ್ತದೆ, ಇದು ತಮಿಳು ಚಲನಚಿತ್ರ ಅಭಿಮಾನಿಗಳಿಗೆ ವೈವಿಧ್ಯಮಯ ವೀಕ್ಷಣಾ ಆಯ್ಕೆಗಳನ್ನು ನೀಡುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "तमिळ OTT रिलीज: या आठवड्यातील आवर्जून पाहण्यासारखे चित्रपट",
-                "content": "या आठवड्यात मार्च 2026 च्या तमिळ OTT रिलीजची अंतिम लाट आली आहे. ससिकुमार यांचा सामाजिक न्याय नाटक 'My Lord' Amazon Prime Video वर पहा. आधी पिनिशेट्टी यांचा हॉरर थ्रिलर 'Sabdham' आता ZEE5 वर उपलब्ध आहे. याशिवाय, Sun NXT 27 मार्च रोजी 'Naangal' हा वास्तविक जीवनावर आधारित भावनिक कौटुंबिक नाटक प्रदर्शित करत आहे, जो तमिळ चित्रपट चाहत्यांसाठी विविध पर्याय सादर करतो."
-            },
-            "hi": {
-                "title": "तमिल ओटीटी रिलीज़: इस हफ़्ते की ज़रूर देखें फ़िल्में",
-                "content": "यह हफ़्ता मार्च 2026 की तमिल ओटीटी रिलीज़ की अंतिम लहर का गवाह है। सासिकुमार का सामाजिक न्याय ड्रामा 'My Lord' अमेज़न प्राइम वीडियो पर देखें। आधी पिनिसेट्टी की हॉरर थ्रिलर 'Sabdham' अब ZEE5 पर स्ट्रीम हो रही है। इसके अतिरिक्त, सन एनएक्सटी 27 मार्च को 'Naangal' का प्रीमियर कर रहा है, जो वास्तविक जीवन से प्रेरित एक भावनात्मक पारिवारिक ड्रामा है, जो तमिल सिनेमा प्रेमियों के लिए विविध विकल्प प्रदान करता है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129817343,imgsize-77468.cms",
-        "link": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/new-tamil-ott-releases-this-week-sasikumars-my-lord-to-aadhi-pinisettys-sabdham/articleshow/129817213.cms"
-    },
-    {
-        "id": "ff321a25",
-        "category": "Entertainment",
-        "translations": {
-            "en": {
-                "title": "Cruz Beckham's Emotional Stage Debut",
-                "content": "Cruz Beckham delivered an emotional performance of his new song, 'Loneliest Boy,' at London's Courtyard Theatre, moving a packed crowd and even himself to tears. Parents David and Victoria Beckham were visibly shaken by the touching lyrics, which subtly hint at his relationship with his brother. A powerful and personal debut."
-            },
-            "kn": {
-                "title": "ಕ್ರೂಜ್ ಬೆಕ್ಹ್ಯಾಮ್ ಅವರ ಭಾವುಕ ವೇದಿಕೆ ಚೊಚ್ಚಲ ಪ್ರದರ್ಶನ",
-                "content": "ಲಂಡನ್‌ನ ಕೋರ್ಟ್‌ಯಾರ್ಡ್ ಥಿಯೇಟರ್‌ನಲ್ಲಿ ಕ್ರೂಜ್ ಬೆಕ್ಹ್ಯಾಮ್ ತಮ್ಮ ಹೊಸ ಹಾಡು 'ಲೋನ್ಲಿಯೆಸ್ಟ್ ಬಾಯ್' ಅನ್ನು ಭಾವನಾತ್ಮಕವಾಗಿ ಪ್ರದರ್ಶಿಸಿದರು, ಅಲ್ಲಿ ನೆರೆದಿದ್ದ ಜನಸಮೂಹ ಮತ್ತು ಸ್ವತಃ ಅವರನ್ನು ಕಣ್ಣೀರಿಗೆ ತಳ್ಳಿದರು. ಪೋಷಕರಾದ ಡೇವಿಡ್ ಮತ್ತು ವಿಕ್ಟೋರಿಯಾ ಬೆಕ್ಹ್ಯಾಮ್ ಸ್ಪರ್ಶಿಸುವ ಸಾಹಿತ್ಯದಿಂದ ಸ್ಪಷ್ಟವಾಗಿ ಚಕಿತಗೊಂಡಿದ್ದರು, ಇದು ಅವರ ಸಹೋದರನೊಂದಿಗಿನ ಸಂಬಂಧವನ್ನು ಸೂಕ್ಷ್ಮವಾಗಿ ಸೂಚಿಸುತ್ತದೆ. ಒಂದು ಶಕ್ತಿಶಾಲಿ ಮತ್ತು ವೈಯಕ್ತಿಕ ಚೊಚ್ಚಲ ಪ್ರದರ್ಶನ."
-            },
-            "mr": {
-                "title": "क्रूझ बेकहॅमचे भावनिक रंगमंचावरील पदार्पण",
-                "content": "लंडनच्या कोर्टयार्ड थिएटरमध्ये क्रूझ बेकहॅमने त्याचे नवीन गाणे 'लोनलीस्ट बॉय' चे भावनिक सादरीकरण केले, ज्यामुळे उपस्थितांची गर्दी आणि स्वतः तोही रडला. त्याचे पालक डेव्हिड आणि व्हिक्टोरिया बेकहॅम स्पर्श करणाऱ्या गीतांमुळे स्पष्टपणे हादरले होते, जे त्याच्या भावाशी असलेल्या त्याच्या संबंधांची सूक्ष्मपणे आठवण करून देतात. एक शक्तिशाली आणि वैयक्तिक पदार्पण."
-            },
-            "hi": {
-                "title": "क्रूज़ बेकहम का भावुक स्टेज डेब्यू",
-                "content": "लंदन के कोर्टयार्ड थिएटर में क्रूज़ बेकहम ने अपने नए गाने 'लोनलीस्ट बॉय' का भावुक प्रदर्शन किया, जिसने खचाखच भरी भीड़ और खुद उन्हें भी रुला दिया। माता-पिता डेविड और विक्टोरिया बेकहम मार्मिक बोलों से स्पष्ट रूप से हिल गए थे, जो उनके भाई के साथ उनके रिश्ते की सूक्ष्मता से झलक देते हैं। एक शक्तिशाली और व्यक्तिगत शुरुआत।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129816708,imgsize-69838.cms",
-        "link": "https://timesofindia.indiatimes.com/entertainment/english/music/news/cruz-beckham-breaks-down-on-stage-while-performing-loneliest-boy-scathing-lyrics-hint-at-brother-brooklyn-amid-family-rift-mama-dont-talk-too-much/articleshow/129816708.cms"
     }
 ]
