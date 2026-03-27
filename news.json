@@ -1,5 +1,605 @@
 [
     {
+        "id": "aefaad2d",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "J&K Assembly Ruckus Over Iran Protest",
+                "content": "Massive ruckus erupted in the J&K Assembly as National Conference MLAs protested the alleged killing of Iran's Ali Khamenei and US-Israel military actions. The protest led to a scuffle with BJP MLAs, forcing an adjournment. Chief Minister Omar Abdullah condemned the conflict, stating that regime change cannot be achieved through military bombardment."
+            },
+            "kn": {
+                "title": "ಜೆ&ಕೆ ಅಸೆಂಬ್ಲಿಯಲ್ಲಿ ಇರಾನ್ ಪ್ರತಿಭಟನೆಗೆ ಗದ್ದಲ",
+                "content": "ಜೆ&ಕೆ ಅಸೆಂಬ್ಲಿಯಲ್ಲಿ ಭಾರೀ ಗದ್ದಲ ಉಂಟಾಯಿತು, ನ್ಯಾಷನಲ್ ಕಾನ್ಫರೆನ್ಸ್ ಶಾಸಕರು ಇರಾನ್‌ನ ಅಲಿ ಖಮೇನಿ ಅವರ ಹತ್ಯೆ ಮತ್ತು ಯುಎಸ್-ಇಸ್ರೇಲ್ ಮಿಲಿಟರಿ ಕ್ರಮಗಳನ್ನು ವಿರೋಧಿಸಿ ಪ್ರತಿಭಟಿಸಿದರು. ಈ ಪ್ರತಿಭಟನೆಯು ಬಿಜೆಪಿ ಶಾಸಕರೊಂದಿಗೆ ಜಗಳಕ್ಕೆ ಕಾರಣವಾಯಿತು, ಇದರಿಂದ ಅಧಿವೇಶನವನ್ನು ಮುಂದೂಡಲಾಯಿತು. ಮುಖ್ಯಮಂತ್ರಿ ಒಮರ್ ಅಬ್ದುಲ್ಲಾ ಈ ಸಂಘರ್ಷವನ್ನು ಖಂಡಿಸಿ, ಮಿಲಿಟರಿ ಬಾಂಬ್‌ ದಾಳಿಯಿಂದ ಆಡಳಿತ ಬದಲಾವಣೆ ಸಾಧಿಸಲಾಗುವುದಿಲ್ಲ ಎಂದು ಹೇಳಿದರು."
+            },
+            "mr": {
+                "title": "जे&के विधानसभेत इराणच्या निषेधावरून गोंधळ",
+                "content": "जे&के विधानसभेत प्रचंड गोंधळ निर्माण झाला, कारण नॅशनल कॉन्फरन्सच्या आमदारांनी इराणचे अली खामेनेई यांच्या कथित हत्येवर आणि अमेरिका-इस्त्रायलच्या लष्करी कारवाईवर निषेध केला. या आंदोलनामुळे भाजप आमदारांसोबत धक्काबुक्की झाली, ज्यामुळे सभागृहाचे कामकाज तहकूब करावे लागले. मुख्यमंत्री ओमर अब्दुल्ला यांनी या संघर्षाचा निषेध केला, ते म्हणाले की, लष्करी बॉम्ब हल्ल्याने राजवट बदलता येत नाही."
+            },
+            "hi": {
+                "title": "जम्मू-कश्मीर विधानसभा में ईरान के विरोध पर हंगामा",
+                "content": "जम्मू-कश्मीर विधानसभा में भारी हंगामा हुआ, जब नेशनल कॉन्फ्रेंस के विधायकों ने ईरान के अली खामेनेई की कथित हत्या और अमेरिका-इजरायल की सैन्य कार्रवाई का विरोध किया। इस विरोध प्रदर्शन के कारण भाजपा विधायकों के साथ झड़प हुई, जिससे सदन स्थगित करना पड़ा। मुख्यमंत्री उमर अब्दुल्ला ने संघर्ष की निंदा करते हुए कहा कि सैन्य बमबारी से शासन परिवर्तन हासिल नहीं किया जा सकता।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129840100,imgsize-2712997.cms",
+        "link": "https://timesofindia.indiatimes.com/india/watch-massive-ruckus-in-jk-assembly-as-nc-mlas-protest-over-killing-of-irans-ali-khamenei/articleshow/129839452.cms",
+        "date": "2026-03-27T11:29:56+05:30"
+    },
+    {
+        "id": "6436208b",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Elderly Meds: Supervised Reduction Can Be Safe & Beneficial",
+                "content": "A global review suggests many elderly individuals, especially the frail, may safely reduce long-term medications under supervision. This practice can significantly cut risks like falls and confusion, while boosting well-being and energy levels. Doctors are increasingly advocating for patient-centered care, where carefully stopping certain drugs improves quality of life instead of causing harm from polypharmacy."
+            },
+            "kn": {
+                "title": "ವೃದ್ಧರ ಔಷಧಿಗಳು: ಸುರಕ್ಷಿತ ಕಡಿತವು ಪ್ರಯೋಜನಕಾರಿ",
+                "content": "ಜಾಗತಿಕ ವಿಮರ್ಶೆಯು ಅನೇಕ ವೃದ್ಧರು, ವಿಶೇಷವಾಗಿ ದುರ್ಬಲರು, ಮೇಲ್ವಿಚಾರಣೆಯಲ್ಲಿ ದೀರ್ಘಕಾಲೀನ ಔಷಧಿಗಳನ್ನು ಸುರಕ್ಷಿತವಾಗಿ ಕಡಿಮೆ ಮಾಡಬಹುದು ಎಂದು ಸೂಚಿಸುತ್ತದೆ. ಈ ಅಭ್ಯಾಸವು ಬೀಳುವಿಕೆ ಮತ್ತು ಗೊಂದಲದಂತಹ ಅಪಾಯಗಳನ್ನು ಗಮನಾರ್ಹವಾಗಿ ಕಡಿಮೆ ಮಾಡುತ್ತದೆ, ಆದರೆ ಯೋಗಕ್ಷೇಮ ಮತ್ತು ಶಕ್ತಿಯ ಮಟ್ಟವನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ. ವೈದ್ಯರು ರೋಗಿ-ಕೇಂದ್ರಿತ ಆರೈಕೆಗೆ ಹೆಚ್ಚು ಒತ್ತು ನೀಡುತ್ತಿದ್ದಾರೆ, ಅಲ್ಲಿ ಕೆಲವು ಔಷಧಿಗಳನ್ನು ಎಚ್ಚರಿಕೆಯಿಂದ ನಿಲ್ಲಿಸುವುದು ಬಹು ಔಷಧಗಳ ಸೇವನೆಯಿಂದಾಗುವ ಹಾನಿಯ ಬದಲು ಜೀವನದ ಗುಣಮಟ್ಟವನ್ನು ಸುಧಾರಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "वृद्धांची औषधे: देखरेखीखालील कपात सुरक्षित व फायदेशीर",
+                "content": "एका जागतिक अभ्यासानुसार, अनेक वृद्ध व्यक्ती, विशेषतः दुर्बळ, देखरेखीखाली त्यांचे दीर्घकालीन औषधोपचार सुरक्षितपणे कमी करू शकतात. ही पद्धत पडणे आणि गोंधळ यांसारखे धोके लक्षणीयरीत्या कमी करते, तसेच आरोग्य आणि ऊर्जा पातळी सुधारते. डॉक्टर आता रुग्ण-केंद्रित काळजीचा अधिक पुरस्कार करत आहेत, जिथे काही औषधे काळजीपूर्वक थांबवल्याने बहु औषधोपचारांमुळे होणाऱ्या हानीऐवजी जीवनाचा दर्जा सुधारतो."
+            },
+            "hi": {
+                "title": "बुजुर्गों की दवाएं: निगरानी में कमी सुरक्षित और फायदेमंद",
+                "content": "एक वैश्विक समीक्षा बताती है कि कई बुजुर्ग व्यक्ति, विशेष रूप से कमजोर लोग, निगरानी में अपनी लंबी अवधि की दवाओं को सुरक्षित रूप से कम कर सकते हैं। यह अभ्यास गिरने और भ्रम जैसे जोखिमों को काफी हद तक कम कर सकता है, साथ ही स्वास्थ्य और ऊर्जा के स्तर को बढ़ा सकता है। डॉक्टर अब रोगी-केंद्रित देखभाल की वकालत कर रहे हैं, जहां कुछ दवाओं को सावधानीपूर्वक बंद करने से पॉलीफ़ार्मेसी (कई दवाओं का सेवन) से होने वाले नुकसान के बजाय जीवन की गुणवत्ता में सुधार होता है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129836424,imgsize-988815.cms",
+        "link": "https://timesofindia.indiatimes.com/india/too-many-meds-in-old-age-cutting-back-could-be-safe/articleshow/129836419.cms",
+        "date": "2026-03-27T05:23:50+05:30"
+    },
+    {
+        "id": "fdcc02e9",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "India Secures Hormuz Passage from Iran",
+                "content": "Iran has granted India permission to use the strategic Strait of Hormuz, allowing 20 cargo vessels and 18 LPG tankers to pass. This move, secured through India's diplomatic efforts, significantly eases concerns about energy supply disruptions. However, Iran clarified that ships linked to its adversaries will be denied access to the crucial waterway."
+            },
+            "kn": {
+                "title": "ಭಾರತವು ಇರಾನ್‌ನಿಂದ ಹಾರ್ಮುಜ್ ಮಾರ್ಗವನ್ನು ಪಡೆದುಕೊಂಡಿದೆ",
+                "content": "ಇರಾನ್ ಭಾರತಕ್ಕೆ ಕಾರ್ಯತಂತ್ರದ ಹಾರ್ಮುಜ್ ಜಲಸಂಧಿಯನ್ನು ಬಳಸಲು ಅನುಮತಿ ನೀಡಿದೆ, ಇದರಿಂದ 20 ಸರಕು ಹಡಗುಗಳು ಮತ್ತು 18 ಎಲ್‌ಪಿಜಿ ಟ್ಯಾಂಕರ್‌ಗಳು ಹಾದುಹೋಗಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ. ಭಾರತದ ರಾಜತಾಂತ್ರಿಕ ಪ್ರಯತ್ನಗಳಿಂದ ದೊರೆತ ಈ ಕ್ರಮವು ಇಂಧನ ಪೂರೈಕೆ ಅಡೆತಡೆಗಳ ಆತಂಕವನ್ನು ಗಣನೀಯವಾಗಿ ಕಡಿಮೆ ಮಾಡುತ್ತದೆ. ಆದರೆ, ಇರಾನ್ ತನ್ನ ವಿರೋಧಿಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಹಡಗುಗಳಿಗೆ ಈ ಪ್ರಮುಖ ಜಲಮಾರ್ಗಕ್ಕೆ ಪ್ರವೇಶವನ್ನು ನಿರಾಕರಿಸಲಾಗುವುದು ಎಂದು ಸ್ಪಷ್ಟಪಡಿಸಿದೆ."
+            },
+            "mr": {
+                "title": "भारताला इराणकडून होर्मुझ मार्गाची सुरक्षितता मिळाली",
+                "content": "इराणने भारताला महत्त्वाच्या होर्मुझ सामुद्रधुनीचा वापर करण्याची परवानगी दिली आहे, ज्यामुळे २० मालवाहू जहाजे आणि १८ एलपीजी टँकर मार्गस्थ होऊ शकतील. भारताच्या राजनैतिक प्रयत्नांमुळे मिळालेल्या या निर्णयामुळे ऊर्जा पुरवठ्यातील व्यत्ययांबद्दलची चिंता लक्षणीयरीत्या कमी झाली आहे. मात्र, इराणने स्पष्ट केले आहे की, त्याच्या शत्रूंशी संबंधित जहाजांना या महत्त्वपूर्ण जलमार्गात प्रवेश नाकारला जाईल."
+            },
+            "hi": {
+                "title": "भारत ने ईरान से होर्मुज मार्ग सुरक्षित किया",
+                "content": "ईरान ने भारत को सामरिक होर्मुज जलडमरूमध्य का उपयोग करने की अनुमति दी है, जिससे 20 मालवाहक जहाजों और 18 एलपीजी टैंकरों को गुजरने की अनुमति मिलेगी। भारत के राजनयिक प्रयासों से हासिल किया गया यह कदम, ऊर्जा आपूर्ति में व्यवधानों की चिंताओं को काफी कम करता है। हालांकि, ईरान ने स्पष्ट किया कि उसके विरोधियों से जुड़े जहाजों को इस महत्वपूर्ण जलमार्ग में प्रवेश से वंचित किया जाएगा।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129836401,imgsize-727477.cms",
+        "link": "https://timesofindia.indiatimes.com/india/iran-hands-hormuz-pass-to-india-pak-russia-china-iraq/articleshow/129836393.cms",
+        "date": "2026-03-27T05:13:02+05:30"
+    },
+    {
+        "id": "87e66f06",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "India Accelerates 6G Push, Aims Global Standards Role",
+                "content": "India is making a significant leap from 5G to 6G, actively shaping global telecom standards. Communication Minister Jyotiraditya Scindia emphasized India's new role as a key partner in these discussions. The 2024-formed Bharat 6G Alliance, with 85 members, underscores the nation's robust commitment to leading the future of communication networks."
+            },
+            "kn": {
+                "title": "ಭಾರತ 6G ಕಡೆಗೆ ವೇಗ, ಜಾಗತಿಕ ಮಾನದಂಡಗಳ ಪಾತ್ರಕ್ಕೆ ಗುರಿ",
+                "content": "ಭಾರತವು 5G ಯಿಂದ 6G ಕಡೆಗೆ ಮಹತ್ವದ ದಾಪುಗಾಲು ಹಾಕುತ್ತಿದೆ, ಜಾಗತಿಕ ದೂರಸಂಪರ್ಕ ಮಾನದಂಡಗಳನ್ನು ಸಕ್ರಿಯವಾಗಿ ರೂಪಿಸುತ್ತಿದೆ. ಸಂವಹನ ಸಚಿವ ಜ್ಯೋತಿರಾದಿತ್ಯ ಸಿಂಧಿಯಾ ಅವರು ಈ ಚರ್ಚೆಗಳಲ್ಲಿ ಭಾರತದ ಹೊಸ ಪಾತ್ರವನ್ನು ಪ್ರಮುಖ ಪಾಲುದಾರನಾಗಿ ಒತ್ತಿ ಹೇಳಿದರು. 2024 ರಲ್ಲಿ ರಚನೆಯಾದ ಭಾರತ 6G ಅಲಯನ್ಸ್, 85 ಸದಸ್ಯರೊಂದಿಗೆ, ಸಂವಹನ ಜಾಲಗಳ ಭವಿಷ್ಯವನ್ನು ಮುನ್ನಡೆಸುವ ರಾಷ್ಟ್ರದ ಬಲವಾದ ಬದ್ಧತೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "भारत 6G प्रगतीला वेग देतोय, जागतिक मानकांमध्ये भूमिका घेणार",
+                "content": "भारत 5G वरून 6G कडे एक महत्त्वाचा टप्पा गाठत आहे, जागतिक दूरसंचार मानकांना सक्रियपणे आकार देत आहे. केंद्रीय मंत्री ज्योतिरादित्य सिंधिया यांनी या चर्चांमध्ये भारताच्या प्रमुख भागीदाराच्या नव्या भूमिकेवर भर दिला. 2024 मध्ये स्थापन झालेली भारत 6G अलायन्स, ज्यामध्ये 85 सदस्य आहेत, ती दळणवळण नेटवर्कचे भविष्य घडवण्यासाठी देशाची मजबूत कटिबद्धता दर्शवते."
+            },
+            "hi": {
+                "title": "भारत 6G की ओर तेज़, वैश्विक मानकों में अग्रणी भूमिका का लक्ष्य",
+                "content": "भारत 5G से 6G की ओर एक महत्वपूर्ण छलांग लगा रहा है, जो वैश्विक दूरसंचार मानकों को सक्रिय रूप से आकार दे रहा है। संचार मंत्री ज्योतिरादित्य सिंधिया ने इन चर्चाओं में भारत की एक प्रमुख भागीदार के रूप में नई भूमिका पर जोर दिया। 2024 में गठित भारत 6G अलायंस, जिसके 85 सदस्य हैं, संचार नेटवर्क के भविष्य का नेतृत्व करने के लिए देश की मजबूत प्रतिबद्धता को रेखांकित करता है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129836274,imgsize-731224.cms",
+        "link": "https://timesofindia.indiatimes.com/india/india-has-begun-process-to-take-a-leap-from-5g-to-6g-scindia/articleshow/129836269.cms",
+        "date": "2026-03-27T04:23:31+05:30"
+    },
+    {
+        "id": "d05c92d3",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Trump Extends Hormuz Deadline Amid Strikes; Oil Prices Ease",
+                "content": "Amid escalating US-Israel vs. Iran tensions, former President Trump has reportedly extended a deadline concerning the Strait of Hormuz. This comes even as military strikes persist in the region, surprisingly causing a slight ease in global oil prices. The situation remains volatile, with geopolitical implications closely watched worldwide."
+            },
+            "kn": {
+                "title": "ಟ್ರಂಪ್ ಹಾರ್ಮುಜ್ ಗಡುವು ವಿಸ್ತರಿಸಿದರು, ದಾಳಿಗಳ ನಡುವೆಯೂ ತೈಲ ಬೆಲೆ ಇಳಿಕೆ",
+                "content": "ಅಮೆರಿಕ-ಇಸ್ರೇಲ್ ಮತ್ತು ಇರಾನ್ ನಡುವಿನ ಉಲ್ಬಣಗೊಳ್ಳುತ್ತಿರುವ ಉದ್ವಿಗ್ನತೆಯ ನಡುವೆ, ಮಾಜಿ ಅಧ್ಯಕ್ಷ ಟ್ರಂಪ್ ಹಾರ್ಮುಜ್ ಜಲಸಂಧಿಗೆ ಸಂಬಂಧಿಸಿದ ಗಡುವನ್ನು ವಿಸ್ತರಿಸಿದ್ದಾರೆ ಎಂದು ವರದಿಯಾಗಿದೆ. ಪ್ರದೇಶದಲ್ಲಿ ಮಿಲಿಟರಿ ದಾಳಿಗಳು ಮುಂದುವರಿದಿದ್ದರೂ, ಜಾಗತಿಕ ತೈಲ ಬೆಲೆಗಳಲ್ಲಿ ಆಶ್ಚರ್ಯಕರವಾಗಿ ಸ್ವಲ್ಪ ಇಳಿಕೆ ಕಂಡುಬಂದಿದೆ. ಭೂರಾಜಕೀಯ ಪರಿಣಾಮಗಳೊಂದಿಗೆ ಪರಿಸ್ಥಿತಿ ಅಸ್ಥಿರವಾಗಿದ್ದು, ಜಗತ್ತಿನಾದ್ಯಂತ ಸೂಕ್ಷ್ಮವಾಗಿ ಗಮನಿಸಲಾಗುತ್ತಿದೆ."
+            },
+            "mr": {
+                "title": "ट्रम्पने होर्मुझची मुदतवाढ दिली, हल्ले सुरू असतानाही तेलाच्या किमती कमी झाल्या",
+                "content": "अमेरिका-इस्रायल आणि इराणमधील वाढत्या तणावाच्या पार्श्वभूमीवर, माजी अध्यक्ष ट्रम्प यांनी होर्मुझच्या सामुद्रधुनीशी संबंधित मुदतवाढ दिल्याचे वृत्त आहे. प्रदेशात लष्करी हल्ले सुरू असतानाही हे घडले आहे, ज्यामुळे जागतिक तेलाच्या किमतींमध्ये आश्चर्यकारकपणे थोडी घट झाली आहे. भू-राजकीय परिणामांसह परिस्थिती अस्थिर असून, जगभरात बारकाईने लक्ष ठेवले जात आहे."
+            },
+            "hi": {
+                "title": "ट्रम्प ने होर्मुज की समय-सीमा बढ़ाई, हमलों के बावजूद तेल कीमतें घटीं",
+                "content": "अमेरिका-इजरायल बनाम ईरान के बीच बढ़ते तनाव के बीच, पूर्व राष्ट्रपति ट्रम्प ने कथित तौर पर होर्मुज जलडमरूमध्य से संबंधित एक समय-सीमा बढ़ा दी है। यह ऐसे समय में आया है जब क्षेत्र में सैन्य हमले जारी हैं, जिससे आश्चर्यजनक रूप से वैश्विक तेल कीमतों में थोड़ी नरमी आई है। भू-राजनीतिक निहितार्थों के साथ स्थिति अस्थिर बनी हुई है, जिस पर दुनिया भर में बारीकी से नजर रखी जा रही है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129840030,imgsize-915934.cms",
+        "link": "https://timesofindia.indiatimes.com/world/middle-east/trump-extends-hormuz-deadline-even-as-strikes-continue-oil-prices-ease-whats-happening-in-us-israel-vs-iran-war/articleshow/129839061.cms",
+        "date": "2026-03-27T12:02:42+05:30"
+    },
+    {
+        "id": "84df31db",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Brown Dwarfs in Death Spiral: New Star Born?",
+                "content": "Astronomers discovered two brown dwarfs in an unprecedented 57-minute \"death spiral.\" These \"failed stars\" orbit incredibly close, on a collision course. Their merger could generate enough heat and pressure to ignite nuclear fusion, potentially transforming them into a new, single red dwarf star. This rare cosmic event offers a unique glimpse into stellar evolution."
+            },
+            "kn": {
+                "title": "ಮರಣದ ಸುಳಿಯಲ್ಲಿ ಬ್ರೌನ್ ಡ್ವಾರ್ಫ್‌ಗಳು: ಹೊಸ ನಕ್ಷತ್ರದ ಜನನ?",
+                "content": "ಖಗೋಳ ವಿಜ್ಞಾನಿಗಳು ಅಭೂತಪೂರ್ವ 57 ನಿಮಿಷಗಳ \"ಮರಣದ ಸುಳಿಯಲ್ಲಿ\" ಸಿಲುಕಿರುವ ಎರಡು ಬ್ರೌನ್ ಡ್ವಾರ್ಫ್‌ಗಳನ್ನು ಕಂಡುಹಿಡಿದಿದ್ದಾರೆ. ಈ \"ವಿಫಲಗೊಂಡ ನಕ್ಷತ್ರಗಳು\" ನಂಬಲಾಗದಷ್ಟು ಹತ್ತಿರದಲ್ಲಿ ಸುತ್ತುತ್ತಿವೆ, ಘರ್ಷಣೆಗೆ ಸಿದ್ಧವಾಗಿವೆ. ಅವುಗಳ ವಿಲೀನವು ಪರಮಾಣು ಸಮ್ಮಿಳನವನ್ನು ಪ್ರಚೋದಿಸಲು ಸಾಕಷ್ಟು ಶಾಖ ಮತ್ತು ಒತ್ತಡವನ್ನು ಉಂಟುಮಾಡಬಹುದು, ಬಹುಶಃ ಅವುಗಳನ್ನು ಹೊಸ, ಒಂದೇ ಕೆಂಪು ಡ್ವಾರ್ಫ್ ನಕ್ಷತ್ರವಾಗಿ ಪರಿವರ್ತಿಸಬಹುದು. ಈ ಅಪರೂಪದ ಕಾಸ್ಮಿಕ್ ಘಟನೆಯು ನಕ್ಷತ್ರಗಳ ವಿಕಸನಕ್ಕೆ ಒಂದು ಅನನ್ಯ ನೋಟವನ್ನು ನೀಡುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "मृत्यूच्या सर्पिलमध्ये तपकिरी बटू: नवीन ताऱ्याचा जन्म?",
+                "content": "खगोलशास्त्रज्ञांनी दोन तपकिरी बटू तारे 57 मिनिटांच्या \"मृत्यूच्या सर्पिल\" मध्ये अडकलेले शोधले. हे \"अयशस्वी तारे\" अत्यंत जवळून परिक्रमा करत असून लवकरच एकत्र येण्याची शक्यता आहे. त्यांच्या विलीनीकरणातून अणुगर्भीय संमीलन सुरू करण्यासाठी पुरेशी उष्णता आणि दाब निर्माण होऊ शकतो, ज्यामुळे ते एका नवीन लाल बटू ताऱ्यात बदलू शकतात. हा दुर्मिळ वैश्विक प्रसंग ताऱ्यांच्या उत्क्रांतीची अनोखी झलक देतो."
+            },
+            "hi": {
+                "title": "मृत्यु सर्पिल में भूरे बौने: क्या बनेगा नया तारा?",
+                "content": "खगोलविदों ने दो भूरे बौनों को 57 मिनट के \"मृत्यु सर्पिल\" में फंसा हुआ खोजा है। ये \"विफल तारे\" अविश्वसनीय रूप से करीब परिक्रमा कर रहे हैं और जल्द ही विलीन होने की उम्मीद है। उनके विलय से परमाणु संलयन को प्रज्वलित करने के लिए पर्याप्त गर्मी और दबाव उत्पन्न हो सकता है, जिससे वे एक नए लाल बौने तारे में बदल सकते हैं। यह दुर्लभ ब्रह्मांडीय घटना तारकीय विकास की अनूठी झलक प्रदान करती है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129824425,imgsize-42774.cms",
+        "link": "https://timesofindia.indiatimes.com/science/brown-dwarfs-in-a-57-minute-death-spiral-may-ignite-into-a-new-star/articleshow/129824414.cms",
+        "date": "2026-03-27T03:00:00+05:30"
+    },
+    {
+        "id": "22be6efe",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "UAE Weather: NCM Quashes Cyclone Rumors Amid Storms",
+                "content": "The UAE's National Centre of Meteorology (NCM) has debunked viral claims of a 'cyclone' amid recent thunderstorms and strong winds. While severe, the weather is due to seasonal atmospheric instability, not a cyclone. NCM urges residents to rely solely on official sources to combat misinformation and ensure public safety during these intense, yet normal, weather patterns. Stay informed, stay safe."
+            },
+            "kn": {
+                "title": "ಯುಎಇ ಹವಾಮಾನ: NCM ಚಂಡಮಾರುತದ ವದಂತಿಗಳನ್ನು ತಳ್ಳಿಹಾಕಿದೆ",
+                "content": "ಯುಎಇಯ ರಾಷ್ಟ್ರೀಯ ಹವಾಮಾನ ಕೇಂದ್ರ (NCM) ಇತ್ತೀಚಿನ ಗುಡುಗು ಸಹಿತ ಮಳೆ ಮತ್ತು ಬಿರುಗಾಳಿಯ ನಡುವೆ 'ಚಂಡಮಾರುತ'ದ ವೈರಲ್ ಹೇಳಿಕೆಗಳನ್ನು ನಿರಾಕರಿಸಿದೆ. ಹವಾಮಾನ ತೀವ್ರವಾಗಿದ್ದರೂ, ಇದು ಕಾಲೋಚಿತ ವಾಯುಮಂಡಲದ ಅಸ್ಥಿರತೆಯಿಂದಾಗಿ, ಚಂಡಮಾರುತವಲ್ಲ. NCM ನಿವಾಸಿಗಳಿಗೆ ತಪ್ಪು ಮಾಹಿತಿಯನ್ನು ಎದುರಿಸಲು ಮತ್ತು ಈ ತೀವ್ರವಾದ, ಆದರೆ ಸಾಮಾನ್ಯ, ಹವಾಮಾನ ಮಾದರಿಗಳ ಸಮಯದಲ್ಲಿ ಸಾರ್ವಜನಿಕ ಸುರಕ್ಷತೆಯನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು ಅಧಿಕೃತ ಮೂಲಗಳನ್ನು ಮಾತ್ರ ಅವಲಂಬಿಸಲು ಒತ್ತಾಯಿಸುತ್ತದೆ. ಮಾಹಿತಿ ಪಡೆಯಿರಿ, ಸುರಕ್ಷಿತವಾಗಿರಿ."
+            },
+            "mr": {
+                "title": "UAE हवामान: NCM ने वादळांदरम्यान चक्रीवादळाच्या अफवा फेटाळल्या",
+                "content": "युएईच्या राष्ट्रीय हवामान केंद्र (NCM) ने अलीकडील वादळी वारे आणि जोरदार वाऱ्यांच्या दरम्यान 'चक्रीवादळ' असल्याच्या व्हायरल दाव्यांना फेटाळून लावले आहे. हवामान तीव्र असले तरी, ते हंगामी वातावरणीय अस्थिरतेमुळे आहे, चक्रीवादळ नाही. NCM नागरिकांना चुकीच्या माहितीचा सामना करण्यासाठी आणि या तीव्र, तरीही सामान्य, हवामानाच्या नमुन्यांदरम्यान सार्वजनिक सुरक्षा सुनिश्चित करण्यासाठी केवळ अधिकृत स्रोतांवर अवलंबून राहण्याचे आवाहन करते. माहितीपूर्ण रहा, सुरक्षित रहा."
+            },
+            "hi": {
+                "title": "यूएई मौसम: NCM ने तूफानों के बीच चक्रवात की अफवाहों को खारिज किया",
+                "content": "यूएई के राष्ट्रीय मौसम विज्ञान केंद्र (NCM) ने हाल के गरज-चमक वाले तूफानों और तेज़ हवाओं के बीच 'चक्रवात' के वायरल दावों का खंडन किया है। हालांकि मौसम गंभीर है, यह मौसमी वायुमंडलीय अस्थिरता के कारण है, न कि चक्रवात। NCM निवासियों से गलत सूचना का मुकाबला करने और इन तीव्र, फिर भी सामान्य, मौसम पैटर्न के दौरान सार्वजनिक सुरक्षा सुनिश्चित करने के लिए केवल आधिकारिक स्रोतों पर निर्भर रहने का आग्रह करता है। सूचित रहें, सुरक्षित रहें।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129838746,imgsize-62764.cms",
+        "link": "https://timesofindia.indiatimes.com/world/middle-east/cyclone-in-the-uae-ncm-finally-breaks-silence-on-viral-claims-as-thunderstorms-lash-emirates-overnight/articleshow/129838674.cms",
+        "date": "2026-03-27T10:30:53+05:30"
+    },
+    {
+        "id": "375cdd5a",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Trump Grants Iran 10-Day Truce After Hormuz Passage",
+                "content": "President Trump extended a 10-day \"cooling-off\" period to Iran, calling it a \"gift\" after Tehran allowed eight oil tankers through the Strait of Hormuz. This pause in planned strikes on energy infrastructure comes amid ongoing diplomatic efforts, which Trump described as progressing well. The extension follows prior delays, aiming to de-escalate tensions."
+            },
+            "kn": {
+                "title": "ಹಾರ್ಮುಜ್ ಮಾರ್ಗದ ನಂತರ ಇರಾನ್‌ಗೆ ಟ್ರಂಪ್ 10 ದಿನಗಳ ಕದನ ವಿರಾಮ ನೀಡಿದರು",
+                "content": "ಅಧ್ಯಕ್ಷ ಟ್ರಂಪ್ ಇರಾನ್‌ಗೆ 10 ದಿನಗಳ \"ಶಾಂತಿಯ\" ಅವಧಿಯನ್ನು ವಿಸ್ತರಿಸಿದರು, ತೆಹ್ರಾನ್ ಎಂಟು ತೈಲ ಟ್ಯಾಂಕರಗಳನ್ನು ಹಾರ್ಮುಜ್ ಜಲಸಂಧಿಯ ಮೂಲಕ ಹಾದುಹೋಗಲು ಅನುಮತಿಸಿದ ನಂತರ ಇದನ್ನು \"ಉಡುಗೊರೆ\" ಎಂದು ಕರೆದರು. ಇಂಧನ ಮೂಲಸೌಕರ್ಯಗಳ ಮೇಲಿನ ಯೋಜಿತ ದಾಳಿಗಳ ಈ ವಿರಾಮವು ನಡೆಯುತ್ತಿರುವ ರಾಜತಾಂತ್ರಿಕ ಪ್ರಯತ್ನಗಳ ನಡುವೆ ಬಂದಿದೆ, ಇದನ್ನು ಟ್ರಂಪ್ ಉತ್ತಮವಾಗಿ ಪ್ರಗತಿಯಲ್ಲಿದೆ ಎಂದು ವಿವರಿಸಿದ್ದಾರೆ. ಈ ವಿಸ್ತರಣೆಯು ಹಿಂದಿನ ವಿಳಂಬಗಳನ್ನು ಅನುಸರಿಸುತ್ತದೆ, ಉದ್ವಿಗ್ನತೆಯನ್ನು ಕಡಿಮೆ ಮಾಡುವ ಗುರಿಯನ್ನು ಹೊಂದಿದೆ."
+            },
+            "mr": {
+                "title": "ट्रम्प यांनी होर्मुझ मार्गावरील वाहतुकीनंतर इराणला 10 दिवसांची शांतता दिली",
+                "content": "राष्ट्राध्यक्ष ट्रम्प यांनी इराणला 10 दिवसांचा 'शांततेचा' कालावधी वाढवला, कारण तेहरानने होर्मुझच्या सामुद्रधुनीतून आठ तेल टँकर्सना मार्ग दिला. ट्रम्प यांनी याला 'भेट' असे संबोधले. ऊर्जा पायाभूत सुविधांवरील नियोजित हल्ल्यांना दिलेला हा विराम, ट्रम्प यांनी चांगल्या प्रगतीवर असल्याचे वर्णन केलेल्या चालू असलेल्या राजनैतिक प्रयत्नांदरम्यान आला आहे. हा विस्तार पूर्वीच्या विलंबांनंतर आला असून, तणाव कमी करण्याचे त्याचे उद्दिष्ट आहे."
+            },
+            "hi": {
+                "title": "होर्मुज मार्ग खुलने के बाद ट्रंप ने ईरान को 10 दिन की शांति दी",
+                "content": "राष्ट्रपति ट्रंप ने ईरान को 10 दिन की \"कूलिंग-ऑफ\" अवधि दी, जिसे उन्होंने \"उपहार\" बताया क्योंकि तेहरान ने होर्मुज जलडमरूमध्य से आठ तेल टैंकरों को गुजरने दिया। ऊर्जा बुनियादी ढांचे पर नियोजित हमलों में यह ठहराव चल रहे राजनयिक प्रयासों के बीच आया है, जिन्हें ट्रंप ने अच्छी प्रगति पर बताया। यह विस्तार पिछली देरी के बाद आया है, जिसका उद्देश्य तनाव कम करना है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129837972,imgsize-866870.cms",
+        "link": "https://timesofindia.indiatimes.com/world/us/they-asked-for-7-i-gave-them-10-donald-trump-reveals-irans-big-present-to-us-as-hormuz-deadline-delayed/articleshow/129837757.cms",
+        "date": "2026-03-27T10:13:30+05:30"
+    },
+    {
+        "id": "f70dc56f",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "2.5km Deep: France's Deepest Shipwreck Discovered by Drone",
+                "content": "An underwater drone has uncovered France's deepest known shipwreck, lying 2.5 kilometers beneath the surface. This remarkable discovery opens a window into a hidden world, showcasing the advanced capabilities of autonomous underwater vehicles in exploring extreme depths. The find provides crucial insights for maritime archaeology and deep-sea exploration, revealing secrets long lost to the ocean's vast expanse."
+            },
+            "kn": {
+                "title": "2.5 ಕಿ.ಮೀ. ಆಳದಲ್ಲಿ: ಫ್ರಾನ್ಸ್‌ನ ಅತ್ಯಂತ ಆಳವಾದ ಹಡಗು ಭಗ್ನಾವಶೇಷವನ್ನು ಡ್ರೋನ್ ಪತ್ತೆ ಹಚ್ಚಿದೆ",
+                "content": "ಒಂದು ಜಲಾಂತರ್ಗಾಮಿ ಡ್ರೋನ್ ಫ್ರಾನ್ಸ್‌ನ ಅತ್ಯಂತ ಆಳವಾದ ಹಡಗು ಭಗ್ನಾವಶೇಷವನ್ನು 2.5 ಕಿಲೋಮೀಟರ್ ಆಳದಲ್ಲಿ ಪತ್ತೆ ಮಾಡಿದೆ. ಈ ಗಮನಾರ್ಹ ಆವಿಷ್ಕಾರವು ಅಡಗಿದ ಜಗತ್ತಿಗೆ ಕಿಟಕಿಯನ್ನು ತೆರೆಯುತ್ತದೆ, ಇದು ತೀವ್ರ ಆಳವನ್ನು ಅನ್ವೇಷಿಸುವಲ್ಲಿ ಸ್ವಾಯತ್ತ ಜಲಾಂತರ್ಗಾಮಿ ವಾಹನಗಳ ಸುಧಾರಿತ ಸಾಮರ್ಥ್ಯಗಳನ್ನು ಪ್ರದರ್ಶಿಸುತ್ತದೆ. ಈ ಕಂಡುಹಿಡಿಯುವಿಕೆಯು ಕಡಲ ಪುರಾತತ್ವ ಮತ್ತು ಆಳ ಸಮುದ್ರದ ಪರಿಶೋಧನೆಗೆ ನಿರ್ಣಾಯಕ ಒಳನೋಟಗಳನ್ನು ನೀಡುತ್ತದೆ, ಸಾಗರದ ವಿಶಾಲ ವಿಸ್ತಾರದಲ್ಲಿ ದೀರ್ಘಕಾಲ ಕಳೆದುಹೋದ ರಹಸ್ಯಗಳನ್ನು ಬಹಿರಂಗಪಡಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "2.5 किमी खोल: फ्रान्सचे सर्वात खोल बुडलेले जहाज ड्रोनने शोधले",
+                "content": "एका पाणबुडी ड्रोनने फ्रान्सचे सर्वात खोल बुडलेले जहाज 2.5 किलोमीटर खाली शोधले आहे. हा उल्लेखनीय शोध एका लपलेल्या जगाची खिडकी उघडतो, ज्यामुळे अत्यंत खोलीत शोध घेण्यासाठी स्वायत्त पाणबुडी वाहनांची प्रगत क्षमता दिसून येते. हे शोध सागरी पुरातत्व आणि खोल समुद्रातील शोधांसाठी महत्त्वपूर्ण अंतर्दृष्टी प्रदान करते, समुद्राच्या अथांग विस्तारामध्ये दीर्घकाळापासून हरवलेले रहस्य उघड करते."
+            },
+            "hi": {
+                "title": "2.5 किमी गहरा: फ्रांस का सबसे गहरा जहाज़ का मलबा ड्रोन द्वारा खोजा गया",
+                "content": "एक पानी के नीचे के ड्रोन ने फ्रांस के सबसे गहरे ज्ञात जहाज़ के मलबे का पता लगाया है, जो सतह से 2.5 किलोमीटर नीचे स्थित है। यह उल्लेखनीय खोज एक छिपी हुई दुनिया की खिड़की खोलती है, जो अत्यधिक गहराई में अन्वेषण के लिए स्वायत्त पानी के नीचे के वाहनों की उन्नत क्षमताओं को प्रदर्शित करती है। यह खोज समुद्री पुरातत्व और गहरे समुद्र की खोज के लिए महत्वपूर्ण अंतर्दृष्टि प्रदान करती है, समुद्र के विशाल विस्तार में लंबे समय से खोए हुए रहस्यों को उजागर करती है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129831553,imgsize-63918.cms",
+        "link": "https://timesofindia.indiatimes.com/world/rest-of-world/a-hidden-world-2-5-kilometre-down-how-an-underwater-drone-discovered-frances-deepest-shipwreck/articleshow/129831548.cms",
+        "date": "2026-03-27T09:00:00+05:30"
+    },
+    {
+        "id": "d694f742",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Candace Owens Denies Husband's Arrest Record Claim",
+                "content": "Candace Owens refuted Laura Loomer's viral claim linking an arrest record to her husband, George Farmer, calling the post misleading. The allegation sparked intense online debate, with supporters backing Owens and others demanding verification. No confirmed evidence has yet connected the record to Farmer, fueling the ongoing controversy."
+            },
+            "kn": {
+                "title": "ಕ್ಯಾಂಡೆಸ್ ಓವೆನ್ಸ್ ತನ್ನ ಪತಿಯ ಬಂಧನ ದಾಖಲೆಯ ಹಕ್ಕನ್ನು ನಿರಾಕರಿಸಿದ್ದಾರೆ",
+                "content": "ಕ್ಯಾಂಡೆಸ್ ಓವೆನ್ಸ್, ಲಾರಾ ಲೂಮರ್ ಅವರ ವೈರಲ್ ಹೇಳಿಕೆಯನ್ನು ನಿರಾಕರಿಸಿದ್ದಾರೆ. ಈ ಹೇಳಿಕೆಯು ತನ್ನ ಪತಿ ಜಾರ್ಜ್ ಫಾರ್ಮರ್‌ಗೆ ಬಂಧನ ದಾಖಲೆಯನ್ನು ಲಿಂಕ್ ಮಾಡಿದೆ ಎಂದು ಹೇಳಿತ್ತು, ಇದನ್ನು ಓವೆನ್ಸ್ ತಪ್ಪುದಾರಿಗೆ ಎಳೆಯುವ ಪೋಸ್ಟ್ ಎಂದು ಕರೆದಿದ್ದಾರೆ. ಈ ಆರೋಪವು ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ತೀವ್ರ ಚರ್ಚೆ ಹುಟ್ಟುಹಾಕಿತು, ಕೆಲವರು ಓವೆನ್ಸ್‌ಗೆ ಬೆಂಬಲ ನೀಡಿದರೆ, ಇತರರು ಪರಿಶೀಲನೆ ಕೇಳಿದರು. ಇದುವರೆಗೆ ದಾಖಲೆಯನ್ನು ಫಾರ್ಮರ್‌ಗೆ ಸಂಪರ್ಕಿಸುವ ಯಾವುದೇ ದೃಢೀಕೃತ ಸಾಕ್ಷ್ಯವಿಲ್ಲ, ವಿವಾದ ಮುಂದುವರಿದಿದೆ."
+            },
+            "mr": {
+                "title": "कॅंडिस ओवेन्सने पतीच्या अटकेच्या रेकॉर्डचा दावा नाकारला",
+                "content": "कॅंडिस ओवेन्सने लॉरा लूमरच्या व्हायरल दाव्याचे खंडन केले, ज्यात पती जॉर्ज फार्मरच्या अटकेच्या रेकॉर्डचा संबंध जोडण्यात आला होता. ओवेन्सने या पोस्टला दिशाभूल करणारी म्हटले. या आरोपामुळे ऑनलाइन तीव्र वादविवाद सुरू झाला, ज्यात काहींनी ओवेन्सला पाठिंबा दिला तर इतरांनी पडताळणीची मागणी केली. अटकेच्या रेकॉर्डचा फार्मरशी कोणताही पुष्टी केलेला संबंध अद्याप नाही, वाद सुरूच आहे."
+            },
+            "hi": {
+                "title": "कैंडिस ओवेन्स ने पति के गिरफ्तारी रिकॉर्ड के दावे का खंडन किया",
+                "content": "कैंडिस ओवेन्स ने लॉरा लूमर के वायरल दावे का खंडन किया, जिसमें उनके पति जॉर्ज फार्मर से एक गिरफ्तारी रिकॉर्ड को जोड़ा गया था। ओवेन्स ने इसे भ्रामक पोस्ट बताया। इस आरोप ने ऑनलाइन तीखी बहस छेड़ दी, जिसमें समर्थकों ने ओवेन्स का समर्थन किया और अन्य ने सत्यापन की मांग की। रिकॉर्ड का फार्मर से अभी तक कोई पुष्ट सबूत नहीं मिला, जिससे यह विवाद जारी है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129835444,imgsize-788682.cms",
+        "link": "https://timesofindia.indiatimes.com/world/us-streamers/candace-owens-fires-back-at-laura-loomer-over-george-farmer-claim-as-viral-arrest-record-claim-sparks-intense-online-backlash/articleshow/129835507.cms",
+        "date": "2026-03-27T03:53:28+05:30"
+    },
+    {
+        "id": "50825c65",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "IShowSpeed Blushes Over Ex Vanessa's Viral Birthday Flirt",
+                "content": "Internet sensation IShowSpeed blushed during his 21st birthday stream after his ex-girlfriend, Vanessa Anne Williams, sent a viral, flirty donation. Her message, hinting at reconciliation and her Miami location, instantly sparked fan speculation about their past relationship and a potential reunion. Speed's shy reaction quickly became a massive talking point, leaving fans eagerly awaiting further developments."
+            },
+            "kn": {
+                "title": "ಐಶೋಸ್ಪೀಡ್‌ ಮಾಜಿ ಗರ್ಲ್‌ಫ್ರೆಂಡ್‌ ವನೆಸ್ಸಾ ಅವರ ವೈರಲ್‌ ಹುಟ್ಟುಹಬ್ಬದ ಫ್ಲರ್ಟ್‌ಗೆ ನಾಚಿಕೊಂಡರು",
+                "content": "ಇಂಟರ್ನೆಟ್ ಸೆನ್ಸೇಷನ್ ಐಶೋಸ್ಪೀಡ್ ತನ್ನ 21ನೇ ಹುಟ್ಟುಹಬ್ಬದ ಸ್ಟ್ರೀಮ್‌ನಲ್ಲಿ, ತನ್ನ ಮಾಜಿ ಗೆಳತಿ ವನೆಸ್ಸಾ ಆನ್ನೆ ವಿಲಿಯಮ್ಸ್ ಕಳುಹಿಸಿದ ವೈರಲ್, ಫ್ಲರ್ಟಿ ದೇಣಿಗೆಯಿಂದ ನಾಚಿಕೊಂಡರು. ಅವರ ಸಂದೇಶವು ಸಮಾಧಾನ ಮತ್ತು ಮಿಯಾಮಿಯಲ್ಲಿನ ಅವರ ಸ್ಥಳವನ್ನು ಸೂಚಿಸಿತ್ತು, ಇದು ಅವರ ಹಿಂದಿನ ಸಂಬಂಧ ಮತ್ತು ಸಂಭಾವ್ಯ ಪುನರ್ಮಿಲನದ ಬಗ್ಗೆ ಅಭಿಮಾನಿಗಳ ಊಹಾಪೋಹಗಳಿಗೆ ತಕ್ಷಣವೇ ಕಾರಣವಾಯಿತು. ಸ್ಪೀಡ್‌ನ ನಾಚಿಕೆಯ ಪ್ರತಿಕ್ರಿಯೆಯು ಶೀಘ್ರವಾಗಿ ದೊಡ್ಡ ಚರ್ಚೆಯ ವಿಷಯವಾಯಿತು, ಅಭಿಮಾನಿಗಳು ಮುಂದಿನ ಬೆಳವಣಿಗೆಗಳಿಗಾಗಿ ಕಾತರದಿಂದ ಕಾಯುತ್ತಿದ್ದಾರೆ."
+            },
+            "mr": {
+                "title": "आयशोस्पीड त्याच्या एक्स व्हॅनेसाच्या व्हायरल बर्थडे फ्लर्टवर लाजला",
+                "content": "इंटरनेट सेन्सेशन आयशोस्पीड त्याच्या २१ व्या वाढदिवसाच्या स्ट्रीमदरम्यान लाजला, कारण त्याची एक्स-गर्लफ्रेंड व्हॅनेसा ॲन विल्यम्सने एक व्हायरल, फ्लर्टी देणगी पाठवली. तिच्या संदेशात समेट आणि मियामीतील तिच्या स्थानाबाबत संकेत होते, ज्यामुळे त्यांच्या मागील संबंधांबद्दल आणि संभाव्य पुनर्भेटीबद्दल चाहत्यांमध्ये लगेचच अटकळ वाढली. स्पीडची लाजाळू प्रतिक्रिया त्वरित चर्चेचा विषय बनली, ज्यामुळे चाहते पुढील घडामोडींची आतुरतेने वाट पाहत आहेत."
+            },
+            "hi": {
+                "title": "आईशोस्पीड अपनी एक्स वैनेसा के वायरल बर्थडे फ़्लर्ट पर शरमाए",
+                "content": "इंटरनेट सेंसेशन आईशोस्पीड अपनी 21वीं जन्मदिन की लाइव स्ट्रीम के दौरान शरमा गए, जब उनकी पूर्व प्रेमिका वैनेसा ऐन विलियम्स ने एक वायरल, फ़्लर्टी डोनेशन भेजा। उनके संदेश में सुलह और मियामी में उनके स्थान का संकेत था, जिसने तुरंत उनके पिछले रिश्ते और संभावित मिलन के बारे में प्रशंसकों की अटकलों को हवा दी। स्पीड की शर्मीली प्रतिक्रिया तेजी से एक बड़ी चर्चा का विषय बन गई, जिससे प्रशंसक आगे के घटनाक्रमों का बेसब्री से इंतजार कर रहे हैं।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129833815,imgsize-860219.cms",
+        "link": "https://timesofindia.indiatimes.com/world/us-streamers/ishowspeed-blushes-after-ex-vanessas-flirty-birthday-donation-goes-viral/articleshow/129833816.cms",
+        "date": "2026-03-27T02:04:23+05:30"
+    },
+    {
+        "id": "ea257584",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Badosa's Injury Battle Sparks Retirement Concerns",
+                "content": "Tennis star Paula Badosa, 28, is battling severe injury and a ranking fall outside the top 100, sparking retirement fears. Her emotional message revealed struggles with fear and self-doubt. Despite a recent breakup and persistent pain, Badosa vows to keep fighting, expressing confidence in her ability to return stronger to the court."
+            },
+            "kn": {
+                "title": "ಬಡೋಸಾ ಅವರ ಗಾಯದ ಹೋರಾಟ ನಿವೃತ್ತಿಯ ಚಿಂತೆಗಳನ್ನು ಹುಟ್ಟುಹಾಕಿದೆ",
+                "content": "28 ವರ್ಷದ ಟೆನಿಸ್ ತಾರೆ ಪೌಲಾ ಬಡೋಸಾ ತೀವ್ರ ಗಾಯ ಮತ್ತು ಅಗ್ರ 100ರ ಹೊರಗೆ ಶ್ರೇಯಾಂಕದ ಕುಸಿತದಿಂದ ಹೋರಾಡುತ್ತಿದ್ದು, ನಿವೃತ್ತಿಯ ಭಯವನ್ನು ಹುಟ್ಟುಹಾಕಿದೆ. ಅವರ ಭಾವನಾತ್ಮಕ ಸಂದೇಶವು ಭಯ ಮತ್ತು ಆತ್ಮವಿಶ್ವಾಸದ ಕೊರತೆಯೊಂದಿಗಿನ ಹೋರಾಟಗಳನ್ನು ಬಹಿರಂಗಪಡಿಸಿತು. ಇತ್ತೀಚಿನ ವಿಘಟನೆ ಮತ್ತು ನಿರಂತರ ನೋವಿನ ಹೊರತಾಗಿಯೂ, ಬಡೋಸಾ ಹೋರಾಡುವುದನ್ನು ಮುಂದುವರಿಸಲು ಪ್ರತಿಜ್ಞೆ ಮಾಡಿದ್ದಾರೆ, ಬಲವಾಗಿ ಮರಳುವ ತಮ್ಮ ಸಾಮರ್ಥ್ಯದಲ್ಲಿ ವಿಶ್ವಾಸ ವ್ಯಕ್ತಪಡಿಸಿದ್ದಾರೆ."
+            },
+            "mr": {
+                "title": "बडोसाच्या दुखापतीमुळे निवृत्तीची चिंता वाढली",
+                "content": "28 वर्षीय टेनिस स्टार पौला बडोसा गंभीर दुखापत आणि टॉप 100 मधून बाहेर पडलेल्या रँकिंगमुळे संघर्ष करत आहे, ज्यामुळे निवृत्तीच्या चर्चांना तोंड फुटले आहे. तिच्या भावनिक संदेशात भीती आणि आत्म-शंकेच्या भावना उघड झाल्या. अलीकडील ब्रेकअप आणि सततच्या वेदना असूनही, बडोसाने लढत राहण्याची शपथ घेतली असून, कोर्टवर अधिक मजबूत होऊन परत येण्याच्या तिच्या क्षमतेवर विश्वास व्यक्त केला आहे."
+            },
+            "hi": {
+                "title": "बडोसा की चोट की लड़ाई ने सेवानिवृत्ति की चिंताएँ जगाईं",
+                "content": "28 वर्षीय टेनिस स्टार पाउला बडोसा गंभीर चोट और टॉप 100 से बाहर हुए रैंकिंग से जूझ रही हैं, जिससे सेवानिवृत्ति की आशंकाएं बढ़ गई हैं। उनके भावनात्मक संदेश ने डर और आत्म-संदेह के साथ उनके संघर्षों को उजागर किया। हालिया ब्रेकअप और लगातार दर्द के बावजूद, बडोसा ने लड़ते रहने की कसम खाई है, और कोर्ट में और मजबूत होकर लौटने की अपनी क्षमता पर विश्वास व्यक्त किया है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129833803,imgsize-703345.cms",
+        "link": "https://timesofindia.indiatimes.com/sports/international-sports/is-paula-badosa-retiring-at-28-injury-struggles-and-ranking-fall-outside-top-100-raise-concern-after-emotional-message/articleshow/129833808.cms",
+        "date": "2026-03-27T01:57:34+05:30"
+    },
+    {
+        "id": "f4f57c27",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Silicon Valley CEO's Plea for Iranian Students Draws Trump Aide's Ire",
+                "content": "Ethan Agarwal, a Silicon Valley figure, publicly appealed to Donald Trump to lift the ban on Iranian students. This plea, aimed at fostering innovation and talent exchange, sparked immediate controversy. Trump's former aide, Sebastian Gorka, responded harshly by calling Agarwal a 'moron' on X. The exchange highlights ongoing tensions regarding immigration policies and tech industry advocacy."
+            },
+            "kn": {
+                "title": "ಇರಾನಿ ವಿದ್ಯಾರ್ಥಿ ನಿಷೇಧ ತೆರವಿಗೆ ಸಿಲಿಕಾನ್ ವ್ಯಾಲಿ CEO ಮನವಿ; 'ಮೂರ್ಖ' ಎಂಬ ಟೀಕೆ",
+                "content": "ಸಿಲಿಕಾನ್ ವ್ಯಾಲಿಯ ಎಥಾನ್ ಅಗರ್ವಾಲ್, ಇರಾನಿ ವಿದ್ಯಾರ್ಥಿಗಳ ಮೇಲಿನ ನಿಷೇಧವನ್ನು ತೆರವುಗೊಳಿಸುವಂತೆ ಡೊನಾಲ್ಡ್ ಟ್ರಂಪ್‌ಗೆ ಸಾರ್ವಜನಿಕವಾಗಿ ಮನವಿ ಮಾಡಿದರು. ನಾವೀನ್ಯತೆ ಮತ್ತು ಪ್ರತಿಭೆ ವಿನಿಮಯವನ್ನು ಉತ್ತೇಜಿಸುವ ಗುರಿಯನ್ನು ಹೊಂದಿದ್ದ ಈ ಮನವಿ ತಕ್ಷಣವೇ ವಿವಾದಕ್ಕೆ ಕಾರಣವಾಯಿತು. ಟ್ರಂಪ್‌ನ ಮಾಜಿ ಸಹಾಯಕ ಸೆಬಾಸ್ಟಿಯನ್ ಗೋರ್ಕಾ, X ನಲ್ಲಿ ಅಗರ್ವಾಲ್ ಅವರನ್ನು 'ಮೂರ್ಖ' ಎಂದು ಕರೆದು ತೀವ್ರವಾಗಿ ಪ್ರತಿಕ್ರಿಯಿಸಿದರು. ಈ ವಿನಿಮಯವು ವಲಸೆ ನೀತಿಗಳು ಮತ್ತು ತಂತ್ರಜ್ಞಾನ ಉದ್ಯಮದ ವಕಾಲತ್ತುಗಳ ಬಗ್ಗೆ ನಡೆಯುತ್ತಿರುವ ಉದ್ವಿಗ್ನತೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "इराणी विद्यार्थ्यांवरील बंदी उठवण्याच्या सिलिकॉन व्हॅलीच्या CEO च्या विनंतीला 'मूर्ख' प्रत्युत्तर",
+                "content": "सिलिकॉन व्हॅलीचे एथन अग्रवाल यांनी इराणी विद्यार्थ्यांवरील बंदी उठवण्यासाठी डोनाल्ड ट्रम्प यांना सार्वजनिकरित्या आवाहन केले. नवनिर्मिती आणि प्रतिभेच्या देवाणघेवाणीला प्रोत्साहन देण्याच्या उद्देशाने केलेल्या या विनंतीमुळे तात्काळ वाद निर्माण झाला. ट्रम्पचे माजी सहकारी सेबॅस्टियन गोर्का यांनी एक्स (पूर्वीचे ट्विटर) वर अग्रवाल यांना 'मूर्ख' संबोधून तीव्र प्रतिक्रिया दिली. हा वाद स्थलांतर धोरणे आणि तंत्रज्ञान उद्योगाच्या वकिलीभोवती सुरू असलेल्या तणावावर प्रकाश टाकतो."
+            },
+            "hi": {
+                "title": "ईरानी छात्रों पर प्रतिबंध हटाने की सिलिकॉन वैली CEO की अपील पर 'मूर्ख' का जवाब",
+                "content": "सिलिकॉन वैली के एथन अग्रवाल ने ईरानी छात्रों पर लगे प्रतिबंध को हटाने के लिए डोनाल्ड ट्रम्प से सार्वजनिक रूप से अपील की। नवाचार और प्रतिभा के आदान-प्रदान को बढ़ावा देने के उद्देश्य से की गई इस अपील ने तुरंत विवाद खड़ा कर दिया। ट्रम्प के पूर्व सहयोगी, सेबस्टियन गोर्का ने एक्स (पहले ट्विटर) पर अग्रवाल को 'मूर्ख' कहकर कड़ी प्रतिक्रिया दी। यह आदान-प्रदान आव्रजन नीतियों और तकनीकी उद्योग की वकालत से संबंधित चल रहे तनाव को उजागर करता है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129833784,imgsize-77102.cms",
+        "link": "https://timesofindia.indiatimes.com/world/us/silicon-valleys-ethan-agarwal-urges-trump-to-lift-ban-on-iranian-students-gets-called-out-as-moron/articleshow/129833767.cms",
+        "date": "2026-03-27T01:50:13+05:30"
+    },
+    {
+        "id": "b33d0b29",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Green Card: 3 Key Mistakes Permanent Residents Must Avoid",
+                "content": "Earning a US Green Card grants permanent residency, but maintaining it requires diligence. New lawful permanent residents must avoid common pitfalls that could jeopardize their status. Discover three critical mistakes often made by Green Card holders. Stay informed to protect your residency, ensure a smooth transition, and uphold your legal standing in the United States."
+            },
+            "kn": {
+                "title": "ಗ್ರೀನ್ ಕಾರ್ಡ್: ಶಾಶ್ವತ ನಿವಾಸಿಗಳು ತಪ್ಪಿಸಬೇಕಾದ 3 ಪ್ರಮುಖ ತಪ್ಪುಗಳು",
+                "content": "ಯುಎಸ್ ಗ್ರೀನ್ ಕಾರ್ಡ್ ಗಳಿಸುವುದು ಶಾಶ್ವತ ನಿವಾಸವನ್ನು ನೀಡುತ್ತದೆ, ಆದರೆ ಅದನ್ನು ನಿರ್ವಹಿಸಲು ಶ್ರದ್ಧೆ ಬೇಕು. ಹೊಸ ಕಾನೂನುಬದ್ಧ ಶಾಶ್ವತ ನಿವಾಸಿಗಳು ತಮ್ಮ ಸ್ಥಾನಮಾನವನ್ನು ಅಪಾಯಕ್ಕೆ ಸಿಲುಕಿಸುವ ಸಾಮಾನ್ಯ ತಪ್ಪುಗಳನ್ನು ತಪ್ಪಿಸಬೇಕು. ಗ್ರೀನ್ ಕಾರ್ಡ್ ಹೊಂದಿರುವವರು ಸಾಮಾನ್ಯವಾಗಿ ಮಾಡುವ ಮೂರು ನಿರ್ಣಾಯಕ ತಪ್ಪುಗಳನ್ನು ಅನ್ವೇಷಿಸಿ. ನಿಮ್ಮ ನಿವಾಸವನ್ನು ರಕ್ಷಿಸಲು, ಸುಗಮ ಪರಿವರ್ತನೆ ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು ಮತ್ತು ಯುನೈಟೆಡ್ ಸ್ಟೇಟ್ಸ್‌ನಲ್ಲಿ ನಿಮ್ಮ ಕಾನೂನು ಸ್ಥಾನಮಾನವನ್ನು ಎತ್ತಿಹಿಡಿಯಲು ಮಾಹಿತಿ ಪಡೆಯಿರಿ."
+            },
+            "mr": {
+                "title": "ग्रीन कार्ड: कायमस्वरूपी रहिवाशांनी टाळाव्या अशा 3 प्रमुख चुका",
+                "content": "यूएस ग्रीन कार्ड मिळवणे कायमस्वरूपी निवासस्थान देते, परंतु ते टिकवून ठेवण्यासाठी काळजी घेणे आवश्यक आहे. नवीन कायदेशीर कायमस्वरूपी रहिवाशांनी त्यांच्या स्थितीला धोका निर्माण करणाऱ्या सामान्य चुका टाळल्या पाहिजेत. ग्रीन कार्ड धारकांकडून वारंवार होणाऱ्या तीन गंभीर चुका शोधा. तुमचे निवासस्थान सुरक्षित ठेवण्यासाठी, सुलभ संक्रमण सुनिश्चित करण्यासाठी आणि युनायटेड स्टेट्समध्ये तुमची कायदेशीर स्थिती टिकवून ठेवण्यासाठी माहिती मिळवा."
+            },
+            "hi": {
+                "title": "ग्रीन कार्ड: स्थायी निवासियों को बचने योग्य 3 प्रमुख गलतियाँ",
+                "content": "अमेरिकी ग्रीन कार्ड अर्जित करना स्थायी निवास प्रदान करता है, लेकिन इसे बनाए रखने के लिए सावधानी आवश्यक है। नए वैध स्थायी निवासियों को उन सामान्य गलतियों से बचना चाहिए जो उनकी स्थिति को खतरे में डाल सकती हैं। ग्रीन कार्ड धारकों द्वारा अक्सर की जाने वाली तीन महत्वपूर्ण गलतियों का पता लगाएँ। अपनी निवास स्थिति की रक्षा करने, सुचारु परिवर्तन सुनिश्चित करने और संयुक्त राज्य अमेरिका में अपनी कानूनी स्थिति को बनाए रखने के लिए सूचित रहें।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129833658,imgsize-184696.cms",
+        "link": "https://timesofindia.indiatimes.com/world/us/green-card-3-things-not-to-do-after-you-become-a-lawful-permanent-resident-in-the-us/articleshow/129833653.cms",
+        "date": "2026-03-27T01:20:05+05:30"
+    },
+    {
+        "id": "b30af8c8",
+        "category": "Sports",
+        "translations": {
+            "en": {
+                "title": "Teen Prodigy Vaibhav Sooryavanshi Eyes India Senior Team",
+                "content": "Teen prodigy Vaibhav Sooryavanshi, now 15, is officially eligible for senior international cricket. After a sensational IPL debut featuring a record 35-ball century and U19 World Cup heroics, he's a top prospect. Selectors are keenly observing his trajectory, fueling speculation that this young sensation could soon don the India senior men's team jersey."
+            },
+            "kn": {
+                "title": "ತರುಣ ಪ್ರತಿಭೆ ವೈಭವ್ ಸೂರ್ಯವಂಶಿ ಭಾರತ ಹಿರಿಯ ತಂಡದತ್ತ ಕಣ್ಣು",
+                "content": "ಇಂದು 15 ವರ್ಷಕ್ಕೆ ಕಾಲಿಟ್ಟ ತರುಣ ಪ್ರತಿಭೆ ವೈಭವ್ ಸೂರ್ಯವಂಶಿ ಈಗ ಹಿರಿಯ ಅಂತರರಾಷ್ಟ್ರೀಯ ಕ್ರಿಕೆಟ್‌ಗೆ ಅಧಿಕೃತವಾಗಿ ಅರ್ಹರಾಗಿದ್ದಾರೆ. ಐಪಿಎಲ್‌ನಲ್ಲಿ ದಾಖಲೆಯ 35 ಎಸೆತಗಳಲ್ಲಿ ಶತಕ ಮತ್ತು U19 ವಿಶ್ವಕಪ್‌ನಲ್ಲಿ ಅದ್ಭುತ ಪ್ರದರ್ಶನದ ನಂತರ, ಅವರು ಉನ್ನತ ಭವಿಷ್ಯದ ಆಟಗಾರ. ಆಯ್ಕೆದಾರರು ಇವರ ಬೆಳವಣಿಗೆಯನ್ನು ಸೂಕ್ಷ್ಮವಾಗಿ ಗಮನಿಸುತ್ತಿದ್ದಾರೆ, ಈ ಯುವ ಪ್ರತಿಭೆ ಶೀಘ್ರದಲ್ಲೇ ಭಾರತದ ಹಿರಿಯ ತಂಡವನ್ನು ಸೇರುವ ಸಾಧ್ಯತೆಯಿದೆ."
+            },
+            "mr": {
+                "title": "तरुण सनसनाटी वैभव सूर्यवंशीची भारतीय वरिष्ठ संघाकडे नजर",
+                "content": "आज 15 वर्षांचा झालेला तरुण प्रतिभावान खेळाडू वैभव सूर्यवंशी आता वरिष्ठ आंतरराष्ट्रीय क्रिकेटसाठी अधिकृतपणे पात्र आहे. आयपीएलमध्ये विक्रमी 35 चेंडूत शतक आणि U19 विश्वचषकातील उत्कृष्ट कामगिरीनंतर, तो एक उत्तम खेळाडू म्हणून उदयास आला आहे. निवडकर्ते त्याच्या प्रगतीवर बारीक लक्ष ठेवून आहेत, ज्यामुळे ही तरुण सनसनाटी लवकरच भारतीय वरिष्ठ पुरुषांच्या संघाची जर्सी घालू शकते अशी अटकळ बांधली जात आहे."
+            },
+            "hi": {
+                "title": "युवा सनसनी वैभव सूर्यवंशी की भारत की वरिष्ठ टीम पर नजर",
+                "content": "आज 15 साल के हुए युवा खिलाड़ी वैभव सूर्यवंशी अब आधिकारिक तौर पर वरिष्ठ अंतरराष्ट्रीय क्रिकेट के लिए योग्य हैं। आईपीएल में रिकॉर्ड 35 गेंदों में शतक और U19 विश्व कप में शानदार प्रदर्शन के बाद, वह एक शीर्ष संभावना बन गए हैं। चयनकर्ता उनकी प्रगति पर करीब से नजर रख रहे हैं, जिससे यह अटकलें तेज हो गई हैं कि यह युवा सनसनी जल्द ही भारत की वरिष्ठ पुरुष टीम की जर्सी पहन सकते हैं।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129839483,imgsize-54564.cms",
+        "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/vaibhav-sooryanshi-turns-15-now-officially-eligible-is-india-senior-debut-next/articleshow/129839458.cms",
+        "date": "2026-03-27T11:06:46+05:30"
+    },
+    {
+        "id": "384d1718",
+        "category": "Sports",
+        "translations": {
+            "en": {
+                "title": "Virat Kohli's New Tattoo: A Symbol of Transformation",
+                "content": "Virat Kohli has revealed a stunning new full-sleeve tattoo ahead of IPL 2026, featuring a lotus and peony. Created by Aliens Tattoo India, this evolving artwork symbolizes his personal transformation and journey. The lotus represents purity and resilience, integrating his existing tattoos into a cohesive narrative. Fans are captivated by the intricate design and its deeper meaning."
+            },
+            "kn": {
+                "title": "ವಿರಾಟ್ ಕೊಹ್ಲಿಯ ಹೊಸ ಟ್ಯಾಟೂ: ಪರಿವರ್ತನೆಯ ಸಂಕೇತ",
+                "content": "ಐಪಿಎಲ್ 2026 ಕ್ಕಿಂತ ಮುಂಚೆ ವಿರಾಟ್ ಕೊಹ್ಲಿ ತಮ್ಮ ತೋಳಿನ ಮೇಲೆ ಕಮಲ ಮತ್ತು ಪಿಯೋನಿ ಒಳಗೊಂಡ ಅದ್ಭುತವಾದ ಹೊಸ ಟ್ಯಾಟೂವನ್ನು ಅನಾವರಣಗೊಳಿಸಿದ್ದಾರೆ. ಏಲಿಯನ್ಸ್ ಟ್ಯಾಟೂ ಇಂಡಿಯಾ ರಚಿಸಿದ ಈ ಕೃತಿಯು ಅವರ ವೈಯಕ್ತಿಕ ರೂಪಾಂತರ ಮತ್ತು ಪ್ರಯಾಣವನ್ನು ಸಂಕೇತಿಸುತ್ತದೆ. ಕಮಲವು ಶುದ್ಧತೆ ಮತ್ತು ಸ್ಥಿತಿಸ್ಥಾಪಕತ್ವವನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ, ಅವರ ಅಸ್ತಿತ್ವದಲ್ಲಿರುವ ಟ್ಯಾಟೂಗಳನ್ನು ಸುಸಂಬದ್ಧ ನಿರೂಪಣೆಗೆ ಸಂಯೋಜಿಸುತ್ತದೆ. ಈ ಸಂಕೀರ್ಣ ವಿನ್ಯಾಸ ಮತ್ತು ಅದರ ಆಳವಾದ ಅರ್ಥದಿಂದ ಅಭಿಮಾನಿಗಳು ಆಕರ್ಷಿತರಾಗಿದ್ದಾರೆ."
+            },
+            "mr": {
+                "title": "विराट कोहलीचा नवा टॅटू: परिवर्तनाचे प्रतीक",
+                "content": "आयपीएल 2026 पूर्वी विराट कोहलीने कमळ आणि पियोनी फुलांचे वैशिष्ट्य असलेले एक आकर्षक पूर्ण-स्लीव्ह टॅटू अनावरण केले आहे. एलियन्स टॅटू इंडियाने तयार केलेली ही कलाकृती त्याच्या वैयक्तिक परिवर्तनाचे आणि प्रवासाचे प्रतीक आहे. कमळ शुद्धता आणि लवचिकतेचे प्रतिनिधित्व करते, त्याच्या सध्याच्या टॅटूना एका सुसंगत कथानकात समाकलित करते. चाहते या गुंतागुंतीच्या डिझाइन आणि त्याच्या सखोल अर्थाने मोहित झाले आहेत."
+            },
+            "hi": {
+                "title": "विराट कोहली का नया टैटू: परिवर्तन का प्रतीक",
+                "content": "आईपीएल 2026 से पहले विराट कोहली ने कमल और पियोनी फूल वाला एक शानदार नया फुल-स्लीव टैटू बनवाया है। एलियंस टैटू इंडिया द्वारा बनाई गई यह कलाकृति उनके व्यक्तिगत परिवर्तन और यात्रा का प्रतीक है। कमल शुद्धता और लचीलेपन का प्रतिनिधित्व करता है, जो उनके मौजूदा टैटू को एक सुसंगत कहानी में एकीकृत करता है। प्रशंसक इस जटिल डिज़ाइन और उसके गहरे अर्थ से मोहित हैं।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129840662,imgsize-33508.cms",
+        "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/virat-kohlis-new-lotus-tattoo-goes-viral-artist-reveals-deeper-meaning-watch/articleshow/129840603.cms",
+        "date": "2026-03-27T12:20:08+05:30"
+    },
+    {
+        "id": "bb7096f3",
+        "category": "Sports",
+        "translations": {
+            "en": {
+                "title": "IPL 2026 Kicks Off: Weekend Schedule & Key Clashes",
+                "content": "IPL 2026 kicks off this weekend! Defending champions RCB clash with SRH in Bengaluru, a thrilling rematch of their record-breaking 2024 encounter. On Sunday, MI hosts KKR at Mumbai's Wankhede Stadium, leveraging their strong home advantage. Prepare for an action-packed start to the new season with high-octane contests from top teams."
+            },
+            "kn": {
+                "title": "IPL 2026 ಆರಂಭ: ವಾರಾಂತ್ಯದ ವೇಳಾಪಟ್ಟಿ ಮತ್ತು ಪ್ರಮುಖ ಪಂದ್ಯಗಳು",
+                "content": "IPL 2026 ಈ ವಾರಾಂತ್ಯದಲ್ಲಿ ಶುರುವಾಗಲಿದೆ! ಹಾಲಿ ಚಾಂಪಿಯನ್ಸ್ RCB ಬೆಂಗಳೂರಿನಲ್ಲಿ SRH ವಿರುದ್ಧ ಸೆಣಸಲಿದೆ, ಇದು 2024ರ ಅವರ ದಾಖಲೆ-ಮುರಿಯುವ ಪಂದ್ಯದ ರೋಮಾಂಚಕ ಮರುಪಂದ್ಯವಾಗಿದೆ. ಭಾನುವಾರ, MI ಮುಂಬೈನ ವಾಂಖೆಡೆ ಕ್ರೀಡಾಂಗಣದಲ್ಲಿ KKR ಅನ್ನು ಆತಿಥ್ಯ ವಹಿಸಲಿದೆ, ತಮ್ಮ ತವರಿನ ಬಲವಾದ ಅನುಕೂಲವನ್ನು ಬಳಸಿಕೊಳ್ಳುತ್ತದೆ. ಅಗ್ರ ತಂಡಗಳಿಂದ ರೋಮಾಂಚಕ ಸ್ಪರ್ಧೆಗಳೊಂದಿಗೆ ಹೊಸ ಸೀಸನ್‌ಗೆ ಆಕ್ಷನ್-ಪ್ಯಾಕ್ಡ್ ಆರಂಭಕ್ಕೆ ಸಿದ್ಧರಾಗಿ."
+            },
+            "mr": {
+                "title": "IPL 2026 सुरू: वीकेंड वेळापत्रक आणि प्रमुख सामने",
+                "content": "IPL 2026 या वीकेंडला सुरू होत आहे! गतविजेते RCB बेंगळुरूत SRH शी भिडणार आहे, जो त्यांच्या 2024 मधील विक्रम मोडणाऱ्या सामन्याचा रोमांचक रीमॅच आहे. रविवारी, MI मुंबईतील वानखेडे स्टेडियमवर KKR चे यजमानपद भूषवणार आहे, त्यांच्या मजबूत घरच्या मैदानावरच्या फायद्याचा लाभ घेत. शीर्ष संघांकडून रोमांचक स्पर्धांसह नवीन हंगामाच्या धमाकेदार सुरुवातीसाठी सज्ज व्हा."
+            },
+            "hi": {
+                "title": "IPL 2026 शुरू: वीकेंड शेड्यूल और प्रमुख मुकाबले",
+                "content": "IPL 2026 इस वीकेंड से शुरू हो रहा है! मौजूदा चैंपियन RCB बेंगलुरु में SRH से भिड़ेगी, यह उनके 2024 के रिकॉर्ड-ब्रेकिंग मुकाबले का एक रोमांचक रीमैच है। रविवार को, MI मुंबई के वानखेड़े स्टेडियम में KKR की मेजबानी करेगा, अपनी मजबूत घरेलू बढ़त का लाभ उठाते हुए। शीर्ष टीमों के रोमांचक मुकाबलों के साथ नए सीज़न की एक्शन से भरपूर शुरुआत के लिए तैयार रहें।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129841534,imgsize-69476.cms",
+        "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-weekend-schedule-new-season-kicks-off-check-matches-venues-timings/articleshow/129841551.cms",
+        "date": "2026-03-27T13:02:57+05:30"
+    },
+    {
+        "id": "cd9d3b4e",
+        "category": "Sports",
+        "translations": {
+            "en": {
+                "title": "PSL's Pink Ball Blunder",
+                "content": "PSL 2026 began with a bizarre incident: the white match ball turned pink from dye bleeding off Hyderabad Kingsmen's jerseys. Former cricketer Kamran Akmal blasted the league for poor-quality kits, likening them to cheaply dyed dupattas. Captain Marnus Labuschagne expressed bewilderment at the unprecedented event, sparking widespread criticism and embarrassment for the Pakistan Super League."
+            },
+            "kn": {
+                "title": "ಪಿಎಸ್‌ಎಲ್‌ ಪಿಂಕ್‌ ಬಾಲ್ ವಿವಾದ",
+                "content": "ಪಿಎಸ್‌ಎಲ್ 2026 ವಿಚಿತ್ರ ಘಟನೆಯೊಂದಿಗೆ ಆರಂಭವಾಯಿತು: ಹೈದರಾಬಾದ್ ಕಿಂಗ್ಸ್‌ಮೆನ್ ಜರ್ಸಿಗಳಿಂದ ಬಣ್ಣ ಸೋರಿಕೆಯಾಗಿ ಬಿಳಿ ಮ್ಯಾಚ್ ಬಾಲ್ ಗುಲಾಬಿ ಬಣ್ಣಕ್ಕೆ ತಿರುಗಿತು. ಮಾಜಿ ಕ್ರಿಕೆಟಿಗ ಕಮ್ರಾನ್ ಅಕ್ಮಲ್ ಕಳಪೆ ಗುಣಮಟ್ಟದ ಕಿಟ್‌ಗಳಿಗಾಗಿ ಲೀಗ್ ಅನ್ನು ತೀವ್ರವಾಗಿ ಟೀಕಿಸಿದರು, ಅವು ಅಗ್ಗವಾಗಿ ಬಣ್ಣ ಹಾಕಿದ ದುಪ್ಪಟ್ಟಾಗಳಂತಿವೆ ಎಂದು ಹೇಳಿದರು. ನಾಯಕ ಮಾರ್ನಸ್ ಲಾಬುಶೇನ್ ಈ ಅಭೂತಪೂರ್ವ ಘಟನೆಯ ಬಗ್ಗೆ ದಿಗ್ಭ್ರಮೆ ವ್ಯಕ್ತಪಡಿಸಿದರು, ಇದು ಪಾಕಿಸ್ತಾನ ಸೂಪರ್ ಲೀಗ್‌ಗೆ ವ್ಯಾಪಕ ಟೀಕೆ ಮತ್ತು ಮುಜುಗರವನ್ನು ತಂದಿತು."
+            },
+            "mr": {
+                "title": "पीएसएलचा पिंक बॉल गोंधळ",
+                "content": "पीएसएल 2026 ची सुरुवात एका विचित्र घटनेने झाली: हैदराबाद किंग्जमेनच्या जर्सीमधून रंग गळल्याने पांढरा मॅच बॉल गुलाबी झाला. माजी क्रिकेटर कामरान अकमलने निकृष्ट दर्जाच्या किटसाठी लीगवर जोरदार टीका केली, त्यांना स्वस्त रंगवलेल्या दुपट्ट्यासारखे म्हटले. कर्णधार मार्नस लाबुशेनने या अभूतपूर्व घटनेबद्दल आश्चर्य व्यक्त केले, ज्यामुळे पाकिस्तान सुपर लीगसाठी व्यापक टीका आणि लाजिरवाणे झाले."
+            },
+            "hi": {
+                "title": "पीएसएल का पिंक बॉल बवाल",
+                "content": "पीएसएल 2026 की शुरुआत एक अजीब घटना से हुई: हैदराबाद किंग्समैन की जर्सी से रंग निकलने के कारण सफेद मैच बॉल गुलाबी हो गई. पूर्व क्रिकेटर कामरान अकमल ने खराब गुणवत्ता वाली किट के लिए लीग की कड़ी आलोचना की, उन्हें सस्ते में रंगी हुई दुपट्टियों जैसा बताया. कप्तान मार्नस लाबुशेन ने इस अभूतपूर्व घटना पर हैरानी जताई, जिससे पाकिस्तान सुपर लीग को व्यापक आलोचना और शर्मिंदगी झेलनी पड़ी."
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129840535,imgsize-733023.cms",
+        "link": "https://timesofindia.indiatimes.com/sports/cricket/news/dupatta-gali-se-color-karwaya-hai-kamran-akmal-roasts-psl-over-jersey-color-fiasco/articleshow/129840470.cms",
+        "date": "2026-03-27T12:13:30+05:30"
+    },
+    {
+        "id": "c4a34458",
+        "category": "Sports",
+        "translations": {
+            "en": {
+                "title": "'Free Imran Khan' Shirt Ban Lifted at Cricket Final",
+                "content": "A cricket fan was initially denied entry to the Sheffield Shield final for a \"Free Imran Khan\" T-shirt, sparking debate. Cricket Australia swiftly reversed the ban, deeming support for the jailed former Pakistan captain a humanitarian, not political, issue. This ensures fans with similar messages can now enter, promoting a more inclusive game day experience."
+            },
+            "kn": {
+                "title": "ಕ್ರಿಕೆಟ್ ಫೈನಲ್‌ನಲ್ಲಿ 'ಫ್ರೀ ಇಮ್ರಾನ್ ಖಾನ್' ಟಿ-ಶರ್ಟ್ ನಿಷೇಧ ರದ್ದು",
+                "content": "'ಫ್ರೀ ಇಮ್ರಾನ್ ಖಾನ್' ಟಿ-ಶರ್ಟ್ ಧರಿಸಿದ್ದ ಕ್ರಿಕೆಟ್ ಅಭಿಮಾನಿಗೆ ಶೆಫೀಲ್ಡ್ ಶೀಲ್ಡ್ ಫೈನಲ್‌ಗೆ ಪ್ರವೇಶವನ್ನು ಆರಂಭದಲ್ಲಿ ನಿರಾಕರಿಸಲಾಯಿತು, ಇದು ಚರ್ಚೆಗೆ ಕಾರಣವಾಯಿತು. ಕ್ರಿಕೆಟ್ ಆಸ್ಟ್ರೇಲಿಯಾ ನಿಷೇಧವನ್ನು ತಕ್ಷಣವೇ ಹಿಂಪಡೆಯಿತು, ಜೈಲಿನಲ್ಲಿರುವ ಪಾಕಿಸ್ತಾನದ ಮಾಜಿ ನಾಯಕನಿಗೆ ಬೆಂಬಲವು ಮಾನವೀಯ ವಿಷಯವೇ ಹೊರತು ರಾಜಕೀಯವಲ್ಲ ಎಂದು ಪರಿಗಣಿಸಿತು. ಇದು ಇದೇ ರೀತಿಯ ಸಂದೇಶಗಳನ್ನು ಹೊಂದಿರುವ ಅಭಿಮಾನಿಗಳಿಗೆ ಪ್ರವೇಶವನ್ನು ಖಾತ್ರಿಪಡಿಸುತ್ತದೆ, ಹೆಚ್ಚು ಅಂತರ್ಗತ ಆಟದ ಅನುಭವವನ್ನು ಉತ್ತೇಜಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "क्रिकेट फायनलमध्ये 'फ्री इम्रान खान' टी-शर्टवरील बंदी हटवली",
+                "content": "'फ्री इम्रान खान' टी-शर्ट घातलेल्या क्रिकेट चाहत्याला सुरुवातीला शेफिल्ड शील्ड फायनलमध्ये प्रवेश नाकारण्यात आला, ज्यामुळे वाद निर्माण झाला. क्रिकेट ऑस्ट्रेलियाने तात्काळ बंदी मागे घेतली, कारण तुरुंगात असलेल्या पाकिस्तानच्या माजी कर्णधाराला दिलेला पाठिंबा हा राजकीय नव्हे तर मानवतावादी मुद्दा मानला जातो. यामुळे समान संदेश असलेले चाहते आता प्रवेश करू शकतील, ज्यामुळे खेळाच्या दिवसाचा अधिक समावेशक अनुभव मिळेल."
+            },
+            "hi": {
+                "title": "क्रिकेट फाइनल में 'फ्री इमरान खान' शर्ट पर लगी रोक हटी",
+                "content": "'फ्री इमरान खान' टी-शर्ट पहनने वाले एक क्रिकेट प्रशंसक को शुरुआत में शेफ़ील्ड शील्ड फाइनल में प्रवेश से मना कर दिया गया था, जिससे बहस छिड़ गई। क्रिकेट ऑस्ट्रेलिया ने तुरंत प्रतिबंध हटा दिया, क्योंकि उसने जेल में बंद पाकिस्तान के पूर्व कप्तान के समर्थन को एक मानवीय, न कि राजनीतिक, मुद्दा माना। यह सुनिश्चित करता है कि समान संदेश वाले प्रशंसक अब प्रवेश कर सकते हैं, जिससे खेल के दिन का अधिक समावेशी अनुभव मिलेगा।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129841218,imgsize-72306.cms",
+        "link": "https://timesofindia.indiatimes.com/sports/cricket/news/fan-denied-entry-to-stadium-for-free-imran-khan-t-shirt-forced-to-cover-up/articleshow/129841162.cms",
+        "date": "2026-03-27T12:48:29+05:30"
+    },
+    {
+        "id": "e5bad3ed",
+        "category": "Sports",
+        "translations": {
+            "en": {
+                "title": "Riyan Parag's Defining IPL 2026 Season as Royals Captain",
+                "content": "Riyan Parag, 24, takes the helm as Rajasthan Royals captain for IPL 2026, facing immense pressure and past trolling. Rigorously selected and backed by the franchise, he's set for a defining season. Inspired by Hardik Pandya, Parag aims to silence critics, prove his mettle, and reignite his hopes of returning to the Indian team."
+            },
+            "kn": {
+                "title": "ರಿಯಾನ್ ಪರಾಗ್: ರಾಯಲ್ಸ್ ನಾಯಕರಾಗಿ ಐಪಿಎಲ್ 2026ರ ನಿರ್ಣಾಯಕ ಆವೃತ್ತಿ",
+                "content": "24ರ ಹರೆಯದ ರಿಯಾನ್ ಪರಾಗ್ ಐಪಿಎಲ್ 2026 ರಲ್ಲಿ ರಾಜಸ್ಥಾನ್ ರಾಯಲ್ಸ್ ನಾಯಕನಾಗಿ ಕಣಕ್ಕಿಳಿಯಲಿದ್ದಾರೆ. ಅಗಾಧ ಒತ್ತಡ ಮತ್ತು ಹಿಂದಿನ ಟ್ರೋಲಿಂಗ್‌ಗಳನ್ನು ಎದುರಿಸುತ್ತಿರುವ ಅವರು, ಫ್ರಾಂಚೈಸಿಯ ಬೆಂಬಲದೊಂದಿಗೆ ನಿರ್ಣಾಯಕ ಸೀಸನ್‌ಗೆ ಸಿದ್ಧರಾಗಿದ್ದಾರೆ. ಹಾರ್ದಿಕ್ ಪಾಂಡ್ಯರಿಂದ ಸ್ಫೂರ್ತಿ ಪಡೆದ ಪರಾಗ್, ವಿಮರ್ಶಕರನ್ನು ಸುಮ್ಮನಾಗಿಸಲು, ತಮ್ಮ ಸಾಮರ್ಥ್ಯವನ್ನು ಸಾಬೀತುಪಡಿಸಲು ಮತ್ತು ಭಾರತೀಯ ತಂಡಕ್ಕೆ ಮರಳುವ ತಮ್ಮ ಆಶಯಗಳನ್ನು ಪುನರುಜ್ಜೀವನಗೊಳಿಸಲು ಗುರಿ ಹೊಂದಿದ್ದಾರೆ."
+            },
+            "mr": {
+                "title": "रियान पराग: रॉयल्सचा कर्णधार म्हणून आयपीएल 2026 चा निर्णायक हंगाम",
+                "content": "24 वर्षीय रियान पराग आयपीएल 2026 मध्ये राजस्थान रॉयल्सचा कर्णधार म्हणून सूत्रे हाती घेणार आहे. प्रचंड दबाव आणि मागील ट्रोलिंगला तोंड देत, तो फ्रँचायझीच्या पाठिंब्याने एका निर्णायक हंगामासाठी सज्ज आहे. हार्दिक पांड्याकडून प्रेरित, परागचा उद्देश समीक्षकांना शांत करणे, स्वतःची योग्यता सिद्ध करणे आणि भारतीय संघात परतण्याच्या आशा पुन्हा जागृत करणे हा आहे."
+            },
+            "hi": {
+                "title": "रियान पराग: रॉयल्स के कप्तान के रूप में आईपीएल 2026 का निर्णायक सीज़न",
+                "content": "24 वर्षीय रियान पराग आईपीएल 2026 में राजस्थान रॉयल्स के कप्तान की कमान संभालेंगे, जहाँ उन्हें भारी दबाव और पिछले ट्रोलिंग का सामना करना होगा। फ्रेंचाइजी द्वारा समर्थित, यह उनके लिए एक निर्णायक सीज़न है। हार्दिक पांड्या से प्रेरित पराग का लक्ष्य आलोचकों को चुप कराना, अपनी योग्यता साबित करना और भारतीय टीम में वापसी की उम्मीदों को फिर से जगाना है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129837971,imgsize-99424.cms",
+        "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/pressure-trolling-captaincy-riyan-parag-faces-his-biggest-ipl-yet/articleshow/129837914.cms",
+        "date": "2026-03-27T09:05:19+05:30"
+    },
+    {
+        "id": "5393f65f",
+        "category": "Sports",
+        "translations": {
+            "en": {
+                "title": "Teen Cricket Prodigy's Meteoric Rise",
+                "content": "Teen cricket sensation Vaibhav Sooryavanshi, known for hitting a 157kph ball for six at a young age, is now dominating the sport. The prodigy, who turned 15 in 2026, smashed a 35-ball century in IPL 2025. Rajasthan Royals secured him for Rs 1.1 crore, a significant investment already proving fruitful in his remarkable rise."
+            },
+            "kn": {
+                "title": "ಯುವ ಕ್ರಿಕೆಟ್ ಅತಿರಥನ ಅಸಾಧಾರಣ ಏರಿಕೆ",
+                "content": "ಯುವ ಕ್ರಿಕೆಟ್ ಸಂವೇದನೆ ವೈಭವ್ ಸೂರ್ಯವಂಶಿ, ಚಿಕ್ಕ ವಯಸ್ಸಿನಲ್ಲಿ 157 ಕಿಮೀ ವೇಗದ ಚೆಂಡನ್ನು ಸಿಕ್ಸ್‌ಗೆ ಅಟ್ಟಿದ್ದಕ್ಕಾಗಿ ಹೆಸರುವಾಸಿ. ಈಗ ಕ್ರೀಡೆಯಲ್ಲಿ ಪ್ರಾಬಲ್ಯ ಸಾಧಿಸುತ್ತಿದ್ದಾರೆ. 2026ರಲ್ಲಿ 15 ವರ್ಷ ತುಂಬಿದ ಈ ಪ್ರತಿಭಾವಂತ, IPL 2025ರಲ್ಲಿ 35 ಎಸೆತಗಳಲ್ಲಿ ಶತಕ ಸಿಡಿಸಿದರು. ರಾಜಸ್ಥಾನ್ ರಾಯಲ್ಸ್ ಅವರನ್ನು 1.1 ಕೋಟಿ ರೂಪಾಯಿಗೆ ಪಡೆದುಕೊಂಡಿದೆ, ಇದು ಅವರ ಅದ್ಭುತ ಏರಿಕೆಯಲ್ಲಿ ಈಗಾಗಲೇ ಫಲಪ್ರದ ಹೂಡಿಕೆಯಾಗಿದೆ."
+            },
+            "mr": {
+                "title": "युवा क्रिकेट प्रतिभेची गगनभरारी",
+                "content": "लहान वयात 157 किमी प्रतितास वेगाने आलेल्या चेंडूला षटकार मारून चर्चेत आलेला युवा क्रिकेटपटू वैभव सूर्यवंशी आता क्रिकेटमध्ये वर्चस्व गाजवत आहे. 2026 मध्ये 15 वर्षांचा झालेल्या या प्रतिभावान खेळाडूने IPL 2025 मध्ये 35 चेंडूत शतक ठोकले. राजस्थान रॉयल्सने त्याला 1.1 कोटी रुपयांना विकत घेतले, ही गुंतवणूक त्याच्या उल्लेखनीय यशात आधीच फलदायी ठरली आहे."
+            },
+            "hi": {
+                "title": "युवा क्रिकेट प्रतिभा का तूफानी उदय",
+                "content": "युवा क्रिकेट सनसनी वैभव सूर्यवंशी, जो कम उम्र में 157 किमी प्रति घंटे की रफ्तार वाली गेंद पर छक्का मारने के लिए जाने जाते हैं, अब खेल में अपना दबदबा बना रहे हैं। 2026 में 15 साल के हुए इस विलक्षण खिलाड़ी ने IPL 2025 में 35 गेंदों में शतक जड़ा। राजस्थान रॉयल्स ने उन्हें 1.1 करोड़ रुपये में खरीदा, जो उनके उल्लेखनीय उदय में पहले ही एक सफल निवेश साबित हुआ है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129839427,imgsize-41110.cms",
+        "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/when-13-year-old-vaibhav-sooryavanshi-smashed-a-157kph-ball-for-straight-six/articleshow/129839408.cms",
+        "date": "2026-03-27T11:02:17+05:30"
+    },
+    {
+        "id": "a192d32a",
+        "category": "Sports",
+        "translations": {
+            "en": {
+                "title": "AIFF Mismanagement Plagues Indian Women's Football",
+                "content": "Indian women's football faces a crisis, highlighted by five coaches in five years and a disastrous AFC Women's Asia Cup, including a humiliating 0-11 loss to Japan. The All India Football Federation's chronic mismanagement, marked by frequent coaching changes, rushed appointments, and opaque decisions, leaves the team directionless and reflects a severe lack of planning."
+            },
+            "kn": {
+                "title": "AIFF ನ ದುರ್ವ್ಯವಸ್ಥೆ ಭಾರತೀಯ ಮಹಿಳಾ ಫುಟ್‌ಬಾಲ್ ಅನ್ನು ಕಾಡುತ್ತಿದೆ",
+                "content": "ಭಾರತೀಯ ಮಹಿಳಾ ಫುಟ್‌ಬಾಲ್ ಬಿಕ್ಕಟ್ಟನ್ನು ಎದುರಿಸುತ್ತಿದೆ, ಐದು ವರ್ಷಗಳಲ್ಲಿ ಐದು ತರಬೇತುದಾರರು ಮತ್ತು ಜಪಾನ್‌ಗೆ 0-11 ಸೋಲು ಸೇರಿದಂತೆ ದುರಂತದ AFC ಮಹಿಳಾ ಏಷ್ಯಾ ಕಪ್‌ನಿಂದ ಇದು ಎದ್ದು ಕಾಣುತ್ತದೆ. ಅಖಿಲ ಭಾರತ ಫುಟ್‌ಬಾಲ್ ಫೆಡರೇಶನ್‌ನ ದೀರ್ಘಕಾಲದ ದುರ್ವ್ಯವಸ್ಥೆ, ಆಗಾಗ್ಗೆ ತರಬೇತುದಾರರ ಬದಲಾವಣೆಗಳು, ಅವಸರದ ನೇಮಕಾತಿಗಳು ಮತ್ತು ಅಪಾರದರ್ಶಕ ನಿರ್ಧಾರಗಳಿಂದ ಗುರುತಿಸಲ್ಪಟ್ಟಿದೆ, ತಂಡವನ್ನು ದಿಕ್ಕಿಲ್ಲದಂತೆ ಮಾಡಿದೆ ಮತ್ತು ಯೋಜನೆಯ ತೀವ್ರ ಕೊರತೆಯನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "AIFF च्या गैरव्यवस्थापनामुळे भारतीय महिला फुटबॉलला ग्रासले आहे",
+                "content": "भारतीय महिला फुटबॉल एका संकटाचा सामना करत आहे, जे पाच वर्षांत पाच प्रशिक्षक आणि जपानकडून 0-11 च्या मानहानीकारक पराभवासह आपत्कालीन AFC महिला आशिया कपने अधोरेखित केले आहे. अखिल भारतीय फुटबॉल महासंघाचे (AIFF) दीर्घकाळ चाललेले गैरव्यवस्थापन, ज्यात वारंवार प्रशिक्षक बदल, घाईघाईने केलेल्या नियुक्त्या आणि अपारदर्शक निर्णय यांचा समावेश आहे, संघ दिशाहीन झाल्याचे दर्शवते आणि नियोजनाच्या तीव्र अभावाचे प्रतिबिंब आहे."
+            },
+            "hi": {
+                "title": "भारतीय महिला फुटबॉल को AIFF का कुप्रबंधन घेर रहा है",
+                "content": "भारतीय महिला फुटबॉल एक संकट का सामना कर रही है, जो पांच सालों में पांच कोच और जापान से 0-11 की शर्मनाक हार सहित एक विनाशकारी AFC महिला एशिया कप से उजागर हुआ है। अखिल भारतीय फुटबॉल महासंघ (AIFF) का पुराना कुप्रबंधन, जिसमें लगातार कोच बदलना, जल्दबाजी में नियुक्तियां और अपारदर्शी निर्णय शामिल हैं, टीम को दिशाहीन छोड़ रहा है और गंभीर योजना की कमी को दर्शाता है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129838435,imgsize-71076.cms",
+        "link": "https://timesofindia.indiatimes.com/sports/football/news/indian-womens-footballs-freefall-five-coaches-in-five-years-another-one-loading/articleshow/129838340.cms",
+        "date": "2026-03-27T09:45:21+05:30"
+    },
+    {
+        "id": "281397f4",
+        "category": "Entertainment",
+        "translations": {
+            "en": {
+                "title": "Dhurandhar 2 Box Office Sensation: Nears ₹1,100 Crore Worldwide",
+                "content": "Ranveer Singh's 'Dhurandhar: The Revenge' is a massive box office sensation, roaring towards ₹1,100 crore worldwide. Directed by Adiya Dhar, the film has amassed over ₹800 crore gross in India within its first week. With strong overseas collections contributing ₹261.92 crore, this blockbuster is breaking records and nearing its predecessor's international success."
+            },
+            "kn": {
+                "title": "ಧುರಂಧರ್ 2 ಬಾಕ್ಸ್ ಆಫೀಸ್ ಸೆನ್ಸೇಷನ್: ವಿಶ್ವಾದ್ಯಂತ ₹1,100 ಕೋಟಿ ಸಮೀಪ",
+                "content": "ರಣವೀರ್ ಸಿಂಗ್ ಅವರ 'ಧುರಂಧರ್: ದಿ ರಿವೆಂಜ್' ವಿಶ್ವಾದ್ಯಂತ ₹1,100 ಕೋಟಿ ಗಳಿಕೆಯತ್ತ ಸಾಗುತ್ತಿರುವ ಭಾರಿ ಬಾಕ್ಸ್ ಆಫೀಸ್ ಸೆನ್ಸೇಷನ್ ಆಗಿದೆ. ಆದಿಯಾ ಧರ್ ನಿರ್ದೇಶನದ ಈ ಚಿತ್ರವು ಮೊದಲ ವಾರದಲ್ಲಿ ಭಾರತದಲ್ಲಿ ₹800 ಕೋಟಿಗೂ ಹೆಚ್ಚು ಗಳಿಸಿದೆ. ₹261.92 ಕೋಟಿ ವಿದೇಶಿ ಸಂಗ್ರಹದೊಂದಿಗೆ, ಈ ಬ್ಲಾಕ್‌ಬಸ್ಟರ್ ದಾಖಲೆಗಳನ್ನು ಮುರಿಯುತ್ತಿದೆ ಮತ್ತು ತನ್ನ ಹಿಂದಿನ ಚಿತ್ರದ ಅಂತರರಾಷ್ಟ್ರೀಯ ಯಶಸ್ಸನ್ನು ಸಮೀಪಿಸುತ್ತಿದೆ."
+            },
+            "mr": {
+                "title": "धुरंधर 2 बॉक्स ऑफिस सनसनाटी: जगभरात ₹1,100 कोटींच्या जवळ",
+                "content": "रणवीर सिंगचा 'धुरंधर: द रिव्हेंज' हा चित्रपट जगभरात ₹1,100 कोटींच्या कमाईच्या दिशेने वाटचाल करणारी प्रचंड बॉक्स ऑफिस सनसनाटी ठरला आहे. आदिया धर दिग्दर्शित या चित्रपटाने पहिल्याच आठवड्यात भारतात ₹800 कोटींहून अधिक कमाई केली आहे. ₹261.92 कोटींच्या परदेशी कमाईसह, हा ब्लॉकबस्टर विक्रम मोडत असून त्याच्या मागील भागाच्या आंतरराष्ट्रीय यशाच्या जवळ पोहोचत आहे."
+            },
+            "hi": {
+                "title": "धुरंधर 2 बॉक्स ऑफिस पर धूम: दुनिया भर में ₹1,100 करोड़ के करीब",
+                "content": "रणवीर सिंह की 'धुरंधर: द रिवेंज' एक जबरदस्त बॉक्स ऑफिस सनसनी है, जो दुनिया भर में ₹1,100 करोड़ की ओर बढ़ रही है। आदिया धर द्वारा निर्देशित इस फिल्म ने अपने पहले सप्ताह में भारत में ₹800 करोड़ से अधिक की कमाई की है। ₹261.92 करोड़ के मजबूत विदेशी संग्रह के साथ, यह ब्लॉकबस्टर रिकॉर्ड तोड़ रही है और अपनी पिछली फिल्म की अंतरराष्ट्रीय सफलता के करीब पहुंच रही है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129836451,imgsize-114360.cms",
+        "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-box-office-collection-day-8-ranveer-singh-sanjay-dutt-rakesh-bedi-starrer-grosses-rs-805-crore-in-india-worldwide-total-nears-rs-1100-crore/articleshow/129836425.cms",
+        "date": "2026-03-27T05:34:07+05:30"
+    },
+    {
+        "id": "35facaf7",
+        "category": "Entertainment",
+        "translations": {
+            "en": {
+                "title": "Ranveer & Deepika Enjoy Dosa Night",
+                "content": "Ranveer Singh and Deepika Padukone enjoyed a casual dosa date at Mumbai's iconic Chowpatty, joined by Ranveer's father. The outing comes as Ranveer's film 'Dhurandhar 2' is a blockbuster. The couple happily posed for a selfie with the restaurant staff, delighting fans with their low-key charm amidst their busy schedules and upcoming projects."
+            },
+            "kn": {
+                "title": "ರಣವೀರ್ ಮತ್ತು ದೀಪಿಕಾ ದೋಸೆ ರಾತ್ರಿ ಆನಂದಿಸಿದರು",
+                "content": "ರಣವೀರ್ ಸಿಂಗ್ ಮತ್ತು ದೀಪಿಕಾ ಪಡುಕೋಣೆ ಮುಂಬೈನ ಐತಿಹಾಸಿಕ ಚೌಪಾಟ್ಟಿಯಲ್ಲಿ ರಣವೀರ್ ಅವರ ತಂದೆಯೊಂದಿಗೆ ಸಾಮಾನ್ಯ ದೋಸೆ ಡೇಟ್ ಅನ್ನು ಆನಂದಿಸಿದರು. ರಣವೀರ್ ಅವರ 'ಧುರಂಧರ್ 2' ಚಿತ್ರ ಭಾರಿ ಯಶಸ್ಸು ಗಳಿಸುತ್ತಿರುವ ಸಮಯದಲ್ಲಿ ಈ ಭೇಟಿ ನಡೆದಿದೆ. ಈ ಜೋಡಿಯು ರೆಸ್ಟೋರೆಂಟ್ ಸಿಬ್ಬಂದಿಯೊಂದಿಗೆ ಸಂತೋಷದಿಂದ ಸೆಲ್ಫಿ ತೆಗೆದುಕೊಂಡು, ತಮ್ಮ ಬಿಡುವಿಲ್ಲದ ವೇಳಾಪಟ್ಟಿ ಮತ್ತು ಮುಂಬರುವ ಯೋಜನೆಗಳ ನಡುವೆಯೂ ಸರಳ ಮೋಡಿಯಿಂದ ಅಭಿಮಾನಿಗಳನ್ನು ಸಂತೋಷಪಡಿಸಿತು."
+            },
+            "mr": {
+                "title": "रणवीर आणि दीपिकाने डोसा नाईटचा आनंद घेतला",
+                "content": "रणवीर सिंग आणि दीपिका पदुकोणने मुंबईच्या प्रसिद्ध चौपाटीवर रणवीरच्या वडिलांसोबत साध्या डोसा डेटचा आनंद घेतला. रणवीरचा 'धुरंधर 2' चित्रपट ब्लॉकबस्टर ठरत असतानाच हे दोघे बाहेर दिसले. या जोडीने रेस्टॉरंट कर्मचार्‍यांसोबत आनंदाने सेल्फी काढली, ज्यामुळे त्यांच्या व्यस्त वेळापत्रक आणि आगामी प्रकल्पांदरम्यानही त्यांच्या साध्या स्वभावाने चाहत्यांना आनंद झाला."
+            },
+            "hi": {
+                "title": "रणवीर और दीपिका ने डोसा नाइट का आनंद लिया",
+                "content": "रणवीर सिंह और दीपिका पादुकोण ने मुंबई की मशहूर चौपाटी पर रणवीर के पिता के साथ एक कैजुअल डोसा डेट का आनंद लिया। यह मुलाकात रणवीर की फिल्म 'धुरंधर 2' के ब्लॉकबस्टर हिट होने के बाद हुई। इस जोड़े ने रेस्तरां के कर्मचारियों के साथ खुशी-खुशी सेल्फी पोज दिए, जिससे उनके व्यस्त कार्यक्रम और आगामी परियोजनाओं के बावजूद उनकी सादगी ने प्रशंसकों को मंत्रमुग्ध कर दिया।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129841241,imgsize-63380.cms",
+        "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/dhurandhar-2-star-ranveer-singh-and-deepika-padukone-dosa-date-at-chowpatty-couple-poses-with-staff-see-pic/articleshow/129841241.cms",
+        "date": "2026-03-27T12:48:25+05:30"
+    },
+    {
         "id": "12a085aa",
         "category": "National",
         "translations": {
@@ -1345,581 +1945,5 @@
         },
         "image": "https://static.toiimg.com/photo/msid-129813949,imgsize-70044.cms",
         "link": "https://timesofindia.indiatimes.com/india/lpg-charge-not-legal-will-invite-action-ccpa-warns-eateries/articleshow/129813947.cms"
-    },
-    {
-        "id": "a8c4e99e",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "Leavitt Blasts Philly DA Over ICE Arrest Threat",
-                "content": "Karoline Leavitt has fiercely condemned Philadelphia DA Larry Krasner for threatening to arrest ICE agents, calling his stance \"disgraceful.\" Leavitt argued that Krasner's policy undermines federal law enforcement and jeopardizes public safety. The controversy escalates tensions between local and federal immigration authorities, drawing strong criticism and calls for the DA to reverse his controversial directive."
-            },
-            "kn": {
-                "title": "ಲೆವಿಟ್ ICE ಏಜೆಂಟ್‌ಗಳ ಬಂಧನದ ಬೆದರಿಕೆಯ ಬಗ್ಗೆ ಫಿಲಿ DA ಗೆ ತರಾಟೆ",
-                "content": "ಕರೋಲಿನ್ ಲೆವಿಟ್ ಅವರು ಫಿಲಡೆಲ್ಫಿಯಾ DA ಲ್ಯಾರಿ ಕ್ರಾಸ್ನರ್ ಅವರನ್ನು ICE ಏಜೆಂಟ್‌ಗಳನ್ನು ಬಂಧಿಸುವ ಬೆದರಿಕೆ ಹಾಕಿದ್ದಕ್ಕಾಗಿ ತೀವ್ರವಾಗಿ ಖಂಡಿಸಿದ್ದಾರೆ, ಅವರ ನಿಲುವನ್ನು \"ಅವಹೇಳನಕಾರಿ\" ಎಂದು ಕರೆದಿದ್ದಾರೆ. ಕ್ರಾಸ್ನರ್ ಅವರ ನೀತಿಯು ಫೆಡರಲ್ ಕಾನೂನು ಜಾರಿಯನ್ನು ದುರ್ಬಲಗೊಳಿಸುತ್ತದೆ ಮತ್ತು ಸಾರ್ವಜನಿಕ ಸುರಕ್ಷತೆಗೆ ಅಪಾಯವನ್ನುಂಟುಮಾಡುತ್ತದೆ ಎಂದು ಲೆವಿಟ್ ವಾದಿಸಿದರು. ಈ ವಿವಾದವು ಸ್ಥಳೀಯ ಮತ್ತು ಫೆಡರಲ್ ವಲಸೆ ಅಧಿಕಾರಿಗಳ ನಡುವಿನ ಉದ್ವಿಗ್ನತೆಯನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ, ಬಲವಾದ ಟೀಕೆಗಳನ್ನು ಆಹ್ವಾನಿಸುತ್ತದೆ ಮತ್ತು DA ತನ್ನ ವಿವಾದಾತ್ಮಕ ನಿರ್ದೇಶನವನ್ನು ಹಿಂತೆಗೆದುಕೊಳ್ಳಬೇಕೆಂದು ಕರೆ ನೀಡುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "लेव्हिटने ICE एजंट्सच्या अटकेच्या धमकीवरून फिलाडेल्फिया DA वर निशाणा साधला",
-                "content": "कॅरोलिन लेव्हिट यांनी फिलाडेल्फियाचे DA लॅरी क्रास्नर यांच्यावर ICE एजंट्सना अटक करण्याच्या धमकीबद्दल तीव्र शब्दात निंदा केली आहे, त्यांच्या भूमिकेला \"अपमानास्पद\" म्हटले आहे. लेव्हिट यांनी युक्तिवाद केला की क्रास्नरचे धोरण फेडरल कायद्याची अंमलबजावणी कमकुवत करते आणि सार्वजनिक सुरक्षिततेला धोका निर्माण करते. या वादामुळे स्थानिक आणि फेडरल इमिग्रेशन अधिकाऱ्यांमधील तणाव वाढतो आहे, ज्यामुळे तीव्र टीका होत आहे आणि DA ला आपली वादग्रस्त सूचना मागे घेण्याचे आवाहन केले जात आहे."
-            },
-            "hi": {
-                "title": "लेविट ने ICE गिरफ्तारी धमकी पर फिलाडेल्फिया DA की निंदा की",
-                "content": "कैरोलीन लेविट ने फिलाडेल्फिया के DA लैरी क्रास्नर की ICE एजेंटों को गिरफ्तार करने की धमकी के लिए कड़ी निंदा की है, उनके रुख को \"अपमानजनक\" बताया है। लेविट ने तर्क दिया कि क्रास्नर की नीति संघीय कानून प्रवर्तन को कमजोर करती है और सार्वजनिक सुरक्षा को खतरे में डालती है। यह विवाद स्थानीय और संघीय आव्रजन अधिकारियों के बीच तनाव को बढ़ाता है, जिससे कड़ी आलोचना हो रही है और DA से अपने विवादास्पद निर्देश को वापस लेने का आह्वान किया जा रहा है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129811194,imgsize-141230.cms",
-        "link": "https://timesofindia.indiatimes.com/world/us/disgraceful-karoline-leavitt-slams-philadelphia-da-larry-krasner-over-arrest-threat-to-ice-agents-deployed-at-us-airports/articleshow/129811194.cms"
-    },
-    {
-        "id": "b9c39fd0",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "SC: Singing 'Vande Mataram' Not Compulsory, Dismisses Plea",
-                "content": "The Supreme Court dismissed a petition challenging the Centre's circular for schools to begin the day with 'Vande Mataram'. Filed by Raza Academy, the plea argued compelling students to sing the national song, invoking Hindu deities, infringes religious freedom. The SC observed that singing 'Vande Mataram' is not mandatory, effectively upholding the circular while reiterating its optional nature."
-            },
-            "kn": {
-                "title": "SC: 'ವಂದೇ ಮಾತರಂ' ಹಾಡುವುದು ಕಡ್ಡಾಯವಲ್ಲ, ಅರ್ಜಿಯನ್ನು ವಜಾಗೊಳಿಸಿದೆ",
-                "content": "ಸುಪ್ರೀಂ ಕೋರ್ಟ್ ಶಾಲೆಗಳಲ್ಲಿ ದಿನವನ್ನು 'ವಂದೇ ಮಾತರಂ'ನೊಂದಿಗೆ ಪ್ರಾರಂಭಿಸುವಂತೆ ಕೇಂದ್ರದ ಸುತ್ತೋಲೆಯನ್ನು ಪ್ರಶ್ನಿಸಿ ಸಲ್ಲಿಸಿದ್ದ ಅರ್ಜಿಯನ್ನು ವಜಾಗೊಳಿಸಿದೆ. ರಝಾ ಅಕಾಡೆಮಿಯು ಸಲ್ಲಿಸಿದ್ದ ಈ ಅರ್ಜಿಯಲ್ಲಿ, ಹಿಂದೂ ದೇವತೆಗಳನ್ನು ಆವಾಹಿಸುವ ರಾಷ್ಟ್ರಗೀತೆಯನ್ನು ಹಾಡಲು ವಿದ್ಯಾರ್ಥಿಗಳನ್ನು ಕಡ್ಡಾಯಗೊಳಿಸುವುದು ಧಾರ್ಮಿಕ ಸ್ವಾತಂತ್ರ್ಯವನ್ನು ಉಲ್ಲಂಘಿಸುತ್ತದೆ ಎಂದು ವಾದಿಸಲಾಗಿತ್ತು. 'ವಂದೇ ಮಾತರಂ' ಹಾಡುವುದು ಕಡ್ಡಾಯವಲ್ಲ ಎಂದು ಸುಪ್ರೀಂ ಕೋರ್ಟ್ ಗಮನಿಸಿದೆ, ಸುತ್ತೋಲೆಯನ್ನು ಎತ್ತಿಹಿಡಿದು ಅದರ ಐಚ್ಛಿಕ ಸ್ವರೂಪವನ್ನು ಪುನರುಚ್ಚರಿಸಿದೆ."
-            },
-            "mr": {
-                "title": "सर्वोच्च न्यायालय: 'वंदे मातरम' गाणे अनिवार्य नाही, याचिका फेटाळली",
-                "content": "शाळांमध्ये दिवसाची सुरुवात 'वंदे मातरम'ने करण्याच्या केंद्राच्या परिपत्रकाला आव्हान देणारी याचिका सर्वोच्च न्यायालयाने फेटाळली. रझा अकादमीने दाखल केलेल्या या याचिकेत, हिंदू देवतांचा उल्लेख असलेले राष्ट्रगीत गाण्यास विद्यार्थ्यांना सक्ती करणे धार्मिक स्वातंत्र्याचे उल्लंघन करते, असा युक्तिवाद करण्यात आला होता. सर्वोच्च न्यायालयाने 'वंदे मातरम' गाणे अनिवार्य नसल्याचे निरीक्षण नोंदवत, परिपत्रकाला कायम ठेवले आणि त्याचे ऐच्छिक स्वरूप पुन्हा सांगितले."
-            },
-            "hi": {
-                "title": "सुप्रीम कोर्ट: 'वंदे मातरम' गाना अनिवार्य नहीं, याचिका खारिज",
-                "content": "सुप्रीम कोर्ट ने स्कूलों में दिन की शुरुआत 'वंदे मातरम' से करने के केंद्र के सर्कुलर को चुनौती देने वाली याचिका खारिज कर दी। रज़ा अकादमी द्वारा दायर याचिका में तर्क दिया गया था कि हिंदू देवी-देवताओं का आह्वान करने वाले राष्ट्रगीत को गाने के लिए छात्रों को मजबूर करना धार्मिक स्वतंत्रता का उल्लंघन है। सुप्रीम कोर्ट ने कहा कि 'वंदे मातरम' गाना अनिवार्य नहीं है, जिससे सर्कुलर को बरकरार रखते हुए इसकी ऐच्छिक प्रकृति की पुष्टि हुई।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129813787,imgsize-1114500.cms",
-        "link": "https://timesofindia.indiatimes.com/india/its-not-must-sc-nixes-plea-against-vande-circular/articleshow/129813783.cms"
-    },
-    {
-        "id": "71113db9",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "IITs Shine Globally in QS Top 50 Rankings",
-                "content": "Indian Institutes of Technology (IITs) have significantly boosted India's global academic presence, with multiple engineering disciplines now ranking among the world's top 50 in the QS Subject Rankings. This includes strong performances in subjects like Petroleum Engineering and Materials Science. Additionally, IIM Ahmedabad shows advancement in management education. This trend highlights India's improving higher education quality and increasing global competitiveness, solidifying its mark on the international stage."
-            },
-            "kn": {
-                "title": "ಐಐಟಿಗಳು ಕ್ಯೂಎಸ್ ಟಾಪ್ 50 ಶ್ರೇಯಾಂಕಗಳಲ್ಲಿ ಜಾಗತಿಕವಾಗಿ ಮಿಂಚಿವೆ",
-                "content": "ಭಾರತೀಯ ತಾಂತ್ರಿಕ ಸಂಸ್ಥೆಗಳು (ಐಐಟಿಗಳು) ಭಾರತದ ಜಾಗತಿಕ ಶೈಕ್ಷಣಿಕ ಅಸ್ತಿತ್ವವನ್ನು ಗಮನಾರ್ಹವಾಗಿ ಹೆಚ್ಚಿಸಿವೆ. ಕ್ಯೂಎಸ್ ವಿಷಯ ಶ್ರೇಯಾಂಕಗಳಲ್ಲಿ ಬಹು ಎಂಜಿನಿಯರಿಂಗ್ ವಿಭಾಗಗಳು ಈಗ ವಿಶ್ವದ ಟಾಪ್ 50 ರಲ್ಲಿ ಸ್ಥಾನ ಪಡೆದಿವೆ. ಇದರಲ್ಲಿ ಪೆಟ್ರೋಲಿಯಂ ಎಂಜಿನಿಯರಿಂಗ್ ಮತ್ತು ಮೆಟೀರಿಯಲ್ಸ್ ಸೈನ್ಸ್‌ನಂತಹ ವಿಷಯಗಳಲ್ಲಿನ ಉತ್ತಮ ಸಾಧನೆಗಳು ಸೇರಿವೆ. ಹೆಚ್ಚುವರಿಯಾಗಿ, ಐಐಎಂ ಅಹಮದಾಬಾದ್ ನಿರ್ವಹಣಾ ಶಿಕ್ಷಣದಲ್ಲಿ ಪ್ರಗತಿ ತೋರಿಸಿದೆ. ಈ ಪ್ರವೃತ್ತಿಯು ಭಾರತದ ಉನ್ನತ ಶಿಕ್ಷಣದ ಗುಣಮಟ್ಟ ಸುಧಾರಣೆ ಮತ್ತು ಜಾಗತಿಕ ಸ್ಪರ್ಧಾತ್ಮಕತೆಯನ್ನು ಹೆಚ್ಚಿಸುತ್ತಿರುವುದನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ, ಅಂತರರಾಷ್ಟ್ರೀಯ ಮಟ್ಟದಲ್ಲಿ ತನ್ನ ಛಾಪು ಮೂಡಿಸುತ್ತಿದೆ."
-            },
-            "mr": {
-                "title": "क्यूएस टॉप ५० रँकिंगमध्ये आयआयटी जागतिक स्तरावर चमकले",
-                "content": "इंडियन इन्स्टिट्यूट ऑफ टेक्नॉलॉजी (आयआयटी) ने भारताची जागतिक शैक्षणिक उपस्थिती लक्षणीयरीत्या वाढवली आहे. क्यूएस विषय क्रमवारीत अनेक अभियांत्रिकी शाखा आता जगातील टॉप ५० मध्ये समाविष्ट झाल्या आहेत. यामध्ये पेट्रोलियम अभियांत्रिकी आणि मटेरियल सायन्ससारख्या विषयांमध्ये उत्तम कामगिरीचा समावेश आहे. याव्यतिरिक्त, आयआयएम अहमदाबादने व्यवस्थापन शिक्षणामध्ये प्रगती दर्शविली आहे. हा कल भारताच्या उच्च शिक्षणाच्या गुणवत्तेत सुधारणा आणि वाढती जागतिक स्पर्धात्मकता अधोरेखित करतो, ज्यामुळे आंतरराष्ट्रीय स्तरावर आपले स्थान मजबूत होत आहे."
-            },
-            "hi": {
-                "title": "क्यूएस टॉप 50 रैंकिंग में आईआईटी विश्व स्तर पर चमके",
-                "content": "भारतीय प्रौद्योगिकी संस्थान (आईआईटी) ने भारत की वैश्विक शैक्षणिक उपस्थिति को महत्वपूर्ण रूप से बढ़ावा दिया है. क्यूएस विषय रैंकिंग में अब कई इंजीनियरिंग विषय दुनिया के शीर्ष 50 में शामिल हो गए हैं. इसमें पेट्रोलियम इंजीनियरिंग और मैटेरियल्स साइंस जैसे विषयों में मजबूत प्रदर्शन शामिल है. इसके अतिरिक्त, आईआईएम अहमदाबाद प्रबंधन शिक्षा में प्रगति दिखा रहा है. यह प्रवृत्ति भारत की उच्च शिक्षा की गुणवत्ता में सुधार और बढ़ती वैश्विक प्रतिस्पर्धात्मकता को उजागर करती है, जिससे अंतरराष्ट्रीय मंच पर अपनी पहचान मजबूत हो रही है."
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129812220,imgsize-1003789.cms",
-        "link": "https://timesofindia.indiatimes.com/india/global-boost-iits-make-mark-in-qs-top-50-rankings-by-subject/articleshow/129812077.cms"
-    },
-    {
-        "id": "e7bc6942",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "India Extends Key Immigration Scheme, Boosts Security",
-                "content": "India's Union Cabinet approved extending the Immigration and Visa Tracking Scheme (IVFRT) for five years until March 2031, backed by a Rs 1,800 crore outlay. This vital initiative aims to enhance national security and streamline visa and immigration processes for foreign visitors. By interlinking multiple databases, it promises efficient, informed decision-making, bolstering secure entry and border management."
-            },
-            "kn": {
-                "title": "ಭಾರತ ಪ್ರಮುಖ ವಲಸೆ ಯೋಜನೆಯನ್ನು ವಿಸ್ತರಿಸಿದೆ, ಭದ್ರತೆಯನ್ನು ಹೆಚ್ಚಿಸಿದೆ",
-                "content": "ಭಾರತದ ಕೇಂದ್ರ ಸಚಿವ ಸಂಪುಟವು ವಲಸೆ ಮತ್ತು ವೀಸಾ ಟ್ರ್ಯಾಕಿಂಗ್ ಯೋಜನೆ (IVFRT) ಅನ್ನು ಐದು ವರ್ಷಗಳವರೆಗೆ, ಅಂದರೆ ಮಾರ್ಚ್ 2031 ರವರೆಗೆ ವಿಸ್ತರಿಸಲು ಅನುಮೋದನೆ ನೀಡಿದೆ. ಇದಕ್ಕೆ 1,800 ಕೋಟಿ ರೂ.ಗಳ ಬಜೆಟ್ ಬೆಂಬಲವಿದೆ. ಈ ಪ್ರಮುಖ ಉಪಕ್ರಮವು ರಾಷ್ಟ್ರೀಯ ಭದ್ರತೆಯನ್ನು ಹೆಚ್ಚಿಸಲು ಮತ್ತು ವಿದೇಶಿ ಸಂದರ್ಶಕರಿಗೆ ವೀಸಾ ಮತ್ತು ವಲಸೆ ಪ್ರಕ್ರಿಯೆಗಳನ್ನು ಸುಗಮಗೊಳಿಸುವ ಗುರಿಯನ್ನು ಹೊಂದಿದೆ. ಬಹು ಡೇಟಾಬೇಸ್‌ಗಳನ್ನು ಪರಸ್ಪರ ಸಂಪರ್ಕಿಸುವ ಮೂಲಕ, ಇದು ಸಮರ್ಥ, ಮಾಹಿತಿ ಆಧಾರಿತ ನಿರ್ಧಾರ ತೆಗೆದುಕೊಳ್ಳುವುದನ್ನು ಖಚಿತಪಡಿಸುತ್ತದೆ, ಸುರಕ್ಷಿತ ಪ್ರವೇಶ ಮತ್ತು ಗಡಿ ನಿರ್ವಹಣೆಯನ್ನು ಬಲಪಡಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "भारताने महत्त्वाच्या स्थलांतर योजनेचा विस्तार केला, सुरक्षा वाढवली",
-                "content": "भारताच्या केंद्रीय मंत्रिमंडळाने इमिग्रेशन आणि व्हिसा ट्रॅकिंग योजना (IVFRT) मार्च २०२१ पर्यंत पाच वर्षांसाठी वाढवण्यास मंजुरी दिली आहे, ज्यासाठी १,८०० कोटी रुपयांचा निधी मंजूर करण्यात आला आहे. हा महत्त्वाचा उपक्रम राष्ट्रीय सुरक्षा वाढवण्यासोबतच परदेशी पाहुण्यांसाठी व्हिसा आणि स्थलांतर प्रक्रिया सुलभ करण्याचे उद्दिष्ट ठेवतो. अनेक डेटाबेस एकमेकांशी जोडून, ही योजना कार्यक्षम, माहितीपूर्ण निर्णय सुनिश्चित करते, सुरक्षित प्रवेश आणि सीमा व्यवस्थापन मजबूत करते."
-            },
-            "hi": {
-                "title": "भारत ने प्रमुख आव्रजन योजना का विस्तार किया, सुरक्षा बढ़ाई",
-                "content": "भारत के केंद्रीय मंत्रिमंडल ने आव्रजन और वीज़ा ट्रैकिंग योजना (IVFRT) को मार्च 2031 तक पांच साल के लिए बढ़ाने की मंजूरी दे दी है, जिसके लिए 1,800 करोड़ रुपये का आवंटन किया गया है। इस महत्वपूर्ण पहल का उद्देश्य राष्ट्रीय सुरक्षा को बढ़ाना और विदेशी आगंतुकों के लिए वीज़ा तथा आव्रजन प्रक्रियाओं को सुव्यवस्थित करना है। कई डेटाबेस को आपस में जोड़कर, यह कुशल, सूचित निर्णय लेने का वादा करती है, जिससे सुरक्षित प्रवेश और सीमा प्रबंधन को मजबूती मिलती है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129811710,imgsize-1035569.cms",
-        "link": "https://timesofindia.indiatimes.com/india/with-rs-1800cr-outlay-immigration-scheme-extended-for-5-years/articleshow/129811704.cms"
-    },
-    {
-        "id": "70147cb2",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "BlackRock CEO Warns: $150 Oil, Global Recession Looms",
-                "content": "BlackRock CEO Larry Fink warns that rising geopolitical tensions could push oil to $150/barrel, risking a deep global recession. He emphasizes the regressive impact on consumers, noting Strait of Hormuz instability may keep prices elevated for years. Fink urges accelerating alternative energy investments to shield economies from prolonged energy shocks and their severe economic consequences."
-            },
-            "kn": {
-                "title": "ಬ್ಲ್ಯಾಕ್‌ರಾಕ್ ಸಿಇಒ ಎಚ್ಚರಿಕೆ: $150 ತೈಲ, ಜಾಗತಿಕ ಆರ್ಥಿಕ ಹಿಂಜರಿತದ ಭೀತಿ",
-                "content": "ಬ್ಲ್ಯಾಕ್‌ರಾಕ್ ಸಿಇಒ ಲ್ಯಾರಿ ಫಿಂಕ್, ಹೆಚ್ಚುತ್ತಿರುವ ಭೌಗೋಳಿಕ ರಾಜಕೀಯ ಉದ್ವಿಗ್ನತೆಗಳು ತೈಲವನ್ನು ಬ್ಯಾರೆಲ್‌ಗೆ $150 ಕ್ಕೆ ತಳ್ಳಬಹುದು, ಆಳವಾದ ಜಾಗತಿಕ ಆರ್ಥಿಕ ಹಿಂಜರಿತದ ಅಪಾಯವನ್ನುಂಟುಮಾಡಬಹುದು ಎಂದು ಎಚ್ಚರಿಸಿದ್ದಾರೆ. ಅವರು ಗ್ರಾಹಕರ ಮೇಲಿನ ಹಿನ್ನಡೆ ಪರಿಣಾಮವನ್ನು ಒತ್ತಿಹೇಳುತ್ತಾರೆ, ಹಾರ್ಮುಜ್ ಜಲಸಂಧಿಯ ಅಸ್ಥಿರತೆಯು ವರ್ಷಗಳವರೆಗೆ ಬೆಲೆಗಳನ್ನು ಹೆಚ್ಚಾಗಿ ಇರಿಸಬಹುದು ಎಂದು ಗಮನಿಸುತ್ತಾರೆ. ದೀರ್ಘಕಾಲದ ಇಂಧನ ಆಘಾತಗಳು ಮತ್ತು ಅವುಗಳ ತೀವ್ರ ಆರ್ಥಿಕ ಪರಿಣಾಮಗಳಿಂದ ಆರ್ಥಿಕತೆಗಳನ್ನು ರಕ್ಷಿಸಲು ಪರ್ಯಾಯ ಇಂಧನ ಹೂಡಿಕೆಗಳನ್ನು ವೇಗಗೊಳಿಸಲು ಫಿಂಕ್ ಒತ್ತಾಯಿಸಿದ್ದಾರೆ."
-            },
-            "mr": {
-                "title": "ब्लॅकरॉक सीईओचा इशारा: $150 प्रति बॅरल तेल, जागतिक मंदीची शक्यता",
-                "content": "ब्लॅकरॉकचे सीईओ लॅरी फिंक यांनी चेतावणी दिली आहे की वाढत्या भू-राजकीय तणावामुळे तेलाची किंमत $150 प्रति बॅरलपर्यंत वाढू शकते, ज्यामुळे गंभीर जागतिक मंदीचा धोका निर्माण होऊ शकतो. त्यांनी ग्राहकांवरील प्रतिगामी परिणामांवर भर दिला आणि नमूद केले की, होर्मुझच्या सामुद्रधुनीतील अस्थिरता अनेक वर्षांपर्यंत किमती वाढवून ठेवू शकते. दीर्घकालीन ऊर्जा संकटे आणि त्यांच्या गंभीर आर्थिक परिणामांपासून अर्थव्यवस्थांचे संरक्षण करण्यासाठी फिंक यांनी पर्यायी ऊर्जा गुंतवणुकीला गती देण्याचे आवाहन केले आहे."
-            },
-            "hi": {
-                "title": "ब्लैकरॉक सीईओ की चेतावनी: $150 तेल, वैश्विक मंदी का मंडराता खतरा",
-                "content": "ब्लैकरॉक के सीईओ लैरी फिंक ने चेतावनी दी है कि बढ़ते भू-राजनीतिक तनाव तेल को $150 प्रति बैरल तक धकेल सकते हैं, जिससे गहरी वैश्विक मंदी का खतरा है। उन्होंने उपभोक्ताओं पर प्रतिगामी प्रभाव पर जोर दिया, यह देखते हुए कि होर्मुज जलडमरूमध्य में अस्थिरता वर्षों तक कीमतें ऊंची रख सकती है। फिंक ने लंबे समय तक चलने वाले ऊर्जा झटकों और उनके गंभीर आर्थिक परिणामों से अर्थव्यवस्थाओं को बचाने के लिए वैकल्पिक ऊर्जा निवेश में तेजी लाने का आग्रह किया है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129811432,imgsize-535445.cms",
-        "link": "https://timesofindia.indiatimes.com/world/us/blackrock-ceo-larry-fink-warns-oil-could-hit-150-amid-iranus-war-causing-a-global-recession/articleshow/129811229.cms"
-    },
-    {
-        "id": "25abd019",
-        "category": "Sports",
-        "translations": {
-            "en": {
-                "title": "Prithvi Shaw's Mental Reset: Eyes Indian Team Return",
-                "content": "Prithvi Shaw details his year-long 'mental reset' post-IPL 2025 absence, calling it a crucial break from inconsistent form and criticism. Highlighting cricket as his unwavering passion, the Delhi Capitals opener returns with a clearer mindset, prioritizing quality practice and staying present. Shaw expresses a strong ambition to rejoin the Indian team, ready to overcome past setbacks."
-            },
-            "kn": {
-                "title": "ಪೃಥ್ವಿ ಷಾ ಅವರ ಮಾನಸಿಕ ಪುನರ್ವ್ಯವಸ್ಥೆ: ಭಾರತ ತಂಡಕ್ಕೆ ಮರಳುವ ಇರಾದೆ",
-                "content": "ಐಪಿಎಲ್ 2025 ಗೈರುಹಾಜರಿಯ ನಂತರ, ಪೃಥ್ವಿ ಷಾ ತಮ್ಮ ಒಂದು ವರ್ಷದ 'ಮಾನಸಿಕ ಪುನರ್ವ್ಯವಸ್ಥೆ'ಯನ್ನು ವಿವರಿಸಿದ್ದಾರೆ. ಇದನ್ನು ಅಸ್ಥಿರ ಪ್ರದರ್ಶನ ಮತ್ತು ಟೀಕೆಗಳಿಂದ ನಿರ್ಣಾಯಕ ವಿರಾಮ ಎಂದಿದ್ದಾರೆ. ಕ್ರಿಕೆಟ್ ತಮ್ಮ ಅಚಲವಾದ ಉತ್ಸಾಹ ಎಂದು ಒತ್ತಿಹೇಳಿದ ದೆಹಲಿ ಕ್ಯಾಪಿಟಲ್ಸ್ ಆರಂಭಿಕ, ಸ್ಪಷ್ಟ ಮನಸ್ಥಿತಿಯೊಂದಿಗೆ ಮರಳಿದ್ದಾರೆ, ಉತ್ತಮ ಅಭ್ಯಾಸ ಮತ್ತು ವರ್ತಮಾನಕ್ಕೆ ಆದ್ಯತೆ ನೀಡಿದ್ದಾರೆ. ಹಿಂದಿನ ಹಿನ್ನಡೆಗಳನ್ನು ನಿವಾರಿಸಿ ಭಾರತ ತಂಡಕ್ಕೆ ಮರಳಲು ಷಾ ಬಲವಾದ ಮಹತ್ವಾಕಾಂಕ್ಷೆಯನ್ನು ವ್ಯಕ್ತಪಡಿಸಿದ್ದಾರೆ."
-            },
-            "mr": {
-                "title": "पृथ्वी शॉची मानसिक पुनरावृत्ती: भारतीय संघात परतण्याचे ध्येय",
-                "content": "आयपीएल 2025 मधून बाहेर राहिल्यानंतर, पृथ्वी शॉने आपल्या वर्षभराच्या 'मानसिक पुनरावृत्ती'ची माहिती दिली, याला खराब कामगिरी आणि टीकेतून महत्त्वाची विश्रांती म्हटले. क्रिकेट आपली अटूट आवड असल्याचे सांगत, दिल्ली कॅपिटल्सचा हा सलामीवीर स्पष्ट मानसिकतेने परतला आहे, चांगल्या सरावाला आणि वर्तमानात राहण्याला प्राधान्य देत आहे. मागील अडचणींवर मात करून भारतीय संघात परतण्याची शॉची तीव्र इच्छा आहे."
-            },
-            "hi": {
-                "title": "पृथ्वी शॉ का मानसिक पुनर्संगठन: भारतीय टीम में वापसी पर नज़र",
-                "content": "आईपीएल 2025 से बाहर रहने के बाद, पृथ्वी शॉ ने अपने साल भर के 'मानसिक पुनर्संगठन' का विवरण दिया, इसे खराब फॉर्म और आलोचना से एक महत्वपूर्ण ब्रेक बताया है. क्रिकेट को अपना अटूट जुनून बताते हुए, दिल्ली कैपिटल्स का यह सलामी बल्लेबाज स्पष्ट मानसिकता के साथ लौटा है, गुणवत्तापूर्ण अभ्यास और वर्तमान पर ध्यान केंद्रित कर रहा है. शॉ ने पिछली बाधाओं को दूर कर भारतीय टीम में वापसी करने की दृढ़ महत्वाकांक्षा व्यक्त की है."
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129806168,imgsize-42088.cms",
-        "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-cricket-is-my-passion-and-no-one-can-take-this-away-from-me-prithvi-shaw/articleshow/129806117.cms"
-    },
-    {
-        "id": "4e234542",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Fuel Stations Run Dry Amid Supply Shortage",
-                "content": "Fuel stations in various regions are displaying 'no stock' signs as pumps run dry, causing widespread concern. The shortage impacts daily travel and commercial activities, with many struggling to find operational pumps. Customers face uncertainty amid the supply disruption. Authorities have yet to address the situation, leading to potential price hikes and travel woes."
-            },
-            "kn": {
-                "title": "ಇಂಧನ ಕೇಂದ್ರಗಳಲ್ಲಿ ಪೂರೈಕೆ ಕೊರತೆಯಿಂದ ಶುಷ್ಕತೆ",
-                "content": "ವಿವಿಧ ಪ್ರದೇಶಗಳಲ್ಲಿನ ಇಂಧನ ಕೇಂದ್ರಗಳು ಪಂಪ್‌ಗಳು ಖಾಲಿಯಾಗುತ್ತಿದ್ದಂತೆ 'ಸ್ಟಾಕ್ ಇಲ್ಲ' ಎಂಬ ಫಲಕಗಳನ್ನು ಪ್ರದರ್ಶಿಸುತ್ತಿವೆ, ಇದು ವ್ಯಾಪಕ ಕಳವಳಕ್ಕೆ ಕಾರಣವಾಗಿದೆ. ಈ ಕೊರತೆಯು ದೈನಂದಿನ ಪ್ರಯಾಣ ಮತ್ತು ವಾಣಿಜ್ಯ ಚಟುವಟಿಕೆಗಳ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರುತ್ತಿದೆ, ಅನೇಕರು ಕಾರ್ಯನಿರ್ವಹಿಸುವ ಪಂಪ್‌ಗಳನ್ನು ಹುಡುಕಲು ಹೆಣಗಾಡುತ್ತಿದ್ದಾರೆ. ಪೂರೈಕೆ ಅಡಚಣೆಯ ಮಧ್ಯೆ ಗ್ರಾಹಕರು ಅನಿಶ್ಚಿತತೆಯನ್ನು ಎದುರಿಸುತ್ತಿದ್ದಾರೆ. ಅಧಿಕಾರಿಗಳು ಈ ಪರಿಸ್ಥಿತಿಯನ್ನು ಇನ್ನೂ ಪರಿಹರಿಸಿಲ್ಲ, ಇದು ಬೆಲೆ ಏರಿಕೆ ಮತ್ತು ಪ್ರಯಾಣದ ತೊಂದರೆಗಳಿಗೆ ಕಾರಣವಾಗಬಹುದು."
-            },
-            "mr": {
-                "title": "इंधन पुरवठा तुटवड्यामुळे पेट्रोल पंप कोरडे",
-                "content": "विविध भागांतील इंधन पंपांवर 'स्टॉक नाही' असे फलक दिसू लागले आहेत, कारण पंप कोरडे पडले आहेत, ज्यामुळे सर्वसामान्यांमध्ये चिंता वाढली आहे. या तुटवड्यामुळे दैनंदिन प्रवास आणि व्यावसायिक क्रियाकलापांवर परिणाम होत आहे, अनेक जण कार्यान्वित पंप शोधण्यासाठी धडपडत आहेत. पुरवठा खंडित झाल्यामुळे ग्राहकांना अनिश्चिततेचा सामना करावा लागत आहे. अधिकाऱ्यांनी अद्याप या परिस्थितीवर भाष्य केलेले नाही, ज्यामुळे संभाव्य दरवाढ आणि प्रवासाचे संकट निर्माण झाले आहे."
-            },
-            "hi": {
-                "title": "आपूर्ति संकट के बीच सूखे पेट्रोल पंप",
-                "content": "विभिन्न क्षेत्रों में ईंधन स्टेशन 'नो स्टॉक' के संकेत दिखा रहे हैं क्योंकि पंप सूख गए हैं, जिससे व्यापक चिंता पैदा हो गई है। यह कमी दैनिक यात्रा और व्यावसायिक गतिविधियों को प्रभावित कर रही है, कई लोग चालू पंप खोजने के लिए संघर्ष कर रहे हैं। आपूर्ति बाधित होने के कारण ग्राहक अनिश्चितता का सामना कर रहे हैं। अधिकारियों ने अभी तक स्थिति पर कोई टिप्पणी नहीं की है, जिससे संभावित मूल्य वृद्धि और यात्रा संबंधी दिक्कतें हो सकती हैं।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129811433,imgsize-1154614.cms",
-        "link": "https://timesofindia.indiatimes.com/india/petrol-stations-put-up-no-stock-boards-as-pumps-run-dry/articleshow/129811429.cms"
-    },
-    {
-        "id": "d875af69",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "J&K Division Bill Sparks Row: NC, BJP Slam PDP Proposal",
-                "content": "A bill by PDP MLA Waheed Parra proposing 16 new districts and two divisions in J&K has ignited a fierce political debate. The ruling NC slammed it as an attempt to undermine sub-regional empowerment. Meanwhile, the BJP alleged the proposal aligns with Pakistan's ISI agenda, aiming to create a 'Greater Kashmir' by dividing Jammu, drawing strong opposition."
-            },
-            "kn": {
-                "title": "ಜೆ&ಕೆ ವಿಭಜನಾ ಮಸೂದೆ ವಿವಾದ: ಎನ್‌ಸಿ, ಬಿಜೆಪಿ ಕಡೆಯಿಂದ ಪಿಡಿಪಿ ಪ್ರಸ್ತಾವಕ್ಕೆ ಆಕ್ಷೇಪ",
-                "content": "ಪಿಡಿಪಿ ಶಾಸಕ ವಹೀದ್ ಪಾರಾ ಅವರು ಜಮ್ಮು ಮತ್ತು ಕಾಶ್ಮೀರದಲ್ಲಿ 16 ಹೊಸ ಜಿಲ್ಲೆಗಳು ಮತ್ತು ಎರಡು ವಿಭಾಗಗಳನ್ನು ಪ್ರಸ್ತಾಪಿಸಿದ ಮಸೂದೆಯು ತೀವ್ರ ರಾಜಕೀಯ ಚರ್ಚೆಗೆ ಕಾರಣವಾಗಿದೆ. ಆಡಳಿತಾರೂಢ ಎನ್‌ಸಿ ಇದನ್ನು ಉಪ-ಪ್ರಾದೇಶಿಕ ಸಬಲೀಕರಣವನ್ನು ದುರ್ಬಲಗೊಳಿಸುವ ಪ್ರಯತ್ನ ಎಂದು ಟೀಕಿಸಿದೆ. ಇದೇ ವೇಳೆ, ಜಮ್ಮುವನ್ನು ವಿಭಜಿಸಿ 'ಗ್ರೇಟರ್ ಕಾಶ್ಮೀರ'ವನ್ನು ಸೃಷ್ಟಿಸುವ ಪಾಕಿಸ್ತಾನದ ಐಎಸ್‌ಐ ಕಾರ್ಯಸೂಚಿಯೊಂದಿಗೆ ಈ ಪ್ರಸ್ತಾವನೆ ಹೊಂದಿಕೆಯಾಗುತ್ತದೆ ಎಂದು ಬಿಜೆಪಿ ಆರೋಪಿಸಿದ್ದು, ತೀವ್ರ ವಿರೋಧ ವ್ಯಕ್ತವಾಗಿದೆ."
-            },
-            "mr": {
-                "title": "जे&के विभाजन विधेयकामुळे वाद: एनसी, भाजपने पीडीपीच्या प्रस्तावावर टीका केली",
-                "content": "पीडीपी आमदार वाहीद पर्रा यांनी जम्मू-काश्मीरमध्ये 16 नवीन जिल्हे आणि दोन विभाग प्रस्तावित करणारे विधेयक मांडले असून, यामुळे तीव्र राजकीय वाद निर्माण झाला आहे. सत्ताधारी एनसीने याला उप-प्रादेशिक सक्षमीकरणाला कमी लेखण्याचा प्रयत्न म्हटले आहे. दरम्यान, भाजपने आरोप केला आहे की, हा प्रस्ताव पाकिस्तानच्या आयएसआयच्या अजेंड्याशी जुळतो, ज्याचा उद्देश जम्मूचे विभाजन करून 'ग्रेटर काश्मीर' निर्माण करणे आहे, याला तीव्र विरोध होत आहे."
-            },
-            "hi": {
-                "title": "जम्मू-कश्मीर विभाजन विधेयक पर विवाद: एनसी, भाजपा ने पीडीपी प्रस्ताव को नकारा",
-                "content": "पीडीपी विधायक वहीद पर्रा द्वारा जम्मू-कश्मीर में 16 नए जिले और दो मंडल प्रस्तावित करने वाले विधेयक ने तीव्र राजनीतिक बहस छेड़ दी है। सत्ताधारी एनसी ने इसे उप-क्षेत्रीय सशक्तिकरण को कमजोर करने का प्रयास बताया। वहीं, भाजपा ने आरोप लगाया कि यह प्रस्ताव पाकिस्तान की आईएसआई के एजेंडे के अनुरूप है, जिसका उद्देश्य जम्मू को विभाजित कर 'ग्रेटर कश्मीर' बनाना है, इसे कड़ा विरोध मिल रहा है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129810559,imgsize-1989485.cms",
-        "link": "https://timesofindia.indiatimes.com/india/pdp-mlas-bill-proposing-new-divisions-districts-in-jk-faces-flak-from-nc-bjp/articleshow/129810425.cms"
-    },
-    {
-        "id": "b9b57c42",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "J&K Defends Book Ban in High Court",
-                "content": "J&K administration defended its ban on 25 \"secessionist\" Kashmir-related books in the High Court, citing state security and public order. They justified the legal provision used. Petitioners challenging the order have been given time to respond. A full bench will hear this significant case, sparking debate over freedom of expression versus national security in the region."
-            },
-            "kn": {
-                "title": "ಜೆ & ಕೆ ಹೈಕೋರ್ಟ್‌ನಲ್ಲಿ ಪುಸ್ತಕ ನಿಷೇಧವನ್ನು ಸಮರ್ಥಿಸಿದೆ",
-                "content": "ಜಮ್ಮು ಮತ್ತು ಕಾಶ್ಮೀರ ಆಡಳಿತವು 25 'ಪ್ರತ್ಯೇಕತಾವಾದಿ' ಕಾಶ್ಮೀರ-ಸಂಬಂಧಿತ ಪುಸ್ತಕಗಳ ನಿಷೇಧವನ್ನು ಹೈಕೋರ್ಟ್‌ನಲ್ಲಿ ಸಮರ್ಥಿಸಿಕೊಂಡಿದೆ, ರಾಜ್ಯ ಭದ್ರತೆ ಮತ್ತು ಸಾರ್ವಜನಿಕ ಸುವ್ಯವಸ್ಥೆಯನ್ನು ಉಲ್ಲೇಖಿಸಿದೆ. ಅವರು ಬಳಸಿದ ಕಾನೂನು ನಿಬಂಧನೆಯನ್ನು ಸಮರ್ಥಿಸಿದರು. ಆದೇಶವನ್ನು ಪ್ರಶ್ನಿಸುವ ಅರ್ಜಿದಾರರಿಗೆ ಪ್ರತಿಕ್ರಿಯಿಸಲು ಸಮಯ ನೀಡಲಾಗಿದೆ. ಪೂರ್ಣ ಪೀಠವು ಈ ಮಹತ್ವದ ಪ್ರಕರಣವನ್ನು ಆಲಿಸಲಿದ್ದು, ಅಭಿವ್ಯಕ್ತಿ ಸ್ವಾತಂತ್ರ್ಯ ಮತ್ತು ಪ್ರದೇಶದಲ್ಲಿ ರಾಷ್ಟ್ರೀಯ ಭದ್ರತೆ ನಡುವಿನ ಚರ್ಚೆಯನ್ನು ಹುಟ್ಟುಹಾಕಿದೆ."
-            },
-            "mr": {
-                "title": "जम्मू-काश्मीरने उच्च न्यायालयात पुस्तक बंदीचे समर्थन केले",
-                "content": "जम्मू-काश्मीर प्रशासनाने उच्च न्यायालयात 25 'फुटीरतावादी' काश्मीर-संबंधित पुस्तकांवरील बंदीचे समर्थन केले, ज्यात राज्याची सुरक्षा आणि सार्वजनिक सुव्यवस्थेचा हवाला देण्यात आला. त्यांनी वापरलेल्या कायदेशीर तरतुदीचे समर्थन केले. या आदेशाला आव्हान देणाऱ्या याचिकाकर्त्यांना प्रतिसाद देण्यासाठी वेळ देण्यात आला आहे. पूर्ण पीठ या महत्त्वपूर्ण प्रकरणाची सुनावणी करेल, ज्यामुळे अभिव्यक्ती स्वातंत्र्य विरुद्ध प्रदेशातील राष्ट्रीय सुरक्षेवर वाद निर्माण झाला आहे."
-            },
-            "hi": {
-                "title": "जम्मू-कश्मीर ने हाईकोर्ट में पुस्तक प्रतिबंध का बचाव किया",
-                "content": "जम्मू-कश्मीर प्रशासन ने उच्च न्यायालय में 25 'अलगाववादी' कश्मीर-संबंधित पुस्तकों पर लगे प्रतिबंध का बचाव किया, जिसमें राज्य सुरक्षा और सार्वजनिक व्यवस्था का हवाला दिया गया। उन्होंने उपयोग किए गए कानूनी प्रावधान को उचित ठहराया। आदेश को चुनौती देने वाले याचिकाकर्ताओं को जवाब देने का समय दिया गया है। एक पूर्ण पीठ इस महत्वपूर्ण मामले की सुनवाई करेगी, जिससे क्षेत्र में अभिव्यक्ति की स्वतंत्रता बनाम राष्ट्रीय सुरक्षा पर बहस छिड़ गई है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129810015,imgsize-1244038.cms",
-        "link": "https://timesofindia.indiatimes.com/india/jk-admin-defends-ban-on-books-in-hc-says-secessionist-in-nature/articleshow/129809889.cms"
-    },
-    {
-        "id": "b535a6c0",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "India Not a Mere 'Go-Between', Says Jaishankar",
-                "content": "EAM S. Jaishankar, at an all-party meet, asserted India's global standing, stating it is not a \"go-between country\" like Pakistan. His remarks came amid speculation about India's potential role in mediating disputes involving Iran. Jaishankar emphasized India's independent foreign policy and its capacity to engage directly on major issues, rejecting the notion of being merely an intermediary."
-            },
-            "kn": {
-                "title": "ಭಾರತ ಕೇವಲ 'ಮಧ್ಯವರ್ತಿ' ಅಲ್ಲ, ಜೈಶಂಕರ್ ಹೇಳಿಕೆ",
-                "content": "ಸರ್ವಪಕ್ಷ ಸಭೆಯಲ್ಲಿ ವಿದೇಶಾಂಗ ಸಚಿವ ಎಸ್. ಜೈಶಂಕರ್ ಅವರು, ಭಾರತವು ಪಾಕಿಸ್ತಾನದಂತೆ 'ಮಧ್ಯವರ್ತಿ ದೇಶ' ಅಲ್ಲ ಎಂದು ಹೇಳುವ ಮೂಲಕ ಭಾರತದ ಜಾಗತಿಕ ಸ್ಥಾನಮಾನವನ್ನು ಪ್ರತಿಪಾದಿಸಿದರು. ಇರಾನ್ ಒಳಗೊಂಡ ವಿವಾದಗಳ ಇತ್ಯರ್ಥದಲ್ಲಿ ಭಾರತದ ಸಂಭಾವ್ಯ ಪಾತ್ರದ ಕುರಿತ ಊಹಾಪೋಹಗಳ ನಡುವೆ ಅವರ ಈ ಹೇಳಿಕೆ ಬಂದಿದೆ. ಕೇವಲ ಮಧ್ಯವರ್ತಿ ಎಂಬ ಕಲ್ಪನೆಯನ್ನು ತಿರಸ್ಕರಿಸಿ, ಪ್ರಮುಖ ವಿಷಯಗಳಲ್ಲಿ ನೇರವಾಗಿ ತೊಡಗಿಸಿಕೊಳ್ಳುವ ಭಾರತದ ಸ್ವತಂತ್ರ ವಿದೇಶಾಂಗ ನೀತಿ ಮತ್ತು ಸಾಮರ್ಥ್ಯವನ್ನು ಜೈಶಂಕರ್ ಒತ್ತಿ ಹೇಳಿದರು."
-            },
-            "mr": {
-                "title": "भारत केवळ 'मध्यस्थ' नाही, जयशंकर यांचे वक्तव्य",
-                "content": "सर्वपक्षीय बैठकीत परराष्ट्र मंत्री एस. जयशंकर यांनी भारताच्या जागतिक स्थानावर भर दिला, ते म्हणाले की, भारत पाकिस्तानसारखा 'मध्यस्थ देश' नाही. इराणशी संबंधित विवादांमध्ये भारताच्या संभाव्य मध्यस्थी भूमिकेबद्दलच्या अटकळांदरम्यान त्यांचे हे वक्तव्य आले आहे. जयशंकर यांनी भारताच्या स्वतंत्र परराष्ट्र धोरणावर आणि मोठ्या समस्यांवर थेट सहभाग घेण्याच्या क्षमतेवर जोर दिला, केवळ मध्यस्थ असण्याच्या कल्पनेला त्यांनी फेटाळून लावले."
-            },
-            "hi": {
-                "title": "भारत सिर्फ 'बिचौलिया' नहीं, जयशंकर का बयान",
-                "content": "सर्वदलीय बैठक में विदेश मंत्री एस. जयशंकर ने भारत की वैश्विक स्थिति पर जोर देते हुए कहा कि यह पाकिस्तान जैसा 'बिचौलिया देश' नहीं है। उनका यह बयान ईरान से जुड़े विवादों में भारत की संभावित मध्यस्थता भूमिका की अटकलों के बीच आया है। जयशंकर ने भारत की स्वतंत्र विदेश नीति और प्रमुख मुद्दों पर सीधे संलग्न होने की क्षमता पर जोर दिया, केवल एक बिचौलिया होने की धारणा को खारिज किया।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129803440,imgsize-34746.cms",
-        "link": "https://timesofindia.indiatimes.com/india/india-not-go-between-country-like-pakistan-s-jaishankar-at-all-party-meet-amid-iran-mediation-buzz/articleshow/129803425.cms"
-    },
-    {
-        "id": "0eb36200",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Congress Jabs Jaishankar Over 'Broker Nation' Remark",
-                "content": "Congress slammed EAM Jaishankar's 'India isn't a broker nation' remark, recalling PM Modi's past Russia-Ukraine mediation. Accusing the government of 'selective brokering,' the opposition questioned its diplomatic stance and demanded a parliamentary debate on the West Asia crisis, expressing dissatisfaction with its current approach to global conflicts."
-            },
-            "kn": {
-                "title": "ಜೈಶಂಕರ್ ಅವರ 'ದಲಾಲ್ ರಾಷ್ಟ್ರ' ಹೇಳಿಕೆ ಬಗ್ಗೆ ಕಾಂಗ್ರೆಸ್ ಚಾಟಿ ಬೀಸಿದೆ",
-                "content": "ವಿದೇಶಾಂಗ ಸಚಿವ ಜೈಶಂಕರ್ ಅವರ 'ಭಾರತ ದಲಾಲ್ ರಾಷ್ಟ್ರವಲ್ಲ' ಹೇಳಿಕೆಗೆ ಕಾಂಗ್ರೆಸ್ ತೀವ್ರ ಆಕ್ಷೇಪ ವ್ಯಕ್ತಪಡಿಸಿದೆ. ಪ್ರಧಾನಿ ಮೋದಿ ರಷ್ಯಾ-ಉಕ್ರೇನ್ ಮಧ್ಯಸ್ಥಿಕೆ ಪ್ರಯತ್ನಗಳನ್ನು ಸ್ಮರಿಸಿದೆ. ಸರ್ಕಾರವನ್ನು 'ಆಯ್ದ ಮಧ್ಯಸ್ಥಿಕೆ' ಎಂದು ಆರೋಪಿಸಿ, ವಿರೋಧ ಪಕ್ಷ ಅದರ ರಾಜತಾಂತ್ರಿಕ ನಿಲುವನ್ನು ಪ್ರಶ್ನಿಸಿತು. ಪಶ್ಚಿಮ ಏಷ್ಯಾ ಬಿಕ್ಕಟ್ಟಿನ ಕುರಿತು ಸಂಸದೀಯ ಚರ್ಚೆಗೆ ಒತ್ತಾಯಿಸಿ, ಜಾಗತಿಕ ಸಂಘರ್ಷಗಳಿಗೆ ಪ್ರಸ್ತುತ ವಿಧಾನದ ಬಗ್ಗೆ ಅಸಮಾಧಾನ ವ್ಯಕ್ತಪಡಿಸಿತು."
-            },
-            "mr": {
-                "title": "'दलाल राष्ट्र' टीकेवरून काँग्रेसने जयशंकर यांना टोला लगावला",
-                "content": "परराष्ट्र मंत्री जयशंकर यांच्या 'भारत दलाल राष्ट्र नाही' या वक्तव्यावर काँग्रेसने जोरदार टीका केली. त्यांनी पंतप्रधान मोदींच्या रशिया-युक्रेनमधील मध्यस्थीच्या पूर्वीच्या प्रयत्नांची आठवण करून दिली. सरकारवर 'निवडक दलाली'चा आरोप करत, विरोधकांनी त्याच्या राजनैतिक भूमिकेवर प्रश्नचिन्ह उपस्थित केले. पश्चिम आशिया संकटावर संसदीय चर्चेची मागणी करत, जागतिक संघर्षांवरील सरकारच्या सध्याच्या दृष्टिकोनाबद्दल त्यांनी असमाधान व्यक्त केले."
-            },
-            "hi": {
-                "title": "'दलाल राष्ट्र' टिप्पणी पर कांग्रेस का जयशंकर पर वार",
-                "content": "कांग्रेस ने विदेश मंत्री जयशंकर की 'भारत दलाल राष्ट्र नहीं है' टिप्पणी की निंदा की. उसने पीएम मोदी के रूस-यूक्रेन मध्यस्थता के पिछले प्रयासों को याद दिलाया. सरकार पर 'चयनात्मक दलाली' का आरोप लगाते हुए, विपक्ष ने उसकी राजनयिक स्थिति पर सवाल उठाया. पश्चिम एशिया संकट पर संसदीय बहस की मांग करते हुए, उसने वैश्विक संघर्षों के प्रति उसके मौजूदा दृष्टिकोण पर असंतोष व्यक्त किया."
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129806644,imgsize-69442.cms",
-        "link": "https://timesofindia.indiatimes.com/india/desperate-to-mediate-russia-ukraine-congress-takes-selective-brokering-jab-at-jaishankar-over-dalaal-remark/articleshow/129806351.cms"
-    },
-    {
-        "id": "0f64dbc3",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Victim's Mother Contests Bengal Polls Seeking Justice",
-                "content": "Ratna Debnath, mother of the RG Kar Medical College rape and murder victim, has secured a BJP ticket for the West Bengal Assembly elections from Panihati. Her decision to contest aims to achieve justice for her daughter and advocate for broader women's safety. This move by the BJP has ignited discussions among activists, framing the election as a battle for accountability and protection."
-            },
-            "kn": {
-                "title": "ನ್ಯಾಯಕ್ಕಾಗಿ ಬಂಗಾಳ ಚುನಾವಣೆಗೆ ಇಳಿದ ಸಂತ್ರಸ್ತೆಯ ತಾಯಿ",
-                "content": "ಆರ್‌ಜಿ ಕಾರ್ ವೈದ್ಯಕೀಯ ಕಾಲೇಜು ಅತ್ಯಾಚಾರ ಮತ್ತು ಕೊಲೆ ಪ್ರಕರಣದ ಸಂತ್ರಸ್ತೆಯ ತಾಯಿ ರತ್ನ ದೇಬನಾಥ್ ಅವರು ಪಾಣಿಹಾಟಿ ಕ್ಷೇತ್ರದಿಂದ ಪಶ್ಚಿಮ ಬಂಗಾಳ ವಿಧಾನಸಭಾ ಚುನಾವಣೆಗೆ ಬಿಜೆಪಿ ಟಿಕೆಟ್ ಪಡೆದಿದ್ದಾರೆ. ತಮ್ಮ ಮಗಳಿಗೆ ನ್ಯಾಯ ಒದಗಿಸಲು ಮತ್ತು ಮಹಿಳೆಯರ ಸುರಕ್ಷತೆಗಾಗಿ ಹೋರಾಡಲು ಅವರ ಈ ನಿರ್ಧಾರ. ಬಿಜೆಪಿಯ ಈ ನಡೆ ಕಾರ್ಯಕರ್ತರ ನಡುವೆ ಚರ್ಚೆಯನ್ನು ಹುಟ್ಟುಹಾಕಿದ್ದು, ಚುನಾವಣೆಯನ್ನು ಹೊಣೆಗಾರಿಕೆ ಮತ್ತು ರಕ್ಷಣೆಯ ಯುದ್ಧವನ್ನಾಗಿ ರೂಪಿಸಿದೆ."
-            },
-            "mr": {
-                "title": "न्यायासाठी बंगाळ निवडणुकीत पीडितेच्या आईचा सहभाग",
-                "content": "आरजी कार मेडिकल कॉलेज बलात्कार आणि हत्या पीडित मुलीची आई रत्ना देबनाथ यांना पश्चिम बंगाल विधानसभा निवडणुकीसाठी पाणिहाटीतून भाजपचे तिकीट मिळाले आहे. आपल्या मुलीसाठी न्याय मिळवण्यासाठी आणि व्यापक महिला सुरक्षेसाठी लढण्याचा त्यांचा निर्णय आहे. भाजपच्या या पावलामुळे कार्यकर्त्यांमध्ये चर्चा सुरू झाली आहे, ज्यामध्ये निवडणूक ही जबाबदारी आणि संरक्षणाची लढाई म्हणून पाहिली जात आहे."
-            },
-            "hi": {
-                "title": "न्याय की खातिर बंगाल चुनाव लड़ेंगी पीड़िता की माँ",
-                "content": "आरजी कार मेडिकल कॉलेज बलात्कार और हत्या पीड़िता की माँ रत्ना देबनाथ को पानीहाटी से पश्चिम बंगाल विधानसभा चुनाव के लिए भाजपा का टिकट मिला है। चुनाव लड़ने का उनका निर्णय अपनी बेटी के लिए न्याय प्राप्त करने और व्यापक महिला सुरक्षा की वकालत करने के उद्देश्य से है। भाजपा के इस कदम ने कार्यकर्ताओं के बीच बहस छेड़ दी है, जो चुनाव को जवाबदेही और सुरक्षा की लड़ाई के रूप में देख रहे हैं।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129805773,imgsize-153514.cms",
-        "link": "https://timesofindia.indiatimes.com/india/west-bengal-polls-rg-kar-victims-mother-ratna-debnath-gets-bjp-ticket-from-panihati/articleshow/129804969.cms"
-    },
-    {
-        "id": "fd8a03a1",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Reports Affirm India's Rise as Global AI Hub",
-                "content": "New reports by Indiaspora and Zinnov affirm India's burgeoning role as a global AI hub. They detail AI's transformative impact on startups and Global Capability Centers (GCCs), driving innovation and compelling GCCs to evolve from execution to co-creation. India's unique advantages are crucial in navigating this AI-powered shift, preventing displacement."
-            },
-            "kn": {
-                "title": "ಜಾಗತಿಕ AI ಕೇಂದ್ರವಾಗಿ ಭಾರತದ ಉನ್ನತಿ: ವರದಿಗಳು ದೃಢಪಡಿಸುತ್ತವೆ",
-                "content": "ಇಂಡಿಯಾಸ್ಪೋರಾ ಮತ್ತು ಜಿನ್ನೋವ್‌ನ ಹೊಸ ವರದಿಗಳು ಭಾರತವು ಜಾಗತಿಕ AI ಕೇಂದ್ರವಾಗಿ ಬೆಳೆಯುತ್ತಿರುವ ಪಾತ್ರವನ್ನು ದೃಢಪಡಿಸುತ್ತವೆ. ಅವು AI ಸ್ಟಾರ್ಟ್‌ಅಪ್‌ಗಳು ಮತ್ತು ಗ್ಲೋಬಲ್ ಕ್ಯಾಪಬಿಲಿಟಿ ಸೆಂಟರ್‌ಗಳ (GCCs) ಮೇಲೆ ಬೀರುವ ಪರಿವರ್ತಕ ಪರಿಣಾಮವನ್ನು ವಿವರಿಸುತ್ತವೆ, ನಾವೀನ್ಯತೆಯನ್ನು ಪ್ರೇರೇಪಿಸುತ್ತವೆ ಮತ್ತು GCC ಗಳನ್ನು ಕಾರ್ಯಗತಗೊಳಿಸುವುದರಿಂದ ಸಹ-ರಚನೆಗೆ ವಿಕಸಿಸಲು ಒತ್ತಾಯಿಸುತ್ತವೆ. ಈ AI-ಚಾಲಿತ ಬದಲಾವಣೆಯನ್ನು ನ್ಯಾವಿಗೇಟ್ ಮಾಡಲು, ಸ್ಥಳಾಂತರವನ್ನು ತಡೆಗಟ್ಟಲು ಭಾರತದ ವಿಶಿಷ್ಟ ಅನುಕೂಲಗಳು ನಿರ್ಣಾಯಕವಾಗಿವೆ."
-            },
-            "mr": {
-                "title": "भारताचा जागतिक AI केंद्र म्हणून उदय: अहवाल पुष्टी करतात",
-                "content": "इंडिआस्पोरा आणि झिन्नोव्हच्या नवीन अहवालांनी भारताची जागतिक AI केंद्र म्हणून वाढती भूमिका निश्चित केली आहे. ते स्टार्टअप्स आणि ग्लोबल कॅपॅबिलिटी सेंटर्स (GCCs) वर AI च्या परिवर्तनात्मक परिणामाचे तपशील देतात, ज्यामुळे नवोपक्रम वाढतो आणि GCCs ना केवळ अंमलबजावणीऐवजी सह-निर्मितीकडे वळण्यास भाग पाडते. या AI-शक्तीशाली बदलामध्ये, विस्थापन टाळण्यासाठी भारताचे अद्वितीय फायदे महत्त्वाचे आहेत."
-            },
-            "hi": {
-                "title": "भारत का वैश्विक AI हब के रूप में उदय: रिपोर्टों की पुष्टि",
-                "content": "इंडियास्पोरा और ज़िन्नोव की नई रिपोर्टें भारत की वैश्विक AI हब के रूप में बढ़ती भूमिका की पुष्टि करती हैं। वे स्टार्टअप्स और ग्लोबल कैपेबिलिटी सेंटर्स (GCCs) पर AI के परिवर्तनकारी प्रभाव का विस्तार से वर्णन करती हैं, नवाचार को बढ़ावा देती हैं और GCCs को निष्पादन से सह-निर्माण की ओर विकसित होने के लिए मजबूर करती हैं। इस AI-संचालित बदलाव में, विस्थापन को रोकने के लिए भारत के अद्वितीय लाभ महत्वपूर्ण हैं।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129805076,imgsize-25468.cms",
-        "link": "https://timesofindia.indiatimes.com/india/indiaspora-and-zinnov-release-reports-on-indias-ai-start-ups-and-gccs/articleshow/129804287.cms"
-    },
-    {
-        "id": "d64fc086",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Kerala CM Slams 'Misogynistic' Remark on MLA; Legal Action Planned",
-                "content": "Kerala CM Pinarayi Vijayan strongly condemned UDF leader A Irshad's \"beauty\" remark about MLA U Prathibha, calling it \"misogynistic and insulting.\" Vijayan stated it insulted all women in public life. Prathibha plans legal action, asserting the comments aimed to discourage women. The UDF candidate has distanced himself from the controversial statement."
-            },
-            "kn": {
-                "title": "ಕೇರಳ ಸಿಎಂ ಶಾಸಕಿ ಬಗ್ಗೆ 'ದ್ವೇಷಪೂರಿತ' ಹೇಳಿಕೆಯನ್ನು ಖಂಡಿಸಿದರು; ಕಾನೂನು ಕ್ರಮಕ್ಕೆ ಸಿದ್ಧತೆ",
-                "content": "ಕೇರಳ ಸಿಎಂ ಪಿಣರಾಯಿ ವಿಜಯನ್, ಯುಡಿಎಫ್ ನಾಯಕ ಎ. ಇರ್ಷಾದ್ ಅವರ ಶಾಸಕಿ ಯು. ಪ್ರತಿಭಾ ಕುರಿತ \"ಸೌಂದರ್ಯ\" ಟೀಕೆಯನ್ನು \"ದ್ವೇಷಪೂರಿತ ಮತ್ತು ಅವಮಾನಕರ\" ಎಂದು ತೀವ್ರವಾಗಿ ಖಂಡಿಸಿದರು. ಸಾರ್ವಜನಿಕ ಜೀವನದಲ್ಲಿ ಮಹಿಳೆಯರಿಗೆ ಇದು ಅವಮಾನ ಎಂದರು. ಪ್ರತಿಭಾ ಕಾನೂನು ಕ್ರಮಕ್ಕೆ ಸಿದ್ಧರಾಗಿದ್ದು, ಹೇಳಿಕೆಗಳು ಮಹಿಳೆಯರನ್ನು ನಿರುತ್ಸಾಹಗೊಳಿಸುವ ಉದ್ದೇಶ ಹೊಂದಿವೆ. ಯುಡಿಎಫ್ ಅಭ್ಯರ್ಥಿ ವಿವಾದಾತ್ಮಕ ಹೇಳಿಕೆಯಿಂದ ದೂರವಿದ್ದಾರೆ."
-            },
-            "mr": {
-                "title": "केरळच्या मुख्यमंत्र्यांनी आमदारावरील 'स्त्रीद्वेषी' टिप्पणीवर टीका केली; कायदेशीर कारवाईची योजना",
-                "content": "केरळचे मुख्यमंत्री पिनराई विजयन यांनी यूडीएफ नेते ए. इरशाद यांच्या आमदार यू. प्रतिभा यांच्यावरील \"सौंदर्या\"च्या टिप्पणीचा \"स्त्रीद्वेषी आणि अपमानकारक\" म्हणून तीव्र निषेध केला. यामुळे सार्वजनिक जीवनातील महिलांचा अपमान झाला, असे विजयन म्हणाले. प्रतिभा कायदेशीर कारवाई करणार आहेत, कारण टिप्पण्यांचा उद्देश महिलांना निरुत्साहित करणे हा होता. यूडीएफ उमेदवाराने वादग्रस्त विधानापासून स्वतःला दूर ठेवले आहे."
-            },
-            "hi": {
-                "title": "केरल सीएम ने विधायक पर 'स्त्रीद्वेषी' टिप्पणी की निंदा की; कानूनी कार्रवाई की योजना",
-                "content": "केरल के सीएम पिनाराई विजयन ने यूडीएफ नेता ए. इरशाद की विधायक यू. प्रतिभा पर की गई \"सुंदरता\" टिप्पणी को \"स्त्रीद्वेषी और अपमानजनक\" बताते हुए कड़ी निंदा की. विजयन ने कहा कि यह सार्वजनिक जीवन की सभी महिलाओं का अपमान है. प्रतिभा कानूनी कार्रवाई की योजना बना रही हैं, उनका दावा है कि टिप्पणियों का उद्देश्य महिलाओं को हतोत्साहित करना था. यूडीएफ उम्मीदवार ने विवादास्पद बयान से खुद को दूर कर लिया है."
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129805649,imgsize-25140.cms",
-        "link": "https://timesofindia.indiatimes.com/india/misogynistic-and-insulting-keralam-cm-pinarayi-vijayan-slams-udf-leader-a-irshads-beauty-remark-on-mla-pratibha/articleshow/129805488.cms"
-    },
-    {
-        "id": "96b1c18a",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "Iran Rejects US Peace Plan, Demands Own Terms",
-                "content": "Iran has rejected the US' 15-point de-escalation proposal, firmly stating \"Trump will not dictate\" the war's end. Tehran insists on concluding the conflict on its own terms, presenting five counter-demands. These include halting attacks, guarantees against future wars, war damage compensation, ending regional hostilities, and sovereignty over the Strait of Hormuz, rejecting external timelines for peace."
-            },
-            "kn": {
-                "title": "ಇರಾನ್ ಯುಎಸ್ ಶಾಂತಿ ಯೋಜನೆ ತಿರಸ್ಕರಿಸಿದೆ, ತನ್ನದೇ ಷರತ್ತುಗಳನ್ನು ಮುಂದಿಟ್ಟಿದೆ",
-                "content": "ಇರಾನ್ ಯುಎಸ್‌ನ 15-ಸೂತ್ರಗಳ ಉದ್ವಿಗ್ನತೆ ಕಡಿಮೆಗೊಳಿಸುವ ಪ್ರಸ್ತಾವನೆಯನ್ನು ತಿರಸ್ಕರಿಸಿದೆ, \"ಟ್ರಂಪ್ ಯುದ್ಧದ ಅಂತ್ಯವನ್ನು ನಿರ್ಧರಿಸುವುದಿಲ್ಲ\" ಎಂದು ಸ್ಪಷ್ಟಪಡಿಸಿದೆ. ಟೆಹ್ರಾನ್ ತನ್ನದೇ ಆದ ಐದು ಪ್ರತಿದಾಳಿಗಳನ್ನು ಮುಂದಿಟ್ಟು, ತನ್ನದೇ ಆದ ನಿಯಮಗಳ ಮೇಲೆ ಸಂಘರ್ಷವನ್ನು ಕೊನೆಗೊಳಿಸಲು ಒತ್ತಾಯಿಸಿದೆ. ಇವುಗಳಲ್ಲಿ ದಾಳಿಗಳನ್ನು ನಿಲ್ಲಿಸುವುದು, ಭವಿಷ್ಯದ ಯುದ್ಧಗಳ ವಿರುದ್ಧ ಖಾತರಿಗಳು, ಯುದ್ಧದ ಹಾನಿ ಪರಿಹಾರ, ಪ್ರಾದೇಶಿಕ ಹಗೆತನಗಳ ಅಂತ್ಯ ಮತ್ತು ಹೋರ್ಮುಜ್ ಜಲಸಂಧಿಯ ಮೇಲೆ ಸಾರ್ವಭೌಮತ್ವ ಸೇರಿವೆ, ಶಾಂತಿಗಾಗಿ ಬಾಹ್ಯ ಸಮಯಾವಧಿಗಳನ್ನು ತಿರಸ್ಕರಿಸಿದೆ."
-            },
-            "mr": {
-                "title": "इराणने अमेरिकेचा शांतता प्रस्ताव फेटाळला, स्वतःच्या अटी ठेवल्या",
-                "content": "इराणने अमेरिकेच्या 15-कलमी तणाव कमी करण्याच्या प्रस्तावाला फेटाळून लावले आहे, ठामपणे म्हटले आहे की \"ट्रम्प युद्धाचा अंत ठरवणार नाहीत.\" तेहरान आपल्या स्वतःच्या अटींवर संघर्ष संपवण्याचा आग्रह धरत आहे आणि पाच प्रति-मागण्या सादर केल्या आहेत. यामध्ये हल्ले थांबवणे, भविष्यातील युद्धांविरुद्ध हमी, युद्धाच्या नुकसानीची भरपाई, प्रादेशिक शत्रुत्व संपुष्टात आणणे आणि होर्मुझच्या सामुद्रधुनीवरील सार्वभौमत्व यांचा समावेश आहे, शांततेसाठी बाह्य वेळापत्रक फेटाळले आहे."
-            },
-            "hi": {
-                "title": "ईरान ने अमेरिकी शांति योजना ठुकराई, अपनी शर्तें रखीं",
-                "content": "ईरान ने अमेरिका के 15-सूत्रीय तनाव-कम करने वाले प्रस्ताव को खारिज कर दिया है, दृढ़ता से कहा है कि \"ट्रंप युद्ध का अंत तय नहीं करेंगे।\" तेहरान अपने स्वयं के शर्तों पर संघर्ष समाप्त करने पर जोर दे रहा है, और पांच जवाबी मांगें पेश की हैं। इनमें हमलों को रोकना, भविष्य के युद्धों के खिलाफ गारंटी, युद्ध क्षतिपूर्ति, क्षेत्रीय शत्रुता का अंत और होर्मुज़ जलडमरूमध्य पर संप्रभुता शामिल है, शांति के लिए बाहरी समयसीमा को अस्वीकार करते हुए।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129805460,imgsize-1385032.cms",
-        "link": "https://timesofindia.indiatimes.com/world/middle-east/trump-will-not-dictate-end-of-war-iran-rejects-us-15-point-plan-counters-with-its-own-5-demands/articleshow/129804889.cms"
-    },
-    {
-        "id": "b2ebb3a9",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "EC Hikes Pay for Poll Officials Ahead of 5-State Elections",
-                "content": "The Election Commission has announced a significant hike in remuneration for polling officials ahead of the upcoming assembly elections in five states. This move aims to recognize their vital role and ensure smooth conduct of democratic processes. Officials from presiding officers to polling personnel will see increased daily allowances, motivating them for election duties."
-            },
-            "kn": {
-                "title": "EC 5 ರಾಜ್ಯಗಳ ಚುನಾವಣೆಗೂ ಮುನ್ನ ಮತಗಟ್ಟೆ ಅಧಿಕಾರಿಗಳ ವೇತನ ಹೆಚ್ಚಳ",
-                "content": "ಚುನಾವಣಾ ಆಯೋಗವು ಐದು ರಾಜ್ಯಗಳಲ್ಲಿ ನಡೆಯಲಿರುವ ವಿಧಾನಸಭಾ ಚುನಾವಣೆಗೂ ಮುನ್ನ ಮತದಾನ ಅಧಿಕಾರಿಗಳಿಗೆ ನೀಡುವ ಸಂಭಾವನೆಯನ್ನು ಗಣನೀಯವಾಗಿ ಹೆಚ್ಚಿಸಿದೆ. ಈ ಕ್ರಮವು ಅವರ ಮಹತ್ವದ ಪಾತ್ರವನ್ನು ಗುರುತಿಸುವ ಮತ್ತು ಪ್ರಜಾಪ್ರಭುತ್ವ ಪ್ರಕ್ರಿಯೆಗಳ ಸುಗಮ ನಿರ್ವಹಣೆಯನ್ನು ಖಚಿತಪಡಿಸುವ ಗುರಿಯನ್ನು ಹೊಂದಿದೆ. ಅಧ್ಯಕ್ಷ ಅಧಿಕಾರಿಗಳಿಂದ ಹಿಡಿದು ಮತಗಟ್ಟೆ ಸಿಬ್ಬಂದಿಯವರೆಗಿನ ಅಧಿಕಾರಿಗಳು ಹೆಚ್ಚಿದ ದೈನಂದಿನ ಭತ್ಯೆಗಳನ್ನು ಪಡೆಯಲಿದ್ದಾರೆ, ಇದು ಚುನಾವಣಾ ಕರ್ತವ್ಯಗಳಿಗೆ ಅವರನ್ನು ಪ್ರೇರೇಪಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "5 राज्यांतील निवडणुकांपूर्वी निवडणूक आयोगाने मतदान अधिकाऱ्यांचे मानधन वाढवले",
-                "content": "निवडणूक आयोगाने आगामी पाच राज्यांतील विधानसभा निवडणुकांपूर्वी मतदान अधिकाऱ्यांच्या मानधनात लक्षणीय वाढ केली आहे. या निर्णयाचा उद्देश त्यांच्या महत्त्वाच्या भूमिकेची दखल घेणे आणि लोकशाही प्रक्रिया सुरळीत पार पडेल याची खात्री करणे आहे. पीठासीन अधिकारी ते मतदान कर्मचारी यांच्यापर्यंतच्या अधिकाऱ्यांना वाढीव दैनिक भत्ते मिळतील, ज्यामुळे त्यांना निवडणूक कर्तव्यासाठी प्रोत्साहन मिळेल."
-            },
-            "hi": {
-                "title": "EC ने 5 राज्यों के चुनावों से पहले मतदान अधिकारियों का वेतन बढ़ाया",
-                "content": "चुनाव आयोग ने आगामी पांच राज्यों में विधानसभा चुनावों से पहले मतदान अधिकारियों के पारिश्रमिक में उल्लेखनीय वृद्धि की घोषणा की है। इस कदम का उद्देश्य उनकी महत्वपूर्ण भूमिका को पहचानना और लोकतांत्रिक प्रक्रियाओं का सुचारू संचालन सुनिश्चित करना है। पीठासीन अधिकारियों से लेकर मतदान कर्मियों तक के अधिकारियों को बढ़े हुए दैनिक भत्ते मिलेंगे, जिससे उन्हें चुनावी कर्तव्यों के लिए प्रोत्साहन मिलेगा।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129803920,imgsize-247124.cms",
-        "link": "https://timesofindia.indiatimes.com/india/ec-hikes-remuneration-for-poll-officials-ahead-of-assembly-elections-in-5-states/articleshow/129803781.cms"
-    },
-    {
-        "id": "96d9b794",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Assam 2026: Sarma vs. Gogoi Battle Heats Up",
-                "content": "Assam's 2026 assembly election is heating up, with BJP aiming for a solo majority against a resurgent Congress. The contest pits Himanta Sarma against Gaurav Gogoi, focusing on issues like identity, infiltration, and development. Post-delimitation changes add complexity to this defining electoral battle. Will Sarma retain power or will Gogoi shift the tide?"
-            },
-            "kn": {
-                "title": "ಅಸ್ಸಾಂ 2026: ಶರ್ಮಾ ವಿರುದ್ಧ ಗೋಗೋಯ್ ಕದನ ತೀವ್ರಗೊಂಡಿದೆ",
-                "content": "ಅಸ್ಸಾಂನ 2026ರ ವಿಧಾನಸಭಾ ಚುನಾವಣೆ ಬಿಸಿ ಏರಿದೆ, ಬಿಜೆಪಿ ಮರು-ಉತ್ಸಾಹದ ಕಾಂಗ್ರೆಸ್ ವಿರುದ್ಧ ಏಕೈಕ ಬಹುಮತ ಸಾಧಿಸುವ ಗುರಿಯಲ್ಲಿದೆ. ಈ ಸ್ಪರ್ಧೆಯು ಹಿಮಂತ ಶರ್ಮಾ ಅವರನ್ನು ಗೌರವ್ ಗೋಗೋಯ್ ವಿರುದ್ಧ ನಿಲ್ಲಿಸಿದೆ, ಗುರುತು, ಒಳನುಸುಳುವಿಕೆ ಮತ್ತು ಅಭಿವೃದ್ಧಿಯಂತಹ ವಿಷಯಗಳ ಮೇಲೆ ಕೇಂದ್ರೀಕರಿಸುತ್ತದೆ. ಸೀಮಾ ನಿರ್ಣಯದ ನಂತರದ ಬದಲಾವಣೆಗಳು ಈ ನಿರ್ಣಾಯಕ ಚುನಾವಣಾ ಕದನಕ್ಕೆ ಸಂಕೀರ್ಣತೆಯನ್ನು ಹೆಚ್ಚಿಸುತ್ತವೆ. ಶರ್ಮಾ ಅಧಿಕಾರ ಉಳಿಸಿಕೊಳ್ಳುತ್ತಾರೋ ಅಥವಾ ಗೋಗೋಯ್ ಅಲೆ ಬದಲಿಸುತ್ತಾರೋ?"
-            },
-            "mr": {
-                "title": "आसाम 2026: सरमा विरुद्ध गोगोई युद्ध तीव्र झाले आहे",
-                "content": "आसाममधील 2026 च्या विधानसभा निवडणुका तापू लागल्या आहेत, भाजप पुन्हा मजबूत झालेल्या काँग्रेसविरुद्ध एकट्याच्या बळावर बहुमत मिळवण्याचे लक्ष्य ठेवत आहे. या लढतीत हिमंता सरमा यांच्या विरोधात गौरव गोगोई उभे आहेत, ज्यात ओळख, घुसखोरी आणि विकासासारख्या मुद्द्यांवर लक्ष केंद्रित केले जात आहे. सीमांकनानंतरचे बदल या महत्त्वपूर्ण निवडणूक लढाईला आणखी गुंतागुंतीचे करतात. सरमा सत्ता राखतील की गोगोई परिस्थिती बदलतील?"
-            },
-            "hi": {
-                "title": "असम 2026: सरमा बनाम गोगोई की लड़ाई तेज",
-                "content": "असम की 2026 विधानसभा चुनाव की सरगर्मी तेज हो गई है, जिसमें भाजपा एक मजबूत कांग्रेस के खिलाफ अकेले बहुमत का लक्ष्य बना रही है। इस मुकाबले में हिमंता सरमा का सामना गौरव गोगोई से होगा, जिसमें पहचान, घुसपैठ और विकास जैसे मुद्दे केंद्र में हैं। परिसीमन के बाद के बदलाव इस निर्णायक चुनावी लड़ाई को और जटिल बनाते हैं। क्या सरमा सत्ता बरकरार रख पाएंगे या गोगोई लहर बदल देंगे?"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129803423,imgsize-104654.cms",
-        "link": "https://timesofindia.indiatimes.com/india/assam-assembly-election-2026-swot-analysis-can-himanta-sarma-retain-power-or-will-gaurav-gogois-debut-shift-the-tide-bpf-agp-ajp-cpm-aiudf-bjp-congress-raijor-dal/articleshow/129797273.cms"
-    },
-    {
-        "id": "dc746c23",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Kerala 2026 Polls: Close Contests & Key Shifts Expected",
-                "content": "Kerala's 2026 Assembly elections are set for tight contests, reflecting the 2021 polls' narrow victory margins and fragmented vote shares. While NOTA remains a factor, recent local body elections suggest potential micro-level swings. Parties must focus on strengthening their presence in hotly contested constituencies, where small shifts could determine outcomes, making every vote crucial."
-            },
-            "kn": {
-                "title": "ಕೇರಳ 2026 ಚುನಾವಣೆ: ತೀವ್ರ ಪೈಪೋಟಿ ಮತ್ತು ಪ್ರಮುಖ ಬದಲಾವಣೆಗಳ ನಿರೀಕ್ಷೆ",
-                "content": "ಕೇರಳದ 2026ರ ವಿಧಾನಸಭಾ ಚುನಾವಣೆಗಳು ತೀವ್ರ ಪೈಪೋಟಿಗೆ ಸಿದ್ಧವಾಗಿವೆ, ಇದು 2021ರ ಚುನಾವಣೆಯ ಸಣ್ಣ ಗೆಲುವಿನ ಅಂತರಗಳು ಮತ್ತು ವಿಭಜಿತ ಮತ ಹಂಚಿಕೆಯನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ. ನೋಟಾ ಒಂದು ಅಂಶವಾಗಿ ಉಳಿದಿದ್ದರೂ, ಇತ್ತೀಚಿನ ಸ್ಥಳೀಯ ಸಂಸ್ಥೆಗಳ ಚುನಾವಣೆಗಳು ಸಂಭಾವ್ಯ ಸೂಕ್ಷ್ಮ ಮಟ್ಟದ ಬದಲಾವಣೆಗಳನ್ನು ಸೂಚಿಸುತ್ತವೆ. ಪಕ್ಷಗಳು ತೀವ್ರವಾಗಿ ಸ್ಪರ್ಧಿಸುವ ಕ್ಷೇತ್ರಗಳಲ್ಲಿ ತಮ್ಮ ಉಪಸ್ಥಿತಿಯನ್ನು ಬಲಪಡಿಸುವತ್ತ ಗಮನಹರಿಸಬೇಕು, ಅಲ್ಲಿ ಸಣ್ಣ ಬದಲಾವಣೆಗಳು ಫಲಿತಾಂಶಗಳನ್ನು ನಿರ್ಧರಿಸಬಹುದು, ಪ್ರತಿಯೊಂದು ಮತವೂ ನಿರ್ಣಾಯಕವಾಗಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "केरळ 2026 निवडणुका: चुरशीच्या लढती आणि महत्त्वाचे बदल अपेक्षित",
-                "content": "केरळमधील 2026 च्या विधानसभा निवडणुका चुरशीच्या लढतींसाठी सज्ज आहेत, ज्यात 2021 च्या निवडणुकांमधील कमी मताधिक्याने विजय आणि विभाजित मतांचा वाटा दिसून येतो. नोटा एक घटक असला तरी, अलीकडील स्थानिक स्वराज्य संस्थांच्या निवडणुका संभाव्य सूक्ष्म-स्तरीय बदलांची सूचना देतात. पक्षांनी जोरदार स्पर्धा असलेल्या मतदारसंघांमध्ये आपली उपस्थिती मजबूत करण्यावर लक्ष केंद्रित केले पाहिजे, जिथे छोटे बदलही निकाल ठरवू शकतात, त्यामुळे प्रत्येक मत महत्त्वाचे ठरते."
-            },
-            "hi": {
-                "title": "केरल 2026 चुनाव: करीबी मुकाबले और अहम बदलाव की उम्मीद",
-                "content": "केरल के 2026 विधानसभा चुनाव करीबी मुकाबलों के लिए तैयार हैं, जो 2021 के चुनावों में मामूली जीत के अंतर और खंडित मत प्रतिशत को दर्शाते हैं। जबकि नोटा एक कारक बना हुआ है, हाल के स्थानीय निकाय चुनाव संभावित सूक्ष्म-स्तरीय बदलावों का संकेत देते हैं। पार्टियों को कड़ी टक्कर वाले निर्वाचन क्षेत्रों में अपनी उपस्थिति मजबूत करने पर ध्यान देना चाहिए, जहां छोटे बदलाव भी परिणाम तय कर सकते हैं, जिससे हर वोट महत्वपूर्ण हो जाता है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129798661,imgsize-579870.cms",
-        "link": "https://timesofindia.indiatimes.com/india/kerala-polls-2026-from-thin-margin-wins-to-increasing-nota-what-last-elections-vote-share-reveal/articleshow/129797481.cms"
-    },
-    {
-        "id": "47fb5be2",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Evening News Wrap: Iran Ship Incident, Gas Pipeline Mandate",
-                "content": "Iran reportedly turned back a Pakistan-bound ship from the Strait of Hormuz, sparking regional interest. Concurrently, the Indian government has mandated a crucial shift to gas pipelines for various sectors, aiming to increase natural gas consumption and curb pollution. This move signifies a major push towards cleaner energy. Stay updated with these and other top evening developments."
-            },
-            "kn": {
-                "title": "ಸಂಜೆಯ ಸುದ್ದಿಸಾರಾಂಶ: ಇರಾನ್ ಹಡಗು ಘಟನೆ, ಗ್ಯಾಸ್ ಪೈಪ್‌ಲೈನ್ ಆದೇಶ",
-                "content": "ಇರಾನ್ ಹಾರ್ಮುಜ್ ಜಲಸಂಧಿಯಿಂದ ಪಾಕಿಸ್ತಾನಕ್ಕೆ ಹೊರಟಿದ್ದ ಹಡಗನ್ನು ಹಿಂತಿರುಗಿಸಿದೆ ಎಂದು ವರದಿಯಾಗಿದೆ, ಇದು ಪ್ರಾದೇಶಿಕ ಗಮನ ಸೆಳೆದಿದೆ. ಇದೇ ವೇಳೆ, ಭಾರತ ಸರ್ಕಾರವು ನೈಸರ್ಗಿಕ ಅನಿಲ ಬಳಕೆಯನ್ನು ಹೆಚ್ಚಿಸಲು ಮತ್ತು ಮಾಲಿನ್ಯವನ್ನು ಕಡಿಮೆ ಮಾಡಲು ವಿವಿಧ ಕ್ಷೇತ್ರಗಳಿಗೆ ಗ್ಯಾಸ್ ಪೈಪ್‌ಲೈನ್‌ಗಳಿಗೆ ಕಡ್ಡಾಯವಾಗಿ ಬದಲಾಗಲು ಆದೇಶಿಸಿದೆ. ಇದು ಶುದ್ಧ ಇಂಧನದತ್ತ ಪ್ರಮುಖ ಹೆಜ್ಜೆಯಾಗಿದೆ. ಈ ಮತ್ತು ಇತರ ಪ್ರಮುಖ ಸಂಜೆಯ ಬೆಳವಣಣಿಗಳೊಂದಿಗೆ ನವೀಕೃತವಾಗಿರಿ."
-            },
-            "mr": {
-                "title": "सायंकाळच्या बातम्या: इराण जहाज घटना, गॅस पाइपलाइन आदेश",
-                "content": "इराणने होर्मुझच्या सामुद्रधुनीतून पाकिस्तानला जाणारे एक जहाज परत पाठवल्याची बातमी आहे, ज्यामुळे प्रादेशिक लक्ष वेधले आहे. त्याचवेळी, भारत सरकारने नैसर्गिक वायूचा वापर वाढवण्यासाठी आणि प्रदूषण कमी करण्यासाठी विविध क्षेत्रांना गॅस पाइपलाइनकडे वळणे अनिवार्य केले आहे. हे स्वच्छ ऊर्जेच्या दिशेने एक मोठे पाऊल आहे. या आणि इतर महत्त्वाच्या सायंकाळच्या घडामोडींसह अद्ययावत रहा."
-            },
-            "hi": {
-                "title": "शाम की खबरें: ईरान जहाज घटना, गैस पाइपलाइन जनादेश",
-                "content": "ईरान ने कथित तौर पर होर्मुज जलडमरूमध्य से पाकिस्तान जा रहे एक जहाज को वापस मोड़ दिया, जिससे क्षेत्रीय रुचि जगी है। साथ ही, भारत सरकार ने प्राकृतिक गैस के उपयोग को बढ़ावा देने और प्रदूषण को कम करने के उद्देश्य से विभिन्न क्षेत्रों के लिए गैस पाइपलाइनों में बदलाव अनिवार्य कर दिया है। यह कदम स्वच्छ ऊर्जा की दिशा में एक बड़ा धक्का है। इन और अन्य प्रमुख शाम के घटनाक्रमों से अपडेट रहें।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129800751,imgsize-76576.cms",
-        "link": "https://timesofindia.indiatimes.com/india/evening-news-wrap-iran-turns-back-pakistan-bound-ship-from-hormuz-govt-mandates-shifting-to-gas-pipeline-more/articleshow/129800579.cms"
-    },
-    {
-        "id": "9ec5ea8f",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Gujarat Adopts UCC: Second State to Unify Personal Laws",
-                "content": "Gujarat has passed its Uniform Civil Code (UCC) Bill, 2026, becoming the second Indian state to adopt a unified law for marriage, divorce, and inheritance. Union Home Minister Amit Shah called it a 'historic step' for equality. Chief Minister Bhupendra Patel stated the UCC will ensure equal rights and dignity for women across all communities, promoting legal uniformity."
-            },
-            "kn": {
-                "title": "ಗುಜರಾತ್ UCC ಅಳವಡಿಕೆ: ವೈಯಕ್ತಿಕ ಕಾನೂನುಗಳನ್ನು ಏಕೀಕರಿಸಿದ ಎರಡನೇ ರಾಜ್ಯ",
-                "content": "ಗುಜರಾತ್ ತನ್ನ ಏಕರೂಪ ನಾಗರಿಕ ಸಂಹಿತೆ (UCC) ಮಸೂದೆ, 2026 ಅನ್ನು ಅಂಗೀಕರಿಸಿದೆ. ಇದು ಮದುವೆ, ವಿಚ್ಛೇದನ ಮತ್ತು ಉತ್ತರಾಧಿಕಾರಕ್ಕಾಗಿ ಏಕೀಕೃತ ಕಾನೂನನ್ನು ಅಳವಡಿಸಿಕೊಂಡ ಎರಡನೇ ಭಾರತೀಯ ರಾಜ್ಯವಾಗಿದೆ. ಕೇಂದ್ರ ಗೃಹ ಸಚಿವ ಅಮಿತ್ ಶಾ ಇದನ್ನು ಸಮಾನತೆಗಾಗಿ 'ಐತಿಹಾಸಿಕ ಹೆಜ್ಜೆ' ಎಂದು ಕರೆದರು. ಮುಖ್ಯಮಂತ್ರಿ ಭೂಪೇಂದ್ರ ಪಟೇಲ್, UCC ಎಲ್ಲಾ ಸಮುದಾಯಗಳ ಮಹಿಳೆಯರಿಗೆ ಸಮಾನ ಹಕ್ಕುಗಳು ಮತ್ತು ಘನತೆಯನ್ನು ಖಚಿತಪಡಿಸುತ್ತದೆ, ಕಾನೂನು ಏಕರೂಪತೆಯನ್ನು ಉತ್ತೇಜಿಸುತ್ತದೆ ಎಂದು ತಿಳಿಸಿದರು."
-            },
-            "mr": {
-                "title": "गुजरातमध्ये UCC लागू: वैयक्तिक कायद्यांना एकत्रित करणारे दुसरे राज्य",
-                "content": "गुजरातने आपले समान नागरी संहिता (UCC) विधेयक, 2026 मंजूर केले आहे, ज्यामुळे ते विवाह, घटस्फोट आणि वारसा हक्कांसाठी एकसमान कायदा स्वीकारणारे दुसरे भारतीय राज्य बनले आहे. केंद्रीय गृहमंत्री अमित शाह यांनी याला समानतेसाठी 'ऐतिहासिक पाऊल' म्हटले. मुख्यमंत्री भूपेंद्र पटेल यांनी सांगितले की, UCC सर्व समुदायातील महिलांसाठी समान हक्क आणि सन्मान सुनिश्चित करेल, ज्यामुळे कायदेशीर एकरूपता वाढेल."
-            },
-            "hi": {
-                "title": "गुजरात में UCC लागू: व्यक्तिगत कानूनों को एकीकृत करने वाला दूसरा राज्य",
-                "content": "गुजरात ने अपना समान नागरिक संहिता (UCC) विधेयक, 2026 पारित किया है, जिससे यह विवाह, तलाक और विरासत के लिए एक एकीकृत कानून अपनाने वाला दूसरा भारतीय राज्य बन गया है। केंद्रीय गृह मंत्री अमित शाह ने इसे समानता के लिए 'ऐतिहासिक कदम' बताया। मुख्यमंत्री भूपेंद्र पटेल ने कहा कि UCC सभी समुदायों की महिलाओं के लिए समान अधिकार और गरिमा सुनिश्चित करेगा, जिससे कानूनी एकरूपता को बढ़ावा मिलेगा।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129797402,imgsize-491203.cms",
-        "link": "https://timesofindia.indiatimes.com/india/historic-step-after-uttarakhand-gujarat-passes-uniform-civil-code-bill/articleshow/129797203.cms"
-    },
-    {
-        "id": "fb643619",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Sonia Gandhi Stable After Hospitalization",
-                "content": "Veteran Congress leader Sonia Gandhi is stable and under observation at Sir Ganga Ram Hospital. Admitted Tuesday night after feeling unwell due to a weather change, doctors are conducting investigations for potential stomach and urinary tract infections. Antibiotics have been administered, and a medical team is closely monitoring her condition."
-            },
-            "kn": {
-                "title": "ಸೋನಿಯಾ ಗಾಂಧಿ ಆಸ್ಪತ್ರೆಗೆ ದಾಖಲಾದ ನಂತರ ಸ್ಥಿರ",
-                "content": "ಹಿರಿಯ ಕಾಂಗ್ರೆಸ್ ನಾಯಕಿ ಸೋನಿಯಾ ಗಾಂಧಿ ಸರ್ ಗಂಗಾರಾಮ್ ಆಸ್ಪತ್ರೆಯಲ್ಲಿ ಸ್ಥಿರ ಸ್ಥಿತಿಯಲ್ಲಿದ್ದು, ನಿಗಾದಲ್ಲಿದ್ದಾರೆ. ಹವಾಮಾನ ಬದಲಾವಣೆಯಿಂದ ಅನಾರೋಗ್ಯಕ್ಕೆ ಒಳಗಾದ ನಂತರ ಮಂಗಳವಾರ ರಾತ್ರಿ ದಾಖಲಾಗಿದ್ದು, ವೈದ್ಯರು ಹೊಟ್ಟೆ ಮತ್ತು ಮೂತ್ರನಾಳದ ಸಂಭಾವ್ಯ ಸೋಂಕುಗಳಿಗಾಗಿ ತನಿಖೆ ನಡೆಸುತ್ತಿದ್ದಾರೆ. ಪ್ರತಿಜೀವಕಗಳನ್ನು ನೀಡಲಾಗಿದ್ದು, ವೈದ್ಯಕೀಯ ತಂಡವು ಅವರ ಸ್ಥಿತಿಯನ್ನು ಸೂಕ್ಷ್ಮವಾಗಿ ಗಮನಿಸುತ್ತಿದೆ."
-            },
-            "mr": {
-                "title": "सोनिया गांधी रुग्णालयात दाखल झाल्यानंतर स्थिर",
-                "content": "ज्येष्ठ काँग्रेस नेत्या सोनिया गांधी सर गंगा राम रुग्णालयात स्थिर असून त्यांच्यावर लक्ष ठेवले जात आहे. हवामानातील बदलामुळे अस्वस्थ वाटू लागल्याने मंगळवारी रात्री त्यांना दाखल करण्यात आले होते. डॉक्टर पोट आणि मूत्रमार्गाच्या संभाव्य संक्रमणासाठी तपासणी करत आहेत. प्रतिजैविके देण्यात आली असून वैद्यकीय पथक त्यांच्या प्रकृतीवर बारकाईने लक्ष ठेवून आहे."
-            },
-            "hi": {
-                "title": "सोनिया गांधी अस्पताल में भर्ती होने के बाद स्थिर",
-                "content": "वरिष्ठ कांग्रेस नेता सोनिया गांधी सर गंगा राम अस्पताल में स्थिर और निगरानी में हैं। मौसम बदलने के कारण अस्वस्थ महसूस होने पर मंगलवार रात उन्हें भर्ती कराया गया था। डॉक्टर पेट और मूत्र पथ के संभावित संक्रमणों के लिए जांच कर रहे हैं। एंटीबायोटिक्स दिए गए हैं, और एक मेडिकल टीम उनकी स्थिति पर करीब से नजर रख रही है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129797691,imgsize-31240.cms",
-        "link": "https://timesofindia.indiatimes.com/india/sonia-gandhi-in-hospital-doctors-say-veteran-congress-leaders-condition-is-stable/articleshow/129797465.cms"
-    },
-    {
-        "id": "9bc725a9",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Sadhguru's Daughter Chronicles \"Save Soil\" Movement in New Book",
-                "content": "Sadhguru's daughter, Radhe Jaggi, has launched her new book, \"'Save soil: 100 days that moved the world'\". This engaging book chronicles the global \"Save Soil\" movement, spearheaded by Sadhguru, which captivated millions worldwide. It details the impactful 100-day journey, highlighting the urgent need for soil regeneration and ecological awareness. Jaggi's work offers an intimate perspective, inspiring readers towards a sustainable future for our planet."
-            },
-            "kn": {
-                "title": "ಸದ್ಗುರು ಅವರ ಪುತ್ರಿ \"ಮಣ್ಣು ಉಳಿಸಿ\" ಆಂದೋಲನವನ್ನು ಹೊಸ ಪುಸ್ತಕದಲ್ಲಿ ದಾಖಲಿಸಿದ್ದಾರೆ",
-                "content": "ಸದ್ಗುರು ಅವರ ಪುತ್ರಿ ರಾಧೆ ಜಗ್ಗಿ ತಮ್ಮ ಹೊಸ ಪುಸ್ತಕ, \"'ಮಣ್ಣು ಉಳಿಸಿ: ಜಗತ್ತನ್ನು ಬದಲಿಸಿದ 100 ದಿನಗಳು'\" ಬಿಡುಗಡೆ ಮಾಡಿದ್ದಾರೆ. ಈ ಆಕರ್ಷಕ ಪುಸ್ತಕವು ಸದ್ಗುರು ಅವರು ಆರಂಭಿಸಿದ ಜಾಗತಿಕ \"ಮಣ್ಣು ಉಳಿಸಿ\" ಆಂದೋಲನವನ್ನು ವಿವರಿಸುತ್ತದೆ, ಇದು ಪ್ರಪಂಚದಾದ್ಯಂತ ಲಕ್ಷಾಂತರ ಜನರನ್ನು ಆಕರ್ಷಿಸಿತು. ಇದು ಮಣ್ಣಿನ ಪುನರುಜ್ಜೀವನ ಮತ್ತು ಪರಿಸರ ಜಾಗೃತಿಯ ತುರ್ತು ಅಗತ್ಯವನ್ನು ಎತ್ತಿ ತೋರಿಸುವ 100 ದಿನಗಳ ಪರಿಣಾಮಕಾರಿ ಪ್ರಯಾಣವನ್ನು ವಿವರಿಸುತ್ತದೆ. ಜಗ್ಗಿ ಅವರ ಕೃತಿಯು ಒಂದು ಆಪ್ತ ದೃಷ್ಟಿಕೋನವನ್ನು ನೀಡುತ್ತದೆ, ನಮ್ಮ ಗ್ರಹಕ್ಕೆ ಸುಸ್ಥಿರ ಭವಿಷ್ಯದ ಕಡೆಗೆ ಓದುಗರನ್ನು ಪ್ರೇರೇಪಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "सद्गुरूंच्या मुलीने 'माती वाचवा' चळवळीचे वर्णन नवीन पुस्तकात केले",
-                "content": "सद्गुरूंच्या कन्या, राधेश्री जग्गी यांनी त्यांचे नवीन पुस्तक, \"'माती वाचवा: जगाला हलवणारे 100 दिवस'\" लाँच केले आहे. हे आकर्षक पुस्तक सद्गुरूंच्या नेतृत्वाखालील 'माती वाचवा' या जागतिक चळवळीचे वर्णन करते, ज्याने जगभरातील लाखो लोकांना आकर्षित केले. हे पुस्तक मातीच्या पुनरुत्पादनाची आणि पर्यावरणाच्या जागरूकतेची तातडीची गरज अधोरेखित करणाऱ्या 100 दिवसांच्या प्रभावी प्रवासाचे तपशील देते. जग्गी यांचे कार्य एक सखोल दृष्टीकोन देते, जे वाचकांना आपल्या ग्रहासाठी शाश्वत भविष्याकडे प्रेरित करते."
-            },
-            "hi": {
-                "title": "सद्गुरु की बेटी ने नई किताब में 'मिट्टी बचाओ' आंदोलन का वृत्तांत किया",
-                "content": "सद्गुरु की बेटी, राधे जग्गी ने अपनी नई किताब, \"'मिट्टी बचाओ: 100 दिन जिन्होंने दुनिया को बदल दिया'\" लॉन्च की है। यह आकर्षक किताब सद्गुरु द्वारा शुरू किए गए वैश्विक \"मिट्टी बचाओ\" आंदोलन का वृत्तांत करती है, जिसने दुनिया भर में लाखों लोगों को मोहित किया। इसमें मिट्टी के पुनरुद्धार और पर्यावरणीय जागरूकता की तत्काल आवश्यकता पर प्रकाश डालते हुए, 100 दिनों की प्रभावशाली यात्रा का विवरण है। जग्गी का काम एक अंतरंग दृष्टिकोण प्रस्तुत करता है, जो पाठकों को हमारे ग्रह के लिए एक स्थायी भविष्य की ओर प्रेरित करता।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129795626,imgsize-1200726.cms",
-        "link": "https://timesofindia.indiatimes.com/india/save-soil-100-days-that-moved-the-world-sadhgurus-daughter-radhe-jaggi-launches-new-book/articleshow/129795447.cms"
-    },
-    {
-        "id": "c714ac71",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "US Supercarrier USS Gerald Ford Exits Middle East After Fire, Readiness Questioned",
-                "content": "The USS Gerald R Ford, the US Navy's most expensive aircraft carrier, departed the Middle East after a fire incident, raising significant concerns. Pentagon tests revealed insufficient data on its combat effectiveness and reliability of key systems, highlighting ongoing scrutiny of the $13.2 billion warship's operational readiness amid its deployment challenges."
-            },
-            "kn": {
-                "title": "US ಸೂಪರ್‌ಕ್ಯಾರಿಯರ್ USS ಜೆರಾಲ್ಡ್ ಫೋರ್ಡ್ ಅಗ್ನಿ ಅವಘಡದ ನಂತರ ಮಧ್ಯಪ್ರಾಚ್ಯದಿಂದ ಹೊರಕ್ಕೆ, ಸಿದ್ಧತೆ ಪ್ರಶ್ನಾರ್ಹ",
-                "content": "ಅಮೆರಿಕ ನೌಕಾಪಡೆಯ ಅತ್ಯಂತ ದುಬಾರಿ ವಿಮಾನವಾಹಕ ನೌಕೆ USS ಜೆರಾಲ್ಡ್ ಆರ್ ಫೋರ್ಡ್, ಅಗ್ನಿ ಅವಘಡದ ನಂತರ ಮಧ್ಯಪ್ರಾಚ್ಯದಿಂದ ಹೊರಟಿದೆ, ಇದು ಗಂಭೀರ ಕಳವಳಗಳನ್ನು ಹುಟ್ಟುಹಾಕಿದೆ. ಪೆಂಟಗನ್ ಪರೀಕ್ಷೆಗಳು ಇದರ ಯುದ್ಧ ಪರಿಣಾಮಕಾರಿತ್ವ ಮತ್ತು ಪ್ರಮುಖ ವ್ಯವಸ್ಥೆಗಳ ವಿಶ್ವಾಸಾರ್ಹತೆಯ ಕುರಿತು ಸಾಕಷ್ಟು ದತ್ತಾಂಶದ ಕೊರತೆಯನ್ನು ಬಹಿರಂಗಪಡಿಸಿವೆ, ಇದು $13.2 ಶತಕೋಟಿ ಮೌಲ್ಯದ ಯುದ್ಧನೌಕೆಯ ಕಾರ್ಯಾಚರಣೆಯ ಸಿದ್ಧತೆಯ ಕುರಿತು ನಡೆಯುತ್ತಿರುವ ಪರಿಶೀಲನೆಯನ್ನು ಅದರ ನಿಯೋಜನೆ ಸವಾಲುಗಳ ನಡುವೆ ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "यूएस सुपरकॅरियर यूएसएस जेराल्ड फोर्ड आगीनंतर मध्य पूर्वेतून बाहेर, सज्जतेवर प्रश्नचिन्ह",
-                "content": "अमेरिकेच्या नौदलाचे सर्वात महागडे विमानवाहू जहाज, यूएसएस जेराल्ड आर फोर्ड, आगीच्या घटनेनंतर मध्य पूर्वेतून परतले, ज्यामुळे महत्त्वपूर्ण चिंता वाढल्या आहेत. पेंटागॉनच्या चाचण्यांनी त्याच्या लढाऊ कार्यक्षमतेवर आणि प्रमुख प्रणालींच्या विश्वसनीयतेवर अपुरा डेटा असल्याचे उघड केले आहे, ज्यामुळे $13.2 अब्ज किमतीच्या युद्धनौकेच्या कार्यक्षम सज्जतेवर, तिच्या तैनातीतील आव्हानांदरम्यान, सततच्या तपासणीवर भर पडतो."
-            },
-            "hi": {
-                "title": "अमेरिकी सुपरकैरियर यूएसएस जेराल्ड फोर्ड आग लगने के बाद मध्य पूर्व से बाहर, तत्परता पर सवाल",
-                "content": "अमेरिकी नौसेना का सबसे महंगा विमानवाहक पोत, यूएसएस जेराल्ड आर फोर्ड, आग लगने की घटना के बाद मध्य पूर्व से चला गया, जिससे महत्वपूर्ण चिंताएं बढ़ गई हैं। पेंटागन के परीक्षणों से इसकी युद्ध प्रभावशीलता और प्रमुख प्रणालियों की विश्वसनीयता पर अपर्याप्त डेटा का पता चला, जो इसके $13.2 बिलियन के युद्धपोत की परिचालन तत्परता की चल रही जांच को, उसकी तैनाती की चुनौतियों के बीच, उजागर करता है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129795049,imgsize-1363240.cms",
-        "link": "https://timesofindia.indiatimes.com/defence/international/why-us-supercarrier-had-to-leave-middle-east-amid-iran-war-many-problems-of-uss-gerald-ford/articleshow/129791790.cms"
-    },
-    {
-        "id": "ba7ce002",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "\"Anti-Bengali\" Tag Ignites Mamata-BJP Puja Pandal War",
-                "content": "West Bengal's political landscape heats up ahead of assembly elections. BJP claimed Hindus need court permission for puja pandals, unlike Muslims. CM Mamata Banerjee hit back, branding BJP \"anti-Bengali\" and raising concerns about voter roll deletions and citizenship. The escalating row between TMC and BJP underscores deepening pre-election divisions."
-            },
-            "kn": {
-                "title": "\"ಬಂಗಾಳಿ ವಿರೋಧಿ\" ಲೇಬಲ್ ಮಮತಾ-ಬಿಜೆಪಿ ಪೂಜಾ ಪೆಂಡಾಲ್ ಯುದ್ಧಕ್ಕೆ ಕಿಡಿ",
-                "content": "ಪಶ್ಚಿಮ ಬಂಗಾಳದಲ್ಲಿ ವಿಧಾನಸಭಾ ಚುನಾವಣೆ ಸಮೀಪಿಸುತ್ತಿದ್ದಂತೆ ರಾಜಕೀಯ ವಾತಾವರಣ ಬಿಸಿಯಾಗಿದೆ. ಹಿಂದೂಗಳಿಗೆ ಪೂಜಾ ಪೆಂಡಾಲ್‌ಗಳಿಗೆ ನ್ಯಾಯಾಲಯದ ಅನುಮತಿ ಬೇಕು, ಆದರೆ ಮುಸ್ಲಿಮರಿಗೆ ಇಲ್ಲ ಎಂದು ಬಿಜೆಪಿ ಹೇಳಿದೆ. ಮುಖ್ಯಮಂತ್ರಿ ಮಮತಾ ಬ್ಯಾನರ್ಜಿ ತಿರುಗೇಟು ನೀಡಿ, ಬಿಜೆಪಿಯನ್ನು \"ಬಂಗಾಳಿ ವಿರೋಧಿ\" ಎಂದು ಕರೆದರು ಮತ್ತು ಮತದಾರರ ಪಟ್ಟಿಯ ಅಳಿಸುವಿಕೆ ಹಾಗೂ ಪೌರತ್ವದ ಬಗ್ಗೆ ಕಳವಳ ವ್ಯಕ್ತಪಡಿಸಿದರು. ಟಿಎಂಸಿ ಮತ್ತು ಬಿಜೆಪಿ ನಡುವಿನ ಈ ತೀವ್ರಗೊಂಡ ವಿವಾದವು ಚುನಾವಣಾ ಪೂರ್ವ ವಿಭಜನೆಗಳನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "\"बंगाली विरोधी\" टॅगमुळे ममता-भाजप पूजा मंडप युद्ध पेटले",
-                "content": "पश्चिम बंगालमध्ये विधानसभा निवडणुका जवळ आल्याने राजकीय वातावरण तापले आहे. भाजपने दावा केला की हिंदूंना पूजा मंडपांसाठी न्यायालयाची परवानगी लागते, मुस्लिमांप्रमाणे नाही. मुख्यमंत्री ममता बॅनर्जींनी प्रत्युत्तर देत भाजपला \"बंगाली विरोधी\" म्हटले आणि मतदार यादीतून नावे वगळणे तसेच नागरिकत्वाच्या मुद्द्यांवर चिंता व्यक्त केली. टीएमसी आणि भाजपमधील हा वाढता वाद निवडणुकीपूर्वीच्या वाढत्या मतभेदांवर प्रकाश टाकतो."
-            },
-            "hi": {
-                "title": "\"बंगाली विरोधी\" टैग ने ममता-भाजपा पूजा पंडाल युद्ध को भड़काया",
-                "content": "पश्चिम बंगाल में विधानसभा चुनावों से पहले राजनीतिक सरगर्मी तेज हो गई है। भाजपा ने दावा किया कि हिंदुओं को पूजा पंडालों के लिए अदालत की अनुमति की आवश्यकता है, जबकि मुसलमानों को नहीं। मुख्यमंत्री ममता बनर्जी ने पलटवार करते हुए भाजपा को \"बंगाली विरोधी\" करार दिया और मतदाता सूची से नाम हटाने व नागरिकता संबंधी चिंताओं को उठाया। टीएमसी और भाजपा के बीच यह बढ़ता विवाद चुनाव-पूर्व के गहरे मतभेदों को रेखांकित करता है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129795829,imgsize-955787.cms",
-        "link": "https://timesofindia.indiatimes.com/india/anti-bengali-party-mamata-vs-bjp-over-puja-pandal-permission-row/articleshow/129795617.cms"
     }
 ]
