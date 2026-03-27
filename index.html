@@ -16,15 +16,42 @@
     <link rel="apple-touch-icon" href="icon-192.png">
 
     <style>
+        /* BODY BACKGROUND (For Desktop View) */
         body, html { 
             margin: 0; padding: 0; 
             width: 100vw; height: 100vh; 
-            background-color: #050505; 
+            background-color: #000; /* Dark background for desktop */
             font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', sans-serif; 
             overflow: hidden; color: white;
             -webkit-font-smoothing: antialiased;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        /* APP CONTAINER - Acts as the phone screen */
+        #app-wrapper {
+            position: relative;
+            width: 100%;
+            height: 100%;
+            background-color: #050505;
+            overflow: hidden;
+            box-shadow: 0 0 20px rgba(0,0,0,0.8);
+        }
+
+        /* DESKTOP RESPONSIVENESS - Mimics a phone screen on larger monitors */
+        @media (min-width: 768px) {
+            #app-wrapper {
+                width: 414px; /* Standard large phone width */
+                height: 896px; /* Standard large phone height */
+                max-height: 95vh;
+                border-radius: 30px;
+                border: 8px solid #222;
+            }
+            .top-bar { border-radius: 22px 22px 0 0; }
         }
         
+        /* UI ELEMENTS INSIDE THE APP WRAPPER */
         .top-bar { position: absolute; top: 0; left: 0; width: 100%; height: 65px; padding: 0 15px; background: rgba(158, 0, 0, 0.95); backdrop-filter: blur(10px); z-index: 100; display: flex; justify-content: space-between; align-items: center; box-sizing: border-box; box-shadow: 0 4px 15px rgba(0,0,0,0.5);}
         
         .brand-container { display: flex; flex-direction: column; justify-content: center;}
@@ -37,7 +64,7 @@
 
         .score-ticker { position: absolute; top: 65px; left: 0; width: 100%; height: 35px; line-height: 35px; background: #111; color: #ffb142; font-size: 0.85em; font-weight: bold; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; border-bottom: 1px solid #333; z-index: 90; text-align: center; box-sizing: border-box;}
 
-        #news-container { position: absolute; top: 100px; left: 0; width: 100%; height: calc(100vh - 100px); overflow-y: scroll; scroll-snap-type: y mandatory; scroll-behavior: smooth; }
+        #news-container { position: absolute; top: 100px; left: 0; width: 100%; height: calc(100% - 100px); overflow-y: scroll; scroll-snap-type: y mandatory; scroll-behavior: smooth; }
         
         .article { height: 100%; width: 100%; scroll-snap-align: start; display: flex; flex-direction: column; position: relative; box-sizing: border-box;}
         
@@ -53,10 +80,17 @@
         .action-btn.share { background: #9e0000; border: none;}
         
         .swipe-instruction { text-align: center; font-size: 0.75em; color: #666; margin-top: 15px; padding-bottom: 25px;}
+
+        @keyframes pulse {
+            0% { opacity: 1; }
+            50% { opacity: 0.3; }
+            100% { opacity: 1; }
+        }
     </style>
 </head>
 <body>
 
+<div id="app-wrapper">
     <div class="top-bar">
         <div class="brand-container">
             <div class="brand">VarthaBox</div>
@@ -79,6 +113,7 @@
             <h2>Updating Real-Time News...<br>Check back in a minute!</h2>
         </div>
     </div>
+</div>
 
     <script>
         let currentLang = 'en';
@@ -104,7 +139,6 @@
                 const content = article.translations[currentLang];
                 if (!content) return; 
                 
-                // Format the Date nicely
                 let displayDate = "Recent";
                 if (article.date) {
                     const d = new Date(article.date);
@@ -150,7 +184,7 @@
                 navigator.share({ title: 'VarthaBox: ' + title, text: summary, url: uniqueLink }).catch(console.error);
             } else {
                 navigator.clipboard.writeText(uniqueLink);
-                alert("Link copied!");
+                alert("Link copied! Paste it in WhatsApp.");
             }
         }
 
@@ -167,13 +201,29 @@
                 const parser = new DOMParser();
                 const xmlDoc = parser.parseFromString(data.contents, "text/xml");
                 const items = xmlDoc.querySelectorAll("item");
+                
                 if (items.length > 0) {
-                    document.getElementById('live-score').innerText = "🏏 " + items[0].querySelector("title").textContent;
+                    let matchText = items[0].querySelector("title").textContent;
+                    
+                    for(let i = 0; i < items.length; i++) {
+                        let tempText = items[i].querySelector("title").textContent;
+                        if(tempText.includes("RCB") || tempText.includes("CSK") || tempText.includes("MI") || tempText.includes("IPL")) {
+                            matchText = tempText;
+                            break; 
+                        }
+                    }
+
+                    if (matchText.includes("RCB") || matchText.includes("CSK") || matchText.includes("MI") || matchText.includes("IPL")) {
+                         document.getElementById('live-score').innerHTML = `🔴 <span style="animation: pulse 1.5s infinite;">LIVE IPL:</span> ${matchText}`;
+                    } else {
+                         document.getElementById('live-score').innerText = "🏏 LIVE: " + matchText;
+                    }
                 }
             } catch (error) {}
         }
+        
         fetchLiveScores();
-        setInterval(fetchLiveScores, 60000); 
+        setInterval(fetchLiveScores, 15000); 
     </script>
 </body>
 </html>
