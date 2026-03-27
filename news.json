@@ -1,5 +1,29 @@
 [
     {
+        "id": "50d0cf56",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "SC Quashes Dowry Case Over Vague Allegations",
+                "content": "The Supreme Court quashed a dowry harassment case against an elderly couple, ruling that vague and unsupported allegations cannot initiate criminal proceedings. The bench emphasized the importance of timely action and vigilance regarding rights in matrimonial disputes, warning that delays can weaken a case's credibility. This judgment highlights the need for concrete evidence in such sensitive matters."
+            },
+            "kn": {
+                "title": "ಸುಪ್ರೀಂ ಕೋರ್ಟ್ ಸ್ಪಷ್ಟವಲ್ಲದ ಆರೋಪಗಳ ಮೇಲೆ ವರದಕ್ಷಿಣೆ ಪ್ರಕರಣ ರದ್ದುಪಡಿಸಿದೆ",
+                "content": "ಸುಪ್ರೀಂ ಕೋರ್ಟ್ ಹಿರಿಯ ದಂಪತಿಗಳ ವಿರುದ್ಧದ ವರದಕ್ಷಿಣೆ ಕಿರುಕುಳ ಪ್ರಕರಣವನ್ನು ರದ್ದುಗೊಳಿಸಿದ್ದು, ಅಸ್ಪಷ್ಟ ಮತ್ತು ಆಧಾರರಹಿತ ಆರೋಪಗಳು ಕ್ರಿಮಿನಲ್ ಮೊಕದ್ದಮೆಗಳನ್ನು ಪ್ರಾರಂಭಿಸಲು ಸಾಕಾಗುವುದಿಲ್ಲ ಎಂದು ತೀರ್ಪು ನೀಡಿದೆ. ವೈವಾಹಿಕ ವಿವಾದಗಳಲ್ಲಿ ಹಕ್ಕುಗಳ ಬಗ್ಗೆ ಸಮಯೋಚಿತ ಕ್ರಮ ಮತ್ತು ಎಚ್ಚರಿಕೆಯ ಪ್ರಾಮುಖ್ಯತೆಯನ್ನು ಪೀಠ ಒತ್ತಿಹೇಳಿತು, ವಿಳಂಬಗಳು ಪ್ರಕರಣದ ವಿಶ್ವಾಸಾರ್ಹತೆಯನ್ನು ದುರ್ಬಲಗೊಳಿಸಬಹುದು ಎಂದು ಎಚ್ಚರಿಸಿದೆ. ಈ ತೀರ್ಪು ಸೂಕ್ಷ್ಮ ವಿಷಯಗಳಲ್ಲಿ ದೃಢವಾದ ಪುರಾವೆಗಳ ಅಗತ್ಯವನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "सर्वोच्च न्यायालयाने अस्पष्ट आरोपांवरून हुंड्याच्या प्रकरणाला रद्द केले",
+                "content": "सर्वोच्च न्यायालयाने एका वृद्ध जोडप्याविरुद्धचा हुंडा छळाचा खटला रद्द केला, असे नमूद केले की, अस्पष्ट आणि निराधार आरोप फौजदारी कारवाई सुरू करण्यासाठी पुरेसे नाहीत. खंडपीठाने वैवाहिक विवादांमध्ये हक्कांबद्दल वेळेवर कारवाई आणि सावधगिरीच्या महत्त्वावर भर दिला, कारण विलंबाने प्रकरणाची विश्वासार्हता कमी होऊ शकते असा इशारा दिला. हा निर्णय अशा संवेदनशील प्रकरणांमध्ये ठोस पुराव्यांची गरज अधोरेखित करतो."
+            },
+            "hi": {
+                "title": "सुप्रीम कोर्ट ने अस्पष्ट आरोपों पर दहेज का मामला रद्द किया",
+                "content": "सुप्रीम कोर्ट ने एक बुजुर्ग दंपति के खिलाफ दहेज उत्पीड़न का मामला रद्द कर दिया, यह फैसला सुनाते हुए कि अस्पष्ट और निराधार आरोप आपराधिक कार्यवाही शुरू करने के लिए पर्याप्त नहीं हैं। पीठ ने वैवाहिक विवादों में अधिकारों के संबंध में समय पर कार्रवाई और सतर्कता के महत्व पर जोर दिया, चेतावनी दी कि देरी से मामले की विश्वसनीयता कमजोर हो सकती है। यह फैसला ऐसे संवेदनशील मामलों में ठोस सबूतों की आवश्यकता पर प्रकाश डालता है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129836500,imgsize-968868.cms",
+        "link": "https://timesofindia.indiatimes.com/india/sc-vague-allegations-no-basis-for-dowry-case/articleshow/129836486.cms"
+    },
+    {
         "id": "a0726e4d",
         "category": "National",
         "translations": {
@@ -1894,29 +1918,5 @@
         },
         "image": "https://static.toiimg.com/photo/msid-129791457,imgsize-78656.cms",
         "link": "https://timesofindia.indiatimes.com/india/tb-remains-indias-biggest-infectious-killer-but-mass-screening-push-shows-results/articleshow/129791337.cms"
-    },
-    {
-        "id": "81a6d867",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Govt Convenes All-Party Meet on West Asia Crisis",
-                "content": "The government has called an all-party meeting today to forge a united parliamentary front on the escalating West Asia crisis. Following PM Modi's statements, the gathering aims to address opposition concerns and present a unified national stance. This crucial discussion will focus on the conflict's impacts on India's energy security and its vast diaspora in the Gulf region, seeking broad political consensus."
-            },
-            "kn": {
-                "title": "ಪಶ್ಚಿಮ ಏಷ್ಯಾ ಬಿಕ್ಕಟ್ಟಿನ ಕುರಿತು ಸರ್ಕಾರದಿಂದ ಸರ್ವಪಕ್ಷ ಸಭೆ",
-                "content": "ಪಶ್ಚಿಮ ಏಷ್ಯಾದಲ್ಲಿ ಉಲ್ಬಣಗೊಳ್ಳುತ್ತಿರುವ ಬಿಕ್ಕಟ್ಟಿನ ಬಗ್ಗೆ ಒಗ್ಗಟ್ಟಿನ ಸಂಸದೀಯ ನಿಲುವನ್ನು ರೂಪಿಸಲು ಸರ್ಕಾರ ಇಂದು ಸರ್ವಪಕ್ಷ ಸಭೆ ಕರೆದಿದೆ. ಪ್ರಧಾನಿ ಮೋದಿ ಅವರ ಹೇಳಿಕೆಗಳ ನಂತರ, ಈ ಸಭೆಯು ವಿರೋಧ ಪಕ್ಷಗಳ ಆತಂಕಗಳನ್ನು ಪರಿಹರಿಸಲು ಮತ್ತು ಏಕೀಕೃತ ರಾಷ್ಟ್ರೀಯ ನಿಲುವನ್ನು ಮಂಡಿಸುವ ಗುರಿ ಹೊಂದಿದೆ. ಈ ಮಹತ್ವದ ಚರ್ಚೆಯು ಭಾರತದ ಇಂಧನ ಭದ್ರತೆ ಮತ್ತು ಗಲ್ಫ್ ಪ್ರದೇಶದಲ್ಲಿರುವ ಅದರ ಬೃಹತ್ ಅನಿವಾಸಿ ಭಾರತೀಯರ ಮೇಲೆ ಸಂಘರ್ಷದ ಪರಿಣಾಮಗಳ ಮೇಲೆ ಕೇಂದ್ರೀಕರಿಸುತ್ತದೆ, ವ್ಯಾಪಕ ರಾಜಕೀಯ ಒಮ್ಮತವನ್ನು ಬಯಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "पश्चिम आशिया संकटावर सरकारची सर्वपक्षीय बैठक",
-                "content": "पश्चिम आशियातील वाढत्या संकटावर एकसंध संसदीय भूमिका तयार करण्यासाठी सरकारने आज सर्वपक्षीय बैठक बोलावली आहे. पंतप्रधान मोदींच्या विधानांनंतर, या बैठकीचा उद्देश विरोधी पक्षांच्या चिंतांचे निराकरण करणे आणि एकसंध राष्ट्रीय भूमिका मांडणे आहे. या महत्त्वाच्या चर्चेत भारताच्या ऊर्जा सुरक्षेवर आणि आखाती प्रदेशातील मोठ्या डायस्पोरावर संघर्षाच्या परिणामांवर लक्ष केंद्रित केले जाईल, ज्यात व्यापक राजकीय सहमती मिळवण्याचा प्रयत्न केला जाईल."
-            },
-            "hi": {
-                "title": "पश्चिम एशिया संकट पर सरकार की सर्वदलीय बैठक",
-                "content": "पश्चिम एशिया में बढ़ते संकट पर एक एकजुट संसदीय मोर्चा बनाने के लिए सरकार ने आज एक सर्वदलीय बैठक बुलाई है। पीएम मोदी के बयानों के बाद, इस बैठक का उद्देश्य विपक्षी चिंताओं को दूर करना और एक एकीकृत राष्ट्रीय रुख प्रस्तुत करना है। यह महत्वपूर्ण चर्चा भारत की ऊर्जा सुरक्षा और खाड़ी क्षेत्र में उसके विशाल प्रवासी समुदाय पर संघर्ष के प्रभावों पर केंद्रित होगी, जिसमें व्यापक राजनीतिक सहमति मांगी जाएगी।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129789084,imgsize-1480775.cms",
-        "link": "https://timesofindia.indiatimes.com/india/government-calls-all-party-meet-today-to-address-concerns-over-west-asia-crisis/articleshow/129789078.cms"
     }
 ]
