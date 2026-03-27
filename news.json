@@ -1,5 +1,55 @@
 [
     {
+        "id": "aaeb408b",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "SC Rules Govt Must Pay for Requisitioned Vehicle Damages",
+                "content": "The Supreme Court ruled the government, not insurance, must pay for damages if a private vehicle, requisitioned by district administration, meets an accident. The court clarified that the vehicle owner loses custody and control during requisition, making the requisitioning authority responsible for any incidents, including third-party damages. This decision shifts liability, ensuring owners are protected."
+            },
+            "kn": {
+                "title": "ಸುಪ್ರೀಂ ಕೋರ್ಟ್: ವಶಪಡಿಸಿಕೊಂಡ ವಾಹನಗಳ ಹಾನಿಗೆ ಸರ್ಕಾರವೇ ಪಾವತಿಸಬೇಕು",
+                "content": "ಸುಪ್ರೀಂ ಕೋರ್ಟ್ ತೀರ್ಪು ನೀಡಿದೆ: ಜಿಲ್ಲಾಡಳಿತದಿಂದ ವಶಪಡಿಸಿಕೊಂಡ ಖಾಸಗಿ ವಾಹನ ಅಪಘಾತಕ್ಕೀಡಾದರೆ, ವಿಮೆ ಕಂಪನಿಯಲ್ಲ, ಸರ್ಕಾರವೇ ಹಾನಿಗಳಿಗೆ ಪಾವತಿಸಬೇಕು. ವಶಪಡಿಸಿಕೊಳ್ಳುವ ಸಮಯದಲ್ಲಿ ವಾಹನ ಮಾಲೀಕರು ಸ್ವಾಧೀನ ಮತ್ತು ನಿಯಂತ್ರಣವನ್ನು ಕಳೆದುಕೊಳ್ಳುತ್ತಾರೆ ಎಂದು ನ್ಯಾಯಾಲಯ ಸ್ಪಷ್ಟಪಡಿಸಿದೆ. ಇದರಿಂದ ಮೂರನೇ ವ್ಯಕ್ತಿಯ ಹಾನಿಗಳನ್ನು ಒಳಗೊಂಡಂತೆ ಯಾವುದೇ ಘಟನೆಗಳಿಗೆ ವಶಪಡಿಸಿಕೊಳ್ಳುವ ಪ್ರಾಧಿಕಾರವೇ ಜವಾಬ್ದಾರಿಯಾಗುತ್ತದೆ. ಈ ನಿರ್ಧಾರವು ಹೊಣೆಗಾರಿಕೆಯನ್ನು ಬದಲಾಯಿಸಿ ಮಾಲೀಕರ ರಕ್ಷಣೆಯನ್ನು ಖಾತ್ರಿಪಡಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "सर्वोच्च न्यायालय: जप्त केलेल्या वाहनांच्या नुकसानीची भरपाई सरकार देणार",
+                "content": "सर्वोच्च न्यायालयाने निर्णय दिला आहे की, जिल्हा प्रशासनाने जप्त केलेले खाजगी वाहन अपघातात सापडल्यास, विमा कंपनी नाही तर, सरकारनेच नुकसान भरपाई द्यावी. न्यायालयाने स्पष्ट केले की जप्तीच्या काळात वाहन मालक ताबा आणि नियंत्रण गमावतो, त्यामुळे तृतीय-पक्ष नुकसान देखील समाविष्ट असलेल्या कोणत्याही घटनांसाठी जप्ती करणारी संस्थाच जबाबदार असते. हा निर्णय जबाबदारी बदलतो, ज्यामुळे मालकांचे संरक्षण सुनिश्चित होते."
+            },
+            "hi": {
+                "title": "सुप्रीम कोर्ट: अधिग्रहित वाहनों के नुकसान का भुगतान सरकार करेगी",
+                "content": "सुप्रीम कोर्ट ने फैसला सुनाया है कि यदि जिला प्रशासन द्वारा अधिग्रहित कोई निजी वाहन दुर्घटनाग्रस्त हो जाता है, तो बीमा नहीं, बल्कि सरकार को ही नुकसान का भुगतान करना होगा. अदालत ने स्पष्ट किया कि अधिग्रहण के दौरान वाहन मालिक हिरासत और नियंत्रण खो देता है, जिससे तीसरे पक्ष के नुकसान सहित किसी भी घटना के लिए अधिग्रहित करने वाला प्राधिकरण जिम्मेदार होता है. यह निर्णय दायित्व को बदलता है, जिससे मालिकों की सुरक्षा सुनिश्चित होती है."
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129836446,imgsize-874595.cms",
+        "link": "https://timesofindia.indiatimes.com/india/sc-for-requisitioned-vehicles-govt-to-pay-3rd-party-damages/articleshow/129836433.cms",
+        "date": "2026-03-27T05:27:47+05:30"
+    },
+    {
+        "id": "d932061a",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Vaishnaw Warns on Kids' Social Media Harm",
+                "content": "Union Minister Ashwini Vaishnaw raised concerns about social media's global harm to children, a pressing challenge. He also discussed the West Asia conflict's worldwide impact, asserting India's strong economic position amid global turbulence. Vaishnaw criticized the opposition's political discourse level, emphasizing India's resilient growth trajectory despite various challenges."
+            },
+            "kn": {
+                "title": "ವೈಷ್ಣವ್ ಮಕ್ಕಳ ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮ ಹಾನಿ ಬಗ್ಗೆ ಎಚ್ಚರಿಕೆ",
+                "content": "ಕೇಂದ್ರ ಸಚಿವ ಅಶ್ವಿನಿ ವೈಷ್ಣವ್ ಅವರು ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮದಿಂದ ಮಕ್ಕಳಿಗೆ ಜಾಗತಿಕವಾಗಿ ಆಗುತ್ತಿರುವ ಹಾನಿಯ ಬಗ್ಗೆ ಕಳವಳ ವ್ಯಕ್ತಪಡಿಸಿದ್ದಾರೆ, ಇದು ಒಂದು ಪ್ರಮುಖ ಸವಾಲು. ಅವರು ಪಶ್ಚಿಮ ಏಷ್ಯಾ ಸಂಘರ್ಷದ ಜಾಗತಿಕ ಪರಿಣಾಮವನ್ನೂ ಚರ್ಚಿಸಿ, ಜಾಗತಿಕ ಗೊಂದಲಗಳ ನಡುವೆಯೂ ಭಾರತದ ಬಲವಾದ ಆರ್ಥಿಕ ಸ್ಥಿತಿಯನ್ನು ಪ್ರತಿಪಾದಿಸಿದರು. ವೈಷ್ಣವ್ ಅವರು ವಿರೋಧ ಪಕ್ಷದ ರಾಜಕೀಯ ಭಾಷಣದ ಮಟ್ಟವನ್ನು ಟೀಕಿಸಿ, ವಿವಿಧ ಸವಾಲುಗಳ ಹೊರತಾಗಿಯೂ ಭಾರತದ ಸ್ಥಿತಿಸ್ಥಾಪಕ ಬೆಳವಣಿಗೆಯ ಪಥವನ್ನು ಒತ್ತಿ ಹೇಳಿದರು."
+            },
+            "mr": {
+                "title": "वैष्णव यांचा मुलांच्या सोशल मीडियावरील हानीबाबत इशारा",
+                "content": "केंद्रीय मंत्री अश्विनी वैष्णव यांनी मुलांवरील सोशल मीडियाच्या जागतिक हानीबद्दल चिंता व्यक्त केली, ही एक महत्त्वाची समस्या आहे. त्यांनी पश्चिम आशिया संघर्षाच्या जागतिक परिणामांवरही चर्चा केली आणि जागतिक अस्थिरतेदरम्यान भारताच्या मजबूत आर्थिक स्थितीवर जोर दिला. वैष्णव यांनी विरोधकांच्या राजकीय भाषणाच्या पातळीवर टीका केली, तरीही विविध आव्हानांनंतरही भारताच्या लवचिक वाढीच्या मार्गावर भर दिला."
+            },
+            "hi": {
+                "title": "वैष्णव ने बच्चों को सोशल मीडिया से होने वाले नुकसान पर चेताया",
+                "content": "केंद्रीय मंत्री अश्विनी वैष्णव ने बच्चों को सोशल मीडिया से होने वाले वैश्विक नुकसान पर चिंता व्यक्त की, जो एक गंभीर चुनौती है। उन्होंने पश्चिम एशिया संघर्ष के विश्वव्यापी प्रभाव पर भी चर्चा की, और वैश्विक उथल-पुथल के बीच भारत की मजबूत आर्थिक स्थिति पर जोर दिया। वैष्णव ने विपक्ष के राजनीतिक विमर्श के स्तर की आलोचना करते हुए, विभिन्न चुनौतियों के बावजूद भारत की लचीली विकास यात्रा पर बल दिया।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129836279,imgsize-902547.cms",
+        "link": "https://timesofindia.indiatimes.com/india/vaishnaw-flags-harm-to-kids-from-social-media/articleshow/129836275.cms",
+        "date": "2026-03-27T04:26:22+05:30"
+    },
+    {
         "id": "50d0cf56",
         "category": "National",
         "translations": {
@@ -1870,53 +1920,5 @@
         },
         "image": "https://static.toiimg.com/photo/msid-129792888,imgsize-1006784.cms",
         "link": "https://timesofindia.indiatimes.com/india/trying-to-deflect-attention-from-iran-war-congress-slams-bjp-over-lutyens-eviction-notice/articleshow/129792648.cms"
-    },
-    {
-        "id": "ebb5a4aa",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "India Faces Weight Crisis: Misconceived as Lifestyle",
-                "content": "One in four Indians are now overweight, prompting expert warnings of a major health crisis. Despite alarming statistics, obesity is often wrongly viewed as just a 'lifestyle choice,' delaying vital public health action. This misconception is hindering effective intervention against a rapidly growing national health challenge, demanding urgent attention from both policymakers and the public."
-            },
-            "kn": {
-                "title": "ಭಾರತ ತೂಕದ ಬಿಕ್ಕಟ್ಟು ಎದುರಿಸುತ್ತಿದೆ: ಜೀವನಶೈಲಿ ಎಂದು ತಪ್ಪಾಗಿ ಗ್ರಹಿಸಲಾಗಿದೆ",
-                "content": "ಪ್ರತಿ ನಾಲ್ವರಲ್ಲಿ ಒಬ್ಬ ಭಾರತೀಯ ಈಗ ಅಧಿಕ ತೂಕ ಹೊಂದಿದ್ದಾನೆ, ಇದು ಪ್ರಮುಖ ಆರೋಗ್ಯ ಬಿಕ್ಕಟ್ಟಿನ ಬಗ್ಗೆ ತಜ್ಞರ ಎಚ್ಚರಿಕೆಗಳಿಗೆ ಕಾರಣವಾಗಿದೆ. ಆತಂಕಕಾರಿ ಅಂಕಿಅಂಶಗಳ ಹೊರತಾಗಿಯೂ, ಸ್ಥೂಲಕಾಯತೆಯನ್ನು ಹೆಚ್ಚಾಗಿ ಕೇವಲ 'ಜೀವನಶೈಲಿಯ ಆಯ್ಕೆ' ಎಂದು ತಪ್ಪಾಗಿ ನೋಡಲಾಗುತ್ತದೆ, ಇದು ಪ್ರಮುಖ ಸಾರ್ವಜನಿಕ ಆರೋಗ್ಯ ಕ್ರಮಗಳನ್ನು ವಿಳಂಬಗೊಳಿಸುತ್ತದೆ. ಈ ತಪ್ಪು ಕಲ್ಪನೆಯು ವೇಗವಾಗಿ ಬೆಳೆಯುತ್ತಿರುವ ರಾಷ್ಟ್ರೀಯ ಆರೋಗ್ಯ ಸವಾಲಿಗೆ ಪರಿಣಾಮಕಾರಿ ಮಧ್ಯಸ್ಥಿಕೆಯನ್ನು ತಡೆಯುತ್ತಿದೆ, ಇದು ನೀತಿ ನಿರೂಪಕರು ಮತ್ತು ಸಾರ್ವಜನಿಕರಿಂದ ತುರ್ತು ಗಮನವನ್ನು ಬಯಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "भारताला लठ्ठपणाचे संकट: केवळ जीवनशैली मानणे चुकीचे",
-                "content": "आता प्रत्येक चार भारतीयांपैकी एक जण लठ्ठ आहे, ज्यामुळे तज्ञांनी मोठ्या आरोग्य संकटाबद्दल चेतावणी दिली आहे. धक्कादायक आकडेवारी असूनही, लठ्ठपणाला अनेकदा केवळ 'जीवनशैलीची निवड' म्हणून चुकीच्या पद्धतीने पाहिले जाते, ज्यामुळे महत्त्वाच्या सार्वजनिक आरोग्य उपायांना विलंब होतो. ही गैरसमजूत वेगाने वाढणाऱ्या राष्ट्रीय आरोग्य आव्हानाविरुद्ध प्रभावी हस्तक्षेपाला अडथळा आणत आहे, ज्यासाठी धोरणकर्ते आणि जनतेकडून तातडीने लक्ष देण्याची मागणी आहे."
-            },
-            "hi": {
-                "title": "भारत में बढ़ता वज़न संकट: केवल जीवनशैली मानना गलत",
-                "content": "अब चार में से एक भारतीय अधिक वज़न का है, जिससे विशेषज्ञों ने एक बड़े स्वास्थ्य संकट की चेतावनी दी है। चिंताजनक आँकड़ों के बावजूद, मोटापे को अक्सर केवल 'जीवनशैली की पसंद' के रूप में गलत तरीके से देखा जाता है, जिससे महत्वपूर्ण सार्वजनिक स्वास्थ्य कार्रवाई में देरी होती है। यह गलत धारणा तेज़ी से बढ़ती राष्ट्रीय स्वास्थ्य चुनौती के खिलाफ प्रभावी हस्तक्षेप में बाधा डाल रही है, जिसके लिए नीति निर्माताओं और जनता दोनों से तत्काल ध्यान देने की आवश्यकता है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129792725,imgsize-678330.cms",
-        "link": "https://timesofindia.indiatimes.com/india/1-in-4-indians-overweight-but-obesity-still-seen-as-lifestyle-experts-warn-of-growing-crisis/articleshow/129792729.cms"
-    },
-    {
-        "id": "37365642",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "India's TB Fight: Mass Screening Yields Hope",
-                "content": "India continues to battle TB, its deadliest infectious disease. However, a nationwide mass screening initiative is showing promising results, significantly increasing case detection. This proactive approach is crucial in curbing the spread and reducing mortality, bringing renewed hope to India's fight against tuberculosis and moving closer to elimination targets."
-            },
-            "kn": {
-                "title": "ಭಾರತದ ಟಿಬಿ ಹೋರಾಟ: ಸಾಮೂಹಿಕ ತಪಾಸಣೆಯಿಂದ ಭರವಸೆ",
-                "content": "ಭಾರತವು ತನ್ನ ಅತ್ಯಂತ ಮಾರಣಾಂತಿಕ ಸಾಂಕ್ರಾಮಿಕ ರೋಗವಾದ ಟಿಬಿ ವಿರುದ್ಧ ಹೋರಾಟವನ್ನು ಮುಂದುವರೆಸಿದೆ. ಆದಾಗ್ಯೂ, ರಾಷ್ಟ್ರವ್ಯಾಪಿ ಸಾಮೂಹಿಕ ತಪಾಸಣೆ ಉಪಕ್ರಮವು ಭರವಸೆಯ ಫಲಿತಾಂಶಗಳನ್ನು ತೋರಿಸುತ್ತಿದೆ, ಪ್ರಕರಣ ಪತ್ತೆಯನ್ನು ಗಣನೀಯವಾಗಿ ಹೆಚ್ಚಿಸುತ್ತಿದೆ. ಈ ಪೂರ್ವಭಾವಿ ವಿಧಾನವು ರೋಗ ಹರಡುವಿಕೆಯನ್ನು ನಿಯಂತ್ರಿಸಲು ಮತ್ತು ಮರಣ ಪ್ರಮಾಣವನ್ನು ಕಡಿಮೆ ಮಾಡಲು ನಿರ್ಣಾಯಕವಾಗಿದೆ, ಇದು ಭಾರತದ ಕ್ಷಯರೋಗದ ವಿರುದ್ಧದ ಹೋರಾಟಕ್ಕೆ ಹೊಸ ಭರವಸೆ ತರುತ್ತಿದೆ ಮತ್ತು ನಿರ್ಮೂಲನ ಗುರಿಗಳತ್ತ ಸಾಗುತ್ತಿದೆ."
-            },
-            "mr": {
-                "title": "भारताची टीबीशी लढाई: सामूहिक तपासणीतून आशा",
-                "content": "भारत आपल्या सर्वात प्राणघातक संसर्गजन्य आजार असलेल्या टीबीशी लढत आहे. तथापि, देशव्यापी सामूहिक तपासणी मोहीम आशादायक परिणाम दर्शवित आहे, ज्यामुळे रुग्ण शोध मोठ्या प्रमाणात वाढला आहे. हा सक्रिय दृष्टिकोन प्रसार रोखण्यासाठी आणि मृत्यूदर कमी करण्यासाठी महत्त्वाचा आहे, ज्यामुळे भारताच्या क्षयरोगाविरुद्धच्या लढ्याला नवी आशा मिळत आहे आणि निर्मूलनाच्या लक्ष्यांच्या दिशेने वाटचाल करत आहे."
-            },
-            "hi": {
-                "title": "भारत की टीबी से जंग: सामूहिक स्क्रीनिंग से जगी उम्मीद",
-                "content": "भारत अपने सबसे घातक संक्रामक रोग, टीबी से लगातार जूझ रहा है। हालांकि, देशव्यापी सामूहिक स्क्रीनिंग पहल आशाजनक परिणाम दिखा रही है, जिससे मामलों का पता लगाने में काफी वृद्धि हुई है। यह सक्रिय दृष्टिकोण प्रसार को रोकने और मृत्यु दर को कम करने के लिए महत्वपूर्ण है, जिससे भारत की टीबी के खिलाफ लड़ाई को नई उम्मीद मिल रही है और यह उन्मूलन लक्ष्यों के करीब पहुंच रहा है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129791457,imgsize-78656.cms",
-        "link": "https://timesofindia.indiatimes.com/india/tb-remains-indias-biggest-infectious-killer-but-mass-screening-push-shows-results/articleshow/129791337.cms"
     }
 ]
