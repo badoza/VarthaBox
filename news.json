@@ -1,5 +1,30 @@
 [
     {
+        "id": "ac9d2ce8",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "IPL 2026: Your Complete Viewing Guide",
+                "content": "IPL 2026 is here! Get ready for the thrilling Indian Premier League cricket season. This guide provides your ultimate resource: discover official live streams, detailed fixture lists, and crucial tips to ensure you catch every boundary and wicket. Plan your viewing strategy now, follow your favorite teams, and immerse yourself in the electrifying action from anywhere. Don't miss a moment!"
+            },
+            "kn": {
+                "title": "IPL 2026: ನಿಮ್ಮ ಸಂಪೂರ್ಣ ವೀಕ್ಷಣೆ ಮಾರ್ಗದರ್ಶಿ",
+                "content": "IPL 2026 ಬಂದಿದೆ! ಥ್ರಿಲ್ಲಿಂಗ್ ಇಂಡಿಯನ್ ಪ್ರೀಮಿಯರ್ ಲೀಗ್ ಕ್ರಿಕೆಟ್ ಸೀಸನ್‌ಗೆ ಸಿದ್ಧರಾಗಿ. ಈ ಮಾರ್ಗದರ್ಶಿ ನಿಮ್ಮ ಅಂತಿಮ ಸಂಪನ್ಮೂಲವಾಗಿದೆ: ಅಧಿಕೃತ ಲೈವ್ ಸ್ಟ್ರೀಮ್‌ಗಳು, ವಿವರವಾದ ಫಿಕ್ಸ್ಚರ್ ಪಟ್ಟಿಗಳು ಮತ್ತು ಪ್ರತಿ ಬೌಂಡರಿ ಮತ್ತು ವಿಕೆಟ್ ಅನ್ನು ತಪ್ಪದೆ ನೋಡಲು ನಿರ್ಣಾಯಕ ಸಲಹೆಗಳನ್ನು ಕಂಡುಕೊಳ್ಳಿ. ಇದೀಗ ನಿಮ್ಮ ವೀಕ್ಷಣೆ ತಂತ್ರವನ್ನು ಯೋಜಿಸಿ, ನಿಮ್ಮ ನೆಚ್ಚಿನ ತಂಡಗಳನ್ನು ಅನುಸರಿಸಿ ಮತ್ತು ಎಲ್ಲಿಂದಲಾದರೂ ವಿದ್ಯುನ್ಮಾನ ಕ್ರಿಯೆಯಲ್ಲಿ ಮುಳುಗಿರಿ. ಒಂದು ಕ್ಷಣವನ್ನೂ ಕಳೆದುಕೊಳ್ಳಬೇಡಿ!"
+            },
+            "mr": {
+                "title": "IPL 2026: तुमची संपूर्ण पाहण्याची मार्गदर्शिका",
+                "content": "IPL 2026 इथे आहे! थरारक इंडियन प्रीमियर लीग क्रिकेट हंगामासाठी सज्ज व्हा. ही मार्गदर्शिका तुमचे अंतिम संसाधन आहे: अधिकृत लाईव्ह स्ट्रीम्स, तपशीलवार वेळापत्रक आणि प्रत्येक चौकार आणि विकेट पाहण्यासाठी महत्त्वपूर्ण टिप्स शोधा. आत्ताच तुमची पाहण्याची रणनीती योजना करा, तुमच्या आवडत्या संघांना फॉलो करा आणि कुठूनही विद्युतीय ॲक्शनमध्ये स्वतःला सामील करा. एकही क्षण चुकवू नका!"
+            },
+            "hi": {
+                "title": "IPL 2026: आपकी संपूर्ण देखने की मार्गदर्शिका",
+                "content": "IPL 2026 आ गया है! रोमांचक इंडियन प्रीमियर लीग क्रिकेट सीज़न के लिए तैयार हो जाइए। यह मार्गदर्शिका आपका अंतिम संसाधन है: आधिकारिक लाइव स्ट्रीम, विस्तृत फिक्स्चर सूची और हर बाउंड्री व विकेट को देखने के लिए महत्वपूर्ण टिप्स जानें। अपनी देखने की रणनीति अभी प्लान करें, अपनी पसंदीदा टीमों को फॉलो करें और कहीं से भी रोमांचक एक्शन में डूब जाएं। एक भी पल न चूकें!"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1GdFRUNjdxQUw1UDFyTXZ3cVdtNVVlMi0zX3o3WlllbU16U2RmajBrLWNNZjAtempXelBJYko3aTFTa0RMYURfaXl2VHFScGtkZVRxRThkeW1wOHA1bkh2SWhaSURCN2xjSndaQWlkTE9XdmdXLWk4?oc=5",
+        "date": "Sat, 28 Mar 2026 10:00:00 GMT"
+    },
+    {
         "id": "4daf7d3e",
         "category": "IPL Scoop",
         "translations": {
@@ -1969,29 +1994,5 @@
         },
         "image": "https://static.toiimg.com/photo/msid-129835974,imgsize-1038726.cms",
         "link": "https://timesofindia.indiatimes.com/india/congress-again-attacks-governments-foreign-policy/articleshow/129835945.cms"
-    },
-    {
-        "id": "4a81da84",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "SC: Don't Grant Mechanical Bail in Dowry Deaths",
-                "content": "The Supreme Court has strongly cautioned High Courts against mechanically granting bail in dowry death cases. Highlighting dowry as a grave social evil causing thousands of women's unnatural deaths, the SC deemed a Patna High Court bail order unsustainable. It directed the accused husband to surrender, stressing the need for careful judicial consideration in such serious matters."
-            },
-            "kn": {
-                "title": "ವರದಕ್ಷಿಣೆ ಸಾವುಗಳಲ್ಲಿ ಯಾಂತ್ರಿಕ ಜಾಮೀನು ನೀಡಬೇಡಿ: ಎಸ್‌ಸಿ",
-                "content": "ವರದಕ್ಷಿಣೆ ಸಾವು ಪ್ರಕರಣಗಳಲ್ಲಿ ಯಾಂತ್ರಿಕವಾಗಿ ಜಾಮೀನು ನೀಡದಂತೆ ಸುಪ್ರೀಂ ಕೋರ್ಟ್ ಹೈಕೋರ್ಟ್‌ಗಳಿಗೆ ಬಲವಾಗಿ ಎಚ್ಚರಿಕೆ ನೀಡಿದೆ. ಸಾವಿರಾರು ಮಹಿಳೆಯರ ಅಸ್ವಾಭಾವಿಕ ಸಾವುಗಳಿಗೆ ಕಾರಣವಾಗುವ ವರದಕ್ಷಿಣೆ ಗಂಭೀರ ಸಾಮಾಜಿಕ ಪಿಡುಗು. ಪಟ್ನಾ ಹೈಕೋರ್ಟ್‌ನ ಜಾಮೀನು ಆದೇಶವನ್ನು ಅಸ್ಥಿರವೆಂದು ಪರಿಗಣಿಸಿದ ಸುಪ್ರೀಂ ಕೋರ್ಟ್, ಆರೋಪಿ ಪತಿಯನ್ನು ಶರಣಾಗಲು ನಿರ್ದೇಶಿಸಿದೆ. ಇಂತಹ ಗಂಭೀರ ವಿಷಯಗಳಲ್ಲಿ ಎಚ್ಚರಿಕೆಯ ನ್ಯಾಯಾಂಗ ಪರಿಗಣನೆಯ ಅಗತ್ಯವನ್ನು ಅದು ಒತ್ತಿಹೇಳಿದೆ."
-            },
-            "mr": {
-                "title": "हुंडाबळी प्रकरणांत यांत्रिक जामीन देऊ नका: SC",
-                "content": "सर्वोच्च न्यायालयाने उच्च न्यायालयांना हुंडाबळी प्रकरणांमध्ये यांत्रिकरित्या जामीन मंजूर करण्याविरोधात कठोरपणे ताकीद दिली आहे. हजारो महिलांच्या अनैसर्गिक मृत्यूला कारणीभूत ठरणारी हुंडा ही गंभीर सामाजिक वाईट प्रथा असल्याचे अधोरेखित करत, सर्वोच्च न्यायालयाने पाटणा उच्च न्यायालयाचा जामीन आदेश अस्थिर मानला. आरोपी पतीला शरण येण्याचे निर्देश देत, अशा गंभीर प्रकरणांमध्ये योग्य न्यायिक विचारांची गरज असल्याचे न्यायालयाने सांगितले."
-            },
-            "hi": {
-                "title": "दहेज मौतों में यांत्रिक जमानत न दें: SC",
-                "content": "सुप्रीम कोर्ट ने दहेज मृत्यु मामलों में यांत्रिक रूप से जमानत देने के खिलाफ उच्च न्यायालयों को कड़ी चेतावनी दी है। दहेज को हजारों महिलाओं की अप्राकृतिक मौतों का कारण बनने वाली एक गंभीर सामाजिक बुराई बताते हुए, SC ने पटना उच्च न्यायालय के जमानत आदेश को अस्वीकार्य ठहराया। इसने आरोपी पति को आत्मसमर्पण करने का निर्देश दिया, ऐसे गंभीर मामलों में सावधानीपूर्वक न्यायिक विचार की आवश्यकता पर जोर दिया।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129835909,imgsize-1046633.cms",
-        "link": "https://timesofindia.indiatimes.com/india/dowry-claims-lives-of-thousands-do-not-give-bail-for-such-deaths-mechanically-sc/articleshow/129835879.cms"
     }
 ]
