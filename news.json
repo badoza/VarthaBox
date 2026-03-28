@@ -1,5 +1,30 @@
 [
     {
+        "id": "e3e4efc9",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "Virat Kohli's ODI Form & Strategy Revealed",
+                "content": "Virat Kohli, following a strong IPL start, subtly reminded everyone of his formidable ODI form. He shared his strategic secret: focusing intently on one format at a time to maximize performance. This disciplined approach allows him to compartmentalize his game, ensuring sustained excellence across different cricketing challenges and maintaining his elite status in international cricket."
+            },
+            "kn": {
+                "title": "ವಿರಾಟ್ ಕೊಹ್ಲಿಯ ಏಕದಿನ ಫಾರ್ಮ್ ಮತ್ತು ತಂತ್ರ ಅನಾವರಣ",
+                "content": "ಐಪಿಎಲ್‌ನಲ್ಲಿ ಉತ್ತಮ ಆರಂಭದ ನಂತರ, ವಿರಾಟ್ ಕೊಹ್ಲಿ ತಮ್ಮ ಅದ್ಭುತ ಏಕದಿನ ಫಾರ್ಮ್ ಅನ್ನು ನೆನಪಿಸಿದರು. ಅವರು ತಮ್ಮ ಕಾರ್ಯತಂತ್ರದ ರಹಸ್ಯವನ್ನು ಹಂಚಿಕೊಂಡರು: ಗರಿಷ್ಠ ಕಾರ್ಯಕ್ಷಮತೆಗಾಗಿ ಒಂದೇ ಸಮಯದಲ್ಲಿ ಒಂದು ಸ್ವರೂಪದ ಮೇಲೆ ತೀವ್ರವಾಗಿ ಗಮನಹರಿಸುವುದು. ಈ ಶಿಸ್ತುಬದ್ಧ ವಿಧಾನವು ಅವರಿಗೆ ತಮ್ಮ ಆಟವನ್ನು ವಿಭಜಿಸಲು, ವಿವಿಧ ಕ್ರಿಕೆಟ್ ಸವಾಲುಗಳಲ್ಲಿ ನಿರಂತರ ಶ್ರೇಷ್ಠತೆಯನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು ಮತ್ತು ಅಂತರರಾಷ್ಟ್ರೀಯ ಕ್ರಿಕೆಟ್‌ನಲ್ಲಿ ತಮ್ಮ ಗಣ್ಯ ಸ್ಥಾನವನ್ನು ಕಾಯ್ದುಕೊಳ್ಳಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "विराट कोहलीचा एकदिवसीय फॉर्म आणि रणनीती उघड",
+                "content": "आयपीएलमध्ये दमदार सुरुवातीनंतर, विराट कोहलीने आपल्या जबरदस्त एकदिवसीय फॉर्मची आठवण करून दिली. त्याने आपले धोरणात्मक रहस्य सांगितले: उत्कृष्ट कामगिरीसाठी एका वेळी एकाच फॉरमॅटवर लक्ष केंद्रित करणे. हा शिस्तबद्ध दृष्टिकोन त्याला आपला खेळ विभागण्यास, विविध क्रिकेट आव्हानांमध्ये सतत उत्कृष्ट कामगिरी सुनिश्चित करण्यास आणि आंतरराष्ट्रीय क्रिकेटमधील त्याचा उच्च दर्जा कायम राखण्यास मदत करतो."
+            },
+            "hi": {
+                "title": "विराट कोहली का वनडे फॉर्म और रणनीति का खुलासा",
+                "content": "आईपीएल में शानदार शुरुआत के बाद, विराट कोहली ने अपनी जबरदस्त वनडे फॉर्म की याद दिलाई। उन्होंने अपनी रणनीतिक रहस्य साझा किया: अधिकतम प्रदर्शन के लिए एक समय में एक प्रारूप पर गहन ध्यान केंद्रित करना। यह अनुशासित दृष्टिकोण उन्हें अपने खेल को विभाजित करने, विभिन्न क्रिकेट चुनौतियों में निरंतर उत्कृष्टता सुनिश्चित करने और अंतरराष्ट्रीय क्रिकेट में अपनी विशिष्ट स्थिति बनाए रखने में मदद करता है।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPbWlUWGVWSlRQMWF1QnVNSTlfZzJQNTgzNmFnMW1kNk5UcDRpdHBaTXk0eklfX2NSMndia0lVOWQ1WVpQUVFOWWYwVGVfVEFBaGU3R0tpR19fRnpYSzd2QS1rUXdvcnNrVGFEb1llSmU3eVFKRHpyemdabzR4NEw5RkNRV0pHLV94Ymo1QnUxRXc5MVd3NlJIY2dsdl82QmJmNWp6UHZudWVaMTQwQ1V1UlVtR0hQSHB3d1F5a0lCMlR6NGRyeEpYdWgxRmN1eXpFcGtOamFCenZpY0JybkEya1JwTTE4TjJ4WHFrcjhtMDlKbW03TFpjRHk3RmZUaW00V19hbWlxOFp1S1XSAZACQVVfeXFMT2FVbXRycno5V0xkNmpRa0tfVmM2eUM2TW5fN05rVUI4UVNjZi1hc1RpNHRVN3NqdnRNdTk0SVFTUGhrTXFTYUtCVGpQR0Zvcm82N3FyMVVObF9uVEJRd3lka1lGOXZhUTN6YjdXYl9NZlNGUGlzSW9RNmxDdkt5b0M4bE1qT3RwUzZmVTFqV0ZMSS1pQ2JobzY0R2VETVBhS2E1QmJrMWg1X2N0UllLZ1g1ZzZ6U2loMWZPMkJkWnk0UUpaQ0pJQVZHZTdLdTBBd2ZKQTJRbzFFaC1VXy1wdE9kbnVKU2dlUE8xajlvc3JickJKMGNldjZySnZVR0hQTm1WY0ZrY1hSMWV2aE5sU1o?oc=5",
+        "date": "Sat, 28 Mar 2026 18:15:30 GMT"
+    },
+    {
         "id": "df423aeb",
         "category": "IPL Scoop",
         "translations": {
@@ -1973,30 +1998,5 @@
         "image": "https://static.toiimg.com/photo/msid-129837971,imgsize-99424.cms",
         "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/pressure-trolling-captaincy-riyan-parag-faces-his-biggest-ipl-yet/articleshow/129837914.cms",
         "date": "2026-03-27T09:05:19+05:30"
-    },
-    {
-        "id": "5393f65f",
-        "category": "Sports",
-        "translations": {
-            "en": {
-                "title": "Teen Cricket Prodigy's Meteoric Rise",
-                "content": "Teen cricket sensation Vaibhav Sooryavanshi, known for hitting a 157kph ball for six at a young age, is now dominating the sport. The prodigy, who turned 15 in 2026, smashed a 35-ball century in IPL 2025. Rajasthan Royals secured him for Rs 1.1 crore, a significant investment already proving fruitful in his remarkable rise."
-            },
-            "kn": {
-                "title": "ಯುವ ಕ್ರಿಕೆಟ್ ಅತಿರಥನ ಅಸಾಧಾರಣ ಏರಿಕೆ",
-                "content": "ಯುವ ಕ್ರಿಕೆಟ್ ಸಂವೇದನೆ ವೈಭವ್ ಸೂರ್ಯವಂಶಿ, ಚಿಕ್ಕ ವಯಸ್ಸಿನಲ್ಲಿ 157 ಕಿಮೀ ವೇಗದ ಚೆಂಡನ್ನು ಸಿಕ್ಸ್‌ಗೆ ಅಟ್ಟಿದ್ದಕ್ಕಾಗಿ ಹೆಸರುವಾಸಿ. ಈಗ ಕ್ರೀಡೆಯಲ್ಲಿ ಪ್ರಾಬಲ್ಯ ಸಾಧಿಸುತ್ತಿದ್ದಾರೆ. 2026ರಲ್ಲಿ 15 ವರ್ಷ ತುಂಬಿದ ಈ ಪ್ರತಿಭಾವಂತ, IPL 2025ರಲ್ಲಿ 35 ಎಸೆತಗಳಲ್ಲಿ ಶತಕ ಸಿಡಿಸಿದರು. ರಾಜಸ್ಥಾನ್ ರಾಯಲ್ಸ್ ಅವರನ್ನು 1.1 ಕೋಟಿ ರೂಪಾಯಿಗೆ ಪಡೆದುಕೊಂಡಿದೆ, ಇದು ಅವರ ಅದ್ಭುತ ಏರಿಕೆಯಲ್ಲಿ ಈಗಾಗಲೇ ಫಲಪ್ರದ ಹೂಡಿಕೆಯಾಗಿದೆ."
-            },
-            "mr": {
-                "title": "युवा क्रिकेट प्रतिभेची गगनभरारी",
-                "content": "लहान वयात 157 किमी प्रतितास वेगाने आलेल्या चेंडूला षटकार मारून चर्चेत आलेला युवा क्रिकेटपटू वैभव सूर्यवंशी आता क्रिकेटमध्ये वर्चस्व गाजवत आहे. 2026 मध्ये 15 वर्षांचा झालेल्या या प्रतिभावान खेळाडूने IPL 2025 मध्ये 35 चेंडूत शतक ठोकले. राजस्थान रॉयल्सने त्याला 1.1 कोटी रुपयांना विकत घेतले, ही गुंतवणूक त्याच्या उल्लेखनीय यशात आधीच फलदायी ठरली आहे."
-            },
-            "hi": {
-                "title": "युवा क्रिकेट प्रतिभा का तूफानी उदय",
-                "content": "युवा क्रिकेट सनसनी वैभव सूर्यवंशी, जो कम उम्र में 157 किमी प्रति घंटे की रफ्तार वाली गेंद पर छक्का मारने के लिए जाने जाते हैं, अब खेल में अपना दबदबा बना रहे हैं। 2026 में 15 साल के हुए इस विलक्षण खिलाड़ी ने IPL 2025 में 35 गेंदों में शतक जड़ा। राजस्थान रॉयल्स ने उन्हें 1.1 करोड़ रुपये में खरीदा, जो उनके उल्लेखनीय उदय में पहले ही एक सफल निवेश साबित हुआ है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129839427,imgsize-41110.cms",
-        "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/when-13-year-old-vaibhav-sooryavanshi-smashed-a-157kph-ball-for-straight-six/articleshow/129839408.cms",
-        "date": "2026-03-27T11:02:17+05:30"
     }
 ]
