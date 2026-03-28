@@ -1,5 +1,30 @@
 [
     {
+        "id": "4daf7d3e",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "IPL 2026: RCB vs SRH Key Players Preview",
+                "content": "Get ready for an electrifying IPL 2026 clash between Royal Challengers Bangalore and Sunrisers Hyderabad! Ahead of today's high-octane encounter, we highlight five standout players poised to make a significant impact. From power-hitters to strategic bowlers, these talents are crucial for their team's success. Don't miss who could be the game-changers in this thrilling showdown!"
+            },
+            "kn": {
+                "title": "ಐಪಿಎಲ್ 2026: ಆರ್‌ಸಿಬಿ vs ಎಸ್‌ಆರ್‌ಹೆಚ್ ಪ್ರಮುಖ ಆಟಗಾರರ ಪೂರ್ವವೀಕ್ಷಣೆ",
+                "content": "ರಾಯಲ್ ಚಾಲೆಂಜರ್ಸ್ ಬೆಂಗಳೂರು ಮತ್ತು ಸನ್‌ರೈಸರ್ಸ್ ಹೈದರಾಬಾದ್ ನಡುವಿನ ಐಪಿಎಲ್ 2026 ರ ರೋಮಾಂಚಕ ಹಣಾಹಣಿಗೆ ಸಿದ್ಧರಾಗಿ! ಇಂದಿನ ಹೈ-ಆಕ್ಟೇನ್ ಪಂದ್ಯದ ಮೊದಲು, ಮಹತ್ವದ ಪರಿಣಾಮ ಬೀರಲು ಸಿದ್ಧವಾಗಿರುವ ಐದು ಪ್ರಮುಖ ಆಟಗಾರರನ್ನು ನಾವು ಎತ್ತಿ ತೋರಿಸುತ್ತೇವೆ. ಪವರ್-ಹಿಟ್ಟರ್‌ಗಳಿಂದ ಹಿಡಿದು ಕಾರ್ಯತಂತ್ರದ ಬೌಲರ್‌ಗಳವರೆಗೆ, ಈ ಪ್ರತಿಭೆಗಳು ತಮ್ಮ ತಂಡದ ಯಶಸ್ಸಿಗೆ ನಿರ್ಣಾಯಕವಾಗಿವೆ. ಈ ರೋಮಾಂಚಕ ಹಣಾಹಣಿಯಲ್ಲಿ ಯಾರು ಗೇಮ್-ಚೇಂಜರ್‌ಗಳಾಗಬಹುದು ಎಂಬುದನ್ನು ತಪ್ಪಿಸಿಕೊಳ್ಳಬೇಡಿ!"
+            },
+            "mr": {
+                "title": "आयपीएल 2026: आरसीबी विरुद्ध एसआरएच महत्त्वाच्या खेळाडूंचे पूर्वावलोकन",
+                "content": "रॉयल चॅलेंजर्स बंगलोर आणि सनरायझर्स हैदराबाद यांच्यातील आयपीएल 2026 च्या विद्युत् वेगाच्या सामन्यासाठी सज्ज व्हा! आजच्या रोमांचक लढतीपूर्वी, आम्ही महत्त्वपूर्ण प्रभाव पाडण्यासाठी सज्ज असलेल्या पाच महत्त्वाच्या खेळाडूंना अधोरेखित करतो. पॉवर-हिटरपासून ते धोरणात्मक गोलंदाजांपर्यंत, हे खेळाडू त्यांच्या संघाच्या यशासाठी महत्त्वाचे आहेत. या थरारक सामन्यात कोण गेम-चेंजर ठरू शकते, हे पाहणे चुकवू नका!"
+            },
+            "hi": {
+                "title": "आईपीएल 2026: आरसीबी बनाम एसआरएच प्रमुख खिलाड़ियों का पूर्वावलोकन",
+                "content": "रॉयल चैलेंजर्स बैंगलोर और सनराइजर्स हैदराबाद के बीच आईपीएल 2026 के रोमांचक मुकाबले के लिए तैयार हो जाइए! आज के हाई-ऑक्टेन मुकाबले से पहले, हम पांच ऐसे प्रमुख खिलाड़ियों को उजागर करते हैं जो महत्वपूर्ण प्रभाव डालने के लिए तैयार हैं। पावर-हिटर से लेकर रणनीतिक गेंदबाजों तक, ये प्रतिभाएं अपनी टीम की सफलता के लिए महत्वपूर्ण हैं। इस रोमांचक मुकाबले में कौन गेम-चेंजर हो सकता है, यह देखना न भूलें!"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMFJLTlZVSkRjSUtQaWxTamJVSzZKbjA0M1JCRXpPUGctZjJxb1A4RFVsTjJDd2hPTWZvell0TzRfQXFxbEFrUkZwbzVXVkdvUzRHZE8ySmRZMndNc3RpamJwY0xOMS1TZE1fc0JlaGVUbzRSYVA0dFpyaks1cU1DM2poYl9JZWFSUkc2TnRlWVRPb2hJdXdBbFR5TGxKZ0NfRXhlT3I2RlN3T01GWjBibzFQOVlibnlIWEo4aHk0VHJzY3N3TWFiN0FzNjR5dEZuSnZBelBNXy1naTEzMVBPMThWdDBybk1TTm8w0gHwAUFVX3lxTFB6ckI0T3JONnUzUlJpcEpFUUR3WnBYRnU5d3pkVHJINC1tM2h4UnVndmNQSzNJZWlMd1R3UDJjNG14SlBfaEUzVDFLdnRSaUV1ek5ybUlUZlRIT3dqM3RyLWJmWTA5Rm1zQ2VZc2xmSXhvRGdSRy1ybUNxT1MwTi1ZSDlOekNhM25MUlF5S05hMkE2Ym9uanJvNERnUkJidVlhSlVpSE9vZGR5ZmhvTnVMX1pJUmpPRzM2TnlyWTdTaS1aMFQ4UVhqcUx1cE9SZVdvdFBuMm82QmlHYUJOVTVsWUt2cGZTekUtOE1sLXY0Xw?oc=5",
+        "date": "Sat, 28 Mar 2026 08:30:00 GMT"
+    },
+    {
         "id": "aca064be",
         "category": "IPL Scoop",
         "translations": {
@@ -1968,29 +1993,5 @@
         },
         "image": "https://static.toiimg.com/photo/msid-129835909,imgsize-1046633.cms",
         "link": "https://timesofindia.indiatimes.com/india/dowry-claims-lives-of-thousands-do-not-give-bail-for-such-deaths-mechanically-sc/articleshow/129835879.cms"
-    },
-    {
-        "id": "a44f9339",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "EC: ₹400 Cr Poll Inducements Seized",
-                "content": "The Election Commission announced seizures of over ₹400 crore in poll inducements across election-bound states and UTs since February 26. This massive crackdown targeted cash, liquor, drugs, precious metals, and freebies meant to sway voters. Tamil Nadu recorded the highest seizures. The EC is intensifying efforts, deploying enforcement teams and reviewing poll readiness to ensure free and fair elections."
-            },
-            "kn": {
-                "title": "EC: ₹400 ಕೋಟಿ ಮತ ಪ್ರಚೋದನೆ ವಸ್ತುಗಳು ವಶ",
-                "content": "ಚುನಾವಣಾ ಆಯೋಗವು ಫೆಬ್ರವರಿ 26 ರಿಂದ ಚುನಾವಣೆ ಎದುರಿಸುತ್ತಿರುವ ರಾಜ್ಯಗಳಲ್ಲಿ ₹400 ಕೋಟಿಗೂ ಹೆಚ್ಚು ಮೌಲ್ಯದ ಮತ ಪ್ರಚೋದನೆ ವಸ್ತುಗಳನ್ನು ವಶಪಡಿಸಿಕೊಂಡಿರುವುದಾಗಿ ಘೋಷಿಸಿದೆ. ಮತದಾರರನ್ನು ಪ್ರಭಾವಿಸಲು ಉದ್ದೇಶಿಸಿದ ನಗದು, ಮದ್ಯ, ಮಾದಕವಸ್ತುಗಳು, ಲೋಹಗಳು ಮತ್ತು ಉಚಿತ ವಸ್ತುಗಳನ್ನು ಈ ಕಾರ್ಯಾಚರಣೆ ಒಳಗೊಂಡಿದೆ. ತಮಿಳುನಾಡು ಅತಿ ಹೆಚ್ಚು ಜಪ್ತಿ ದಾಖಲಿಸಿದೆ. ಮುಕ್ತ ಮತ್ತು ನ್ಯಾಯಸಮ್ಮತ ಚುನಾವಣೆ ಖಚಿತಪಡಿಸಲು ಇಸಿ ಜಾರಿ ತಂಡಗಳನ್ನು ನಿಯೋಜಿಸಿ ಸಿದ್ಧತೆಗಳನ್ನು ಪರಿಶೀಲಿಸುತ್ತಿದೆ."
-            },
-            "mr": {
-                "title": "निवडणूक आयोग: ₹400 कोटींची निवडणूक प्रलोभने जप्त",
-                "content": "निवडणूक आयोगाने 26 फेब्रुवारीपासून निवडणूक असलेल्या राज्यांमध्ये ₹400 कोटींहून अधिक किमतीची निवडणूक प्रलोभने जप्त केल्याची घोषणा केली. मतदारांना प्रभावित करण्यासाठी रोख रक्कम, दारू, अंमली पदार्थ, मौल्यवान धातू आणि मोफत वस्तूंचा यात समावेश होता. तामिळनाडूमध्ये सर्वाधिक जप्ती झाली. मुक्त आणि निष्पक्ष निवडणुका सुनिश्चित करण्यासाठी आयोग अंमलबजावणी पथके तैनात करत असून तयारीचा आढावा घेत आहे."
-            },
-            "hi": {
-                "title": "चुनाव आयोग: ₹400 करोड़ के चुनावी प्रलोभन जब्त",
-                "content": "चुनाव आयोग ने 26 फरवरी से चुनाव वाले राज्यों में ₹400 करोड़ से अधिक के चुनावी प्रलोभन जब्त करने की घोषणा की है। इस कार्रवाई में मतदाताओं को लुभाने के लिए नकदी, शराब, ड्रग्स, कीमती धातुएं और मुफ्त चीजें शामिल थीं। तमिलनाडु में सर्वाधिक बरामदगी हुई है। आयोग स्वतंत्र और निष्पक्ष चुनाव सुनिश्चित करने के लिए प्रवर्तन टीमों को तैनात कर रहा है और तैयारियों की समीक्षा कर रहा है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129834984,imgsize-1152768.cms",
-        "link": "https://timesofindia.indiatimes.com/india/poll-inducement-seizures-cross-400-crore-ec/articleshow/129834766.cms"
     }
 ]
