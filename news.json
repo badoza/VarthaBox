@@ -1,5 +1,30 @@
 [
     {
+        "id": "0adcd955",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "IPL 2026: A Season of High Stakes & Unforgettable Drama",
+                "content": "IPL 2026 is back, promising a whirlwind season unlike any before. Get ready for thrilling triumphs, unexpected tragedies, and gripping controversies that will keep fans on the edge of their seats. This edition is set to deliver an unforgettable tournament, where every match is packed with intense action and dramatic twists. Don't miss the high-octane spectacle!"
+            },
+            "kn": {
+                "title": "IPL 2026: ಉನ್ನತ ಪಣಗಳು ಮತ್ತು ಅವಿಸ್ಮರಣೀಯ ನಾಟಕದ ಋತು",
+                "content": "IPL 2026 ಮರಳಿದೆ, ಹಿಂದೆಂದೂ ಇಲ್ಲದಂತಹ ಸುಂಟರಗಾಳಿಯ ಋತುವನ್ನು ಭರವಸೆ ನೀಡುತ್ತದೆ. ರೋಮಾಂಚಕ ವಿಜಯಗಳು, ಅನಿರೀಕ್ಷಿತ ದುರಂತಗಳು ಮತ್ತು ಅಭಿಮಾನಿಗಳನ್ನು ಕುರ್ಚಿಯ ಅಂಚಿನಲ್ಲಿ ಇರಿಸುವ ಭುಗಿಲೇಳುವ ವಿವಾದಗಳಿಗೆ ಸಿದ್ಧರಾಗಿ. ಈ ಆವೃತ್ತಿಯು ಅವಿಸ್ಮರಣೀಯ ಪಂದ್ಯಾವಳಿಯನ್ನು ನೀಡಲು ಸಿದ್ಧವಾಗಿದೆ, ಅಲ್ಲಿ ಪ್ರತಿ ಪಂದ್ಯವು ತೀವ್ರ ಆಕ್ಷನ್ ಮತ್ತು ನಾಟಕೀಯ ತಿರುವುಗಳಿಂದ ತುಂಬಿರುತ್ತದೆ. ಈ ಉನ್ನತ-ಆಕ್ಟೇನ್ ದೃಶ್ಯವನ್ನು ತಪ್ಪಿಸಿಕೊಳ್ಳಬೇಡಿ!"
+            },
+            "mr": {
+                "title": "IPL 2026: उच्च दाव आणि अविस्मरणीय नाट्याचा हंगाम",
+                "content": "IPL 2026 परतले आहे, पूर्वी कधीही न पाहिलेला वादळी हंगाम घेऊन. थरारक विजय, अनपेक्षित दुःखद घटना आणि प्रेक्षकांना खिळवून ठेवणारे वाद यांच्यासाठी सज्ज व्हा. ही स्पर्धा अविस्मरणीय असेल, जिथे प्रत्येक सामना तीव्र कृती आणि नाट्यमय ट्विस्टने भरलेला असेल. हा उच्च-ऑक्टेन थरार गमावू नका!"
+            },
+            "hi": {
+                "title": "IPL 2026: उच्च दांव और अविस्मरणीय ड्रामा का सीज़न",
+                "content": "IPL 2026 वापस आ गया है, जो पहले कभी न देखे गए तूफानी सीज़न का वादा कर रहा है। रोमांचक जीत, अप्रत्याशित त्रासदियों और सनसनीखेज विवादों के लिए तैयार हो जाइए जो प्रशंसकों को अपनी सीटों से बांधे रखेंगे। यह संस्करण एक अविस्मरणीय टूर्नामेंट देने के लिए तैयार है, जहाँ हर मैच तीव्र एक्शन और नाटकीय मोड़ों से भरा होगा। इस हाई-ऑक्टेन तमाशे को देखने से न चूकें!"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdkFQbDVDdlhib0tJcnRnMTBzcTl0Ykc1Qi15X1ctVWtOYmhuV0VUZ0dXYzdVSW50Yml4VlJtZS03d0txelZWVFhJbWN1MnkxYkJ5ZTNPanpTLUhCM2wyTFgtVUhKYXRuT191a3NuVllrUHN5V0ZQSGdBZy1FTElvQ1lYYlhWaUtwR19BZ3pNM2I?oc=5",
+        "date": "Sat, 28 Mar 2026 17:30:29 GMT"
+    },
+    {
         "id": "059fb4eb",
         "category": "IPL Scoop",
         "translations": {
@@ -1973,30 +1998,5 @@
         "image": "https://static.toiimg.com/photo/msid-129841534,imgsize-69476.cms",
         "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-weekend-schedule-new-season-kicks-off-check-matches-venues-timings/articleshow/129841551.cms",
         "date": "2026-03-27T13:02:57+05:30"
-    },
-    {
-        "id": "cd9d3b4e",
-        "category": "Sports",
-        "translations": {
-            "en": {
-                "title": "PSL's Pink Ball Blunder",
-                "content": "PSL 2026 began with a bizarre incident: the white match ball turned pink from dye bleeding off Hyderabad Kingsmen's jerseys. Former cricketer Kamran Akmal blasted the league for poor-quality kits, likening them to cheaply dyed dupattas. Captain Marnus Labuschagne expressed bewilderment at the unprecedented event, sparking widespread criticism and embarrassment for the Pakistan Super League."
-            },
-            "kn": {
-                "title": "ಪಿಎಸ್‌ಎಲ್‌ ಪಿಂಕ್‌ ಬಾಲ್ ವಿವಾದ",
-                "content": "ಪಿಎಸ್‌ಎಲ್ 2026 ವಿಚಿತ್ರ ಘಟನೆಯೊಂದಿಗೆ ಆರಂಭವಾಯಿತು: ಹೈದರಾಬಾದ್ ಕಿಂಗ್ಸ್‌ಮೆನ್ ಜರ್ಸಿಗಳಿಂದ ಬಣ್ಣ ಸೋರಿಕೆಯಾಗಿ ಬಿಳಿ ಮ್ಯಾಚ್ ಬಾಲ್ ಗುಲಾಬಿ ಬಣ್ಣಕ್ಕೆ ತಿರುಗಿತು. ಮಾಜಿ ಕ್ರಿಕೆಟಿಗ ಕಮ್ರಾನ್ ಅಕ್ಮಲ್ ಕಳಪೆ ಗುಣಮಟ್ಟದ ಕಿಟ್‌ಗಳಿಗಾಗಿ ಲೀಗ್ ಅನ್ನು ತೀವ್ರವಾಗಿ ಟೀಕಿಸಿದರು, ಅವು ಅಗ್ಗವಾಗಿ ಬಣ್ಣ ಹಾಕಿದ ದುಪ್ಪಟ್ಟಾಗಳಂತಿವೆ ಎಂದು ಹೇಳಿದರು. ನಾಯಕ ಮಾರ್ನಸ್ ಲಾಬುಶೇನ್ ಈ ಅಭೂತಪೂರ್ವ ಘಟನೆಯ ಬಗ್ಗೆ ದಿಗ್ಭ್ರಮೆ ವ್ಯಕ್ತಪಡಿಸಿದರು, ಇದು ಪಾಕಿಸ್ತಾನ ಸೂಪರ್ ಲೀಗ್‌ಗೆ ವ್ಯಾಪಕ ಟೀಕೆ ಮತ್ತು ಮುಜುಗರವನ್ನು ತಂದಿತು."
-            },
-            "mr": {
-                "title": "पीएसएलचा पिंक बॉल गोंधळ",
-                "content": "पीएसएल 2026 ची सुरुवात एका विचित्र घटनेने झाली: हैदराबाद किंग्जमेनच्या जर्सीमधून रंग गळल्याने पांढरा मॅच बॉल गुलाबी झाला. माजी क्रिकेटर कामरान अकमलने निकृष्ट दर्जाच्या किटसाठी लीगवर जोरदार टीका केली, त्यांना स्वस्त रंगवलेल्या दुपट्ट्यासारखे म्हटले. कर्णधार मार्नस लाबुशेनने या अभूतपूर्व घटनेबद्दल आश्चर्य व्यक्त केले, ज्यामुळे पाकिस्तान सुपर लीगसाठी व्यापक टीका आणि लाजिरवाणे झाले."
-            },
-            "hi": {
-                "title": "पीएसएल का पिंक बॉल बवाल",
-                "content": "पीएसएल 2026 की शुरुआत एक अजीब घटना से हुई: हैदराबाद किंग्समैन की जर्सी से रंग निकलने के कारण सफेद मैच बॉल गुलाबी हो गई. पूर्व क्रिकेटर कामरान अकमल ने खराब गुणवत्ता वाली किट के लिए लीग की कड़ी आलोचना की, उन्हें सस्ते में रंगी हुई दुपट्टियों जैसा बताया. कप्तान मार्नस लाबुशेन ने इस अभूतपूर्व घटना पर हैरानी जताई, जिससे पाकिस्तान सुपर लीग को व्यापक आलोचना और शर्मिंदगी झेलनी पड़ी."
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129840535,imgsize-733023.cms",
-        "link": "https://timesofindia.indiatimes.com/sports/cricket/news/dupatta-gali-se-color-karwaya-hai-kamran-akmal-roasts-psl-over-jersey-color-fiasco/articleshow/129840470.cms",
-        "date": "2026-03-27T12:13:30+05:30"
     }
 ]
