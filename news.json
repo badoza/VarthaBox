@@ -1,5 +1,30 @@
 [
     {
+        "id": "540f371e",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "Pichai Recalls Brin's Return Amid AI Rivalry",
+                "content": "Google CEO Sundar Pichai recently recalled co-founder Sergey Brin's crucial presence during the intense challenge posed by ChatGPT. Brin's direct engagement provided vital leadership and a founder's perspective, helping Google navigate the new era of generative AI. His involvement underscored a collective effort to strengthen Google's position amidst fierce industry competition."
+            },
+            "kn": {
+                "title": "ಪಿಚೈ: ಎಐ ಸ್ಪರ್ಧೆಯ ನಡುವೆ ಬ್ರಿನ್ ಮರಳಿದ್ದನ್ನು ನೆನಪಿಸಿಕೊಂಡರು",
+                "content": "ಗೂಗಲ್ ಸಿಇಒ ಸುಂದರ್ ಪಿಚೈ ಇತ್ತೀಚೆಗೆ ಚಾಟ್‌ಜಿಪಿಟಿಯಿಂದ ಎದುರಾದ ತೀವ್ರ ಸವಾಲಿನ ಸಂದರ್ಭದಲ್ಲಿ ಸಹ-ಸಂಸ್ಥಾಪಕ ಸರ್ಗೆ ಬ್ರಿನ್ ಅವರ ನಿರ್ಣಾಯಕ ಉಪಸ್ಥಿತಿಯನ್ನು ಸ್ಮರಿಸಿದರು. ಬ್ರಿನ್ ಅವರ ನೇರ ಭಾಗವಹಿಸುವಿಕೆಯು ಗೂಗಲ್‌ನ ಹೊಸ ತಲೆಮಾರಿನ ಜೆನೆರೇಟಿವ್ ಎಐ ಯುಗವನ್ನು ನಿಭಾಯಿಸಲು ಪ್ರಮುಖ ನಾಯಕತ್ವ ಮತ್ತು ಸಂಸ್ಥಾಪಕರ ದೃಷ್ಟಿಕೋನವನ್ನು ಒದಗಿಸಿತು. ಅವರ ಪಾಲ್ಗೊಳ್ಳುವಿಕೆಯು ತೀವ್ರ ಸ್ಪರ್ಧೆಯ ನಡುವೆ ಗೂಗಲ್‌ನ ಸ್ಥಾನವನ್ನು ಬಲಪಡಿಸುವ ಸಾಮೂಹಿಕ ಪ್ರಯತ್ನವನ್ನು ಒತ್ತಿಹೇಳಿತು."
+            },
+            "mr": {
+                "title": "पिचाईंना एआय स्पर्धेदरम्यान ब्रिनच्या पुनरागमनाची आठवण",
+                "content": "गुगलचे सीईओ सुंदर पिचाई यांनी अलीकडेच चॅटजीपीटीने निर्माण केलेल्या तीव्र आव्हानादरम्यान सह-संस्थापक सर्गेई ब्रिन यांच्या महत्त्वपूर्ण उपस्थितीची आठवण करून दिली. ब्रिन यांच्या थेट सहभागामुळे गुगलला जनरेटिव्ह एआयच्या नवीन युगात नेव्हिगेट करण्यासाठी महत्त्वपूर्ण नेतृत्व आणि संस्थापकाचा दृष्टिकोन मिळाला. त्यांच्या सहभागाने तीव्र औद्योगिक स्पर्धेमध्ये गुगलची स्थिती मजबूत करण्याच्या सामूहिक प्रयत्नाला अधोरेखित केले."
+            },
+            "hi": {
+                "title": "पिचाई ने एआई प्रतिस्पर्धा के बीच ब्रिन की वापसी को याद किया",
+                "content": "गूगल के सीईओ सुंदर पिचाई ने हाल ही में चैटजीपीटी द्वारा उत्पन्न कड़ी चुनौती के दौरान सह-संस्थापक सर्गेई ब्रिन की महत्वपूर्ण उपस्थिति को याद किया। ब्रिन की सीधी भागीदारी ने गूगल को जनरेटिव एआई के नए युग में आगे बढ़ने में महत्वपूर्ण नेतृत्व और एक संस्थापक का दृष्टिकोण प्रदान किया। उनकी संलिप्तता ने तीव्र उद्योग प्रतिस्पर्धा के बीच गूगल की स्थिति को मजबूत करने के सामूहिक प्रयास पर जोर दिया।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNTFFhb1RzYWpGLW5yR1FmR2l4SENqVVQzMGZFZ3FhMXVLRG0zNVJ6Q3ZYeTZnZnc5cUdjVU94Mjk0eDlRcGlXZUd6VjJnMUw4VUdCQUZzVGVqSHl3RVpzWklQenI2b25jY0xJX3ZuTTRMZlVFTlludXNCM2h2TDRFOTFRUlNQME5mNGdrUlJTeUxLOC00R1IyYkhrYkg0aTlxUWpmV0lyWFlUN1JMaXJ5eFV1RFNOdDZHRFhxRkdUMVM3by00SXE1VldjVW56c0M0dXZ2MnJ5bUdLVEtJVzdzalBMdlRLUnM4Vl9ocHQwN3ltVk1WT0IwY29PMlEwc2xuU2xBMDNsQTE4OGVDM0ZaaTlTdkFtMFRoeHZwX0RxQTFXd05hRnFFY1VyZTF4MHpxelQxZ3BacnNKZjNwaXgwS3N5ZzF6a3PSAcwCQVVfeXFMT284aXlVU1EySThOWUx4cV9oZTVGX0JLT203NEZaY0Jwdk5vNEd4QWh3SWhaeXQ0aXl2U0tkdXJEV0hzaTBNZTdpZG5NY0J3QWdBc0pvdVhXaE1xQng5d2EzamhkYlVnLVZiUHhVYWZ5NTQza0lTY2JpZ1FwVEZsblpFaHd0SWsxNUx0NWRzZ3hPNDVDM3lfblMteXdTM3drZDdPVUpFaGlFaHVpZFFWMXl4bmhJN1JDUVpBdWt5dVl4clYyalZ4UVFfcjB0TEVQRUQtakltQnhPME83cVlwTEFpLXBud2dkRlNJeGFBWklCZzg4OExTZnZYdmU0Y3FTSGJXVXgySjM4RUd0azlDNk9RdEdFZ2FVcDBDYlV1RFlsZFdOcEs1UG1BcG5LOHZZcHZ1ZmFTdjhLWU9ObTZZMUZDbk1SQml4cEd6UEU?oc=5",
+        "date": "Fri, 27 Mar 2026 16:56:00 GMT"
+    },
+    {
         "id": "ca07dbd3",
         "category": "IPL Scoop",
         "translations": {
@@ -1940,29 +1965,5 @@
         },
         "image": "https://static.toiimg.com/photo/msid-129817438,imgsize-123666.cms",
         "link": "https://timesofindia.indiatimes.com/world/us/dont-want-third-world-rituals-us-rep-brandon-gills-chhat-puja-jibe-sparks-online-fury/articleshow/129817438.cms"
-    },
-    {
-        "id": "c99be86e",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "Melania Trump's Robot Teacher Sparks Backlash",
-                "content": "Melania Trump has drawn sharp criticism for unveiling 'Plato', an AI-powered robot teacher for American students. The initiative, aimed at modernizing education, faced immediate backlash with many questioning its necessity and effectiveness. Critics widely stated, \"No one asked for this,\" highlighting concerns over the human element in teaching and resource allocation."
-            },
-            "kn": {
-                "title": "ಮೆಲಾನಿಯಾ ಟ್ರಂಪ್ ಅವರ ರೋಬೋಟ್ ಶಿಕ್ಷಕ ತೀವ್ರ ಟೀಕೆಗೆ ಗುರಿ",
-                "content": "ಮೆಲಾನಿಯಾ ಟ್ರಂಪ್ ಅವರು ಅಮೆರಿಕನ್ ವಿದ್ಯಾರ್ಥಿಗಳಿಗಾಗಿ 'ಪ್ಲೇಟೋ' ಎಂಬ AI-ಚಾಲಿತ ರೋಬೋಟ್ ಶಿಕ್ಷಕನನ್ನು ಅನಾವರಣಗೊಳಿಸಿದ್ದಕ್ಕಾಗಿ ತೀವ್ರ ಟೀಕೆಗೆ ಒಳಗಾಗಿದ್ದಾರೆ. ಶಿಕ್ಷಣವನ್ನು ಆಧುನೀಕರಿಸುವ ಗುರಿಯನ್ನು ಹೊಂದಿದ್ದ ಈ ಉಪಕ್ರಮವು ತಕ್ಷಣದ ಹಿನ್ನಡೆಗೆ ಗುರಿಯಾಯಿತು, ಅನೇಕರು ಅದರ ಅಗತ್ಯತೆ ಮತ್ತು ಪರಿಣಾಮಕಾರಿತ್ವವನ್ನು ಪ್ರಶ್ನಿಸಿದರು. ವಿಮರ್ಶಕರು \"ಇದನ್ನು ಯಾರೂ ಕೇಳಿರಲಿಲ್ಲ\" ಎಂದು ವ್ಯಾಪಕವಾಗಿ ಹೇಳಿ, ಬೋಧನೆಯಲ್ಲಿ ಮಾನವ ಅಂಶ ಮತ್ತು ಸಂಪನ್ಮೂಲ ಹಂಚಿಕೆಯ ಬಗ್ಗೆ ಕಳವಳ ವ್ಯಕ್ತಪಡಿಸಿದರು."
-            },
-            "mr": {
-                "title": "मेलानिया ट्रम्पच्या रोबोट शिक्षकामुळे संताप",
-                "content": "मेलानिया ट्रम्प यांनी अमेरिकन विद्यार्थ्यांसाठी 'प्लेटो' नावाच्या एआय-शक्तीवर चालणाऱ्या रोबोट शिक्षकाचे अनावरण केल्याने तीव्र टीका ओढवून घेतली आहे. शिक्षणाच्या आधुनिकीकरणाच्या उद्देशाने सुरू करण्यात आलेल्या या उपक्रमाला त्वरित विरोध झाला, अनेकांनी त्याची गरज आणि परिणामकारकता यावर प्रश्नचिन्ह उपस्थित केले. \"याची कोणी मागणी नव्हती,\" असे म्हणत टीकाकारांनी शिकवण्यातील मानवी घटक आणि संसाधनांच्या वाटपाबद्दल चिंता व्यक्त केली."
-            },
-            "hi": {
-                "title": "मेलानिया ट्रम्प के रोबोट शिक्षक पर विवाद",
-                "content": "मेलानिया ट्रम्प को अमेरिकी छात्रों के लिए 'प्लेटो' नामक एआई-संचालित रोबोट शिक्षक का अनावरण करने पर कड़ी आलोचना का सामना करना पड़ा है। शिक्षा के आधुनिकीकरण के उद्देश्य से शुरू की गई इस पहल को तुरंत झटका लगा, कई लोगों ने इसकी आवश्यकता और प्रभावशीलता पर सवाल उठाया। आलोचकों ने व्यापक रूप से कहा, \"इसकी किसी ने मांग नहीं की थी,\" शिक्षण में मानवीय तत्व और संसाधन आवंटन पर चिंता व्यक्त की।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129815741,imgsize-97300.cms",
-        "link": "https://timesofindia.indiatimes.com/world/us/no-one-asked-for-this-melania-trump-slammed-for-introducing-robot-teacher-plato-for-american-students/articleshow/129815741.cms"
     }
 ]
