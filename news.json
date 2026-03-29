@@ -1,5 +1,30 @@
 [
     {
+        "id": "f5466c6f",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Priyanka Alleges 'Jungle Raj' in UP After Journalist's Death",
+                "content": "Congress leader Priyanka Gandhi Vadra slammed the Uttar Pradesh government over the death of a journalist who recently reported on the liquor mafia. While police called it a road accident, Gandhi accused the Yogi Adityanath administration of \"nurturing jungle raj,\" suggesting a severe breakdown of law and order in the state. The incident has ignited political controversy."
+            },
+            "kn": {
+                "title": "ಪತ್ರಕರ್ತನ ಸಾವಿನ ನಂತರ ಯುಪಿಯಲ್ಲಿ 'ಜಂಗಲ್ ರಾಜ್' ಆರೋಪಿಸಿದ ಪ್ರಿಯಾಂಕಾ",
+                "content": "ಕಾಂಗ್ರೆಸ್ ನಾಯಕಿ ಪ್ರಿಯಾಂಕಾ ಗಾಂಧಿ ವಾದ್ರಾ ಅವರು ಇತ್ತೀಚೆಗೆ ಮದ್ಯ ಮಾಫಿಯಾ ಬಗ್ಗೆ ವರದಿ ಮಾಡಿದ್ದ ಪತ್ರಕರ್ತನ ಸಾವಿನ ಕುರಿತು ಉತ್ತರ ಪ್ರದೇಶ ಸರ್ಕಾರವನ್ನು ತರಾಟೆಗೆ ತೆಗೆದುಕೊಂಡರು. ಪೊಲೀಸರು ಇದನ್ನು ರಸ್ತೆ ಅಪಘಾತ ಎಂದು ಕರೆದಿದ್ದರೂ, ಗಾಂಧಿ ಯೋಗಿ ಆದಿತ್ಯನಾಥ್ ಆಡಳಿತವು \"ಜಂಗಲ್ ರಾಜ್ ಅನ್ನು ಪೋಷಿಸುತ್ತಿದೆ\" ಎಂದು ಆರೋಪಿಸಿದರು, ಇದು ರಾಜ್ಯದಲ್ಲಿ ಕಾನೂನು ಮತ್ತು ಸುವ್ಯವಸ್ಥೆಯ ಗಂಭೀರ ಕುಸಿತವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಈ ಘಟನೆ ರಾಜಕೀಯ ವಿವಾದಕ್ಕೆ ಕಾರಣವಾಗಿದೆ."
+            },
+            "mr": {
+                "title": "पत्रकाराच्या मृत्यूनंतर उत्तर प्रदेशात 'जंगलराज' असल्याचा प्रियांका यांचा आरोप",
+                "content": "काँग्रेस नेत्या प्रियंका गांधी वाड्रा यांनी नुकत्याच दारू माफियांवर वृत्त दिलेल्या एका पत्रकाराच्या मृत्यूवरून उत्तर प्रदेश सरकारवर टीका केली. पोलिसांनी याला रस्ते अपघात म्हटले असले तरी, गांधी यांनी योगी आदित्यनाथ प्रशासनावर \"जंगलराज पोसल्याचा\" आरोप केला, ज्यामुळे राज्यात कायद्याची आणि सुव्यवस्थेची गंभीर घसरण झाल्याचे सूचित होते. या घटनेने राजकीय वाद निर्माण केला आहे."
+            },
+            "hi": {
+                "title": "पत्रकार की मौत के बाद यूपी में 'जंगलराज' का प्रियंका का आरोप",
+                "content": "कांग्रेस नेता प्रियंका गांधी वाड्रा ने हाल ही में शराब माफिया पर रिपोर्ट करने वाले एक पत्रकार की मौत को लेकर उत्तर प्रदेश सरकार पर निशाना साधा। हालांकि पुलिस ने इसे सड़क दुर्घटना बताया, गांधी ने योगी आदित्यनाथ प्रशासन पर \"जंगलराज को बढ़ावा देने\" का आरोप लगाया, जो राज्य में कानून-व्यवस्था के गंभीर पतन का संकेत देता है। इस घटना ने राजनीतिक विवाद को जन्म दिया है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-83513685,imgsize-114796.cms",
+        "link": "https://timesofindia.indiatimes.com/india/journalists-death-in-up-priyanka-says-state-government-nurturing-jungle-raj/articleshow/83513426.cms",
+        "date": "2021-06-14T19:54:51+05:30"
+    },
+    {
         "id": "48705eec",
         "category": "IPL Scoop",
         "translations": {
@@ -1973,30 +1998,5 @@
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
         "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNTFFhb1RzYWpGLW5yR1FmR2l4SENqVVQzMGZFZ3FhMXVLRG0zNVJ6Q3ZYeTZnZnc5cUdjVU94Mjk0eDlRcGlXZUd6VjJnMUw4VUdCQUZzVGVqSHl3RVpzWklQenI2b25jY0xJX3ZuTTRMZlVFTlludXNCM2h2TDRFOTFRUlNQME5mNGdrUlJTeUxLOC00R1IyYkhrYkg0aTlxUWpmV0lyWFlUN1JMaXJ5eFV1RFNOdDZHRFhxRkdUMVM3by00SXE1VldjVW56c0M0dXZ2MnJ5bUdLVEtJVzdzalBMdlRLUnM4Vl9ocHQwN3ltVk1WT0IwY29PMlEwc2xuU2xBMDNsQTE4OGVDM0ZaaTlTdkFtMFRoeHZwX0RxQTFXd05hRnFFY1VyZTF4MHpxelQxZ3BacnNKZjNwaXgwS3N5ZzF6a3PSAcwCQVVfeXFMT284aXlVU1EySThOWUx4cV9oZTVGX0JLT203NEZaY0Jwdk5vNEd4QWh3SWhaeXQ0aXl2U0tkdXJEV0hzaTBNZTdpZG5NY0J3QWdBc0pvdVhXaE1xQng5d2EzamhkYlVnLVZiUHhVYWZ5NTQza0lTY2JpZ1FwVEZsblpFaHd0SWsxNUx0NWRzZ3hPNDVDM3lfblMteXdTM3drZDdPVUpFaGlFaHVpZFFWMXl4bmhJN1JDUVpBdWt5dVl4clYyalZ4UVFfcjB0TEVQRUQtakltQnhPME83cVlwTEFpLXBud2dkRlNJeGFBWklCZzg4OExTZnZYdmU0Y3FTSGJXVXgySjM4RUd0azlDNk9RdEdFZ2FVcDBDYlV1RFlsZFdOcEs1UG1BcG5LOHZZcHZ1ZmFTdjhLWU9ObTZZMUZDbk1SQml4cEd6UEU?oc=5",
         "date": "Fri, 27 Mar 2026 16:56:00 GMT"
-    },
-    {
-        "id": "ca07dbd3",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Kohli's Lotus Tattoo Ignites IPL Buzz",
-                "content": "Virat Kohli's new lotus tattoo has created a stir ahead of the IPL 2024 season. Fans are buzzing, speculating about its spiritual meaning and connection to his upcoming performance. The intricate design, a symbol of purity and rebirth, adds a mysterious element as the cricketing icon prepares to lead RCB, igniting excitement among supporters."
-            },
-            "kn": {
-                "title": "ಕೋಹ್ಲಿ ಅವರ ಕಮಲದ ಹಚ್ಚೆ ಐಪಿಎಲ್ ಸಂಚಲನ ಮೂಡಿಸಿದೆ",
-                "content": "ಐಪಿಎಲ್ 2024 ಸೀಸನ್‌ಗೂ ಮುನ್ನ ವಿರಾಟ್ ಕೋಹ್ಲಿ ಅವರ ಹೊಸ ಕಮಲದ ಹಚ್ಚೆ ಸಂಚಲನ ಸೃಷ್ಟಿಸಿದೆ. ಅಭಿಮಾನಿಗಳು ಅದರ ಆಧ್ಯಾತ್ಮಿಕ ಅರ್ಥ ಮತ್ತು ಅವರ ಮುಂಬರುವ ಪ್ರದರ್ಶನದ ನಡುವಿನ ಸಂಪರ್ಕದ ಬಗ್ಗೆ ಊಹಾಪೋಹಗಳನ್ನು ಹರಡುತ್ತಿದ್ದಾರೆ. ಶುದ್ಧತೆ ಮತ್ತು ಪುನರ್ಜನ್ಮದ ಸಂಕೇತವಾಗಿರುವ ಈ ಸೂಕ್ಷ್ಮ ವಿನ್ಯಾಸವು, ಕ್ರಿಕೆಟ್ ಐಕಾನ್ ಆರ್‌ಸಿಬಿಯನ್ನು ಮುನ್ನಡೆಸಲು ಸಿದ್ಧರಾಗುತ್ತಿರುವಾಗ ನಿಗೂಢ ಅಂಶವನ್ನು ಸೇರಿಸಿದೆ, ಇದು ಬೆಂಬಲಿಗರಲ್ಲಿ ಉತ್ಸಾಹವನ್ನು ಹೆಚ್ಚಿಸಿದೆ."
-            },
-            "mr": {
-                "title": "कोहलीच्या कमळाच्या टॅटूने आयपीएलमध्ये खळबळ उडवली",
-                "content": "आयपीएल 2024 हंगामापूर्वी विराट कोहलीच्या नवीन कमळाच्या टॅटूने खळबळ निर्माण केली आहे. चाहते त्याच्या आध्यात्मिक अर्थाबद्दल आणि त्याच्या आगामी कामगिरीशी असलेल्या संबंधाबद्दल चर्चा करत आहेत. शुद्धता आणि पुनर्जन्माचे प्रतीक असलेल्या या जटिल डिझाइनने, क्रिकेटचा हा तारा आरसीबीचे नेतृत्व करण्यासाठी सज्ज होत असताना एक रहस्यमय घटक जोडला आहे, ज्यामुळे समर्थकांमध्ये उत्साह वाढला आहे."
-            },
-            "hi": {
-                "title": "कोहली के कमल टैटू ने IPL में धूम मचाई",
-                "content": "आईपीएल 2024 सीज़न से पहले विराट कोहली के नए कमल टैटू ने हलचल मचा दी है। प्रशंसक इसके आध्यात्मिक अर्थ और उनके आगामी प्रदर्शन से संबंध के बारे में अटकलें लगा रहे हैं। शुद्धता और पुनर्जन्म का प्रतीक यह जटिल डिज़ाइन, क्रिकेट आइकन के आरसीबी का नेतृत्व करने की तैयारी करते ही एक रहस्यमय तत्व जोड़ता है, जिससे समर्थकों में उत्साह बढ़ता है।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNalV0eGpaSGhmMTUtazdWN2xLSVdIZ0hfS1d3LS1GT3JWY2dGN0pjRzFrMnNGNVVCODRRQmR3eGkzalBTUV9aVVpacDhROUZXSGhXLWtYY0t3RjBhQ01lWk14Ymx4V2RyejZNNjhPQ3dBQTJOYnR1V2RKaE9CTkN4blpVMmdyVmUyRmViVjhaZERRdDh0T1djbkVNRkowX2FGbkpEZklScWE5ZENPaDdEbi1EdXEtcVdiMldZZVZZUlY2NWctZ2I5M1hXcjJqcGdoMWVzMg?oc=5",
-        "date": "Fri, 27 Mar 2026 13:30:13 GMT"
     }
 ]
