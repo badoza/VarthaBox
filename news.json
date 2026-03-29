@@ -1,5 +1,30 @@
 [
     {
+        "id": "f140e727",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "Curran Injury Forces Royals Squad Change",
+                "content": "The Royals have been hit by a late injury blow as key player Curran is sidelined, forcing an immediate squad change. This unexpected setback disrupts their preparations for the upcoming match. Details regarding Curran's specific injury and his replacement are still anticipated. The team management is swiftly working to find a suitable substitute to maintain team balance and performance."
+            },
+            "kn": {
+                "title": "ಕರನ್ ಗಾಯದಿಂದ ರಾಯಲ್ಸ್ ತಂಡದಲ್ಲಿ ಬದಲಾವಣೆ",
+                "content": "ರಾಯಲ್ಸ್ ತಂಡಕ್ಕೆ ಕೊನೆಯ ಕ್ಷಣದಲ್ಲಿ ಆಘಾತ ಎದುರಾಗಿದೆ. ಪ್ರಮುಖ ಆಟಗಾರ ಕರನ್ ಗಾಯಗೊಂಡು ಹೊರಗುಳಿದ ಕಾರಣ ತಂಡದಲ್ಲಿ ತಕ್ಷಣ ಬದಲಾವಣೆ ಅನಿವಾರ್ಯವಾಗಿದೆ. ಈ ಅನಿರೀಕ್ಷಿತ ಹಿನ್ನಡೆ ಮುಂಬರುವ ಪಂದ್ಯದ ಸಿದ್ಧತೆಗಳಿಗೆ ಅಡ್ಡಿಯಾಗಿದೆ. ಕರನ್ ಅವರ ಗಾಯ ಹಾಗೂ ಬದಲಿ ಆಟಗಾರನ ವಿವರಗಳು ಇನ್ನೂ ನಿರೀಕ್ಷಿತವಾಗಿವೆ. ತಂಡದ ಸಮತೋಲನ ಮತ್ತು ಪ್ರದರ್ಶನ ಕಾಪಾಡಲು ಆಡಳಿತ ಮಂಡಳಿ ಸೂಕ್ತ ಬದಲಿ ಆಟಗಾರನನ್ನು ಹುಡುಕಲು ವೇಗವಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಿದೆ."
+            },
+            "mr": {
+                "title": "करनच्या दुखापतीमुळे रॉयल्स संघात बदल",
+                "content": "रॉयल्स संघाला ऐनवेळी दुखापतीचा धक्का बसला आहे. महत्त्वाचा खेळाडू करन दुखापतीमुळे बाहेर झाल्याने तातडीने संघात बदल करणे भाग पडले आहे. या अनपेक्षित धक्क्यामुळे त्यांच्या आगामी सामन्याच्या तयारीला खीळ बसली आहे. करनच्या दुखापतीचे नेमके स्वरूप व त्याच्या जागी येणाऱ्या खेळाडूची माहिती अजून अपेक्षित आहे. संघाचा समतोल व कामगिरी राखण्यासाठी व्यवस्थापन योग्य बदली खेळाडू शोधण्यात वेगाने कार्यरत आहे."
+            },
+            "hi": {
+                "title": "करन की चोट के कारण रॉयल्स टीम में बदलाव",
+                "content": "रॉयल्स टीम को ऐन वक्त पर चोट का झटका लगा है. प्रमुख खिलाड़ी करन चोटिल होने के कारण बाहर हो गए हैं, जिससे टीम में तत्काल बदलाव करना पड़ा है. इस अप्रत्याशित झटके ने आगामी मैच की उनकी तैयारियों को बाधित किया है. करन की चोट और उनके बदले खिलाड़ी का विवरण अभी भी अपेक्षित है. टीम प्रबंधन संतुलन व प्रदर्शन बनाए रखने के लिए उपयुक्त विकल्प खोजने में तेजी से काम कर रहा है."
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVlctNXhzMFc0VW9OMkRpMzhjZUJwZGx0RDZWMmw0ZFhPNHUwLWFBbmNZZDFtcnhKdlhpQ1VBZHRPQmtRanU0NlJFNnpYbXVOVUFtMTdaVVN1Z2dyOXJINWFqcGNhaVZxS0ZRU2NfQ0kyM0lPX2txaVk1NjdkSUI2eVRwQXR3bWZwSEJFNnRwMnVVcDVzNmFaeXBReVRMdUN4cE9neHQ1bVBRRmkzSENhVy1pNlh0bGxuVzlCd0hrMUx0WU1ZeHVoMw?oc=5",
+        "date": "Sun, 29 Mar 2026 10:18:47 GMT"
+    },
+    {
         "id": "21194423",
         "category": "Belagavi Core Politics",
         "translations": {
@@ -1973,30 +1998,5 @@
         "image": "https://static.toiimg.com/photo/msid-129856905,imgsize-75372.cms",
         "link": "https://timesofindia.indiatimes.com/india/us-ukraine-citizens-who-went-to-mizoram-posed-no-threat-to-india-shah/articleshow/129856902.cms",
         "date": "2026-03-28T04:31:33+05:30"
-    },
-    {
-        "id": "2b6cdc14",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "India Signs Major Defense Deals: Russian Missiles & US Jet Maintenance",
-                "content": "India's Defence Ministry secured a Rs 445 crore deal with Russia for advanced Tunguska missile systems, bolstering the Army's air defence against aerial threats. Simultaneously, a Rs 413 crore contract was signed with Boeing for maintaining P8I reconnaissance aircraft. These agreements significantly enhance India's military capabilities and operational readiness."
-            },
-            "kn": {
-                "title": "ಭಾರತ ಪ್ರಮುಖ ರಕ್ಷಣಾ ಒಪ್ಪಂದಗಳಿಗೆ ಸಹಿ: ರಷ್ಯಾದ ಕ್ಷಿಪಣಿಗಳು ಮತ್ತು ಬೋಯಿಂಗ್ ಜೆಟ್ ನಿರ್ವಹಣೆ",
-                "content": "ಭಾರತದ ರಕ್ಷಣಾ ಸಚಿವಾಲಯವು ಸುಧಾರಿತ ತುಂಗುಸ್ಕಾ ಕ್ಷಿಪಣಿ ವ್ಯವಸ್ಥೆಗಳಿಗಾಗಿ ರಷ್ಯಾದೊಂದಿಗೆ 445 ಕೋಟಿ ರೂ.ಗಳ ಒಪ್ಪಂದ ಮಾಡಿಕೊಂಡಿದ್ದು, ಸೇನೆಯ ವಾಯು ರಕ್ಷಣೆಯನ್ನು ಬಲಪಡಿಸಿದೆ. ಇದೇ ಸಮಯದಲ್ಲಿ, P8I ಬೇಹುಗಾರಿಕಾ ವಿಮಾನಗಳ ನಿರ್ವಹಣೆಗಾಗಿ ಬೋಯಿಂಗ್‌ನೊಂದಿಗೆ 413 ಕೋಟಿ ರೂ.ಗಳ ಒಪ್ಪಂದಕ್ಕೆ ಸಹಿ ಹಾಕಿದೆ. ಈ ಒಪ್ಪಂದಗಳು ಭಾರತದ ಮಿಲಿಟರಿ ಸಾಮರ್ಥ್ಯಗಳನ್ನು ಮತ್ತು ಕಾರ್ಯಾಚರಣೆಯ ಸನ್ನದ್ಧತೆಯನ್ನು ಗಮನಾರ್ಹವಾಗಿ ಹೆಚ್ಚಿಸುತ್ತವೆ."
-            },
-            "mr": {
-                "title": "भारताचे मोठे संरक्षण करार: रशियन क्षेपणास्त्रे आणि बोइंग जेट देखभाल",
-                "content": "भारतीय संरक्षण मंत्रालयाने रशियासोबत 445 कोटी रुपयांचा प्रगत तुंगुस्का क्षेपणास्त्र प्रणालींचा करार केला आहे, ज्यामुळे लष्कराची हवाई संरक्षण क्षमता वाढली आहे. याचवेळी, P8I पाळत ठेवणाऱ्या विमानांच्या देखभालीसाठी बोइंगसोबत 413 कोटी रुपयांचा करार करण्यात आला. हे करार भारताच्या लष्करी क्षमता आणि कार्यान्वित सज्जता लक्षणीयरीत्या वाढवतात."
-            },
-            "hi": {
-                "title": "भारत ने किए अहम रक्षा सौदे: रूसी मिसाइलें और बोइंग जेट रखरखाव",
-                "content": "भारत के रक्षा मंत्रालय ने रूस के साथ उन्नत तुंगुस्का मिसाइल प्रणालियों के लिए 445 करोड़ रुपये का सौदा किया है, जिससे सेना की हवाई रक्षा मजबूत हुई है। साथ ही, P8I टोही विमानों के रखरखाव के लिए बोइंग के साथ 413 करोड़ रुपये का अनुबंध भी किया गया। ये समझौते भारत की सैन्य क्षमताओं और परिचालन तत्परता को महत्वपूर्ण रूप से बढ़ाते हैं।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129856892,imgsize-71942.cms",
-        "link": "https://timesofindia.indiatimes.com/india/defence-ministry-inks-rs-445cr-deal-for-tunguska-missile-systems-with-russia-signs-rs-413cr-p8i-jet-maintenance-contract-with-boeing/articleshow/129856891.cms",
-        "date": "2026-03-28T04:30:50+05:30"
     }
 ]
