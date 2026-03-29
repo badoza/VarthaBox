@@ -1,5 +1,55 @@
 [
     {
+        "id": "21194423",
+        "category": "Belagavi Core Politics",
+        "translations": {
+            "en": {
+                "title": "Belagavi Waste Row Intensifies as Minister Joins Protest",
+                "content": "Belagavi's waste management row escalates after Minister Laxmi Hebbalkar publicly sided with residents protesting the proposed Mannur waste treatment plant. Her support intensifies the conflict between local authorities and villagers, adding significant political weight to the protesters' demands. This move raises doubts about the project's future and signals a major standoff in the region."
+            },
+            "kn": {
+                "title": "ಬೆಳಗಾವಿ ಕಸ ವಿವಾದ ತೀವ್ರ, ಸಚಿವೆ ಪ್ರತಿಭಟನೆಗೆ ಬೆಂಬಲ",
+                "content": "ಬೆಳಗಾವಿಯ ತ್ಯಾಜ್ಯ ನಿರ್ವಹಣಾ ವಿವಾದ ತೀವ್ರಗೊಂಡಿದೆ. ಮನ್ನೂರ್‌ನಲ್ಲಿ ಉದ್ದೇಶಿತ ತ್ಯಾಜ್ಯ ಸಂಸ್ಕರಣಾ ಘಟಕದ ವಿರುದ್ಧ ಪ್ರತಿಭಟಿಸುತ್ತಿರುವ ನಿವಾಸಿಗಳ ಪರವಾಗಿ ಸಚಿವೆ ಲಕ್ಷ್ಮಿ ಹೆಬ್ಬಾಳ್ಕರ್ ಸಾರ್ವಜನಿಕವಾಗಿ ನಿಂತಿದ್ದಾರೆ. ಅವರ ಬೆಂಬಲವು ಸ್ಥಳೀಯ ಅಧಿಕಾರಿಗಳು ಮತ್ತು ಗ್ರಾಮಸ್ಥರ ನಡುವಿನ ಸಂಘರ್ಷವನ್ನು ತೀವ್ರಗೊಳಿಸಿದೆ, ಪ್ರತಿಭಟನಾಕಾರರ ಬೇಡಿಕೆಗಳಿಗೆ ಗಣನೀಯ ರಾಜಕೀಯ ಮಹತ್ವವನ್ನು ನೀಡಿದೆ. ಈ ಕ್ರಮವು ಯೋಜನೆಯ ಭವಿಷ್ಯದ ಬಗ್ಗೆ ಅನುಮಾನಗಳನ್ನು ಹುಟ್ಟುಹಾಕಿದೆ ಮತ್ತು ಪ್ರದೇಶದಲ್ಲಿ ದೊಡ್ಡ ಬಿಕ್ಕಟ್ಟನ್ನು ಸೂಚಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "बेळगावी कचरा वाद तीव्र, मंत्र्यांचा आंदोलनाला पाठिंबा",
+                "content": "बेळगावीतील कचरा व्यवस्थापन वाद तीव्र झाला आहे. मंत्री लक्ष्मी हेब्बाळकर यांनी मन्नूर येथील प्रस्तावित कचरा प्रक्रिया प्रकल्पाला विरोध करणाऱ्या रहिवाशांना जाहीरपणे पाठिंबा दिला आहे. त्यांच्या पाठिंब्यामुळे स्थानिक अधिकारी आणि गावकऱ्यांमधील संघर्ष अधिक तीव्र झाला असून, आंदोलकांच्या मागण्यांना मोठे राजकीय वजन मिळाले आहे. या कृतीमुळे प्रकल्पाच्या भवितव्याबद्दल शंका निर्माण झाली असून, परिसरात मोठ्या संघर्षाची शक्यता आहे."
+            },
+            "hi": {
+                "title": "बेलगावी कचरा विवाद तेज, मंत्री ने प्रदर्शनकारियों का साथ दिया",
+                "content": "बेलगावी में कचरा प्रबंधन विवाद तब और बढ़ गया जब मंत्री लक्ष्मी हेब्बाळकर ने मन्नूर में प्रस्तावित कचरा उपचार संयंत्र का विरोध कर रहे निवासियों का सार्वजनिक रूप से साथ दिया। उनके समर्थन ने स्थानीय अधिकारियों और ग्रामीणों के बीच संघर्ष को तेज कर दिया है, जिससे प्रदर्शनकारियों की मांगों को महत्वपूर्ण राजनीतिक बल मिला है। इस कदम से परियोजना के भविष्य पर संदेह पैदा हो गया है और क्षेत्र में एक बड़े गतिरोध का संकेत मिलता है।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPT3otaW5xckxlai10MnY5VzFJY0FQdGtuSVJBQjFUR0FiSklwbnhYMUMxbnhkc3lfcWI0N1c3TG1SM2lYb0VWbmZHcTZvWFNHZ1QwYlhBYVF6UnVacHlnQ25yZUFXd1NDeGhUbERGekJUY0ZmMWhDU3lHcENSQ0xnRHNXcXlfU0dkaFZvVFRYWV9YLTcyaFk0Mk14S3ZUR0ltNkthakQtRFlEcUllbDFmQ3ZOQTFYZkdKYUFqZ2c4YXJrWXB1SUZ6ZklDR1IzenY1SVJld2V3djZCS3k3SllCZnhnSlM2SHBlMlHSAe8BQVVfeXFMTlVYbkliSW42b2ZUVVJmaXRkVGxFSW9ZTGN6SFB2TlplbG1UYkJZR0hOaS13TEZsN2pTZlI1SEptazBfNGYzUW0ycUtNWkk3MW45cWZFRkw4TWxKS3QydVRTM0lvdmZNOUQ2bjcwaE54TTJEeG9XanB0OG83TDZZa0tKNGNPek1KVjhBbE1FeEZpeHNBcWZoTnk3TnFQSW1iQ19VeTFfa21nekFfd1QwVDRYTzdPbmd4WWNJbWxfQUVUUFlLVzJsdWFFOHhJbGlTLTd0dk8tdW1QVzh4R3paOElxTXVUUnVrd2p2ai1SYjQ?oc=5",
+        "date": "Sun, 29 Mar 2026 17:59:00 GMT"
+    },
+    {
+        "id": "921aa4a0",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "IPL's Global Pull: PSL Commentator Joins Panel, Mid-Season Exit Possible",
+                "content": "IPL's global pull intensifies as a prominent PSL commentator joins its star-studded commentary panel. The unexpected inclusion, hinting at a potential midway exit, highlights the Indian league's growing dominance and ability to attract top talent even from rival T20 competitions, showcasing its unmatched influence in cricket."
+            },
+            "kn": {
+                "title": "ಐಪಿಎಲ್‌ನ ಜಾಗತಿಕ ಆಕರ್ಷಣೆ: ಪಿಎಸ್‌ಎಲ್ ನಿರೂಪಕ ಪ್ಯಾನೆಲ್‌ಗೆ ಸೇರ್ಪಡೆ, ಮಧ್ಯಂತರ ನಿರ್ಗಮನ ಸಾಧ್ಯತೆ",
+                "content": "ಪ್ರಮುಖ ಪಿಎಸ್‌ಎಲ್ ನಿರೂಪಕರೊಬ್ಬರು ಐಪಿಎಲ್‌ನ ತಾರಾ ನಿರೂಪಣಾ ಸಮಿತಿಗೆ ಸೇರ್ಪಡೆಗೊಂಡಿರುವುದರಿಂದ ಐಪಿಎಲ್‌ನ ಜಾಗತಿಕ ಆಕರ್ಷಣೆ ಹೆಚ್ಚಿದೆ. ಮಧ್ಯಂತರ ನಿರ್ಗಮನದ ಸಾಧ್ಯತೆಯನ್ನು ಸೂಚಿಸುವ ಈ ಅನಿರೀಕ್ಷಿತ ಸೇರ್ಪಡೆಯು ಭಾರತೀಯ ಲೀಗ್‌ನ ಬೆಳೆಯುತ್ತಿರುವ ಪ್ರಾಬಲ್ಯ ಮತ್ತು ಪ್ರತಿಸ್ಪರ್ಧಿ ಟಿ20 ಸ್ಪರ್ಧೆಗಳಿಂದಲೂ ಉನ್ನತ ಪ್ರತಿಭೆಗಳನ್ನು ಆಕರ್ಷಿಸುವ ಸಾಮರ್ಥ್ಯವನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ, ಇದು ಕ್ರಿಕೆಟ್‌ನಲ್ಲಿ ಅದರ ಅಪ್ರತಿಮ ಪ್ರಭಾವವನ್ನು ಪ್ರದರ್ಶಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "आयपीएलची जागतिक ओढ: पीएसएल समालोचक पॅनेलमध्ये, हंगामाच्या मध्यभागी बाहेर पडण्याची शक्यता",
+                "content": "एका प्रमुख पीएसएल समालोचकाने आयपीएलच्या स्टार-स्टडेड समालोचन पॅनेलमध्ये सामील झाल्याने आयपीएलची जागतिक ओढ तीव्र झाली आहे. मधूनच बाहेर पडण्याची शक्यता दर्शवणारी ही अनपेक्षित समालोचक निवड, भारतीय लीगचे वाढते वर्चस्व आणि प्रतिस्पर्धी T20 स्पर्धांमधूनही उत्कृष्ट प्रतिभा आकर्षित करण्याची क्षमता अधोरेखित करते, ज्यामुळे क्रिकेटमधील तिचा अतुलनीय प्रभाव दिसून येतो."
+            },
+            "hi": {
+                "title": "आईपीएल का वैश्विक आकर्षण: पीएसएल कमेंटेटर पैनल में शामिल, बीच सीजन में बाहर निकलने की संभावना",
+                "content": "आईपीएल का वैश्विक आकर्षण तेज हो गया है क्योंकि एक प्रमुख पीएसएल कमेंटेटर इसके स्टार-स्टडेड कमेंट्री पैनल में शामिल हो गए हैं। बीच में बाहर निकलने की संभावना का संकेत देने वाला यह अप्रत्याशित जुड़ाव, भारतीय लीग के बढ़ते प्रभुत्व और प्रतिस्पर्धी टी20 प्रतियोगिताओं से भी शीर्ष प्रतिभाओं को आकर्षित करने की क्षमता को उजागर करता है, जो क्रिकेट में इसके अद्वितीय प्रभाव को दर्शाता है।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZV9aSFNrSjVQaEFQTXVZUlN2VXFUYlk1QURoZWw5dTF4T1BSd1hUajFWS3Y3b3VwYVl4bGJ6NXVjU2dxaHA5T01weGViOThWOVBqT0NBNmdXVlY2SkNEbXpGVHhSVmc0ajA0V1V6YmxsNllKQ1V1MERIWjctQ21YYkp2NUQwUUFqQ21KSkpyTFIxV3NURXVWckxoNGdWV3ZseWtnbDNHY1hRVUd1NlhTMnN2VFZ3SHRQVXhPZW9UVEV4QnZ1RHVaM3hvOERaemU5YzJvMWRXSTk3bWVvUS0yd3ZYNjRxdTFHYkxYd1R30gHzAUFVX3lxTE9FRlRVQnpVMnFuN3RjVURvUDdkVHVRY0lHS21TRHlXNVdsU0N6Y0dOUXp5QVRuTzlwa3pYMEttYTVfX1k2OWJjZUV3WVZDSnF2dG9PX29NQW03TlM4b2lHMVU1MHpNNE82dzVwVHZQc2l4SzVjVGszWE9JS214WjFET1loOGkyOXdNa2U0YkdUMjUwbHNhbUdXSmhFMDRmQllEMmlSTTZjeDlKZ3JrMVBmVlphM0RoelB3aUI2cGVEZVFFNHdCWWFZTmdSV1ltazRveGhIQzk5T2JhcGhfaW1wejN1YWtKUkpHYnV5d1Z6MHM5WQ?oc=5",
+        "date": "Sun, 29 Mar 2026 01:15:00 GMT"
+    },
+    {
         "id": "a3ff4a54",
         "category": "World",
         "translations": {
@@ -1948,55 +1998,5 @@
         "image": "https://static.toiimg.com/photo/msid-129856892,imgsize-71942.cms",
         "link": "https://timesofindia.indiatimes.com/india/defence-ministry-inks-rs-445cr-deal-for-tunguska-missile-systems-with-russia-signs-rs-413cr-p8i-jet-maintenance-contract-with-boeing/articleshow/129856891.cms",
         "date": "2026-03-28T04:30:50+05:30"
-    },
-    {
-        "id": "0baeae88",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "India Boosts Defence with Rs 2.4L Cr Procurement",
-                "content": "India's Defence Acquisition Council (DAC) approved Rs 2.4 lakh crore proposals for critical military procurement. This includes acquiring more advanced S-400 air defence units, transport aircraft, and indigenous Bofors-like artillery systems. The move significantly strengthens India's defence capabilities, particularly with the battle-tested S-400 systems, ensuring enhanced national security and strategic preparedness."
-            },
-            "kn": {
-                "title": "ಭಾರತವು 2.4 ಲಕ್ಷ ಕೋಟಿ ರೂ.ಗಳ ರಕ್ಷಣಾ ಖರೀದಿಗಳಿಗೆ ಉತ್ತೇಜನ ನೀಡಿದೆ",
-                "content": "ಭಾರತದ ರಕ್ಷಣಾ ಖರೀದಿ ಮಂಡಳಿ (DAC) ನಿರ್ಣಾಯಕ ಮಿಲಿಟರಿ ಖರೀದಿಗಳಿಗಾಗಿ 2.4 ಲಕ್ಷ ಕೋಟಿ ರೂ.ಗಳ ಪ್ರಸ್ತಾವನೆಗಳನ್ನು ಅನುಮೋದಿಸಿದೆ. ಇದು ಹೆಚ್ಚು ಸುಧಾರಿತ S-400 ವಾಯು ರಕ್ಷಣಾ ಘಟಕಗಳು, ಸಾರಿಗೆ ವಿಮಾನಗಳು ಮತ್ತು ಸ್ವದೇಶಿ ಬೋಫೋರ್ಸ್ ತರಹದ ಫಿರಂಗಿ ವ್ಯವಸ್ಥೆಗಳ ಖರೀದಿಯನ್ನು ಒಳಗೊಂಡಿದೆ. ಈ ಕ್ರಮವು ಭಾರತದ ರಕ್ಷಣಾ ಸಾಮರ್ಥ್ಯಗಳನ್ನು ಗಣನೀಯವಾಗಿ ಬಲಪಡಿಸುತ್ತದೆ, ವಿಶೇಷವಾಗಿ ಯುದ್ಧದಲ್ಲಿ ಪರೀಕ್ಷಿಸಿದ S-400 ವ್ಯವಸ್ಥೆಗಳೊಂದಿಗೆ, ಇದು ರಾಷ್ಟ್ರೀಯ ಭದ್ರತೆ ಮತ್ತು ಕಾರ್ಯತಂತ್ರದ ಸಿದ್ಧತೆಯನ್ನು ಖಾತ್ರಿಪಡಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "भारताने 2.4 लाख कोटींच्या संरक्षण खरेदीला दिले प्रोत्साहन",
-                "content": "भारताच्या संरक्षण अधिग्रहण परिषदेने (DAC) महत्त्वपूर्ण लष्करी खरेदीसाठी 2.4 लाख कोटी रुपयांच्या प्रस्तावांना मंजुरी दिली. यात अधिक प्रगत S-400 हवाई संरक्षण युनिट्स, वाहतूक विमाने आणि स्वदेशी बोफोर्ससारख्या तोफखाना प्रणालींच्या खरेदीचा समावेश आहे. या निर्णयामुळे भारताच्या संरक्षण क्षमतांना लक्षणीय बळकटी मिळेल, विशेषतः युद्धात तपासलेल्या S-400 प्रणालींमुळे, ज्यामुळे राष्ट्रीय सुरक्षा आणि रणनीतिक तयारी सुनिश्चित होईल."
-            },
-            "hi": {
-                "title": "भारत ने 2.4 लाख करोड़ रुपये के रक्षा अधिग्रहण को बढ़ावा दिया",
-                "content": "भारत की रक्षा अधिग्रहण परिषद (DAC) ने महत्वपूर्ण सैन्य खरीद के लिए 2.4 लाख करोड़ रुपये के प्रस्तावों को मंजूरी दी। इसमें अधिक उन्नत S-400 वायु रक्षा इकाइयों, परिवहन विमानों और स्वदेशी बोफोर्स जैसी तोपखाने प्रणालियों का अधिग्रहण शामिल है। यह कदम भारत की रक्षा क्षमताओं को काफी मजबूत करता है, खासकर युद्ध-परीक्षित S-400 प्रणालियों के साथ, राष्ट्रीय सुरक्षा और रणनीतिक तत्परता सुनिश्चित करता है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129856897,imgsize-66728.cms",
-        "link": "https://timesofindia.indiatimes.com/india/def-council-clears-rs-2-4l-cr-proposals-for-procurement-of-more-s-400-units-transport-aircraft-desi-bofors/articleshow/129856881.cms",
-        "date": "2026-03-28T04:26:06+05:30"
-    },
-    {
-        "id": "967c8cd6",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "100-Year-Old Ex-MP: A Lifelong Activist",
-                "content": "A 100-year-old former MP from the Janata regime, self-proclaimed 'Lohia’s oldest disciple,' continues his active life from Bharatpur. Despite a recent hospitalization after a fall, he previously held three meetings weekly. Driven by 'unfinished work,' this veteran has not only witnessed history but actively shaped it, embodying a spirit of relentless activism and protest."
-            },
-            "kn": {
-                "title": "100 ವರ್ಷದ ಮಾಜಿ ಸಂಸದ: ಜೀವನಪರ್ಯಂತದ ಕಾರ್ಯಕರ್ತ",
-                "content": "ಜನತಾ ಆಡಳಿತದ 100 ವರ್ಷದ ಮಾಜಿ ಸಂಸದ, ಸ್ವಘೋಷಿತ 'ಲೋಹಿಯಾ ಅವರ ಹಳೆಯ ಶಿಷ್ಯ,' ಭರತ್‌ಪುರದಿಂದ ತಮ್ಮ ಸಕ್ರಿಯ ಜೀವನವನ್ನು ಮುಂದುವರಿಸಿದ್ದಾರೆ. ಇತ್ತೀಚೆಗೆ ಬಿದ್ದು ಆಸ್ಪತ್ರೆಗೆ ದಾಖಲಾಗಿದ್ದರೂ, ಅವರು ಮೊದಲು ವಾರಕ್ಕೆ ಮೂರು ಸಭೆಗಳನ್ನು ನಡೆಸುತ್ತಿದ್ದರು. 'ಅಪೂರ್ಣ ಕೆಲಸ'ದಿಂದ ಪ್ರೇರಿತರಾಗಿರುವ ಈ ಅನುಭವಿ ವ್ಯಕ್ತಿ ಇತಿಹಾಸಕ್ಕೆ ಸಾಕ್ಷಿಯಾಗಿರುವುದಲ್ಲದೆ ಅದನ್ನು ಸಕ್ರಿಯವಾಗಿ ರೂಪಿಸಿದ್ದಾರೆ, ನಿರಂತರ ಸಕ್ರಿಯತೆ ಮತ್ತು ಪ್ರತಿಭಟನೆಯ ಮನೋಭಾವವನ್ನು ಪ್ರತಿಬಿಂಬಿಸಿದ್ದಾರೆ."
-            },
-            "mr": {
-                "title": "100 वर्षीय माजी खासदार: आजीवन कार्यकर्ते",
-                "content": "जनता राजवटीचे 100 वर्षीय माजी खासदार, ज्यांनी स्वतःला 'लोहियांचे सर्वात जुने शिष्य' म्हटले आहे, ते भरतपूरमधून आपले सक्रिय जीवन सुरू ठेवत आहेत. नुकत्याच पडल्याने रुग्णालयात दाखल होऊनही, ते आठवड्यातून तीन बैठका घेत असत. 'अपूर्ण कामा'मुळे प्रेरित होऊन, या दिग्गजाने केवळ इतिहासाचे साक्षीदारच नाही तर त्याला सक्रियपणे आकार दिला आहे, अथक सक्रियता आणि निषेधाची भावना दर्शविली आहे."
-            },
-            "hi": {
-                "title": "100 वर्षीय पूर्व सांसद: आजीवन कार्यकर्ता",
-                "content": "जनता शासन के 100 वर्षीय पूर्व सांसद, स्वयं को 'लोहिया के सबसे पुराने शिष्य' कहने वाले, भरतपुर से अपना सक्रिय जीवन जारी रखे हुए हैं। हाल ही में गिरने के बाद अस्पताल में भर्ती होने के बावजूद, वह पहले साप्ताहिक रूप से तीन बैठकें करते थे। 'अधूरे काम' से प्रेरित होकर, इस दिग्गज ने न केवल इतिहास देखा है बल्कि इसे सक्रिय रूप से आकार दिया है, अथक सक्रियता और विरोध की भावना को दर्शाते हुए।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129856531,imgsize-45306.cms",
-        "link": "https://timesofindia.indiatimes.com/india/alive-protesting-mp-in-janata-regime-turns-100/articleshow/129856485.cms",
-        "date": "2026-03-28T04:07:06+05:30"
     }
 ]
