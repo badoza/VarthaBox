@@ -1,5 +1,480 @@
 [
     {
+        "id": "19971d76",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "Lyari: Pakistan's Lawless, Impoverished Town in Focus",
+                "content": "Lyari, Pakistan's 'no-go' zone, is gaining attention after its portrayal in 'Dhurandhar.' Known as a deeply impoverished town operating 'beyond the limits of law,' Lyari has a complex history marked by gang violence, political influence, and a vibrant cultural identity. Despite its notorious reputation, the town is also home to passionate artists and athletes, showcasing a resilience often overshadowed by its challenging circumstances."
+            },
+            "kn": {
+                "title": "ಲಿಯಾರಿ: ಪಾಕಿಸ್ತಾನದ ಕಾನೂನುಬಾಹಿರ, ನಿರ್ಗತಿಕ ಪಟ್ಟಣ ಗಮನ ಸೆಳೆದಿದೆ",
+                "content": "ಪಾಕಿಸ್ತಾನದ 'ನೋ-ಗೋ' ವಲಯ ಲಿಯಾರಿ, 'ಧುರಂಧರ್' ಚಿತ್ರದಲ್ಲಿ ಚಿತ್ರಣಗೊಂಡ ನಂತರ ಗಮನ ಸೆಳೆಯುತ್ತಿದೆ. \"ಕಾನೂನಿನ ಮಿತಿಗಳನ್ನು ಮೀರಿ\" ಕಾರ್ಯನಿರ್ವಹಿಸುವ ತೀವ್ರ ನಿರ್ಗತಿಕ ಪಟ್ಟಣ ಎಂದು ಹೆಸರಾಗಿರುವ ಲಿಯಾರಿ, ಗ್ಯಾಂಗ್ ಹಿಂಸಾಚಾರ, ರಾಜಕೀಯ ಪ್ರಭಾವ ಮತ್ತು ರೋಮಾಂಚಕ ಸಾಂಸ್ಕೃತಿಕ ಗುರುತಿನಿಂದ ಗುರುತಿಸಲ್ಪಟ್ಟ ಸಂಕೀರ್ಣ ಇತಿಹಾಸವನ್ನು ಹೊಂದಿದೆ. ತನ್ನ ಕುಖ್ಯಾತ ಖ್ಯಾತಿಯ ಹೊರತಾಗಿಯೂ, ಈ ಪಟ್ಟಣವು ಭಾವೋದ್ರಿಕ್ತ ಕಲಾವಿದರು ಮತ್ತು ಕ್ರೀಡಾಪಟುಗಳಿಗೆ ನೆಲೆಯಾಗಿದ್ದು, ಅದರ ಸವಾಲಿನ ಪರಿಸ್ಥಿತಿಗಳಿಂದ ಮರೆಮಾಚಲ್ಪಟ್ಟ ಸ್ಥಿತಿಸ್ಥಾಪಕತ್ವವನ್ನು ಪ್ರದರ್ಶಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "लियारी: पाकिस्तानातील कायदाबाह्य, गरीब शहर चर्चेत",
+                "content": "पाकिस्तानमधील 'नो-गो' झोन असलेल्या लियारीची 'धुरंधर'मध्ये चित्रणानंतर चर्चा होत आहे. \"कायद्याच्या मर्यादा ओलांडून\" काम करणारे अत्यंत गरीब शहर म्हणून ओळखले जाणारे लियारी, टोळी हिंसाचार, राजकीय प्रभाव आणि दोलायमान सांस्कृतिक ओळख यामुळे एक जटिल इतिहास आहे. त्याच्या कुख्यात प्रतिमेमुळे असूनही, हे शहर उत्साही कलाकार आणि खेळाडूंचे घर आहे, जे त्याच्या आव्हानात्मक परिस्थितीने झाकोळून गेलेली लवचिकता दर्शवते."
+            },
+            "hi": {
+                "title": "लियारी: पाकिस्तान का कानूनविहीन, गरीब शहर सुर्खियों में",
+                "content": "पाकिस्तान का 'नो-गो' ज़ोन लियारी, 'धुरंधर' में इसके चित्रण के बाद सुर्खियों में है। \"कानून की सीमा से परे\" संचालित एक बेहद गरीब शहर के रूप में जाना जाने वाला लियारी, गिरोह हिंसा, राजनीतिक प्रभाव और एक जीवंत सांस्कृतिक पहचान से चिह्नित एक जटिल इतिहास रखता है। अपनी कुख्यात प्रतिष्ठा के बावजूद, यह शहर भावुक कलाकारों और एथलीटों का भी घर है, जो अपनी चुनौतीपूर्ण परिस्थितियों से अक्सर ढकी हुई एक लचीलेपन को प्रदर्शित करता है।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOTml4M2xLdDVUaGJFS25UTW5UWnd3eE53ZkZKYXk2QlhTazlQejNkQ0RVUFh1YnRIUDZxcW1NOXN2M1E4c25Xa0RLc0VIWno1Yjh2MjFBbHRQSk8xRExXR2g5anpmZTRCenFFVXVldXY1YUNXdnROUmJMUUNtQ0NGbDBKTnJLaHVVX0tCYmFWdGFUWkc2b2l1NnBkMWZ0dHV1dm44eDhWSlkwUUNmd2pxMWpaZDlHbnFhZ1BXQ1RRZ0NZWkhZd3oyS2ktVkM4cVhuYjFucVFRWjBSLTA5b1M3OEJDTnhrUjZYeHZNYkNtQ19vNzFZdkF0VW1tR1PSAYICQVVfeXFMT191cjBrNjU3dFdRbmlrMEZXakFQVHhKY2daT2NFZmQzdThRa18xZ0dfVlVESlV3WEF0eXNsdkNoQmZmbTJnclRHWGdoaE9pTUpRTWgtaTUzNlk0Um9QSUh1WnB2WnVqLWhpUGhUazBYeDItZ3o2R1lwaVhZOVJ2Ry1FWm1nMzdYNUZsYlUtNVUxWDFBdzZpVDFFSzhyZ3BPZ25OUG9tejdEQzBENmhBajI1aHR6MW5oRGZlNTF2NkM0bDFHNVFPbWFITENJRmFWMlhfTDZTWHVzdmFlX1lGSVNtczZKMVRaWkMxMjZHXzJ6ODFBUzRiNm5UbkR6NkFrZ2xn?oc=5",
+        "date": "Sun, 29 Mar 2026 05:36:21 GMT"
+    },
+    {
+        "id": "3654a054",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "Hardik Pandya's Midnight Promise Fulfilled",
+                "content": "Hardik Pandya's deep commitment and late-night resolve have reportedly borne fruit. After intense dedication to his game, his efforts are now paying off with significant success. This turnaround showcases his improved performance and leadership, proving that his unwavering focus has led to a triumphant outcome, delighting fans and the team alike."
+            },
+            "kn": {
+                "title": "ಹಾರ್ದಿಕ್ ಪಾಂಡ್ಯರ ಮಧ್ಯರಾತ್ರಿಯ ಭರವಸೆ ಈಡೇರಿತು",
+                "content": "ಹಾರ್ದಿಕ್ ಪಾಂಡ್ಯರ ಆಳವಾದ ಬದ್ಧತೆ ಮತ್ತು ಮಧ್ಯರಾತ್ರಿಯ ಸಂಕಲ್ಪ ಫಲಪ್ರದವಾಗಿದೆ. ತಮ್ಮ ಆಟಕ್ಕೆ ತೀವ್ರ ಸಮರ್ಪಣೆಯ ನಂತರ, ಅವರ ಪ್ರಯತ್ನಗಳು ಈಗ ಗಮನಾರ್ಹ ಯಶಸ್ಸಿನೊಂದಿಗೆ ಫಲ ನೀಡುತ್ತಿವೆ. ಈ ಬದಲಾವಣೆಯು ಅವರ ಸುಧಾರಿತ ಪ್ರದರ್ಶನ ಮತ್ತು ನಾಯಕತ್ವವನ್ನು ಪ್ರದರ್ಶಿಸುತ್ತದೆ, ಅವರ ಅಚಲ ಗಮನವು ವಿಜಯೋತ್ಸವದ ಫಲಿತಾಂಶಕ್ಕೆ ಕಾರಣವಾಗಿದೆ ಎಂದು ಸಾಬೀತುಪಡಿಸುತ್ತದೆ, ಅಭಿಮಾನಿಗಳು ಮತ್ತು ತಂಡಕ್ಕೆ ಸಂತೋಷ ತಂದಿದೆ."
+            },
+            "mr": {
+                "title": "हार्दिक पांड्याच्या मध्यरात्रीचे वचन पूर्ण झाले",
+                "content": "हार्दिक पांड्याची सखोल वचनबद्धता आणि मध्यरात्रीचा संकल्प फलदायी ठरला आहे. आपल्या खेळासाठी तीव्र समर्पणानंतर, त्याचे प्रयत्न आता महत्त्वपूर्ण यशाने सार्थकी लागत आहेत. हा बदल त्याची सुधारलेली कामगिरी आणि नेतृत्व दर्शवितो, ज्यामुळे त्याचे अटूट लक्ष विजयी परिणामाकडे घेऊन गेले आहे, हे सिद्ध होते, ज्यामुळे चाहते आणि संघाला आनंद झाला आहे."
+            },
+            "hi": {
+                "title": "हार्दिक पांड्या का मध्यरात्रि का वादा पूरा हुआ",
+                "content": "हार्दिक पांड्या की गहरी प्रतिबद्धता और मध्यरात्रि का संकल्प रंग लाया है। अपने खेल के प्रति गहन समर्पण के बाद, उनके प्रयास अब महत्वपूर्ण सफलता के साथ फल दे रहे हैं। यह बदलाव उनके बेहतर प्रदर्शन और नेतृत्व को दर्शाता है, यह साबित करता है कि उनका अटूट ध्यान एक विजयी परिणाम की ओर ले गया है, जिससे प्रशंसकों और टीम दोनों को खुशी मिली है।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVzlGQVZHRmtWU0pVMVNQc1NMT0E5dG1TX25GeWhuVFhFaFFjWnZuaTlSazhNMTNEMUg0T1NwNjhuTTRLX3pqSTZJWnJVNGo4X0FCMmFjaExoT3ZDQkUtb2hMRXBCYzE5TXpTUV9vMmhOS1BmTm9rbTZqdnZHUFpjSERyYVZ1cDFYbDJVdFExV3dCZjRIclBnTjh1blMta3NMcVZqLXF3YUhrdkFENW81Qld5MWxDSFNSQ2U4SHVKMVY5ekpmZ1gtNXFQa2p6YmVTMURxay1rN2g5bjg?oc=5",
+        "date": "Sat, 28 Mar 2026 16:20:41 GMT"
+    },
+    {
+        "id": "4c5b4e5e",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "IPL 2026: Virat Kohli Scripts History, Achieves Unprecedented Milestone",
+                "content": "Virat Kohli etched his name in IPL history during the 2026 season, becoming the first player ever to surpass the monumental 8000-run mark. The RCB captain's unparalleled consistency and enduring brilliance continue to define his legacy. This historic achievement further solidifies his position as a cricketing icon and one of the league's greatest performers."
+            },
+            "kn": {
+                "title": "IPL 2026: ವಿರಾಟ್ ಕೊಹ್ಲಿ ಇತಿಹಾಸ ಸೃಷ್ಟಿ, ಅಭೂತಪೂರ್ವ ಮೈಲಿಗಲ್ಲು",
+                "content": "ವಿರಾಟ್ ಕೊಹ್ಲಿ 2026ರ ಐಪಿಎಲ್ ಸೀಸನ್‌ನಲ್ಲಿ ತಮ್ಮ ಹೆಸರನ್ನು ಇತಿಹಾಸದಲ್ಲಿ ಕೆತ್ತಿದರು, 8000 ರನ್‌ಗಳ ಬೃಹತ್ ಗಡಿಯನ್ನು ಮೀರಿದ ಮೊದಲ ಆಟಗಾರರಾದರು. ಆರ್‌ಸಿಬಿ ನಾಯಕನ ಅಪ್ರತಿಮ ಸ್ಥಿರತೆ ಮತ್ತು ಶಾಶ್ವತ ಪ್ರತಿಭೆ ಅವರ ಪರಂಪರೆಯನ್ನು ವ್ಯಾಖ್ಯಾನಿಸುತ್ತಲೇ ಇದೆ. ಈ ಐತಿಹಾಸಿಕ ಸಾಧನೆಯು ಕ್ರಿಕೆಟ್ ಐಕಾನ್ ಆಗಿ ಮತ್ತು ಲೀಗ್‌ನ ಶ್ರೇಷ್ಠ ಪ್ರದರ್ಶಕರಲ್ಲಿ ಒಬ್ಬರಾಗಿ ಅವರ ಸ್ಥಾನವನ್ನು ಮತ್ತಷ್ಟು ಭದ್ರಪಡಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "आयपीएल 2026: विराट कोहलीने रचला इतिहास, अभूतपूर्व टप्पा गाठला",
+                "content": "विराट कोहलीने 2026 च्या आयपीएल हंगामात आपले नाव इतिहासात कोरले, 8000 धावांचा प्रचंड टप्पा ओलांडणारा तो पहिला खेळाडू ठरला. आरसीबी कर्णधाराची अतुलनीय सातत्य आणि चिरस्थायी प्रतिभा त्याच्या वारशाची ओळख करून देते. या ऐतिहासिक कामगिरीने त्याला क्रिकेट आयकॉन आणि लीगच्या महान खेळाडूंपैकी एक म्हणून त्याचे स्थान आणखी मजबूत केले आहे."
+            },
+            "hi": {
+                "title": "आईपीएल 2026: विराट कोहली ने रचा इतिहास, हासिल किया अभूतपूर्व मील का पत्थर",
+                "content": "विराट कोहली ने 2026 आईपीएल सीज़न के दौरान अपना नाम इतिहास में दर्ज कराया, 8000 रन के विशाल आंकड़े को पार करने वाले पहले खिलाड़ी बन गए। आरसीबी कप्तान की बेजोड़ निरंतरता और स्थायी प्रतिभा उनकी विरासत को परिभाषित करती रही है। यह ऐतिहासिक उपलब्धि क्रिकेट आइकन और लीग के महानतम प्रदर्शन करने वालों में से एक के रूप में उनकी स्थिति को और मजबूत करती है।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMWo3bzhMbU9FT0lTNHFJdndvWEJmV251TzREZXhvcVZmeVZ2RDZkVzJZc2hFV0hVaDQzRzZOb3FNMDZoYzVyVnpudEY4cWh3U2cxbzFCVlRXNjZIOGhRaUZNQlVFaTN3RmxQa2ZhVE5VMEp6RENiSnZ3WUQ1S2l6bjdzNWRTY0p1Tk9aRVE4enk3NFVVUExMci02bjBKaXl0X0lrYUhSaWNtOElaOUJUSEQxMzJfV0Iwa1NSV3JkOHlKWGFmcTNRd3FkMm9JdjFoc0ZrU2d3eE1ubGJLTHhZMGNTVjNBUmU4VjlsODRR0gHzAUFVX3lxTE5fVU05UlpKOUdhZkhRVDJZTDNyYTZaQzJtaXozNDJmb3JZcGpaU0w3SEd2Vk4tWnJUaFBXSnFfaVJkMVFPLVlnQ015WHRIREJyYV9sYzhmS2ZPZ1JkM1NtT2RNdi1GSDZpaHNDSjNXREVGRmlnTVVBMHBuaVVKeGZQMFM0MGlqOV80UURzMHBEaEl0UUt4TXIxVEFfaGxUWG9nOVQzR0V1NlRON1duRVJ6bXBaYWVWR0xoTld1R2tBZ1YwejdJTWdlUlpDWEFOT1B6MWFfUDJ1TDd6NS14VkdyZnhwYl9yYkRaOUdpYjRTYkZ0SQ?oc=5",
+        "date": "Sun, 29 Mar 2026 00:30:00 GMT"
+    },
+    {
+        "id": "d7d7450e",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "EC Eases Symbol Norm for Unrecognised Parties",
+                "content": "The Election Commission has eased rules, simplifying how unrecognised political parties secure a common election symbol. This move particularly aids newer groups, often formed after splits, allowing them to retain an exclusive symbol even without meeting usual candidate thresholds. Candidates must be party-sponsored and declare affiliation. This streamlines symbol allocation, enhancing participation for emerging political entities."
+            },
+            "kn": {
+                "title": "EC ಅನಧಿಕೃತ ಪಕ್ಷಗಳಿಗೆ ಸಾಮಾನ್ಯ ಚಿಹ್ನೆ ನಿಯಮ ಸಡಿಲಗೊಳಿಸಿದೆ",
+                "content": "ಚುನಾವಣಾ ಆಯೋಗವು ಗುರುತಿಸದ ರಾಜಕೀಯ ಪಕ್ಷಗಳಿಗೆ ಸಾಮಾನ್ಯ ಚುನಾವಣಾ ಚಿಹ್ನೆಯನ್ನು ಪಡೆಯುವ ನಿಯಮಗಳನ್ನು ಸರಳೀಕರಿಸಿದೆ. ಈ ಕ್ರಮವು ಹೊಸ ಪಕ್ಷಗಳಿಗೆ, ವಿಶೇಷವಾಗಿ ವಿಭಜನೆಗಳ ನಂತರ ರೂಪುಗೊಂಡವರಿಗೆ ನೆರವಾಗುತ್ತದೆ, ಸಾಮಾನ್ಯ ಅಭ್ಯರ್ಥಿಗಳ ಮಿತಿಯನ್ನು ಪೂರೈಸದಿದ್ದರೂ ಸಹ ವಿಶೇಷ ಚಿಹ್ನೆಯನ್ನು ಉಳಿಸಿಕೊಳ್ಳಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ. ಅಭ್ಯರ್ಥಿಗಳು ಪಕ್ಷದಿಂದ ಪ್ರಾಯೋಜಿತರಾಗಿರಬೇಕು ಮತ್ತು ತಮ್ಮ ಸಂಬಂಧವನ್ನು ಘೋಷಿಸಬೇಕು. ಇದು ಚಿಹ್ನೆ ಹಂಚಿಕೆಯನ್ನು ಸುಗಮಗೊಳಿಸುತ್ತದೆ, ಉದಯೋನ್ಮುಖ ರಾಜಕೀಯ ಘಟಕಗಳ ಭಾಗವಹಿಸುವಿಕೆಯನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "निवडणूक आयोगाने अपरिचित पक्षांसाठी सामान्य चिन्हाचा नियम शिथिल केला",
+                "content": "निवडणूक आयोगाने अपरिचित राजकीय पक्षांना समान निवडणूक चिन्ह मिळवण्याचे नियम सोपे केले आहेत. हा बदल नवीन पक्षांना, विशेषतः फाटाफुटीनंतर स्थापन झालेल्यांना मदत करतो. यामुळे त्यांना सामान्य उमेदवारांची मर्यादा पूर्ण न करताही एक विशेष चिन्ह राखता येते. उमेदवारांनी पक्षाद्वारे पुरस्कृत केलेले असावे आणि आपली निष्ठा जाहीर करावी. यामुळे चिन्हांचे वाटप सुलभ होते आणि उदयोन्मुख राजकीय घटकांचा सहभाग वाढतो."
+            },
+            "hi": {
+                "title": "चुनाव आयोग ने अपंजीकृत दलों के लिए सामान्य प्रतीक नियम में ढील दी",
+                "content": "चुनाव आयोग ने अपंजीकृत राजनीतिक दलों के लिए एक समान चुनाव चिह्न प्राप्त करने के नियमों में ढील दी है। यह कदम विशेष रूप से विभाजन के बाद बने नए समूहों की मदद करता है, जिससे वे सामान्य उम्मीदवार थ्रेशोल्ड को पूरा किए बिना भी एक विशेष चिह्न बनाए रख सकें। उम्मीदवारों को पार्टी द्वारा प्रायोजित होना चाहिए और अपनी संबद्धता घोषित करनी चाहिए। यह प्रतीक आवंटन को सुव्यवस्थित करता है, उभरती राजनीतिक संस्थाओं की भागीदारी बढ़ाता है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129874910,imgsize-67818.cms",
+        "link": "https://timesofindia.indiatimes.com/india/ec-relaxes-common-symbol-norm-for-unrecognised-parties/articleshow/129874922.cms",
+        "date": "2026-03-29T08:21:08+05:30"
+    },
+    {
+        "id": "3e2be894",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Heart Attacks Strike 'Healthy' Indians",
+                "content": "A study reveals 80% of Indians cleared by standard tests still suffer heart attacks. This alarming mismatch arises because existing risk calculators, based on Western populations, fail to account for heart disease striking prematurely in India. With an average patient age of just 54, there's an urgent need for India-specific risk assessment models."
+            },
+            "kn": {
+                "title": "ಆರೋಗ್ಯವಂತ ಭಾರತೀಯರನ್ನೂ ಬಾಧಿಸುವ ಹೃದಯಾಘಾತಗಳು",
+                "content": "ಅಧ್ಯಯನವೊಂದು ಬಹಿರಂಗಪಡಿಸಿದೆ: ಸಾಮಾನ್ಯ ಪರೀಕ್ಷೆಗಳಲ್ಲಿ ಉತ್ತೀರ್ಣರಾದ 80% ಭಾರತೀಯರಿಗೂ ಹೃದಯಾಘಾತ ಸಂಭವಿಸುತ್ತದೆ. ಪಾಶ್ಚಿಮಾತ್ಯ ಜನಸಂಖ್ಯೆಯನ್ನು ಆಧರಿಸಿದ ಅಸ್ತಿತ್ವದಲ್ಲಿರುವ ಅಪಾಯದ ಲೆಕ್ಕಾಚಾರಗಳು, ಭಾರತದಲ್ಲಿ ಹೃದ್ರೋಗವು ಅಕಾಲಿಕವಾಗಿ ಬಾಧಿಸುವುದನ್ನು ಪರಿಗಣಿಸದ ಕಾರಣ ಈ ಆತಂಕಕಾರಿ ಅಸಮಂಜಸತೆ ಉಂಟಾಗುತ್ತದೆ. ರೋಗಿಗಳ ಸರಾಸರಿ ವಯಸ್ಸು ಕೇವಲ 54 ಆಗಿದ್ದು, ಭಾರತ-ನಿರ್ದಿಷ್ಟ ಅಪಾಯದ ಮೌಲ್ಯಮಾಪನ ಮಾದರಿಗಳ ತುರ್ತು ಅವಶ್ಯಕತೆಯಿದೆ."
+            },
+            "mr": {
+                "title": "'निरोगी' भारतीयांनाही हृदयविकाराचे झटके",
+                "content": "एका अभ्यासात समोर आले आहे की, सामान्य चाचण्यांमध्ये निरोगी ठरलेल्या 80% भारतीयांनाही हृदयविकाराचा झटका येतो. पाश्चात्त्य लोकसंख्येवर आधारित सध्याचे जोखीम कॅल्क्युलेटर, भारतात हृदयविकार अकाली येत असल्याचे विचारात घेत नाहीत, यामुळे ही धक्कादायक विसंगती निर्माण झाली आहे. रुग्णांचे सरासरी वय अवघे 54 असल्याने, भारतासाठी विशिष्ट जोखीम मूल्यांकन मॉडेलची तातडीची गरज आहे."
+            },
+            "hi": {
+                "title": "'स्वस्थ' भारतीयों को भी हार्ट अटैक",
+                "content": "एक अध्ययन से पता चलता है कि सामान्य परीक्षणों में स्वस्थ पाए गए 80% भारतीयों को भी दिल का दौरा पड़ता है। यह चिंताजनक बेमेल इसलिए है क्योंकि पश्चिमी आबादी पर आधारित मौजूदा जोखिम कैलकुलेटर, भारत में समय से पहले होने वाले हृदय रोग को ध्यान में नहीं रखते। मरीजों की औसत आयु मात्र 54 वर्ष होने के कारण, भारत-विशिष्ट जोखिम मूल्यांकन मॉडल की तत्काल आवश्यकता है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129873819,imgsize-664183.cms",
+        "link": "https://timesofindia.indiatimes.com/india/80-indians-cleared-by-tests-are-struck-by-heart-attack/articleshow/129873498.cms",
+        "date": "2026-03-29T03:58:17+05:30"
+    },
+    {
+        "id": "ae73e9df",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Parliament to Adjourn April 2; Key Reforms Eyed Post-Polls",
+                "content": "Parliament is set to adjourn on April 2, with plans to reconvene after assembly polls. The upcoming session will focus on significant legislative reforms: a bill for delimitation based on the 2011 census and a constitutional amendment ensuring a one-third women's quota in Lok Sabha and state assemblies. This ambitious agenda signals the government's strong commitment."
+            },
+            "kn": {
+                "title": "ಸಂಸತ್ತು ಏಪ್ರಿಲ್ 2ಕ್ಕೆ ಮುಂದೂಡಿಕೆ; ಚುನಾವಣೆ ನಂತರ ಮಹತ್ವದ ಸುಧಾರಣೆಗಳು",
+                "content": "ಸಂಸತ್ತು ಏಪ್ರಿಲ್ 2 ರಂದು ಮುಂದೂಡಲಾಗುವುದು, ಮತ್ತು ವಿಧಾನಸಭೆ ಚುನಾವಣೆಗಳ ನಂತರ ಪುನರಾರಂಭಿಸಲು ಯೋಜಿಸಲಾಗಿದೆ. ಮುಂದಿನ ಅಧಿವೇಶನವು ಮಹತ್ವದ ಶಾಸನಬದ್ಧ ಸುಧಾರಣೆಗಳ ಮೇಲೆ ಕೇಂದ್ರೀಕರಿಸುತ್ತದೆ: 2011 ರ ಜನಗಣತಿಯ ಆಧಾರದ ಮೇಲೆ ಕ್ಷೇತ್ರ ಪುನರ್ವಿಂಗಡಣೆ ಮಸೂದೆ ಮತ್ತು ಲೋಕಸಭೆ ಹಾಗೂ ರಾಜ್ಯ ವಿಧಾನಸಭೆಗಳಲ್ಲಿ ಮಹಿಳೆಯರಿಗೆ ಮೂರನೇ ಒಂದು ಭಾಗದಷ್ಟು ಮೀಸಲಾತಿಯನ್ನು ಖಚಿತಪಡಿಸುವ ಸಾಂವಿಧಾನಿಕ ತಿದ್ದುಪಡಿ. ಈ ಮಹತ್ವಾಕಾಂಕ್ಷೆಯ ಕಾರ್ಯಸೂಚಿಯು ಸರ್ಕಾರದ ದೃಢ ಸಂಕಲ್ಪವನ್ನು ಸೂಚಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "संसद 2 एप्रिल रोजी स्थगित; निवडणुकीनंतर महत्त्वाच्या सुधारणांवर लक्ष",
+                "content": "संसद 2 एप्रिल रोजी स्थगित होणार आहे आणि विधानसभा निवडणुकांनंतर पुन्हा कामकाज सुरू करण्याची योजना आहे. आगामी अधिवेशनात महत्त्वाच्या वैधानिक सुधारणांवर लक्ष केंद्रित केले जाईल: 2011 च्या जनगणनेवर आधारित मतदारसंघांची पुनर्रचना विधेयक आणि लोकसभा व राज्य विधानसभांमध्ये महिलांसाठी एक तृतीयांश आरक्षणाची खात्री देणारी घटनादुरुस्ती. हा महत्त्वाकांक्षी अजेंडा सरकारची तीव्र वचनबद्धता दर्शवतो."
+            },
+            "hi": {
+                "title": "संसद 2 अप्रैल को स्थगित; चुनाव के बाद अहम सुधारों पर ध्यान",
+                "content": "संसद 2 अप्रैल को स्थगित होने वाली है, और विधानसभा चुनावों के बाद फिर से बुलाई जाने की योजना है। आगामी सत्र में महत्वपूर्ण विधायी सुधारों पर ध्यान केंद्रित किया जाएगा: 2011 की जनगणना के आधार पर परिसीमन के लिए एक विधेयक और लोकसभा व राज्य विधानसभाओं में महिलाओं के लिए एक-तिहाई आरक्षण सुनिश्चित करने वाला संवैधानिक संशोधन। यह महत्वाकांक्षी एजेंडा सरकार की मजबूत प्रतिबद्धता को दर्शाता है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129873113,imgsize-179156.cms",
+        "link": "https://timesofindia.indiatimes.com/india/parliament-to-be-adjourned-on-april-2-to-meet-after-assembly-polls/articleshow/129872781.cms",
+        "date": "2026-03-29T03:47:43+05:30"
+    },
+    {
+        "id": "0779d399",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "FSSAI Eases Rules: Permanent Food Licenses Now!",
+                "content": "FSSAI has made food business licenses and registrations permanent, eliminating the need for periodic renewals. This major overhaul benefits lakhs of restaurants, eateries, and vendors by easing compliance. While licenses are now lifelong, they can still be cancelled for violations, ensuring strict food safety standards are maintained. The move aims to simplify operations for businesses."
+            },
+            "kn": {
+                "title": "FSSAI ನಿಯಮಗಳನ್ನು ಸರಳೀಕರಿಸಿದೆ: ಆಹಾರ ಪರವಾನಗಿಗಳು ಈಗ ಶಾಶ್ವತ!",
+                "content": "FSSAI ಆಹಾರ ವ್ಯಾಪಾರ ಪರವಾನಗಿಗಳು ಮತ್ತು ನೋಂದಣಿಗಳನ್ನು ಶಾಶ್ವತಗೊಳಿಸಿದೆ, ಆವರ್ತಕ ನವೀಕರಣಗಳ ಅಗತ್ಯವನ್ನು ನಿವಾರಿಸಿದೆ. ಈ ಪ್ರಮುಖ ಬದಲಾವಣೆಯು ಅನುಸರಣೆಯನ್ನು ಸುಲಭಗೊಳಿಸುವ ಮೂಲಕ ಲಕ್ಷಾಂತರ ರೆಸ್ಟೋರೆಂಟ್‌ಗಳು, ಉಪಾಹಾರ ಗೃಹಗಳು ಮತ್ತು ಮಾರಾಟಗಾರರಿಗೆ ಪ್ರಯೋಜನ ನೀಡುತ್ತದೆ. ಪರವಾನಗಿಗಳು ಈಗ ಜೀವಮಾನವಿಡೀ ಮಾನ್ಯವಾಗಿದ್ದರೂ, ಉಲ್ಲಂಘನೆಗಳಿಗಾಗಿ ಅವುಗಳನ್ನು ರದ್ದುಗೊಳಿಸಬಹುದು, ಕಟ್ಟುನಿಟ್ಟಾದ ಆಹಾರ ಸುರಕ್ಷತಾ ಮಾನದಂಡಗಳನ್ನು ಕಾಯ್ದುಕೊಳ್ಳುತ್ತದೆ. ಈ ಕ್ರಮವು ವ್ಯವಹಾರಗಳ ಕಾರ್ಯಾಚರಣೆಗಳನ್ನು ಸರಳೀಕರಿಸುವ ಗುರಿಯನ್ನು ಹೊಂದಿದೆ."
+            },
+            "mr": {
+                "title": "FSSAI ने नियम सोपे केले: अन्न परवाने आता कायमस्वरूपी!",
+                "content": "FSSAI ने अन्न व्यवसायाचे परवाने आणि नोंदणी कायमस्वरूपी केली आहे, ज्यामुळे नियतकालिक नूतनीकरणाची गरज संपली आहे. या मोठ्या बदलामुळे लाखो रेस्टॉरंट्स, खाण्याची ठिकाणे आणि विक्रेत्यांना नियमांचे पालन करणे सोपे होईल. परवाने आता आयुष्यभरासाठी असले तरी, नियमांचे उल्लंघन झाल्यास ते रद्द केले जाऊ शकतात, ज्यामुळे अन्न सुरक्षा मानके कठोरपणे पाळली जातील. या उपायाचे उद्दिष्ट व्यवसायांसाठी कामकाज सोपे करणे आहे."
+            },
+            "hi": {
+                "title": "FSSAI ने नियम आसान किए: खाद्य लाइसेंस अब स्थायी!",
+                "content": "FSSAI ने खाद्य व्यवसाय लाइसेंस और पंजीकरण स्थायी कर दिए हैं, जिससे आवधिक नवीनीकरण की आवश्यकता समाप्त हो गई है। यह बड़ा बदलाव लाखों रेस्तरां, भोजनालयों और विक्रेताओं को अनुपालन आसान करके लाभ पहुंचाएगा। जबकि लाइसेंस अब आजीवन वैध हैं, उन्हें उल्लंघन के लिए रद्द किया जा सकता है, जिससे सख्त खाद्य सुरक्षा मानक बनाए रखे जा सकें। इस कदम का उद्देश्य व्यवसायों के लिए संचालन को सरल बनाना है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129872484,imgsize-111982.cms",
+        "link": "https://timesofindia.indiatimes.com/india/fssai-makes-food-business-permits-permanent/articleshow/129872051.cms",
+        "date": "2026-03-29T03:39:12+05:30"
+    },
+    {
+        "id": "2b6fc5ed",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Raymond Visionary Vijaypat Singhania Passes Away",
+                "content": "Vijaypat Singhania, the visionary who transformed Raymond, has passed away. He led the company's evolution from a woolen blanket manufacturer into a diversified conglomerate spanning synthetic fabrics, denim, steel, and cement. Singhania also built Raymond into one of India's most recognized clothing brands, famously known as 'The Complete Man'."
+            },
+            "kn": {
+                "title": "ರೇಮಂಡ್‌ನ ದೂರದೃಷ್ಟಿಯ ವಿಜಯಪತ್ ಸಿಂಘಾನಿಯಾ ಇನ್ನಿಲ್ಲ",
+                "content": "ರೇಮಂಡ್ ಸಂಸ್ಥೆಯನ್ನು ರೂಪಾಂತರಗೊಳಿಸಿದ ದೂರದೃಷ್ಟಿಯ ವಿಜಯಪತ್ ಸಿಂಘಾನಿಯಾ ನಿಧನರಾಗಿದ್ದಾರೆ. ಅವರು ಕಂಪನಿಯನ್ನು ಉಣ್ಣೆಯ ಕಂಬಳಿ ತಯಾರಿಕೆಯಿಂದ ಸಂಶ್ಲೇಷಿತ ಬಟ್ಟೆಗಳು, ಡೆನಿಮ್, ಉಕ್ಕು ಮತ್ತು ಸಿಮೆಂಟ್ ಒಳಗೊಂಡ ವೈವಿಧ್ಯಮಯ ಸಮೂಹ ಸಂಸ್ಥೆಯಾಗಿ ವಿಕಸಿಸಲು ಮಾರ್ಗದರ್ಶನ ನೀಡಿದರು. ಸಿಂಘಾನಿಯಾ ರೇಮಂಡ್ ಅನ್ನು ಭಾರತದ ಅತ್ಯಂತ ಗುರುತಿಸಲ್ಪಟ್ಟ ಉಡುಪು ಬ್ರ್ಯಾಂಡ್‌ಗಳಲ್ಲಿ ಒಂದಾಗಿ ಬೆಳೆಸಿದರು, ಇದನ್ನು 'ದಿ ಕಂಪ್ಲೀಟ್ ಮ್ಯಾನ್' ಎಂದು ಪ್ರಸಿದ್ಧವಾಗಿ ಕರೆಯಲಾಗುತ್ತಿತ್ತು."
+            },
+            "mr": {
+                "title": "रेमंडचे दूरदृष्टीचे नेते विजयपत सिंघानिया यांचे निधन",
+                "content": "रेमंड कंपनीला बदलणारे दूरदृष्टीचे नेते विजयपत सिंघानिया यांचे निधन झाले आहे. त्यांनी कंपनीला लोकरीच्या ब्लँकेट उत्पादनातून सिंथेटिक कापड, डेनिम, स्टील आणि सिमेंटपर्यंत पसरलेल्या विविध समूहात विकसित केले. सिंघानिया यांनी रेमंडला भारतातील सर्वात मान्यताप्राप्त कपड्यांच्या ब्रँडपैकी एक बनवले, जे 'द कम्प्लीट मॅन' म्हणून प्रसिद्ध होते."
+            },
+            "hi": {
+                "title": "रेमंड के दूरदर्शी विजयपत सिंघानिया का निधन",
+                "content": "रेमंड को बदलने वाले दूरदर्शी विजयपत सिंघानिया का निधन हो गया है। उन्होंने कंपनी को ऊनी कंबल निर्माता से सिंथेटिक कपड़े, डेनिम, स्टील और सीमेंट सहित एक विविध समूह में विकसित किया। सिंघानिया ने रेमंड को भारत के सबसे प्रसिद्ध कपड़ों के ब्रांडों में से एक भी बनाया, जिसे 'द कंप्लीट मैन' के नाम से जाना जाता था।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129872160,imgsize-178420.cms",
+        "link": "https://timesofindia.indiatimes.com/india/vijaypat-singhania-the-complete-man-passes-away/articleshow/129872161.cms",
+        "date": "2026-03-29T03:10:03+05:30"
+    },
+    {
+        "id": "7d2f3a16",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Govt Expedites Piped Gas Rollout",
+                "content": "The government has urged municipal bodies and other agencies to fast-track clearances for Piped Natural Gas (PNG) connections. Aiming to add 50 lakh new connections to the existing 1.6 crore, the minister called for mission-mode expansion, single-window approvals, and integration with urban planning to ensure last-mile connectivity and meet the ambitious target."
+            },
+            "kn": {
+                "title": "ಸರ್ಕಾರಿ ಪೈಪ್ಡ್ ಗ್ಯಾಸ್ ವಿಸ್ತರಣೆಯನ್ನು ತ್ವರಿತಗೊಳಿಸುತ್ತದೆ",
+                "content": "ಸರ್ಕಾರವು ಪೈಪ್ಡ್ ನ್ಯಾಚುರಲ್ ಗ್ಯಾಸ್ (PNG) ಸಂಪರ್ಕಗಳಿಗೆ ಅನುಮತಿಗಳನ್ನು ತ್ವರಿತಗೊಳಿಸಲು ಪುರಸಭೆ ಸಂಸ್ಥೆಗಳು ಮತ್ತು ಇತರ ಏಜೆನ್ಸಿಗಳಿಗೆ ಕರೆ ನೀಡಿದೆ. ಅಸ್ತಿತ್ವದಲ್ಲಿರುವ 1.6 ಕೋಟಿ ಸಂಪರ್ಕಗಳಿಗೆ 50 ಲಕ್ಷ ಹೊಸ ಸಂಪರ್ಕಗಳನ್ನು ಸೇರಿಸುವ ಗುರಿಯೊಂದಿಗೆ, ಸಚಿವರು ಮಿಷನ್-ಮೋಡ್ ವಿಸ್ತರಣೆ, ಏಕ-ಕಿಟಕಿ ಅನುಮೋದನೆಗಳು ಮತ್ತು ಕೊನೆಯ ಮೈಲಿ ಸಂಪರ್ಕವನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು ನಗರ ಯೋಜನೆಯೊಂದಿಗೆ ಸಂಯೋಜನೆಯನ್ನು ಆಹ್ವಾನಿಸಿದರು, ಈ ಮಹತ್ವಾಕಾಂಕ್ಷೆಯ ಗುರಿಯನ್ನು ಪೂರೈಸಲು."
+            },
+            "mr": {
+                "title": "सरकारने पाईप गॅसचा विस्तार वेगवान केला",
+                "content": "सरकारने पाईप नॅचरल गॅस (PNG) जोडण्यांसाठी परवानग्या जलद करण्यासाठी महानगरपालिका आणि इतर एजन्सींना आवाहन केले आहे. सध्याच्या 1.6 कोटी जोडण्यांमध्ये 50 लाख नवीन जोडण्या जोडण्याचे उद्दिष्ट ठेवून, मंत्र्यांनी मिशन-मोड विस्तार, एक-खिडकी मंजुरी आणि शेवटच्या मैलापर्यंत कनेक्टिव्हिटी सुनिश्चित करण्यासाठी शहरी नियोजनासोबत एकत्रीकरण करण्याचे आवाहन केले, जेणेकरून हे महत्त्वाकांक्षी लक्ष्य पूर्ण होईल."
+            },
+            "hi": {
+                "title": "सरकार ने पाइप गैस विस्तार में तेजी लाई",
+                "content": "सरकार ने पाइप नेचुरल गैस (पीएनजी) कनेक्शनों के लिए स्वीकृतियों में तेजी लाने हेतु नगर निकायों और अन्य एजेंसियों से आग्रह किया है। मौजूदा 1.6 करोड़ कनेक्शनों में 50 लाख नए कनेक्शन जोड़ने के लक्ष्य के साथ, मंत्री ने मिशन-मोड विस्तार, सिंगल-विंडो अनुमोदन और शहरी नियोजन के साथ एकीकरण का आह्वान किया ताकि अंतिम-मील कनेक्टिविटी सुनिश्चित की जा सके और इस महत्वाकांक्षी लक्ष्य को पूरा किया जा सके।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129872137,imgsize-150804.cms",
+        "link": "https://timesofindia.indiatimes.com/india/expedite-png-clearances-govt-to-municipal-bodies-other-agencies/articleshow/129872136.cms",
+        "date": "2026-03-29T02:46:11+05:30"
+    },
+    {
+        "id": "87c2d76f",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "India, Saudi Arabia Agree on Open Shipping Lines Amidst West Asia Tensions",
+                "content": "PM Modi and Saudi Crown Prince Mohammed bin Salman agreed on the critical need to maintain open shipping lines for global trade and India's energy security. In their second call since the West Asia conflict began, Modi reiterated India's strong support for GCC nations' sovereignty and territorial integrity, underscoring India's vital energy and diaspora interests in the region."
+            },
+            "kn": {
+                "title": "ಪಶ್ಚಿಮ ಏಷ್ಯಾ ಉದ್ವಿಗ್ನತೆಗಳ ನಡುವೆ ಮುಕ್ತ ಹಡಗು ಮಾರ್ಗಗಳಿಗೆ ಭಾರತ-ಸೌದಿ ಒಪ್ಪಂದ",
+                "content": "ಪ್ರಧಾನಿ ಮೋದಿ ಮತ್ತು ಸೌದಿ ಯುವರಾಜ ಮೊಹಮ್ಮದ್ ಬಿನ್ ಸಲ್ಮಾನ್ ಜಾಗತಿಕ ವ್ಯಾಪಾರ ಮತ್ತು ಭಾರತದ ಇಂಧನ ಭದ್ರತೆಗೆ ನಿರ್ಣಾಯಕವಾದ ಮುಕ್ತ ಹಡಗು ಮಾರ್ಗಗಳನ್ನು ನಿರ್ವಹಿಸುವ ಅಗತ್ಯಕ್ಕೆ ಸಮ್ಮತಿಸಿದರು. ಪಶ್ಚಿಮ ಏಷ್ಯಾ ಸಂಘರ್ಷ ಆರಂಭವಾದಾಗಿನಿಂದ ಅವರ ಎರಡನೇ ಕರೆಯಲ್ಲಿ, ಮೋದಿ ಜಿಸಿಸಿ ರಾಷ್ಟ್ರಗಳ ಸಾರ್ವಭೌಮತೆ ಮತ್ತು ಪ್ರಾದೇಶಿಕ ಸಮಗ್ರತೆಗೆ ಭಾರತದ ಬಲವಾದ ಬೆಂಬಲವನ್ನು ಪುನರುಚ್ಚರಿಸಿದರು, ಇದು ಪ್ರದೇಶದಲ್ಲಿ ಭಾರತದ ಮಹತ್ವದ ಇಂಧನ ಮತ್ತು ಅನಿವಾಸಿ ಹಿತಾಸಕ್ತಿಗಳನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "पश्चिम आशियातील तणावांदरम्यान भारत-सौदी अरेबियाकडून खुले शिपिंग मार्ग ठेवण्यावर सहमती",
+                "content": "पंतप्रधान मोदी आणि सौदी क्राऊन प्रिन्स मोहम्मद बिन सलमान यांनी जागतिक व्यापार आणि भारताच्या ऊर्जा सुरक्षेसाठी महत्त्वाचे असलेले खुले शिपिंग मार्ग राखण्याच्या गरजेवर सहमती दर्शवली. पश्चिम आशिया संघर्ष सुरू झाल्यापासून त्यांच्या दुसऱ्या दूरध्वनी संभाषणात, मोदींनी जीसीसी राष्ट्रांच्या सार्वभौमत्व आणि प्रादेशिक अखंडतेला भारताच्या जोरदार पाठिंब्याचा पुनरुच्चार केला, ज्यामुळे या प्रदेशातील भारताचे महत्त्वपूर्ण ऊर्जा आणि डायस्पोरा हितसंबंध अधोरेखित होतात."
+            },
+            "hi": {
+                "title": "पश्चिम एशिया तनाव के बीच भारत-सऊदी अरब ने खुले शिपिंग मार्गों पर सहमति जताई",
+                "content": "प्रधानमंत्री मोदी और सऊदी क्राउन प्रिंस मोहम्मद बिन सलमान ने वैश्विक व्यापार और भारत की ऊर्जा सुरक्षा के लिए महत्वपूर्ण खुले शिपिंग मार्गों को बनाए रखने की आवश्यकता पर सहमति व्यक्त की। पश्चिम एशिया संघर्ष शुरू होने के बाद से उनकी दूसरी बातचीत में, मोदी ने जीसीसी राष्ट्रों की संप्रभुता और क्षेत्रीय अखंडता के लिए भारत के मजबूत समर्थन को दोहराया, जो क्षेत्र में भारत के महत्वपूर्ण ऊर्जा और प्रवासी हितों को रेखांकित करता है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129872134,imgsize-70606.cms",
+        "link": "https://timesofindia.indiatimes.com/india/pm-saudi-crown-prince-agree-on-need-to-keep-shipping-lines-open/articleshow/129872131.cms",
+        "date": "2026-03-29T02:39:10+05:30"
+    },
+    {
+        "id": "cb4c9f60",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Ancient City in Peru Unveils Desert Civilization",
+                "content": "An astonishing 3,800-year-old city has been unearthed in Peru, unveiling the secrets of a previously unknown civilization. This remarkable society defied the odds, thriving in one of Earth's most unforgiving deserts. The discovery offers a profound glimpse into their sophisticated urban planning and extraordinary resilience, challenging our understanding of ancient human adaptation in extreme environments."
+            },
+            "kn": {
+                "title": "ಪೆರುವಿನಲ್ಲಿ ಪ್ರಾಚೀನ ನಗರ: ಮರುಭೂಮಿ ನಾಗರಿಕತೆ ಅನಾವರಣ",
+                "content": "ಪೆರುವಿನಲ್ಲಿ ಅದ್ಭುತವಾದ 3,800 ವರ್ಷಗಳ ಹಳೆಯ ನಗರ ಪತ್ತೆಯಾಗಿದೆ, ಇದು ಹಿಂದೆ ಅಜ್ಞಾತವಾಗಿದ್ದ ನಾಗರಿಕತೆಯ ರಹಸ್ಯಗಳನ್ನು ಅನಾವರಣಗೊಳಿಸಿದೆ. ಈ ಗಮನಾರ್ಹ ಸಮಾಜವು ಸವಾಲುಗಳನ್ನು ಮೀರಿ, ಭೂಮಿಯ ಅತ್ಯಂತ ಕಠಿಣ ಮರುಭೂಮಿಗಳಲ್ಲಿ ಒಂದರಲ್ಲಿ ಸಮೃದ್ಧವಾಗಿ ಬೆಳೆಯಿತು. ಈ ಆವಿಷ್ಕಾರವು ಅವರ ಅತ್ಯಾಧುನಿಕ ನಗರ ಯೋಜನೆ ಮತ್ತು ಅಸಾಮಾನ್ಯ ಸ್ಥಿತಿಸ್ಥಾಪಕತ್ವದ ಆಳವಾದ ನೋಟವನ್ನು ನೀಡುತ್ತದೆ, ತೀವ್ರ ಪರಿಸರದಲ್ಲಿ ಪ್ರಾಚೀನ ಮಾನವ ಹೊಂದಾಣಿಕೆಯ ನಮ್ಮ ತಿಳುವಳಿಕೆಗೆ ಸವಾಲು ಹಾಕುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "पेरूमधील प्राचीन शहर: वाळवंटी संस्कृतीचा उलगडा",
+                "content": "पेरूमध्ये 3,800 वर्षांपूर्वीचे एक आश्चर्यकारक शहर सापडले आहे, ज्याने एका अज्ञात सभ्यतेची रहस्ये उघड केली आहेत. या उल्लेखनीय समाजाने अडचणींवर मात करत पृथ्वीवरील सर्वात कठोर वाळवंटात भरभराट केली. हा शोध त्यांच्या अत्याधुनिक शहरी नियोजन आणि असामान्य लवचिकतेची सखोल झलक देतो, ज्यामुळे अत्यंत परिस्थितीत प्राचीन मानवी जुळवून घेण्याबद्दलच्या आपल्या समजाला आव्हान मिळते."
+            },
+            "hi": {
+                "title": "पेरू में प्राचीन शहर: रेगिस्तानी सभ्यता का अनावरण",
+                "content": "पेरू में एक अद्भुत 3,800 साल पुराना शहर खोजा गया है, जो एक अज्ञात सभ्यता के रहस्यों को उजागर करता है। इस उल्लेखनीय समाज ने बाधाओं को धता बताते हुए पृथ्वी के सबसे कठोर रेगिस्तानों में से एक में उन्नति की। यह खोज उनकी परिष्कृत शहरी योजना और असाधारण लचीलेपन की गहरी झलक प्रदान करती है, जो अत्यधिक वातावरण में प्राचीन मानव अनुकूलन की हमारी समझ को चुनौती देती है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129876357,imgsize-196930.cms",
+        "link": "https://timesofindia.indiatimes.com/world/rest-of-world/3800-year-old-city-in-peru-exposes-a-mysterious-civilisation-that-thrived-in-one-of-the-harshest-deserts-on-earth/articleshow/129876345.cms",
+        "date": "2026-03-29T11:28:01+05:30"
+    },
+    {
+        "id": "dd19f473",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Saudi Arabia's Green Milestone",
+                "content": "Saudi Arabia hit a major green milestone under its Saudi Green Initiative, restoring one million hectares of degraded land and planting over 159 million trees. This impressive effort, utilizing modern techniques, significantly boosts the nation's biodiversity and ecosystem resilience, paving the way for even more ambitious environmental goals in the future."
+            },
+            "kn": {
+                "title": "ಸೌದಿ ಅರೇಬಿಯಾದ ಹಸಿರು ಮೈಲಿಗಲ್ಲು",
+                "content": "ಸೌದಿ ಅರೇಬಿಯಾವು ತನ್ನ ಸೌದಿ ಗ್ರೀನ್ ಇನಿಶಿಯೇಟಿವ್ ಅಡಿಯಲ್ಲಿ ಒಂದು ಪ್ರಮುಖ ಹಸಿರು ಮೈಲಿಗಲ್ಲನ್ನು ಸಾಧಿಸಿದೆ, ಒಂದು ಮಿಲಿಯನ್ ಹೆಕ್ಟೇರ್ ಅವನತಿ ಹೊಂದಿದ ಭೂಮಿಯನ್ನು ಪುನಃಸ್ಥಾಪಿಸಿ 159 ಮಿಲಿಯನ್‌ಗಿಂತಲೂ ಹೆಚ್ಚು ಮರಗಳನ್ನು ನೆಟ್ಟಿದೆ. ಆಧುನಿಕ ತಂತ್ರಗಳನ್ನು ಬಳಸಿಕೊಂಡು ಮಾಡಿದ ಈ ಪ್ರಭಾವಶಾಲಿ ಪ್ರಯತ್ನವು ರಾಷ್ಟ್ರದ ಜೀವವೈವಿಧ್ಯತೆ ಮತ್ತು ಪರಿಸರ ವ್ಯವಸ್ಥೆಯ ಸ್ಥಿತಿಸ್ಥಾಪಕತ್ವವನ್ನು ಗಣನೀಯವಾಗಿ ಹೆಚ್ಚಿಸುತ್ತದೆ, ಭವಿಷ್ಯದಲ್ಲಿ ಇನ್ನಷ್ಟು ಮಹತ್ವಾಕಾಂಕ್ಷೆಯ ಪರಿಸರ ಗುರಿಗಳಿಗೆ ದಾರಿ ಮಾಡಿಕೊಡುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "सौदी अरेबियाचा हरित मैलाचा दगड",
+                "content": "सौदी अरेबियाने त्याच्या सौदी ग्रीन इनिशिएटिव्ह अंतर्गत एक महत्त्वाचा हरित मैलाचा दगड गाठला आहे, ज्यात एक दशलक्ष हेक्टर निकृष्ट जमिनीची पुनर्स्थापना केली आणि 159 दशलक्षाहून अधिक झाडे लावली. आधुनिक तंत्रांचा वापर करून केलेल्या या प्रभावी प्रयत्नामुळे देशाची जैवविविधता आणि परिसंस्थेची लवचिकता लक्षणीयरीत्या वाढते, ज्यामुळे भविष्यातील आणखी महत्त्वाकांक्षी पर्यावरणीय उद्दिष्टांसाठी मार्ग मोकळा होतो."
+            },
+            "hi": {
+                "title": "सऊदी अरब का हरित मील का पत्थर",
+                "content": "सऊदी अरब ने अपनी सऊदी ग्रीन पहल के तहत एक प्रमुख हरित मील का पत्थर हासिल किया है, जिसमें दस लाख हेक्टेयर degraded भूमि को बहाल किया गया और 159 मिलियन से अधिक पेड़ लगाए गए। आधुनिक तकनीकों का उपयोग करके किए गए इस प्रभावशाली प्रयास से देश की जैव विविधता और पारिस्थितिकी तंत्र की लचीलापन में काफी वृद्धि हुई है, जिससे भविष्य में और भी महत्वाकांक्षी पर्यावरणीय लक्ष्यों का मार्ग प्रशस्त हुआ है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129876217,imgsize-1486616.cms",
+        "link": "https://timesofindia.indiatimes.com/world/middle-east/saudi-arabia-restores-1-million-hectares-of-land-plants-over-159-million-trees-under-green-initiative/articleshow/129876088.cms",
+        "date": "2026-03-29T11:14:39+05:30"
+    },
+    {
+        "id": "888d00af",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Saudi Arabia Launches 992 Helpline for Stranded Visitors",
+                "content": "Saudi Arabia has launched a unified helpline, 992, for stranded visitors with visa expiry queries. This relief initiative helps those whose visas expire by February 25, 2026, especially amid current regional challenges. Visitors must act by April 18, 2026, for extensions or departure, to avoid significant penalties. Use the helpline for urgent assistance and to clarify your status."
+            },
+            "kn": {
+                "title": "ಸೌದಿ ಅರೇಬಿಯಾ ಸಿಕ್ಕಿಬಿದ್ದ ಸಂದರ್ಶಕರಿಗೆ 992 ಸಹಾಯವಾಣಿ ಪ್ರಾರಂಭಿಸಿದೆ",
+                "content": "ಸೌದಿ ಅರೇಬಿಯಾವು ವೀಸಾ ಅವಧಿ ಮುಗಿದಿರುವ ವಿಚಾರಣೆಗಳಿಗಾಗಿ ಸಿಕ್ಕಿಬಿದ್ದ ಸಂದರ್ಶಕರಿಗೆ ಏಕೀಕೃತ ಸಹಾಯವಾಣಿ 992 ಅನ್ನು ಪ್ರಾರಂಭಿಸಿದೆ. ಈ ಪರಿಹಾರ ಉಪಕ್ರಮವು ಪ್ರಸ್ತುತ ಪ್ರಾದೇಶಿಕ ಸವಾಲುಗಳ ನಡುವೆ, ಫೆಬ್ರವರಿ 25, 2026 ರೊಳಗೆ ವೀಸಾಗಳು ಮುಕ್ತಾಯಗೊಳ್ಳುವವರಿಗೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ. ಗಮನಾರ್ಹ ದಂಡಗಳನ್ನು ತಪ್ಪಿಸಲು ಸಂದರ್ಶಕರು ಏಪ್ರಿಲ್ 18, 2026 ರೊಳಗೆ ವಿಸ್ತರಣೆ ಅಥವಾ ನಿರ್ಗಮನಕ್ಕಾಗಿ ಕ್ರಮ ಕೈಗೊಳ್ಳಬೇಕು. ತುರ್ತು ಸಹಾಯಕ್ಕಾಗಿ ಮತ್ತು ನಿಮ್ಮ ಸ್ಥಿತಿಯನ್ನು ಸ್ಪಷ್ಟಪಡಿಸಲು ಸಹಾಯವಾಣಿಯನ್ನು ಬಳಸಿ."
+            },
+            "mr": {
+                "title": "सौदी अरेबियाने अडकलेल्या पर्यटकांसाठी ९९२ हेल्पलाइन सुरू केली",
+                "content": "सौदी अरेबियाने व्हिसा मुदतवाढीच्या चौकशीसाठी अडकलेल्या पर्यटकांसाठी ९९२ ही एकीकृत हेल्पलाइन सुरू केली आहे. हा दिलासा देणारा उपक्रम सध्याच्या प्रादेशिक आव्हानांमध्ये, २५ फेब्रुवारी २०२६ पर्यंत व्हिसाची मुदत संपणाऱ्यांना मदत करतो. मोठे दंड टाळण्यासाठी पर्यटकांनी १८ एप्रिल २०२६ पर्यंत व्हिसा मुदतवाढ किंवा निर्गमनासाठी कार्यवाही करणे आवश्यक आहे. तातडीच्या मदतीसाठी आणि आपली स्थिती स्पष्ट करण्यासाठी हेल्पलाइनचा वापर करा."
+            },
+            "hi": {
+                "title": "सऊदी अरब ने फंसे हुए आगंतुकों के लिए 992 हेल्पलाइन शुरू की",
+                "content": "सऊदी अरब ने वीज़ा समाप्ति संबंधी प्रश्नों के लिए फंसे हुए आगंतुकों हेतु एक एकीकृत हेल्पलाइन, 992, शुरू की है। यह राहत पहल उन लोगों की मदद करती है जिनके वीज़ा 25 फरवरी, 2026 तक समाप्त हो रहे हैं, खासकर मौजूदा क्षेत्रीय चुनौतियों के बीच। महत्वपूर्ण दंड से बचने के लिए आगंतुकों को 18 अप्रैल, 2026 तक विस्तार या प्रस्थान के लिए कार्रवाई करनी होगी। तत्काल सहायता और अपनी स्थिति स्पष्ट करने के लिए हेल्पलाइन का उपयोग करें।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129875722,imgsize-587126.cms",
+        "link": "https://timesofindia.indiatimes.com/world/middle-east/saudi-arabia-issues-unified-helpline-992-for-expired-visa-queries-of-stranded-visitors-unable-to-exit-amid-regional-crisis/articleshow/129875335.cms",
+        "date": "2026-03-29T10:09:39+05:30"
+    },
+    {
+        "id": "68216c4c",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Earth's Hidden Wonders: 5 Mysterious Underground Rivers",
+                "content": "Uncover Earth's hidden marvels! Five incredible rivers flow unseen beneath landscapes worldwide, carving paths far beyond surface streams. From ancient caves to vast subterranean networks, these hidden waterways are natural wonders, shaping geology and supporting unique ecosystems. Discover their mystery and breathtaking beauty. Prepare to be amazed by these submerged wonders, an astonishing dimension of our planet's hydrology."
+            },
+            "kn": {
+                "title": "ಭೂಮಿಯ ಗುಪ್ತ ಅದ್ಭುತಗಳು: 5 ರಹಸ್ಯಮಯ ಭೂಗತ ನದಿಗಳು",
+                "content": "ಭೂಮಿಯ ಗುಪ್ತ ಅದ್ಭುತಗಳನ್ನು ಅನಾವರಣಗೊಳಿಸಿ! ಜಗತ್ತಿನಾದ್ಯಂತ ಭೂಗರ್ಭದಲ್ಲಿ ಐದು ಅದ್ಭುತ ನದಿಗಳು ಹರಿಯುತ್ತವೆ, ಮೇಲ್ಮೈ ನದಿಗಳಾಚೆ ತಮ್ಮ ಹಾದಿಗಳನ್ನು ಕೆತ್ತುತ್ತವೆ. ಪ್ರಾಚೀನ ಗುಹೆಗಳಿಂದ ವಿಶಾಲ ಭೂಗತ ಜಾಲಗಳವರೆಗೆ, ಈ ಗುಪ್ತ ಜಲಮಾರ್ಗಗಳು ನೈಸರ್ಗಿಕ ಅದ್ಭುತಗಳಾಗಿವೆ, ಭೂವಿಜ್ಞಾನವನ್ನು ರೂಪಿಸುತ್ತವೆ ಮತ್ತು ವಿಶಿಷ್ಟ ಪರಿಸರ ವ್ಯವಸ್ಥೆಗಳನ್ನು ಬೆಂಬಲಿಸುತ್ತವೆ. ಅವುಗಳ ರಹಸ್ಯ ಮತ್ತು ಉಸಿರುಬಿಗಿದಪ್ಪುವ ಸೌಂದರ್ಯವನ್ನು ಅನ್ವೇಷಿಸಿ. ನಮ್ಮ ಗ್ರಹದ ಜಲವಿಜ್ಞಾನದ ಅದ್ಭುತ ಆಯಾಮವಾದ ಈ ಮುಳುಗಿದ ಅದ್ಭುತಗಳಿಂದ ಬೆರಗಾಗಲು ಸಿದ್ಧರಾಗಿ."
+            },
+            "mr": {
+                "title": "पृथ्वीचे छुपे चमत्कार: 5 रहस्यमय भूमिगत नद्या",
+                "content": "पृथ्वीचे छुपे चमत्कार उलगडा! जगभरात भूभागाखाली पाच अविश्वसनीय नद्या अदृश्यपणे वाहतात, पृष्ठभागावरील प्रवाहांच्या पलीकडे स्वतःचा मार्ग कोरतात. प्राचीन गुहांपासून ते विशाल भूमिगत जाळ्यांपर्यंत, हे छुपे जलमार्ग नैसर्गिक चमत्कार आहेत, जे भूगर्भशास्त्र घडवतात आणि अद्वितीय परिसंस्थांना आधार देतात. त्यांचे रहस्य आणि मनमोहक सौंदर्य शोधा. आपल्या ग्रहाच्या जलविज्ञानाचा एक आश्चर्यकारक पैलू असलेल्या या पाण्याखालील चमत्कारांनी थक्क होण्यास तयार रहा."
+            },
+            "hi": {
+                "title": "पृथ्वी के छिपे हुए आश्चर्य: 5 रहस्यमयी भूमिगत नदियाँ",
+                "content": "पृथ्वी के छिपे हुए चमत्कारों को उजागर करें! दुनिया भर में भूभाग के नीचे पाँच अविश्वसनीय नदियाँ अदृश्य रूप से बहती हैं, सतह की धाराओं से कहीं आगे अपना मार्ग बनाती हैं। प्राचीन गुफाओं से लेकर विशाल भूमिगत नेटवर्क तक, ये छिपे हुए जलमार्ग प्राकृतिक चमत्कार हैं, जो भूविज्ञान को आकार देते हैं और अद्वितीय पारिस्थितिकी तंत्रों का समर्थन करते हैं। उनके रहस्य और लुभावनी सुंदरता की खोज करें। हमारे ग्रह के जल विज्ञान का एक आश्चर्यजनक आयाम, इन जलमग्न चमत्कारों से चकित होने के लिए तैयार रहें।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129875571,imgsize-75586.cms",
+        "link": "https://timesofindia.indiatimes.com/world/rest-of-world/5-rivers-that-flow-underground-around-the-world/articleshow/129875549.cms",
+        "date": "2026-03-29T09:47:11+05:30"
+    },
+    {
+        "id": "65bb964f",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Pentagon Prepares Plans for US Troops in Iran",
+                "content": "The US military is developing contingency plans for potential ground operations in Iran, ranging from targeted raids to limited troop deployments. This preparation by the Pentagon aims to neutralize specific threats, even as the White House insists no decision has been made. The move highlights a growing disparity between US military readiness and cautious public messaging regarding Iran."
+            },
+            "kn": {
+                "title": "ಪೆಂಟಗನ್ ಇರಾನ್‌ನಲ್ಲಿ ಅಮೆರಿಕ ಪಡೆಗಳಿಗಾಗಿ ಯೋಜನೆಗಳನ್ನು ಸಿದ್ಧಪಡಿಸುತ್ತಿದೆ",
+                "content": "ಅಮೆರಿಕ ಸೇನೆಯು ಇರಾನ್‌ನಲ್ಲಿ ಸಂಭವನೀಯ ನೆಲದ ಕಾರ್ಯಾಚರಣೆಗಳಿಗಾಗಿ, ಗುರಿಯಿಟ್ಟ ದಾಳಿಗಳಿಂದ ಹಿಡಿದು ಸೀಮಿತ ಸೈನ್ಯ ನಿಯೋಜನೆಯವರೆಗಿನ ಆಕಸ್ಮಿಕ ಯೋಜನೆಗಳನ್ನು ಅಭಿವೃದ್ಧಿಪಡಿಸುತ್ತಿದೆ. ಶ್ವೇತಭವನವು ಯಾವುದೇ ನಿರ್ಧಾರವನ್ನು ತೆಗೆದುಕೊಂಡಿಲ್ಲ ಎಂದು ಹೇಳಿದರೂ, ಪೆಂಟಗನ್ ನಿರ್ದಿಷ್ಟ ಬೆದರಿಕೆಗಳನ್ನು ತಟಸ್ಥಗೊಳಿಸಲು ಈ ಸಿದ್ಧತೆಯನ್ನು ನಡೆಸುತ್ತಿದೆ. ಈ ಕ್ರಮವು ಅಮೆರಿಕದ ಮಿಲಿಟರಿ ಸನ್ನದ್ಧತೆ ಮತ್ತು ಇರಾನ್‌ಗೆ ಸಂಬಂಧಿಸಿದ ಎಚ್ಚರಿಕೆಯ ಸಾರ್ವಜನಿಕ ಸಂದೇಶದ ನಡುವಿನ ಹೆಚ್ಚುತ್ತಿರುವ ವ್ಯತ್ಯಾಸವನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "पेंटागॉन इराणमध्ये अमेरिकेच्या सैन्यासाठी योजना तयार करत आहे",
+                "content": "अमेरिकेचे सैन्य इराणमध्ये संभाव्य भू-कारवायांसाठी, लक्ष्यित हल्ल्यांपासून ते मर्यादित सैन्य तैनातीपर्यंतच्या आकस्मिक योजना विकसित करत आहे. व्हाईट हाऊसने कोणताही निर्णय घेतला नसल्याचे सांगितले असले तरी, पेंटागॉन विशिष्ट धोके निष्प्रभ करण्यासाठी ही तयारी करत आहे. हा निर्णय अमेरिकेच्या लष्करी सज्जता आणि इराणसंबंधीच्या सावध सार्वजनिक संदेशात वाढत जाणारी तफावत दर्शवतो."
+            },
+            "hi": {
+                "title": "पेंटागन ईरान में अमेरिकी सैनिकों के लिए योजनाएँ तैयार कर रहा है",
+                "content": "अमेरिकी सेना ईरान में संभावित जमीनी अभियानों के लिए आकस्मिक योजनाएं विकसित कर रही है, जिसमें लक्षित हमलों से लेकर सीमित सैनिक तैनाती तक शामिल है। व्हाइट हाउस का कहना है कि अभी कोई निर्णय नहीं लिया गया है, लेकिन पेंटागन विशिष्ट खतरों को बेअसर करने के लिए यह तैयारी कर रहा है। यह कदम अमेरिकी सैन्य तत्परता और ईरान के संबंध में सतर्क सार्वजनिक संदेश के बीच बढ़ती खाई को उजागर करता है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129875010,imgsize-1277118.cms",
+        "link": "https://timesofindia.indiatimes.com/world/middle-east/kharg-island-full-scale-invasion-or-special-ops-inside-pentagon-plan-for-us-boots-in-iran-iran-war-us-iran-war-news-israel-iran-ground-invasion/articleshow/129874970.cms",
+        "date": "2026-03-29T08:32:45+05:30"
+    },
+    {
+        "id": "242db784",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Houthis Escalate Conflict with Second Strike on Israel",
+                "content": "Yemen's Houthi rebels declared a \"Holy Jihad Battle,\" launching their second military operation against Israel overnight. This aggressive move, involving drones and missiles, significantly widens the ongoing conflict in the Middle East, raising concerns about regional stability and further escalation."
+            },
+            "kn": {
+                "title": "ಇಸ್ರೇಲ್ ಮೇಲೆ ಎರಡನೇ ದಾಳಿಯೊಂದಿಗೆ ಹೂತಿಗಳು ಸಂಘರ್ಷವನ್ನು ಹೆಚ್ಚಿಸಿದರು",
+                "content": "ಯೆಮೆನ್‌ನ ಹೂತಿ ಬಂಡುಕೋರರು \"ಪವಿತ್ರ ಜಿಹಾದ್ ಕದನ\" ಘೋಷಿಸಿ, ರಾತ್ರೋರಾತ್ರಿ ಇಸ್ರೇಲ್ ವಿರುದ್ಧ ತಮ್ಮ ಎರಡನೇ ಮಿಲಿಟರಿ ಕಾರ್ಯಾಚರಣೆಯನ್ನು ಪ್ರಾರಂಭಿಸಿದರು. ಡ್ರೋನ್‌ಗಳು ಮತ್ತು ಕ್ಷಿಪಣಿಗಳನ್ನು ಒಳಗೊಂಡ ಈ ಆಕ್ರಮಣಕಾರಿ ನಡೆಯು, ಮಧ್ಯಪ್ರಾಚ್ಯದಲ್ಲಿ ನಡೆಯುತ್ತಿರುವ ಸಂಘರ್ಷವನ್ನು ಗಮನಾರ್ಹವಾಗಿ ವಿಸ್ತರಿಸುತ್ತದೆ, ಪ್ರಾದೇಶಿಕ ಸ್ಥಿರತೆ ಮತ್ತು ಮತ್ತಷ್ಟು ಉಲ್ಬಣದ ಬಗ್ಗೆ ಕಳವಳಗಳನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "हूतींनी इस्रायलवर दुसऱ्यांदा हल्ला करून संघर्ष वाढवला",
+                "content": "येमेनच्या हूती बंडखोरांनी \"पवित्र जिहाद युद्ध\" घोषित करत, रात्री इस्रायलविरोधात आपली दुसरी लष्करी कारवाई सुरू केली. ड्रोन आणि क्षेपणास्त्रांचा समावेश असलेली ही आक्रमक कृती, मध्यपूर्वेतील सध्याचा संघर्ष लक्षणीयरीत्या वाढवते, ज्यामुळे प्रादेशिक स्थिरता आणि पुढील संघर्षाबद्दल चिंता वाढली आहे."
+            },
+            "hi": {
+                "title": "हوثियों ने इजराइल पर दूसरे हमले के साथ संघर्ष बढ़ाया",
+                "content": "यमन के हूती विद्रोहियों ने \"पवित्र जिहाद युद्ध\" घोषित करते हुए, रातोरात इजराइल के खिलाफ अपना दूसरा सैन्य अभियान शुरू किया। ड्रोन और मिसाइलों से युक्त यह आक्रामक कदम, मध्य पूर्व में जारी संघर्ष को महत्वपूर्ण रूप से बढ़ाता है, जिससे क्षेत्रीय स्थिरता और आगे के तनाव को लेकर चिंताएं बढ़ गई हैं।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129874935,imgsize-1184696.cms",
+        "link": "https://timesofindia.indiatimes.com/world/middle-east/holy-jihad-battle-war-widens-as-yemens-houthis-carry-out-2nd-military-operation-against-israel-overnight/articleshow/129874791.cms",
+        "date": "2026-03-29T08:22:38+05:30"
+    },
+    {
+        "id": "b24afc25",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Trump Unveils 'OnlyFarms' to Back US Farmers",
+                "content": "Donald Trump launched \"OnlyFarms\" on National Agriculture Day, a new platform aimed at bolstering support for US farmers. The initiative, announced at a White House event, promotes financial aid and policy adjustments to alleviate industry pressures. Its unique branding has garnered attention amidst current economic and geopolitical challenges, emphasizing Trump's commitment to America's agricultural sector."
+            },
+            "kn": {
+                "title": "ಟ್ರಂಪ್ ಯುಎಸ್ ರೈತರಿಗೆ ಬೆಂಬಲಿಸಲು 'ಓನ್ಲಿಫಾರ್ಮ್ಸ್' ಅನಾವರಣಗೊಳಿಸಿದರು",
+                "content": "ರಾಷ್ಟ್ರೀಯ ಕೃಷಿ ದಿನದಂದು ಡೊನಾಲ್ಡ್ ಟ್ರಂಪ್ ಯುಎಸ್ ರೈತರಿಗೆ ಬೆಂಬಲ ನೀಡುವ ಉದ್ದೇಶದಿಂದ \"ಓನ್ಲಿಫಾರ್ಮ್ಸ್\" ಅನ್ನು ಪ್ರಾರಂಭಿಸಿದರು. ಶ್ವೇತಭವನದ ಕಾರ್ಯಕ್ರಮದಲ್ಲಿ ಘೋಷಿಸಲಾದ ಈ ಉಪಕ್ರಮವು ಉದ್ಯಮದ ಒತ್ತಡಗಳನ್ನು ಕಡಿಮೆ ಮಾಡಲು ಆರ್ಥಿಕ ನೆರವು ಮತ್ತು ನೀತಿ ಹೊಂದಾಣಿಕೆಗಳನ್ನು ಉತ್ತೇಜಿಸುತ್ತದೆ. ಇದರ ವಿಶಿಷ್ಟ ಬ್ರ್ಯಾಂಡಿಂಗ್ ಪ್ರಸ್ತುತ ಆರ್ಥಿಕ ಮತ್ತು ಭೌಗೋಳಿಕ ರಾಜಕೀಯ ಸವಾಲುಗಳ ನಡುವೆ ಗಮನ ಸೆಳೆದಿದ್ದು, ಅಮೆರಿಕದ ಕೃಷಿ ಕ್ಷೇತ್ರಕ್ಕೆ ಟ್ರಂಪ್ ಅವರ ಬದ್ಧತೆಯನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "ट्रम्प यांनी अमेरिकन शेतकऱ्यांना पाठिंबा देण्यासाठी 'ओन्लीफार्म्स'चे अनावरण केले",
+                "content": "राष्ट्रीय कृषी दिनानिमित्त, डोनाल्ड ट्रम्प यांनी अमेरिकन शेतकऱ्यांना पाठिंबा देण्यासाठी \"ओन्लीफार्म्स\" हे नवीन व्यासपीठ सुरू केले. व्हाईट हाऊस येथे घोषित केलेल्या या उपक्रमात उद्योगावरील दबाव कमी करण्यासाठी आर्थिक मदत आणि धोरणात्मक बदलांना प्रोत्साहन दिले आहे. याच्या अद्वितीय ब्रँडिंगने सध्याच्या आर्थिक आणि भू-राजकीय आव्हानांदरम्यान लक्ष वेधले आहे, जे अमेरिकेच्या कृषी क्षेत्रासाठी ट्रम्प यांच्या वचनबद्धतेवर जोर देते."
+            },
+            "hi": {
+                "title": "ट्रम्प ने अमेरिकी किसानों का समर्थन करने के लिए 'ओनलीफार्म्स' का अनावरण किया",
+                "content": "राष्ट्रीय कृषि दिवस पर डोनाल्ड ट्रम्प ने अमेरिकी किसानों के लिए समर्थन मजबूत करने के उद्देश्य से \"ओनलीफार्म्स\" नामक एक नया मंच लॉन्च किया। व्हाइट हाउस में घोषित इस पहल में उद्योग के दबाव को कम करने के लिए वित्तीय सहायता और नीतिगत समायोजन को बढ़ावा दिया गया है। इसकी अनूठी ब्रांडिंग ने वर्तमान आर्थिक और भू-राजनीतिक चुनौतियों के बीच ध्यान आकर्षित किया है, जो अमेरिका के कृषि क्षेत्र के प्रति ट्रम्प की प्रतिबद्धता पर जोर देती है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129872252,imgsize-311295.cms",
+        "link": "https://timesofindia.indiatimes.com/world/us/what-is-onlyfarms-trump-unveils-bizarrely-named-website-to-mark-national-agriculture-day/articleshow/129872016.cms",
+        "date": "2026-03-29T04:17:49+05:30"
+    },
+    {
+        "id": "6681cb96",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "ChatGPT Helps Florida Man Sell Home for Nearly $1M",
+                "content": "A Florida man successfully sold his family home for $954,800, leveraging AI tool ChatGPT for the entire process. From crafting compelling property descriptions to negotiating offers and managing paperwork, he utilized ChatGPT to streamline communication and automate tasks. This innovative approach saved him significant real estate agent fees, demonstrating AI's powerful potential in complex transactions and personal finance."
+            },
+            "kn": {
+                "title": "ಚಾಟ್‌ಜಿಪಿಟಿ ನೆರವಿನಿಂದ ಫ್ಲೋರಿಡಾ ವ್ಯಕ್ತಿ ಸುಮಾರು $1 ಮಿಲಿಯನ್‌ಗೆ ಮನೆ ಮಾರಾಟ",
+                "content": "ಫ್ಲೋರಿಡಾದ ವ್ಯಕ್ತಿಯೊಬ್ಬರು ತಮ್ಮ ಕುಟುಂಬದ ಮನೆಯನ್ನು $954,800 ಗೆ ಯಶಸ್ವಿಯಾಗಿ ಮಾರಾಟ ಮಾಡಲು AI ಸಾಧನವಾದ ಚಾಟ್‌ಜಿಪಿಟಿಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಿಕೊಂಡರು. ಆಕರ್ಷಕ ಆಸ್ತಿ ವಿವರಣೆಗಳನ್ನು ರಚಿಸುವುದರಿಂದ ಹಿಡಿದು, ಆಫರ್‌ಗಳನ್ನು ಮಾತುಕತೆ ನಡೆಸಿ ಮತ್ತು ದಾಖಲೆಗಳನ್ನು ನಿರ್ವಹಿಸುವವರೆಗೆ, ಅವರು ಸಂವಹನವನ್ನು ಸುಗಮಗೊಳಿಸಲು ಮತ್ತು ಕಾರ್ಯಗಳನ್ನು ಸ್ವಯಂಚಾಲಿತಗೊಳಿಸಲು ಚಾಟ್‌ಜಿಪಿಟಿಯನ್ನು ಬಳಸಿದರು. ಈ ನವೀನ ವಿಧಾನವು ಅವರಿಗೆ ಗಮನಾರ್ಹ ರಿಯಲ್ ಎಸ್ಟೇಟ್ ಏಜೆಂಟ್ ಶುಲ್ಕಗಳನ್ನು ಉಳಿಸಿತು, ಸಂಕೀರ್ಣ ವ್ಯವಹಾರಗಳು ಮತ್ತು ವೈಯಕ್ತಿಕ ಹಣಕಾಸಿನಲ್ಲಿ AI ಯ ಪ್ರಬಲ ಸಾಮರ್ಥ್ಯವನ್ನು ಪ್ರದರ್ಶಿಸಿತು."
+            },
+            "mr": {
+                "title": "चॅटजीपीटीच्या मदतीने फ्लोरिडाच्या व्यक्तीने सुमारे $1 दशलक्षला घर विकले",
+                "content": "फ्लोरिडाच्या एका व्यक्तीने आपले कुटुंबाचे घर $954,800 ला यशस्वीरित्या विकले, यासाठी त्यांनी संपूर्ण प्रक्रियेत एआय साधन चॅटजीपीटीचा वापर केला. आकर्षक मालमत्ता वर्णने तयार करण्यापासून ते ऑफरची वाटाघाटी करण्यापर्यंत आणि कागदपत्रांचे व्यवस्थापन करण्यापर्यंत, त्यांनी संवाद सुलभ करण्यासाठी आणि कार्ये स्वयंचलित करण्यासाठी चॅटजीपीटीचा उपयोग केला. या नाविन्यपूर्ण दृष्टिकोनाने त्यांना महत्त्वपूर्ण रिअल इस्टेट एजंट शुल्क वाचवले, ज्यामुळे जटिल व्यवहार आणि वैयक्तिक आर्थिक व्यवहारात एआयची शक्तिशाली क्षमता दिसून येते."
+            },
+            "hi": {
+                "title": "चैटजीपीटी की मदद से फ्लोरिडा के व्यक्ति ने करीब $1 मिलियन में घर बेचा",
+                "content": "फ्लोरिडा के एक व्यक्ति ने अपने परिवार का घर $954,800 में सफलतापूर्वक बेचा, इस पूरी प्रक्रिया के लिए एआई टूल चैटजीपीटी का लाभ उठाया। आकर्षक संपत्ति विवरण तैयार करने से लेकर, ऑफ़र पर बातचीत करने और कागजी कार्रवाई का प्रबंधन करने तक, उन्होंने संचार को सुव्यवस्थित करने और कार्यों को स्वचालित करने के लिए चैटजीपीटी का उपयोग किया। इस अभिनव दृष्टिकोण ने उन्हें महत्वपूर्ण रियल एस्टेट एजेंट शुल्क बचाने में मदद की, जिससे जटिल लेनदेन और व्यक्तिगत वित्त में एआई की शक्तिशाली क्षमता प्रदर्शित हुई।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129872126,imgsize-148674.cms",
+        "link": "https://timesofindia.indiatimes.com/world/us/florida-man-sells-family-home-for-954800-using-chatgpt-100000-above-agent-estimates/articleshow/129872126.cms",
+        "date": "2026-03-29T02:41:58+05:30"
+    },
+    {
+        "id": "ddf9fcaa",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Petronas Towers: The Rivalry That Built a Record",
+                "content": "Malaysia orchestrated a unique rivalry, pitting Japanese and South Korean firms to build the Petronas Twin Towers. This intense competition, fueled by national pride and tight deadlines, dramatically accelerated construction. The iconic skyscrapers were delivered ahead of schedule, briefly securing the world's tallest title, and showcased Asian engineering prowess."
+            },
+            "kn": {
+                "title": "ಪೆಟ್ರೋನಾಸ್ ಟವರ್ಸ್: ದಾಖಲೆ ನಿರ್ಮಿಸಿದ ಪೈಪೋಟಿ",
+                "content": "ಮಲೇಷ್ಯಾವು ಪೆಟ್ರೋನಾಸ್ ಟ್ವಿನ್ ಟವರ್ಸ್ ನಿರ್ಮಿಸಲು ಜಪಾನೀಸ್ ಮತ್ತು ದಕ್ಷಿಣ ಕೊರಿಯಾದ ಸಂಸ್ಥೆಗಳ ನಡುವೆ ವಿಶಿಷ್ಟ ಪೈಪೋಟಿಯನ್ನು ಸೃಷ್ಟಿಸಿತು. ರಾಷ್ಟ್ರೀಯ ಹೆಮ್ಮೆ ಮತ್ತು ಕಠಿಣ ಗಡುವುಗಳಿಂದ ಪ್ರೇರಿತವಾದ ಈ ತೀವ್ರ ಸ್ಪರ್ಧೆಯು ನಿರ್ಮಾಣವನ್ನು ನಾಟಕೀಯವಾಗಿ ವೇಗಗೊಳಿಸಿತು. ಈ ಭವ್ಯ ಗಗನಚುಂಬಿ ಕಟ್ಟಡಗಳು ನಿಗದಿತ ಸಮಯಕ್ಕಿಂತ ಮುಂಚೆಯೇ ಪೂರ್ಣಗೊಂಡವು, ಅಲ್ಪಾವಧಿಗೆ ವಿಶ್ವದ ಅತಿ ಎತ್ತರದ ಎಂಬ ಬಿರುದನ್ನು ಪಡೆದವು ಮತ್ತು ಏಷ್ಯಾದ ಎಂಜಿನಿಯರಿಂಗ್ ಸಾಮರ್ಥ್ಯವನ್ನು ಪ್ರದರ್ಶಿಸಿದವು."
+            },
+            "mr": {
+                "title": "पेट्रोनास टॉवर्स: विक्रमी बांधकाम करणारी स्पर्धा",
+                "content": "मलेशियाने पेट्रोनास ट्विन टॉवर्स बांधण्यासाठी जपान आणि दक्षिण कोरियाच्या कंपन्यांमध्ये एक अनोखी स्पर्धा सुरू केली. राष्ट्रीय अभिमान आणि कठोर मुदतीमुळे प्रेरित झालेल्या या तीव्र स्पर्धेने बांधकामाला लक्षणीय गती दिली. हे प्रतिष्ठित गगनचुंबी इमारती वेळेपूर्वी पूर्ण झाल्या, थोड्या काळासाठी जगातील सर्वात उंच इमारतींचा मान मिळवला आणि आशियाई अभियांत्रिकी कौशल्य प्रदर्शित केले."
+            },
+            "hi": {
+                "title": "पेट्रोनास टावर्स: एक रिकॉर्ड बनाने वाली प्रतिद्वंद्विता",
+                "content": "मलेशिया ने पेट्रोनास ट्विन टावर्स के निर्माण के लिए जापानी और दक्षिण कोरियाई फर्मों के बीच एक अनोखी प्रतिद्वंद्विता का आयोजन किया। राष्ट्रीय गौरव और कड़ी समय-सीमा से प्रेरित इस तीव्र प्रतिस्पर्धा ने निर्माण कार्य को नाटकीय रूप से गति दी। ये प्रतिष्ठित गगनचुंबी इमारतें निर्धारित समय से पहले पूरी हो गईं, कुछ समय के लिए दुनिया की सबसे ऊंची इमारत का खिताब हासिल किया, और एशियाई इंजीनियरिंग कौशल का प्रदर्शन किया।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129872029,imgsize-1352729.cms",
+        "link": "https://timesofindia.indiatimes.com/world/rest-of-world/rivalry-breaks-records-malaysia-made-japan-and-south-korea-compete-to-build-twin-towers-and-the-results-shocked-everyone/articleshow/129871995.cms",
+        "date": "2026-03-29T02:03:08+05:30"
+    },
+    {
         "id": "f63aecfd",
         "category": "IPL Scoop",
         "translations": {
@@ -1523,480 +1998,5 @@
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
         "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNbUhvUGFvT3FGdVVSTm02bzc5YWhMaVVpemp4S0ZmZkdoc2lyb1h3ZnBWekFsNmloYkltNGFwaHlsa1JTU2IzTnNWTHZwc2doV19Gbl8tUXdXTFVMR3luM3prQmk1OVBOTDdTWjRwc1Rmd2hnLUI4NmM4bUVVUkRPSklqTm9uMVpOLXZOUV9idFpiM1ZYeFlmR2RjcEwxSXFaUjRDRk9LVFZMc0tHWmtPRFZuOXo5M1Nrb184NXQ3ZnRIaFMwVFRCcThqamlnVGhRVGxLZWpqMXZ5Z1d4MVpzdzY3Q0ZJcGVjYUQxNEo1a2RBbHc0VE9PN2JxblExQdIB_gFBVV95cUxNbUhvUGFvT3FGdVVSTm02bzc5YWhMaVVpemp4S0ZmZkdoc2lyb1h3ZnBWekFsNmloYkltNGFwaHlsa1JTU2IzTnNWTHZwc2doV19Gbl8tUXdXTFVMR3luM3prQmk1OVBOTDdTWjRwc1Rmd2hnLUI4NmM4bUVVUkRPSklqTm9uMVpOLXZOUV9idFpiM1ZYeFlmR2RjcEwxSXFaUjRDRk9LVFZMc0tHWmtPRFZuOXo5M1Nrb184NXQ3ZnRIaFMwVFRCcThqamlnVGhRVGxLZWpqMXZ5Z1d4MVpzdzY3Q0ZJcGVjYUQxNEo1a2RBbHc0VE9PN2JxblExQQ?oc=5",
         "date": "Fri, 27 Mar 2026 12:04:18 GMT"
-    },
-    {
-        "id": "05637124",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Breaking Bad Spin-Off Hint? Hank Schrader Speaks!",
-                "content": "Dean Norris, beloved as Hank Schrader from \"Breaking Bad,\" has sparked immense excitement among fans with a cryptic announcement. While not explicitly confirming a new spin-off or project, his playful hint about \"something brewing\" related to the iconic series has sent ripples across the internet. Could the compelling world of Walter White be expanding soon? Fans are eagerly awaiting more details!"
-            },
-            "kn": {
-                "title": "ಬ್ರೇಕಿಂಗ್ ಬ್ಯಾಡ್ ಸ್ಪಿನ್-ಆಫ್ ಸುಳಿವು? ಹ್ಯಾಂಕ್ ಶ್ರೇಡರ್ ಮಾತನಾಡಿದರು!",
-                "content": "ಬ್ರೇಕಿಂಗ್ ಬ್ಯಾಡ್‌ನ ಹ್ಯಾಂಕ್ ಶ್ರೇಡರ್ ಆಗಿ ಪ್ರಸಿದ್ಧರಾದ ಡೀನ್ ನಾರ್ರಿಸ್, ಒಂದು ನಿಗೂಢ ಪ್ರಕಟಣೆಯೊಂದಿಗೆ ಅಭಿಮಾನಿಗಳಲ್ಲಿ ಅಪಾರ ಉತ್ಸಾಹ ಮೂಡಿಸಿದ್ದಾರೆ. ಹೊಸ ಸ್ಪಿನ್-ಆಫ್ ಅಥವಾ ಪ್ರಾಜೆಕ್ಟ್ ಅನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ದೃಢೀಕರಿಸದಿದ್ದರೂ, ಐಕಾನಿಕ್ ಸರಣಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ 'ಏನೋ brewing' ಇದೆ ಎಂಬ ಅವರ ತಮಾಷೆಯ ಸುಳಿವಿನಿಂದ ಇಂಟರ್ನೆಟ್‌ನಲ್ಲಿ ಸಂಚಲನ ಸೃಷ್ಟಿಯಾಗಿದೆ. ವಾಲ್ಟರ್ ವೈಟ್‌ನ ಆಕರ್ಷಕ ಪ್ರಪಂಚವು ಶೀಘ್ರದಲ್ಲೇ ವಿಸ್ತರಿಸಬಹುದೇ? ಅಭಿಮಾನಿಗಳು ಹೆಚ್ಚಿನ ವಿವರಗಳಿಗಾಗಿ ಕುತೂಹಲದಿಂದ ಕಾಯುತ್ತಿದ್ದಾರೆ!"
-            },
-            "mr": {
-                "title": "ब्रेकिंग बॅड स्पिन-ऑफचा सुगावा? हँक श्रॅडर बोलले!",
-                "content": "ब्रेकिंग बॅड'मधील हँक श्रॅडर म्हणून प्रसिद्ध असलेल्या डीन नॉरिस यांनी एका गूढ घोषणेने चाहत्यांमध्ये प्रचंड उत्सुकता निर्माण केली आहे. नवीन स्पिन-ऑफ किंवा प्रकल्पाची स्पष्टपणे पुष्टी न करताही, प्रतिष्ठित मालिकेबद्दल 'काहीतरी शिजत आहे' या त्यांच्या विनोदी इशाऱ्याने इंटरनेटवर खळबळ उडवून दिली आहे. वॉल्टर व्हाईटचे आकर्षक जग लवकरच विस्तारू शकते का? चाहते अधिक तपशीलांसाठी आतुरतेने वाट पाहत आहेत!"
-            },
-            "hi": {
-                "title": "ब्रेकिंग बैड स्पिन-ऑफ का संकेत? हैंक श्रैडर ने दिया बयान!",
-                "content": "ब्रेकिंग बैड\" में हैंक श्रैडर के रूप में पसंद किए जाने वाले डीन नॉरिस ने एक रहस्यमय घोषणा से प्रशंसकों में अत्यधिक उत्साह भर दिया है। नए स्पिन-ऑफ या प्रोजेक्ट की स्पष्ट रूप से पुष्टि न करते हुए भी, प्रतिष्ठित सीरीज़ से संबंधित 'कुछ पक रहा है' के उनके चंचल संकेत ने इंटरनेट पर हलचल मचा दी है। क्या वॉल्टर व्हाइट की सम्मोहक दुनिया जल्द ही विस्तार कर सकती है? प्रशंसक बेसब्री से अधिक जानकारी का इंतजार कर रहे हैं!"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNX0ZVWHpDUmhNMndYeHg3czBkRjdyTHh0RWRlQ2pmeGlYVlR6VjhmZEt0XzdJUk9TRlphUHd1TWRiRTJJbk1VTHBKMk0xdnlTT3pDVkRlRlc5c0VBOHMxTEVTalNGTEJvbnIwRm1yVkcweWk0TS1PSWh3ZUpFMmxuTkh0cFNydnpKS3VGX1drdmZhNWtsdEFOWVhzc3NlbGkwU3R5bFJJX2FnbjFROWIxb0wxQllHSWhnY002a0tVekNpbU1UeVVnd3IzNFJVN091bG5IcXNPeWxIZ2Fab3hpRFRvcmt1RG0wYy00TWExVC0zQ0h3eGlJX2RSVGfSAYICQVVfeXFMUEU4U2Z5Qkd4YnRUN1dQVlF1WVFfN1FjbU5RTkFYczAzR1RHZFFYYmlrWmstaU1iQnRzcDAwdkxJT2UzU2xNdmphVnJzS1FkNXdrdGxBQS1DOENWU2NQbHBMUU1zdG5Lejd4aGxwalUxUnlMWWNOMnJPT1RBSkFOVDVVYV9sRmxCQ1JEaTVTUHFtQUJ1UGJKX3pGVGlTZWJmbHlRMUVfUW5LNTBXU2sxaUpjQkRiWHB2STl0SVhZVzlUZXZOMEdQNGMtN3F3UmVOSEV2VDdEaG9GSi1sRjYwY20wUDI0ZWZhNFpTVUJtbGJzcUFCMnNVYkZOYUJUY3BGTUZR?oc=5",
-        "date": "Fri, 27 Mar 2026 08:52:13 GMT"
-    },
-    {
-        "id": "2ad5d5af",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Dhurandhar 2 Row: Yasir Pappu Rejects Dhruv Rathee's 'Propaganda' Claims",
-                "content": "Actor Yasir Pappu, also known as Abhay Arora, has strongly refuted Dhruv Rathee's accusations of \"propaganda\" and \"brain riot\" concerning the ongoing 'Dhurandhar 2' controversy. Pappu hit back, questioning Rathee's claims and suggesting they \"need to be checked.\" This comes as the dispute intensifies, with both parties engaged in a war of words over the contentious project."
-            },
-            "kn": {
-                "title": "ಧುರಂಧರ್ 2 ವಿವಾದ: ಧ್ರುವ್ ರಾಠಿಯ 'ಪ್ರಚಾರ' ಆರೋಪಗಳನ್ನು ಯಾಸ್ಸಿರ್ ಪಪ್ಪು ತಿರಸ್ಕರಿಸಿದರು",
-                "content": "ಅಭಯ್ ಅರೋರಾ ಎಂದೂ ಕರೆಯಲ್ಪಡುವ ನಟ ಯಾಸ್ಸಿರ್ ಪಪ್ಪು, 'ಧುರಂಧರ್ 2' ವಿವಾದದ ಬಗ್ಗೆ ಧ್ರುವ್ ರಾಠಿಯವರ 'ಪ್ರಚಾರ' ಮತ್ತು 'ಬ್ರೈನ್ ರಾಯಿಟ್' ಆರೋಪಗಳನ್ನು ತೀವ್ರವಾಗಿ ತಿರಸ್ಕರಿಸಿದ್ದಾರೆ. ಪಪ್ಪು ರಾಠಿಯವರ ಹೇಳಿಕೆಗಳನ್ನು ಪ್ರಶ್ನಿಸಿ, ಅವುಗಳನ್ನು 'ಪರಿಶೀಲಿಸುವ ಅಗತ್ಯವಿದೆ' ಎಂದು ಸೂಚಿಸುವ ಮೂಲಕ ತಿರುಗೇಟು ನೀಡಿದ್ದಾರೆ. ವಿವಾದ ತೀವ್ರಗೊಳ್ಳುತ್ತಿದ್ದಂತೆ, ವಿವಾದಾತ್ಮಕ ಯೋಜನೆಯ ಬಗ್ಗೆ ಎರಡೂ ಕಡೆಯವರು ವಾಕ್ಸಮರದಲ್ಲಿ ತೊಡಗಿದ್ದಾರೆ."
-            },
-            "mr": {
-                "title": "धुरंधर २ वाद: यासिर पप्पूने ध्रुव राठीचे 'प्रचार' दावे फेटाळले",
-                "content": "अभिनेता यासिर पप्पू, ज्याला अभय अरोरा म्हणूनही ओळखले जाते, त्याने 'धुरंधर २' वादाबाबत ध्रुव राठीच्या 'प्रचार' आणि 'ब्रेन दंगली'च्या आरोपांना तीव्रपणे प्रत्युत्तर दिले आहे. पप्पूने राठीच्या दाव्यांवर प्रश्नचिन्ह उपस्थित करत, 'ते तपासण्याची गरज आहे' असे सुचवून प्रत्युत्तर दिले. या वादग्रस्त प्रकल्पावरून दोन्ही बाजूंनी शाब्दिक युद्ध सुरू असल्याने हा वाद आणखी तीव्र होत आहे."
-            },
-            "hi": {
-                "title": "धुरंधर 2 विवाद: यासिर पप्पु ने ध्रुव राठी के 'प्रचार' के दावों को खारिज किया",
-                "content": "अभिनेता यासिर पप्पु, जिन्हें अभय अरोरा के नाम से भी जाना जाता है, ने 'धुरंधर 2' विवाद को लेकर ध्रुव राठी के 'प्रचार' और 'ब्रेन दंगा' के आरोपों का दृढ़ता से खंडन किया है। पप्पु ने राठी के दावों पर सवाल उठाते हुए पलटवार किया और सुझाव दिया कि 'उन्हें जांचने की जरूरत है'। यह ऐसे समय में आया है जब विवादास्पद परियोजना को लेकर दोनों पक्षों के बीच वाकयुद्ध तेज हो गया है।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOR0xYSGRNeXBaUFFKeVRhdjVtaEh1bGQySkc4ejZOQlBoQ3ZjM0lEMjhnRlBNVjBBNG12c1pZYU5EN0xFRDUybmdKUkJGT3N6azgtQWFuTjdwVGZCOGRNelpUUVZ1b0hNOTZBeVQ5MFlFd3VhSlhWa3ZvZXZseEkyRy1kb3dSMEFRdnBNRWd0cnYzUUVtLUw4alk4NjVHeWNaLXF5LUYybHFaaHhJc192WHVQQWs5MkFOYXVDMzRCMzluSlQ4VVhmS090T1NMQzByX05GMmxaTFJFd19wRm4xVS1Nb0xqR3J6aFpUbkd6aEZCZ3M1VWFxQlF4aGZhazZvX0R1MHVpVmdpc2NNcGsyd9IBlAJBVV95cUxPOUJudURQd3RRQU9iaXluanE1dU01UTJXN2xlTkN2d2YtTzhGRE5Ed0J0Z1AweFpXZGN5aVg5eTJkaDlSZ2tIa2lkZVNSd3U2Zl9Pd293Vjh1MXA5ZTBhUTF6cnRrVkhBM19GakFyMi1sdm43WVB4MEJoSFgzSTNnekpRVlU0RHV5V3RBSXpLdHgwekRoV0NoYWhZNmdxVnk4TGM4VkY4eXBJdnpYVHV1c0kyVjdNZmpMTFluN1hrNVRGTGJqeWhJMUt1SlpUbHB0RFdGVm1UOXNIS2JvRXJGTk1tS0VZbXE3Z3BRSmxoSWxyRlJ2VjZaeGllNnM1OWFzVFdnN29hMzNrYVpEdGRyd1Z3dWQ?oc=5",
-        "date": "Fri, 27 Mar 2026 18:03:01 GMT"
-    },
-    {
-        "id": "af24c2f4",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Nick Cassidy's Maiden Pole Triumph at Madrid E-Prix",
-                "content": "Nick Cassidy secured his maiden pole position for Citroen Racing at the Madrid E-Prix, marking a significant triumph. Expressing immense joy and confidence, Cassidy reflected on his journey, saying, \"A win, a podium, a pole...\" This achievement underscores his strong performance and Citroen Racing's competitive edge, setting an exciting precedent for upcoming races and bolstering his championship aspirations."
-            },
-            "kn": {
-                "title": "ನಿಕ್ ಕ್ಯಾಸಿಡಿ ಅವರ ಮ್ಯಾಡ್ರಿಡ್ ಇ-ಪ್ರಿಕ್ಸ್‌ನಲ್ಲಿನ ಚೊಚ್ಚಲ ಪೋಲ್ ವಿಜಯ",
-                "content": "ನಿಕ್ ಕ್ಯಾಸಿಡಿ ಅವರು ಮ್ಯಾಡ್ರಿಡ್ ಇ-ಪ್ರಿಕ್ಸ್‌ನಲ್ಲಿ ಸಿಟ್ರೊಯೆನ್ ರೇಸಿಂಗ್‌ಗಾಗಿ ತಮ್ಮ ಚೊಚ್ಚಲ ಪೋಲ್ ಸ್ಥಾನವನ್ನು ಪಡೆದುಕೊಂಡರು, ಇದು ಗಮನಾರ್ಹ ವಿಜಯವನ್ನು ಗುರುತಿಸುತ್ತದೆ. ಅಪಾರ ಸಂತೋಷ ಮತ್ತು ವಿಶ್ವಾಸ ವ್ಯಕ್ತಪಡಿಸಿದ ಕ್ಯಾಸಿಡಿ, ತಮ್ಮ ಪಯಣವನ್ನು ನೆನಪಿಸಿಕೊಂಡು, \"ಒಂದು ಗೆಲುವು, ಒಂದು ಪೋಡಿಯಂ, ಒಂದು ಪೋಲ್...\" ಎಂದರು. ಈ ಸಾಧನೆಯು ಅವರ ಬಲವಾದ ಪ್ರದರ್ಶನ ಮತ್ತು ಸಿಟ್ರೊಯೆನ್ ರೇಸಿಂಗ್‌ನ ಸ್ಪರ್ಧಾತ್ಮಕ ಅಂಚನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ, ಮುಂಬರುವ ರೇಸ್‌ಗಳಿಗೆ ಉತ್ತೇಜಕ ಪೂರ್ವನಿದರ್ಶನವನ್ನು ನೀಡುತ್ತದೆ ಮತ್ತು ಅವರ ಚಾಂಪಿಯನ್‌ಶಿಪ್ ಮಹತ್ವಾಕಾಂಕ್ಷೆಗಳನ್ನು ಬಲಪಡಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "माद्रिद ई-प्रिक्समध्ये निक कॅसिडीचे पहिले पोल यश",
-                "content": "निक कॅसिडीने माद्रिद ई-प्रिक्समध्ये सिट्रोएन रेसिंगसाठी आपले पहिले पोल पोझिशन मिळवले, जे एक महत्त्वपूर्ण विजय ठरले. अफाट आनंद आणि आत्मविश्वास व्यक्त करत, कॅसिडीने आपल्या प्रवासावर विचार केला आणि म्हणाला, \"एक विजय, एक पोडियम, एक पोल...\" ही उपलब्धी त्याची दमदार कामगिरी आणि सिट्रोएन रेसिंगची स्पर्धात्मक धार दर्शवते, आगामी शर्यतींसाठी एक रोमांचक आदर्श निर्माण करते आणि त्याच्या चॅम्पियनशिपच्या महत्त्वाकांक्षांना बळ देते."
-            },
-            "hi": {
-                "title": "मैड्रिड ई-प्रिक्स में निक कैसिडी का पहला पोल विजय",
-                "content": "निक कैसिडी ने मैड्रिड ई-प्रिक्स में सिट्रोएन रेसिंग के लिए अपना पहला पोल पोजीशन हासिल किया, जो एक महत्वपूर्ण जीत है। अत्यंत खुशी और आत्मविश्वास व्यक्त करते हुए, कैसिडी ने अपनी यात्रा पर विचार किया और कहा, \"एक जीत, एक पोडियम, एक पोल...\" यह उपलब्धि उनके मजबूत प्रदर्शन और सिट्रोएन रेसिंग की प्रतिस्पर्धी बढ़त को रेखांकित करती है, आगामी दौड़ के लिए एक रोमांचक मिसाल कायम करती है और उनकी चैंपियनशिप की आकांक्षाओं को मजबूत करती है।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPVHpNWVZienVqQkFiWUJ0ZG9sM2FiS1h2N0tTR0w3VHdobzgtUWk5YmZEcDZXRGpseTNTdHVrbzBBSTdJcDdHUDFHbm11Mk5yTXVOOGt1WVFkejcwS1dOQWN6eXIydTlSSTNDcEptNkdNazRFOWhMbmtacjkyb1FmcGJhWnVFY25Udm93VUtXdXhod0w3UzhhS0o2Mzh5WVFMTGdocGZCQUVEX0xyNkNGdWRJcVFXckh3RjdWNktLQ29BeVB5aFk1VUluRWtDazdQa0VVMmRKd3J2TWdNQTZsbHFUUjA2SzFZSzBMMVFUZFo4NVJOSjh1SUIwdkhfZVlMckhrMNIBigJBVV95cUxOZHdLektfQWFLWWZPUXN6SHdxamtnVlc3QmtwaUh1VWpZY294SjN3NkpHd3g5Q3VpN0E5alBjZUlyQUxRNDlTTjlxRnZyd2Zmd1cyTEhJTi02NlEzVktLZVdEMkFIZjBQYWlFMzNvM0ZZLU5kSUVWUTROQlJiUmVQZkpZOW5zcmZWRHhuQVJ1anE5akVqd1FicWJzcjBHZEJCdXQxVEtWYmdodGVxYmphUVljN21iUXpNM08wQklxSWh4cGNlS3lWTDBFVUlsdC1mYzhuam16TUpVU29YaVItM25WR2NLakVGaldLSDd3LU9RYzFrZlA3NnNybE5IVVBlN1huLVNfMUFiUQ?oc=5",
-        "date": "Fri, 27 Mar 2026 14:04:00 GMT"
-    },
-    {
-        "id": "9ad73cee",
-        "category": "Sports",
-        "translations": {
-            "en": {
-                "title": "Kaif Urges MI: Rohit Must Play Full Role, Not Just Impact Player",
-                "content": "Former India batter Mohammad Kaif has urged Mumbai Indians to fully utilize Rohit Sharma, emphasizing his crucial leadership and on-field presence beyond just an 'Impact Player' role. Kaif believes a fitter Rohit should be involved in all game phases, benefiting both his batting and the team, especially in high-pressure situations. He stressed that Rohit's extensive experience demands a complete role."
-            },
-            "kn": {
-                "title": "ಕೈಫ್ MI ಗೆ: ರೋಹಿತ್ ಕೇವಲ ಇಂಪ್ಯಾಕ್ಟ್ ಪ್ಲೇಯರ್ ಅಲ್ಲ, ಪೂರ್ಣ ಪಾತ್ರ ವಹಿಸಬೇಕು",
-                "content": "ಮಾಜಿ ಭಾರತೀಯ ಬ್ಯಾಟರ್ ಮೊಹಮ್ಮದ್ ಕೈಫ್ ಮುಂಬೈ ಇಂಡಿಯನ್ಸ್‌ಗೆ ರೋಹಿತ್ ಶರ್ಮಾರನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಿಕೊಳ್ಳುವಂತೆ ಒತ್ತಾಯಿಸಿದ್ದಾರೆ. 'ಇಂಪ್ಯಾಕ್ಟ್ ಪ್ಲೇಯರ್' ಪಾತ್ರವನ್ನು ಮೀರಿ ಅವರ ನಿರ್ಣಾಯಕ ನಾಯಕತ್ವ ಮತ್ತು ಮೈದಾನದಲ್ಲಿನ ಉಪಸ್ಥಿತಿಯನ್ನು ಅವರು ಒತ್ತಿಹೇಳಿದರು. ಕೈಫ್ ಪ್ರಕಾರ, ಉತ್ತಮ ಫಿಟ್ನೆಸ್ ಹೊಂದಿರುವ ರೋಹಿತ್ ಎಲ್ಲಾ ಆಟದ ಹಂತಗಳಲ್ಲಿ ಭಾಗಿಯಾಗಬೇಕು, ಇದು ಅವರ ಬ್ಯಾಟಿಂಗ್ ಮತ್ತು ತಂಡ, ವಿಶೇಷವಾಗಿ ಒತ್ತಡದ ಸಂದರ್ಭಗಳಲ್ಲಿ ಪ್ರಯೋಜನಕಾರಿ. ರೋಹಿತ್‌ನ ವ್ಯಾಪಕ ಅನುಭವವು ಸಂಪೂರ್ಣ ಪಾತ್ರವನ್ನು ಬಯಸುತ್ತದೆ ಎಂದು ಅವರು ಹೇಳಿದರು."
-            },
-            "mr": {
-                "title": "कैफचा MI ला सल्ला: रोहित केवळ इंपॅक्ट प्लेयर नाही, पूर्ण भूमिका बजवावी",
-                "content": "माजी भारतीय फलंदाज मोहम्मद कैफने मुंबई इंडियन्सला रोहित शर्माचा पूर्णपणे उपयोग करण्याचे आवाहन केले आहे. त्याने रोहितच्या 'इंपॅक्ट प्लेयर' भूमिकेपुरते मर्यादित न ठेवता त्याच्या महत्त्वपूर्ण नेतृत्वाला आणि मैदानातील उपस्थितीला महत्त्व दिले. कैफच्या मते, सुदृढ रोहितने खेळाच्या सर्व टप्प्यांमध्ये सामील असावे, ज्यामुळे त्याच्या फलंदाजीला आणि संघाला, विशेषतः उच्च-दबावाच्या परिस्थितीत, फायदा होईल. रोहितच्या प्रचंड अनुभवाला पूर्ण भूमिकेची गरज आहे असे त्याने नमूद केले."
-            },
-            "hi": {
-                "title": "कैफ का MI को आग्रह: रोहित को केवल इंपैक्ट प्लेयर नहीं, पूरी भूमिका निभानी चाहिए",
-                "content": "पूर्व भारतीय बल्लेबाज मोहम्मद कैफ ने मुंबई इंडियंस से रोहित शर्मा का पूरा उपयोग करने का आग्रह किया है। उन्होंने 'इंपैक्ट प्लेयर' की भूमिका से परे उनके महत्वपूर्ण नेतृत्व और मैदान पर उनकी उपस्थिति पर जोर दिया। कैफ का मानना ​​है कि एक फिट रोहित को खेल के सभी चरणों में शामिल किया जाना चाहिए, जिससे उनकी बल्लेबाजी और टीम, खासकर उच्च दबाव वाली स्थितियों में, दोनों को लाभ होगा। उन्होंने इस बात पर जोर दिया कि रोहित के व्यापक अनुभव के लिए एक पूर्ण भूमिका आवश्यक है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129843780,imgsize-130958.cms",
-        "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/rohit-sharma-cant-be-an-impact-player-ex-india-batter-sends-strong-message-to-hardik-pandya/articleshow/129843792.cms",
-        "date": "2026-03-27T15:30:59+05:30"
-    },
-    {
-        "id": "461456ed",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Rohit Sharma's IPL 2026 Transformation Stuns Nita Ambani",
-                "content": "Rohit Sharma's dramatic fitness transformation for IPL 2026 has left Nita Ambani amazed. She reportedly exclaimed, \"You look like a young boy!\" after witnessing his improved physique. The star cricketer's dedication to physical conditioning is evident, sparking excitement among fans and team management. This stunning change signals his readiness for the upcoming season, promising a refreshed presence on the field."
-            },
-            "kn": {
-                "title": "ರೋಹಿತ್ ಶರ್ಮಾ ಅವರ ಐಪಿಎಲ್ 2026 ರೂಪಾಂತರ ನೀತಾ ಅಂಬಾನಿ ಅವರನ್ನು ಬೆರಗುಗೊಳಿಸಿತು",
-                "content": "ಐಪಿಎಲ್ 2026 ಕ್ಕಾಗಿ ರೋಹಿತ್ ಶರ್ಮಾ ಅವರ ಅದ್ಭುತ ಫಿಟ್‌ನೆಸ್ ರೂಪಾಂತರವು ನೀತಾ ಅಂಬಾನಿ ಅವರನ್ನು ಆಶ್ಚರ್ಯಚಕಿತಗೊಳಿಸಿದೆ. ಅವರ ಸುಧಾರಿತ ದೇಹವನ್ನು ನೋಡಿದ ನಂತರ, ಅವರು \"ನೀವು ಯುವಕರಂತೆ ಕಾಣುತ್ತೀರಿ!\" ಎಂದು ಹೇಳಿಕೊಂಡಿದ್ದಾರೆ. ಸ್ಟಾರ್ ಕ್ರಿಕೆಟಿಗನ ದೈಹಿಕ ಸ್ಥಿತಿಯ ಮೇಲಿನ ಸಮರ್ಪಣೆ ಸ್ಪಷ್ಟವಾಗಿದೆ, ಇದು ಅಭಿಮಾನಿಗಳು ಮತ್ತು ತಂಡದ ಆಡಳಿತದಲ್ಲಿ ಉತ್ಸಾಹವನ್ನು ಹುಟ್ಟುಹಾಕಿದೆ. ಈ ಅದ್ಭುತ ಬದಲಾವಣೆಯು ಮುಂಬರುವ ಸೀಸನ್‌ಗೆ ಅವರ ಸಿದ್ಧತೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಕ್ರೀಡಾಂಗಣದಲ್ಲಿ ಹೊಸ ಉಪಸ್ಥಿತಿಯನ್ನು ಭರವಸೆ ನೀಡುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "रोहित शर्माच्या आयपीएल 2026 बदलाने नीता अंबानी थक्क",
-                "content": "आयपीएल 2026 साठी रोहित शर्माच्या जबरदस्त फिटनेस बदलाने नीता अंबानींना आश्चर्यचकित केले आहे. त्यांचा सुधारित देह पाहून त्या म्हणाल्या, \"तुम्ही एका तरुण मुलासारखे दिसत आहात!\" स्टार क्रिकेटपटूची शारीरिक तंदुरुस्तीसाठीची निष्ठा स्पष्ट आहे, ज्यामुळे चाहते आणि संघ व्यवस्थापनामध्ये उत्साह निर्माण झाला आहे. हा आश्चर्यकारक बदल आगामी हंगामासाठी त्यांची तयारी दर्शवतो, मैदानावर ताजेतवाने उपस्थितीचे वचन देतो."
-            },
-            "hi": {
-                "title": "रोहित शर्मा का IPL 2026 ट्रांसफॉर्मेशन नीता अंबानी को कर गया हैरान",
-                "content": "आईपीएल 2026 के लिए रोहित शर्मा का नाटकीय फिटनेस ट्रांसफॉर्मेशन नीता अंबानी को चकित कर गया है। उन्होंने कथित तौर पर उनके सुधरे हुए शरीर को देखने के बाद कहा, \"आप एक छोटे लड़के जैसे दिखते हैं!\" स्टार क्रिकेटर का शारीरिक कंडीशनिंग के प्रति समर्पण स्पष्ट है, जिससे प्रशंसकों और टीम प्रबंधन में उत्साह है। यह आश्चर्यजनक बदलाव आगामी सीज़न के लिए उनकी तैयारी का संकेत देता है, मैदान पर एक नई उपस्थिति का वादा करता है।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPY1ZhZVk0UXhSa0RUZmFtV2xiSFdZMjBYdi05cENob1RoZUtva1F2RDF3ZGRoNm1IWmN2Q1NlMVJua2JVVXJRam9paFg5dUkxWmI3NVBaejQycXNsYTNEb2VwRDFCYUtQYW9qV2xhX2Z6MDFTRmhTbU90d2FPUWxTVS12a3kyQmF2bHNENVFkdFdfd0xEc2xWaHljNVUzLXhoS1pvUjNnOHN0Ny1CU21GZHk0ZW5PWllpNmM3cU9fZ0VFTVo0TXEwOFlHY0l0eHJUMWExMW44VldJckdDc193bGR5czRmWnBNQWfSAe8BQVVfeXFMTXRnQzNGMTh2VUVIeGhxUE1lOHdKckVHazdCRS1PQUgwbE5vVXpwcWNOY3lMS1RkZkFWOXI3NHVrSU83SXU3ZmliQ3F2RHFNaWpaT0d2MU83aFM1REFfcVg4Wmk2ZzVJR2ZnUTlabnZwNFVzR1h5Y0dySGRJUmVrRXp5dXZqdXYydllLOE5maXBQQTR0eXFISU56cFpPSTZoSWNSSWFIMUVXVXh6VzdTR19od1VTUEp1UDhYZDlmcExxWmxKSHFXMUIxSGhIdkJ1SXB6SC1qam5jUnRDTzk4cUlFMWlkbnVWRFJiYnpSbXc?oc=5",
-        "date": "Fri, 27 Mar 2026 11:43:53 GMT"
-    },
-    {
-        "id": "bd5fef67",
-        "category": "Belagavi Core Politics",
-        "translations": {
-            "en": {
-                "title": "BJP to Relaunch Protests Against Waqf Board Notices",
-                "content": "Karnataka BJP leader Sriramulu has announced the party will relaunch its protest against Waqf Board notices. Citing ongoing concerns over the board's alleged controversial land claims and demands, the BJP aims to intensify its challenge. This move signals a renewed political confrontation, underscoring the party's determination to oppose the board's authority across the state."
-            },
-            "kn": {
-                "title": "ವಕ್ಫ್ ಮಂಡಳಿ ನೋಟಿಸ್‌ಗಳ ವಿರುದ್ಧ ಬಿಜೆಪಿ ಮತ್ತೆ ಪ್ರತಿಭಟನೆಗೆ",
-                "content": "ಕರ್ನಾಟಕ ಬಿಜೆಪಿ ನಾಯಕ ಶ್ರೀರಾಮುಲು ಅವರು ಪಕ್ಷವು ವಕ್ಫ್ ಮಂಡಳಿ ನೋಟಿಸ್‌ಗಳ ವಿರುದ್ಧ ತನ್ನ ಪ್ರತಿಭಟನೆಯನ್ನು ಪುನರಾರಂಭಿಸುವುದಾಗಿ ಘೋಷಿಸಿದ್ದಾರೆ. ಮಂಡಳಿಯ ಆಪಾದಿತ ವಿವಾದಾತ್ಮಕ ಭೂ ಹಕ್ಕುಗಳು ಮತ್ತು ಬೇಡಿಕೆಗಳ ಬಗ್ಗೆ ನಡೆಯುತ್ತಿರುವ ಕಾಳಜಿಗಳನ್ನು ಉಲ್ಲೇಖಿಸಿ, ಬಿಜೆಪಿ ತನ್ನ ಸವಾಲನ್ನು ತೀವ್ರಗೊಳಿಸಲು ಉದ್ದೇಶಿಸಿದೆ. ಈ ನಡೆ ರಾಜಕೀಯ ಸಂಘರ್ಷವನ್ನು ಪುನರಾರಂಭಿಸುವುದನ್ನು ಸೂಚಿಸುತ್ತದೆ, ರಾಜ್ಯಾದ್ಯಂತ ಮಂಡಳಿಯ ಅಧಿಕಾರವನ್ನು ವಿರೋಧಿಸುವ ಪಕ್ಷದ ದೃಢತೆಯನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "वक्फ बोर्डाच्या नोटिसांविरोधात भाजप पुन्हा आंदोलन करणार",
-                "content": "कर्नाटक भाजप नेते श्रीरामुलू यांनी जाहीर केले आहे की पक्ष वक्फ बोर्डाच्या नोटिसांविरोधात आपले आंदोलन पुन्हा सुरू करेल. बोर्डाच्या कथित वादग्रस्त जमिनीच्या दाव्यांबाबत आणि मागण्यांबाबत असलेल्या चिंतांचा हवाला देत, भाजप आपले आव्हान तीव्र करण्याचा प्रयत्न करेल. ही कृती राजकीय संघर्षाचे नूतनीकरण दर्शवते, ज्यात राज्यभरात बोर्डाच्या अधिकाराला विरोध करण्याच्या पक्षाच्या दृढनिश्चयावर जोर दिला जातो."
-            },
-            "hi": {
-                "title": "वक्फ बोर्ड के नोटिसों के खिलाफ भाजपा फिर शुरू करेगी विरोध प्रदर्शन",
-                "content": "कर्नाटक भाजपा नेता श्रीरामूलू ने घोषणा की है कि पार्टी वक्फ बोर्ड के नोटिसों के खिलाफ अपना विरोध प्रदर्शन फिर से शुरू करेगी। बोर्ड के कथित विवादास्पद भूमि दावों और मांगों को लेकर चल रही चिंताओं का हवाला देते हुए, भाजपा अपनी चुनौती को तेज करना चाहती है। यह कदम एक नए राजनीतिक टकराव का संकेत देता है, जो राज्य भर में बोर्ड के अधिकार का विरोध करने के पार्टी के दृढ़ संकल्प को रेखांकित करता है।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNEFCdWR1WHFzMXNwb2lCbmgtZkpZME94eG9mS0FrSlNzeGVHSHMtSEJyeXBhVXl1MG1COVNTVXFMeXVOeHZBVjNVX1dpWEVCS0YxMGpUeGs2ZFEyTEJ6SE56X0ZLb3BBVXlSQnVOeWU0UU9EbzZ0X3pBejMxYWNYUmo2eUc2NDZVWFRFRUV1VUlQaTVKdkdDVmZ4RUhsb3Y2WEd6ZmdsbE9GS19lZTZLbXNBUGFwQ2lwY2xkNVVMbVNwTXlUX1hDZ3NrdGx3X0MwN1g1cmNUS1NhU0tBckHSAd4BQVVfeXFMTzRBQnVkdVhxczFzcG9pQm5oLWZKWTBPeHhvZktBa0pTc3hlR0hzLUhCcnlwYVV5dTBtQjlTU1VxTHl1Tnh2QVYzVV9XaVhFQktGMTBqVHhrNmRRMkxCekhOel9GS29wQVV5UkJ1TnllNFFPRG82dF96QXozMWFjWFJqNnlHNjQ2VVhURUVFdVVJUGk1SnZHQ1ZmeEVIbG92NlhHemZnbGxPRktfZWU2S21zQVBhcENpcGNsZDVVTG1TcE15VF9YQ2dza3Rsd19DMDdYNXJjVEtTYVNLQXJB?oc=5",
-        "date": "Fri, 27 Mar 2026 14:38:03 GMT"
-    },
-    {
-        "id": "d2518ccf",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Kohli's Lotus Tattoo Sparks Pre-IPL Buzz",
-                "content": "Virat Kohli has debuted a striking new lotus tattoo, signaling spirituality and connection to a higher power. This significant ink, unveiled just before the IPL, has immediately ignited fan speculation and media buzz. Its timing and profound symbolism are fueling widespread discussions, adding an extra layer of intrigue as the cricket season gears up."
-            },
-            "kn": {
-                "title": "ಕೊಹ್ಲಿಯ ಕಮಲದ ಹಚ್ಚೆ ಐಪಿಎಲ್ ಪೂರ್ವ ಸಂಚಲನ ಮೂಡಿಸಿದೆ",
-                "content": "ವಿರಾಟ್ ಕೊಹ್ಲಿ ಹೊಸ ಕಮಲದ ಹಚ್ಚೆಯನ್ನು ಪ್ರದರ್ಶಿಸಿದ್ದಾರೆ, ಇದು ಆಧ್ಯಾತ್ಮಿಕತೆ ಮತ್ತು ಉನ್ನತ ಶಕ್ತಿಯೊಂದಿಗಿನ ಸಂಪರ್ಕವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಐಪಿಎಲ್ ಪ್ರಾರಂಭವಾಗುವ ಮುನ್ನವೇ ಅನಾವರಣಗೊಂಡ ಈ ಮಹತ್ವದ ಹಚ್ಚೆ, ತಕ್ಷಣವೇ ಅಭಿಮಾನಿಗಳ ಊಹಾಪೋಹ ಮತ್ತು ಮಾಧ್ಯಮಗಳ ಗಮನ ಸೆಳೆದಿದೆ. ಇದರ ಸಮಯ ಮತ್ತು ಆಳವಾದ ಸಂಕೇತವು ವ್ಯಾಪಕ ಚರ್ಚೆಗಳಿಗೆ ಉತ್ತೇಜನ ನೀಡಿದ್ದು, ಕ್ರಿಕೆಟ್ ಸೀಸನ್ ಶುರುವಾಗುತ್ತಿದ್ದಂತೆ ಕುತೂಹಲವನ್ನು ಹೆಚ್ಚಿಸಿದೆ."
-            },
-            "mr": {
-                "title": "कोहलीच्या कमळाच्या टॅटूने आयपीएलपूर्व चर्चांना तोंड फुटले",
-                "content": "विराट कोहलीने नुकताच एक आकर्षक कमळाचा टॅटू करून घेतला आहे, जो अध्यात्मिक आणि उच्च शक्तीशी असलेल्या संबंधाचे प्रतीक आहे. आयपीएलपूर्वी समोर आलेला हा महत्त्वाचा टॅटू, चाहत्यांमध्ये आणि माध्यमांमध्ये त्वरित चर्चा आणि उत्सुकता निर्माण करत आहे. त्याची वेळ आणि गहन प्रतीकात्मकता यामुळे सर्वत्र चर्चांना उधाण आले असून, क्रिकेट हंगाम जवळ येत असताना त्यात आणखी गूढता वाढली आहे."
-            },
-            "hi": {
-                "title": "कोहली के कमल टैटू से आईपीएल से पहले हलचल",
-                "content": "विराट कोहली ने एक नया आकर्षक कमल टैटू बनवाया है, जो आध्यात्मिकता और एक उच्च शक्ति से जुड़ाव का प्रतीक है। आईपीएल से ठीक पहले सामने आया यह महत्वपूर्ण टैटू, प्रशंसकों की अटकलों और मीडिया में तुरंत हलचल पैदा कर रहा है। इसके समय और गहन प्रतीकात्मकता से व्यापक चर्चाएँ हो रही हैं, जिससे क्रिकेट सीज़न की तैयारी के साथ ही उत्सुकता की एक अतिरिक्त परत जुड़ गई है।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOclZTQm41VnAzNDNTWk85S2IzaE1rWGUxS1ZIbC11RjIwVEJnU19UUmJrY21za29OemRRczZ1OTl6WEhfeVVVNllJaU4yOVR5VnR2dTlPVnlPVkVNVjZRQ1FyVEs0RnhqQlgtVmtldmlPQmEyUENaZmdLQTJYZmctNVdDM0JRSGFCYVVUcHFrd0VVcW9BVU1nbE1wUjdMUVVSekM2YllESVJ0RmhDbkZpQ2ZWVG5aSTExOVFqeC1nRmN5bExUdnlRRlEza1NyNXc0Z3pOYzE3QUlIdw?oc=5",
-        "date": "Fri, 27 Mar 2026 12:39:57 GMT"
-    },
-    {
-        "id": "25529c4d",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "PM Modi, CMs Discuss Iran War Impact",
-                "content": "PM Modi virtually met Chief Ministers to discuss the Middle East conflict's impact on India's fuel supply, inflation, and logistics. The meeting emphasized Centre-state coordination, preparedness for disruptions, and maintaining stability in essential sectors. Contingency plans for fuel availability and price pressures were reviewed to ensure national resilience."
-            },
-            "kn": {
-                "title": "ಪ್ರಧಾನಿ ಮೋದಿ, ಮುಖ್ಯಮಂತ್ರಿಗಳ ಇರಾನ್ ಯುದ್ಧದ ಪರಿಣಾಮದ ಚರ್ಚೆ",
-                "content": "ಪ್ರಧಾನಿ ಮೋದಿ ಅವರು ಮುಖ್ಯಮಂತ್ರಿಗಳೊಂದಿಗೆ ವಾಸ್ತವ ಸಭೆ ನಡೆಸಿ, ಮಧ್ಯಪ್ರಾಚ್ಯ ಸಂಘರ್ಷದಿಂದ ಭಾರತದ ಇಂಧನ ಪೂರೈಕೆ, ಹಣದುಬ್ಬರ ಮತ್ತು ಲಾಜಿಸ್ಟಿಕ್ಸ್‌ ಮೇಲೆ ಆಗುವ ಪರಿಣಾಮಗಳ ಕುರಿತು ಚರ್ಚಿಸಿದರು. ಸಭೆಯಲ್ಲಿ ಕೇಂದ್ರ-ರಾಜ್ಯ ಸಮನ್ವಯ, ಅಡೆತಡೆಗಳಿಗೆ ಸಿದ್ಧತೆ ಮತ್ತು ಅಗತ್ಯ ವಲಯಗಳಲ್ಲಿ ಸ್ಥಿರತೆಯನ್ನು ಕಾಯ್ದುಕೊಳ್ಳುವುದಕ್ಕೆ ಒತ್ತು ನೀಡಲಾಯಿತು. ರಾಷ್ಟ್ರೀಯ ಸ್ಥಿತಿಸ್ಥಾಪಕತ್ವವನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು ಇಂಧನ ಲಭ್ಯತೆ ಮತ್ತು ಬೆಲೆ ಒತ್ತಡಗಳಿಗೆ ತುರ್ತು ಯೋಜನೆಗಳನ್ನು ಪರಿಶೀಲಿಸಲಾಯಿತು."
-            },
-            "mr": {
-                "title": "पंतप्रधान मोदी, मुख्यमंत्र्यांनी इराण युद्धाच्या परिणामांवर चर्चा केली",
-                "content": "पंतप्रधान मोदींनी मुख्यमंत्र्यांसोबत आभासी बैठक घेऊन मध्यपूर्वेतील संघर्षाचा भारताच्या इंधन पुरवठा, महागाई आणि लॉजिस्टिक्सवरील परिणामांवर चर्चा केली. बैठकीत केंद्र-राज्य समन्वय, संभाव्य अडथळ्यांसाठी तयारी आणि आवश्यक क्षेत्रांमध्ये स्थिरता राखण्यावर भर दिला गेला. राष्ट्रीय लवचिकता सुनिश्चित करण्यासाठी इंधनाची उपलब्धता आणि किमतीच्या दबावासाठी आकस्मिक योजनांचा आढावा घेण्यात आला."
-            },
-            "hi": {
-                "title": "पीएम मोदी, सीएम ने ईरान युद्ध के प्रभाव पर चर्चा की",
-                "content": "पीएम मोदी ने मुख्यमंत्रियों के साथ वर्चुअल बैठक की, जिसमें मध्य पूर्व संघर्ष के भारत की ईंधन आपूर्ति, मुद्रास्फीति और लॉजिस्टिक्स पर पड़ने वाले प्रभावों पर चर्चा हुई। बैठक में केंद्र-राज्य समन्वय, व्यवधानों के लिए तैयारी और आवश्यक क्षेत्रों में स्थिरता बनाए रखने पर जोर दिया गया। राष्ट्रीय लचीलेपन सुनिश्चित करने हेतु ईंधन उपलब्धता और मूल्य दबावों के लिए आकस्मिक योजनाओं की समीक्षा की गई।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129849661,imgsize-71282.cms",
-        "link": "https://timesofindia.indiatimes.com/india/synergy-team-india-spirit-what-was-discussed-in-key-pm-modi-cms-meet-amid-iran-war/articleshow/129849650.cms",
-        "date": "2026-03-27T19:34:13+05:30"
-    },
-    {
-        "id": "2859042b",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Evening Wrap: Fuel Duty Cut, Rajnath Leads ME Crisis Group",
-                "content": "In today's evening news, the government announced a significant cut in fuel duty, offering relief to consumers nationwide. Concurrently, Defence Minister Rajnath Singh has been tapped to lead a high-level group tasked with addressing the evolving Middle East crisis, highlighting India's proactive diplomatic role. Other key national developments were also covered."
-            },
-            "kn": {
-                "title": "ಸಂಜೆ ಸಾರಾಂಶ: ಇಂಧನ ಸುಂಕ ಕಡಿತ, ರಾಜ್‌ನಾಥ್ ಮಧ್ಯಪ್ರಾಚ್ಯ ಬಿಕ್ಕಟ್ಟು ಗುಂಪಿನ ನೇತೃತ್ವ",
-                "content": "ಇಂದಿನ ಸಂಜೆ ಸುದ್ದಿಯಲ್ಲಿ, ಸರ್ಕಾರವು ಇಂಧನ ಸುಂಕದಲ್ಲಿ ಗಣನೀಯ ಕಡಿತವನ್ನು ಘೋಷಿಸಿದ್ದು, ದೇಶಾದ್ಯಂತ ಗ್ರಾಹಕರಿಗೆ ಪರಿಹಾರ ನೀಡಿದೆ. ಇದೇ ವೇಳೆ, ರಕ್ಷಣಾ ಸಚಿವ ರಾಜ್‌ನಾಥ್ ಸಿಂಗ್ ಅವರು ಮಧ್ಯಪ್ರಾಚ್ಯದ ಬಿಕ್ಕಟ್ಟನ್ನು ನಿಭಾಯಿಸಲು ಉನ್ನತ ಮಟ್ಟದ ಗುಂಪಿನ ನೇತೃತ್ವ ವಹಿಸಲು ನಿಯುಕ್ತರಾಗಿದ್ದಾರೆ, ಇದು ಭಾರತದ ಸಕ್ರಿಯ ರಾಜತಾಂತ್ರಿಕ ಪಾತ್ರವನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ಇತರ ಪ್ರಮುಖ ರಾಷ್ಟ್ರೀಯ ಬೆಳವಣಿಗೆಗಳನ್ನೂ ವರದಿ ಮಾಡಲಾಗಿದೆ."
-            },
-            "mr": {
-                "title": "सायंकालीन आढावा: इंधन शुल्कात कपात, राजनाथ मध्यपूर्वेतील संकट गटाचे नेतृत्व करणार",
-                "content": "आजच्या सायंकालीन बातम्यात, सरकारने इंधन शुल्कात लक्षणीय कपात जाहीर केली, ज्यामुळे देशभरातील ग्राहकांना दिलासा मिळाला. त्याचबरोबर, संरक्षण मंत्री राजनाथ सिंह यांना मध्यपूर्वेतील वाढत्या संकटावर लक्ष ठेवण्यासाठी एका उच्चस्तरीय गटाचे नेतृत्व करण्याची जबाबदारी सोपवण्यात आली आहे, ज्यामुळे भारताची सक्रिय राजनैतिक भूमिका अधोरेखित होते. इतर महत्त्वाच्या राष्ट्रीय घडामोडींवरही प्रकाश टाकण्यात आला."
-            },
-            "hi": {
-                "title": "शाम की खास खबरें: ईंधन शुल्क में कटौती, राजनाथ मध्य पूर्व संकट समूह का नेतृत्व करेंगे",
-                "content": "आज शाम की खबरों में, सरकार ने ईंधन शुल्क में बड़ी कटौती की घोषणा की, जिससे देश भर के उपभोक्ताओं को राहत मिली। इसी बीच, रक्षा मंत्री राजनाथ सिंह को मध्य पूर्व के उभरते संकट से निपटने के लिए एक उच्च-स्तरीय समूह का नेतृत्व करने के लिए चुना गया है, जो भारत की सक्रिय राजनयिक भूमिका को उजागर करता है। अन्य प्रमुख राष्ट्रीय घटनाक्रमों को भी कवर किया गया।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129847418,imgsize-525080.cms",
-        "link": "https://timesofindia.indiatimes.com/india/evening-news-wrap-govt-cuts-fuel-duty-rajnath-to-lead-middle-east-crisis-group-more/articleshow/129846916.cms",
-        "date": "2026-03-27T17:50:52+05:30"
-    },
-    {
-        "id": "98191e75",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "Daytona Airport Chaos: Man Crashes Gate, Tries Boarding Planes",
-                "content": "A Florida man caused chaos at Daytona Beach International Airport, crashing his car through a security gate. Police quickly responded as the individual then attempted to board multiple aircraft. Authorities apprehended the man. His actions disrupted operations but resulted in no injuries or successful breach of plane security, highlighting unusual airport security challenges."
-            },
-            "kn": {
-                "title": "ಡೇಟೋನಾ ವಿಮಾನ ನಿಲ್ದಾಣದಲ್ಲಿ ಗೊಂದಲ: ವ್ಯಕ್ತಿಯಿಂದ ಗೇಟ್ ಧ್ವಂಸ, ವಿಮಾನ ಪ್ರವೇಶಕ್ಕೆ ಯತ್ನ",
-                "content": "ಫ್ಲೋರಿಡಾ ವ್ಯಕ್ತಿಯೊಬ್ಬ ಡೇಟೋನಾ ಬೀಚ್ ಅಂತರಾಷ್ಟ್ರೀಯ ವಿಮಾನ ನಿಲ್ದಾಣದಲ್ಲಿ ತನ್ನ ಕಾರನ್ನು ಭದ್ರತಾ ಗೇಟ್ ಮೂಲಕ ನುಗ್ಗಿಸಿ ಗೊಂದಲ ಸೃಷ್ಟಿಸಿದನು. ಆತ ವಿಮಾನಗಳನ್ನು ಹತ್ತಲು ಯತ್ನಿಸುತ್ತಿದ್ದಾಗ ಪೊಲೀಸರು ತಕ್ಷಣ ಬಂಧಿಸಿದರು. ಆತನ ಕೃತ್ಯಗಳು ಕಾರ್ಯಾಚರಣೆಗೆ ಅಡ್ಡಿಯುಂಟುಮಾಡಿದರೂ, ಯಾವುದೇ ಗಾಯಗಳು ಅಥವಾ ವಿಮಾನ ಭದ್ರತಾ ಉಲ್ಲಂಘನೆ ಸಂಭವಿಸಲಿಲ್ಲ, ಇದು ವಿಮಾನ ನಿಲ್ದಾಣದ ಅಸಾಮಾನ್ಯ ಭದ್ರತಾ ಸವಾಲುಗಳನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "डेटोना विमानतळावर गोंधळ: व्यक्तीने गेट तोडले, विमानात घुसण्याचा प्रयत्न",
-                "content": "फ्लोरिडातील एका व्यक्तीने डेटोना बीच आंतरराष्ट्रीय विमानतळावर गाडीने सुरक्षा गेट तोडून गोंधळ निर्माण केला. तो अनेक विमानांमध्ये चढण्याचा प्रयत्न करत असताना पोलिसांनी तातडीने त्याला पकडले. त्याच्या कृतीमुळे कामकाज विस्कळीत झाले, परंतु कोणतीही दुखापत किंवा विमानाची सुरक्षा यशस्वीरित्या भंग झाली नाही, ज्यामुळे विमानतळावरील असामान्य सुरक्षा आव्हाने अधोरेखित झाली."
-            },
-            "hi": {
-                "title": "डेटोना हवाई अड्डे पर हंगामा: शख्स ने गेट तोड़ा, विमान में घुसने की कोशिश",
-                "content": "फ्लोरिडा के एक शख्स ने डेटोना बीच अंतरराष्ट्रीय हवाई अड्डे पर अपनी कार से सुरक्षा गेट तोड़कर हंगामा कर दिया. यह शख्स कई विमानों में घुसने की कोशिश कर रहा था, तभी पुलिस ने तुरंत उसे पकड़ लिया. उसके इस काम से कामकाज बाधित हुआ, लेकिन किसी को चोट नहीं आई और न ही विमान की सुरक्षा में सेंध लग पाई, जिससे हवाई अड्डों पर असामान्य सुरक्षा चुनौतियों का पता चलता है."
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129786433,imgsize-263752.cms",
-        "link": "https://timesofindia.indiatimes.com/world/us/florida-man-crashes-car-through-airport-gate-tries-to-enter-planes-in-daytona-beach/articleshow/129786433.cms",
-        "date": "2026-03-27T18:19:42+05:30"
-    },
-    {
-        "id": "51bb648d",
-        "category": "Sports",
-        "translations": {
-            "en": {
-                "title": "SRH IPL 2026: Campaign Dates Unveiled",
-                "content": "Sunrisers Hyderabad kicks off their IPL 2026 journey against Royal Challengers Bengaluru on March 28 in Bengaluru. Following a productive auction, SRH's finalized squad, blending seasoned players with fresh talent, is set for action. Their first home game will be on April 5, hosting Lucknow Super Giants. Fans can expect an exciting season as SRH aims for glory with their new-look team."
-            },
-            "kn": {
-                "title": "SRH IPL 2026: ಅಭಿಯಾನದ ದಿನಾಂಕಗಳು ಅನಾವರಣ",
-                "content": "ಸನ್‌ರೈಸರ್ಸ್ ಹೈದರಾಬಾದ್ ತನ್ನ IPL 2026 ಅಭಿಯಾನವನ್ನು ಮಾರ್ಚ್ 28 ರಂದು ಬೆಂಗಳೂರಿನಲ್ಲಿ ರಾಯಲ್ ಚಾಲೆಂಜರ್ಸ್ ಬೆಂಗಳೂರು ವಿರುದ್ಧ ಪ್ರಾರಂಭಿಸುತ್ತದೆ. ಯಶಸ್ವಿ ಹರಾಜಿನ ನಂತರ, ಅನುಭವಿ ಹಾಗೂ ಹೊಸ ಪ್ರತಿಭೆಗಳಿರುವ SRH ತಂಡ ಸಿದ್ಧವಾಗಿದೆ. ಅವರ ಮೊದಲ ತವರು ಪಂದ್ಯ ಏಪ್ರಿಲ್ 5 ರಂದು ಲಕ್ನೋ ಸೂಪರ್ ಜೈಂಟ್ಸ್ ವಿರುದ್ಧ ನಡೆಯಲಿದೆ. ಹೊಸ ತಂಡದೊಂದಿಗೆ SRH ವಿಜಯಕ್ಕಾಗಿ ಗುರಿ ಇಡುತ್ತಿದ್ದಂತೆ ಅಭಿಮಾನಿಗಳು ರೋಮಾಂಚಕ ಸೀಸನ್ ಅನ್ನು ನಿರೀಕ್ಷಿಸಬಹುದು."
-            },
-            "mr": {
-                "title": "SRH IPL 2026: मोहिमेच्या तारखा जाहीर",
-                "content": "सनरायझर्स हैदराबाद 28 मार्च रोजी बेंगळुरू येथे रॉयल चॅलेंजर्स बेंगळुरू विरुद्ध आपल्या IPL 2026 मोहिमेला सुरुवात करणार आहे. यशस्वी लिलावानंतर, अनुभवी आणि नवीन खेळाडूंच्या मिश्रणासह SRH चा अंतिम संघ तयारीला लागला आहे. त्यांचा पहिला घरचा सामना 5 एप्रिल रोजी लखनऊ सुपर जायंट्स विरुद्ध खेळवला जाईल. नवीन संघासह SRH विजयाचे लक्ष्य ठेवत असल्याने चाहते एका रोमांचक हंगामाची अपेक्षा करू शकतात."
-            },
-            "hi": {
-                "title": "SRH IPL 2026: अभियान की तारीखें घोषित",
-                "content": "सनराइजर्स हैदराबाद 28 मार्च को बेंगलुरु में रॉयल चैलेंजर्स बेंगलुरु के खिलाफ अपने IPL 2026 अभियान की शुरुआत करेगा। एक सफल नीलामी के बाद, अनुभवी और नए खिलाड़ियों के मिश्रण के साथ SRH का अंतिम दल एक्शन के लिए तैयार है। उनका पहला घरेलू मैच 5 अप्रैल को लखनऊ सुपर जायंट्स के खिलाफ होगा। जैसे ही SRH अपनी नई टीम के साथ जीत का लक्ष्य रखेगा, प्रशंसक एक रोमांचक सीज़न की उम्मीद कर सकते हैं।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129844958,imgsize-180152.cms",
-        "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/srh-ipl-2026-full-schedule-check-dates-venues-and-home-away-fixtures-of-sunrisers-hyderabad/articleshow/129844618.cms",
-        "date": "2026-03-27T16:07:03+05:30"
-    },
-    {
-        "id": "e3c1e3c8",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Rajnath Singh to Lead Group on Middle East Crisis Impact",
-                "content": "Rajnath Singh will lead a new inter-ministerial group to monitor the Middle East conflict's impact on India. Union Ministers Amit Shah, Nirmala Sitharaman, and Hardeep Singh Puri are members. The group will focus on crucial areas like energy security, supply chains, and global order disruptions. This initiative follows Prime Minister Modi's announcement of empowered groups to assess and mitigate the economic repercussions."
-            },
-            "kn": {
-                "title": "ಮಧ್ಯಪ್ರಾಚ್ಯ ಬಿಕ್ಕಟ್ಟಿನ ಪರಿಣಾಮಗಳ ಕುರಿತು ರಾಜ್‌ನಾಥ್ ಸಿಂಗ್ ತಂಡದ ನೇತೃತ್ವ ವಹಿಸಲಿದ್ದಾರೆ",
-                "content": "ಮಧ್ಯಪ್ರಾಚ್ಯ ಸಂಘರ್ಷದ ಪರಿಣಾಮಗಳನ್ನು ಭಾರತದ ಮೇಲೆ ನಿಗಾ ವಹಿಸಲು ರಾಜ್‌ನಾಥ್ ಸಿಂಗ್ ಹೊಸ ಅಂತರ-ಸಚಿವಾಲಯ ತಂಡದ ನೇತೃತ್ವ ವಹಿಸಲಿದ್ದಾರೆ. ಕೇಂದ್ರ ಸಚಿವರಾದ ಅಮಿತ್ ಶಾ, ನಿರ್ಮಲಾ ಸೀತಾರಾಮನ್ ಮತ್ತು ಹರ್ದೀಪ್ ಸಿಂಗ್ ಪುರಿ ಇದರ ಸದಸ್ಯರಾಗಿದ್ದಾರೆ. ಇಂಧನ ಭದ್ರತೆ, ಪೂರೈಕೆ ಸರಪಳಿಗಳು ಮತ್ತು ಜಾಗತಿಕ ವ್ಯವಸ್ಥೆಯ ಅಡಚಣೆಗಳಂತಹ ನಿರ್ಣಾಯಕ ಕ್ಷೇತ್ರಗಳ ಮೇಲೆ ತಂಡವು ಗಮನ ಹರಿಸಲಿದೆ. ಆರ್ಥಿಕ ಪರಿಣಾಮಗಳನ್ನು ನಿರ್ಣಯಿಸಲು ಮತ್ತು ತಗ್ಗಿಸಲು ಪ್ರಧಾನಿ ಮೋದಿಯವರ ಸಶಕ್ತ ತಂಡಗಳ ಘೋಷಣೆಯ ನಂತರ ಈ ಉಪಕ್ರಮ ಕೈಗೊಳ್ಳಲಾಗಿದೆ."
-            },
-            "mr": {
-                "title": "राजनाथ सिंह मध्यपूर्वेतील संकटाच्या परिणामांवर गटाचे नेतृत्व करणार",
-                "content": "राजनाथ सिंह मध्यपूर्वेतील संघर्षाच्या भारतावरील परिणामांवर लक्ष ठेवण्यासाठी एका नवीन आंतर-मंत्रालयीन गटाचे नेतृत्व करतील. केंद्रीय मंत्री अमित शाह, निर्मला सीतारामन आणि हरदीप सिंह पुरी हे या गटाचे सदस्य आहेत. हा गट ऊर्जा सुरक्षा, पुरवठा साखळी आणि जागतिक व्यवस्थेतील व्यत्यय यासारख्या महत्त्वाच्या क्षेत्रांवर लक्ष केंद्रित करेल. आर्थिक परिणामांचे मूल्यांकन आणि शमन करण्यासाठी पंतप्रधान मोदींनी सशक्त गटांची घोषणा केल्यानंतर हा उपक्रम सुरू करण्यात आला आहे."
-            },
-            "hi": {
-                "title": "राजनाथ सिंह मध्य पूर्व संकट के प्रभाव पर समूह का नेतृत्व करेंगे",
-                "content": "राजनाथ सिंह मध्य पूर्व संघर्ष के भारत पर पड़ने वाले प्रभाव की निगरानी के लिए एक नए अंतर-मंत्रालयी समूह का नेतृत्व करेंगे। केंद्रीय मंत्री अमित शाह, निर्मला सीतारमण और हरदीप सिंह पुरी इसके सदस्य हैं। यह समूह ऊर्जा सुरक्षा, आपूर्ति श्रृंखला और वैश्विक व्यवस्था में व्यवधान जैसे महत्वपूर्ण क्षेत्रों पर ध्यान केंद्रित करेगा। आर्थिक प्रभावों का आकलन और शमन करने के लिए प्रधानमंत्री मोदी द्वारा सशक्त समूहों की घोषणा के बाद यह पहल की गई है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129844611,imgsize-674577.cms",
-        "link": "https://timesofindia.indiatimes.com/india/middle-east-crisis-rajnath-singh-to-head-inter-ministerial-group-to-monitor-conflict-linked-issues/articleshow/129843808.cms",
-        "date": "2026-03-27T15:52:31+05:30"
-    },
-    {
-        "id": "62b2754c",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "Owens Accuses Erika Kirk of Murder Plot",
-                "content": "Candace Owens accused Erika Kirk of plotting husband Charlie Kirk's murder. Owens alleges Erika posted a video of her frail mother on September 8 to garner sympathy and manipulate public perception, anticipating an assassination attempt. These unverified claims sparked intense online debate, raising serious questions of pre-meditated deception."
-            },
-            "kn": {
-                "title": "ಓವೆನ್ಸ್ ಎರಿಕಾ ಕಿರ್ಕ್ ಮೇಲೆ ಕೊಲೆ ಸಂಚಿನ ಆರೋಪ",
-                "content": "ಕ್ಯಾಂಡೆಸ್ ಓವೆನ್ಸ್, ಎರಿಕಾ ಕಿರ್ಕ್ ತಮ್ಮ ಪತಿ ಚಾರ್ಲಿ ಕಿರ್ಕ್ ಅವರ ಕೊಲೆಗೆ ಸಂಚು ರೂಪಿಸಿದ್ದಾರೆ ಎಂದು ಆರೋಪಿಸಿದ್ದಾರೆ. ಹತ್ಯೆಯ ಪ್ರಯತ್ನವನ್ನು ನಿರೀಕ್ಷಿಸಿ, ಸಾರ್ವಜನಿಕರ ಸಹಾನುಭೂತಿ ಪಡೆಯಲು ಮತ್ತು ಗ್ರಹಿಕೆಯನ್ನು ಕುಶಲತೆಯಿಂದ ನಿರ್ವಹಿಸಲು ಎರಿಕಾ ಸೆಪ್ಟೆಂಬರ್ 8 ರಂದು ತಮ್ಮ ದುರ್ಬಲ ತಾಯಿಯ ವೀಡಿಯೊವನ್ನು ಪೋಸ್ಟ್ ಮಾಡಿದ್ದಾರೆ ಎಂದು ಓವೆನ್ಸ್ ಆರೋಪಿಸಿದ್ದಾರೆ. ಈ ಪರಿಶೀಲಿಸದ ಹೇಳಿಕೆಗಳು ತೀವ್ರ ಆನ್‌ಲೈನ್ ಚರ್ಚೆಗೆ ಕಾರಣವಾಗಿವೆ, ಪೂರ್ವಯೋಜಿತ ವಂಚನೆಯ ಬಗ್ಗೆ ಗಂಭೀರ ಪ್ರಶ್ನೆಗಳನ್ನು ಹುಟ್ಟುಹಾಕಿವೆ."
-            },
-            "mr": {
-                "title": "ओवेन्सने एरिका किर्कवर खुनाच्या कटाचा आरोप केला",
-                "content": "कॅन्डेस ओवेन्सने एरिका किर्कवर पती चार्ली किर्क यांच्या खुनाचा कट रचल्याचा आरोप केला आहे. ओवेन्सच्या म्हणण्यानुसार, खुनाच्या प्रयत्नाची शक्यता लक्षात घेता, एरिकाने लोकांची सहानुभूती मिळवण्यासाठी आणि जनमत प्रभावित करण्यासाठी 8 सप्टेंबर रोजी तिच्या अशक्त आईचा व्हिडिओ पोस्ट केला. या अपुष्ट दाव्यांमुळे तीव्र ऑनलाइन वादविवाद सुरू झाले आहेत, ज्यामुळे पूर्वनियोजित फसवणुकीबद्दल गंभीर प्रश्न निर्माण झाले आहेत."
-            },
-            "hi": {
-                "title": "ओवेन्स ने एरिका किर्क पर हत्या की साजिश का आरोप लगाया",
-                "content": "कैंडेंस ओवेन्स ने एरिका किर्क पर पति चार्ली किर्क की हत्या की साजिश रचने का आरोप लगाया है। ओवेन्स का आरोप है कि एरिका ने संभावित हत्या के प्रयास से पहले, जन सहानुभूति बटोरने और सार्वजनिक धारणा को प्रभावित करने के लिए 8 सितंबर को अपनी कमजोर माँ का एक वीडियो पोस्ट किया था। इन अपुष्ट दावों ने तीखी ऑनलाइन बहस छेड़ दी है, जिससे पूर्व-नियोजित धोखे पर गंभीर सवाल खड़े हो गए हैं।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129840525,imgsize-52328.cms",
-        "link": "https://timesofindia.indiatimes.com/world/us-streamers/days-before-charlie-gets-assassinated-candace-owens-accuses-erika-kirk-of-plotting-charlie-kirks-murder-and-staging-sympathy-posts/articleshow/129840525.cms",
-        "date": "2026-03-27T16:32:00+05:30"
-    },
-    {
-        "id": "37dc208b",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Uttarakhand CM Dhami Meets PM Modi, Seeks Support for Development",
-                "content": "Uttarakhand CM Pushkar Singh Dhami met PM Modi in Delhi, discussing the state's development, infrastructure, and connectivity projects. Dhami sought central support for initiatives in tourism, spiritual economy, and entrepreneurship, while also extending an invitation for the PM to visit Uttarakhand. He presented local specialties, reinforcing the state's progress and future aspirations."
-            },
-            "kn": {
-                "title": "ಉತ್ತರಾಖಂಡ ಸಿಎಂ ಧಾಮಿ ಪ್ರಧಾನಿ ಮೋದಿಯನ್ನು ಭೇಟಿ, ಅಭಿವೃದ್ಧಿಗೆ ಬೆಂಬಲ ಕೋರಿದರು",
-                "content": "ಉತ್ತರಾಖಂಡ ಸಿಎಂ ಪುಷ್ಕರ್ ಸಿಂಗ್ ಧಾಮಿ ದೆಹಲಿಯಲ್ಲಿ ಪ್ರಧಾನಿ ಮೋದಿಯನ್ನು ಭೇಟಿಯಾಗಿ, ರಾಜ್ಯದ ಅಭಿವೃದ್ಧಿ, ಮೂಲಸೌಕರ್ಯ ಮತ್ತು ಸಂಪರ್ಕ ಯೋಜನೆಗಳ ಕುರಿತು ಚರ್ಚಿಸಿದರು. ಧಾಮಿ ಪ್ರವಾಸೋದ್ಯಮ, ಆಧ್ಯಾತ್ಮಿಕ ಆರ್ಥಿಕತೆ ಮತ್ತು ಉದ್ಯಮಶೀಲತೆಯ ಉಪಕ್ರಮಗಳಿಗೆ ಕೇಂದ್ರದ ಬೆಂಬಲವನ್ನು ಕೋರಿದರು, ಜೊತೆಗೆ ಪ್ರಧಾನಮಂತ್ರಿಯನ್ನು ಉತ್ತರಾಖಂಡಕ್ಕೆ ಭೇಟಿ ನೀಡಲು ಆಹ್ವಾನಿಸಿದರು. ಅವರು ಸ್ಥಳೀಯ ವಿಶೇಷತೆಗಳನ್ನು ಪ್ರಸ್ತುತಪಡಿಸಿದರು, ರಾಜ್ಯದ ಪ್ರಗತಿ ಮತ್ತು ಭವಿಷ್ಯದ ಆಕಾಂಕ್ಷೆಗಳನ್ನು ಬಲಪಡಿಸಿದರು."
-            },
-            "mr": {
-                "title": "उत्तराखंडचे मुख्यमंत्री धामींची पंतप्रधान मोदींशी भेट, विकासासाठी पाठिंबा मागितला",
-                "content": "उत्तराखंडचे मुख्यमंत्री पुष्कर सिंह धामी यांनी दिल्लीत पंतप्रधान मोदींची भेट घेतली. यावेळी त्यांनी राज्याच्या विकास, पायाभूत सुविधा आणि कनेक्टिव्हिटी प्रकल्पांवर चर्चा केली. धामींनी पर्यटन, आध्यात्मिक अर्थव्यवस्था आणि उद्योजकतेच्या उपक्रमांसाठी केंद्राचा पाठिंबा मागितला, तसेच पंतप्रधानांना उत्तराखंडला भेट देण्यासाठी आमंत्रित केले. त्यांनी स्थानिक वैशिष्ट्ये सादर केली, ज्यामुळे राज्याची प्रगती आणि भविष्यातील आकांक्षांना बळ मिळाले."
-            },
-            "hi": {
-                "title": "उत्तराखंड के सीएम धामी ने पीएम मोदी से मुलाकात की, विकास के लिए समर्थन मांगा",
-                "content": "उत्तराखंड के मुख्यमंत्री पुष्कर सिंह धामी ने दिल्ली में पीएम मोदी से मुलाकात की और राज्य के विकास, बुनियादी ढांचे और कनेक्टिविटी परियोजनाओं पर चर्चा की। धामी ने पर्यटन, आध्यात्मिक अर्थव्यवस्था और उद्यमिता की पहल के लिए केंद्र से समर्थन मांगा, साथ ही पीएम को उत्तराखंड आने का निमंत्रण भी दिया। उन्होंने स्थानीय विशिष्ट वस्तुएं भेंट कीं, जिससे राज्य की प्रगति और भविष्य की आकांक्षाएं सुदृढ़ हुईं।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129844714,imgsize-914163.cms",
-        "link": "https://timesofindia.indiatimes.com/india/uttarakhand-cm-dhami-meets-pm-modi-discusses-development-and-key-projects/articleshow/129844650.cms",
-        "date": "2026-03-27T15:55:14+05:30"
-    },
-    {
-        "id": "6b6ca2cd",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "Mars' Spin Accelerates: Active Interior Revealed",
-                "content": "NASA's InSight lander has detected a slight but consistent speeding up in Mars' rotation. Data reveals the Red Planet's spin is accelerating by about 4 milliarcseconds per year, shortening its day by fractions of a millisecond. This subtle change, attributed to mass redistribution within Mars, provides crucial evidence of an active interior and ongoing geological processes, deepening our understanding of the planet's evolution."
-            },
-            "kn": {
-                "title": "ಮಂಗಳ ಗ್ರಹದ ಪರಿಭ್ರಮಣೆ ವೇಗ ಹೆಚ್ಚಳ: ಸಕ್ರಿಯ ಆಂತರಿಕ ಭಾಗ ಬಹಿರಂಗ",
-                "content": "ನಾಸಾದ ಇನ್‌ಸೈಟ್ ಲ್ಯಾಂಡರ್ ಮಂಗಳ ಗ್ರಹದ ಪರಿಭ್ರಮಣೆಯಲ್ಲಿ ಸಣ್ಣ ಆದರೆ ಸ್ಥಿರ ವೇಗ ಹೆಚ್ಚಳವನ್ನು ಪತ್ತೆ ಮಾಡಿದೆ. ದತ್ತಾಂಶವು ಕೆಂಪು ಗ್ರಹದ ತಿರುಗುವಿಕೆ ವರ್ಷಕ್ಕೆ ಸುಮಾರು 4 ಮಿಲಿಯಾರ್ಕ್‌ಸೆಕೆಂಡ್‌ಗಳಷ್ಟು ವೇಗವನ್ನು ಪಡೆಯುತ್ತಿದೆ ಎಂದು ಬಹಿರಂಗಪಡಿಸುತ್ತದೆ, ಇದರಿಂದ ಅದರ ದಿನವು ಮಿಲಿಸೆಕೆಂಡ್‌ನ ಭಿನ್ನಾಂಕಗಳಿಂದ ಕಡಿಮೆಯಾಗುತ್ತದೆ. ಮಂಗಳ ಗ್ರಹದೊಳಗಿನ ದ್ರವ್ಯರಾಶಿ ಪುನರ್ವಿತರಣೆಗೆ ಕಾರಣವಾದ ಈ ಸೂಕ್ಷ್ಮ ಬದಲಾವಣೆಯು, ಸಕ್ರಿಯ ಆಂತರಿಕ ಮತ್ತು ನಡೆಯುತ್ತಿರುವ ಭೂವೈಜ್ಞಾನಿಕ ಪ್ರಕ್ರಿಯೆಗಳ ನಿರ್ಣಾಯಕ ಪುರಾವೆಗಳನ್ನು ಒದಗಿಸುತ್ತದೆ, ಇದು ಗ್ರಹದ ವಿಕಾಸದ ಕುರಿತು ನಮ್ಮ ತಿಳುವಳಿಕೆಯನ್ನು ಆಳವಾಗಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "मंगळाचा वेग वाढला: सक्रिय आंतरिक भाग उघड",
-                "content": "नासाच्या इनसाइट लँडरने मंगळाच्या परिभ्रमणात थोडी पण सातत्यपूर्ण गती वाढ नोंदवली आहे. डेटानुसार, लाल ग्रहाचा फिरण्याचा वेग वर्षाला सुमारे 4 मिलीआर्कसेकंदने वाढत आहे, ज्यामुळे त्याचा दिवस मिलिसेकंदांच्या काही अंशांनी कमी होत आहे. मंगळाच्या आत वस्तुमान पुनर्वितरणाशी संबंधित हा सूक्ष्म बदल, सक्रिय आंतरिक भाग आणि चालू असलेल्या भूगर्भीय प्रक्रियांचे महत्त्वपूर्ण पुरावे देतो, ज्यामुळे ग्रहाच्या उत्क्रांतीबद्दलची आपली समज वाढते."
-            },
-            "hi": {
-                "title": "मंगल का घूर्णन तेज हुआ: सक्रिय आंतरिक भाग उजागर",
-                "content": "नासा के इनसाइट लैंडर ने मंगल ग्रह के घूर्णन में एक हल्की लेकिन लगातार बढ़ती गति का पता लगाया है। डेटा से पता चलता है कि लाल ग्रह का घूर्णन प्रति वर्ष लगभग 4 मिलीआर्कसेकंड की दर से तेज हो रहा है, जिससे इसका दिन मिलीसेकंड के कुछ अंशों से छोटा हो रहा है। मंगल के भीतर द्रव्यमान के पुनर्वितरण के लिए जिम्मेदार यह सूक्ष्म परिवर्तन, एक सक्रिय आंतरिक भाग और चल रही भूवैज्ञानिक प्रक्रियाओं का महत्वपूर्ण प्रमाण प्रदान करता है, जिससे ग्रह के विकास के बारे में हमारी समझ गहरी होती है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129843500,imgsize-112472.cms",
-        "link": "https://timesofindia.indiatimes.com/science/mars-rotation-is-speeding-up-at-an-unprecedented-rate-scientists-reveal-why/articleshow/129843500.cms",
-        "date": "2026-03-27T15:03:21+05:30"
-    },
-    {
-        "id": "dff3020f",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "PM Modi Virtually Observes Surya Tilak at Ram Mandir",
-                "content": "Prime Minister Modi virtually participated in Ayodhya's Ram Mandir Surya Tilak ceremony and offered prayers, extending Ram Navami greetings. He wished for renewed energy and enthusiasm across the nation. Devotees flocked to temples nationwide, especially Ayodhya, where security was enhanced to manage large crowds celebrating Lord Rama's birth."
-            },
-            "kn": {
-                "title": "ಪ್ರಧಾನಿ ಮೋದಿ ರಾಮ ಮಂದಿರದಲ್ಲಿ ಸೂರ್ಯ ತಿಲಕವನ್ನು ವರ್ಚುವಲ್ ಆಗಿ ವೀಕ್ಷಿಸಿದರು",
-                "content": "ಪ್ರಧಾನಮಂತ್ರಿ ಮೋದಿ ಅಯೋಧ್ಯೆಯ ರಾಮ ಮಂದಿರದಲ್ಲಿ ಸೂರ್ಯ ತಿಲಕ ಸಮಾರಂಭ ಮತ್ತು ಪ್ರಾರ್ಥನೆಯಲ್ಲಿ ವರ್ಚುವಲ್ ಆಗಿ ಭಾಗವಹಿಸಿ, ರಾಮ ನವಮಿ ಶುಭಾಶಯ ಕೋರಿದರು. ಅವರು ದೇಶಾದ್ಯಂತ ಹೊಸ ಶಕ್ತಿ ಮತ್ತು ಉತ್ಸಾಹವನ್ನು ಹಾರೈಸಿದರು. ದೇಶಾದ್ಯಂತ ಭಕ್ತರು ದೇವಾಲಯಗಳಲ್ಲಿ ಸೇರಿದರು, ವಿಶೇಷವಾಗಿ ಅಯೋಧ್ಯೆಯಲ್ಲಿ ಹೆಚ್ಚಿನ ಜನಸಂದಣಿ ಇತ್ತು. ಭಗವಾನ್ ರಾಮನ ಜನ್ಮವನ್ನು ಆಚರಿಸಲು ಭಕ್ತರನ್ನು ನಿರ್ವಹಿಸಲು ಭದ್ರತೆಯನ್ನು ಹೆಚ್ಚಿಸಲಾಯಿತು."
-            },
-            "mr": {
-                "title": "पंतप्रधान मोदींनी राम मंदिरातून व्हर्चुअली सूर्य तिलक सोहळा पाहिला",
-                "content": "पंतप्रधान मोदींनी अयोध्येतील राम मंदिरातून व्हर्चुअली सूर्य तिलक सोहळ्यात भाग घेतला आणि प्रार्थना केली, रामनवमीच्या शुभेच्छा दिल्या. त्यांनी देशभरात नवी ऊर्जा आणि उत्साहाची कामना केली. देशभरातील मंदिरांमध्ये भाविकांनी गर्दी केली होती, विशेषतः अयोध्येत प्रचंड गर्दी होती. भगवान रामाच्या जन्मोत्सवासाठी भाविकांना सांभाळण्यासाठी सुरक्षा वाढवण्यात आली होती."
-            },
-            "hi": {
-                "title": "पीएम मोदी ने राम मंदिर में वर्चुअली देखा सूर्य तिलक",
-                "content": "प्रधानमंत्री मोदी ने अयोध्या के राम मंदिर में वर्चुअली सूर्य तिलक समारोह और प्रार्थना में भाग लिया, रामनवमी की शुभकामनाएं दीं। उन्होंने देशभर में नई ऊर्जा और उत्साह की कामना की। देशभर के मंदिरों में भक्तों की भीड़ उमड़ी, खासकर अयोध्या में भारी भीड़ थी। भगवान राम के जन्मोत्सव पर भक्तों को संभालने के लिए सुरक्षा बढ़ाई गई थी।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129840914,imgsize-99908.cms",
-        "link": "https://timesofindia.indiatimes.com/india/pm-modi-prayers-to-lord-ram-observes-surya-tilak-ceremony-at-ayodhyas-ram-mandir-virtually/articleshow/129840890.cms",
-        "date": "2026-03-27T13:05:44+05:30"
-    },
-    {
-        "id": "aefaad2d",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "J&K Assembly Ruckus Over Iran Protest",
-                "content": "Massive ruckus erupted in the J&K Assembly as National Conference MLAs protested the alleged killing of Iran's Ali Khamenei and US-Israel military actions. The protest led to a scuffle with BJP MLAs, forcing an adjournment. Chief Minister Omar Abdullah condemned the conflict, stating that regime change cannot be achieved through military bombardment."
-            },
-            "kn": {
-                "title": "ಜೆ&ಕೆ ಅಸೆಂಬ್ಲಿಯಲ್ಲಿ ಇರಾನ್ ಪ್ರತಿಭಟನೆಗೆ ಗದ್ದಲ",
-                "content": "ಜೆ&ಕೆ ಅಸೆಂಬ್ಲಿಯಲ್ಲಿ ಭಾರೀ ಗದ್ದಲ ಉಂಟಾಯಿತು, ನ್ಯಾಷನಲ್ ಕಾನ್ಫರೆನ್ಸ್ ಶಾಸಕರು ಇರಾನ್‌ನ ಅಲಿ ಖಮೇನಿ ಅವರ ಹತ್ಯೆ ಮತ್ತು ಯುಎಸ್-ಇಸ್ರೇಲ್ ಮಿಲಿಟರಿ ಕ್ರಮಗಳನ್ನು ವಿರೋಧಿಸಿ ಪ್ರತಿಭಟಿಸಿದರು. ಈ ಪ್ರತಿಭಟನೆಯು ಬಿಜೆಪಿ ಶಾಸಕರೊಂದಿಗೆ ಜಗಳಕ್ಕೆ ಕಾರಣವಾಯಿತು, ಇದರಿಂದ ಅಧಿವೇಶನವನ್ನು ಮುಂದೂಡಲಾಯಿತು. ಮುಖ್ಯಮಂತ್ರಿ ಒಮರ್ ಅಬ್ದುಲ್ಲಾ ಈ ಸಂಘರ್ಷವನ್ನು ಖಂಡಿಸಿ, ಮಿಲಿಟರಿ ಬಾಂಬ್‌ ದಾಳಿಯಿಂದ ಆಡಳಿತ ಬದಲಾವಣೆ ಸಾಧಿಸಲಾಗುವುದಿಲ್ಲ ಎಂದು ಹೇಳಿದರು."
-            },
-            "mr": {
-                "title": "जे&के विधानसभेत इराणच्या निषेधावरून गोंधळ",
-                "content": "जे&के विधानसभेत प्रचंड गोंधळ निर्माण झाला, कारण नॅशनल कॉन्फरन्सच्या आमदारांनी इराणचे अली खामेनेई यांच्या कथित हत्येवर आणि अमेरिका-इस्त्रायलच्या लष्करी कारवाईवर निषेध केला. या आंदोलनामुळे भाजप आमदारांसोबत धक्काबुक्की झाली, ज्यामुळे सभागृहाचे कामकाज तहकूब करावे लागले. मुख्यमंत्री ओमर अब्दुल्ला यांनी या संघर्षाचा निषेध केला, ते म्हणाले की, लष्करी बॉम्ब हल्ल्याने राजवट बदलता येत नाही."
-            },
-            "hi": {
-                "title": "जम्मू-कश्मीर विधानसभा में ईरान के विरोध पर हंगामा",
-                "content": "जम्मू-कश्मीर विधानसभा में भारी हंगामा हुआ, जब नेशनल कॉन्फ्रेंस के विधायकों ने ईरान के अली खामेनेई की कथित हत्या और अमेरिका-इजरायल की सैन्य कार्रवाई का विरोध किया। इस विरोध प्रदर्शन के कारण भाजपा विधायकों के साथ झड़प हुई, जिससे सदन स्थगित करना पड़ा। मुख्यमंत्री उमर अब्दुल्ला ने संघर्ष की निंदा करते हुए कहा कि सैन्य बमबारी से शासन परिवर्तन हासिल नहीं किया जा सकता।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129840100,imgsize-2712997.cms",
-        "link": "https://timesofindia.indiatimes.com/india/watch-massive-ruckus-in-jk-assembly-as-nc-mlas-protest-over-killing-of-irans-ali-khamenei/articleshow/129839452.cms",
-        "date": "2026-03-27T11:29:56+05:30"
-    },
-    {
-        "id": "6436208b",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Elderly Meds: Supervised Reduction Can Be Safe & Beneficial",
-                "content": "A global review suggests many elderly individuals, especially the frail, may safely reduce long-term medications under supervision. This practice can significantly cut risks like falls and confusion, while boosting well-being and energy levels. Doctors are increasingly advocating for patient-centered care, where carefully stopping certain drugs improves quality of life instead of causing harm from polypharmacy."
-            },
-            "kn": {
-                "title": "ವೃದ್ಧರ ಔಷಧಿಗಳು: ಸುರಕ್ಷಿತ ಕಡಿತವು ಪ್ರಯೋಜನಕಾರಿ",
-                "content": "ಜಾಗತಿಕ ವಿಮರ್ಶೆಯು ಅನೇಕ ವೃದ್ಧರು, ವಿಶೇಷವಾಗಿ ದುರ್ಬಲರು, ಮೇಲ್ವಿಚಾರಣೆಯಲ್ಲಿ ದೀರ್ಘಕಾಲೀನ ಔಷಧಿಗಳನ್ನು ಸುರಕ್ಷಿತವಾಗಿ ಕಡಿಮೆ ಮಾಡಬಹುದು ಎಂದು ಸೂಚಿಸುತ್ತದೆ. ಈ ಅಭ್ಯಾಸವು ಬೀಳುವಿಕೆ ಮತ್ತು ಗೊಂದಲದಂತಹ ಅಪಾಯಗಳನ್ನು ಗಮನಾರ್ಹವಾಗಿ ಕಡಿಮೆ ಮಾಡುತ್ತದೆ, ಆದರೆ ಯೋಗಕ್ಷೇಮ ಮತ್ತು ಶಕ್ತಿಯ ಮಟ್ಟವನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ. ವೈದ್ಯರು ರೋಗಿ-ಕೇಂದ್ರಿತ ಆರೈಕೆಗೆ ಹೆಚ್ಚು ಒತ್ತು ನೀಡುತ್ತಿದ್ದಾರೆ, ಅಲ್ಲಿ ಕೆಲವು ಔಷಧಿಗಳನ್ನು ಎಚ್ಚರಿಕೆಯಿಂದ ನಿಲ್ಲಿಸುವುದು ಬಹು ಔಷಧಗಳ ಸೇವನೆಯಿಂದಾಗುವ ಹಾನಿಯ ಬದಲು ಜೀವನದ ಗುಣಮಟ್ಟವನ್ನು ಸುಧಾರಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "वृद्धांची औषधे: देखरेखीखालील कपात सुरक्षित व फायदेशीर",
-                "content": "एका जागतिक अभ्यासानुसार, अनेक वृद्ध व्यक्ती, विशेषतः दुर्बळ, देखरेखीखाली त्यांचे दीर्घकालीन औषधोपचार सुरक्षितपणे कमी करू शकतात. ही पद्धत पडणे आणि गोंधळ यांसारखे धोके लक्षणीयरीत्या कमी करते, तसेच आरोग्य आणि ऊर्जा पातळी सुधारते. डॉक्टर आता रुग्ण-केंद्रित काळजीचा अधिक पुरस्कार करत आहेत, जिथे काही औषधे काळजीपूर्वक थांबवल्याने बहु औषधोपचारांमुळे होणाऱ्या हानीऐवजी जीवनाचा दर्जा सुधारतो."
-            },
-            "hi": {
-                "title": "बुजुर्गों की दवाएं: निगरानी में कमी सुरक्षित और फायदेमंद",
-                "content": "एक वैश्विक समीक्षा बताती है कि कई बुजुर्ग व्यक्ति, विशेष रूप से कमजोर लोग, निगरानी में अपनी लंबी अवधि की दवाओं को सुरक्षित रूप से कम कर सकते हैं। यह अभ्यास गिरने और भ्रम जैसे जोखिमों को काफी हद तक कम कर सकता है, साथ ही स्वास्थ्य और ऊर्जा के स्तर को बढ़ा सकता है। डॉक्टर अब रोगी-केंद्रित देखभाल की वकालत कर रहे हैं, जहां कुछ दवाओं को सावधानीपूर्वक बंद करने से पॉलीफ़ार्मेसी (कई दवाओं का सेवन) से होने वाले नुकसान के बजाय जीवन की गुणवत्ता में सुधार होता है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129836424,imgsize-988815.cms",
-        "link": "https://timesofindia.indiatimes.com/india/too-many-meds-in-old-age-cutting-back-could-be-safe/articleshow/129836419.cms",
-        "date": "2026-03-27T05:23:50+05:30"
-    },
-    {
-        "id": "fdcc02e9",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "India Secures Hormuz Passage from Iran",
-                "content": "Iran has granted India permission to use the strategic Strait of Hormuz, allowing 20 cargo vessels and 18 LPG tankers to pass. This move, secured through India's diplomatic efforts, significantly eases concerns about energy supply disruptions. However, Iran clarified that ships linked to its adversaries will be denied access to the crucial waterway."
-            },
-            "kn": {
-                "title": "ಭಾರತವು ಇರಾನ್‌ನಿಂದ ಹಾರ್ಮುಜ್ ಮಾರ್ಗವನ್ನು ಪಡೆದುಕೊಂಡಿದೆ",
-                "content": "ಇರಾನ್ ಭಾರತಕ್ಕೆ ಕಾರ್ಯತಂತ್ರದ ಹಾರ್ಮುಜ್ ಜಲಸಂಧಿಯನ್ನು ಬಳಸಲು ಅನುಮತಿ ನೀಡಿದೆ, ಇದರಿಂದ 20 ಸರಕು ಹಡಗುಗಳು ಮತ್ತು 18 ಎಲ್‌ಪಿಜಿ ಟ್ಯಾಂಕರ್‌ಗಳು ಹಾದುಹೋಗಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ. ಭಾರತದ ರಾಜತಾಂತ್ರಿಕ ಪ್ರಯತ್ನಗಳಿಂದ ದೊರೆತ ಈ ಕ್ರಮವು ಇಂಧನ ಪೂರೈಕೆ ಅಡೆತಡೆಗಳ ಆತಂಕವನ್ನು ಗಣನೀಯವಾಗಿ ಕಡಿಮೆ ಮಾಡುತ್ತದೆ. ಆದರೆ, ಇರಾನ್ ತನ್ನ ವಿರೋಧಿಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಹಡಗುಗಳಿಗೆ ಈ ಪ್ರಮುಖ ಜಲಮಾರ್ಗಕ್ಕೆ ಪ್ರವೇಶವನ್ನು ನಿರಾಕರಿಸಲಾಗುವುದು ಎಂದು ಸ್ಪಷ್ಟಪಡಿಸಿದೆ."
-            },
-            "mr": {
-                "title": "भारताला इराणकडून होर्मुझ मार्गाची सुरक्षितता मिळाली",
-                "content": "इराणने भारताला महत्त्वाच्या होर्मुझ सामुद्रधुनीचा वापर करण्याची परवानगी दिली आहे, ज्यामुळे २० मालवाहू जहाजे आणि १८ एलपीजी टँकर मार्गस्थ होऊ शकतील. भारताच्या राजनैतिक प्रयत्नांमुळे मिळालेल्या या निर्णयामुळे ऊर्जा पुरवठ्यातील व्यत्ययांबद्दलची चिंता लक्षणीयरीत्या कमी झाली आहे. मात्र, इराणने स्पष्ट केले आहे की, त्याच्या शत्रूंशी संबंधित जहाजांना या महत्त्वपूर्ण जलमार्गात प्रवेश नाकारला जाईल."
-            },
-            "hi": {
-                "title": "भारत ने ईरान से होर्मुज मार्ग सुरक्षित किया",
-                "content": "ईरान ने भारत को सामरिक होर्मुज जलडमरूमध्य का उपयोग करने की अनुमति दी है, जिससे 20 मालवाहक जहाजों और 18 एलपीजी टैंकरों को गुजरने की अनुमति मिलेगी। भारत के राजनयिक प्रयासों से हासिल किया गया यह कदम, ऊर्जा आपूर्ति में व्यवधानों की चिंताओं को काफी कम करता है। हालांकि, ईरान ने स्पष्ट किया कि उसके विरोधियों से जुड़े जहाजों को इस महत्वपूर्ण जलमार्ग में प्रवेश से वंचित किया जाएगा।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129836401,imgsize-727477.cms",
-        "link": "https://timesofindia.indiatimes.com/india/iran-hands-hormuz-pass-to-india-pak-russia-china-iraq/articleshow/129836393.cms",
-        "date": "2026-03-27T05:13:02+05:30"
     }
 ]
