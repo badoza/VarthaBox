@@ -1,5 +1,30 @@
 [
     {
+        "id": "10f2b2d7",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "COVID's 'Perfect Storm': Mass Gatherings & Virulent Variants Fuel Spread",
+                "content": "Experts warn that the combination of mass gatherings and highly virulent Covid-19 variants is creating a 'perfect storm,' accelerating virus transmission. This dangerous synergy significantly increases the risk of widespread outbreaks. Authorities urge caution and adherence to safety protocols to prevent further surge. The public must remain vigilant against these conducive conditions for the virus."
+            },
+            "kn": {
+                "title": "ಕೋವಿಡ್‌ನ 'ಪರಿಪೂರ್ಣ ಚಂಡಮಾರುತ': ಜನಸಂದಣಿ, ತೀವ್ರ ರೂಪಾಂತರಗಳು ಹರಡುವಿಕೆಗೆ ಇಂಧನ",
+                "content": "ತಜ್ಞರ ಎಚ್ಚರಿಕೆ: ಜನಸಂದಣಿ ಮತ್ತು ತೀವ್ರ ರೂಪಾಂತರಿತ ಕೋವಿಡ್-19 ವೈರಸ್‌ಗಳ ಸಂಯೋಜನೆಯು 'ಪರಿಪೂರ್ಣ ಚಂಡಮಾರುತ'ವನ್ನು ಸೃಷ್ಟಿಸುತ್ತಿದ್ದು, ವೈರಸ್ ಹರಡುವಿಕೆಯನ್ನು ವೇಗಗೊಳಿಸುತ್ತಿದೆ. ಈ ಅಪಾಯಕಾರಿ ಸಿನರ್ಜಿ ವ್ಯಾಪಕ ಹರಡುವಿಕೆಯ ಅಪಾಯವನ್ನು ಗಣನೀಯವಾಗಿ ಹೆಚ್ಚಿಸುತ್ತದೆ. ಮತ್ತಷ್ಟು ಉಲ್ಬಣ ತಡೆಯಲು, ಅಧಿಕಾರಿಗಳು ಎಚ್ಚರಿಕೆ ಹಾಗೂ ಸುರಕ್ಷತಾ ಕ್ರಮಗಳನ್ನು ಪಾಲಿಸುವಂತೆ ಒತ್ತಾಯಿಸಿದ್ದಾರೆ. ವೈರಸ್ ಹರಡಲು ಅನುಕೂಲಕರ ಪರಿಸ್ಥಿತಿಗಳ ವಿರುದ್ಧ ಸಾರ್ವಜನಿಕರು ಜಾಗರೂಕರಾಗಿರಬೇಕು."
+            },
+            "mr": {
+                "title": "कोविडचे 'परफेक्ट स्टॉर्म': गर्दी आणि प्राणघातक व्हेरिएंट्समुळे वाढता प्रसार",
+                "content": "तज्ञांनी चेतावणी दिली आहे की, मोठ्या जनसमुदायांची गर्दी आणि अत्यंत प्राणघातक कोविड-19 व्हेरिएंट्स एकत्र येऊन 'परफेक्ट स्टॉर्म' निर्माण करत आहेत, ज्यामुळे विषाणूचा प्रसार वेगाने वाढत आहे. ही धोकादायक स्थिती मोठ्या प्रमाणावर साथीच्या रोगांचा धोका लक्षणीयरीत्या वाढवते. पुढील वाढ रोखण्यासाठी अधिकारी सावधगिरी बाळगण्याचे आणि सुरक्षा प्रोटोकॉलचे पालन करण्याचे आवाहन करत आहेत. नागरिकांनी विषाणूसाठी अनुकूल परिस्थितींपासून सतर्क राहावे."
+            },
+            "hi": {
+                "title": "कोविड का 'परफेक्ट स्टॉर्म': भीड़ और घातक वेरिएंट्स से तेज़ फैलाव",
+                "content": "विशेषज्ञों ने चेतावनी दी है कि बड़े पैमाने पर होने वाले जमावड़े और अत्यधिक घातक कोविड-19 वेरिएंट्स का संयोजन 'परफेक्ट स्टॉर्म' बना रहा है, जिससे वायरस का प्रसार तेज़ी से बढ़ रहा है। यह खतरनाक तालमेल व्यापक प्रकोपों के जोखिम को काफी बढ़ा देता है। अधिकारियों ने आगे की वृद्धि को रोकने के लिए सावधानी बरतने और सुरक्षा प्रोटोकॉल का पालन करने का आग्रह किया है। जनता को वायरस के लिए इन अनुकूल परिस्थितियों के प्रति सतर्क रहना चाहिए।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-83512932,imgsize-217120.cms",
+        "link": "https://timesofindia.indiatimes.com/india/mass-gatherings-virulent-variants-create-perfect-storm-for-virus-to-spread/articleshow/83494806.cms",
+        "date": "2021-06-14T01:24:44+05:30"
+    },
+    {
         "id": "f431974b",
         "category": "IPL Scoop",
         "translations": {
@@ -1973,30 +1998,5 @@
         "image": "https://static.toiimg.com/photo/msid-129856940,imgsize-1081266.cms",
         "link": "https://timesofindia.indiatimes.com/etimes/trending/mum-who-vanished-without-trace-in-2001-found-alive-meets-daughter-in-emotional-courthouse-reunion/articleshow/129854308.cms",
         "date": "2026-03-28T05:07:25+05:30"
-    },
-    {
-        "id": "45230b99",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "H-1B FY2027 Lottery Results Announced",
-                "content": "USCIS has announced the H-1B visa lottery results for Fiscal Year 2027, implementing its first-ever wage-based selection process. Selected petitioners can now proceed with filing their H-1B petitions. This new approach aims to prioritize higher-skilled and higher-paid workers. Unselected individuals should await further announcements from USCIS. Thousands of international professionals are impacted by these crucial selections."
-            },
-            "kn": {
-                "title": "H-1B FY2027 ಲಾಟರಿ ಫಲಿತಾಂಶಗಳು ಪ್ರಕಟ",
-                "content": "USCIS ಆರ್ಥಿಕ ವರ್ಷ 2027 ರ H-1B ವೀಸಾ ಲಾಟರಿ ಫಲಿತಾಂಶಗಳನ್ನು ಪ್ರಕಟಿಸಿದೆ, ಇದು ಮೊದಲ ವೇತನ-ಆಧಾರಿತ ಆಯ್ಕೆ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಜಾರಿಗೆ ತಂದಿದೆ. ಆಯ್ಕೆಯಾದ ಅರ್ಜಿದಾರರು ಈಗ ತಮ್ಮ H-1B ಅರ್ಜಿಗಳನ್ನು ಸಲ್ಲಿಸಬಹುದು. ಈ ಹೊಸ ವಿಧಾನವು ಉನ್ನತ ಕೌಶಲ್ಯದ ಮತ್ತು ಹೆಚ್ಚು ವೇತನ ಪಡೆಯುವ ಕಾರ್ಮಿಕರಿಗೆ ಆದ್ಯತೆ ನೀಡುವ ಗುರಿಯನ್ನು ಹೊಂದಿದೆ. ಆಯ್ಕೆಯಾಗದ ವ್ಯಕ್ತಿಗಳು USCIS ನಿಂದ ಹೆಚ್ಚಿನ ಪ್ರಕಟಣೆಗಳಿಗಾಗಿ ಕಾಯಬೇಕು. ಸಾವಿರಾರು ಅಂತರರಾಷ್ಟ್ರೀಯ ವೃತ್ತಿಪರರು ಈ ಪ್ರಮುಖ ಆಯ್ಕೆಗಳಿಂದ ಪ್ರಭಾವಿತರಾಗಿದ್ದಾರೆ."
-            },
-            "mr": {
-                "title": "H-1B FY2027 लॉटरी निकाल जाहीर",
-                "content": "USCIS ने आर्थिक वर्ष 2027 साठी H-1B व्हिसा लॉटरीचे निकाल जाहीर केले आहेत, ज्यामध्ये प्रथमच वेतन-आधारित निवड प्रक्रिया लागू करण्यात आली आहे. निवडलेले अर्जदार आता त्यांची H-1B याचिका दाखल करू शकतात. हा नवीन दृष्टिकोन उच्च-कुशल आणि अधिक पगारदार कर्मचाऱ्यांसाठी प्राधान्य देण्याचे उद्दिष्ट ठेवतो. निवड न झालेल्या व्यक्तींनी USCIS कडून पुढील घोषणांची वाट पहावी. या महत्त्वाच्या निवडींमुळे हजारो आंतरराष्ट्रीय व्यावसायिकांवर परिणाम झाला आहे."
-            },
-            "hi": {
-                "title": "H-1B FY2027 लॉटरी परिणाम घोषित",
-                "content": "USCIS ने वित्तीय वर्ष 2027 के लिए H-1B वीज़ा लॉटरी के परिणाम घोषित कर दिए हैं, जिसमें पहली बार वेतन-आधारित चयन प्रक्रिया लागू की गई है। चयनित याचिकाकर्ता अब अपनी H-1B याचिकाएं दाखिल कर सकते हैं। इस नए दृष्टिकोण का लक्ष्य उच्च-कुशल और अधिक वेतन पाने वाले श्रमिकों को प्राथमिकता देना है। जिन व्यक्तियों का चयन नहीं हुआ है, उन्हें USCIS से आगे की घोषणाओं का इंतजार करना चाहिए। इन महत्वपूर्ण चयनों से हजारों अंतर्राष्ट्रीय पेशेवर प्रभावित हुए हैं।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129854231,imgsize-118596.cms",
-        "link": "https://timesofindia.indiatimes.com/world/us/h-1b-lottery-results-fy-2027-out-usciss-first-wage-based-selections-done-whats-next/articleshow/129854221.cms",
-        "date": "2026-03-28T01:47:20+05:30"
     }
 ]
