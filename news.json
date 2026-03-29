@@ -1,5 +1,30 @@
 [
     {
+        "id": "d95e677c",
+        "category": "Sports",
+        "translations": {
+            "en": {
+                "title": "Brevis Ruled Out: CSK's IPL 2026 Injury Crisis Deepens",
+                "content": "Chennai Super Kings hit by fresh injury crisis for IPL 2026! Following MS Dhoni and Nathan Ellis's absence, star batter Dewald Brevis is now ruled out of initial matches with a side strain. This significant blow weakens CSK's middle order and bowling attack. The team faces an uphill battle to start strong against Rajasthan Royals."
+            },
+            "kn": {
+                "title": "ಬ್ರೆವಿಸ್ ಹೊರಕ್ಕೆ: IPL 2026 ಕ್ಕೆ CSK ಗೆ ಗಾಯದ ಆತಂಕ ಹೆಚ್ಚಾಗಿದೆ",
+                "content": "IPL 2026 ಗಾಗಿ ಚೆನ್ನೈ ಸೂಪರ್ ಕಿಂಗ್ಸ್ ಹೊಸ ಗಾಯದ ಬಿಕ್ಕಟ್ಟಿಗೆ ಸಿಲುಕಿದೆ! ಎಂಎಸ್ ಧೋನಿ ಮತ್ತು ನಾಥನ್ ಎಲ್ಲಿಸ್ ಅನುಪಸ್ಥಿತಿಯ ನಂತರ, ಸ್ಟಾರ್ ಬ್ಯಾಟರ್ ಡೆವಾಲ್ಡ್ ಬ್ರೆವಿಸ್ ಈಗ ಸೈಡ್ ಸ್ಟ್ರೈನ್‌ನಿಂದಾಗಿ ಆರಂಭಿಕ ಪಂದ್ಯಗಳಿಂದ ಹೊರಗುಳಿದಿದ್ದಾರೆ. ಈ ದೊಡ್ಡ ಹೊಡೆತವು CSK ಯ ಮಧ್ಯಮ ಕ್ರಮಾಂಕ ಮತ್ತು ಬೌಲಿಂಗ್ ಆಕ್ರಮಣವನ್ನು ದುರ್ಬಲಗೊಳಿಸುತ್ತದೆ. ರಾಜಸ್ಥಾನ ರಾಯಲ್ಸ್ ವಿರುದ್ಧ ಬಲಿಷ್ಠ ಆರಂಭವನ್ನು ಪಡೆಯಲು ತಂಡವು ಕಠಿಣ ಹೋರಾಟ ಎದುರಿಸುತ್ತಿದೆ."
+            },
+            "mr": {
+                "title": "ब्रेविस बाहेर: CSK च्या IPL 2026 मधील दुखापतींची समस्या वाढली",
+                "content": "IPL 2026 पूर्वी चेन्नई सुपर किंग्सला नवीन दुखापतींच्या संकटाचा सामना करावा लागत आहे! एमएस धोनी आणि नॅथन एलिस यांच्या अनुपस्थितीनंतर, स्टार फलंदाज डेवाल्ड ब्रेविस आता साइड स्ट्रेनमुळे सुरुवातीच्या सामन्यांमधून बाहेर पडला आहे. हा मोठा धक्का CSK च्या मधल्या फळीला आणि गोलंदाजीला कमकुवत करतो. राजस्थान रॉयल्सविरुद्ध दमदार सुरुवात करण्यासाठी संघाला मोठी लढाई लढावी लागेल."
+            },
+            "hi": {
+                "title": "ब्रेविस बाहर: CSK की IPL 2026 चोटों की समस्या और गहरी हुई",
+                "content": "IPL 2026 से पहले चेन्नई सुपर किंग्स को नई चोट की समस्या का सामना करना पड़ा है! एमएस धोनी और नाथन एलिस की अनुपस्थिति के बाद, स्टार बल्लेबाज डेवाल्ड ब्रेविस अब साइड स्ट्रेन के कारण शुरुआती मैचों से बाहर हो गए हैं। यह बड़ा झटका CSK के मध्यक्रम और गेंदबाजी आक्रमण को कमजोर करता है। टीम को राजस्थान रॉयल्स के खिलाफ मजबूत शुरुआत करने के लिए कड़ी चुनौती का सामना करना पड़ रहा है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129881149,imgsize-122272.cms",
+        "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/csk-in-trouble-after-ms-dhoni-injury-star-player-ruled-out-of-ipl-2026-start/articleshow/129881190.cms",
+        "date": "2026-03-29T18:49:56+05:30"
+    },
+    {
         "id": "10f2b2d7",
         "category": "National",
         "translations": {
@@ -1973,30 +1998,5 @@
         "image": "https://static.toiimg.com/photo/msid-129857208,imgsize-45758.cms",
         "link": "https://timesofindia.indiatimes.com/world/us/gates-adviser-served-as-conduit-to-epstein-discussed-hot-girls/articleshow/129857213.cms",
         "date": "2026-03-28T06:32:27+05:30"
-    },
-    {
-        "id": "fc3e2d1c",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "Mother Vanished in 2001 Found Alive, Reunites with Daughter",
-                "content": "A North Carolina mother, who vanished without a trace in 2001, has been found alive after 24 years, closing a long-running missing-person case. Her reappearance led to an emotional courthouse reunion with her daughter, sparking questions about her disappearance and the decades she spent away, revealing deep family tensions."
-            },
-            "kn": {
-                "title": "2001ರಲ್ಲಿ ನಾಪತ್ತೆಯಾದ ತಾಯಿ ಜೀವಂತ ಪತ್ತೆ, ಮಗಳೊಂದಿಗೆ ಭೇಟಿ",
-                "content": "2001ರಲ್ಲಿ ನಾಪತ್ತೆಯಾಗಿದ್ದ ಉತ್ತರ ಕೆರೊಲಿನಾದ ತಾಯಿಯೊಬ್ಬರು 24 ವರ್ಷಗಳ ನಂತರ ಜೀವಂತವಾಗಿ ಪತ್ತೆಯಾಗಿದ್ದಾರೆ, ಇದು ದೀರ್ಘಕಾಲದ ನಾಪತ್ತೆ ಪ್ರಕರಣಕ್ಕೆ ಅಂತ್ಯ ತಂದಿದೆ. ಅವಳ ಮರಳುವಿಕೆಯು ಮಗಳೊಂದಿಗೆ ಭಾವುಕ ಪುನರ್ಮಿಲನಕ್ಕೆ ಕಾರಣವಾಯಿತು, ಆದರೆ ಅವಳ ನಾಪತ್ತೆ ಮತ್ತು ದಶಕಗಳ ಕಾಲದ ನಿಗೂಢ ಸ್ಥಳದ ಬಗ್ಗೆ ಪ್ರಶ್ನೆಗಳನ್ನು ಹುಟ್ಟುಹಾಕಿದೆ, ಆಳವಾದ ಕುಟುಂಬದ ಬಿರುಕುಗಳನ್ನು ಬಹಿರಂಗಪಡಿಸಿದೆ."
-            },
-            "mr": {
-                "title": "2001 मध्ये बेपत्ता आई जिवंत सापडली, मुलीसोबत पुनर्भेट",
-                "content": "2001 मध्ये गूढपणे बेपत्ता झालेली उत्तर कॅरोलिनाची एक आई 24 वर्षांनंतर जिवंत सापडली आहे, ज्यामुळे दीर्घकाळ चाललेला हरवलेल्या व्यक्तीचा तपास संपला. तिच्या पुनरागमनामुळे मुलीसोबत भावनिक पुनर्भेट झाली, परंतु तिच्या बेपत्ता होण्यामागची कारणे आणि अनेक दशके ती कुठे होती याबद्दल कुटुंबातील तीव्र तणाव आणि अनुत्तरित प्रश्न समोर आले आहेत."
-            },
-            "hi": {
-                "title": "2001 में लापता माँ ज़िंदा मिली, बेटी से भावुक पुनर्मिलन",
-                "content": "2001 में रहस्यमय ढंग से लापता हुई उत्तरी कैरोलिना की एक माँ 24 साल बाद ज़िंदा मिली है, जिससे एक लंबे समय से चल रहा गुमशुदा व्यक्ति का मामला सुलझ गया। उसकी वापसी से बेटी के साथ एक भावुक पुनर्मिलन हुआ, लेकिन उसके लापता होने और दशकों तक कहाँ रही, इसको लेकर गहरे पारिवारिक तनाव और अनुत्तरित प्रश्न सामने आए हैं।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129856940,imgsize-1081266.cms",
-        "link": "https://timesofindia.indiatimes.com/etimes/trending/mum-who-vanished-without-trace-in-2001-found-alive-meets-daughter-in-emotional-courthouse-reunion/articleshow/129854308.cms",
-        "date": "2026-03-28T05:07:25+05:30"
     }
 ]
