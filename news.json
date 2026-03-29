@@ -1,5 +1,105 @@
 [
     {
+        "id": "f431974b",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "IPL: MI vs KKR Showdown Preview",
+                "content": "Get ready for today's IPL clash: MI vs KKR! Dive into crucial team predictions, their historical head-to-head record, and the latest pitch report for the high-stakes encounter. Plus, get real-time Mumbai weather updates that could impact the game. Don't miss out on everything you need to know before the action kicks off! Who will dominate the field?"
+            },
+            "kn": {
+                "title": "IPL: MI vs KKR ಮುಖಾಮುಖಿ ಪೂರ್ವವೀಕ್ಷಣೆ",
+                "content": "ಇಂದಿನ IPL ಕಾಳಗಕ್ಕೆ ಸಿದ್ಧರಾಗಿ: MI vs KKR! ಪ್ರಮುಖ ತಂಡದ ಭವಿಷ್ಯವಾಣಿಗಳು, ಅವರ ಐತಿಹಾಸಿಕ ಮುಖಾಮುಖಿ ದಾಖಲೆ ಮತ್ತು ಉನ್ನತ ಪಂದ್ಯಕ್ಕಾಗಿ ಇತ್ತೀಚಿನ ಪಿಚ್ ವರದಿಗಳನ್ನು ತಿಳಿಯಿರಿ. ಅಲ್ಲದೆ, ಪಂದ್ಯದ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರಬಹುದಾದ ಮುಂಬೈ ಹವಾಮಾನದ ನೈಜ-ಸಮಯದ ನವೀಕರಣಗಳನ್ನು ಪಡೆಯಿರಿ. ಆಕ್ಷನ್ ಪ್ರಾರಂಭವಾಗುವ ಮೊದಲು ನೀವು ತಿಳಿದುಕೊಳ್ಳಬೇಕಾದ ಎಲ್ಲವನ್ನೂ ತಪ್ಪದೇ ನೋಡಿ! ಯಾರು ಆಟವನ್ನು ನಿಯಂತ್ರಿಸುತ್ತಾರೆ?"
+            },
+            "mr": {
+                "title": "IPL: MI विरुद्ध KKR सामन्याची पूर्वतयारी",
+                "content": "आजच्या IPL रणसंग्रामासाठी सज्ज व्हा: MI विरुद्ध KKR! महत्त्वपूर्ण संघाचे अंदाज, त्यांचा ऐतिहासिक समोरासमोरचा विक्रम आणि उच्च-धोक्याच्या सामन्यासाठी नवीनतम खेळपट्टीचा अहवाल जाणून घ्या. याव्यतिरिक्त, खेळावर परिणाम करू शकणाऱ्या मुंबईच्या हवामानाचे रिअल-टाइम अपडेट्स मिळवा. ॲक्शन सुरू होण्यापूर्वी तुम्हाला जे काही जाणून घ्यायचे आहे, ते सर्व चुकवू नका! मैदानात कोण वर्चस्व गाजवेल?"
+            },
+            "hi": {
+                "title": "IPL: MI बनाम KKR महामुकाबले का पूर्वावलोकन",
+                "content": "आज के IPL मुकाबले के लिए तैयार हो जाइए: MI बनाम KKR! महत्वपूर्ण टीम भविष्यवाणियाँ, उनके ऐतिहासिक आमने-सामने के रिकॉर्ड और इस बड़े मैच के लिए नवीनतम पिच रिपोर्ट में गहराई से उतरें। साथ ही, मुंबई के मौसम के वास्तविक समय के अपडेट प्राप्त करें जो खेल को प्रभावित कर सकते हैं। एक्शन शुरू होने से पहले आपको जो कुछ भी जानना है, उसे देखने से न चूकें! मैदान पर कौन राज करेगा?"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxORGUtNXp2d20zTkhlamdVRU9tVDlFVTVSWHVXMGNlSjBsTHh3ZlFuQ0dJZVU5MFMzVWRXeHlOUTRCdU9uRnVhdm1UODU2aWQ0emtiMWFqbWxHeXFCRWZ1TVU5blBhaE1iWlhybDNXNHZCNWZJMGpUbFBUME1pSFRNcHlIRkdIRklxTjdFNFpyVEhFZ0tTbDZEZzFNNnJrNmNhRkdRUExER2VSc24yVkRwOEd6b0QzaGd0SkNVbWVzX3dMcnFrdV9KZktYQ1RUVWFaSnZOMmNEMXBtM1QtSVozVG9TQXh3X21tb1k1dWJyU0lpekJIWFBRQUducnBfRjA5OVZMZGdOQlJnSTlDNGQ00gGUAkFVX3lxTFBGTFZXWURkZ1VENG1wOTdtNFdfRDNqb25YQzRBSTF2Tk1ZdEdyWnNieXFONnotRWhmdi1sdXZkbHVrRXJKbVFvR3pKZ2hQUG01NXBZaEdfZ2lTTzNLVlZXTVNXX3M1eG5keVpkQm9sVHpLcjhVQnlPQ0JvMDBIOTBtRXNOS0F4QmlybkhFeS1pVld0YVUwR2hCbjNlVHlZNnZ1WnZHdFFqQ0huTF92aHBiZFdNQTZpZ2dieW1JWEVoOGxMNGFxSWtyeXhzN2U5N3pYS2pxVS1EeEZQN21IcEFzb2dRZGJnNmtWSk5Rek1ybURiZ0xFR1pZRUp2Tmp4NWFXMjRyMnRvMW53NmhyOW01enlkQQ?oc=5",
+        "date": "Sun, 29 Mar 2026 02:50:00 GMT"
+    },
+    {
+        "id": "0a13f5f8",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "West Bengal Extends Covid Curbs Till July 1",
+                "content": "West Bengal extended its Covid-19 restrictions until July 1, Chief Minister Mamata Banerjee announced. Essential services will operate with strict protocols. The decision follows the state reporting 3,984 new cases and 84 fatalities on Sunday, pushing its total caseload past 14.61 lakh and the death toll to nearly 17,000, amid efforts to contain the pandemic."
+            },
+            "kn": {
+                "title": "ಪಶ್ಚಿಮ ಬಂಗಾಳದಲ್ಲಿ ಜುಲೈ 1 ರವರೆಗೆ ಕೋವಿಡ್ ನಿರ್ಬಂಧಗಳ ವಿಸ್ತರಣೆ",
+                "content": "ಪಶ್ಚಿಮ ಬಂಗಾಳವು ಕೋವಿಡ್-19 ನಿರ್ಬಂಧಗಳನ್ನು ಜುಲೈ 1 ರವರೆಗೆ ವಿಸ್ತರಿಸಿದೆ ಎಂದು ಮುಖ್ಯಮಂತ್ರಿ ಮಮತಾ ಬ್ಯಾನರ್ಜಿ ಘೋಷಿಸಿದರು. ಅಗತ್ಯ ಸೇವೆಗಳು ಕಟ್ಟುನಿಟ್ಟಾದ ಪ್ರೋಟೋಕಾಲ್‌ಗಳೊಂದಿಗೆ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತವೆ. ಭಾನುವಾರ ರಾಜ್ಯದಲ್ಲಿ 3,984 ಹೊಸ ಪ್ರಕರಣಗಳು ಮತ್ತು 84 ಸಾವುಗಳು ವರದಿಯಾದ ನಂತರ, ಒಟ್ಟು ಪ್ರಕರಣಗಳ ಸಂಖ್ಯೆ 14.61 ಲಕ್ಷ ದಾಟಿ, ಸಾವಿನ ಸಂಖ್ಯೆ ಸುಮಾರು 17,000 ಕ್ಕೆ ಏರಿದ ಹಿನ್ನೆಲೆಯಲ್ಲಿ ಈ ನಿರ್ಧಾರ ಕೈಗೊಳ್ಳಲಾಗಿದೆ."
+            },
+            "mr": {
+                "title": "पश्चिम बंगालमध्ये १ जुलैपर्यंत कोविड निर्बंधांना मुदतवाढ",
+                "content": "पश्चिम बंगालने १ जुलैपर्यंत कोविड-१९ निर्बंधांना मुदतवाढ दिली आहे, अशी घोषणा मुख्यमंत्री ममता बॅनर्जी यांनी केली. अत्यावश्यक सेवा कठोर नियमांनुसार सुरू राहतील. राज्यात रविवारी ३,९८४ नवीन प्रकरणे आणि ८४ मृत्यूंची नोंद झाल्यानंतर हा निर्णय घेण्यात आला, ज्यामुळे एकूण रुग्णसंख्या १४.६१ लाखांहून अधिक आणि मृतांची संख्या १७,००० च्या जवळ पोहोचली आहे."
+            },
+            "hi": {
+                "title": "पश्चिम बंगाल में 1 जुलाई तक कोविड प्रतिबंधों का विस्तार",
+                "content": "पश्चिम बंगाल ने कोविड-19 प्रतिबंधों को 1 जुलाई तक बढ़ा दिया है, मुख्यमंत्री ममता बनर्जी ने घोषणा की। आवश्यक सेवाएं सख्त प्रोटोकॉल के साथ संचालित होंगी। राज्य में रविवार को 3,984 नए मामले और 84 मौतें दर्ज होने के बाद यह निर्णय लिया गया, जिससे कुल मामले 14.61 लाख से अधिक और मृतकों की संख्या लगभग 17,000 हो गई है, जो महामारी को रोकने के प्रयासों के बीच है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-83509908,imgsize-180916.cms",
+        "link": "https://timesofindia.indiatimes.com/india/bengal-extends-covid-19-curbs-till-july-1-all-you-need-to-know/articleshow/83509766.cms",
+        "date": "2021-06-14T16:56:18+05:30"
+    },
+    {
+        "id": "3b573dec",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Oman Acquires SalamAir to Boost Aviation",
+                "content": "Oman's government has acquired budget carrier SalamAir, aiming to boost aviation efficiency and economic growth. Both SalamAir and state-owned Oman Air will operate as independent brands, focusing on coordinated routes and optimized aircraft use. This strategic move seeks to enhance connectivity and financial stability across the sultanate's air travel sector."
+            },
+            "kn": {
+                "title": "ಒಮಾನ್ ವಾಯುಯಾನ ಉತ್ತೇಜಿಸಲು ಸಲಾಮ್‌ಏರ್ ಅನ್ನು ಸ್ವಾಧೀನಪಡಿಸಿಕೊಂಡಿದೆ",
+                "content": "ಒಮಾನ್ ಸರ್ಕಾರವು ಬಜೆಟ್ ವಾಹಕ ಸಲಾಮ್‌ಏರ್ ಅನ್ನು ಸ್ವಾಧೀನಪಡಿಸಿಕೊಂಡಿದೆ, ಇದು ವಾಯುಯಾನ ದಕ್ಷತೆ ಮತ್ತು ಆರ್ಥಿಕ ಬೆಳವಣಿಗೆಯನ್ನು ಹೆಚ್ಚಿಸುವ ಗುರಿಯನ್ನು ಹೊಂದಿದೆ. ಸಲಾಮ್‌ಏರ್ ಮತ್ತು ಸರ್ಕಾರಿ ಸ್ವಾಮ್ಯದ ಒಮಾನ್ ಏರ್ ಎರಡೂ ಸ್ವತಂತ್ರ ಬ್ರ್ಯಾಂಡ್‌ಗಳಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತವೆ, ಸಂಘಟಿತ ಮಾರ್ಗಗಳು ಮತ್ತು ಆಪ್ಟಿಮೈಸ್ಡ್ ವಿಮಾನ ಬಳಕೆಯ ಮೇಲೆ ಕೇಂದ್ರೀಕರಿಸುತ್ತವೆ. ಈ ಕಾರ್ಯತಂತ್ರದ ನಡೆ ಸುಲ್ತಾನೇಟ್‌ನ ವಾಯುಯಾನ ವಲಯದಲ್ಲಿ ಸಂಪರ್ಕ ಮತ್ತು ಆರ್ಥಿಕ ಸ್ಥಿರತೆಯನ್ನು ಹೆಚ್ಚಿಸಲು ಪ್ರಯತ್ನಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "ओमानने विमान वाहतूक वाढवण्यासाठी सलामएअर विकत घेतले",
+                "content": "ओमान सरकारने बजेट वाहक सलामएअरचे अधिग्रहण केले आहे, ज्याचा उद्देश विमान वाहतूक कार्यक्षमता आणि आर्थिक वाढीला चालना देणे आहे. सलामएअर आणि सरकारी मालकीची ओमान एअर दोन्ही स्वतंत्र ब्रँड म्हणून काम करतील, ज्यामध्ये समन्वित मार्ग आणि विमानांचा इष्टतम वापर यावर लक्ष केंद्रित केले जाईल. या धोरणात्मक पावलामुळे सल्तनतमधील हवाई प्रवास क्षेत्रात कनेक्टिव्हिटी आणि आर्थिक स्थिरता वाढवण्याचा प्रयत्न केला आहे."
+            },
+            "hi": {
+                "title": "ओमान ने विमानन को बढ़ावा देने के लिए सलामएयर का अधिग्रहण किया",
+                "content": "ओमान सरकार ने विमानन दक्षता और आर्थिक विकास को बढ़ावा देने के उद्देश्य से बजट वाहक सलामएयर का अधिग्रहण कर लिया है। सलामएयर और सरकारी स्वामित्व वाली ओमान एयर दोनों स्वतंत्र ब्रांड के रूप में काम करेंगे, जिसमें समन्वित मार्गों और अनुकूलित विमान उपयोग पर ध्यान केंद्रित किया जाएगा। इस रणनीतिक कदम का उद्देश्य सल्तनत के हवाई यात्रा क्षेत्र में कनेक्टिविटी और वित्तीय स्थिरता को बढ़ाना है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129877486,imgsize-553999.cms",
+        "link": "https://timesofindia.indiatimes.com/world/middle-east/oman-government-takes-over-salamair-airlines-to-operate-separately/articleshow/129876838.cms",
+        "date": "2026-03-29T13:31:26+05:30"
+    },
+    {
+        "id": "e3250796",
+        "category": "Sports",
+        "translations": {
+            "en": {
+                "title": "Kohli's Enduring Intensity Stuns Ashwin",
+                "content": "Ravichandran Ashwin lauded Virat Kohli's \"bizarre\" energy and relentless intensity, especially at his age. After stepping away from Tests and T20Is, Kohli continues to \"walk the talk,\" exemplified by his unbeaten 69 in the IPL 2026 opener against SRH. Ashwin noted Kohli's enduring hunger and intensity between the wickets, setting a high benchmark for the game."
+            },
+            "kn": {
+                "title": "ಕೊಹ್ಲಿಯ ನಿರಂತರ ತೀವ್ರತೆ ಅಶ್ವಿನ್‌ರನ್ನು ಬೆರಗುಗೊಳಿಸಿತು",
+                "content": "ರವಿಚಂದ್ರನ್ ಅಶ್ವಿನ್ ವಿರಾಟ್ ಕೊಹ್ಲಿಯ \"ಅಸಹಜ\" ಶಕ್ತಿ ಮತ್ತು ನಿರಂತರ ತೀವ್ರತೆಯನ್ನು ಶ್ಲಾಘಿಸಿದರು, ವಿಶೇಷವಾಗಿ ಅವರ ಈ ವಯಸ್ಸಿನಲ್ಲಿ. ಟೆಸ್ಟ್ ಮತ್ತು ಟಿ20ಐಗಳಿಂದ ದೂರವಿದ್ದರೂ, ಕೊಹ್ಲಿ \"ನುಡಿದಂತೆ ನಡೆಯುತ್ತಿದ್ದಾರೆ\", ಇದು ಐಪಿಎಲ್ 2026ರ ಉದ್ಘಾಟನಾ ಪಂದ್ಯದಲ್ಲಿ ಎಸ್‌ಆರ್‌ಎಚ್ ವಿರುದ್ಧ ಅವರ ಅಜೇಯ 69 ರನ್ ಮೂಲಕ ಸಾಬೀತಾಗಿದೆ. ವಿಕೆಟ್‌ಗಳ ನಡುವೆ ಕೊಹ್ಲಿಯ ಶಾಶ್ವತ ಹಸಿವು ಮತ್ತು ತೀವ್ರತೆ ಆಟಕ್ಕೆ ಉನ್ನತ ಮಾನದಂಡವನ್ನು ಸ್ಥಾಪಿಸಿದೆ ಎಂದು ಅಶ್ವಿನ್ ತಿಳಿಸಿದ್ದಾರೆ."
+            },
+            "mr": {
+                "title": "कोहलीची अविचल तीव्रता अश्विनला थक्क करते",
+                "content": "रविचंद्रन अश्विनने विराट कोहलीच्या \"अजब\" ऊर्जा आणि अथक तीव्रतेचे कौतुक केले, विशेषतः त्याच्या या वयात. कसोटी आणि टी-२० आंतरराष्ट्रीय सामन्यांमधून बाहेर पडल्यानंतरही, कोहली \"जे बोलतो ते करून दाखवतो\", जे आयपीएल २०२६ च्या पहिल्या सामन्यात एसआरएचविरुद्धच्या त्याच्या नाबाद ६९ धावांनी सिद्ध झाले. अश्विनने नमूद केले की, कोहलीची सततची भूक आणि विकेट्समधील तीव्रता खेळासाठी एक उच्च मापदंड ठरवते."
+            },
+            "hi": {
+                "title": "कोहली की अथक तीव्रता से हैरान अश्विन",
+                "content": "रविचंद्रन अश्विन ने विराट कोहली की \"अजीब\" ऊर्जा और अथक तीव्रता की सराहना की, खासकर उनकी इस उम्र में. टेस्ट और टी20 अंतरराष्ट्रीय से बाहर होने के बाद भी, कोहली \"कथनी और करनी को एक कर रहे हैं\", जिसका उदाहरण आईपीएल 2026 के उद्घाटन मैच में एसआरएच के खिलाफ उनके नाबाद 69 रन हैं. अश्विन ने कहा कि कोहली की विकेटों के बीच की निरंतर भूख और तीव्रता खेल के लिए एक उच्च बेंचमार्क स्थापित करती है."
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129878025,imgsize-150492.cms",
+        "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/bizarre-at-this-age-r-ashwin-in-awe-of-virat-kohlis-relentless-intensity/articleshow/129878016.cms",
+        "date": "2026-03-29T14:25:57+05:30"
+    },
+    {
         "id": "8a1ae472",
         "category": "National",
         "translations": {
@@ -1898,105 +1998,5 @@
         "image": "https://static.toiimg.com/photo/msid-129854231,imgsize-118596.cms",
         "link": "https://timesofindia.indiatimes.com/world/us/h-1b-lottery-results-fy-2027-out-usciss-first-wage-based-selections-done-whats-next/articleshow/129854221.cms",
         "date": "2026-03-28T01:47:20+05:30"
-    },
-    {
-        "id": "808d8a9e",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "Florida Streamer Jailed for Inciting Airbnb Brawl",
-                "content": "Florida streamer Braden Eric Peters, known as Clavicular, has been jailed for allegedly instigating a fight between two women at an Airbnb. Police claim Peters provoked the altercation for social media views, facing misdemeanor battery and criminal conspiracy charges. His alleged girlfriend, Violet Marie Lentz, also faces battery charges and remains at large."
-            },
-            "kn": {
-                "title": "ಫ್ಲೋರಿಡಾ ಸ್ಟ್ರೀಮರ್ Airbnb ಕಲಹಕ್ಕೆ ಪ್ರಚೋದನೆ ನೀಡಿದ ಆರೋಪದಲ್ಲಿ ಬಂಧನ",
-                "content": "ಫ್ಲೋರಿಡಾ ಸ್ಟ್ರೀಮರ್ ಬ್ರಾಡೆನ್ ಎರಿಕ್ ಪೀಟರ್ಸ್, ಕ್ಲಾವಿಕ್ಯುಲರ್ ಎಂದು ಗುರುತಿಸಲ್ಪಟ್ಟಿದ್ದು, Airbnb ನಲ್ಲಿ ಇಬ್ಬರು ಮಹಿಳೆಯರ ನಡುವೆ ಜಗಳ ಪ್ರಚೋದಿಸಿದ ಆರೋಪದ ಮೇಲೆ ಬಂಧಿಸಲಾಗಿದೆ. ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮ ವೀಕ್ಷಣೆಗಾಗಿ ಪೀಟರ್ಸ್ ಈ ಕಲಹವನ್ನು ಪ್ರಚೋದಿಸಿದ್ದಾರೆ ಎಂದು ಪೊಲೀಸರು ಹೇಳಿದ್ದು, ಸಣ್ಣಪುಟ್ಟ ಹಲ್ಲೆ ಮತ್ತು ಕ್ರಿಮಿನಲ್ ಪಿತೂರಿ ಆರೋಪಗಳನ್ನು ಎದುರಿಸುತ್ತಿದ್ದಾರೆ. ಅವರ ಗೆಳತಿ ವಯಲೆಟ್ ಮೇರಿ ಲೆಂಟ್ಜ್ ಕೂಡ ಹಲ್ಲೆ ಆರೋಪಗಳನ್ನು ಎದುರಿಸುತ್ತಿದ್ದು, ಪ್ರಸ್ತುತ ತಲೆಮರೆಸಿಕೊಂಡಿದ್ದಾಳೆ."
-            },
-            "mr": {
-                "title": "फ्लोरिडा स्ट्रीमरला Airbnb मध्ये मारामारी भडकावल्याबद्दल अटक",
-                "content": "फ्लोरिडा येथील स्ट्रीमर ब्रॅडन एरिक पीटर्स, जो 'क्लाव्हिक्युलर' नावाने ओळखला जातो, त्याला Airbnb मध्ये दोन महिलांमध्ये भांडण भडकवल्याच्या आरोपाखाली अटक करण्यात आली आहे. पोलिसांनी दावा केला आहे की पीटर्सने सोशल मीडिया व्ह्यूजसाठी हे भांडण भडकवले, त्यामुळे त्याला गैरवर्तन आणि गुन्हेगारी कट रचल्याच्या आरोपांचा सामना करावा लागत आहे. त्याची कथित मैत्रीण, वायलेट मेरी लेंत्झ हिलाही मारहाणीच्या आरोपांचा सामना करावा लागत असून ती अद्याप फरार आहे."
-            },
-            "hi": {
-                "title": "फ्लोरिडा के स्ट्रीमर को Airbnb में झगड़ा भड़काने के आरोप में जेल",
-                "content": "फ्लोरिडा के स्ट्रीमर ब्रैडेन एरिक पीटर्स, जिसे 'क्लैविकुलर' के नाम से जाना जाता है, को Airbnb में दो महिलाओं के बीच झगड़ा भड़काने के आरोप में जेल हुई है। पुलिस का दावा है कि पीटर्स ने सोशल मीडिया व्यूज़ के लिए यह झगड़ा भड़काया, जिसके चलते उस पर दुर्व्यवहार और आपराधिक साजिश के आरोप लगे हैं। उसकी कथित प्रेमिका, वायलेट मैरी लेंत्ज़ पर भी मारपीट के आरोप हैं और वह अभी भी फरार है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129854451,imgsize-718802.cms",
-        "link": "https://timesofindia.indiatimes.com/world/us-streamers/clavicular-arrest-update-florida-streamer-allegedly-instigated-fight-between-women-on-stream/articleshow/129854454.cms",
-        "date": "2026-03-28T03:05:06+05:30"
-    },
-    {
-        "id": "40916ae1",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "Switzerland's Bauprofile: Poles Pre-Visualize New Buildings",
-                "content": "Switzerland uses \"Bauprofile\"—tall poles and lines—to outline future buildings weeks before construction. This unique practice lets residents visualize and challenge new developments, ensuring transparency and public involvement in urban planning. It helps bridge the gap between abstract plans and tangible reality, allowing informed objections at full scale."
-            },
-            "kn": {
-                "title": "ಸ್ವಿಟ್ಜರ್ಲೆಂಡ್‌ನ ಬಾಪ್ರೊಫೈಲ್: ಕಂಬಗಳು ಹೊಸ ಕಟ್ಟಡಗಳನ್ನು ಪೂರ್ವ-ದೃಶ್ಯೀಕರಿಸುತ್ತವೆ",
-                "content": "ಸ್ವಿಟ್ಜರ್ಲೆಂಡ್ ನಿರ್ಮಾಣಕ್ಕೆ ವಾರಗಳ ಮೊದಲು ಭವಿಷ್ಯದ ಕಟ್ಟಡಗಳನ್ನು ರೂಪಿಸಲು \"ಬಾಪ್ರೊಫೈಲ್\" – ಎತ್ತರದ ಕಂಬಗಳು ಮತ್ತು ರೇಖೆಗಳನ್ನು – ಬಳಸುತ್ತದೆ. ಈ ವಿಶಿಷ್ಟ ಅಭ್ಯಾಸವು ನಿವಾಸಿಗಳಿಗೆ ಹೊಸ ಯೋಜನೆಗಳನ್ನು ದೃಶ್ಯೀಕರಿಸಲು ಮತ್ತು ಪ್ರಶ್ನಿಸಲು ಅವಕಾಶ ನೀಡುತ್ತದೆ, ನಗರ ಯೋಜನೆಗಳಲ್ಲಿ ಪಾರದರ್ಶಕತೆ ಮತ್ತು ಸಾರ್ವಜನಿಕ ಭಾಗವಹಿಸುವಿಕೆಯನ್ನು ಖಾತ್ರಿಪಡಿಸುತ್ತದೆ. ಇದು ಅಮೂರ್ತ ಯೋಜನೆಗಳು ಮತ್ತು ಸ್ಪಷ್ಟ ವಾಸ್ತವತೆಯ ನಡುವಿನ ಅಂತರವನ್ನು ಕಡಿಮೆ ಮಾಡಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ, ಸಂಪೂರ್ಣ ಪ್ರಮಾಣದಲ್ಲಿ ಮಾಹಿತಿ ಆಧಾರಿತ ಆಕ್ಷೇಪಣೆಗಳಿಗೆ ಅವಕಾಶ ನೀಡುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "स्वित्झर्लंडचे बाऊप्रोफाईल: खांब नवीन इमारतींचे पूर्व-दर्शन घडवतात",
-                "content": "स्वित्झर्लंड बांधकामाच्या आठवडे आधी भविष्यातील इमारतींची रूपरेषा आखण्यासाठी \"बाऊप्रोफाईल\" – उंच खांब आणि रेषा – वापरते. ही अनोखी पद्धत रहिवाशांना नवीन विकास कल्पनांचे दृश्यांकन करण्यास आणि त्यांना आव्हान देण्यास मदत करते, ज्यामुळे शहरी नियोजनात पारदर्शकता आणि सार्वजनिक सहभाग सुनिश्चित होतो. यामुळे अमूर्त योजना आणि मूर्त वास्तव यातील अंतर कमी होते, ज्यामुळे पूर्ण प्रमाणात माहितीपूर्ण आक्षेप घेणे शक्य होते."
-            },
-            "hi": {
-                "title": "स्विट्जरलैंड का बाऊप्रोफाइल: खंभे नई इमारतों का पूर्व-दर्शन कराते हैं",
-                "content": "स्विट्जरलैंड निर्माण से हफ्तों पहले भविष्य की इमारतों की रूपरेखा बनाने के लिए \"बाऊप्रोफाइल\" – ऊंचे खंभे और रेखाएं – का उपयोग करता है। यह अनूठी प्रथा निवासियों को नए विकास को देखने और चुनौती देने की अनुमति देती है, जिससे शहरी नियोजन में पारदर्शिता और सार्वजनिक भागीदारी सुनिश्चित होती है। यह अमूर्त योजनाओं और ठोस वास्तविकता के बीच की खाई को पाटने में मदद करती है, जिससे पूर्ण पैमाने पर सूचित आपत्तियां संभव हो पाती हैं।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129856433,imgsize-1139301.cms",
-        "link": "https://timesofindia.indiatimes.com/world/europe/invisible-buildings-why-switzerland-marks-out-homes-with-tall-poles-weeks-before-construction/articleshow/129856371.cms",
-        "date": "2026-03-28T04:04:26+05:30"
-    },
-    {
-        "id": "32c4d241",
-        "category": "Entertainment",
-        "translations": {
-            "en": {
-                "title": "Alia Bhatt Gets Parenting Wisdom from Sadhguru",
-                "content": "Alia Bhatt recently met Sadhguru in Chennai, seeking parenting advice for her daughter Raha Kapoor. At a JITO event, Sadhguru advised her, \"A worried parent is not a good parent,\" emphasizing a calmer approach. Alia, who welcomed Raha in November 2022 with Ranbir Kapoor, engaged in a warm chat and prayer with the spiritual leader."
-            },
-            "kn": {
-                "title": "ಆಲಿಯಾ ಭಟ್ ಸದ್ಗುರುಗಳಿಂದ ಪೋಷಣೆಯ ಜ್ಞಾನ ಪಡೆದರು",
-                "content": "ಆಲಿಯಾ ಭಟ್ ಇತ್ತೀಚೆಗೆ ಚೆನ್ನೈನಲ್ಲಿ ಸದ್ಗುರು ಅವರನ್ನು ಭೇಟಿಯಾಗಿ, ತಮ್ಮ ಮಗಳು ರಾಹಾ ಕಪೂರ್‌ಗಾಗಿ ಪೋಷಣೆಯ ಸಲಹೆ ಕೇಳಿದರು. ಜಿಐಟಿಓ ಕಾರ್ಯಕ್ರಮದಲ್ಲಿ, ಸದ್ಗುರು ಅವರು \"ಚಿಂತಿತ ಪೋಷಕ ಉತ್ತಮ ಪೋಷಕನಲ್ಲ\" ಎಂದು ಸಲಹೆ ನೀಡಿದರು, ಶಾಂತವಾದ ಮಾರ್ಗವನ್ನು ಒತ್ತಿ ಹೇಳಿದರು. ನವೆಂಬರ್ 2022 ರಲ್ಲಿ ರಣಬೀರ್ ಕಪೂರ್ ಜೊತೆ ರಾಹಾರನ್ನು ಸ್ವಾಗತಿಸಿದ ಆಲಿಯಾ, ಆಧ್ಯಾತ್ಮಿಕ ನಾಯಕರೊಂದಿಗೆ ಆತ್ಮೀಯ ಸಂಭಾಷಣೆ ಮತ್ತು ಪ್ರಾರ್ಥನೆಯಲ್ಲಿ ತೊಡಗಿದರು."
-            },
-            "mr": {
-                "title": "आलिया भट्टला सद्गुरूकडून पालकत्वाचे ज्ञान मिळाले",
-                "content": "आलिया भट्टने नुकतीच चेन्नईमध्ये सद्गुरूंना भेटून त्यांची मुलगी राहा कपूरसाठी पालकत्वाचा सल्ला घेतला. जिओटीओ कार्यक्रमात, सद्गुरूंनी तिला \"चिंताग्रस्त पालक चांगला पालक नसतो\" असा सल्ला दिला, शांत दृष्टिकोन ठेवण्यावर भर दिला. नोव्हेंबर २०२२ मध्ये रणबीर कपूरसोबत राहाला जन्म देणाऱ्या आलियाने आध्यात्मिक नेत्यांसोबत आपुलकीने संवाद साधला आणि प्रार्थना केली."
-            },
-            "hi": {
-                "title": "आलिया भट्ट को सद्गुरु से मिला पेरेंटिंग का ज्ञान",
-                "content": "आलिया भट्ट ने हाल ही में चेन्नई में सद्गुरु से अपनी बेटी राहा कपूर के लिए पेरेंटिंग सलाह ली। एक JITO कार्यक्रम में, सद्गुरु ने उन्हें सलाह दी, \"एक चिंतित माता-पिता अच्छे माता-पिता नहीं होते,\" एक शांत दृष्टिकोण पर जोर दिया। आलिया, जिन्होंने नवंबर 2022 में रणबीर कपूर के साथ राहा का स्वागत किया था, ने आध्यात्मिक गुरु के साथ गर्मजोशी से बातचीत और प्रार्थना की।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129859815,imgsize-24756.cms",
-        "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/alia-bhatt-seeks-sadhguru-parenting-advice-for-raha-kapoor-a-worried-parent-is-not-a-good-parent/articleshow/129859815.cms",
-        "date": "2026-03-28T11:33:58+05:30"
-    },
-    {
-        "id": "b5be6639",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Flower Backs Kohli After Layoff",
-                "content": "Former England coach Andy Flower has voiced strong support for Indian batting maestro Virat Kohli, emphasizing his continued class despite an extended break from cricket. Flower believes Kohli's skill and experience remain undiminished, suggesting that the layoff will not hinder his performance upon return. This backing comes as Kohli prepares to rejoin the team after personal commitments."
-            },
-            "kn": {
-                "title": "ಫ್ಲವರ್ ಕೊಹ್ಲಿಗೆ ಬೆಂಬಲ, ವಿಶ್ರಾಂತಿಯ ನಂತರವೂ",
-                "content": "ಇಂಗ್ಲೆಂಡ್‌ನ ಮಾಜಿ ಕೋಚ್ ಆಂಡಿ ಫ್ಲವರ್, ಭಾರತದ ಬ್ಯಾಟಿಂಗ್ ಮಾಂತ್ರಿಕ ವಿರಾಟ್ ಕೊಹ್ಲಿಗೆ ದೀರ್ಘ ವಿಶ್ರಾಂತಿಯ ನಂತರವೂ ತಮ್ಮ ಬಲವಾದ ಬೆಂಬಲವನ್ನು ವ್ಯಕ್ತಪಡಿಸಿದ್ದಾರೆ. ಕೊಹ್ಲಿಯ ಸಾಮರ್ಥ್ಯ ಮತ್ತು ಅನುಭವ ಕಡಿಮೆಯಾಗಿಲ್ಲ ಎಂದು ಫ್ಲವರ್ ಒತ್ತಿಹೇಳಿದ್ದಾರೆ, ವಿರಾಮ ಅವರ ಪ್ರದರ್ಶನಕ್ಕೆ ಅಡ್ಡಿಯಾಗುವುದಿಲ್ಲ ಎಂದು ಸೂಚಿಸಿದ್ದಾರೆ. ವೈಯಕ್ತಿಕ ಕಾರಣಗಳಿಗಾಗಿ ವಿಶ್ರಾಂತಿ ಪಡೆದ ನಂತರ ಕೊಹ್ಲಿ ತಂಡಕ್ಕೆ ಮರಳಲು ಸಿದ್ಧರಾಗಿರುವಾಗ ಈ ಬೆಂಬಲ ಸಿಕ್ಕಿದೆ."
-            },
-            "mr": {
-                "title": "फ्लॉवरने विश्रांतीनंतर कोहलीला पाठिंबा दिला",
-                "content": "इंग्लंडचे माजी प्रशिक्षक अँडी फ्लॉवर यांनी भारतीय फलंदाजीचा मास्टर विराट कोहलीला दीर्घ विश्रांतीनंतरही आपला भक्कम पाठिंबा दर्शवला आहे. कोहलीची गुणवत्ता आणि अनुभव अजूनही कमी झालेला नाही, असे फ्लॉवरने म्हटले आहे, ब्रेक त्याच्या कामगिरीत अडथळा आणणार नाही असे सूचित केले आहे. वैयक्तिक कारणांमुळे विश्रांती घेतल्यानंतर कोहली संघात परत येण्याची तयारी करत असताना हा पाठिंबा मिळाला आहे."
-            },
-            "hi": {
-                "title": "फ्लॉवर ने ब्रेक के बाद कोहली का किया समर्थन",
-                "content": "इंग्लैंड के पूर्व कोच एंडी फ्लॉवर ने भारतीय बल्लेबाजी के जादूगर विराट कोहली को लंबे ब्रेक के बाद भी अपना मजबूत समर्थन दिया है। फ्लॉवर ने जोर देकर कहा कि कोहली की क्लास और अनुभव अभी भी बरकरार है, यह सुझाव देते हुए कि यह ब्रेक उनके प्रदर्शन में बाधा नहीं डालेगा। यह समर्थन तब आया है जब कोहली व्यक्तिगत प्रतिबद्धताओं के बाद टीम में फिर से शामिल होने की तैयारी कर रहे हैं।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOV2EzU1l3bjR2a0dKMVJEa2N3TVk0Z21mMXBDbkIwMUs2bXBjb0dQZjRjTnVKVnNCMXprcDNxdHJBS1otOWRyZHN5TVlVSHhYYVpLS3F4WjR0Q0xWUmE1RzJhXzVFS1RxWF9KdnRuTE15NjFmUllHN21BSzFWcW02RVh5QlI2UHV1ZFJjUDQxN25WT1lPNWw4MDlqbUdzQ25laFozaTB6eHhXbWNqMzZ2eDhnVGlnRHpxZXl3Yko1TUdfVnB0SGRFd0dkWFpROXdKQW1PSmlzQQ?oc=5",
-        "date": "Fri, 27 Mar 2026 18:03:37 GMT"
     }
 ]
