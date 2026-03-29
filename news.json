@@ -1,5 +1,30 @@
 [
     {
+        "id": "8a1ae472",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "One Covid Vaccine Dose Potent for Recovered Patients",
+                "content": "A study by AIG Hospitals suggests that individuals previously infected with Covid-19 may only require a single vaccine dose. They exhibited a significantly stronger antibody response compared to those without prior infection, indicating robust immunity from a single jab. This finding could optimize vaccine distribution and policy for recovered patients."
+            },
+            "kn": {
+                "title": "ಕೋವಿಡ್‌ನಿಂದ ಚೇತರಿಸಿಕೊಂಡವರಿಗೆ ಒಂದೇ ಲಸಿಕೆ ಡೋಸ್ ಸಾಕು: ಅಧ್ಯಯನ",
+                "content": "ಎಐಜಿ ಆಸ್ಪತ್ರೆಗಳ ಅಧ್ಯಯನದ ಪ್ರಕಾರ, ಕೋವಿಡ್-19 ನಿಂದ ಹಿಂದೆ ಸೋಂಕಿತರಾದ ವ್ಯಕ್ತಿಗಳಿಗೆ ಒಂದೇ ಲಸಿಕೆ ಡೋಸ್ ಸಾಕು. ಪೂರ್ವ ಸೋಂಕಿಲ್ಲದವರಿಗಿಂತ ಇವರು ಗಮನಾರ್ಹವಾಗಿ ಬಲವಾದ ಪ್ರತಿಕಾಯ ಪ್ರತಿಕ್ರಿಯೆಯನ್ನು ತೋರಿಸಿದ್ದಾರೆ, ಇದು ಒಂದೇ ಡೋಸ್‌ನಿಂದ ದೃಢವಾದ ರೋಗನಿರೋಧಕ ಶಕ್ತಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಈ ಸಂಶೋಧನೆಯು ಚೇತರಿಸಿಕೊಂಡ ರೋಗಿಗಳಿಗೆ ಲಸಿಕೆ ವಿತರಣೆ ಮತ್ತು ನೀತಿಯನ್ನು ಉತ್ತಮಗೊಳಿಸಬಹುದು."
+            },
+            "mr": {
+                "title": "कोविडमधून बरे झालेल्या रुग्णांसाठी लसीचा एकच डोस प्रभावी: अभ्यास",
+                "content": "एआयजी हॉस्पिटलच्या अभ्यासानुसार, ज्यांना पूर्वी कोविड-19 ची लागण झाली होती, त्यांना लसीचा एकच डोस पुरेसा असू शकतो. पूर्वी संसर्ग नसलेल्या लोकांच्या तुलनेत त्यांनी लक्षणीयरीत्या मजबूत ॲन्टीबॉडी प्रतिसाद दर्शविला, ज्यामुळे एकाच डोसद्वारे मजबूत प्रतिकारशक्ती मिळते. हा निष्कर्ष बरे झालेल्या रुग्णांसाठी लसीकरण वितरण आणि धोरण सुधारू शकतो."
+            },
+            "hi": {
+                "title": "कोविड से ठीक हुए मरीजों के लिए एक टीका खुराक पर्याप्त: अध्ययन",
+                "content": "एआईजी हॉस्पिटल्स के एक अध्ययन से पता चलता है कि कोविड-19 से पहले संक्रमित व्यक्तियों को वैक्सीन की सिर्फ एक खुराक की आवश्यकता हो सकती है। उन्होंने बिना पूर्व संक्रमण वाले लोगों की तुलना में काफी मजबूत एंटीबॉडी प्रतिक्रिया दिखाई, जो एक ही खुराक से मजबूत प्रतिरक्षा को दर्शाती है। यह निष्कर्ष ठीक हुए मरीजों के लिए वैक्सीन वितरण और नीति को अनुकूलित कर सकता है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-83513103,imgsize-129222.cms",
+        "link": "https://timesofindia.indiatimes.com/india/single-dose-of-covid-19-vaccine-sufficient-for-already-infected-people-study/articleshow/83513073.cms",
+        "date": "2021-06-14T19:38:17+05:30"
+    },
+    {
         "id": "52f08e20",
         "category": "National",
         "translations": {
@@ -1973,30 +1998,5 @@
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOV2EzU1l3bjR2a0dKMVJEa2N3TVk0Z21mMXBDbkIwMUs2bXBjb0dQZjRjTnVKVnNCMXprcDNxdHJBS1otOWRyZHN5TVlVSHhYYVpLS3F4WjR0Q0xWUmE1RzJhXzVFS1RxWF9KdnRuTE15NjFmUllHN21BSzFWcW02RVh5QlI2UHV1ZFJjUDQxN25WT1lPNWw4MDlqbUdzQ25laFozaTB6eHhXbWNqMzZ2eDhnVGlnRHpxZXl3Yko1TUdfVnB0SGRFd0dkWFpROXdKQW1PSmlzQQ?oc=5",
         "date": "Fri, 27 Mar 2026 18:03:37 GMT"
-    },
-    {
-        "id": "506608c5",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Hardik Pandya's Generous Gesture to Wankhede Ground Staff",
-                "content": "Indian cricketer Hardik Pandya showed a heartwarming gesture, awarding ₹10,000 cheques to each Wankhede Stadium ground staff member. This generous act acknowledges their tireless efforts in maintaining the prestigious ground, crucial for cricket matches. Pandya's appreciation highlights the often-unsung heroes behind the scenes, ensuring top-notch conditions for players."
-            },
-            "kn": {
-                "title": "ಹಾರ್ದಿಕ್ ಪಾಂಡ್ಯ ಅವರ ವಾಂಖೆಡೆ ಗ್ರೌಂಡ್ ಸಿಬ್ಬಂದಿಗೆ ಉದಾರ ಕೊಡುಗೆ",
-                "content": "ಭಾರತೀಯ ಕ್ರಿಕೆಟಿಗ ಹಾರ್ದಿಕ್ ಪಾಂಡ್ಯ ಅವರು ವಾಂಖೆಡೆ ಸ್ಟೇಡಿಯಂನ ಪ್ರತಿಯೊಬ್ಬ ಗ್ರೌಂಡ್ ಸಿಬ್ಬಂದಿಗೆ ತಲಾ ₹10,000 ಚೆಕ್ ನೀಡಿ ಹೃದಯಸ್ಪರ್ಶಿ ಸನ್ನೆ ಮಾಡಿದ್ದಾರೆ. ಈ ಉದಾರ ಕಾರ್ಯವು ಪ್ರತಿಷ್ಠಿತ ಮೈದಾನವನ್ನು ನಿರ್ವಹಿಸುವ ಅವರ ಅವಿರತ ಪ್ರಯತ್ನಗಳನ್ನು ಗುರುತಿಸುತ್ತದೆ, ಇದು ಕ್ರಿಕೆಟ್ ಪಂದ್ಯಗಳಿಗೆ ನಿರ್ಣಾಯಕವಾಗಿದೆ. ಪಾಂಡ್ಯ ಅವರ ಮೆಚ್ಚುಗೆಯು ತೆರೆಮರೆಯ ನಿಸ್ವಾರ್ಥ ನಾಯಕರನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ, ಆಟಗಾರರಿಗೆ ಉತ್ತಮ ಗುಣಮಟ್ಟದ ಪರಿಸ್ಥಿತಿಗಳನ್ನು ಖಚಿತಪಡಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "हार्दिक पांड्याच्या वानखेडे मैदानातील कर्मचाऱ्यांसाठी उदार देणगी",
-                "content": "भारतीय क्रिकेटपटू हार्दिक पांड्याने वानखेडे स्टेडियममधील प्रत्येक कर्मचाऱ्याला प्रत्येकी ₹10,000 चा चेक देऊन एक हृदयस्पर्शी कृती केली आहे. हा उदार सत्कार प्रतिष्ठित मैदानाची देखभाल करण्यासाठी त्यांच्या अथक प्रयत्नांना मान्यता देतो, जे क्रिकेट सामन्यांसाठी महत्त्वाचे आहे. पांड्याची ही कृती पडद्यामागील अज्ञात नायकांना उजागर करते, जे खेळाडूंसाठी सर्वोत्तम परिस्थिती सुनिश्चित करतात."
-            },
-            "hi": {
-                "title": "हार्दिक पांड्या का वानखेड़े ग्राउंड स्टाफ के लिए उदार भाव",
-                "content": "भारतीय क्रिकेटर हार्दिक पांड्या ने वानखेड़े स्टेडियम के प्रत्येक ग्राउंड स्टाफ सदस्य को ₹10,000 के चेक देकर एक दिल छू लेने वाला भाव दिखाया है। यह उदार कार्य प्रतिष्ठित मैदान को बनाए रखने में उनके अथक प्रयासों को स्वीकार करता है, जो क्रिकेट मैचों के लिए महत्वपूर्ण है। पांड्या की यह सराहना अक्सर अनदेखे रहने वाले पर्दे के पीछे के नायकों को उजागर करती है, जो खिलाड़ियों के लिए बेहतरीन परिस्थितियां सुनिश्चित करते हैं।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNal9DUGVITzgzSjMzcGFIZmdXZVc0SGtQeFlUcXFvVlFsejZVbFFPQ0xJa0toTXFLVGZiQVl1ejZQTmtkc3Z4SXZxMVZ1TG9BWjZOSEdScnR3QWF2eVZXbExoZ2JIekkyN25TaUNvRFlud0h3WmNJMU9JSDhtb043c2EtdGRibXZhMnhIQUUxM0x4TnN2ODUxeXlyU1FhNFpMUWJDUFhuX3BmVURIUUN2UWdjVE4zOFBZUEFEZ1QzNHRScXR1Ul9VTFBTcWVUNVlSREU3T2l4VEtLcThuMGpfTWtVTVJHZmFaQnNxdmpkcnA2SXVmR2FuY9IB_gFBVV95cUxNbUhvUGFvT3FGdVVSTm02bzc5YWhMaVVpemp4S0ZmZkdoc2lyb1h3ZnBWekFsNmloYkltNGFwaHlsa1JTU2IzTnNWTHZwc2doV19Gbl8tUXdXTFVMR3luM3prQmk1OVBOTDdTWjRwc1Rmd2hnLUI4NmM4bUVVUkRPSklqTm9uMVpOLXZOUV9idFpiM1ZYeFlmR2RjcEwxSXFaUjRDRk9LVFZMc0tHWmtPRFZuOXo5M1Nrb184NXQ3ZnRIaFMwVFRCcThqamlnVGhRVGxLZWpqMXZ5Z1d4MVpzdzY3Q0ZJcGVjYUQxNEo1a2RBbHc0VE9PN2JxblExQQ?oc=5",
-        "date": "Fri, 27 Mar 2026 12:04:18 GMT"
     }
 ]
