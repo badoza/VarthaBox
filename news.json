@@ -1,5 +1,30 @@
 [
     {
+        "id": "6b1df15a",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "Kohli Shines in IPL 2026: No Rust, Pure Class",
+                "content": "Virat Kohli proves age is just a number, shining brightly in IPL 2026. Despite a recent break, the cricketing maestro showed zero rust, delivering a vintage performance. Fans witnessed 'Kohli doing Kohli things,' as he dominated with the bat, reaffirming his enduring class and match-winning prowess. His consistent brilliance continues to be a highlight, thrilling supporters."
+            },
+            "kn": {
+                "title": "ಐಪಿಎಲ್ 2026ರಲ್ಲಿ ಕೊಹ್ಲಿ ಮಿಂಚು: ತುಕ್ಕು ಹಿಡಿದಿಲ್ಲ, ಪರಿಶುದ್ಧ ವರ್ಗ",
+                "content": "ವಿರಾಟ್ ಕೊಹ್ಲಿ ವಯಸ್ಸು ಕೇವಲ ಒಂದು ಸಂಖ್ಯೆ ಎಂದು ಸಾಬೀತುಪಡಿಸಿದ್ದಾರೆ, ಐಪಿಎಲ್ 2026 ರಲ್ಲಿ ಪ್ರಕಾಶಮಾನವಾಗಿ ಮಿಂಚಿದ್ದಾರೆ. ಇತ್ತೀಚಿನ ವಿರಾಮದ ಹೊರತಾಗಿಯೂ, ಕ್ರಿಕೆಟ್ ಮಾಂತ್ರಿಕನು ಯಾವುದೇ ತುಕ್ಕು ಹಿಡಿದಿರುವುದನ್ನು ತೋರಿಸಲಿಲ್ಲ, ಉತ್ತಮ ಪ್ರದರ್ಶನ ನೀಡಿದರು. ಅಭಿಮಾನಿಗಳು 'ಕೊಹ್ಲಿ ತಮ್ಮ ಕೊಹ್ಲಿ ಕಾರ್ಯಗಳನ್ನು' ಮಾಡುವುದನ್ನು ನೋಡಿದರು, ಬ್ಯಾಟ್‌ನಿಂದ ಪ್ರಾಬಲ್ಯ ಸಾಧಿಸಿ, ತಮ್ಮ ಅಚಲ ಶ್ರೇಷ್ಠತೆ ಮತ್ತು ಪಂದ್ಯ ಗೆಲ್ಲುವ ಸಾಮರ್ಥ್ಯವನ್ನು ಪುನರುಚ್ಚರಿಸಿದರು. ಅವರ ನಿರಂತರ ತೇಜಸ್ಸು ಅಭಿಮಾನಿಗಳನ್ನು ರೋಮಾಂಚನಗೊಳಿಸುತ್ತಿದೆ."
+            },
+            "mr": {
+                "title": "आयपीएल 2026 मध्ये कोहली चमकला: कसलाही गंज नाही, शुद्ध वर्ग",
+                "content": "विराट कोहलीने वय फक्त एक आकडा आहे हे सिद्ध केले, आयपीएल 2026 मध्ये तेजस्वीपणे चमकत आहे. अलीकडच्या विश्रांतीनंतरही, क्रिकेटच्या जादूगराने कोणताही गंज लागलेला नसल्याचे दाखवले, एक उत्कृष्ट प्रदर्शन केले. चाहत्यांनी 'कोहली नेहमीप्रमाणे कोहलीचे काम करताना' पाहिले, त्याने बॅटने वर्चस्व गाजवले, त्याची चिरस्थायी श्रेणी आणि सामना जिंकण्याची क्षमता पुन्हा एकदा सिद्ध केली. त्याची सातत्यपूर्ण चमक चाहत्यांना अजूनही आनंदित करत आहे."
+            },
+            "hi": {
+                "title": "IPL 2026 में कोहली चमके: कोई जंग नहीं, शुद्ध कौशल",
+                "content": "विराट कोहली ने साबित किया कि उम्र सिर्फ एक संख्या है, IPL 2026 में शानदार प्रदर्शन कर रहे हैं। हालिया ब्रेक के बावजूद, क्रिकेट के जादूगर ने जरा भी जंग नहीं दिखाया, एक बेहतरीन प्रदर्शन दिया। प्रशंसकों ने 'कोहली को कोहली के काम करते हुए' देखा, क्योंकि उन्होंने बल्ले से अपना दबदबा बनाया, अपनी स्थायी क्लास और मैच जिताने की क्षमता की पुष्टि की। उनकी लगातार चमक प्रशंसकों को अभी भी रोमांचित कर रही है।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQYm50aTQxVDVuTm1FcDd4cXhxUUZ6QjhHZFVWWExXOXg0eEF5ZzdHa3RNUHEwV2dBeDNETzlPeGtIV2xBOHgtbUtvdFg0Q192OF9pRTZSZDdzMUFoN3RsRWJndDRjaXR5SUotdEhlSWFQSTRyNjQwYm1VVmpKbzNqckZHdHFqaVJtaTAyY1habTBNRXB4b20zUG9WWkxpWDUyaWRKQWR1bG96dzFaQnBHa0hBYVAzUmNEZ0tMMUtwb2JDSEFZQmNkeXAtOHN5QU1tNXpQeGk1Mm13bElKQUVzOHlKNNIB6AFBVV95cUxOakQ5dllYOU1HZ0ZKdjN6MnM4UUNtVEFTQVFxYnlyX1hVdGp6MVFxYUw2aHJFYVlwRmhPRjN4WWdDWTl1NUVPZHEtWUNXejRJRjVmNGxIZ3FjNDJaMGVhVDc4Y2d0dHVlYnR3Nlo5eTZYdW53ZGhtRjJ1THVLdHQxUFpjX2M3SjZQY2l6cWczSHlhZkhia0RodGZPRWlMc2hXZEVoZUpSemNWR0pZQ2g2RkR1SnlvMlp0RUFnS2ZJUWhBeFVIN00wbWhVZkp3YUplb2NjSDBuOTFkOHQ0eEhZWXZJYWdyelJi?oc=5",
+        "date": "Mon, 30 Mar 2026 02:08:00 GMT"
+    },
+    {
         "id": "9f8449f4",
         "category": "IPL Scoop",
         "translations": {
@@ -1973,30 +1998,5 @@
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
         "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcUFnMDlieTUzR2pHZEJ4aUVMaTg3aEV3ZG9rdXRodDlBVzV2Vk1GUXFnLThQcUcwQ0tIckIxV2pUQkhvUGlUcUlqbXlRa1NxTkt4R1Vxd2x2U3loQnNrY1RSMWRCN2JkblRJV1lCTTJxZHdzalVOa1B1MDktN2VpVUQ1aUthclREWEZjRVBLNzZGT21kaE15cmVhQ29fV0R6d2FUNF9WTW9YQUhFNDc0MGl0SE40WEFtWTd3TFFqcWYyd3NtcE5KLW9OTGhTeFptRmZnd3JVU0R2QkhfTHdEdXI5MNIB6AFBVV95cUxPZHBnb0tRRzZGOERWZnItY29QU3lfN2FiMTZyMC1nUmYyY1JlNG10bWs0NGJ1d3M2MTJnU2lzSjIxQzZNV3g4UU91V25YYlBJdl9RWGlvbnJLbzl2TjNRWndYYzJOaWwzSnIyOU95WkxhMncyZmJVSDhkQWY1di1mejlUWU1nX0UwaHVOODhENnJRT0NodDRCazRSdU9rNVViNkN6OE04ZTVJSnVrY1g2amM0X0M0UGRWRHhGb21PZEpxSTdhNzJLRlJLSHotSjlxTWZrRVllOWpTOE5IdF9XTHM4X2RjWjVZ?oc=5",
         "date": "Sat, 28 Mar 2026 05:40:51 GMT"
-    },
-    {
-        "id": "535edee7",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "FIFA Cancels 2000 World Cup Hotel Rooms in US & Mexico",
-                "content": "FIFA has canceled 2000 hotel rooms in Philadelphia and Mexico City, initially reserved for the upcoming 2026 World Cup. This significant logistical change, impacting two key host cities, raises questions about organizational adjustments or potential reallocations of resources as preparations for the global football tournament intensify. The exact reasons for the cancellation remain under discussion."
-            },
-            "kn": {
-                "title": "FIFA ಅಮೆರಿಕ ಮತ್ತು ಮೆಕ್ಸಿಕೋದಲ್ಲಿ 2000 ವಿಶ್ವಕಪ್ ಹೋಟೆಲ್ ಕೊಠಡಿಗಳನ್ನು ರದ್ದುಗೊಳಿಸಿದೆ",
-                "content": "FIFA 2026ರ ವಿಶ್ವಕಪ್‌ಗಾಗಿ ಫಿಲಡೆಲ್ಫಿಯಾ ಮತ್ತು ಮೆಕ್ಸಿಕೋ ನಗರದಲ್ಲಿ ಕಾಯ್ದಿರಿಸಿದ 2000 ಹೋಟೆಲ್ ಕೊಠಡಿಗಳನ್ನು ರದ್ದುಗೊಳಿಸಿದೆ. ಎರಡು ಪ್ರಮುಖ ಆತಿಥೇಯ ನಗರಗಳಲ್ಲಿನ ಈ ಮಹತ್ವದ ಬದಲಾವಣೆಯು ಸಾಂಸ್ಥಿಕ ಹೊಂದಾಣಿಕೆಗಳು ಅಥವಾ ಸಂಪನ್ಮೂಲಗಳ ಸಂಭಾವ್ಯ ಮರುಹಂಚಿಕೆ ಕುರಿತು ಪ್ರಶ್ನೆಗಳನ್ನು ಹುಟ್ಟುಹಾಕಿದೆ, ವಿಶ್ವಕಪ್ ಸಿದ್ಧತೆಗಳು ತೀವ್ರಗೊಳ್ಳುತ್ತಿವೆ. ರದ್ದತಿಯ ನಿಖರ ಕಾರಣಗಳು ಇನ್ನೂ ಚರ್ಚೆಯಲ್ಲಿವೆ."
-            },
-            "mr": {
-                "title": "फिफाने अमेरिका आणि मेक्सिकोमध्ये 2000 विश्वचषक हॉटेल खोल्या रद्द केल्या",
-                "content": "फिफाने 2026 च्या विश्वचषकासाठी फिलाडेल्फिया आणि मेक्सिको सिटीमध्ये आरक्षित केलेल्या 2000 हॉटेल खोल्या रद्द केल्या आहेत. दोन प्रमुख यजमान शहरांवरील या महत्त्वपूर्ण लॉजिस्टिक बदलामुळे संघटनात्मक समायोजन किंवा संसाधनांच्या संभाव्य पुनर्वितरणाबद्दल प्रश्न निर्माण झाले आहेत, कारण जागतिक फुटबॉल स्पर्धेची तयारी तीव्र होत आहे. रद्द करण्यामागची नेमकी कारणे अद्याप चर्चेत आहेत."
-            },
-            "hi": {
-                "title": "फीफा ने अमेरिका और मैक्सिको में 2000 विश्व कप होटल कमरे रद्द किए",
-                "content": "फीफा ने 2026 विश्व कप के लिए फिलाडेल्फिया और मैक्सिको सिटी में आरक्षित 2000 होटल कमरे रद्द कर दिए हैं। दो प्रमुख मेज़बान शहरों को प्रभावित करने वाले इस महत्वपूर्ण लॉजिस्टिक बदलाव से संगठनात्मक समायोजन या संसाधनों के संभावित पुनर्वितरण के बारे में सवाल उठते हैं, जैसे-जैसे वैश्विक फुटबॉल टूर्नामेंट की तैयारी तेज़ होती जा रही है। रद्द करने के सटीक कारण अभी भी चर्चा में हैं।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOeTlnNlo2bEwyLTRSaXRsU2hsOFFvdnJ1TnU0SGY4aVdGZTJHREZsSld2REwzU0VtQlliemZFZkFWZDhBcEdKS09DOUJ5NV9XU0VFdG90cllaTnc4VnlmdWRYRjhLVjNaaUN5Z1RwTk10Qm9Va0xidU9DWVdzR2FuZV9KVmUwSEQtZTl3Um1VVGszQUZLMGNma0xOQnUtZjd3cEw1TWJTQk5ya3U2T09selV0U0VjOUR4aV9Cb3NEcktiZzZGVmNHakltZkVZaDRjYnBXZXVWMkpzbnZ2Z1JJelYyeElfWlh4ZjRBYU8tUXlIc21JMkZFenNNWC1HbUl4MW5DZ2gwLWFlUTRndVdTN1J3eGdCSkhDdXBzbHNVOG9Pc0M2WkoyQk55bXDSAbICQVVfeXFMUGlRRWVYOTlsV1hoamYwR01nWERBWW4tV1hoRlpiSlV2ekJGcW52dGFlMjAyRGZha19FM3RRMVVvdEJtd3pGSm1VM0ctRDVELVZXUHNuNVJNTmJ6aVFRX2p0d1JoMkNGNTBseVBubnVpWXFnMEFWcnNDckwtQ1BydGNQLU9OZlZSTmlQR1NmYTh3am1SZkI4R2lwNVk4ak9nMUQ3X0gtc1BCb0RFc0ZqV19IOGtuMENjOFVHdUhJZjBCUUEySE9MZUZQaThqSnZMLTBzZUpiRlJxNXJWMTVGY1NUcnp5aUQ5S2p1LXExWS1iZ2JHbjlySlRIcFE2UEg3TndwUEpoekVWYzU4Q2JNTVppbUllQk5LVnlQel9saFhRQnl2M3g2azBKbTJ6Z1Vnd2xB?oc=5",
-        "date": "Fri, 27 Mar 2026 11:59:00 GMT"
     }
 ]
