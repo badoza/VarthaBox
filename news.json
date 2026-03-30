@@ -1,5 +1,580 @@
 [
     {
+        "id": "b9f4233a",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "Rohit Sharma Creates IPL History",
+                "content": "Rohit Sharma has scripted history in IPL 2026, becoming the first player ever to achieve an unprecedented milestone. His stellar performance sets a new benchmark, cementing his legacy as an IPL legend. This groundbreaking accomplishment has fans and experts buzzing, celebrating a true pioneer in T20 cricket. A historic feat!"
+            },
+            "kn": {
+                "title": "ರೋಹಿತ್ ಶರ್ಮಾ ಐಪಿಎಲ್ ಇತಿಹಾಸ ಸೃಷ್ಟಿಸಿದ್ದಾರೆ",
+                "content": "ಐಪಿಎಲ್ 2026 ರಲ್ಲಿ ರೋಹಿತ್ ಶರ್ಮಾ ಇತಿಹಾಸ ನಿರ್ಮಿಸಿದ್ದಾರೆ, ಅಪ್ರತಿಮ ಮೈಲಿಗಲ್ಲನ್ನು ಸಾಧಿಸಿದ ಮೊದಲ ಆಟಗಾರರಾಗಿದ್ದಾರೆ. ಅವರ ಅದ್ಭುತ ಪ್ರದರ್ಶನವು ಲೀಗ್‌ನಲ್ಲಿ ಹೊಸ ಮಾನದಂಡವನ್ನು ಸ್ಥಾಪಿಸಿದೆ, ಐಪಿಎಲ್ ದಂತಕಥೆಯಾಗಿ ಅವರ ಪರಂಪರೆಯನ್ನು ಭದ್ರಪಡಿಸಿದೆ. ಈ ಮಹತ್ತರ ಸಾಧನೆಯು ಅಭಿಮಾನಿಗಳು ಮತ್ತು ತಜ್ಞರಲ್ಲಿ ಸಂಚಲನ ಮೂಡಿಸಿದೆ, ಟಿ20 ಕ್ರಿಕೆಟ್‌ನ ನಿಜವಾದ ಪ್ರವರ್ತಕರನ್ನು ಆಚರಿಸಲಾಗುತ್ತಿದೆ. ಒಂದು ಐತಿಹಾಸಿಕ ಸಾಧನೆ!"
+            },
+            "mr": {
+                "title": "रोहित शर्माने रचला आयपीएल इतिहास",
+                "content": "आयपीएल 2026 मध्ये रोहित शर्माने इतिहास रचला आहे, एका अभूतपूर्व मैलाचा दगड गाठणारा तो पहिला खेळाडू बनला आहे. त्याच्या उत्कृष्ट कामगिरीने लीगमध्ये नवीन बेंचमार्क स्थापित केला आहे, ज्यामुळे आयपीएल आख्यायिका म्हणून त्याचा वारसा अधिक मजबूत झाला आहे. या ऐतिहासिक यशाने चाहते आणि तज्ञ रोमांचित झाले आहेत, टी-20 क्रिकेटमधील एका खऱ्या दिग्गजाचा गौरव करत आहेत. एक ऐतिहासिक पराक्रम!"
+            },
+            "hi": {
+                "title": "रोहित शर्मा ने रचा आईपीएल इतिहास",
+                "content": "रोहित शर्मा ने आईपीएल 2026 में इतिहास रचा है, एक अभूतपूर्व मील का पत्थर हासिल करने वाले वह पहले खिलाड़ी बन गए हैं। उनके शानदार प्रदर्शन ने लीग में एक नया मानदंड स्थापित किया है, जिससे एक आईपीएल दिग्गज के रूप में उनकी विरासत मजबूत हुई है। इस ऐतिहासिक उपलब्धि ने प्रशंसकों और विशेषज्ञों को उत्साहित कर दिया है, टी20 क्रिकेट में एक सच्चे अग्रणी का जश्न मनाया जा रहा है। एक ऐतिहासिक कारनामा!"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcEVBMW9pZVNVRnpqMlBXb2pRYmZwbnI2MUFnZTNuRWpGTmg5MGZiOVVLeTI3dlA4bmRHelVQaEUyNk9uMkFRRHhmczNLTm5RRVZ5dUhkOXNJOXBqOXhDMHRmSTl1UU9CMG5XM0VIRmhHMFpHN194RlZIa2hQcUlzVkVKWHlaYkc4Qm56WnZ0STdPTFNEajVUS3Voa3h2QjZmaFU4cTBVMlNqQTRDOU5feGp3WTQwV3hWMVBzSnVzU2ZhWTkxQTQxT3Rid18zSy1WNFROZzJtODF5Z3VGbHcwazRGb2FuLS1mc0RrMnJfTdIB9AFBVV95cUxQczdBcDRDRHQ0WFJEVnhzS05JVWVnbm51VWQyQjNJT3B1UGJrc2dWRXNlN0hUSVFkVU1uWHBOYmxiSGFyU2I1SlFtYjVXTy1IUnFONERXcnZFNGFqd3F2OE5rUlJRRXpRX0dmaXMyVnhURk03ZjBOdEM1Mi1jS1RCQlp5aWs2UmltbHRTM1Vva3QwaHpCZkRTb0VLTXgyYnppeHR1Z0RhTEJCaUZwMXo4R1VkOXgyU2JlbGFzRk1PM2RmblJmNGl6WFB2U005OEU0ZW9laWNQSGtfRmZIOGdCQXlBeUhkY1RmenBlaEJzSmtrR3RJ?oc=5",
+        "date": "Mon, 30 Mar 2026 00:30:00 GMT"
+    },
+    {
+        "id": "81b989a3",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "Tiger Woods' Masters 2026 Future: Unwritten Rules in Play",
+                "content": "Tiger Woods' potential participation in the Masters 2026 is under scrutiny following his past DUI arrest. While Augusta remains a possibility, his eligibility reportedly hinges on \"unwritten rules.\" This situation creates uncertainty regarding the golf legend's future at the prestigious tournament, keeping fans guessing about his next appearance on the green."
+            },
+            "kn": {
+                "title": "ಟೈಗರ್ ವುಡ್ಸ್ ಅವರ ಮಾಸ್ಟರ್ಸ್ 2026 ಭವಿಷ್ಯ: ಅಲಿಖಿತ ನಿಯಮಗಳು ಜಾರಿಯಲ್ಲಿ",
+                "content": "ಟೈಗರ್ ವುಡ್ಸ್ ಅವರ ಹಿಂದಿನ DUI ಬಂಧನದ ನಂತರ ಮಾಸ್ಟರ್ಸ್ 2026 ರಲ್ಲಿ ಅವರ ಸಂಭಾವ್ಯ ಭಾಗವಹಿಸುವಿಕೆ ಪರಿಶೀಲನೆಗೆ ಒಳಪಟ್ಟಿದೆ. ಅಗಸ್ಟಾ ಇನ್ನೂ ಸಾಧ್ಯತೆಯಾಗಿದ್ದರೂ, ಅವರ ಅರ್ಹತೆಯು 'ಅಲಿಖಿತ ನಿಯಮಗಳನ್ನು' ಅವಲಂಬಿಸಿದೆ ಎಂದು ವರದಿಯಾಗಿದೆ. ಈ ಪರಿಸ್ಥಿತಿಯು ಪ್ರತಿಷ್ಠಿತ ಪಂದ್ಯಾವಳಿಯಲ್ಲಿ ಈ ಗಾಲ್ಫ್ ದಂತಕಥೆಯ ಭವಿಷ್ಯದ ಬಗ್ಗೆ ಅನಿಶ್ಚಿತತೆಯನ್ನು ಸೃಷ್ಟಿಸುತ್ತದೆ, ಅವರ ಮುಂದಿನ ಆಟದ ಬಗ್ಗೆ ಅಭಿಮಾನಿಗಳಲ್ಲಿ ಕುತೂಹಲ ಮೂಡಿಸಿದೆ."
+            },
+            "mr": {
+                "title": "टायगर वुड्सचे मास्टर्स 2026 चे भविष्य: अलिखित नियमांचा प्रभाव",
+                "content": "टायगर वुड्सच्या मागील DUI अटकेनंतर मास्टर्स 2026 मध्ये त्याच्या संभाव्य सहभागाची चौकशी सुरू आहे. ऑगस्टा अजूनही एक शक्यता असली तरी, त्याची पात्रता 'अलिखित नियमांवर' अवलंबून असल्याचे वृत्त आहे. यामुळे या प्रतिष्ठित स्पर्धेतील या गोल्फपटूच्या भविष्याबाबत अनिश्चितता निर्माण झाली आहे, ज्यामुळे चाहते त्याच्या पुढील मैदानातील आगमनाबद्दल उत्सुक आहेत."
+            },
+            "hi": {
+                "title": "टाइगर वुड्स का मास्टर्स 2026 भविष्य: अलिखित नियम लागू",
+                "content": "टाइगर वुड्स की पिछली DUI गिरफ्तारी के बाद मास्टर्स 2026 में उनकी संभावित भागीदारी की जांच चल रही है। हालांकि ऑगस्टा अभी भी एक संभावना है, उनकी पात्रता कथित तौर पर 'अलिखित नियमों' पर निर्भर करती है। यह स्थिति इस प्रतिष्ठित टूर्नामेंट में गोल्फ दिग्गज के भविष्य को लेकर अनिश्चितता पैदा करती है, जिससे प्रशंसक मैदान पर उनकी अगली उपस्थिति के बारे में अनुमान लगा रहे हैं।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPRy1UV2RuWlJHLUJMS2Vkenlnb0N1RHVpMTU4M2YyVXFHLVZJa2V6b2Ntb19nM1htejQwMERCV2RGU1daUTFEaDNEX21ZdzJ4S3ByRE43NURzcTItVXB6aTIyRll2UjBHdFhoNlNYamRZMnFWRWhQS2Z4UE9pb2pwUkszX2lnRGZjaEptXzZZcEFPNEhjV2QxcncxbjR2VTR6ZDVpOWFOTXE2U1p1MC1HM01RT1lvSVN6bGdfN3ktOFNpanRaZTZDc1dIQUQzMEFsTmhCQlEzREF5Y2J2MGo4RjdCbGprd09kR1dDMkljSm9PcGtOM295OWZxNmRhMzjSAYQCQVVfeXFMT0tfbTZfaG9aYm4yT1RlSlhLMDZVZHNoRjVIV1RzUUpHT0Jsd2FTcGo3VlQ2amdncEo5NURXc3U0Sk4xYUNBSzN6OHZPX1VoaGFVMEZvVFUxYVo0eXBoUjZrTVM5Zk52U1JiRXVvWnJvWVJzbFM4WVdQeG1zYVg2bU0xQjNuR3ZEZEo2cUFQZVVkME1JTlNCUXI4NlhMUjNrbFBWZEsyV1F1MGphdXlTQnh4YmlUeUNJQnR5LTBEbUR1RzYwZlZQOTB1TXRRb1JKTDNFQXBsZGU2T3ZJU0dDMEJvZTg5ZkQtOHhTaHJDYldHUHNPcmRuQnNyTlJpU3U0d1pwS3I?oc=5",
+        "date": "Sun, 29 Mar 2026 20:46:38 GMT"
+    },
+    {
+        "id": "a7d2ea26",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "RCB Blitz Overcomes Kishan's Brilliance",
+                "content": "In a thrilling cricket encounter, Ishan Kishan's valiant performance, marked by significant runs, was ultimately overshadowed by a dominant display from Royal Challengers Bangalore. RCB's aggressive batting blitz and cohesive team effort proved too much to handle, undoing Kishan's individual brilliance and securing a decisive victory for the Challengers. A high-stakes match saw momentum swing before RCB clinched it."
+            },
+            "kn": {
+                "title": "ಆರ್‌ಸಿಬಿ ಅಬ್ಬರಕ್ಕೆ ಕಿಶನ್ ವೈಭವ ಮಸುಕು",
+                "content": "ಒಂದು ರೋಮಾಂಚಕ ಕ್ರಿಕೆಟ್ ಪಂದ್ಯದಲ್ಲಿ, ಇಶಾನ್ ಕಿಶನ್ ಅವರ ವೀರಾವೇಶದ ಪ್ರದರ್ಶನ, ಗಮನಾರ್ಹ ರನ್‌ಗಳೊಂದಿಗೆ, ಅಂತಿಮವಾಗಿ ರಾಯಲ್ ಚಾಲೆಂಜರ್ಸ್ ಬೆಂಗಳೂರಿನ ಪ್ರಬಲ ಆಟದಿಂದ ಮರೆಯಾಯಿತು. ಆರ್‌ಸಿಬಿ ತಂಡದ ಆಕ್ರಮಣಕಾರಿ ಬ್ಯಾಟಿಂಗ್ ಅಬ್ಬರ ಮತ್ತು ಸುಸಂಘಟಿತ ತಂಡದ ಪ್ರಯತ್ನವು ಕಿಶನ್ ಅವರ ವೈಯಕ್ತಿಕ ಪ್ರತಿಭೆಯನ್ನು ಮೀರಿ ನಿಂತು, ಚಾಲೆಂಜರ್ಸ್‌ಗೆ ನಿರ್ಣಾಯಕ ವಿಜಯವನ್ನು ತಂದುಕೊಟ್ಟಿತು. ಈ ತೀವ್ರ ಪಂದ್ಯದಲ್ಲಿ ಆರ್‌ಸಿಬಿ ಗೆಲುವು ಸಾಧಿಸಿತು."
+            },
+            "mr": {
+                "title": "आरसीबीच्या वादळासमोर किशनचा पराक्रम फिका",
+                "content": "एका थरारक क्रिकेट सामन्यात, इशान किशनचा महत्त्वपूर्ण धावांचा पराक्रम रॉयल चॅलेंजर्स बंगळूरुच्या जबरदस्त प्रदर्शनासमोर फिका पडला. आरसीबीच्या आक्रमक फलंदाजीचा झंझावात आणि सांघिक प्रयत्नांमुळे किशनची वैयक्तिक चमक झाकली गेली, ज्यामुळे चॅलेंजर्सने निर्णायक विजय मिळवला. उच्च-दबावाच्या या सामन्यात आरसीबीने अखेर बाजी मारली."
+            },
+            "hi": {
+                "title": "आरसीबी के आक्रमण ने किशन की चमक फीकी की",
+                "content": "एक रोमांचक क्रिकेट मुकाबले में, इशान किशन का शानदार प्रदर्शन, जिसमें उन्होंने महत्वपूर्ण रन बनाए थे, रॉयल चैलेंजर्स बैंगलोर के दमदार खेल के आगे फीका पड़ गया। आरसीबी की आक्रामक बल्लेबाजी और एकजुट टीम प्रयास ने किशन की व्यक्तिगत प्रतिभा को पीछे छोड़ दिया, जिससे चैलेंजर्स ने निर्णायक जीत हासिल की। इस हाई-स्टेक्स मैच में आरसीबी ने अंततः बाजी मारी।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOHlWM0pfNVA4bDNONkpncHBVQ3RjUzlVeF9uY0Q1al9HeFRlbHJITUdvLTNaWG92MkJzc1lNVVhwb2JRTlYzWFpYZmcwQ29JWExSWDloNGh0UkNoZVVkRGl5dHpEWGZ5QjZ4OFQ3M3Y3NVpvQk9GRjdNQ2E2M2J1Y0ZLdzBuUFp4ZWttcVRGZ3JFT2pSSlJNWm9LWHpBRER3aHcwTGUxTGpESEtHWDFLdlhlaDRvUEVKYlFPa0pPMzNPQ0Et?oc=5",
+        "date": "Sun, 29 Mar 2026 12:43:07 GMT"
+    },
+    {
+        "id": "a629eff9",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "Starc Reveals Injury Behind IPL Delay, Hits Back at Critics",
+                "content": "Mitchell Starc addressed criticism regarding his delayed IPL 2024 debut for KKR. The Australian pacer revealed a \"freakish\" training injury, a lacerated finger from catching a ball, was the real reason for his absence, not rust or fitness issues as some suggested. He emphasized that the injury required a brief recovery, asserting his commitment and readiness now."
+            },
+            "kn": {
+                "title": "ಸ್ಟಾರ್ಕ್ ಐಪಿಎಲ್ ವಿಳಂಬದ ಹಿಂದಿನ ಗಾಯವನ್ನು ಬಹಿರಂಗಪಡಿಸಿದರು, ಟೀಕಾಕಾರರಿಗೆ ಪ್ರತ್ಯುತ್ತರ ನೀಡಿದರು",
+                "content": "ಮಿಚೆಲ್ ಸ್ಟಾರ್ಕ್ KKR ಗಾಗಿ ತಮ್ಮ ವಿಳಂಬಿತ IPL 2024 ಪದಾರ್ಪಣೆಯ ಕುರಿತ ಟೀಕೆಗಳಿಗೆ ಪ್ರತ್ಯುತ್ತರ ನೀಡಿದರು. ಆಸ್ಟ್ರೇಲಿಯಾದ ವೇಗದ ಬೌಲರ್, ಬಾಲ್ ಹಿಡಿಯುವಾಗ ಬೆರಳಿಗೆ ಆದ \"ಅಸಾಮಾನ್ಯ\" ತರಬೇತಿ ಗಾಯವೇ ತಮ್ಮ ಅನುಪಸ್ಥಿತಿಗೆ ನಿಜವಾದ ಕಾರಣವೆಂದು ಬಹಿರಂಗಪಡಿಸಿದರು. ಕೆಲವರು ಹೇಳಿದಂತೆ ಇದು ಜಡತ್ವ ಅಥವಾ ಫಿಟ್ನೆಸ್ ಸಮಸ್ಯೆಗಳಲ್ಲ ಎಂದು ಸ್ಪಷ್ಟಪಡಿಸಿದರು. ಗಾಯಕ್ಕೆ ಅಲ್ಪಾವಧಿಯ ಚೇತರಿಕೆ ಬೇಕಾಗಿತ್ತು ಎಂದು ಅವರು ಒತ್ತಿ ಹೇಳಿದರು, ಈಗ ತಮ್ಮ ಬದ್ಧತೆ ಮತ್ತು ಸಿದ್ಧತೆಯನ್ನು ಪ್ರತಿಪಾದಿಸಿದರು."
+            },
+            "mr": {
+                "title": "स्टार्कने आयपीएल विलंबामागील दुखापतीचा खुलासा केला, टीकाकारांना प्रत्युत्तर दिले",
+                "content": "मिचेल स्टार्कने KKR साठी त्याच्या उशिरा झालेल्या IPL 2024 पदार्पणाबद्दलच्या टीकेला प्रत्युत्तर दिले. ऑस्ट्रेलियाच्या वेगवान गोलंदाजाने खुलासा केला की, चेंडू पकडताना बोटाला झालेली \"अनपेक्षित\" प्रशिक्षण दुखापत ही त्याच्या अनुपस्थितीचे खरे कारण होते, काहींनी सुचवल्याप्रमाणे खराब फॉर्म किंवा फिटनेसचा मुद्दा नव्हता. त्यांनी भर दिला की दुखापतीमुळे थोड्या वेळेसाठी विश्रांती घ्यावी लागली, आता तो आपली बांधिलकी आणि तयारी दर्शवत आहे."
+            },
+            "hi": {
+                "title": "स्टार्क ने आईपीएल में देरी के पीछे चोट का खुलासा किया, आलोचकों को जवाब दिया",
+                "content": "मिचेल स्टार्क ने KKR के लिए अपने विलंबित IPL 2024 डेब्यू को लेकर हो रही आलोचनाओं का जवाब दिया। ऑस्ट्रेलियाई तेज गेंदबाज ने खुलासा किया कि उनकी अनुपस्थिति का असली कारण एक \"अजीबोगरीब\" प्रशिक्षण चोट थी - गेंद पकड़ते समय कटी हुई उंगली, न कि सुस्ती या फिटनेस के मुद्दे जैसा कि कुछ ने सुझाया था। उन्होंने जोर देकर कहा कि चोट को ठीक होने में थोड़ा समय लगा, और अब वह अपनी प्रतिबद्धता और तैयारी पर जोर दे रहे हैं।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWDNaSXNjUkpTMWpRMEwwelk4Sy0wbHVodEZESzhSY0NaUHF0dkNVNVV2dFNGb1NJM0M5czRjczF0R0h4Yko3NF9ETjRWM2tKYW9xcXl0YThSczVNV1g4bmFQRHBkb1ZQbkhxR1BrVVR5cjlCTW5zWXZFV0N0LUdOdGdIcmNCMFR4eXFPVWhxSU94Mk9NcExpMVB6T05vRDJwNXhMakJuam5MS2s3SENyWUZYY2VfWnRnMkdTcHZBSVVMdG9QaWtMRlNKaDVEM2F4UnpleGcwVzJ0V3EzVXJ2YllndXFQb04yM2Q0a2c2Ull4cXlI?oc=5",
+        "date": "Sun, 29 Mar 2026 15:58:16 GMT"
+    },
+    {
+        "id": "ba190cd0",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "Akshaye Khanna Debuts as Shukracharya in Mahakali",
+                "content": "Akshaye Khanna makes his anticipated Telugu debut, transforming into the powerful Shukracharya in Prasanth Varma's upcoming film Mahakali. Director Varma lauds Khanna's performance, stating his 'unmatched class stands out.' This marks a significant role for the acclaimed actor in a new industry. Fans are eagerly awaiting his portrayal of the mythical guru in this exciting new venture."
+            },
+            "kn": {
+                "title": "ಅಕ್ಷಯ್ ಖನ್ನಾ ಮಹಾಕಾಳಿಯಲ್ಲಿ ಶುಕ್ರಚಾರ್ಯನಾಗಿ ಪದಾರ್ಪಣೆ",
+                "content": "ಅಕ್ಷಯ್ ಖನ್ನಾ ಪ್ರಶಾಂತ್ ವರ್ಮಾ ಅವರ ಮುಂಬರುವ 'ಮಹಾಕಾಳಿ' ಚಿತ್ರದಲ್ಲಿ ಶಕ್ತಿಶಾಲಿ ಶುಕ್ರಚಾರ್ಯನಾಗಿ ತಮ್ಮ ನಿರೀಕ್ಷಿತ ತೆಲುಗು ಚೊಚ್ಚಲ ಪ್ರವೇಶ ಮಾಡುತ್ತಿದ್ದಾರೆ. ನಿರ್ದೇಶಕ ವರ್ಮಾ, ಖನ್ನಾ ಅವರ ಅಭಿನಯವನ್ನು ಶ್ಲಾಘಿಸಿದ್ದು, ಅವರ 'ಅಪ್ರತಿಮ ದರ್ಜೆ ಎದ್ದು ಕಾಣುತ್ತದೆ' ಎಂದಿದ್ದಾರೆ. ಇದು ಹೊಸ ಉದ್ಯಮದಲ್ಲಿ ಖ್ಯಾತ ನಟನಿಗೆ ಮಹತ್ವದ ಪಾತ್ರವಾಗಿದೆ. ಪೌರಾಣಿಕ ಗುರುವಿನ ಅವರ ಚಿತ್ರಣಕ್ಕಾಗಿ ಅಭಿಮಾನಿಗಳು ಕಾತರದಿಂದ ಕಾಯುತ್ತಿದ್ದಾರೆ."
+            },
+            "mr": {
+                "title": "अक्षय खन्ना 'महाकाली'मध्ये शुक्राचार्य म्हणून पदार्पण करणार",
+                "content": "अक्षय खन्ना प्रशांत वर्माच्या आगामी 'महाकाली' चित्रपटात शक्तिशाली शुक्राचार्य म्हणून आपल्या बहुप्रतिक्षित तेलगू पदार्पण करत आहेत. दिग्दर्शक वर्माने खन्नाच्या अभिनयाचे कौतुक केले आहे, 'त्यांची अतुलनीय श्रेणी उठून दिसते' असे म्हटले आहे. एका नवीन उद्योगात प्रतिष्ठित अभिनेत्यासाठी ही एक महत्त्वपूर्ण भूमिका आहे. चाहते या पौराणिक गुरूच्या त्यांच्या चित्रणाची आतुरतेने वाट पाहत आहेत."
+            },
+            "hi": {
+                "title": "अक्षय खन्ना 'महाकाली' में शुक्राचार्य के रूप में करेंगे डेब्यू",
+                "content": "अक्षय खन्ना प्रशांत वर्मा की आगामी फिल्म 'महाकाली' में शक्तिशाली शुक्राचार्य के रूप में अपने बहुप्रतीक्षित तेलुगु डेब्यू कर रहे हैं। निर्देशक वर्मा ने खन्ना के प्रदर्शन की प्रशंसा करते हुए कहा कि उनकी 'अतुलनीय क्लास सबसे अलग दिखती है'। यह एक नए उद्योग में प्रशंसित अभिनेता के लिए एक महत्वपूर्ण भूमिका है। प्रशंसक इस पौराणिक गुरु के उनके चित्रण का बेसब्री से इंतजार कर रहे हैं।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPelpaa2JwOUF3dDNTUWg2cTJLUzZsZFdPVjgtZU9IMXR4STh0eXNRSjJZRUN3ZmhrZ1FQM1gtbzU2UTZOcUJhamdremh0Z1BtczNaUVpzVUdJRnVBTktENTMzdXhlenIzWm1hM2RVRUhiYU5KTHFfbE9FWDhtWlJ3WkFHU0h3MF9PWWQ3dGF1MXY0UTQzeThPRE0yV01lNTVPc1hSZGlQcWZuOG1ZbmpuaUxkallPaGF0V05zZ1dydEhzUnpRT3duTnVBNjd4Qi14b3huWUYzbUJUSmJmdFR6cU9qSmJIcnFvWFFwZVZGekVaR2RhdER4NXp0d196cG9jWGtXRm9IVDZEb0F4ejdOeVVoeVFDdFdXZ3Z3OHJqR0zSAaYCQVVfeXFMTnc4czY0VFlfdjFEckpzUTFTMmViSWNyQkFiOWx5QVJxYjdFUUhFanFpSUhIVHRIUVZMOTJJbU5TdzBSY1FUUXB3ZXlmaFFCeG9ya21fVGZTTEl3N2VQWHRZdkptUGxNdXpFQkpmUEpOLTdGc05wZkpOVjdmeGIzOTN3ZkpfMWItalUyOXkwU0xoQWNqWmZsNGM3ajlUTTNjUWhldUVZbkRqUFhUUlI0ZHF5dTZQbkQwSVIzczFKSFNfTDBzLUpwYkdZYk9PVjQ4M0RNUG9LcDNCcVNGUWRyblVzTXppR2RFOFR5c0xZaDFqLUxCbDFYUVY2Ym1VQ25UaXBrMzdPRFZaamJqMWdubXFmNEVqS3F1QlZ2OG13eWtReVByVVJn?oc=5",
+        "date": "Sun, 29 Mar 2026 08:15:07 GMT"
+    },
+    {
+        "id": "b45a0993",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "Ball-Tampering Scandal Rocks PSL",
+                "content": "Shocking ball-tampering allegations hit the Pakistan Super League! Fakhar Zaman was caught on camera appearing to alter the ball during a match. The controversial footage has sparked a strong reaction from former Pakistan captain Shahid Afridi. This incident casts a shadow on fair play in the PSL, prompting debate among fans and officials."
+            },
+            "kn": {
+                "title": "PSL ನಲ್ಲಿ ಬಾಲ್-ಟ್ಯಾಂಪರಿಂಗ್ ಹಗರಣ",
+                "content": "ಪಾಕಿಸ್ತಾನ ಸೂಪರ್ ಲೀಗ್‌ನಲ್ಲಿ ಆಘಾತಕಾರಿ ಬಾಲ್-ಟ್ಯಾಂಪರಿಂಗ್ ಆರೋಪಗಳು! ಪಂದ್ಯದ ವೇಳೆ ಫಖರ್ ಜಮಾನ್ ಚೆಂಡನ್ನು ಬದಲಾಯಿಸಲು ಪ್ರಯತ್ನಿಸುತ್ತಿರುವುದು ಕ್ಯಾಮರಾದಲ್ಲಿ ಸೆರೆಯಾಗಿದೆ. ಈ ವಿವಾದಾತ್ಮಕ ದೃಶ್ಯಾವಳಿಗಳು ಪಾಕಿಸ್ತಾನದ ಮಾಜಿ ನಾಯಕ ಶಾಹಿದ್ ಅಫ್ರಿದಿ ಅವರಿಂದ ತೀವ್ರ ಪ್ರತಿಕ್ರಿಯೆಯನ್ನು ಕೆರಳಿಸಿವೆ. ಈ ಘಟನೆ PSL ನಲ್ಲಿನ ನ್ಯಾಯಯುತ ಆಟದ ಮೇಲೆ ನೆರಳು ಮೂಡಿಸಿದೆ, ಅಭಿಮಾನಿಗಳು ಮತ್ತು ಅಧಿಕಾರಿಗಳ ನಡುವೆ ಚರ್ಚೆಗೆ ಕಾರಣವಾಗಿದೆ."
+            },
+            "mr": {
+                "title": "PSL मध्ये बॉल-टॅम्पिरिंग प्रकरणामुळे खळबळ",
+                "content": "पाकिस्तान सुपर लीगमध्ये बॉल-टॅम्पिरिंगचे धक्कादायक आरोप! फखर झमान एका सामन्यादरम्यान चेंडूला छेडछाड करताना कॅमेरात कैद झाला आहे. या वादग्रस्त फुटेजमुळे पाकिस्तानचा माजी कर्णधार शाहिद आफ्रिदीने तीव्र प्रतिक्रिया दिली आहे. या घटनेमुळे PSL मधील निष्पक्ष खेळावर प्रश्नचिन्ह निर्माण झाले असून, चाहते आणि अधिकाऱ्यांमध्ये चर्चेला उधाण आले आहे."
+            },
+            "hi": {
+                "title": "PSL में बॉल-टेंपरिंग घोटाला",
+                "content": "पाकिस्तान सुपर लीग में बॉल-टेंपरिंग के चौंकाने वाले आरोप! फखर जमान एक मैच के दौरान गेंद से छेड़छाड़ करते हुए कैमरे में कैद हुए हैं। इस विवादास्पद फुटेज पर पाकिस्तान के पूर्व कप्तान शाहिद अफरीदी ने कड़ी प्रतिक्रिया दी है। यह घटना PSL में निष्पक्ष खेल पर सवाल खड़े करती है, जिससे प्रशंसकों और अधिकारियों के बीच बहस छिड़ गई है।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSEg2OVg5cVFlV0NqMHF6VnZkU1VzNDNHazZMb2JHRTRkY0hNNUg0NWZmWkRBNmNiNlh4RGtCV3NVLUJwZnBMM3ZQYnFXRjVYbldQcGlDX0NGTVFYNGw5RmRRclVtVjAzTkZJUWhLVG9zYXV4cTlFOE5yaVdEMXU4RjUycG1EUi1XdEJzdG9ZSEJxbXpyNnB1ZjdGQktaR05EOXY1b096Tm5qc29EVTR3TUtwV0VRel80b2FSQ0tZWFQ3ei00cEZ0SkVsak9hRXMyLTNLWTlRTnBwRl8wNHF3MG84RzZZSU8z0gHuAUFVX3lxTE45QzUxdjFsSU9JZEc0SHZ2LUFBTUg0QUJCOERIaEpKb3VkNmxLZmE0YnAxYU5rdjRqaThxVGVZckc2UTY5eDNNYm1JdnpQUzNmXzhxd1ZXaXBwNnQ4SHBRTm5qNHQwdlVmN1BUZTlyTlhGd3dWMGJTSlRzTmpwMUR3b19zT3JteVpOYnUydDZvc2pnXzkxcFAxTHd3U05lc0h6NkhDRnZtN2dOTXBSTTJpZ1Vtczdycjd4MGJITXNZaEpaRGVSeDBoY2pGMkRaald0NmpELWVfSWN6YlQyTGhoeUppamVIclBtaUdHRkE?oc=5",
+        "date": "Mon, 30 Mar 2026 01:24:00 GMT"
+    },
+    {
+        "id": "b922d2e1",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "PSL Opener Hit by Pink-Ball Controversy",
+                "content": "The Pakistan Super League (PSL) opener faced controversy over the pink ball's condition. Fans and experts criticized its rapid deterioration and poor visibility under lights, deeming it unsuitable for day-night matches. This sparked debates about pink ball quality in T20 leagues, raising concerns about fair play and prompting calls for stricter standards and review to ensure future match integrity."
+            },
+            "kn": {
+                "title": "ಪಿಎಸ್‌ಎಲ್ ಆರಂಭಿಕ ಪಂದ್ಯಕ್ಕೆ ಪಿಂಕ್-ಬಾಲ್ ವಿವಾದದ ಹೊಡೆತ",
+                "content": "ಪಿಎಸ್ಎಲ್ ಆರಂಭಿಕ ಪಂದ್ಯವು ಪಿಂಕ್ ಬಾಲ್ ಸ್ಥಿತಿಯ ಬಗ್ಗೆ ವಿವಾದವನ್ನು ಎದುರಿಸಿತು. ಅಭಿಮಾನಿಗಳು ಮತ್ತು ತಜ್ಞರು ಅದರ ಕ್ಷಿಪ್ರ ಕ್ಷೀಣಿಸುವಿಕೆ ಮತ್ತು ರಾತ್ರಿಯ ಬೆಳಕಿನಲ್ಲಿ ಕಳಪೆ ಗೋಚರತೆಯನ್ನು ಟೀಕಿಸಿದರು, ಹಗಲು-ರಾತ್ರಿ ಪಂದ್ಯಗಳಿಗೆ ಇದು ಸೂಕ್ತವಲ್ಲ ಎಂದು ಪರಿಗಣಿಸಿದರು. ಇದು ಟಿ20 ಲೀಗ್‌ಗಳಲ್ಲಿ ಪಿಂಕ್ ಬಾಲ್ ಗುಣಮಟ್ಟದ ಬಗ್ಗೆ ಚರ್ಚೆಗಳನ್ನು ಹುಟ್ಟುಹಾಕಿತು, ನ್ಯಾಯಯುತ ಆಟದ ಬಗ್ಗೆ ಕಳವಳ ವ್ಯಕ್ತಪಡಿಸಿತು ಮತ್ತು ಭವಿಷ್ಯದ ಪಂದ್ಯಗಳ ಸಮಗ್ರತೆಯನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು ಕಠಿಣ ಮಾನದಂಡಗಳು ಮತ್ತು ವಿಮರ್ಶೆಗಾಗಿ ಕರೆ ನೀಡಿತು."
+            },
+            "mr": {
+                "title": "पीएसएल सलामीच्या सामन्याला पिंक-बॉल वादाचा फटका",
+                "content": "पाकिस्तान सुपर लीग (पीएसएल) च्या सलामीच्या सामन्यात गुलाबी चेंडूच्या स्थितीवरून वाद निर्माण झाला. चाहते आणि तज्ञांनी त्याची झपाट्याने होणारी झीज आणि रात्रीच्या प्रकाशात खराब दृश्यमानतेवर टीका केली, त्याला दिवसा-रात्रीच्या सामन्यांसाठी अयोग्य मानले. यामुळे टी-२० लीगमध्ये गुलाबी चेंडूच्या गुणवत्तेबद्दल वाद निर्माण झाले, ज्यामुळे निष्पक्ष खेळाबद्दल चिंता वाढली आणि भविष्यातील सामन्यांची अखंडता सुनिश्चित करण्यासाठी कठोर मानके आणि पुनरावलोकनाची मागणी केली गेली."
+            },
+            "hi": {
+                "title": "पीएसएल का उद्घाटन मैच गुलाबी गेंद विवाद में फंसा",
+                "content": "पाकिस्तान सुपर लीग (पीएसएल) के उद्घाटन मैच में गुलाबी गेंद की स्थिति को लेकर विवाद खड़ा हो गया। प्रशंसकों और विशेषज्ञों ने रोशनी में इसकी तेजी से बिगड़ती स्थिति और खराब दृश्यता की आलोचना की, इसे दिन-रात के मैचों के लिए अनुपयुक्त बताया। इसने टी20 लीगों में गुलाबी गेंद की गुणवत्ता पर बहस छेड़ दी, निष्पक्ष खेल पर चिंताएं बढ़ाईं और भविष्य के मैचों की अखंडता सुनिश्चित करने के लिए कड़े मानकों और समीक्षा की मांग की।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTjZwd0JCZmFINkphRkVTM0ZuYk1YVlRnZmxCM3pxRm55cWp1bWM0bW5wVnFoQ0xVZzlyRmlVYVU5WURMcENxcVN4bDBJV0RBdmdidFRycDkyTXNCWHoyNnF0c2RKZWR4N2Zsc2pWSWZxUlg5b1pYcm1taml3LWV1X01aeFl2VElLUUVVUFRLZmlZcGlNUnhFUjQyb0hBbWU4anJqWDRwQ2dhakoyQTJMSkdWWVdjS1RTYUJxbVl6TENnVGRzZHRfSkx2QjJtNXV0M0toZjdESGQtbmswWmc?oc=5",
+        "date": "Sun, 29 Mar 2026 08:09:45 GMT"
+    },
+    {
+        "id": "97be3835",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Footage Shows Deadly Mid-Air Jet & Black Hawk Collision",
+                "content": "New footage dramatically reveals the mid-air collision between an American Airlines jet and a US Army Black Hawk helicopter near Reagan National Airport on January 29th. The tragic incident resulted in 67 fatalities. Following the crash, the FAA implemented significant safety changes, including restricting helicopter traffic and overhauling air traffic control to prevent future disasters."
+            },
+            "kn": {
+                "title": "ಮಾರಣಾಂತಿಕ ವಿಮಾನ ಮತ್ತು ಬ್ಲ್ಯಾಕ್ ಹಾಕ್ ಹೆಲಿಕಾಪ್ಟರ್ ಗಾಳಿಯಲ್ಲಿ ಡಿಕ್ಕಿ: ದೃಶ್ಯಾವಳಿ ಬಹಿರಂಗ",
+                "content": "ಜನವರಿ 29 ರಂದು ರೇಗನ್ ನ್ಯಾಷನಲ್ ಏರ್‌ಪೋರ್ಟ್ ಬಳಿ ಅಮೆರಿಕನ್ ಏರ್‌ಲೈನ್ಸ್ ಜೆಟ್ ಮತ್ತು ಯುಎಸ್ ಆರ್ಮಿ ಬ್ಲ್ಯಾಕ್ ಹಾಕ್ ಹೆಲಿಕಾಪ್ಟರ್ ನಡುವೆ ನಡೆದ ಗಾಳಿಯಲ್ಲಿ ಡಿಕ್ಕಿಯ ಕ್ಷಣಗಳನ್ನು ಹೊಸ ದೃಶ್ಯಾವಳಿಗಳು ನಾಟಕೀಯವಾಗಿ ಅನಾವರಣಗೊಳಿಸಿವೆ. ಈ ದುರಂತ ಘಟನೆಯಲ್ಲಿ 67 ಜನರು ಸಾವನ್ನಪ್ಪಿದ್ದಾರೆ. ಅಪಘಾತದ ನಂತರ, ಎಫ್‌ಎ‌ಎ ಭವಿಷ್ಯದ ವಿಪತ್ತುಗಳನ್ನು ತಡೆಯಲು ಹೆಲಿಕಾಪ್ಟರ್ ಸಂಚಾರವನ್ನು ನಿರ್ಬಂಧಿಸುವುದು ಮತ್ತು ವಾಯು ಸಂಚಾರ ನಿಯಂತ್ರಣ ವ್ಯವಸ್ಥೆಯನ್ನು ಸುಧಾರಿಸುವುದು ಸೇರಿದಂತೆ ಪ್ರಮುಖ ಸುರಕ್ಷತಾ ಬದಲಾವಣೆಗಳನ್ನು ಜಾರಿಗೆ ತಂದಿದೆ."
+            },
+            "mr": {
+                "title": "विमान आणि ब्लॅक हॉक हेलिकॉप्टरची हवेत प्राणघातक टक्कर: फुटेज उघड",
+                "content": "२९ जानेवारी रोजी रेगन नॅशनल एअरपोर्टजवळ अमेरिकन एअरलाइन्सच्या जेट आणि यूएस आर्मीच्या ब्लॅक हॉक हेलिकॉप्टरमध्ये हवेत झालेल्या धडकेचे क्षण नवीन फुटेजमध्ये नाट्यमयपणे उघड झाले आहेत. या दुःखद घटनेत ६७ लोकांचा मृत्यू झाला. या अपघातानंतर, एफएएने भविष्यातील आपत्त्या टाळण्यासाठी हेलिकॉप्टरची वाहतूक मर्यादित करणे आणि हवाई वाहतूक नियंत्रण प्रणालीमध्ये सुधारणा करणे यासह महत्त्वपूर्ण सुरक्षा बदल लागू केले आहेत."
+            },
+            "hi": {
+                "title": "जेट और ब्लैक हॉक हेलिकॉप्टर की हवा में घातक टक्कर: फुटेज सामने आया",
+                "content": "29 जनवरी को रीगन नेशनल एयरपोर्ट के पास अमेरिकन एयरलाइंस के जेट और अमेरिकी सेना के ब्लैक हॉक हेलिकॉप्टर के बीच हवा में हुई टक्कर के क्षणों को नए फुटेज ने नाटकीय रूप से उजागर किया है। इस दुखद घटना में 67 लोगों की जान चली गई थी। दुर्घटना के बाद, एफएए ने भविष्य की आपदाओं को रोकने के लिए हेलीकॉप्टर यातायात को प्रतिबंधित करने और हवाई यातायात नियंत्रण प्रणाली में सुधार सहित महत्वपूर्ण सुरक्षा परिवर्तन लागू किए हैं।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129893084,imgsize-3868470.cms",
+        "link": "https://timesofindia.indiatimes.com/world/us/watch-video-reveals-mid-air-collision-between-american-airlines-jet-black-hawk-helicopter-that-killed-67/articleshow/129892020.cms",
+        "date": "2026-03-30T11:23:22+05:30"
+    },
+    {
+        "id": "b8035a20",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "US Congress Flags Pakistan as Terror Base",
+                "content": "A US Congressional report labels Pakistan a hub for major terrorist groups, some active since the 1980s. Despite military operations, these designated organizations persist, fueling concerns about Pakistan's deep-rooted links to terrorism. This ongoing issue continues to influence regional stability, notably impacting India-Pakistan relations and requiring constant de-escalation efforts."
+            },
+            "kn": {
+                "title": "ಯುಎಸ್ ಕಾಂಗ್ರೆಸ್ ಪಾಕಿಸ್ತಾನವನ್ನು ಭಯೋತ್ಪಾದನಾ ನೆಲೆಯಾಗಿ ಗುರುತಿಸಿದೆ",
+                "content": "ಯುಎಸ್ ಕಾಂಗ್ರೆಸ್ ವರದಿಯು ಪಾಕಿಸ್ತಾನವನ್ನು ಪ್ರಮುಖ ಭಯೋತ್ಪಾದಕ ಗುಂಪುಗಳ ಕೇಂದ್ರವೆಂದು ಹೇಳಿದೆ, ಅವುಗಳಲ್ಲಿ ಕೆಲವು 1980ರ ದಶಕದಿಂದಲೂ ಸಕ್ರಿಯವಾಗಿವೆ. ಸೇನಾ ಕಾರ್ಯಾಚರಣೆಗಳ ಹೊರತಾಗಿಯೂ, ಈ ಹೆಸರಿಸಿದ ಸಂಘಟನೆಗಳು ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಲೇ ಇವೆ, ಇದು ಪಾಕಿಸ್ತಾನದ ಭಯೋತ್ಪಾದನೆಯೊಂದಿಗಿನ ಆಳವಾದ ಸಂಬಂಧಗಳ ಬಗ್ಗೆ ಕಳವಳಗಳನ್ನು ಹೆಚ್ಚಿಸಿದೆ. ಈ ನಿರಂತರ ಸಮಸ್ಯೆಯು ಪ್ರಾದೇಶಿಕ ಸ್ಥಿರತೆಯ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರುತ್ತಿದೆ, ವಿಶೇಷವಾಗಿ ಭಾರತ-ಪಾಕಿಸ್ತಾನ ಸಂಬಂಧಗಳ ಮೇಲೆ ಪ್ರಭಾವ ಬೀರಿ ನಿರಂತರ ಉದ್ವಿಗ್ನತೆ ಕಡಿಮೆಗೊಳಿಸುವ ಪ್ರಯತ್ನಗಳಿಗೆ ಅಗತ್ಯವಿದೆ."
+            },
+            "mr": {
+                "title": "अमेरिकन काँग्रेसने पाकिस्तानला दहशतवादी तळ घोषित केले",
+                "content": "अमेरिकेच्या काँग्रेसच्या एका अहवालात पाकिस्तानला मोठ्या दहशतवादी गटांचे केंद्र म्हटले आहे, ज्यातले काही 1980 च्या दशकापासून सक्रिय आहेत. लष्करी कारवाईनंतरही, हे नियुक्त गट कार्यरत आहेत, ज्यामुळे पाकिस्तानच्या दहशतवादाशी असलेल्या सखोल संबंधांबाबत चिंता वाढत आहे. हा सततचा मुद्दा प्रादेशिक स्थिरतेवर परिणाम करत आहे, विशेषतः भारत-पाकिस्तान संबंधांवर परिणाम करत असून, सततच्या तणाव कमी करण्याच्या प्रयत्नांची गरज आहे."
+            },
+            "hi": {
+                "title": "अमेरिकी कांग्रेस ने पाकिस्तान को आतंकी अड्डा बताया",
+                "content": "एक अमेरिकी कांग्रेस रिपोर्ट में पाकिस्तान को प्रमुख आतंकवादी समूहों का केंद्र बताया गया है, जिनमें से कुछ 1980 के दशक से सक्रिय हैं। सैन्य अभियानों के बावजूद, ये नामित संगठन बने हुए हैं, जिससे पाकिस्तान के आतंकवाद से गहरे संबंधों को लेकर चिंताएँ बढ़ रही हैं। यह लगातार जारी मुद्दा क्षेत्रीय स्थिरता को प्रभावित करता है, विशेषकर भारत-पाकिस्तान संबंधों पर असर डालता है और निरंतर तनाव कम करने के प्रयासों की आवश्यकता है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129891083,imgsize-1051367.cms",
+        "link": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-a-base-for-major-terror-groups-some-active-since-1980s-us-congress-report/articleshow/129890959.cms",
+        "date": "2026-03-30T11:03:53+05:30"
+    },
+    {
+        "id": "88c0c7f8",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Man Fatally Stabbed Near Mobile Dispensary in Bronx",
+                "content": "A 35-year-old man was fatally stabbed late Saturday night in the Bronx, collapsing near a mobile cannabis dispensary on Webster Avenue. Responders found him with a chest wound and transported him to St. Barnabas Hospital, where he was pronounced dead. Police are actively investigating the late-night attack."
+            },
+            "kn": {
+                "title": "ಬ್ರಾಂಕ್ಸ್‌ನಲ್ಲಿ ಮೊಬೈಲ್ ಡಿಸ್ಪೆನ್ಸರಿ ಬಳಿ ವ್ಯಕ್ತಿ ಮಾರಣಾಂತಿಕವಾಗಿ ಇರಿತ",
+                "content": "ಬ್ರಾಂಕ್ಸ್‌ನಲ್ಲಿ ಶನಿವಾರ ರಾತ್ರಿ 35 ವರ್ಷದ ವ್ಯಕ್ತಿಯನ್ನು ಮಾರಣಾಂತಿಕವಾಗಿ ಇರಿಯಲಾಯಿತು. ವೆಬ್‌ಸ್ಟರ್ ಅವೆನ್ಯೂದಲ್ಲಿರುವ ಮೊಬೈಲ್ ಗಾಂಜಾ ಡಿಸ್ಪೆನ್ಸರಿ ಬಳಿ ಅವರು ಕುಸಿದು ಬಿದ್ದ ಸ್ಥಿತಿಯಲ್ಲಿ ಪತ್ತೆಯಾದರು. ಸ್ಪಂದಿಸಿದವರು ಅವರ ಎದೆಗೆ ಗಾಯವಾಗಿರುವುದನ್ನು ಪತ್ತೆ ಮಾಡಿ ಸೇಂಟ್ ಬರ್ನಾಬಸ್ ಆಸ್ಪತ್ರೆಗೆ ಸಾಗಿಸಿದರು, ಅಲ್ಲಿ ಅವರನ್ನು ಮೃತ ಎಂದು ಘೋಷಿಸಲಾಯಿತು. ಈ ರಾತ್ರಿಯ ದಾಳಿಯ ಬಗ್ಗೆ ಪೊಲೀಸರು ಸಕ್ರಿಯವಾಗಿ ತನಿಖೆ ನಡೆಸುತ್ತಿದ್ದಾರೆ."
+            },
+            "mr": {
+                "title": "ब्रॉन्क्समध्ये मोबाईल औषधालयाजवळ एका व्यक्तीची चाकूने भोसकून हत्या",
+                "content": "ब्रॉन्क्समध्ये शनिवारी रात्री उशिरा एका 35 वर्षीय व्यक्तीची चाकूने भोसकून हत्या करण्यात आली. तो वेबस्टर एव्हेन्यूवरील एका मोबाईल कॅनॅबिस औषधालयाजवळ कोसळलेल्या अवस्थेत आढळला. प्रतिसादकांनी त्याला छातीत जखम झाल्याचे पाहिले आणि त्याला सेंट बर्नबास रुग्णालयात नेले, जिथे त्याला मृत घोषित करण्यात आले. रात्रीच्या या हल्ल्याचा पोलीस सक्रियपणे तपास करत आहेत."
+            },
+            "hi": {
+                "title": "ब्रोंक्स में मोबाइल डिस्पेंसरी के पास एक व्यक्ति की चाकू मारकर हत्या",
+                "content": "ब्रोंक्स में शनिवार देर रात एक 35 वर्षीय व्यक्ति को चाकू मारकर मार डाला गया। वह वेबस्टर एवेन्यू पर एक मोबाइल कैनबिस डिस्पेंसरी के पास गिरा हुआ मिला। बचावकर्ताओं ने उसके सीने में घाव पाया और उसे सेंट बर्नबास अस्पताल ले गए, जहां उसे मृत घोषित कर दिया गया। पुलिस इस देर रात हुए हमले की सक्रिय रूप से जांच कर रही है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129892146,imgsize-52172.cms",
+        "link": "https://timesofindia.indiatimes.com/world/us/man-fatally-stabbed-near-mobile-pot-dispensary-in-bronx-late-night-attack/articleshow/129891857.cms",
+        "date": "2026-03-30T10:56:08+05:30"
+    },
+    {
+        "id": "11b58bcf",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Artemis II Launch: Your Guide to Watching Live on April 1!",
+                "content": "Prepare to witness history! The Artemis II mission is set for launch on April 1. Get all the crucial details: full timing, official streaming platforms, and essential crew information to experience this monumental event live. Discover exactly how and where to tune in, ensuring you don't miss a single moment of NASA's next giant leap towards lunar exploration. Mark your calendars!"
+            },
+            "kn": {
+                "title": "ಆರ್ಟೆಮಿಸ್ II ಉಡಾವಣೆ: ಏಪ್ರಿಲ್ 1 ರಂದು ನೇರಪ್ರಸಾರ ವೀಕ್ಷಿಸಲು ನಿಮ್ಮ ಮಾರ್ಗದರ್ಶಿ!",
+                "content": "ಇತಿಹಾಸಕ್ಕೆ ಸಾಕ್ಷಿಯಾಗಲು ಸಿದ್ಧರಾಗಿ! ಆರ್ಟೆಮಿಸ್ II ಮಿಷನ್ ಏಪ್ರಿಲ್ 1 ರಂದು ಉಡಾವಣೆಗೆ ಸಿದ್ಧವಾಗಿದೆ. ಈ ಸ್ಮಾರಕ ಕಾರ್ಯಕ್ರಮವನ್ನು ನೇರಪ್ರಸಾರದಲ್ಲಿ ಅನುಭವಿಸಲು ಎಲ್ಲಾ ನಿರ್ಣಾಯಕ ವಿವರಗಳನ್ನು ಪಡೆಯಿರಿ: ಸಂಪೂರ್ಣ ಸಮಯ, ಅಧಿಕೃತ ಸ್ಟ್ರೀಮಿಂಗ್ ಪ್ಲಾಟ್‌ಫಾರ್ಮ್‌ಗಳು ಮತ್ತು ಅಗತ್ಯ ಸಿಬ್ಬಂದಿ ಮಾಹಿತಿ. ನಾಸಾದ ಚಂದ್ರನ ಅನ್ವೇಷಣೆಯ ಕಡೆಗೆ ಮುಂದಿನ ದೊಡ್ಡ ಹೆಜ್ಜೆಯ ಒಂದೇ ಒಂದು ಕ್ಷಣವನ್ನು ನೀವು ಕಳೆದುಕೊಳ್ಳದಂತೆ, ಹೇಗೆ ಮತ್ತು ಎಲ್ಲಿ ವೀಕ್ಷಿಸಬೇಕೆಂದು ತಿಳಿದುಕೊಳ್ಳಿ. ನಿಮ್ಮ ಕ್ಯಾಲೆಂಡರ್‌ಗಳನ್ನು ಗುರುತಿಸಿ!"
+            },
+            "mr": {
+                "title": "आर्टेमिस II प्रक्षेपण: 1 एप्रिल रोजी थेट पाहण्यासाठी तुमची मार्गदर्शिका!",
+                "content": "इतिहासाचे साक्षीदार होण्यासाठी सज्ज व्हा! आर्टेमिस II मिशन 1 एप्रिल रोजी प्रक्षेपणासाठी सज्ज आहे. हा भव्य कार्यक्रम थेट अनुभवण्यासाठी सर्व महत्त्वाचे तपशील मिळवा: संपूर्ण वेळ, अधिकृत स्ट्रीमिंग प्लॅटफॉर्म आणि आवश्यक क्रू माहिती. नासाच्या चंद्र मोहिमेच्या पुढील मोठ्या झेपचा एकही क्षण तुम्हाला चुकणार नाही याची खात्री करण्यासाठी, नेमके कसे आणि कुठे ट्यून करावे ते शोधा. तुमचे कॅलेंडर चिन्हांकित करा!"
+            },
+            "hi": {
+                "title": "आर्टेमिस II लॉन्च: 1 अप्रैल को लाइव देखने के लिए आपकी मार्गदर्शिका!",
+                "content": "इतिहास के गवाह बनने के लिए तैयार हो जाइए! आर्टेमिस II मिशन 1 अप्रैल को लॉन्च के लिए निर्धारित है। इस महत्वपूर्ण घटना को लाइव अनुभव करने के लिए सभी महत्वपूर्ण विवरण प्राप्त करें: पूरा समय, आधिकारिक स्ट्रीमिंग प्लेटफॉर्म और आवश्यक क्रू जानकारी। नासा की चंद्र अन्वेषण की ओर अगली बड़ी छलांग का एक भी क्षण न छूटे, यह सुनिश्चित करने के लिए ठीक से जानें कि कैसे और कहाँ ट्यून करें। अपने कैलेंडर चिह्नित करें!"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129885230,imgsize-54494.cms",
+        "link": "https://timesofindia.indiatimes.com/science/how-to-watch-artemis-ii-launch-live-on-april-1-full-timing-streaming-details-and-crew-information/articleshow/129885252.cms",
+        "date": "2026-03-30T03:00:00+05:30"
+    },
+    {
+        "id": "3bbb8c4c",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Myanmar Junta Chief Replaced After Presidential Nomination",
+                "content": "Myanmar's junta chief, Min Aung Hlaing, has been replaced following his nomination in the presidential process. This unexpected development signals a significant internal power shift within the military regime. While details are scarce, the move suggests a strategic repositioning of leadership, potentially indicating internal disagreements or a calculated step towards a new political facade in the military-ruled nation."
+            },
+            "kn": {
+                "title": "ಮ್ಯಾನ್ಮಾರ್ ಸೇನಾ ಮುಖ್ಯಸ್ಥರಿಗೆ ಅಧ್ಯಕ್ಷೀಯ ನಾಮನಿರ್ದೇಶನದ ನಂತರ ಬದಲಿ",
+                "content": "ಮ್ಯಾನ್ಮಾರ್‌ನ ಸೇನಾ ಮುಖ್ಯಸ್ಥ ಮಿನ್ ಆಂಗ್ ಹ್ಲೈಂಗ್ ಅವರನ್ನು ಅಧ್ಯಕ್ಷೀಯ ಪ್ರಕ್ರಿಯೆಯಲ್ಲಿ ಅವರ ನಾಮನಿರ್ದೇಶನದ ನಂತರ ಬದಲಾಯಿಸಲಾಗಿದೆ. ಈ ಅನಿರೀಕ್ಷಿತ ಬೆಳವಣಿಗೆಯು ಮಿಲಿಟರಿ ಆಡಳಿತದಲ್ಲಿ ಗಮನಾರ್ಹ ಆಂತರಿಕ ಅಧಿಕಾರದ ಬದಲಾವಣೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ವಿವರಗಳು ಕಡಿಮೆ ಇದ್ದರೂ, ಈ ಕ್ರಮವು ನಾಯಕತ್ವದ ಕಾರ್ಯತಂತ್ರದ ಮರುಸ್ಥಾಪನೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಇದು ಆಂತರಿಕ ಭಿನ್ನಾಭಿಪ್ರಾಯಗಳು ಅಥವಾ ಮಿಲಿಟರಿ ಆಡಳಿತವಿರುವ ರಾಷ್ಟ್ರದಲ್ಲಿ ಹೊಸ ರಾಜಕೀಯ ಮುಖವಾಡದ ಕಡೆಗೆ ಲೆಕ್ಕಹಾಕಿದ ಹೆಜ್ಜೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "म्यानमारच्या लष्करी प्रमुखांची अध्यक्षीय उमेदवारीनंतर बदली",
+                "content": "म्यानमारचे लष्करी प्रमुख, मिन आँग ह्लाइंग यांची अध्यक्षीय प्रक्रियेत त्यांच्या उमेदवारीनंतर बदली करण्यात आली आहे. ही अनपेक्षित घडामोड लष्करी राजवटीतील महत्त्वपूर्ण अंतर्गत सत्ता बदलाचे संकेत देते. तपशील कमी असले तरी, या कृतीमुळे नेतृत्वाच्या रणनीतिक पुनर्स्थापनेचे संकेत मिळतात, ज्यामुळे अंतर्गत मतभेद किंवा लष्करी-शासित राष्ट्रात नवीन राजकीय दर्शनाकडे एक सुनियोजित पाऊल सूचित होते."
+            },
+            "hi": {
+                "title": "म्यांमार के सैन्य प्रमुख को राष्ट्रपति नामांकन के बाद बदला गया",
+                "content": "म्यांमार के सैन्य प्रमुख, मिन आंग ह्लाइंग को राष्ट्रपति प्रक्रिया में उनके नामांकन के बाद बदल दिया गया है। यह अप्रत्याशित घटनाक्रम सैन्य शासन के भीतर एक महत्वपूर्ण आंतरिक शक्ति परिवर्तन का संकेत देता है। हालांकि विवरण कम हैं, यह कदम नेतृत्व के रणनीतिक पुनर्संस्थापन का सुझाव देता है, जो संभावित रूप से आंतरिक मतभेदों या सैन्य-शासित राष्ट्र में एक गणनात्मक कदम का संकेत देता है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129892022,imgsize-55534.cms",
+        "link": "https://timesofindia.indiatimes.com/world/south-asia/myanmar-replaces-junta-chief-min-aung-hlaing-after-his-nomination-in-presidential-process/articleshow/129891865.cms",
+        "date": "2026-03-30T10:46:29+05:30"
+    },
+    {
+        "id": "e4c5d83c",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Iranian Missile Shrapnel Hits Israel's Negev Industrial Hub",
+                "content": "Missile shrapnel from Iran's recent attack caused significant damage and a fire at Israel's sensitive Negev Industrial hub. Videos show large plumes of smoke rising from the site, underscoring the direct impact of the aerial assault. This incident highlights escalating tensions in the region, with industrial infrastructure becoming a direct casualty of the wider conflict. Authorities are assessing the full extent of the damage."
+            },
+            "kn": {
+                "title": "ಇರಾನ್ ಕ್ಷಿಪಣಿ ಚೂರುಗಳು ಇಸ್ರೇಲ್‌ನ ನೆಗೇವ್ ಕೈಗಾರಿಕಾ ಕೇಂದ್ರಕ್ಕೆ ಅಪ್ಪಳಿಸಿವೆ",
+                "content": "ಇರಾನ್‌ನ ಇತ್ತೀಚಿನ ದಾಳಿಯಿಂದ ಬಂದ ಕ್ಷಿಪಣಿ ಚೂರುಗಳು ಇಸ್ರೇಲ್‌ನ ಸೂಕ್ಷ್ಮ ನೆಗೇವ್ ಕೈಗಾರಿಕಾ ಕೇಂದ್ರದಲ್ಲಿ ಗಣನೀಯ ಹಾನಿ ಮತ್ತು ಬೆಂಕಿಗೆ ಕಾರಣವಾಗಿವೆ. ಸ್ಥಳದಿಂದ ದೊಡ್ಡ ಹೊಗೆ ಹೊರಬರುವುದನ್ನು ವೀಡಿಯೊಗಳು ತೋರಿಸುತ್ತವೆ, ಇದು ವೈಮಾನಿಕ ದಾಳಿಯ ನೇರ ಪರಿಣಾಮವನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ಈ ಘಟನೆಯು ಪ್ರದೇಶದಲ್ಲಿ ಹೆಚ್ಚುತ್ತಿರುವ ಉದ್ವಿಗ್ನತೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ, ಕೈಗಾರಿಕಾ ಮೂಲಸೌಕರ್ಯವು ವ್ಯಾಪಕ ಸಂಘರ್ಷದ ನೇರ ಬಲಿಪಶುವಾಗಿದೆ. ಅಧಿಕಾರಿಗಳು ಹಾನಿಯ ಸಂಪೂರ್ಣ ಪ್ರಮಾಣವನ್ನು ಅಂದಾಜಿಸುತ್ತಿದ್ದಾರೆ."
+            },
+            "mr": {
+                "title": "इराणी क्षेपणास्त्र तुकड्यांचा इस्रायलच्या नेगेव्ह औद्योगिक केंद्राला फटका",
+                "content": "इराणच्या अलीकडील हल्ल्यातून आलेल्या क्षेपणास्त्राच्या तुकड्यांमुळे इस्रायलच्या संवेदनशील नेगेव्ह औद्योगिक केंद्रात मोठे नुकसान झाले आणि आग लागली. व्हिडिओमध्ये घटनास्थळावरून मोठ्या प्रमाणात धूर निघताना दिसत आहे, ज्यामुळे हवाई हल्ल्याचा थेट परिणाम अधोरेखित होतो. ही घटना प्रदेशातील वाढता तणाव दर्शवते, ज्यात औद्योगिक पायाभूत सुविधा मोठ्या संघर्षाचा थेट बळी ठरल्या आहेत. अधिकारी नुकसानीची संपूर्ण व्याप्ती तपासत आहेत."
+            },
+            "hi": {
+                "title": "ईरानी मिसाइल के छर्रों से इजरायल के नेगेव औद्योगिक केंद्र पर हमला",
+                "content": "ईरान के हालिया हमले से आए मिसाइल के छर्रों ने इजरायल के संवेदनशील नेगेव औद्योगिक केंद्र में बड़ा नुकसान और आग लगा दी। वीडियो में साइट से बड़े धुएं के गुबार उठते हुए दिख रहे हैं, जो हवाई हमले के सीधे प्रभाव को रेखांकित करते हैं। यह घटना क्षेत्र में बढ़ते तनाव को उजागर करती है, जिसमें औद्योगिक बुनियादी ढांचा व्यापक संघर्ष का सीधा शिकार बन रहा है। अधिकारी नुकसान की पूरी सीमा का आकलन कर रहे हैं।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129891395,imgsize-2031669.cms",
+        "link": "https://timesofindia.indiatimes.com/world/middle-east/watch-missile-shrapnel-from-iran-causes-fire-damage-to-israels-negev-industrial-hub/articleshow/129890621.cms",
+        "date": "2026-03-30T10:05:59+05:30"
+    },
+    {
+        "id": "845f827d",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Jerusalem Palm Sunday Blockade Sparks Global Outrage",
+                "content": "Israeli authorities controversially blocked senior Catholic leaders from Jerusalem's Church of the Holy Sepulchre on Palm Sunday, marking the first time in centuries. Citing security amid the Iran conflict, the move sparked global outrage from church figures and leaders like Macron and Meloni. The incident intensifies tensions over religious access and wartime restrictions in the Holy City."
+            },
+            "kn": {
+                "title": "ಜೆರುಸಲೇಂ ಪಾಮ್ ಭಾನುವಾರದ ನಿರ್ಬಂಧ ಜಾಗತಿಕ ಆಕ್ರೋಶಕ್ಕೆ ಕಾರಣ",
+                "content": "ಇಸ್ರೇಲಿ ಅಧಿಕಾರಿಗಳು ಪಾಮ್ ಭಾನುವಾರದಂದು ಜೆರುಸಲೇಂನ ಪವಿತ್ರ ಸಮಾಧಿ ಚರ್ಚ್‌ಗೆ ಹಿರಿಯ ಕ್ಯಾಥೋಲಿಕ್ ನಾಯಕರ ಪ್ರವೇಶವನ್ನು ವಿವಾದಾತ್ಮಕವಾಗಿ ನಿರ್ಬಂಧಿಸಿದರು, ಇದು ಶತಮಾನಗಳಲ್ಲಿ ಮೊದಲ ಬಾರಿಗೆ. ಇರಾನ್ ಸಂಘರ್ಷದ ಮಧ್ಯೆ ಭದ್ರತೆಯನ್ನು ಉಲ್ಲೇಖಿಸಿ, ಈ ಕ್ರಮವು ಚರ್ಚ್ ಮುಖಂಡರು ಹಾಗೂ ಮ್ಯಾಕ್ರನ್ ಮತ್ತು ಮೆಲೋನಿ ಅವರಂತಹ ಜಾಗತಿಕ ನಾಯಕರಿಂದ ತೀವ್ರ ಆಕ್ರೋಶಕ್ಕೆ ಕಾರಣವಾಯಿತು. ಈ ಘಟನೆಯು ಪವಿತ್ರ ನಗರದಲ್ಲಿ ಧಾರ್ಮಿಕ ಪ್ರವೇಶ ಮತ್ತು ಯುದ್ಧಕಾಲದ ನಿರ್ಬಂಧಗಳ ಮೇಲಿನ ಉದ್ವಿಗ್ನತೆಯನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "जेरुसलेम पाम संडे नाकाबंदीने जागतिक संताप",
+                "content": "इस्रायली अधिकाऱ्यांनी वादग्रस्तपणे पाम संडेला जेरुसलेममधील होली सेपल्चर चर्चमध्ये वरिष्ठ कॅथोलिक नेत्यांना प्रवेश करण्यापासून रोखले, जे शतकांमध्ये प्रथमच घडले. इराण संघर्षाच्या पार्श्वभूमीवर सुरक्षेचे कारण देत, या कृतीमुळे चर्चमधील प्रमुख व्यक्ती आणि मॅक्रॉन व मेलोनींसारख्या नेत्यांकडून जागतिक संताप व्यक्त झाला. ही घटना पवित्र शहरात धार्मिक प्रवेश आणि युद्धकालीन निर्बंधांवरील तणाव वाढवते."
+            },
+            "hi": {
+                "title": "यरुशलम पाम संडे नाकाबंदी ने भड़काया वैश्विक आक्रोश",
+                "content": "इजरायली अधिकारियों ने पाम संडे पर यरुशलम के चर्च ऑफ द होली सेपल्चर में वरिष्ठ कैथोलिक नेताओं को विवादास्पद रूप से प्रवेश करने से रोक दिया, जो सदियों में पहली बार हुआ. ईरान संघर्ष के बीच सुरक्षा का हवाला देते हुए, इस कदम से चर्च के प्रमुखों और मैक्रॉन व मेलोनी जैसे वैश्विक नेताओं से तीव्र आक्रोश भड़का. यह घटना पवित्र शहर में धार्मिक पहुंच और युद्धकालीन प्रतिबंधों पर तनाव बढ़ाती है."
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129889407,imgsize-1275012.cms",
+        "link": "https://timesofindia.indiatimes.com/world/middle-east/israel-blocks-senior-catholic-leaders-from-jerusalem-church-on-palm-sunday-first-time-in-centuries-access-restored/articleshow/129889170.cms",
+        "date": "2026-03-30T06:08:34+05:30"
+    },
+    {
+        "id": "0a6b83e0",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Police Stop Florida Man After 'Missile' Reports",
+                "content": "A Florida man was stopped by police after numerous drivers reported alarming 'missiles' mounted on his pickup truck. Deputies responded to calls concerning the unusual vehicle on the highway. Upon inspection, authorities discovered the supposed 'missiles' were large PVC pipes, cleverly modified to resemble ordnance. The man faced no charges but received a warning about public safety and the unsettling appearance of his truck."
+            },
+            "kn": {
+                "title": "'ಮಿಸೈಲ್' ವರದಿಗಳ ನಂತರ ಫ್ಲೋರಿಡಾ ವ್ಯಕ್ತಿಯನ್ನು ತಡೆದ ಪೊಲೀಸರು",
+                "content": "ಫ್ಲೋರಿಡಾ ವ್ಯಕ್ತಿಯೊಬ್ಬನನ್ನು ಪೊಲೀಸರು ತಡೆದರು, ಏಕೆಂದರೆ ಹಲವಾರು ಚಾಲಕರು ಅವನ ಪಿಕಪ್ ಟ್ರಕ್‌ನಲ್ಲಿ ಆತಂಕಕಾರಿ 'ಮಿಸೈಲ್‌ಗಳನ್ನು' ಅಳವಡಿಸಿರುವುದಾಗಿ ವರದಿ ಮಾಡಿದ್ದರು. ಹೆದ್ದಾರಿಯಲ್ಲಿನ ಅಸಾಮಾನ್ಯ ವಾಹನದ ಬಗ್ಗೆ ಬಂದ ಕರೆಗಳಿಗೆ ಡೆಪ್ಯೂಟಿಗಳು ಸ್ಪಂದಿಸಿದರು. ಪರಿಶೀಲಿಸಿದಾಗ, ಅಧಿಕಾರಿಗಳು ಆ 'ಮಿಸೈಲ್‌ಗಳು' ವಾಸ್ತವವಾಗಿ ದೊಡ್ಡ PVC ಪೈಪ್‌ಗಳಾಗಿದ್ದು, ಯುದ್ಧಸಾಮಗ್ರಿಗಳಂತೆ ಕಾಣುವಂತೆ ಚತುರವಾಗಿ ಮಾರ್ಪಡಿಸಲಾಗಿತ್ತು ಎಂದು ಕಂಡುಕೊಂಡರು. ಆ ವ್ಯಕ್ತಿಯ ಮೇಲೆ ಯಾವುದೇ ಆರೋಪ ಹೊರಿಸಲಾಗಿಲ್ಲ, ಆದರೆ ಸಾರ್ವಜನಿಕ ಸುರಕ್ಷತೆ ಮತ್ತು ಅವನ ಟ್ರಕ್‌ನ ವಿಚಿತ್ರ ನೋಟದ ಬಗ್ಗೆ ಎಚ್ಚರಿಕೆ ನೀಡಲಾಯಿತು."
+            },
+            "mr": {
+                "title": "'क्षेपणास्त्र' अहवालानंतर फ्लोरिडाच्या व्यक्तीला पोलिसांनी थांबवले",
+                "content": "अनेक वाहनचालकांनी त्याच्या पिकअप ट्रकवर चिंताजनक 'क्षेपणास्त्रे' लावल्याचा अहवाल दिल्यानंतर फ्लोरिडातील एका व्यक्तीला पोलिसांनी थांबवले. महामार्गावरील असामान्य वाहनाबाबतच्या तक्रारींना डेप्युटींनी प्रतिसाद दिला. तपासणीनंतर, अधिकाऱ्यांनी शोधून काढले की ती कथित 'क्षेपणास्त्रे' केवळ मोठ्या पीव्हीसी पाईप्स होती, जी शस्त्रास्त्रांसारखी दिसण्यासाठी चतुराईने बदलली होती. त्या व्यक्तीवर कोणताही आरोप ठेवण्यात आला नाही, परंतु त्याला सार्वजनिक सुरक्षा आणि त्याच्या ट्रकच्या अस्वस्थ करणाऱ्या दिसण्याबद्दल चेतावणी देण्यात आली."
+            },
+            "hi": {
+                "title": "'मिसाइल' की रिपोर्ट के बाद फ्लोरिडा के व्यक्ति को पुलिस ने रोका",
+                "content": "कई ड्राइवरों द्वारा अपनी पिकअप ट्रक पर खतरनाक 'मिसाइलें' लगे होने की रिपोर्ट के बाद फ्लोरिडा के एक व्यक्ति को पुलिस ने रोक लिया। डिप्टी अधिकारियों ने राजमार्ग पर असामान्य वाहन के संबंध में मिली कॉल पर कार्रवाई की। जांच करने पर, अधिकारियों ने पाया कि कथित 'मिसाइलें' केवल बड़ी पीवीसी पाइप थीं, जिन्हें चतुराई से हथियारों जैसा दिखने के लिए संशोधित किया गया था। व्यक्ति पर कोई आरोप नहीं लगाया गया, लेकिन उसे सार्वजनिक सुरक्षा और उसके ट्रक की परेशान करने वाली उपस्थिति के बारे में चेतावनी दी गई।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129886631,imgsize-187672.cms",
+        "link": "https://timesofindia.indiatimes.com/world/us/florida-man-stopped-by-police-after-drivers-report-missiles-mounted-on-truck-bomb-squad-dispatched/articleshow/129886631.cms",
+        "date": "2026-03-30T01:06:17+05:30"
+    },
+    {
+        "id": "2e1970ec",
+        "category": "Sports",
+        "translations": {
+            "en": {
+                "title": "Green's IPL Bowling Ban Sparks KKR, CA Workload Row",
+                "content": "Cameron Green's INR 25.20 crore IPL price is questioned as a back injury prevents him from bowling. Cricket Australia states KKR knew of his condition, fueling a debate over player workload management. This conflict highlights the struggle between franchise rights and national board control, leaving KKR facing team imbalance without their key all-rounder's bowling services."
+            },
+            "kn": {
+                "title": "ಗ್ರೀನ್ ಐಪಿಎಲ್ ಬೌಲಿಂಗ್ ನಿಷೇಧ: ಕೆಕೆಆರ್ vs ಸಿಎ ಕಾರ್ಯಭಾರ ಜಗಳ",
+                "content": "ಕ್ಯಾಮರಾನ್ ಗ್ರೀನ್ ಅವರ ₹25.20 ಕೋಟಿ ಐಪಿಎಲ್ ಬೆಲೆ ಪ್ರಶ್ನಾರ್ಹವಾಗಿದೆ, ಬೆನ್ನಿನ ಗಾಯದಿಂದ ಅವರು ಬೌಲಿಂಗ್ ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ. ಕೆಕೆಆರ್‌ಗೆ ಅವರ ಸ್ಥಿತಿ ತಿಳಿದಿತ್ತು ಎಂದು ಕ್ರಿಕೆಟ್ ಆಸ್ಟ್ರೇಲಿಯಾ ಹೇಳಿದೆ, ಆಟಗಾರರ ಕಾರ್ಯಭಾರ ನಿರ್ವಹಣೆ ಬಗ್ಗೆ ಚರ್ಚೆ ಹುಟ್ಟುಹಾಕಿದೆ. ಇದು ಫ್ರಾಂಚೈಸಿ ಹಕ್ಕುಗಳು ಮತ್ತು ರಾಷ್ಟ್ರೀಯ ಮಂಡಳಿ ನಿಯಂತ್ರಣದ ನಡುವಿನ ಸಂಘರ್ಷವನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ, ಕೆಕೆಆರ್ ಪ್ರಮುಖ ಆಲ್‌ರೌಂಡರ್‌ನ ಬೌಲಿಂಗ್ ಇಲ್ಲದೆ ತಂಡದ ಸಮತೋಲನಕ್ಕೆ ತೊಂದರೆ ಎದುರಿಸುತ್ತಿದೆ."
+            },
+            "mr": {
+                "title": "ग्रीनच्या आयपीएल बॉलिंगबंदीमुळे KKR, CA मध्ये कार्यभारावरून वाद",
+                "content": "कॅमेरॉन ग्रीनच्या ₹२५.२० कोटी आयपीएल किमतीवर प्रश्नचिन्ह आहे कारण पाठीच्या दुखापतीमुळे तो गोलंदाजी करू शकत नाही. KKR ला त्याच्या स्थितीबद्दल माहिती होती असे क्रिकेट ऑस्ट्रेलियाने म्हटले आहे, यामुळे खेळाडूंच्या कार्यभार व्यवस्थापनावर वादळ निर्माण झाले आहे. हा संघर्ष फ्रँचायझी आणि राष्ट्रीय मंडळाच्या नियंत्रणातील फरक दर्शवतो, ज्यामुळे KKR ला त्यांच्या महत्त्वाच्या अष्टपैलू खेळाडूच्या गोलंदाजीविना संघात असमतोल जाणवत आहे."
+            },
+            "hi": {
+                "title": "ग्रीन के IPL गेंदबाजी प्रतिबंध से KKR-CA वर्कलोड विवाद",
+                "content": "कैमरन ग्रीन के ₹25.20 करोड़ के आईपीएल मूल्य पर सवाल हैं, क्योंकि पीठ की चोट उन्हें गेंदबाजी करने से रोकती है. क्रिकेट ऑस्ट्रेलिया ने कहा कि KKR को उनकी स्थिति पता थी, जिससे खिलाड़ी के वर्कलोड प्रबंधन पर बहस छिड़ गई. यह संघर्ष फ्रेंचाइजी अधिकारों और राष्ट्रीय बोर्ड नियंत्रण के बीच की खींचतान को दर्शाता है, KKR अपने प्रमुख ऑलराउंडर की गेंदबाजी के बिना टीम असंतुलन का सामना कर रहा है."
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129893561,imgsize-54894.cms",
+        "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/cameron-green-workload-row-who-calls-the-shots-kkr-or-cricket-australia/articleshow/129893512.cms",
+        "date": "2026-03-30T12:15:13+05:30"
+    },
+    {
+        "id": "800c7abd",
+        "category": "Sports",
+        "translations": {
+            "en": {
+                "title": "Rahane Shrugs Off Critics, Focuses on Growth",
+                "content": "KKR captain Ajinkya Rahane, after his 67 against MI, dismissed criticism. He stated his focus is personal growth and white-ball improvement, not proving detractors wrong. Despite cramps and Bumrah's challenge, Rahane expressed satisfaction. He also backed struggling spinner Varun Chakravarthy, urging patience for KKR's inexperienced bowling unit, showing focused leadership amidst outside noise."
+            },
+            "kn": {
+                "title": "ರಹಾನೆ ಟೀಕೆಗಳನ್ನು ಕಡೆಗಣಿಸಿ, ಬೆಳವಣಿಗೆಯತ್ತ ಗಮನ",
+                "content": "ಕೆಕೆಆರ್ ನಾಯಕ ಅಜಿಂಕ್ಯ ರಹಾನೆ, ಮುಂಬೈ ಇಂಡಿಯನ್ಸ್ ವಿರುದ್ಧ 67 ರನ್ ಗಳಿಸಿದ ನಂತರ, ಟೀಕೆಗಳನ್ನು ತಳ್ಳಿಹಾಕಿದರು. ಅವರ ಗಮನ ವೈಯಕ್ತಿಕ ಬೆಳವಣಿಗೆ ಮತ್ತು ವೈಟ್‌ಬಾಲ್ ಸುಧಾರಣೆಯ ಮೇಲೆ ಇದೆ ಹೊರತು ವಿರೋಧಿಗಳನ್ನು ತಪ್ಪು ಎಂದು ಸಾಬೀತುಪಡಿಸುವುದರ ಮೇಲಲ್ಲ ಎಂದು ಅವರು ಹೇಳಿದರು. ಸೆಳೆತ ಮತ್ತು ಬುಮ್ರಾ ಅವರ ಸವಾಲಿನ ಹೊರತಾಗಿಯೂ, ರಹಾನೆ ತೃಪ್ತಿ ವ್ಯಕ್ತಪಡಿಸಿದರು. ಅವರು ಸಂಕಷ್ಟದಲ್ಲಿರುವ ಸ್ಪಿನ್ನರ್ ವರುಣ್ ಚಕ್ರವರ್ತಿಗೆ ಬೆಂಬಲ ನೀಡಿ, ಕೆಕೆಆರ್‌ನ ಅನುಭವವಿಲ್ಲದ ಬೌಲಿಂಗ್ ಘಟಕಕ್ಕೆ ತಾಳ್ಮೆ ವಹಿಸುವಂತೆ ಮನವಿ ಮಾಡಿದರು, ಹೊರಗಿನ ಗದ್ದಲದ ನಡುವೆಯೂ ಕೇಂದ್ರೀಕೃತ ನಾಯಕತ್ವವನ್ನು ತೋರಿಸಿದರು."
+            },
+            "mr": {
+                "title": "रहाणेने टीकाकारांना दुर्लक्षित केले, वाढीवर लक्ष केंद्रित केले",
+                "content": "केकेआरचा कर्णधार अजिंक्य रहाणेने, मुंबई इंडियन्सविरुद्धच्या ६७ धावांनंतर, टीकाकारांना उत्तर दिले. त्याचे लक्ष वैयक्तिक वाढ आणि व्हाईट-बॉलमधील सुधारणा यावर आहे, टीकाकारांना चुकीचे सिद्ध करण्यावर नाही, असे त्याने सांगितले. स्नायूंच्या खेचा आणि बुमराहच्या आव्हानानंतरही, रहाणेने समाधान व्यक्त केले. त्याने संघर्ष करणाऱ्या फिरकीपटू वरुण चक्रवर्तीलाही पाठिंबा दिला, तसेच केकेआरच्या अनुभवहीन गोलंदाजी युनिटसाठी संयम ठेवण्याचे आवाहन केले, बाहेरील गदारोळातही त्याने केंद्रित नेतृत्व दाखवले."
+            },
+            "hi": {
+                "title": "रहाणे ने आलोचकों को नकारा, विकास पर ध्यान",
+                "content": "मुंबई इंडियंस के खिलाफ 67 रन बनाने के बाद, केकेआर कप्तान अजिंक्य रहाणे ने अपनी आलोचनाओं को खारिज कर दिया. उन्होंने कहा कि उनका ध्यान व्यक्तिगत विकास और व्हाइट-बॉल क्रिकेट में सुधार पर है, न कि आलोचकों को गलत साबित करने पर. ऐंठन और बुमराह की चुनौती के बावजूद, रहाणे ने संतोष व्यक्त किया. उन्होंने संघर्षरत स्पिनर वरुण चक्रवर्ती का भी समर्थन किया, और केकेआर के अनुभवहीन गेंदबाजी इकाई के लिए धैर्य रखने का आग्रह किया, बाहरी शोर के बीच केंद्रित नेतृत्व दिखाया."
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129893648,imgsize-140390.cms",
+        "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/not-here-to-show-how-talented-i-am-rahane-unfazed-by-noise-around-his-future/articleshow/129893612.cms",
+        "date": "2026-03-30T12:19:50+05:30"
+    },
+    {
+        "id": "beb05dc8",
+        "category": "Sports",
+        "translations": {
+            "en": {
+                "title": "Rahane's 'Ask CA' Jibe Forces Clarity on Green's IPL Bowling",
+                "content": "Cricket Australia clarified Cameron Green's inability to bowl for KKR in IPL 2026 due to a lower back injury. This came after KKR skipper Ajinkya Rahane's \"ask CA\" jibe. Green is in managed rehabilitation, expected to bowl in 10-12 days. CA stated KKR was fully informed, resolving the confusion surrounding the Australian all-rounder's bowling status."
+            },
+            "kn": {
+                "title": "ರಹಾನೆ 'ಆಸ್ಕ್ ಸಿಎ' ವ್ಯಂಗ್ಯ: ಗ್ರೀನ್ ಐಪಿಎಲ್ ಬೌಲಿಂಗ್ ಕುರಿತು ಸಿಎ ಸ್ಪಷ್ಟನೆ",
+                "content": "ಕೆಕೆಆರ್ ನಾಯಕ ಅಜಿಂಕ್ಯ ರಹಾನೆ ಅವರ \"ಆಸ್ಕ್ ಸಿಎ\" ವ್ಯಂಗ್ಯದ ನಂತರ, ಕ್ರಿಕೆಟ್ ಆಸ್ಟ್ರೇಲಿಯಾ ಕ್ಯಾಮೆರಾನ್ ಗ್ರೀನ್ ಕೆಳ ಬೆನ್ನಿನ ಗಾಯದಿಂದಾಗಿ ಐಪಿಎಲ್ 2026ರಲ್ಲಿ ಕೆಕೆಆರ್ ಪರ ಬೌಲಿಂಗ್ ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ ಎಂದು ಸ್ಪಷ್ಟಪಡಿಸಿದೆ. ಗ್ರೀನ್ ನಿರ್ವಹಿಸಿದ ಪುನರ್ವಸತಿಯಲ್ಲಿದ್ದು, 10-12 ದಿನಗಳಲ್ಲಿ ಬೌಲಿಂಗ್ ಪುನರಾರಂಭಿಸುವ ನಿರೀಕ್ಷೆಯಿದೆ. ಆಸ್ಟ್ರೇಲಿಯಾದ ಆಲ್-ರೌಂಡರ್ ಅವರ ಬೌಲಿಂಗ್ ಸ್ಥಿತಿಯ ಸುತ್ತಲಿನ ಗೊಂದಲವನ್ನು ನಿವಾರಿಸಲು, ಕೆಕೆಆರ್ ತಂಡಕ್ಕೆ ಸಂಪೂರ್ಣ ಮಾಹಿತಿ ನೀಡಲಾಗಿದೆ ಎಂದು ಸಿಎ ತಿಳಿಸಿದೆ."
+            },
+            "mr": {
+                "title": "रहाणेच्या 'आस्क सीए' टोमण्याने ग्रीनच्या आयपीएल गोलंदाजीवर सीएने दिले स्पष्टीकरण",
+                "content": "केकेआर कर्णधार अजिंक्य रहाणेच्या \"आस्क सीए\" टोमण्यानंतर, क्रिकेट ऑस्ट्रेलियाने कॅमेरॉन ग्रीन पाठीच्या खालच्या भागातील दुखापतीमुळे आयपीएल 2026 मध्ये केकेआरसाठी गोलंदाजी करू शकणार नाही असे स्पष्ट केले. ग्रीन नियोजित पुनर्वसनाखाली असून, 10-12 दिवसांत गोलंदाजी करण्याची अपेक्षा आहे. ऑस्ट्रेलियन अष्टपैलू खेळाडूच्या गोलंदाजीच्या स्थितीबाबतचा गोंधळ दूर करत, केकेआरला पूर्ण माहिती दिली होती, असे सीएने सांगितले."
+            },
+            "hi": {
+                "title": "रहाणे के 'आस्क सीए' तंज के बाद ग्रीन की IPL गेंदबाजी पर CA की सफाई",
+                "content": "केकेआर के कप्तान अजिंक्य रहाणे के \"आस्क सीए\" तंज के बाद, क्रिकेट ऑस्ट्रेलिया ने कैमरन ग्रीन की पीठ के निचले हिस्से की चोट के कारण आईपीएल 2026 में केकेआर के लिए गेंदबाजी करने में असमर्थता स्पष्ट की. ग्रीन प्रबंधित पुनर्वास में हैं और 10-12 दिनों में गेंदबाजी शुरू करने की उम्मीद है. ऑस्ट्रेलियाई ऑलराउंडर की गेंदबाजी की स्थिति को लेकर भ्रम दूर करते हुए, सीए ने बताया कि केकेआर को पूरी तरह से सूचित किया गया था."
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129892021,imgsize-44752.cms",
+        "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/kkr-fully-aware-cricket-australia-forced-to-clarify-on-cameron-green-after-rahanes-ask-ca-jibe/articleshow/129891959.cms",
+        "date": "2026-03-30T10:47:50+05:30"
+    },
+    {
+        "id": "21f96493",
+        "category": "Sports",
+        "translations": {
+            "en": {
+                "title": "Rohit, Rickelton Power MI to Record IPL Win",
+                "content": "Rohit Sharma smashed 78 off 38 balls, alongside Ryan Rickelton's 81, leading Mumbai Indians to a six-wicket victory over KKR in their IPL 2026 opener. Their record 148-run partnership secured MI's highest successful home chase. Sharma also set a new IPL record for most runs against a single opponent, demonstrating a masterclass performance."
+            },
+            "kn": {
+                "title": "ರೋಹಿತ್, ರಿಕೆಲ್ಟನ್ ಮಿಂಚು; ಎಂಐಗೆ ದಾಖಲೆಯ ಐಪಿಎಲ್ ಗೆಲುವು",
+                "content": "ರೋಹಿತ್ ಶರ್ಮಾ 38 ಎಸೆತಗಳಲ್ಲಿ 78 ರನ್, ಹಾಗೂ ರಿಯಾನ್ ರಿಕೆಲ್ಟನ್ 81 ರನ್‌ಗಳ ಭರ್ಜರಿ ಪ್ರದರ್ಶನದೊಂದಿಗೆ ಮುಂಬೈ ಇಂಡಿಯನ್ಸ್ ಐಪಿಎಲ್ 2026ರ ಆರಂಭಿಕ ಪಂದ್ಯದಲ್ಲಿ ಕೆಕೆಆರ್ ವಿರುದ್ಧ ಆರು ವಿಕೆಟ್‌ಗಳ ಜಯ ಸಾಧಿಸಿದೆ. ಅವರ ದಾಖಲೆಯ 148 ರನ್‌ಗಳ ಜೊತೆಯಾಟವು ಎಂಐನ ಅತಿ ಹೆಚ್ಚು ಯಶಸ್ವಿ ತವರು ಚೇಸ್ ಅನ್ನು ಖಚಿತಪಡಿಸಿತು. ಶರ್ಮಾ ಒಂದೇ ಎದುರಾಳಿ ತಂಡದ ವಿರುದ್ಧ ಅತಿ ಹೆಚ್ಚು ರನ್ ಗಳಿಸಿದ ಹೊಸ ಐಪಿಎಲ್ ದಾಖಲೆಯನ್ನೂ ನಿರ್ಮಿಸಿದರು."
+            },
+            "mr": {
+                "title": "रोहित, रिकेल्टनच्या जोरावर MI चा विक्रमी IPL विजय",
+                "content": "रोहित शर्माने 38 चेंडूत 78 धावा, तर रायन रिकेल्टनने 81 धावा ठोकत, मुंबई इंडियन्सला त्यांच्या IPL 2026 च्या सलामीच्या सामन्यात KKR विरुद्ध सहा गडी राखून विजय मिळवून दिला. त्यांच्या 148 धावांच्या विक्रमी भागीदारीने MI च्या घरच्या मैदानावरची सर्वात मोठी यशस्वी धावसंख्या (चेस) सुनिश्चित केली. शर्माने एकाच प्रतिस्पर्ध्याविरुद्ध सर्वाधिक धावा करण्याचा नवीन IPL विक्रमही प्रस्थापित केला."
+            },
+            "hi": {
+                "title": "रोहित, रिकेल्टन ने MI को दिलाई रिकॉर्ड तोड़ IPL जीत",
+                "content": "रोहित शर्मा ने 38 गेंदों पर 78 रन और रयान रिकेल्टन ने 81 रन बनाकर मुंबई इंडियंस को IPL 2026 के अपने पहले मैच में KKR के खिलाफ छह विकेट से जीत दिलाई। उनकी 148 रन की रिकॉर्ड साझेदारी ने MI के घर में सबसे सफल रन चेज़ को सुनिश्चित किया। शर्मा ने एक ही प्रतिद्वंद्वी के खिलाफ सर्वाधिक रन बनाने का नया IPL रिकॉर्ड भी बनाया।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129890311,imgsize-68116.cms",
+        "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/record-broken-rohit-sharma-dethrones-virat-kohli-with-kkr-carnage/articleshow/129890260.cms",
+        "date": "2026-03-30T08:25:07+05:30"
+    },
+    {
+        "id": "11dceb53",
+        "category": "Sports",
+        "translations": {
+            "en": {
+                "title": "MI Breaks Jinx: Hardik Wants Shardul to Anchor Future",
+                "content": "Mumbai Indians snapped a 13-year opening match losing streak with a six-wicket victory over KKR. Skipper Hardik Pandya lauded Shardul Thakur's 3/39 performance, expressing his desire for Thakur to finish his career at MI, stating 'enough hopping.' A robust opening partnership between Rohit Sharma and Ryan Rickelton anchored the successful chase."
+            },
+            "kn": {
+                "title": "ಎಂಐನಿಂದ ದುರದೃಷ್ಟದ ಸರಪಳಿ ಭಗ್ನ: ಹಾರ್ದಿಕ್ ಠಾಕೂರ್ ಭವಿಷ್ಯವನ್ನು ಭದ್ರಪಡಿಸಲು ಬಯಸಿದ್ದಾರೆ",
+                "content": "ಮುಂಬೈ ಇಂಡಿಯನ್ಸ್ ಕೆಕೆಆರ್ ವಿರುದ್ಧ ಆರು ವಿಕೆಟ್‌ಗಳ ಜಯದೊಂದಿಗೆ 13 ವರ್ಷಗಳ ಉದ್ಘಾಟನಾ ಪಂದ್ಯದ ಸೋಲಿನ ಸರಪಳಿಯನ್ನು ಭಗ್ನಗೊಳಿಸಿತು. ನಾಯಕ ಹಾರ್ದಿಕ್ ಪಾಂಡ್ಯ ಶಾರ್ದೂಲ್ ಠಾಕೂರ್ ಅವರ 3/39 ಪ್ರದರ್ಶನವನ್ನು ಶ್ಲಾಘಿಸಿದರು, ಠಾಕೂರ್ ತಮ್ಮ ವೃತ್ತಿಜೀವನವನ್ನು ಎಂಐನಲ್ಲಿಯೇ ಮುಗಿಸಬೇಕು ಎಂದು 'ಸಾಕು ಈ ಓಡಾಟ' ಎಂದು ಹೇಳುತ್ತಾ ತಮ್ಮ ಆಸೆಯನ್ನು ವ್ಯಕ್ತಪಡಿಸಿದರು. ರೋಹಿತ್ ಶರ್ಮಾ ಮತ್ತು ರಿಯಾನ್ ರಿಕೆಲ್ಟನ್ ಅವರ ಬಲವಾದ ಆರಂಭಿಕ ಜೊತೆಯಾಟವು ಯಶಸ್ವಿ ಚೇಸ್‌ಗೆ ಆಧಾರವಾಯಿತು."
+            },
+            "mr": {
+                "title": "मुंबई इंडियन्सचा पराभवाचा शाप मोडला: हार्दिकला शार्दूलने भविष्य मुंबईतच घडवावे असे वाटते",
+                "content": "मुंबई इंडियन्सने केकेआरविरुद्ध सहा गडी राखून विजय मिळवत १३ वर्षांची सलामीच्या सामन्यातील पराभवाची मालिका खंडित केली. कर्णधार हार्दिक पंड्याने शार्दूल ठाकूरच्या ३/३९ च्या कामगिरीचे कौतुक केले आणि ठाकूरने 'पुरे झाले हे इकडे-तिकडे फिरणे' असे म्हणत आपले करिअर मुंबई इंडियन्समध्येच पूर्ण करावे अशी इच्छा व्यक्त केली. रोहित शर्मा आणि रायन रिकलटन यांच्या मजबूत सलामीच्या भागीदारीने यशस्वी पाठलागाचा पाया रचला."
+            },
+            "hi": {
+                "title": "एमआई ने तोड़ा अपशकुन: हार्दिक चाहते हैं शार्दुल अपना भविष्य मुंबई में ही बनाएं",
+                "content": "मुंबई इंडियंस ने केकेआर के खिलाफ छह विकेट की जीत के साथ 13 साल की शुरुआती मैच हारने की लकीर तोड़ दी। कप्तान हार्दिक पंड्या ने शार्दुल ठाकुर के 3/39 के प्रदर्शन की सराहना की और 'काफी हुआ यह इधर-उधर भटकना' कहते हुए ठाकुर के एमआई में ही अपना करियर खत्म करने की इच्छा व्यक्त की। रोहित शर्मा और रयान रिकलटन के बीच एक मजबूत शुरुआती साझेदारी ने सफल पीछा करने की नींव रखी।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129891800,imgsize-46022.cms",
+        "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/enough-hopping-hardik-pandya-wants-shardul-thakur-to-finish-career-at-mumbai-indians/articleshow/129891747.cms",
+        "date": "2026-03-30T10:32:20+05:30"
+    },
+    {
+        "id": "793e1c6e",
+        "category": "Sports",
+        "translations": {
+            "en": {
+                "title": "PSL Security Breach: Afridi & Raza Under Scrutiny",
+                "content": "PSL captains Shaheen Afridi and Sikandar Raza face a security breach controversy. They allegedly hosted four guests in Raza's room until 1:25 AM, defying hotel protocols. Security repeatedly denied it, but Raza insists he sought to meet family, claiming both players were unaware of updated SOPs. This incident raises questions about player accountability and security enforcement within the league."
+            },
+            "kn": {
+                "title": "ಪಿಎಸ್‌ಎಲ್ ಭದ್ರತಾ ಉಲ್ಲಂಘನೆ: ಅಫ್ರಿದಿ ಮತ್ತು ರಜಾ ತನಿಖೆಗೊಳಪಟ್ಟರು",
+                "content": "ಪಿಎಸ್‌ಎಲ್ ನಾಯಕರಾದ ಶಾಹೀನ್ ಅಫ್ರಿದಿ ಮತ್ತು ಸಿಕಂದರ್ ರಜಾ ಭದ್ರತಾ ಉಲ್ಲಂಘನೆ ವಿವಾದ ಎದುರಿಸುತ್ತಿದ್ದಾರೆ. ರಜಾ ಅವರ ಕೊಠಡಿಯಲ್ಲಿ ನಾಲ್ಕು ಅತಿಥಿಗಳನ್ನು ಬೆಳಗ್ಗೆ 1:25 ರವರೆಗೆ ಹೋಸ್ಟ್ ಮಾಡುವ ಮೂಲಕ ಹೋಟೆಲ್ ನಿಯಮಗಳನ್ನು ಉಲ್ಲಂಘಿಸಿದ್ದಾರೆ ಎನ್ನಲಾಗಿದೆ. ಭದ್ರತಾ ಸಿಬ್ಬಂದಿ ಇದನ್ನು ಪದೇ ಪದೇ ನಿರಾಕರಿಸಿದರೂ, ರಜಾ ಕುಟುಂಬವನ್ನು ಭೇಟಿಯಾಗಲು ಕೇಳಿಕೊಂಡಿದ್ದೇನೆ ಮತ್ತು ಇಬ್ಬರೂ ಆಟಗಾರರಿಗೆ ನವೀಕರಿಸಿದ ಎಸ್‌ಒಪಿಗಳ ಬಗ್ಗೆ ತಿಳಿದಿರಲಿಲ್ಲ ಎಂದು ಹೇಳಿದ್ದಾರೆ. ಈ ಘಟನೆಯು ಲೀಗ್‌ನಲ್ಲಿ ಆಟಗಾರರ ಹೊಣೆಗಾರಿಕೆ ಮತ್ತು ಭದ್ರತಾ ಜಾರಿ ಬಗ್ಗೆ ಪ್ರಶ್ನೆಗಳನ್ನು ಹುಟ್ಟುಹಾಕಿದೆ."
+            },
+            "mr": {
+                "title": "पीएसएल सुरक्षा भंग: आफ्रिदी आणि रझा चौकशीच्या घेऱ्यात",
+                "content": "पीएसएल कर्णधार शाहीन आफ्रिदी आणि सिकंदर रझा सुरक्षा भंग वादामुळे अडचणीत आहेत. त्यांनी रझाच्या खोलीत पहाटे 1:25 पर्यंत चार पाहुण्यांना ठेवून हॉटेलचे नियम मोडले असल्याचा आरोप आहे. सुरक्षा कर्मचाऱ्यांनी वारंवार नकार दिला तरी, रझाचा आग्रह आहे की त्याने कुटुंबाला भेटण्याची विनंती केली होती आणि दोन्ही खेळाडूंना अद्ययावित एसओपीची माहिती नव्हती. या घटनेमुळे लीगमध्ये खेळाडूंची जबाबदारी आणि सुरक्षा अंमलबजावणीबद्दल प्रश्न निर्माण झाले आहेत."
+            },
+            "hi": {
+                "title": "पीएसएल सुरक्षा उल्लंघन: अफरीदी और रजा जांच के दायरे में",
+                "content": "पीएसएल कप्तान शाहीन अफरीदी और सिकंदर रजा एक सुरक्षा उल्लंघन विवाद में घिर गए हैं। कथित तौर पर, उन्होंने रजा के कमरे में सुबह 1:25 बजे तक चार मेहमानों की मेजबानी कर होटल प्रोटोकॉल का उल्लंघन किया। सुरक्षा ने बार-बार इनकार किया, लेकिन रजा का कहना है कि उन्होंने परिवार से मिलने का अनुरोध किया था और दोनों खिलाड़ियों को अपडेटेड एसओपी की जानकारी नहीं थी। इस घटना से लीग के भीतर खिलाड़ियों की जवाबदेही और सुरक्षा प्रवर्तन पर सवाल उठते हैं।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129892578,imgsize-51388.cms",
+        "link": "https://timesofindia.indiatimes.com/sports/cricket/news/psl-hotel-security-breach-4-guests-till-125-am-player-says-afridi-ne-koi-manmani-/articleshow/129892516.cms",
+        "date": "2026-03-30T11:27:47+05:30"
+    },
+    {
+        "id": "a2a84df9",
+        "category": "Sports",
+        "translations": {
+            "en": {
+                "title": "Guwahati Hosts IPL Reset: RR vs CSK",
+                "content": "Guwahati is set for an IPL battle between Rajasthan Royals and Chennai Super Kings. Both teams are aiming for a significant revival after disappointing 2025 campaigns. The match is particularly notable as Sanju Samson, now with CSK, returns to his hometown to face his former franchise, RR. Weather is the only potential hurdle for this highly anticipated reset clash."
+            },
+            "kn": {
+                "title": "ಗುವಾಹಟಿಯಲ್ಲಿ ಐಪಿಎಲ್ ಮರುಪ್ರಾರಂಭ: ಆರ್‌ಆರ್ vs ಸಿಎಸ್‌ಕೆ",
+                "content": "ಗುವಾಹಟಿಯಲ್ಲಿ ರಾಜಸ್ಥಾನ್ ರಾಯಲ್ಸ್ ಮತ್ತು ಚೆನ್ನೈ ಸೂಪರ್ ಕಿಂಗ್ಸ್ ನಡುವೆ ಐಪಿಎಲ್ ಯುದ್ಧಕ್ಕೆ ಸಿದ್ಧವಾಗಿದೆ. ಎರಡೂ ತಂಡಗಳು 2025ರ ನಿರಾಶಾದಾಯಕ ಪ್ರದರ್ಶನದ ನಂತರ ಮಹತ್ವದ ಪುನರುಜ್ಜೀವನವನ್ನು ಗುರಿಯಾಗಿರಿಸಿಕೊಂಡಿವೆ. ಈ ಪಂದ್ಯವು ಸಂಜು ಸ್ಯಾಮ್ಸನ್, ಈಗ ಸಿಎಸ್‌ಕೆಯೊಂದಿಗೆ, ತಮ್ಮ ತವರು ನಗರಕ್ಕೆ ಮರಳಿ ತಮ್ಮ ಮಾಜಿ ಫ್ರಾಂಚೈಸಿ ಆರ್‌ಆರ್‌ ವಿರುದ್ಧ ಆಡುತ್ತಿರುವುದು ವಿಶೇಷವಾಗಿದೆ. ಈ ಬಹುನಿರೀಕ್ಷಿತ ಮರುಪ್ರಾರಂಭದ ಹೋರಾಟಕ್ಕೆ ಹವಾಮಾನವೇ ಏಕೈಕ ಅಡಚಣೆಯಾಗಿದೆ."
+            },
+            "mr": {
+                "title": "गुवाहाटीमध्ये आयपीएलचा रीसेट: आरआर विरुद्ध सीएसके",
+                "content": "गुवाहाटी राजस्थान रॉयल्स आणि चेन्नई सुपर किंग्स यांच्यातील आयपीएल लढतीसाठी सज्ज आहे. 2025 च्या निराशाजनक हंगामांनंतर दोन्ही संघ महत्त्वपूर्ण पुनरुज्जीवनाचे ध्येय ठेवून आहेत. हा सामना विशेषतः लक्षणीय आहे कारण संजू सॅमसन, आता सीएसकेमध्ये असून, आपल्या जुन्या संघ आरआरविरुद्ध खेळण्यासाठी आपल्या मूळ गावी परतला आहे. या बहुप्रतिक्षित रीसेट लढतीसाठी हवामान हा एकमेव संभाव्य अडथळा आहे."
+            },
+            "hi": {
+                "title": "गुवाहाटी में आईपीएल का रीसेट: आरआर बनाम सीएसके",
+                "content": "गुवाहाटी राजस्थान रॉयल्स और चेन्नई सुपर किंग्स के बीच एक आईपीएल मुकाबले के लिए तैयार है। 2025 के निराशाजनक अभियानों के बाद दोनों टीमें एक महत्वपूर्ण पुनरुत्थान का लक्ष्य बना रही हैं। यह मैच विशेष रूप से उल्लेखनीय है क्योंकि संजू सैमसन, जो अब सीएसके के साथ हैं, अपने गृह नगर में अपनी पूर्व फ्रेंचाइजी, आरआर का सामना करने के लिए लौट रहे हैं। इस अत्यधिक प्रत्याशित रीसेट मुकाबले के लिए मौसम ही एकमात्र संभावित बाधा है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129890710,imgsize-56622.cms",
+        "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-preview-reset-rajasthan-royals-chennai-super-kings-eye-revival/articleshow/129890639.cms",
+        "date": "2026-03-30T09:06:10+05:30"
+    },
+    {
+        "id": "a6e8e844",
+        "category": "Entertainment",
+        "translations": {
+            "en": {
+                "title": "Ameesha Patel Shares Epic Salman Khan Throwback",
+                "content": "Actress Ameesha Patel shared an epic throwback photo with Salman Khan from a past birthday celebration during a world tour in Los Angeles. The candid picture captures them cutting a cake with friends, highlighting their enduring friendship despite starring together only once in 'Yeh Hai Jalwa'. Patel fondly recalled Salman's sweet gesture, cherishing the special moment."
+            },
+            "kn": {
+                "title": "ಅಮೀಶಾ ಪಟೇಲ್ ಸಲ್ಮಾನ್ ಖಾನ್ ಜೊತೆಗಿನ ಹಳೆಯ ನೆನಪಿನ ಚಿತ್ರ ಹಂಚಿಕೊಂಡಿದ್ದಾರೆ",
+                "content": "ನಟಿ ಅಮೀಶಾ ಪಟೇಲ್ ಅವರು ಲಾಸ್ ಏಂಜಲೀಸ್‌ನಲ್ಲಿ ನಡೆದ ವಿಶ್ವ ಪ್ರವಾಸದ ವೇಳೆ ಸಲ್ಮಾನ್ ಖಾನ್ ಅವರೊಂದಿಗಿನ ಹಿಂದಿನ ಹುಟ್ಟುಹಬ್ಬದ ಆಚರಣೆಯ ಅದ್ಭುತ ಥ್ರೋಬ್ಯಾಕ್ ಫೋಟೋವನ್ನು ಹಂಚಿಕೊಂಡಿದ್ದಾರೆ. ಈ ನೇರ ಚಿತ್ರದಲ್ಲಿ ಅವರು ಸ್ನೇಹಿತರೊಂದಿಗೆ ಕೇಕ್ ಕತ್ತರಿಸುತ್ತಿರುವುದು ಕಂಡುಬರುತ್ತದೆ, 'ಯೇ ಹೈ ಜಲ್ವಾ'ದಲ್ಲಿ ಒಮ್ಮೆ ಮಾತ್ರ ಒಟ್ಟಿಗೆ ನಟಿಸಿದ್ದರೂ ಅವರ ಶಾಶ್ವತ ಸ್ನೇಹವನ್ನು ಇದು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ಪಟೇಲ್ ಸಲ್ಮಾನ್ ಅವರ ಮಧುರ ಸನ್ನೆಗಳನ್ನು ಪ್ರೀತಿಯಿಂದ ನೆನಪಿಸಿಕೊಂಡರು, ಆ ವಿಶೇಷ ಕ್ಷಣವನ್ನು ಆಸ್ವಾದಿಸಿದರು."
+            },
+            "mr": {
+                "title": "अमीषा पटेलने सलमान खानसोबतचा अविस्मरणीय जुना फोटो शेअर केला",
+                "content": "अभिनेत्री अमीषा पटेलने लॉस एंजेलिसमधील एका जागतिक दौऱ्यादरम्यानच्या सलमान खानसोबतच्या एका जुन्या वाढदिवसाच्या सोहळ्याचा अविस्मरणीय फोटो शेअर केला आहे. या कॅन्डिड फोटोमध्ये ते मित्रांसोबत केक कापताना दिसत आहेत, ज्यामुळे 'ये है जलवा'मध्ये फक्त एकदाच एकत्र काम करूनही त्यांची चिरस्थायी मैत्री दिसून येते. पटेलने सलमानच्या गोड कृतीची आठवण करून तो खास क्षण जपला."
+            },
+            "hi": {
+                "title": "अमीषा पटेल ने सलमान खान के साथ एक पुरानी यादगार तस्वीर साझा की",
+                "content": "अभिनेत्री अमीषा पटेल ने लॉस एंजिल्स में एक विश्व दौरे के दौरान एक पिछले जन्मदिन समारोह से सलमान खान के साथ एक शानदार थ्रोबैक तस्वीर साझा की। इस candid तस्वीर में वे दोस्तों के साथ केक काटते हुए दिखाई दे रहे हैं, जो 'ये है जलवा' में केवल एक बार साथ काम करने के बावजूद उनकी स्थायी दोस्ती को उजागर करती है। पटेल ने सलमान के मधुर हावभाव को सहर्ष याद किया, उस विशेष पल को संजोया।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129891224,imgsize-105154.cms",
+        "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/ameesha-patel-shares-epic-throwback-photo-with-salman-khan-from-her-birthday-bash-in-los-angeles/articleshow/129891209.cms",
+        "date": "2026-03-30T10:18:02+05:30"
+    },
+    {
         "id": "6b1df15a",
         "category": "IPL Scoop",
         "translations": {
@@ -1423,580 +1998,5 @@
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZmRnMHliYjZ5TzA2YUlMbmxqempleEcxcEhDZDhjSkl2TW13YXNZRG9KMnlLa2RnbzRSRUgxam8tbDItM3JJSVM4di00RDlkTXNvRS1jVkNjTGt6ZWJWX3A4QTZ2X01Delp2ZnNaRG9OSUFGOUNWVGxuejhJcEM2c1FnaVM2WUlzbDZiMjc1Z0YxQm5xNmdoeGNVdU9BZkZBd1lSZG0wZVpEdGxYRXNUNVpsX2FTS25xeGNzLTlPM0J4WUZyOFFHQTN4bHFOUE5wTnkwRFl6Zw?oc=5",
         "date": "Sat, 28 Mar 2026 10:11:33 GMT"
-    },
-    {
-        "id": "6d747427",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Kohli Stars in IPL 2026 Opener; Goenka's Tweet Goes Viral",
-                "content": "Virat Kohli led a clinical chase of 202 in the IPL 2026 opener, anchoring his team to victory. The match also saw industrialist Harsh Goenka's 'IPL Trinity' tweet go viral, sparking widespread discussion among fans. This early season drama sets an exciting tone for the tournament ahead, blending on-field heroics with social media buzz."
-            },
-            "kn": {
-                "title": "ಐಪಿಎಲ್ 2026 ಉದ್ಘಾಟನಾ ಪಂದ್ಯದಲ್ಲಿ ಕೊಹ್ಲಿ ಮಿಂಚು; ಗೋಯೆಂಕಾ ಟ್ವೀಟ್ ವೈರಲ್",
-                "content": "ಐಪಿಎಲ್ 2026 ರ ಉದ್ಘಾಟನಾ ಪಂದ್ಯದಲ್ಲಿ ವಿರಾಟ್ ಕೊಹ್ಲಿ 202 ರನ್‌ಗಳ ಸ್ಕೋರ್ ಅನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಬೆನ್ನಟ್ಟಿ ತಂಡಕ್ಕೆ ಗೆಲುವು ತಂದುಕೊಟ್ಟರು. ಇದೇ ವೇಳೆ, ಉದ್ಯಮಿ ಹರ್ಷ್ ಗೋಯೆಂಕಾ ಅವರ 'ಐಪಿಎಲ್ ಟ್ರಿನಿಟಿ' ಟ್ವೀಟ್ ವೈರಲ್ ಆಗಿದ್ದು, ಅಭಿಮಾನಿಗಳಲ್ಲಿ ವ್ಯಾಪಕ ಚರ್ಚೆಗೆ ಕಾರಣವಾಯಿತು. ಈ ಆರಂಭಿಕ ಸೀಸನ್‌ನ ನಾಟಕವು ಆಟದ ಸಾಹಸಗಳು ಮತ್ತು ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮದ ಚರ್ಚೆಯೊಂದಿಗೆ ಪಂದ್ಯಾವಳಿಗೆ ರೋಮಾಂಚಕಾರಿ ಟೋನ್ ನೀಡಿದೆ."
-            },
-            "mr": {
-                "title": "आयपीएल 2026 च्या सलामीच्या सामन्यात कोहली चमकला; गोयंकांचे ट्वीट व्हायरल",
-                "content": "आयपीएल 2026 च्या सलामीच्या सामन्यात विराट कोहलीने 202 धावांचा पाठलाग करत संघाला विजय मिळवून दिला. या सामन्यादरम्यान उद्योगपती हर्ष गोयंका यांचे 'आयपीएल ट्रिनिटी' हे ट्वीट व्हायरल झाले, ज्यामुळे चाहत्यांमध्ये मोठी चर्चा सुरू झाली. मैदानातील पराक्रम आणि सोशल मीडियावरील चर्चेने या सुरुवातीच्या हंगामात स्पर्धेसाठी एक रोमांचक सूर सेट केला आहे."
-            },
-            "hi": {
-                "title": "IPL 2026 ओपनर में कोहली का जलवा; गोयनका का ट्वीट वायरल",
-                "content": "IPL 2026 के उद्घाटन मैच में विराट कोहली ने 202 रनों का शानदार पीछा करते हुए अपनी टीम को जीत दिलाई. इस मैच में उद्योगपति हर्ष गोयनका का 'IPL ट्रिनिटी' ट्वीट भी वायरल हुआ, जिसने प्रशंसकों के बीच व्यापक चर्चा छेड़ दी. इस शुरुआती सीज़न के ड्रामा ने टूर्नामेंट के लिए एक रोमांचक माहौल तैयार किया है, जो मैदान पर नायकत्व को सोशल मीडिया की हलचल के साथ मिला रहा है."
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTG1TcUxnME5tdkJKU0RiOFdGQzZpNnhhMWo1TW84WmpiMDdjc0tCaG9hV1BvS0Z1UkExYlVEZ2NwcE8xZjEtdWl0bVJySXhMYXNKb0J1S2RjS2dVeGp0ZnpPMmVlQTcyWnl2dHhsamhDcmUxblNqYWNHMU5Ea1pQUzlkLUVZVkl1ZTc3VkFJTFVPQ1MzYW1sMFFYai1TbzBzbmlYSVNMVWlNdDVCQUdTVTZtWTgycHYwVG5GckszVHRScERxcXU2TTZQbUx5aXktWFo2N3FMNTZGWEoyNE9ubjB2YnFTOEpxNGRaQ1pPNGpkZ9IB_wFBVV95cUxPNGZ6N0UtWmplM1lYUmNFd0J5RDVNcUN5RmxpTl9TbnpjVDUySHg2ZVcwVy0wZDZiNVBjTl9CQkVzbzBVRkh2TWJZVXplU29YRDFxNXRxb0lFa3ZfMUhKWUI0VEZ6TGxlNll3VENJYmZvVkZtOHRPQ0hCekl4bHFCTURQSGdNV05WWU9Xc0diVmt3SzFmbldQTUFoWjRfVGFNdERSaEMwdHl4ekdqb0laQzBJU29IZUZGZTVWVUpiZjNEN1kwdzVhWWZJZTBaSkpETk5Eckdfak9XXzZob3hhZ29PQUNVWjJhRkFBMnI3N1VQQjdzTFBFTV9IOTBPdXM?oc=5",
-        "date": "Sat, 28 Mar 2026 21:20:03 GMT"
-    },
-    {
-        "id": "d99d5917",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Kohli Shines with 64th IPL Fifty, Fans Question T20I Retirement",
-                "content": "Virat Kohli blazed his 64th IPL half-century in the RCB vs SRH clash, proving his exceptional T20 form. His stunning performance sparked a wave of fan reactions, with many questioning his retirement from T20 Internationals. Despite his international T20 exit, Kohli continues to dominate, leaving supporters to ponder his absence from the global stage."
-            },
-            "kn": {
-                "title": "ಕೊಹ್ಲಿ 64ನೇ ಐಪಿಎಲ್ ಅರ್ಧಶತಕದೊಂದಿಗೆ ಮಿಂಚು, ಅಭಿಮಾನಿಗಳಿಂದ ಟಿ20ಐ ನಿವೃತ್ತಿ ಪ್ರಶ್ನೆ",
-                "content": "ವಿರಾಟ್ ಕೊಹ್ಲಿ RCB vs SRH ಕದನದಲ್ಲಿ ತಮ್ಮ 64ನೇ ಐಪಿಎಲ್ ಅರ್ಧಶತಕವನ್ನು ಸಿಡಿಸಿ, ತಮ್ಮ ಅಸಾಧಾರಣ ಟಿ20 ಫಾರ್ಮ್ ಅನ್ನು ಸಾಬೀತುಪಡಿಸಿದರು. ಅವರ ಅದ್ಭುತ ಪ್ರದರ್ಶನವು ಅಭಿಮಾನಿಗಳಲ್ಲಿ ತೀವ್ರ ಪ್ರತಿಕ್ರಿಯೆಯನ್ನು ಕೆರಳಿಸಿತು, ಅನೇಕರು ಅವರ ಟಿ20 ಅಂತರರಾಷ್ಟ್ರೀಯ ನಿವೃತ್ತಿಯನ್ನು ಪ್ರಶ್ನಿಸಿದರು. ಅಂತರರಾಷ್ಟ್ರೀಯ ಟಿ20ಯಿಂದ ಹೊರಗುಳಿದಿದ್ದರೂ, ಕೊಹ್ಲಿ ಪ್ರಾಬಲ್ಯ ಮುಂದುವರಿಸಿದ್ದು, ಬೆಂಬಲಿಗರನ್ನು ಜಾಗತಿಕ ವೇದಿಕೆಯಲ್ಲಿ ಅವರ ಅನುಪಸ್ಥಿತಿಯ ಬಗ್ಗೆ ಚಿಂತಿಸುವಂತೆ ಮಾಡಿದೆ."
-            },
-            "mr": {
-                "title": "कोहलीचे 64व्या आयपीएल अर्धशतकासह दमदार प्रदर्शन, चाहते टी20 आंतरराष्ट्रीय निवृत्तीवर प्रश्नचिन्ह उपस्थित करत आहेत",
-                "content": "आरसीबी विरुद्ध एसआरएच सामन्यात विराट कोहलीने आपले 64वे आयपीएल अर्धशतक झळकावून आपली उत्कृष्ट टी20 फॉर्म सिद्ध केली. त्याच्या या शानदार प्रदर्शनामुळे चाहते चांगलेच उत्साहित झाले, अनेकांनी त्याच्या टी20 आंतरराष्ट्रीय निवृत्तीवर प्रश्नचिन्ह उपस्थित केले. आंतरराष्ट्रीय टी20 मधून बाहेर पडल्यानंतरही कोहलीचे वर्चस्व कायम असून, चाहते त्याला जागतिक स्तरावर न पाहिल्याने विचार करत आहेत."
-            },
-            "hi": {
-                "title": "कोहली का 64वें आईपीएल अर्धशतक से धमाल, प्रशंसक टी20आई संन्यास पर उठा रहे सवाल",
-                "content": "आरसीबी बनाम एसआरएच मुकाबले में विराट कोहली ने अपना 64वां आईपीएल अर्धशतक जड़कर अपनी असाधारण टी20 फॉर्म साबित की। उनके इस शानदार प्रदर्शन ने प्रशंसकों की जबरदस्त प्रतिक्रियाएँ उत्पन्न कीं, जिसमें कई लोगों ने उनके टी20 अंतरराष्ट्रीय संन्यास पर सवाल उठाए। अंतरराष्ट्रीय टी20 से बाहर होने के बावजूद, कोहली का दबदबा जारी है, जिससे समर्थक वैश्विक मंच पर उनकी अनुपस्थिति पर विचार करने को मजबूर हैं।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPVmRmMElIUmotUTFNR0l2VFVnekgxd2I2bkNnbktWdERIdFpvbnUzLU9MZlRUSF9zUlp4Nm43X1NSY3Q2LVRGSmdtY0ROT1BVX19FQjAwS3pXdHBCeXk4U3pLRzZCUzFWaVpRdG9faE5wZUNlNjJmWFIyZTN1TWxMLVk3WEQ5d3BMLVkxVFh2NHZaSl9VWk5kXzdiOFJYQk9TWEVpS2ZrMThCeVFlc2Nnckd5SnEyaG9TSEhzNEtESWJ6YmdTU0dKRGUyaVhYZkdlVEdWd2gzd3JyVnNfTGlCdG5rS2dCUUdjaGVFdTJuYWtKTy01U2I0Ni1n0gH_AUFVX3lxTE5URlBWZUhQbUMzc052dlNHQjJHOHhmV0FhUGs3ekloVmpDS20xRWdhczFBTFo4dXpTN0JqUDFpTGxuODd4Yk9YbzcxSzhzUElIb3hwRU5MMUZyWGNySkxPVGNLa3pmOGlqWVRpSWgxVlJIa29XSGxPUmkzZTNEZnpqMDdZYnpwRHlCaGFtYXFvZHZGNzluUVRQbjYzUHc4VWhVeGdoeVBvMWtBeGVXdXNwTDg3dkdtRHNiSml2dUxKeENHWEdlU2d5ZHZhRUFzaHpiY1lzNllfNTNFVTB2NGlQenVqYlltMXhMd3pMZjJGV2V6NlJnMlFabHVIWU9DTQ?oc=5",
-        "date": "Sat, 28 Mar 2026 18:39:39 GMT"
-    },
-    {
-        "id": "d80d3930",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Jets GM Poised for Major Offseason Roster Shake-Up",
-                "content": "An NHL insider reports that Winnipeg Jets General Manager is gearing up for a transformative offseason. Expect significant trade moves and comprehensive roster overhauls as the team prepares to reshape its lineup. Fans can anticipate a dynamic period of player transactions and strategic adjustments aiming to strengthen the squad for the upcoming season. This could mean big changes for key players."
-            },
-            "kn": {
-                "title": "ಜೆಟ್ಸ್ GM ಪ್ರಮುಖ ಆಫ್‌ಸೀಸನ್ ತಂಡ ಬದಲಾವಣೆಗೆ ಸಜ್ಜು",
-                "content": "ಎನ್ಎಚ್ಎಲ್ ಮೂಲಗಳ ಪ್ರಕಾರ, ವಿನ್ನಿಪೆಗ್ ಜೆಟ್ಸ್‌ನ ಜನರಲ್ ಮ್ಯಾನೇಜರ್ ಈ ಆಫ್‌ಸೀಸನ್‌ನಲ್ಲಿ ತಂಡದಲ್ಲಿ ಮಹತ್ವದ ಬದಲಾವಣೆಗಳನ್ನು ಮಾಡಲು ಸಿದ್ಧರಾಗಿದ್ದಾರೆ. ಪ್ರಮುಖ ವ್ಯಾಪಾರ ವ್ಯವಹಾರಗಳು ಮತ್ತು ರೋಸ್ಟರ್‌ನ ಸಂಪೂರ್ಣ ಮರುರೂಪಣೆಯನ್ನು ನಿರೀಕ್ಷಿಸಿ. ಮುಂದಿನ ಸೀಸನ್‌ಗೆ ತಂಡವನ್ನು ಬಲಪಡಿಸುವ ಗುರಿಯೊಂದಿಗೆ ಆಟಗಾರರ ವಹಿವಾಟುಗಳು ಮತ್ತು ಕಾರ್ಯತಂತ್ರದ ಹೊಂದಾಣಿಕೆಗಳ ಕ್ರಿಯಾತ್ಮಕ ಅವಧಿಯನ್ನು ಅಭಿಮಾನಿಗಳು ನಿರೀಕ್ಷಿಸಬಹುದು. ಇದು ಪ್ರಮುಖ ಆಟಗಾರರಿಗೆ ದೊಡ್ಡ ಬದಲಾವಣೆಗಳನ್ನು ತರಬಹುದು."
-            },
-            "mr": {
-                "title": "जेस्ट जीएम महत्त्वाच्या ऑफसिझन संघ बदलांसाठी सज्ज",
-                "content": "एनएचएल इनसाइडरच्या अहवालानुसार, विनिपेग जेट्सचे जनरल मॅनेजर या ऑफसिझनमध्ये मोठे बदल घडवण्यासाठी तयारी करत आहेत. महत्त्वपूर्ण खेळाडूंच्या अदलाबदली आणि संपूर्ण संघाची फेररचना अपेक्षित आहे. पुढील हंगामासाठी संघाला मजबूत करण्याच्या उद्देशाने खेळाडूंच्या सौद्यांची आणि धोरणात्मक बदलांची गतिमान कालावधी चाहत्यांना अपेक्षित आहे. यामुळे प्रमुख खेळाडूंमध्ये मोठे बदल होऊ शकतात."
-            },
-            "hi": {
-                "title": "जेट्स जीएम बड़े ऑफसीज़न रोस्टर बदलाव के लिए तैयार",
-                "content": "एक एनएचएल इनसाइडर की रिपोर्ट है कि विनिपेग जेट्स के जनरल मैनेजर एक बड़े ऑफसीज़न बदलाव के लिए तैयार हैं। महत्वपूर्ण व्यापारिक सौदों और व्यापक रोस्टर ओवरहॉल की उम्मीद है क्योंकि टीम अपनी लाइनअप को नया आकार देने की तैयारी कर रही है। प्रशंसक आगामी सीज़न के लिए टीम को मजबूत करने के उद्देश्य से खिलाड़ी लेनदेन और रणनीतिक समायोजन की एक गतिशील अवधि की उम्मीद कर सकते हैं। इससे प्रमुख खिलाड़ियों में बड़े बदलाव हो सकते हैं।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPRW9hY3c4TDlsRVFoSFA4VHZ0bjkzR0EtcGRabFlUaHNWQVI2YWg3YXcwd3E0ekpTTmNiNE93WGRudl95VzRucXZhXzZYekNraEJLTDJobS1FWTFqZFFWMjNEellpVmxDQVJianNaakVxZ3NfYTlIc2w5dnpBSTNzUENrQnlyRjA3Y3NqaG5nX2JwXzFNQk5udF9IZVZPU204MkNuOGF3RFVxSDEtZGJWcDlkSnFTVnRCVG1Vc2UxTW1YNGNqVWZyYjBxdW5teXIxMVByVERtUDhkemZmd29nTWMzRHo0SnJUUDdLcnd0R25Rc1RjSW1pdVNrYmNCQXR5LVB5VnBQWl9uTXVGWk8zdtIBlgJBVV95cUxNV2IzcUc5dThPZF9ndUJ4UGk2Si1mNHNrc1ZESEdLclp3MkpLQlBZdWxseGUtVF9Fc1g4b1VlN1NueGVLTFV3bDBhTHJ1c1VBdU91bEtzT1EtSG1hWlpPVlcyUEpEWnhRWHpKSE1qeXoxUUJaNFpWMV9fVWpzV2NyOFZucGtVLXhZTk1ZVG45aXByd2xfSjF2Rk44SDdZY00yNmVPVTR1Ni0yb1BudVFmbU5VZTVUanVOd3NNa1RhYlJMeThVY21LRnpWcjdfMHRzeXloMTlVX1pYZ2k1Mm92VmJXVG1zUERrM2Jyb2lqSjluYlJmbGYwM283a3dibUxIa01kZWN1SG5LQ19jaW8xMlpDUHVKdw?oc=5",
-        "date": "Sat, 28 Mar 2026 17:41:00 GMT"
-    },
-    {
-        "id": "35b10e2e",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "India Denies Musk's Presence on Modi-Trump Call",
-                "content": "India refuted a US media report claiming Elon Musk joined a Modi-Trump call about war. The report, citing anonymous officials, suggested Musk's presence was unclear but speculated on his Middle East investments and desire for a stronger commercial footprint in India. India firmly denied any such participation by Musk, dismissing the report's accuracy."
-            },
-            "kn": {
-                "title": "ಮೋದಿ-ಟ್ರಂಪ್ ಕರೆ ಸಭೆಯಲ್ಲಿ ಮಸ್ಕ್ ಉಪಸ್ಥಿತಿಯನ್ನು ಭಾರತ ನಿರಾಕರಿಸಿದೆ",
-                "content": "ಎಲೋನ್ ಮಸ್ಕ್ ಮೋದಿ-ಟ್ರಂಪ್ ಯುದ್ಧ ಕುರಿತ ಕರೆಯಲ್ಲಿ ಪಾಲ್ಗೊಂಡಿದ್ದರು ಎಂಬ ಅಮೆರಿಕಾದ ಮಾಧ್ಯಮ ವರದಿಯನ್ನು ಭಾರತ ತಳ್ಳಿಹಾಕಿದೆ. ಅನಾಮಧೇಯ ಅಧಿಕಾರಿಗಳನ್ನು ಉಲ್ಲೇಖಿಸಿ, ವರದಿಯು ಮಸ್ಕ್ ಉಪಸ್ಥಿತಿ ಸ್ಪಷ್ಟವಾಗಿಲ್ಲ ಎಂದಿತ್ತು, ಆದರೆ ಮಧ್ಯಪ್ರಾಚ್ಯದಲ್ಲಿ ಅವರ ಹೂಡಿಕೆಗಳು ಮತ್ತು ಭಾರತದಲ್ಲಿ ಬಲವಾದ ವಾಣಿಜ್ಯ ಉಪಸ್ಥಿತಿಯ ಬಯಕೆಯ ಬಗ್ಗೆ ಊಹಿಸಲಾಗಿತ್ತು. ಭಾರತವು ಮಸ್ಕ್ ಅವರ ಯಾವುದೇ ಭಾಗವಹಿಸುವಿಕೆಯನ್ನು ದೃಢವಾಗಿ ನಿರಾಕರಿಸಿದೆ, ವರದಿಯ ನಿಖರತೆಯನ್ನು ತಿರಸ್ಕರಿಸಿದೆ."
-            },
-            "mr": {
-                "title": "मोदी-ट्रम्प यांच्या कॉलमध्ये मस्कच्या उपस्थितीचा भारताने इन्कार केला",
-                "content": "भारताने अमेरिकेच्या एका मीडिया रिपोर्टला फेटाळून लावले आहे, ज्यात एलोन मस्क मोदी-ट्रम्प यांच्या युद्धविषयक कॉलमध्ये सामील झाल्याचा दावा केला होता. निनावी अधिकाऱ्यांचा हवाला देत, रिपोर्टमध्ये मस्क यांची उपस्थिती अस्पष्ट होती, परंतु मध्यपूर्वेतील त्यांच्या गुंतवणुकीवर आणि भारतात मजबूत व्यावसायिक उपस्थितीच्या त्यांच्या इच्छेवर अनुमान लावले गेले. भारताने मस्कच्या अशा कोणत्याही सहभागाचा ठामपणे इन्कार करत, या रिपोर्टची अचूकता फेटाळली."
-            },
-            "hi": {
-                "title": "भारत ने मोदी-ट्रम्प कॉल में मस्क की उपस्थिति से इनकार किया",
-                "content": "भारत ने एक अमेरिकी मीडिया रिपोर्ट का खंडन किया, जिसमें दावा किया गया था कि एलोन मस्क मोदी-ट्रम्प के युद्ध संबंधी कॉल में शामिल हुए थे। गुमनाम अधिकारियों का हवाला देते हुए, रिपोर्ट में मस्क की उपस्थिति अस्पष्ट बताई गई, लेकिन मध्य पूर्व में उनके निवेश और भारत में मजबूत व्यावसायिक उपस्थिति की उनकी इच्छा पर अटकलें लगाई गईं। भारत ने मस्क की ऐसी किसी भी भागीदारी से दृढ़ता से इनकार करते हुए, रिपोर्ट की सटीकता को खारिज कर दिया।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129872247,imgsize-104350.cms",
-        "link": "https://timesofindia.indiatimes.com/india/india-denies-musk-joined-modi-trump-call-over-war-refutes-us-media-report/articleshow/129872248.cms",
-        "date": "2026-03-29T03:15:25+05:30"
-    },
-    {
-        "id": "0adcd955",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "IPL 2026: A Season of High Stakes & Unforgettable Drama",
-                "content": "IPL 2026 is back, promising a whirlwind season unlike any before. Get ready for thrilling triumphs, unexpected tragedies, and gripping controversies that will keep fans on the edge of their seats. This edition is set to deliver an unforgettable tournament, where every match is packed with intense action and dramatic twists. Don't miss the high-octane spectacle!"
-            },
-            "kn": {
-                "title": "IPL 2026: ಉನ್ನತ ಪಣಗಳು ಮತ್ತು ಅವಿಸ್ಮರಣೀಯ ನಾಟಕದ ಋತು",
-                "content": "IPL 2026 ಮರಳಿದೆ, ಹಿಂದೆಂದೂ ಇಲ್ಲದಂತಹ ಸುಂಟರಗಾಳಿಯ ಋತುವನ್ನು ಭರವಸೆ ನೀಡುತ್ತದೆ. ರೋಮಾಂಚಕ ವಿಜಯಗಳು, ಅನಿರೀಕ್ಷಿತ ದುರಂತಗಳು ಮತ್ತು ಅಭಿಮಾನಿಗಳನ್ನು ಕುರ್ಚಿಯ ಅಂಚಿನಲ್ಲಿ ಇರಿಸುವ ಭುಗಿಲೇಳುವ ವಿವಾದಗಳಿಗೆ ಸಿದ್ಧರಾಗಿ. ಈ ಆವೃತ್ತಿಯು ಅವಿಸ್ಮರಣೀಯ ಪಂದ್ಯಾವಳಿಯನ್ನು ನೀಡಲು ಸಿದ್ಧವಾಗಿದೆ, ಅಲ್ಲಿ ಪ್ರತಿ ಪಂದ್ಯವು ತೀವ್ರ ಆಕ್ಷನ್ ಮತ್ತು ನಾಟಕೀಯ ತಿರುವುಗಳಿಂದ ತುಂಬಿರುತ್ತದೆ. ಈ ಉನ್ನತ-ಆಕ್ಟೇನ್ ದೃಶ್ಯವನ್ನು ತಪ್ಪಿಸಿಕೊಳ್ಳಬೇಡಿ!"
-            },
-            "mr": {
-                "title": "IPL 2026: उच्च दाव आणि अविस्मरणीय नाट्याचा हंगाम",
-                "content": "IPL 2026 परतले आहे, पूर्वी कधीही न पाहिलेला वादळी हंगाम घेऊन. थरारक विजय, अनपेक्षित दुःखद घटना आणि प्रेक्षकांना खिळवून ठेवणारे वाद यांच्यासाठी सज्ज व्हा. ही स्पर्धा अविस्मरणीय असेल, जिथे प्रत्येक सामना तीव्र कृती आणि नाट्यमय ट्विस्टने भरलेला असेल. हा उच्च-ऑक्टेन थरार गमावू नका!"
-            },
-            "hi": {
-                "title": "IPL 2026: उच्च दांव और अविस्मरणीय ड्रामा का सीज़न",
-                "content": "IPL 2026 वापस आ गया है, जो पहले कभी न देखे गए तूफानी सीज़न का वादा कर रहा है। रोमांचक जीत, अप्रत्याशित त्रासदियों और सनसनीखेज विवादों के लिए तैयार हो जाइए जो प्रशंसकों को अपनी सीटों से बांधे रखेंगे। यह संस्करण एक अविस्मरणीय टूर्नामेंट देने के लिए तैयार है, जहाँ हर मैच तीव्र एक्शन और नाटकीय मोड़ों से भरा होगा। इस हाई-ऑक्टेन तमाशे को देखने से न चूकें!"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdkFQbDVDdlhib0tJcnRnMTBzcTl0Ykc1Qi15X1ctVWtOYmhuV0VUZ0dXYzdVSW50Yml4VlJtZS03d0txelZWVFhJbWN1MnkxYkJ5ZTNPanpTLUhCM2wyTFgtVUhKYXRuT191a3NuVllrUHN5V0ZQSGdBZy1FTElvQ1lYYlhWaUtwR19BZ3pNM2I?oc=5",
-        "date": "Sat, 28 Mar 2026 17:30:29 GMT"
-    },
-    {
-        "id": "059fb4eb",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Nadal's Candid Take on Landaluce's Miami Open",
-                "content": "Rafael Nadal offered his candid thoughts on Martin Landaluce's performance at the Miami Open 2026. Despite Landaluce securing victories over some opponents, Nadal acknowledged a \"heartbreak\" moment in the tournament. Nadal's perspective highlights the young player's challenges and potential, even with positive results. He seems to be reflecting on the broader experience rather than just the wins and losses."
-            },
-            "kn": {
-                "title": "ನಡಾಲ್ ಅವರ ಲ್ಯಾಂಡಲುಸ್‌ನ ಮಿಯಾಮಿ ಓಪನ್ ಕುರಿತು ಪ್ರಾಮಾಣಿಕ ಅಭಿಪ್ರಾಯ",
-                "content": "ರಫೆಲ್ ನಡಾಲ್ ಅವರು 2026ರ ಮಿಯಾಮಿ ಓಪನ್‌ನಲ್ಲಿ ಮಾರ್ಟಿನ್ ಲ್ಯಾಂಡಲುಸ್‌ನ ಪ್ರದರ್ಶನದ ಕುರಿತು ತಮ್ಮ ನೇರ ಅಭಿಪ್ರಾಯಗಳನ್ನು ವ್ಯಕ್ತಪಡಿಸಿದ್ದಾರೆ. ಕೆಲವು ಎದುರಾಳಿಗಳ ವಿರುದ್ಧ ಲ್ಯಾಂಡಲುಸ್ ಗೆಲುವು ಸಾಧಿಸಿದ್ದರೂ, ನಡಾಲ್ ಪಂದ್ಯಾವಳಿಯಲ್ಲಿ \"ಹೃದಯವಿದ್ರಾವಕ\" ಕ್ಷಣವನ್ನು ಒಪ್ಪಿಕೊಂಡಿದ್ದಾರೆ. ನಡಾಲ್ ಅವರ ದೃಷ್ಟಿಕೋನವು ಯುವ ಆಟಗಾರನ ಸವಾಲುಗಳು ಮತ್ತು ಸಾಮರ್ಥ್ಯವನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ, ಸಕಾರಾತ್ಮಕ ಫಲಿತಾಂಶಗಳ ಹೊರತಾಗಿಯೂ. ಅವರು ಕೇವಲ ಗೆಲುವುಗಳು ಮತ್ತು ಸೋಲುಗಳಿಗಿಂತ ಹೆಚ್ಚಾಗಿ ವಿಶಾಲ ಅನುಭವದ ಬಗ್ಗೆ ಚಿಂತಿಸುತ್ತಿರುವಂತೆ ತೋರುತ್ತಾರೆ."
-            },
-            "mr": {
-                "title": "नदालचे लँडालुसच्या मियामी ओपनवरील प्रांजळ मत",
-                "content": "राफेल नदालने 2026 च्या मियामी ओपनमधील मार्टिन लँडालुसच्या कामगिरीबद्दल आपले प्रांजळ विचार मांडले. लँडालुसने काही प्रतिस्पर्ध्यांवर विजय मिळवले असले तरी, नदालने स्पर्धेतील एका \"हृदयद्रावक\" क्षणाची कबुली दिली. नदालचा दृष्टिकोन तरुण खेळाडूच्या आव्हानांना आणि संभाव्यतेला अधोरेखित करतो, सकारात्मक परिणामांनंतरही. तो केवळ जय-पराजयापेक्षा व्यापक अनुभवावर चिंतन करत असल्याचे दिसते."
-            },
-            "hi": {
-                "title": "नडाल का लैंडालुस के मियामी ओपन पर बेबाक विचार",
-                "content": "राफेल नडाल ने 2026 मियामी ओपन में मार्टिन लैंडालुस के प्रदर्शन पर अपने बेबाक विचार साझा किए। लैंडालुस ने कुछ विरोधियों पर जीत हासिल की, फिर भी नडाल ने टूर्नामेंट में एक \"दिल टूटने वाले\" क्षण को स्वीकार किया। नडाल का दृष्टिकोण युवा खिलाड़ी की चुनौतियों और क्षमता पर प्रकाश डालता है, यहां तक कि सकारात्मक परिणामों के बावजूद भी। ऐसा लगता है कि वह केवल जीत और हार से बढ़कर व्यापक अनुभव पर विचार कर रहे हैं।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQc0tSVUFBcUE1Vjc0aEwzVWktdFA2VWVPV3ptS3FObGp0RUp5OEFKV1dmQmdWV0lzakNiVVpnMkRTaTBwUHhNTm8wMU5ubUU2SjY5UkhXa3picXNwa2ZnSFYzaWRLdHN1ekZBSVJoLXFnMXhTWFhoTzFnNTczckpKWlRtUUNLalhxUFpxQ0pPMHlFU04yTjhjWHhqMFFoZE5paUlsUDU4WUtra2hDSW8tMEVwYk5hajZtNUp1Sjhqb01kWTd0REktLXYxaEk0RmVxWU5GREtSUEFKczBQbm9kNnV3RlYxRXNla1lBS1FfSTd4dUJfNWJ2Q1BmSHd5QWptM3ZJRmV0eHFVZUZpOHowNE1UZXJ2WTk1RzB3V0Z0LVRIeDJIdzNUQk1WcFdSbXI1aGx1d1BGNNIBvAJBVV95cUxQMjdiR0V6WU1PV0lVaV82LTRGcnZaazZKY3FSYzF3a2dkX3VvRDdlM2RKakRHNXhWeWJGLW5TNzNiQ3F5c05MTlpGYThXS05GM1lzbTR5bE15OGhsYmE2OFFob1BHLWEzWXdnLVZzZnJxSUZsNUpxQVFrbG54UlpYemhhYlhfYjhwWEdHQTN4eGszdjA1Z1JRWjF6d2hQV3k2MHc3R25ta2NkYkl1MnpPY3hGWmpaMC0tMlc5b3NLa1N2dUFCY3ZtOGFQaDJrRmlKb0VLZzZ1aXF1X1FyMkRvT2Q0aEhNNnR5NkRUSHBOUUttYy1PalZJNlZuTFZhN1FOaHA5b1BteEkxWE9GSEI3R3N5aWhEVjVHX1hPdml4YlVzaWpKQkwxN0lZR2hUN29LMTVfUUxaeHlNTm5r?oc=5",
-        "date": "Sat, 28 Mar 2026 17:55:00 GMT"
-    },
-    {
-        "id": "c00c3de8",
-        "category": "Sports",
-        "translations": {
-            "en": {
-                "title": "Abhinandan Singh: RCB's New Pace Sensation Debuts",
-                "content": "Rising from tennis-ball cricket in just four years, Uttar Pradesh pacer Abhinandan Singh debuted for RCB against SRH. His impressive intra-squad performances, notably dismissing Virat Kohli, secured his IPL spot amidst the team's bowling challenges. This debut marks a significant moment for the young talent, highlighting a rapid ascent in cricket."
-            },
-            "kn": {
-                "title": "ಅಭಿನಂದನ್ ಸಿಂಗ್: RCB ಯ ಹೊಸ ವೇಗದ ಸಂವೇದನೆ ಪಾದಾರ್ಪಣೆ",
-                "content": "ಕೇವಲ ನಾಲ್ಕು ವರ್ಷಗಳಲ್ಲಿ ಟೆನಿಸ್-ಬಾಲ್ ಕ್ರಿಕೆಟ್‌ನಿಂದ ಮೇಲೇರಿದ ಉತ್ತರ ಪ್ರದೇಶದ ವೇಗದ ಬೌಲರ್ ಅಭಿನಂದನ್ ಸಿಂಗ್ RCB ಪರವಾಗಿ SRH ವಿರುದ್ಧ ಪಾದಾರ್ಪಣೆ ಮಾಡಿದರು. ವಿರಾಟ್ ಕೊಹ್ಲಿಯನ್ನು ಔಟ್ ಮಾಡುವುದೂ ಸೇರಿದಂತೆ ಅವರ ಪ್ರಭಾವಶಾಲಿ ಇಂಟ್ರಾ-ಸ್ಕ್ವಾಡ್ ಪ್ರದರ್ಶನಗಳು, ತಂಡದ ಬೌಲಿಂಗ್ ಸವಾಲುಗಳ ಮಧ್ಯೆ ಅವರಿಗೆ IPL ಸ್ಥಾನವನ್ನು ಭದ್ರಪಡಿಸಿತು. ಈ ಪಾದಾರ್ಪಣೆ ಯುವ ಪ್ರತಿಭೆಗೆ ಒಂದು ಮಹತ್ವದ ಕ್ಷಣವಾಗಿದೆ, ಕ್ರಿಕೆಟ್‌ನಲ್ಲಿ ಅವರ ಕ್ಷಿಪ್ರ ಏರಿಕೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "अभिनंदन सिंग: RCB चा नवा वेगवान सनसनीचा पदार्पण",
-                "content": "केवळ चार वर्षांत टेनिस-बॉल क्रिकेटमधून वर आलेला उत्तर प्रदेशचा वेगवान गोलंदाज अभिनंदन सिंगने SRH विरुद्ध RCB साठी पदार्पण केले. विराट कोहलीला बाद करण्यासह त्याच्या प्रभावी इंट्रा-स्क्वाड कामगिरीमुळे संघाच्या गोलंदाजीच्या आव्हानांदरम्यान त्याला आयपीएलमध्ये स्थान मिळाले. हे पदार्पण या युवा प्रतिभेसाठी एक महत्त्वाचा क्षण आहे, जे क्रिकेटमधील त्याच्या जलद प्रगतीवर प्रकाश टाकते."
-            },
-            "hi": {
-                "title": "अभिनंदन सिंह: RCB का नया पेस सेंसेशन डेब्यू",
-                "content": "केवल चार सालों में टेनिस-बॉल क्रिकेट से ऊपर उठकर, उत्तर प्रदेश के तेज गेंदबाज अभिनंदन सिंह ने SRH के खिलाफ RCB के लिए पदार्पण किया। विराट कोहली को आउट करने सहित उनके प्रभावशाली इंट्रा-स्क्वाड प्रदर्शन ने टीम की गेंदबाजी चुनौतियों के बीच उनकी IPL जगह पक्की की। यह पदार्पण युवा प्रतिभा के लिए एक महत्वपूर्ण क्षण है, जो क्रिकेट में उनके तेजी से बढ़ते करियर को उजागर करता है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129866434,imgsize-194156.cms",
-        "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-who-is-abhinandan-singh-meet-rcbs-debutant-who-dismissed-virat-kohli-twice/articleshow/129866458.cms",
-        "date": "2026-03-28T19:38:35+05:30"
-    },
-    {
-        "id": "e3e4efc9",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Virat Kohli's ODI Form & Strategy Revealed",
-                "content": "Virat Kohli, following a strong IPL start, subtly reminded everyone of his formidable ODI form. He shared his strategic secret: focusing intently on one format at a time to maximize performance. This disciplined approach allows him to compartmentalize his game, ensuring sustained excellence across different cricketing challenges and maintaining his elite status in international cricket."
-            },
-            "kn": {
-                "title": "ವಿರಾಟ್ ಕೊಹ್ಲಿಯ ಏಕದಿನ ಫಾರ್ಮ್ ಮತ್ತು ತಂತ್ರ ಅನಾವರಣ",
-                "content": "ಐಪಿಎಲ್‌ನಲ್ಲಿ ಉತ್ತಮ ಆರಂಭದ ನಂತರ, ವಿರಾಟ್ ಕೊಹ್ಲಿ ತಮ್ಮ ಅದ್ಭುತ ಏಕದಿನ ಫಾರ್ಮ್ ಅನ್ನು ನೆನಪಿಸಿದರು. ಅವರು ತಮ್ಮ ಕಾರ್ಯತಂತ್ರದ ರಹಸ್ಯವನ್ನು ಹಂಚಿಕೊಂಡರು: ಗರಿಷ್ಠ ಕಾರ್ಯಕ್ಷಮತೆಗಾಗಿ ಒಂದೇ ಸಮಯದಲ್ಲಿ ಒಂದು ಸ್ವರೂಪದ ಮೇಲೆ ತೀವ್ರವಾಗಿ ಗಮನಹರಿಸುವುದು. ಈ ಶಿಸ್ತುಬದ್ಧ ವಿಧಾನವು ಅವರಿಗೆ ತಮ್ಮ ಆಟವನ್ನು ವಿಭಜಿಸಲು, ವಿವಿಧ ಕ್ರಿಕೆಟ್ ಸವಾಲುಗಳಲ್ಲಿ ನಿರಂತರ ಶ್ರೇಷ್ಠತೆಯನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು ಮತ್ತು ಅಂತರರಾಷ್ಟ್ರೀಯ ಕ್ರಿಕೆಟ್‌ನಲ್ಲಿ ತಮ್ಮ ಗಣ್ಯ ಸ್ಥಾನವನ್ನು ಕಾಯ್ದುಕೊಳ್ಳಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "विराट कोहलीचा एकदिवसीय फॉर्म आणि रणनीती उघड",
-                "content": "आयपीएलमध्ये दमदार सुरुवातीनंतर, विराट कोहलीने आपल्या जबरदस्त एकदिवसीय फॉर्मची आठवण करून दिली. त्याने आपले धोरणात्मक रहस्य सांगितले: उत्कृष्ट कामगिरीसाठी एका वेळी एकाच फॉरमॅटवर लक्ष केंद्रित करणे. हा शिस्तबद्ध दृष्टिकोन त्याला आपला खेळ विभागण्यास, विविध क्रिकेट आव्हानांमध्ये सतत उत्कृष्ट कामगिरी सुनिश्चित करण्यास आणि आंतरराष्ट्रीय क्रिकेटमधील त्याचा उच्च दर्जा कायम राखण्यास मदत करतो."
-            },
-            "hi": {
-                "title": "विराट कोहली का वनडे फॉर्म और रणनीति का खुलासा",
-                "content": "आईपीएल में शानदार शुरुआत के बाद, विराट कोहली ने अपनी जबरदस्त वनडे फॉर्म की याद दिलाई। उन्होंने अपनी रणनीतिक रहस्य साझा किया: अधिकतम प्रदर्शन के लिए एक समय में एक प्रारूप पर गहन ध्यान केंद्रित करना। यह अनुशासित दृष्टिकोण उन्हें अपने खेल को विभाजित करने, विभिन्न क्रिकेट चुनौतियों में निरंतर उत्कृष्टता सुनिश्चित करने और अंतरराष्ट्रीय क्रिकेट में अपनी विशिष्ट स्थिति बनाए रखने में मदद करता है।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPbWlUWGVWSlRQMWF1QnVNSTlfZzJQNTgzNmFnMW1kNk5UcDRpdHBaTXk0eklfX2NSMndia0lVOWQ1WVpQUVFOWWYwVGVfVEFBaGU3R0tpR19fRnpYSzd2QS1rUXdvcnNrVGFEb1llSmU3eVFKRHpyemdabzR4NEw5RkNRV0pHLV94Ymo1QnUxRXc5MVd3NlJIY2dsdl82QmJmNWp6UHZudWVaMTQwQ1V1UlVtR0hQSHB3d1F5a0lCMlR6NGRyeEpYdWgxRmN1eXpFcGtOamFCenZpY0JybkEya1JwTTE4TjJ4WHFrcjhtMDlKbW03TFpjRHk3RmZUaW00V19hbWlxOFp1S1XSAZACQVVfeXFMT2FVbXRycno5V0xkNmpRa0tfVmM2eUM2TW5fN05rVUI4UVNjZi1hc1RpNHRVN3NqdnRNdTk0SVFTUGhrTXFTYUtCVGpQR0Zvcm82N3FyMVVObF9uVEJRd3lka1lGOXZhUTN6YjdXYl9NZlNGUGlzSW9RNmxDdkt5b0M4bE1qT3RwUzZmVTFqV0ZMSS1pQ2JobzY0R2VETVBhS2E1QmJrMWg1X2N0UllLZ1g1ZzZ6U2loMWZPMkJkWnk0UUpaQ0pJQVZHZTdLdTBBd2ZKQTJRbzFFaC1VXy1wdE9kbnVKU2dlUE8xajlvc3JickJKMGNldjZySnZVR0hQTm1WY0ZrY1hSMWV2aE5sU1o?oc=5",
-        "date": "Sat, 28 Mar 2026 18:15:30 GMT"
-    },
-    {
-        "id": "df423aeb",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Aries Weekly Horoscope: Caution for Hidden Hurdles",
-                "content": "Aries, navigate March 29 - April 04, 2026, with caution. This week may bring hidden opposition and professional challenges. Stay vigilant in official matters and be mindful of your surroundings. Prudence will help you avoid unexpected hurdles and maintain steady progress."
-            },
-            "kn": {
-                "title": "ಮೇಷ ರಾಶಿ ವಾರ ಭವಿಷ್ಯ: ಗುಪ್ತ ಅಡೆತಡೆಗಳಿಗೆ ಎಚ್ಚರಿಕೆ",
-                "content": "ಮೇಷ ರಾಶಿಯವರೇ, ಮಾರ್ಚ್ 29 - ಏಪ್ರಿಲ್ 04, 2026ರ ವಾರವನ್ನು ಎಚ್ಚರಿಕೆಯಿಂದ ನಿರ್ವಹಿಸಿ. ಈ ವಾರದಲ್ಲಿ ಗುಪ್ತ ವಿರೋಧಗಳು ಮತ್ತು ವೃತ್ತಿಪರ ಸವಾಲುಗಳು ಎದುರಾಗಬಹುದು. ಅಧಿಕೃತ ವಿಷಯಗಳಲ್ಲಿ ಜಾಗರೂಕರಾಗಿರಿ ಮತ್ತು ನಿಮ್ಮ ಸುತ್ತಮುತ್ತಲಿನ ಬಗ್ಗೆ ಗಮನವಿರಲಿ. ವಿವೇಕದಿಂದ ವರ್ತಿಸುವುದರಿಂದ ಅನಿರೀಕ್ಷಿತ ಅಡೆತಡೆಗಳನ್ನು ತಪ್ಪಿಸಿ ಸ್ಥಿರ ಪ್ರಗತಿಯನ್ನು ಸಾಧಿಸಬಹುದು."
-            },
-            "mr": {
-                "title": "मेष साप्ताहिक राशीभविष्य: गुप्त अडथळ्यांसाठी सावधगिरी",
-                "content": "मेष राशीच्या व्यक्तींनो, 29 मार्च - 04 एप्रिल 2026 हा आठवडा सावधगिरीने हाताळा. या आठवड्यात गुप्त विरोध आणि व्यावसायिक आव्हाने येऊ शकतात. अधिकृत बाबींमध्ये सतर्क रहा आणि आपल्या सभोवतालच्या परिस्थितीबद्दल जागरूक रहा. दूरदृष्टी आपल्याला अनपेक्षित अडथळे टाळण्यास आणि स्थिर प्रगती राखण्यास मदत करेल."
-            },
-            "hi": {
-                "title": "मेष साप्ताहिक राशिफल: छिपी बाधाओं से रहें सावधान",
-                "content": "मेष राशि, 29 मार्च - 04 अप्रैल, 2026 के सप्ताह को सावधानी से नेविगेट करें। यह सप्ताह छिपे हुए विरोध और व्यावसायिक चुनौतियाँ ला सकता है। आधिकारिक मामलों में सतर्क रहें और अपने परिवेश के प्रति सचेत रहें। विवेक आपको अप्रत्याशित बाधाओं से बचने और स्थिर प्रगति बनाए रखने में मदद करेगा।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxNOV9ya0dDVWFrV1ZJMHRzYnBaUVRkLWpkUkhpVjY4Zi1naDFRSHlWVnp5a3I2b1ZrMXB4MkdXRDF2bHhyWGlfaV9hQVBVQ2Jmc21zbUxqVFNpNWRwMUJ5MlpMZEEyVEEyX2J3cWdMZkhoblJVRy1PdV9yV2t5YzVEb2MzdzMtWF9Rb204eVA0Tkh0TUhkMVRucXBNZjZQVFhNZWpINTV4dmJOWTVtSVlSS2VoTXh1SC1ZSkJkdXN1dDdKNkF3LTFsS3h3dUs5RHdjUW1pMmNfQy1TVWpDeWpMaGJuQnN2Qk5YekE4U0phMnBDUkgyNGFUZEpHWDcwTEsweUZ3RGZEbHd5ZlB0WWM2OTVCN05WSy1JajR0b1Bn0gGjAkFVX3lxTFA1V2xCXzZEdm5CeEU1TkQ0Z2RUM0VBMTdWbTEwblZTOUxEZFI0MzN2QlJWT1VReWwtXzlLRFZPTUVzeE40WlA4R1N2ZWtTWTVyMy0zMk9Qd2RfckNqWXBYN3BmbXh4ZUk1VzVsbjBTMWxyMmlnVU5yaV9NcDNlck01ZHZGdWExcmlyXzNwdXFJWDh6bHF3cWhvM09HYlFCWUdHWXNkT2J3VkhpUk5PWkJMMHk5UTd4MUQxQnVHOXlqOVpRZDc2NWMzQ0YzREhoZlZRNTJlN2MwMmR3dm90ckFMdndveUVfNk5Wc2h3Mll4WTVveGt4cG9nNmtOckstTlhrZzZMS3BmbFBSdmUwcEdVU2lDU2hoVlBjdzYyb1VkdUsxcw?oc=5",
-        "date": "Sat, 28 Mar 2026 10:30:00 GMT"
-    },
-    {
-        "id": "ca58d033",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Iran's Secret Squeeze: Is Tehran Pressuring Netanyahu Through JD Vance?",
-                "content": "An intriguing report questions Iran's alleged \"hidden masterplan\" to pressure Israeli PM Netanyahu (\"Bibi\"). Speculation suggests Tehran, possibly orchestrated by Mojtaba, is secretly leveraging JD Vance, a key Trump ally, as an indirect tool. The report asks: Is Iran genuinely using Trump's man to squeeze Netanyahu, revealing a complex, covert geopolitical strategy?"
-            },
-            "kn": {
-                "title": "ಇರಾನ್‌ನ ರಹಸ್ಯ ಒತ್ತಡ: ಜೆಡಿ ವ್ಯಾನ್ಸ್ ಮೂಲಕ ಟೆಹ್ರಾನ್ ನೆತನ್ಯಾಹು ಮೇಲೆ ಒತ್ತಡ ಹೇರುತ್ತಿದೆಯೇ?",
-                "content": "ಇಸ್ರೇಲಿ ಪ್ರಧಾನಿ ನೆತನ್ಯಾಹು (\"ಬಿಬಿ\") ಮೇಲೆ ಒತ್ತಡ ಹೇರಲು ಇರಾನ್‌ನ ಆರೋಪಿತ 'ಗುಪ್ತ ಮಾಸ್ಟರ್‌ಪ್ಲಾನ್' ಬಗ್ಗೆ ಒಂದು ವರದಿ ಪ್ರಶ್ನಿಸಿದೆ. ಮೊಜ್ತಬಾ ಪ್ರೇರಿತ ಈ ತಂತ್ರದಲ್ಲಿ, ಟೆಹ್ರಾನ್ ಟ್ರಂಪ್‌ನ ಪ್ರಮುಖ ಮಿತ್ರ ಜೆಡಿ ವ್ಯಾನ್ಸ್ ಅವರನ್ನು ಪರೋಕ್ಷವಾಗಿ ಬಳಸಿಕೊಳ್ಳುತ್ತಿದೆ ಎಂದು ಊಹಿಸಲಾಗಿದೆ. ಇರಾನ್ ನಿಜವಾಗಿಯೂ ಟ್ರಂಪ್‌ನ ವ್ಯಕ್ತಿಯನ್ನು ಬಳಸಿ ನೆತನ್ಯಾಹುಗೆ ಒತ್ತಡ ಹೇರುತ್ತಿದೆಯೇ? ಇದು ಸಂಕೀರ್ಣ, ರಹಸ್ಯ ಭೌಗೋಳಿಕ ರಾಜಕೀಯ ತಂತ್ರವನ್ನು ಅನಾವರಣಗೊಳಿಸುತ್ತದೆಯೇ?"
-            },
-            "mr": {
-                "title": "इराणचा गुप्त दबाव: तेहरान जेडी व्हान्सद्वारे नेतन्याहूवर दबाव आणत आहे का?",
-                "content": "इराणच्या इस्रायली पंतप्रधान नेतन्याहू ('बिबी') यांच्यावर दबाव आणण्याच्या कथित 'गुप्त मास्टरप्लॅन'वर एका अहवालाने प्रश्नचिन्ह निर्माण केले आहे. अटकळ अशी आहे की तेहरान, मोज्तबाच्या माध्यमातून, ट्रम्पचे प्रमुख सहयोगी जेडी व्हान्स यांना अप्रत्यक्षपणे वापरत आहे. हा अहवाल विचारतो: इराण खरोखरच ट्रम्पच्या माणसाचा वापर करून नेतन्याहूला कोंडीत पकडत आहे का? हे एक जटिल, गुप्त भू-राजकीय डावपेच उघड करते का?"
-            },
-            "hi": {
-                "title": "ईरान का गुप्त दबाव: क्या तेहरान जेडी वेंस के माध्यम से नेतन्याहू पर दबाव डाल रहा है?",
-                "content": "एक रिपोर्ट ईरान के इजरायली पीएम नेतन्याहू ('बिबी') पर दबाव डालने की कथित 'छिपी हुई मास्टरप्लान' पर सवाल उठाती है। अटकलें बताती हैं कि तेहरान, संभवतः मोज्तबा द्वारा, ट्रम्प के प्रमुख सहयोगी जेडी वेंस का अप्रत्यक्ष उपकरण के रूप में गुप्त रूप से लाभ उठा रहा है। रिपोर्ट पूछती है: क्या ईरान वाकई ट्रम्प के आदमी का उपयोग कर नेतन्याहू को निचोड़ रहा है, जो एक जटिल, गुप्त भू-राजनीतिक रणनीति दर्शाता है?"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQ0t2QzBJYVltdVI0TWtvUGpkRFVWb0ZKaUNCMF9jZlJ0ZGtsWnROSjJZR3RRYjFYNk9lakFmNDBpUkZDVWJlLWR2NXk3Sm1vR0J2d0g1QXVmX2ZNNkxheEE3amVKajktUGpKejFCWURqQ0huZks5bDNSQmxjYUkzV1ZIMmNZMTZIZEFFZXlXT3AySGI2dUZiRGt3NGxPOWpxRGQtU3RLaGhYZnNGcUlHMmw0YUI2RVdINGkxX3dtX2g0TGRhUEo1T2tvVnI5RHFuamQ2eHBXd0MxZk9jbUtxRjI0Q1DSAeoBQVVfeXFMTmtHaEV2VHJpODJtMHVHLXFndUpLR25xYU9hWHFTUlloVGVIcXVJSm55X3FNTUI5eHdxSGxCSGRSQlZCRGhZVC1XSGNxR2FxZkh1SWh3eUNtMVZmc19PX0J2Q0NKMjJXMS01R0Nqb3ZZbm1GLUcxQUw1YjNBRUZ5R3dOOTRFYmVWdDVyalVkM0t3d25DbHJENEVZSFpKQVBkSDUydG9yUndwM0Rka29JQjU4RE1GRFhQWWtwMWxlcDR0LUM3Z2laSkhqUU52enU5SjEyaHRERERIbV9GZjNuSEJaQVh1TnFfbXlB?oc=5",
-        "date": "Sat, 28 Mar 2026 12:34:46 GMT"
-    },
-    {
-        "id": "23463902",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Rajnath Reviews Energy Security Amid Iran War",
-                "content": "Defence Minister Rajnath Singh convened a review meeting to address potential energy supply disruptions stemming from the ongoing Iran war. Emphasizing the government's commitment to public welfare, Singh assured that all necessary measures are being taken to safeguard citizens from any impact on essential energy resources. The proactive discussion aimed at strategic planning to maintain stable supplies across the nation."
-            },
-            "kn": {
-                "title": "ರಾಜನಾಥ್ ಇರಾನ್ ಯುದ್ಧದ ನಡುವೆ ಇಂಧನ ಭದ್ರತೆ ಪರಿಶೀಲನೆ",
-                "content": "ರಕ್ಷಣಾ ಸಚಿವ ರಾಜನಾಥ್ ಸಿಂಗ್ ಅವರು ಇರಾನ್ ಯುದ್ಧದಿಂದ ಉಂಟಾಗಬಹುದಾದ ಇಂಧನ ಪೂರೈಕೆ ಅಡೆತಡೆಗಳ ಕುರಿತು ಪರಿಶೀಲನಾ ಸಭೆ ನಡೆಸಿದರು. ಸಾರ್ವಜನಿಕರ ಕಲ್ಯಾಣಕ್ಕೆ ಸರ್ಕಾರದ ಬದ್ಧತೆಯನ್ನು ಒತ್ತಿಹೇಳಿದ ಸಿಂಗ್, ಅಗತ್ಯ ಇಂಧನ ಸಂಪನ್ಮೂಲಗಳ ಮೇಲಿನ ಯಾವುದೇ ಪರಿಣಾಮದಿಂದ ನಾಗರಿಕರನ್ನು ರಕ್ಷಿಸಲು ಎಲ್ಲಾ ಅಗತ್ಯ ಕ್ರಮಗಳನ್ನು ಕೈಗೊಳ್ಳಲಾಗುತ್ತಿದೆ ಎಂದು ಭರವಸೆ ನೀಡಿದರು. ದೇಶಾದ್ಯಂತ ಸ್ಥಿರ ಪೂರೈಕೆಯನ್ನು ಕಾಪಾಡಿಕೊಳ್ಳಲು ಸಕ್ರಿಯ ಚರ್ಚೆಯು ಕಾರ್ಯತಂತ್ರದ ಯೋಜನೆಯನ್ನು ಗುರಿಯಾಗಿಸಿಕೊಂಡಿದೆ."
-            },
-            "mr": {
-                "title": "इराण युद्धादरम्यान राजनाथ यांच्याकडून ऊर्जा सुरक्षेचा आढावा",
-                "content": "संरक्षण मंत्री राजनाथ सिंह यांनी इराण युद्धामुळे निर्माण झालेल्या संभाव्य ऊर्जा पुरवठ्यातील अडथळ्यांवर चर्चा करण्यासाठी आढावा बैठक घेतली. लोकांच्या कल्याणासाठी सरकारच्या वचनबद्धतेवर भर देत, सिंह यांनी आश्वासन दिले की, आवश्यक ऊर्जा स्त्रोतांवर होणाऱ्या कोणत्याही परिणामापासून नागरिकांचे संरक्षण करण्यासाठी सर्व आवश्यक उपाययोजना केल्या जात आहेत. देशभरात स्थिर पुरवठा राखण्यासाठी सक्रिय चर्चेने धोरणात्मक नियोजनाचे उद्दिष्ट ठेवले."
-            },
-            "hi": {
-                "title": "ईरान युद्ध के बीच राजनाथ ने की ऊर्जा सुरक्षा की समीक्षा",
-                "content": "रक्षा मंत्री राजनाथ सिंह ने ईरान युद्ध से उत्पन्न संभावित ऊर्जा आपूर्ति बाधाओं पर चर्चा के लिए एक समीक्षा बैठक की। जन कल्याण के प्रति सरकार की प्रतिबद्धता पर जोर देते हुए, सिंह ने आश्वासन दिया कि आवश्यक ऊर्जा संसाधनों पर किसी भी प्रभाव से नागरिकों की सुरक्षा के लिए सभी आवश्यक उपाय किए जा रहे हैं। देश भर में स्थिर आपूर्ति बनाए रखने के लिए इस सक्रिय चर्चा का उद्देश्य रणनीतिक योजना बनाना था।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129867609,imgsize-1053128.cms",
-        "link": "https://timesofindia.indiatimes.com/india/committed-to-safeguard-people-rajnath-holds-review-meeting-on-energy-supply-concerns-amid-iran-war/articleshow/129867627.cms",
-        "date": "2026-03-28T21:01:07+05:30"
-    },
-    {
-        "id": "a93c19a6",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "US Senators Visit Taiwan Amid Rising Tensions",
-                "content": "Four US senators have commenced a significant tour of Taiwan, reinforcing robust US-Taiwan ties. This high-profile delegation's visit is expected to draw strong reactions from China, which considers Taiwan its territory. The trip highlights ongoing geopolitical complexities and signals continued American support for the self-governed island, amidst heightened regional tensions."
-            },
-            "kn": {
-                "title": "ಅಮೆರಿಕ ಸಂಸದರು ಹೆಚ್ಚುತ್ತಿರುವ ಉದ್ವಿಗ್ನತೆಗಳ ನಡುವೆ ತೈವಾನ್‌ಗೆ ಭೇಟಿ",
-                "content": "ನಾಲ್ಕು ಅಮೆರಿಕ ಸಂಸದರು ತೈವಾನ್‌ಗೆ ಮಹತ್ವದ ಭೇಟಿ ನೀಡಲು ಪ್ರಾರಂಭಿಸಿದ್ದಾರೆ, ಇದು ಅಮೆರಿಕ-ತೈವಾನ್ ಸಂಬಂಧಗಳನ್ನು ಬಲಪಡಿಸುತ್ತದೆ. ಈ ಉನ್ನತ ಮಟ್ಟದ ನಿಯೋಗದ ಭೇಟಿಯು ಚೀನಾದಿಂದ ತೀವ್ರ ಪ್ರತಿಕ್ರಿಯೆಗಳನ್ನು ಆಕರ್ಷಿಸುವ ನಿರೀಕ್ಷೆಯಿದೆ, ಏಕೆಂದರೆ ಚೀನಾ ತೈವಾನ್ ಅನ್ನು ತನ್ನ ಪ್ರದೇಶವೆಂದು ಪರಿಗಣಿಸುತ್ತದೆ. ಈ ಪ್ರವಾಸವು ನಿರಂತರ ಭೌಗೋಳಿಕ ರಾಜಕೀಯ ಸಂಕೀರ್ಣತೆಗಳನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ ಮತ್ತು ಹೆಚ್ಚುತ್ತಿರುವ ಪ್ರಾದೇಶಿಕ ಉದ್ವಿಗ್ನತೆಗಳ ನಡುವೆ ಸ್ವಯಂ-ಆಡಳಿತದ ದ್ವೀಪಕ್ಕೆ ಅಮೆರಿಕದ ನಿರಂತರ ಬೆಂಬಲವನ್ನು ಸೂಚಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "वाढत्या तणावांमध्ये अमेरिकेच्या खासदारांचा तैवान दौरा",
-                "content": "चार अमेरिकन खासदारांनी तैवानला एका महत्त्वाच्या दौऱ्याला सुरुवात केली आहे, ज्यामुळे अमेरिका-तैवान संबंध अधिक दृढ झाले आहेत. या उच्चस्तरीय शिष्टमंडळाच्या भेटीमुळे चीनकडून तीव्र प्रतिक्रिया येण्याची अपेक्षा आहे, कारण चीन तैवानला स्वतःचा भूभाग मानतो. हा दौरा भूराजकीय गुंतागुंत आणि वाढत्या प्रादेशिक तणावांमध्ये स्वशासित बेटाला अमेरिकेच्या सततच्या समर्थनावर भर देतो."
-            },
-            "hi": {
-                "title": "बढ़ते तनाव के बीच अमेरिकी सीनेटरों का ताइवान दौरा",
-                "content": "चार अमेरिकी सीनेटरों ने ताइवान का एक महत्वपूर्ण दौरा शुरू किया है, जो अमेरिका-ताइवान संबंधों को मजबूत करता है। इस उच्च-स्तरीय प्रतिनिधिमंडल की यात्रा से चीन की कड़ी प्रतिक्रिया आने की उम्मीद है, क्योंकि चीन ताइवान को अपना क्षेत्र मानता है। यह यात्रा बढ़ती भू-राजनीतिक जटिलताओं और क्षेत्रीय तनाव के बीच स्व-शासित द्वीप के लिए अमेरिकी समर्थन को दर्शाती है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129866674,imgsize-779975.cms",
-        "link": "https://timesofindia.indiatimes.com/world/us/four-us-senators-to-tour-taiwan-donalds-trump-china-visit/articleshow/129866502.cms",
-        "date": "2026-03-28T19:53:00+05:30"
-    },
-    {
-        "id": "9aa50c75",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Mitchell Starc Slams Indian Media Over IPL Fitness Claims",
-                "content": "Delhi Capitals star Mitchell Starc has slammed Indian media, accusing them of falsely claiming superior knowledge of his body compared to his own. The left-arm pacer's strong remarks come amidst a brewing controversy surrounding his fitness for the upcoming IPL 2026 season. Starc's comments highlight a growing tension between athletes and media coverage concerning personal health."
-            },
-            "kn": {
-                "title": "ಮಿಚೆಲ್ ಸ್ಟಾರ್ಕ್ ಅವರಿಂದ ಐಪಿಎಲ್ ಫಿಟ್‌ನೆಸ್ ಹೇಳಿಕೆಗಳ ಬಗ್ಗೆ ಭಾರತೀಯ ಮಾಧ್ಯಮಗಳ ಟೀಕೆ",
-                "content": "ಡೆಲ್ಲಿ ಕ್ಯಾಪಿಟಲ್ಸ್ ತಾರೆ ಮಿಚೆಲ್ ಸ್ಟಾರ್ಕ್ ಭಾರತೀಯ ಮಾಧ್ಯಮಗಳನ್ನು ತೀವ್ರವಾಗಿ ಟೀಕಿಸಿದ್ದಾರೆ. ತನ್ನ ದೇಹದ ಬಗ್ಗೆ ತನಗಿಂತ ಹೆಚ್ಚಿನ ಜ್ಞಾನವಿದೆ ಎಂದು ಸುಳ್ಳು ಹೇಳುತ್ತಿದ್ದಾರೆ ಎಂದು ಅವರು ಆರೋಪಿಸಿದ್ದಾರೆ. ಎಡಗೈ ವೇಗದ ಬೌಲರ್‌ನ ಈ ಬಲವಾದ ಹೇಳಿಕೆಗಳು ಮುಂಬರುವ ಐಪಿಎಲ್ 2026 ಸೀಸನ್‌ಗಾಗಿ ಅವರ ಫಿಟ್‌ನೆಸ್ ಸುತ್ತಲಿನ ವಿವಾದದ ನಡುವೆ ಬಂದಿವೆ. ಸ್ಟಾರ್ಕ್ ಅವರ ಕಾಮೆಂಟ್‌ಗಳು ಕ್ರೀಡಾಪಟುಗಳು ಮತ್ತು ವೈಯಕ್ತಿಕ ಆರೋಗ್ಯಕ್ಕೆ ಸಂಬಂಧಿಸಿದ ಮಾಧ್ಯಮ ವರದಿಗಳ ನಡುವಿನ ಹೆಚ್ಚುತ್ತಿರುವ ಉದ್ವಿಗ್ನತೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತವೆ."
-            },
-            "mr": {
-                "title": "मिचेल स्टार्कने आयपीएल फिटनेस दाव्यांवर भारतीय माध्यमांना फटकारले",
-                "content": "दिल्ली कॅपिटल्सचा स्टार खेळाडू मिचेल स्टार्कने भारतीय माध्यमांवर जोरदार टीका केली आहे. आपल्या शरीराविषयी स्वतःपेक्षा अधिक माहिती असल्याचा त्यांचा दावा खोटा असल्याचे त्याने म्हटले. डाव्या हाताच्या वेगवान गोलंदाजाचे हे कठोर विधान आगामी आयपीएल २०२६ हंगामासाठी त्याच्या फिटनेसबाबतच्या वाढत्या वादामुळे आले आहे. स्टार्कच्या टिप्पण्या खेळाडू आणि वैयक्तिक आरोग्याशी संबंधित माध्यमांच्या कव्हरेजमधील वाढता तणाव अधोरेखित करतात."
-            },
-            "hi": {
-                "title": "मिचेल स्टार्क ने आईपीएल फिटनेस दावों पर भारतीय मीडिया को लताड़ा",
-                "content": "दिल्ली कैपिटल्स के स्टार मिचेल स्टार्क ने भारतीय मीडिया पर हमला बोला है, उन पर अपने शरीर के बारे में खुद से बेहतर जानने का झूठा दावा करने का आरोप लगाया। बाएं हाथ के तेज गेंदबाज की ये तीखी टिप्पणियां आगामी आईपीएल 2026 सीज़न के लिए उनकी फिटनेस को लेकर चल रहे विवाद के बीच आई हैं। स्टार्क की टिप्पणियां खिलाड़ियों और व्यक्तिगत स्वास्थ्य संबंधी मीडिया कवरेज के बीच बढ़ते तनाव को उजागर करती हैं।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQRldkV0gwQUdYejUycVM5YlJWdEpCeGZHUGFLWW5ERXB4V09NdTU2aENQbUYyaHNHT0drbkVHQ0RjRmpfQzhUOEF0Z0lJMzkwR0hGNlZ4dmpsMktOQjliTkY3SmNhNE1lMU5qVTNoTEdIWF9aQktya01zODROQTQ0eU5yQl90cFh0NTdvWXhLd04wZWtFREU4ZHh1OWlfeEJDRmpkQnFTbGRIZFlqUm9PZ2x2YmlsbHlWZ0RhcTROWUFQVDJDZ2RVR1JYMURoZEZiajh6ZFJLa1M2THpLNDdHWjA1S2NwaE9mVE5Pd3d4dzhfcUwtWWfSAfYBQVVfeXFMUEZXZFdIMEFHWHo1MnFTOWJSVnRKQnhmR1BhS1luREVweFdPTXU1NmhDUG1GMmhzR09Ha25FR0NEY0ZqX0M4VDhBdGdJSTM5MEdIRjZWeHZqbDJLTkI5Yk5GN0pjYTRNZTFOalUzaExHSFhfWkJLcmtNczg0TkE0NHlOckJfdHBYdDU3b1l4S3dOMGVrRURFOGR4dTlpX3hCQ0ZqZEJxU2xkSGRZalJvT2dsdmJpbGx5VmdEYXE0TllBUFQyQ2dkVUdSWDFEaGRGYmo4emRSS2tTNkx6SzQ3R1owNUtjcGhPZlROT3d3eHc4X3FMLVln?oc=5",
-        "date": "Sat, 28 Mar 2026 12:22:55 GMT"
-    },
-    {
-        "id": "28def3bb",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Hardik Pandya's Vow Ignites Fan Frenzy",
-                "content": "Hardik Pandya's recent declaration has sent ripples across the cricketing world, sparking widespread reactions from fans and experts alike. While details of the promise remain under wraps, its impact is undeniable, fueling speculation about his future performance and commitment. This bold statement has intensified anticipation for his next move on the field."
-            },
-            "kn": {
-                "title": "ಹಾರ್ದಿಕ್ ಪಾಂಡ್ಯರ ಪ್ರತಿಜ್ಞೆ ಅಭಿಮಾನಿಗಳಲ್ಲಿ ಸಂಚಲನ ಮೂಡಿಸಿದೆ",
-                "content": "ಹಾರ್ದಿಕ್ ಪಾಂಡ್ಯರ ಇತ್ತೀಚಿನ ಘೋಷಣೆಯು ಕ್ರಿಕೆಟ್ ಜಗತ್ತಿನಲ್ಲಿ ಸಂಚಲನ ಮೂಡಿಸಿದೆ. ಅಭಿಮಾನಿಗಳು ಮತ್ತು ತಜ್ಞರಿಂದ ವ್ಯಾಪಕ ಪ್ರತಿಕ್ರಿಯೆಗಳು ವ್ಯಕ್ತವಾಗಿವೆ. ಪ್ರತಿಜ್ಞೆಯ ವಿವರಗಳು ಇನ್ನೂ ಗೌಪ್ಯವಾಗಿದ್ದರೂ, ಅದರ ಪರಿಣಾಮ ಸ್ಪಷ್ಟವಾಗಿದೆ, ಅವರ ಭವಿಷ್ಯದ ಪ್ರದರ್ಶನ ಮತ್ತು ಬದ್ಧತೆಯ ಬಗ್ಗೆ ಊಹಾಪೋಹಗಳಿಗೆ ಕಾರಣವಾಗಿದೆ. ಈ ದಿಟ್ಟ ಹೇಳಿಕೆಯು ಕ್ರೀಡಾಂಗಣದಲ್ಲಿ ಅವರ ಮುಂದಿನ ನಡೆಗಾಗಿ ಕುತೂಹಲವನ್ನು ಹೆಚ್ಚಿಸಿದೆ."
-            },
-            "mr": {
-                "title": "हार्दिक पांड्याच्या वचनाने चाहत्यांमध्ये उत्साह संचारला",
-                "content": "हार्दिक पांड्याच्या अलीकडील घोषणेने क्रिकेट जगतात खळबळ उडवून दिली आहे, ज्यामुळे चाहते आणि तज्ञांकडून मोठ्या प्रमाणावर प्रतिक्रिया उमटल्या आहेत. वचनाचे तपशील अजूनही गुलदस्त्यात असले तरी, त्याचा परिणाम निर्विवाद आहे, ज्यामुळे त्याच्या भविष्यातील कामगिरी आणि वचनबद्धतेबद्दल अटकळींना हवा मिळाली आहे. या धाडसी विधानाने मैदानावर त्याच्या पुढील वाटचालीसंदर्भात उत्सुकता वाढवली आहे."
-            },
-            "hi": {
-                "title": "हार्दिक पांड्या के वादे ने प्रशंसकों में हलचल मचाई",
-                "content": "हार्दिक पांड्या की हालिया घोषणा ने क्रिकेट जगत में हलचल मचा दी है, जिससे प्रशंसकों और विशेषज्ञों से समान रूप से व्यापक प्रतिक्रियाएं मिली हैं। हालांकि वादे का विवरण अभी भी गुप्त है, इसका प्रभाव निर्विवाद है, जिससे उनके भविष्य के प्रदर्शन और प्रतिबद्धता के बारे में अटकलें तेज हो गई हैं। इस साहसिक बयान ने मैदान पर उनकी अगली चाल के लिए प्रत्याशा बढ़ा दी है।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRUZwVHdGN0huS0FFdzJRczNaUHVrZFRxMkc4R3h0UlVHNVRkNzFXZ044UTh6U0hjcXE4N0YzVkZFYkZkU245UlhHaldtYTk1enZoSDFRQzItQUgyenp3M0V3c05DaDNWaTZvcE44Q284N1Z4d3lwUDA4QzNjT0NXOEhkcTJTLUhHU3BNdWFQQThFNkJTcHdzYVlRUldRUnZWSlVDU0lWRjlYRjl5eUZkakYwekFRR0VyelY5VXk4NmpYVllRVTVybnhNcmRxVXVWcS1feTVWNkU3UjYyUTA0?oc=5",
-        "date": "Sat, 28 Mar 2026 03:46:01 GMT"
-    },
-    {
-        "id": "987c5357",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "IPL 2026: RCB vs SRH - Top 5 Players to Watch",
-                "content": "Brace for an electrifying IPL 2026 showdown! RCB takes on SRH in a high-stakes clash. We've highlighted five pivotal players from both squads whose performances are set to define the match's outcome. From explosive batsmen to strategic bowlers, keep a keen eye on these game-changers. Their individual brilliance could single-handedly dictate the result of this much-anticipated encounter. Don't miss the action!"
-            },
-            "kn": {
-                "title": "IPL 2026: RCB vs SRH - ವೀಕ್ಷಿಸಲು ಟಾಪ್ 5 ಆಟಗಾರರು",
-                "content": "IPL 2026 ರ ರೋಮಾಂಚಕ ಪಂದ್ಯಕ್ಕೆ ಸಿದ್ಧರಾಗಿ! ಆರ್‌ಸಿಬಿ ಮತ್ತು ಎಸ್‌ಆರ್‌ಹೆಚ್ ನಡುವೆ ಭಾರಿ ಹಣಾಹಣಿ ನಡೆಯಲಿದೆ. ಎರಡೂ ತಂಡಗಳಿಂದ ಐದು ಪ್ರಮುಖ ಆಟಗಾರರನ್ನು ನಾವು ಗುರುತಿಸಿದ್ದೇವೆ, ಅವರ ಪ್ರದರ್ಶನ ಪಂದ್ಯದ ಫಲಿತಾಂಶವನ್ನು ನಿರ್ಧರಿಸಲಿದೆ. ಸ್ಫೋಟಕ ಬ್ಯಾಟ್ಸ್‌ಮನ್‌ಗಳಿಂದ ಹಿಡಿದು ಆಯಕಟ್ಟಿನ ಬೌಲರ್‌ಗಳವರೆಗೆ, ಈ ಆಟಗಾರರ ಮೇಲೆ ನಿಗಾ ಇಡಿ. ಅವರ ವೈಯಕ್ತಿಕ ಪ್ರತಿಭೆ ಈ ಬಹುನಿರೀಕ್ಷಿತ ಪಂದ್ಯದ ಫಲಿತಾಂಶವನ್ನು ಏಕಾಂಗಿಯಾಗಿ ನಿರ್ಧರಿಸಬಹುದು. ಆಕ್ಷನ್ ಮಿಸ್ ಮಾಡಬೇಡಿ!"
-            },
-            "mr": {
-                "title": "IPL 2026: RCB विरुद्ध SRH - पाहण्यासारखे टॉप 5 खेळाडू",
-                "content": "IPL 2026 च्या रोमांचक सामन्यासाठी सज्ज व्हा! आरसीबी आणि एसआरएच यांच्यात चुरशीची लढत होणार आहे. आम्ही दोन्ही संघांतील पाच महत्त्वाचे खेळाडू निवडले आहेत, ज्यांची कामगिरी सामन्याचा निकाल ठरवेल. स्फोटक फलंदाजांपासून ते रणनीतिक गोलंदाजांपर्यंत, या गेम-चेंजर्सवर लक्ष ठेवा. त्यांची वैयक्तिक चमक या बहुप्रतिक्षित सामन्याचा निकाल एकहाती बदलू शकते. ही रोमांचक लढत चुकवू नका!"
-            },
-            "hi": {
-                "title": "IPL 2026: RCB बनाम SRH - देखने लायक टॉप 5 खिलाड़ी",
-                "content": "आईपीएल 2026 के एक रोमांचक मुकाबले के लिए तैयार हो जाइए! आरसीबी और एसआरएच के बीच एक हाई-स्टेक भिड़ंत होगी। हमने दोनों टीमों से पांच प्रमुख खिलाड़ियों को चुना है, जिनका प्रदर्शन मैच का नतीजा तय करेगा। विस्फोटक बल्लेबाजों से लेकर रणनीतिक गेंदबाजों तक, इन गेम-चेंजर्स पर नज़र रखें। उनकी व्यक्तिगत प्रतिभा इस बहुप्रतीक्षित मुकाबले का परिणाम अकेले दम पर बदल सकती है। एक्शन देखना न भूलें!"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQenJCNE9yTjZ1M1JSaXBKRVFEd1pwWEZ1OXd6ZFRySDQtbTNoeFJ1Z3ZjUEszSWVpTHdUd1AyYzRteEpQX2hFM1QxS3Z0UmlFdXpOcm1JVGZUSE93ajN0ci1iZlkwOUZtc0NlWXNsZkl4b0RnUkctcm1DcU9TME4tWUg5TnpDYTNuTFJReUtOYTJBNmJvbmpybzREZ1JCYnVZYUpVaUhPb2RkeWZob051TF9aSVJqT0czNk55clk3U2ktWjBUOFFYanFMdXBPUmVXb3RQbjJvNkJpR2FCTlU1bFlLdnBmU3pFLThNbC12NF_SAfABQVVfeXFMUHpyQjRPck42dTNSUmlwSkVRRHdacFhGdTl3emRUckg0LW0zaHhSdWd2Y1BLM0llaUx3VHdQMmM0bXhKUF9oRTNUMUt2dFJpRXV6TnJtSVRmVEhPd2ozdHItYmZZMDlGbXNDZVlzbGZJeG9EZ1JHLXJtQ3FPUzBOLVlIOU56Q2EzbkxSUXlLTmEyQTZib25qcm80RGdSQmJ1WWFKVWlIT29kZHlmaG9OdUxfWklSak9HMzZOeXJZN1NpLVowVDhRWGpxTHVwT1JlV290UG4ybzZCaUdhQk5VNWxZS3ZwZlN6RS04TWwtdjRf?oc=5",
-        "date": "Sat, 28 Mar 2026 08:30:00 GMT"
-    },
-    {
-        "id": "f4aa3eec",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Nick Cassidy Nabs Maiden Pole in Madrid E-Prix",
-                "content": "Nick Cassidy clinched his first-ever pole position with Citroen Racing at the Madrid E-Prix. Reflecting on his impressive run, he exclaimed, \"A win, a podium, a pole!\" This momentous achievement underscores his growing prowess and Citroen's strong performance, setting the stage for an exciting race ahead."
-            },
-            "kn": {
-                "title": "ಮ್ಯಾಡ್ರಿಡ್ ಇ-ಪ್ರಿಕ್ಸ್‌ನಲ್ಲಿ ನಿಕ್ ಕ್ಯಾಸಿಡಿ ಚೊಚ್ಚಲ ಪೋಲ್ ಗಳಿಸಿದರು",
-                "content": "ಮ್ಯಾಡ್ರಿಡ್ ಇ-ಪ್ರಿಕ್ಸ್‌ನಲ್ಲಿ ನಿಕ್ ಕ್ಯಾಸಿಡಿ ಸಿಟ್ರೊಯೆನ್ ರೇಸಿಂಗ್‌ನೊಂದಿಗೆ ತಮ್ಮ ಚೊಚ್ಚಲ ಪೋಲ್ ಸ್ಥಾನವನ್ನು ಪಡೆದರು. ತಮ್ಮ ಪ್ರಭಾವಶಾಲಿ ಪ್ರದರ್ಶನದ ಬಗ್ಗೆ ಮಾತನಾಡುತ್ತಾ, ಅವರು \"ಒಂದು ಗೆಲುವು, ಒಂದು ಪೋಡಿಯಂ, ಒಂದು ಪೋಲ್!\" ಎಂದು ಉದ್ಗರಿಸಿದರು. ಈ ಮಹತ್ವದ ಸಾಧನೆಯು ಅವರ ಬೆಳೆಯುತ್ತಿರುವ ಸಾಮರ್ಥ್ಯ ಮತ್ತು ಸಿಟ್ರೊಯೆನ್‌ನ ಬಲಿಷ್ಠ ಪ್ರದರ್ಶನವನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ, ಇದು ರೋಮಾಂಚಕ ಓಟಕ್ಕೆ ವೇದಿಕೆ ಸಿದ್ಧಪಡಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "माद्रिद ई-प्रिक्समध्ये निक कॅसिडीने पटकावला पहिला पोल",
-                "content": "माद्रिद ई-प्रिक्समध्ये निक कॅसिडीने सिट्रोएन रेसिंगसोबत आपले पहिले-वहिले पोल स्थान मिळवले. आपल्या प्रभावी कामगिरीबद्दल बोलताना, त्यांनी उद्गार काढले, \"एक विजय, एक पोडियम, एक पोल!\" ही महत्त्वपूर्ण उपलब्धी त्यांची वाढती क्षमता आणि सिट्रोएनची मजबूत कामगिरी अधोरेखित करते, ज्यामुळे पुढील रोमांचक शर्यतीसाठी मंच तयार होतो."
-            },
-            "hi": {
-                "title": "मैड्रिड ई-प्रिक्स में निक कैसिडी ने जीता पहला पोल",
-                "content": "मैड्रिड ई-प्रिक्स में निक कैसिडी ने सिट्रोएन रेसिंग के साथ अपनी पहली पोल पोजीशन हासिल की। अपनी प्रभावशाली दौड़ पर विचार करते हुए, उन्होंने कहा, \"एक जीत, एक पोडियम, एक पोल!\" यह महत्वपूर्ण उपलब्धि उनकी बढ़ती क्षमता और सिट्रोएन के मजबूत प्रदर्शन को रेखांकित करती है, जो आगे की रोमांचक दौड़ के लिए मंच तैयार करती है।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOZHdLektfQWFLWWZPUXN6SHdxamtnVlc3QmtwaUh1VWpZY294SjN3NkpHd3g5Q3VpN0E5alBjZUlyQUxRNDlTTjlxRnZyd2Zmd1cyTEhJTi02NlEzVktLZVdEMkFIZjBQYWlFMzNvM0ZZLU5kSUVWUTROQlJiUmVQZkpZOW5zcmZWRHhuQVJ1anE5akVqd1FicWJzcjBHZEJCdXQxVEtWYmdodGVxYmphUVljN21iUXpNM08wQklxSWh4cGNlS3lWTDBFVUlsdC1mYzhuam16TUpVU29YaVItM25WR2NLakVGaldLSDd3LU9RYzFrZlA3NnNybE5IVVBlN1huLVNfMUFiUdIBigJBVV95cUxOZHdLektfQWFLWWZPUXN6SHdxamtnVlc3QmtwaUh1VWpZY294SjN3NkpHd3g5Q3VpN0E5alBjZUlyQUxRNDlTTjlxRnZyd2Zmd1cyTEhJTi02NlEzVktLZVdEMkFIZjBQYWlFMzNvM0ZZLU5kSUVWUTROQlJiUmVQZkpZOW5zcmZWRHhuQVJ1anE5akVqd1FicWJzcjBHZEJCdXQxVEtWYmdodGVxYmphUVljN21iUXpNM08wQklxSWh4cGNlS3lWTDBFVUlsdC1mYzhuam16TUpVU29YaVItM25WR2NLakVGaldLSDd3LU9RYzFrZlA3NnNybE5IVVBlN1huLVNfMUFiUQ?oc=5",
-        "date": "Fri, 27 Mar 2026 14:04:00 GMT"
-    },
-    {
-        "id": "dc797b8c",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Andaman Sea Quake: 4.3 Magnitude, No Damage Reported",
-                "content": "A magnitude 4.3 earthquake struck the Andaman Sea today. The National Center for Seismology confirmed the tremor, which occurred at a depth of 10 km. Fortunately, authorities have reported no damage or casualties, ensuring the safety of residents and infrastructure in the region. Monitoring continues."
-            },
-            "kn": {
-                "title": "ಅಂಡಮಾನ್ ಸಮುದ್ರದಲ್ಲಿ ಭೂಕಂಪ: 4.3 ತೀವ್ರತೆ, ಹಾನಿ ವರದಿಯಾಗಿಲ್ಲ",
-                "content": "ಇಂದು ಅಂಡಮಾನ್ ಸಮುದ್ರದಲ್ಲಿ 4.3 ತೀವ್ರತೆಯ ಭೂಕಂಪ ಸಂಭವಿಸಿದೆ. ರಾಷ್ಟ್ರೀಯ ಭೂಕಂಪಶಾಸ್ತ್ರ ಕೇಂದ್ರವು 10 ಕಿ.ಮೀ ಆಳದಲ್ಲಿ ಸಂಭವಿಸಿದ ಈ ಕಂಪನವನ್ನು ದೃಢಪಡಿಸಿದೆ. ಅದೃಷ್ಟವಶಾತ್, ಅಧಿಕಾರಿಗಳು ಯಾವುದೇ ಹಾನಿ ಅಥವಾ ಸಾವುನೋವುಗಳನ್ನು ವರದಿ ಮಾಡಿಲ್ಲ, ಇದು ಪ್ರದೇಶದ ನಿವಾಸಿಗಳು ಮತ್ತು ಮೂಲಸೌಕರ್ಯಗಳ ಸುರಕ್ಷತೆಯನ್ನು ಖಚಿತಪಡಿಸಿದೆ. ನಿಗಾ ಮುಂದುವರಿದಿದೆ."
-            },
-            "mr": {
-                "title": "अंदमान समुद्रात 4.3 तीव्रतेचा भूकंप, कोणतीही हानी नाही",
-                "content": "आज अंदमान समुद्रात 4.3 तीव्रतेचा भूकंप झाला. राष्ट्रीय भूकंपशास्त्र केंद्राने 10 किमी खोलीवर झालेल्या या धक्क्याची पुष्टी केली. सुदैवाने, अधिकाऱ्यांनी कोणतीही हानी किंवा जीवितहानी झाल्याचे वृत्त दिलेले नाही, ज्यामुळे या प्रदेशातील रहिवासी आणि पायाभूत सुविधांची सुरक्षितता सुनिश्चित झाली आहे. परिस्थितीवर लक्ष ठेवले जात आहे."
-            },
-            "hi": {
-                "title": "अंडमान सागर में 4.3 तीव्रता का भूकंप, कोई नुकसान नहीं",
-                "content": "आज अंडमान सागर में 4.3 तीव्रता का भूकंप आया। राष्ट्रीय भूकंप विज्ञान केंद्र ने 10 किमी की गहराई पर हुए इस झटके की पुष्टि की। सौभाग्य से, अधिकारियों ने किसी भी तरह के नुकसान या हताहतों की सूचना नहीं दी है, जिससे क्षेत्र के निवासियों और बुनियादी ढांचे की सुरक्षा सुनिश्चित हुई है। निगरानी जारी है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129864659,imgsize-829661.cms",
-        "link": "https://timesofindia.indiatimes.com/india/magnitude-4-3-earthquake-strikes-andaman-sea-no-damage-reported/articleshow/129864600.cms",
-        "date": "2026-03-28T17:45:20+05:30"
-    },
-    {
-        "id": "4ecc72b8",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Bengal's 'Didi Model': Welfare System Shapes 2026 Elections",
-                "content": "Ahead of West Bengal's 2026 elections, Mamata Banerjee's government is strategically deploying an extensive 'Didi model' welfare system. Key schemes like Lakshmir Bhandar and Khadya Sathi deliver cash, care, and constant connection, empowering women, ensuring food security, boosting education, and creating youth jobs. This comprehensive approach is significantly shaping the state's political narrative and electoral outcomes."
-            },
-            "kn": {
-                "title": "ಬಂಗಾಳದ 'ದೀದಿ ಮಾದರಿ': ಕಲ್ಯಾಣ ವ್ಯವಸ್ಥೆ 2026ರ ಚುನಾವಣೆಗಳನ್ನು ರೂಪಿಸುತ್ತಿದೆ",
-                "content": "ಪಶ್ಚಿಮ ಬಂಗಾಳದ 2026ರ ಚುನಾವಣೆಗಳ ಮುನ್ನ, ಮಮತಾ ಬ್ಯಾನರ್ಜಿ ಸರ್ಕಾರವು ವ್ಯಾಪಕ 'ದೀದಿ ಮಾದರಿ' ಕಲ್ಯಾಣ ವ್ಯವಸ್ಥೆಯನ್ನು ಆಯಕಟ್ಟಿನ ರೀತಿಯಲ್ಲಿ ನಿಯೋಜಿಸುತ್ತಿದೆ. ಲಕ್ಷ್ಮೀರ್ ಭಂಡಾರ್ ಮತ್ತು ಖಾದ್ಯ ಸಾಥಿ ಮುಂತಾದ ಪ್ರಮುಖ ಯೋಜನೆಗಳು ನಗದು, ಆರೈಕೆ ಮತ್ತು ನಿರಂತರ ಸಂಪರ್ಕವನ್ನು ಒದಗಿಸುತ್ತಾ ಮಹಿಳೆಯರಿಗೆ ಸಬಲೀಕರಣ, ಆಹಾರ ಭದ್ರತೆ, ಶಿಕ್ಷಣ ಉತ್ತೇಜನ ಮತ್ತು ಯುವಕರ ಉದ್ಯೋಗ ಸೃಷ್ಟಿ ಮಾಡುತ್ತಿವೆ. ಈ ಸಮಗ್ರ ವಿಧಾನವು ರಾಜ್ಯದ ರಾಜಕೀಯ ನಿರೂಪಣೆ ಮತ್ತು ಚುನಾವಣಾ ಫಲಿತಾಂಶಗಳನ್ನು ಗಮನಾರ್ಹವಾಗಿ ರೂಪಿಸುತ್ತಿದೆ."
-            },
-            "mr": {
-                "title": "बंगालचे 'दीदी मॉडेल': कल्याणकारी योजना 2026 च्या निवडणुका घडवत आहे",
-                "content": "पश्चिम बंगालमधील 2026 च्या निवडणुकांपूर्वी, ममता बॅनर्जींचे सरकार व्यापक 'दीदी मॉडेल' कल्याणकारी व्यवस्था धोरणात्मकपणे राबवत आहे. लक्ष्मी भंडार आणि खाद्य साथीसारख्या प्रमुख योजना रोख, काळजी आणि सतत संपर्क प्रदान करून महिलांना सशक्त करत आहेत, अन्न सुरक्षा सुनिश्चित करत आहेत, शिक्षणाला चालना देत आहेत आणि तरुणांसाठी रोजगार निर्माण करत आहेत. हा सर्वसमावेशक दृष्टिकोन राज्याच्या राजकीय कथनाला आणि निवडणूक निकालांना लक्षणीयरीत्या आकार देत आहे."
-            },
-            "hi": {
-                "title": "बंगाल का 'दीदी मॉडल': कल्याणकारी व्यवस्था 2026 के चुनावों को आकार दे रही है",
-                "content": "पश्चिम बंगाल के 2026 के चुनावों से पहले, ममता बनर्जी की सरकार व्यापक 'दीदी मॉडल' कल्याणकारी व्यवस्था को रणनीतिक रूप से लागू कर रही है। लक्ष्मी भंडार और खाद्य साथी जैसी प्रमुख योजनाएं नकदी, देखभाल और निरंतर संपर्क प्रदान करती हैं, जिससे महिलाओं को सशक्त बनाया जा रहा है, खाद्य सुरक्षा सुनिश्चित की जा रही है, शिक्षा को बढ़ावा मिल रहा है और युवाओं के लिए रोजगार पैदा हो रहा है। यह व्यापक दृष्टिकोण राज्य के राजनीतिक नैरेटिव और चुनावी परिणामों को महत्वपूर्ण रूप से आकार दे रहा है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129863163,imgsize-167098.cms",
-        "link": "https://timesofindia.indiatimes.com/india/cash-care-and-constant-connect-how-the-didi-model-is-shaping-bengals-ballot/articleshow/129862918.cms",
-        "date": "2026-03-28T16:14:19+05:30"
-    },
-    {
-        "id": "ac9d2ce8",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "IPL 2026: Your Complete Viewing Guide",
-                "content": "IPL 2026 is here! Get ready for the thrilling Indian Premier League cricket season. This guide provides your ultimate resource: discover official live streams, detailed fixture lists, and crucial tips to ensure you catch every boundary and wicket. Plan your viewing strategy now, follow your favorite teams, and immerse yourself in the electrifying action from anywhere. Don't miss a moment!"
-            },
-            "kn": {
-                "title": "IPL 2026: ನಿಮ್ಮ ಸಂಪೂರ್ಣ ವೀಕ್ಷಣೆ ಮಾರ್ಗದರ್ಶಿ",
-                "content": "IPL 2026 ಬಂದಿದೆ! ಥ್ರಿಲ್ಲಿಂಗ್ ಇಂಡಿಯನ್ ಪ್ರೀಮಿಯರ್ ಲೀಗ್ ಕ್ರಿಕೆಟ್ ಸೀಸನ್‌ಗೆ ಸಿದ್ಧರಾಗಿ. ಈ ಮಾರ್ಗದರ್ಶಿ ನಿಮ್ಮ ಅಂತಿಮ ಸಂಪನ್ಮೂಲವಾಗಿದೆ: ಅಧಿಕೃತ ಲೈವ್ ಸ್ಟ್ರೀಮ್‌ಗಳು, ವಿವರವಾದ ಫಿಕ್ಸ್ಚರ್ ಪಟ್ಟಿಗಳು ಮತ್ತು ಪ್ರತಿ ಬೌಂಡರಿ ಮತ್ತು ವಿಕೆಟ್ ಅನ್ನು ತಪ್ಪದೆ ನೋಡಲು ನಿರ್ಣಾಯಕ ಸಲಹೆಗಳನ್ನು ಕಂಡುಕೊಳ್ಳಿ. ಇದೀಗ ನಿಮ್ಮ ವೀಕ್ಷಣೆ ತಂತ್ರವನ್ನು ಯೋಜಿಸಿ, ನಿಮ್ಮ ನೆಚ್ಚಿನ ತಂಡಗಳನ್ನು ಅನುಸರಿಸಿ ಮತ್ತು ಎಲ್ಲಿಂದಲಾದರೂ ವಿದ್ಯುನ್ಮಾನ ಕ್ರಿಯೆಯಲ್ಲಿ ಮುಳುಗಿರಿ. ಒಂದು ಕ್ಷಣವನ್ನೂ ಕಳೆದುಕೊಳ್ಳಬೇಡಿ!"
-            },
-            "mr": {
-                "title": "IPL 2026: तुमची संपूर्ण पाहण्याची मार्गदर्शिका",
-                "content": "IPL 2026 इथे आहे! थरारक इंडियन प्रीमियर लीग क्रिकेट हंगामासाठी सज्ज व्हा. ही मार्गदर्शिका तुमचे अंतिम संसाधन आहे: अधिकृत लाईव्ह स्ट्रीम्स, तपशीलवार वेळापत्रक आणि प्रत्येक चौकार आणि विकेट पाहण्यासाठी महत्त्वपूर्ण टिप्स शोधा. आत्ताच तुमची पाहण्याची रणनीती योजना करा, तुमच्या आवडत्या संघांना फॉलो करा आणि कुठूनही विद्युतीय ॲक्शनमध्ये स्वतःला सामील करा. एकही क्षण चुकवू नका!"
-            },
-            "hi": {
-                "title": "IPL 2026: आपकी संपूर्ण देखने की मार्गदर्शिका",
-                "content": "IPL 2026 आ गया है! रोमांचक इंडियन प्रीमियर लीग क्रिकेट सीज़न के लिए तैयार हो जाइए। यह मार्गदर्शिका आपका अंतिम संसाधन है: आधिकारिक लाइव स्ट्रीम, विस्तृत फिक्स्चर सूची और हर बाउंड्री व विकेट को देखने के लिए महत्वपूर्ण टिप्स जानें। अपनी देखने की रणनीति अभी प्लान करें, अपनी पसंदीदा टीमों को फॉलो करें और कहीं से भी रोमांचक एक्शन में डूब जाएं। एक भी पल न चूकें!"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1GdFRUNjdxQUw1UDFyTXZ3cVdtNVVlMi0zX3o3WlllbU16U2RmajBrLWNNZjAtempXelBJYko3aTFTa0RMYURfaXl2VHFScGtkZVRxRThkeW1wOHA1bkh2SWhaSURCN2xjSndaQWlkTE9XdmdXLWk4?oc=5",
-        "date": "Sat, 28 Mar 2026 10:00:00 GMT"
-    },
-    {
-        "id": "4daf7d3e",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "IPL 2026: RCB vs SRH Key Players Preview",
-                "content": "Get ready for an electrifying IPL 2026 clash between Royal Challengers Bangalore and Sunrisers Hyderabad! Ahead of today's high-octane encounter, we highlight five standout players poised to make a significant impact. From power-hitters to strategic bowlers, these talents are crucial for their team's success. Don't miss who could be the game-changers in this thrilling showdown!"
-            },
-            "kn": {
-                "title": "ಐಪಿಎಲ್ 2026: ಆರ್‌ಸಿಬಿ vs ಎಸ್‌ಆರ್‌ಹೆಚ್ ಪ್ರಮುಖ ಆಟಗಾರರ ಪೂರ್ವವೀಕ್ಷಣೆ",
-                "content": "ರಾಯಲ್ ಚಾಲೆಂಜರ್ಸ್ ಬೆಂಗಳೂರು ಮತ್ತು ಸನ್‌ರೈಸರ್ಸ್ ಹೈದರಾಬಾದ್ ನಡುವಿನ ಐಪಿಎಲ್ 2026 ರ ರೋಮಾಂಚಕ ಹಣಾಹಣಿಗೆ ಸಿದ್ಧರಾಗಿ! ಇಂದಿನ ಹೈ-ಆಕ್ಟೇನ್ ಪಂದ್ಯದ ಮೊದಲು, ಮಹತ್ವದ ಪರಿಣಾಮ ಬೀರಲು ಸಿದ್ಧವಾಗಿರುವ ಐದು ಪ್ರಮುಖ ಆಟಗಾರರನ್ನು ನಾವು ಎತ್ತಿ ತೋರಿಸುತ್ತೇವೆ. ಪವರ್-ಹಿಟ್ಟರ್‌ಗಳಿಂದ ಹಿಡಿದು ಕಾರ್ಯತಂತ್ರದ ಬೌಲರ್‌ಗಳವರೆಗೆ, ಈ ಪ್ರತಿಭೆಗಳು ತಮ್ಮ ತಂಡದ ಯಶಸ್ಸಿಗೆ ನಿರ್ಣಾಯಕವಾಗಿವೆ. ಈ ರೋಮಾಂಚಕ ಹಣಾಹಣಿಯಲ್ಲಿ ಯಾರು ಗೇಮ್-ಚೇಂಜರ್‌ಗಳಾಗಬಹುದು ಎಂಬುದನ್ನು ತಪ್ಪಿಸಿಕೊಳ್ಳಬೇಡಿ!"
-            },
-            "mr": {
-                "title": "आयपीएल 2026: आरसीबी विरुद्ध एसआरएच महत्त्वाच्या खेळाडूंचे पूर्वावलोकन",
-                "content": "रॉयल चॅलेंजर्स बंगलोर आणि सनरायझर्स हैदराबाद यांच्यातील आयपीएल 2026 च्या विद्युत् वेगाच्या सामन्यासाठी सज्ज व्हा! आजच्या रोमांचक लढतीपूर्वी, आम्ही महत्त्वपूर्ण प्रभाव पाडण्यासाठी सज्ज असलेल्या पाच महत्त्वाच्या खेळाडूंना अधोरेखित करतो. पॉवर-हिटरपासून ते धोरणात्मक गोलंदाजांपर्यंत, हे खेळाडू त्यांच्या संघाच्या यशासाठी महत्त्वाचे आहेत. या थरारक सामन्यात कोण गेम-चेंजर ठरू शकते, हे पाहणे चुकवू नका!"
-            },
-            "hi": {
-                "title": "आईपीएल 2026: आरसीबी बनाम एसआरएच प्रमुख खिलाड़ियों का पूर्वावलोकन",
-                "content": "रॉयल चैलेंजर्स बैंगलोर और सनराइजर्स हैदराबाद के बीच आईपीएल 2026 के रोमांचक मुकाबले के लिए तैयार हो जाइए! आज के हाई-ऑक्टेन मुकाबले से पहले, हम पांच ऐसे प्रमुख खिलाड़ियों को उजागर करते हैं जो महत्वपूर्ण प्रभाव डालने के लिए तैयार हैं। पावर-हिटर से लेकर रणनीतिक गेंदबाजों तक, ये प्रतिभाएं अपनी टीम की सफलता के लिए महत्वपूर्ण हैं। इस रोमांचक मुकाबले में कौन गेम-चेंजर हो सकता है, यह देखना न भूलें!"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQMFJLTlZVSkRjSUtQaWxTamJVSzZKbjA0M1JCRXpPUGctZjJxb1A4RFVsTjJDd2hPTWZvell0TzRfQXFxbEFrUkZwbzVXVkdvUzRHZE8ySmRZMndNc3RpamJwY0xOMS1TZE1fc0JlaGVUbzRSYVA0dFpyaks1cU1DM2poYl9JZWFSUkc2TnRlWVRPb2hJdXdBbFR5TGxKZ0NfRXhlT3I2RlN3T01GWjBibzFQOVlibnlIWEo4aHk0VHJzY3N3TWFiN0FzNjR5dEZuSnZBelBNXy1naTEzMVBPMThWdDBybk1TTm8w0gHwAUFVX3lxTFB6ckI0T3JONnUzUlJpcEpFUUR3WnBYRnU5d3pkVHJINC1tM2h4UnVndmNQSzNJZWlMd1R3UDJjNG14SlBfaEUzVDFLdnRSaUV1ek5ybUlUZlRIT3dqM3RyLWJmWTA5Rm1zQ2VZc2xmSXhvRGdSRy1ybUNxT1MwTi1ZSDlOekNhM25MUlF5S05hMkE2Ym9uanJvNERnUkJidVlhSlVpSE9vZGR5ZmhvTnVMX1pJUmpPRzM2TnlyWTdTaS1aMFQ4UVhqcUx1cE9SZVdvdFBuMm82QmlHYUJOVTVsWUt2cGZTekUtOE1sLXY0Xw?oc=5",
-        "date": "Sat, 28 Mar 2026 08:30:00 GMT"
-    },
-    {
-        "id": "aca064be",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "IPL 2026: Secure Your Opening Match Tickets!",
-                "content": "Gear up for IPL 2026! The thrill of opening matches is just around the corner. Don't miss out on the action – master expert tips to secure your tickets effortlessly. Learn how to navigate booking platforms, beat the rush, and grab those coveted seats before they're gone. Plan ahead to ensure an unforgettable live stadium experience. Get ready to cheer!"
-            },
-            "kn": {
-                "title": "IPL 2026: ನಿಮ್ಮ ಆರಂಭಿಕ ಪಂದ್ಯದ ಟಿಕೆಟ್‌ಗಳನ್ನು ಭದ್ರಪಡಿಸಿಕೊಳ್ಳಿ!",
-                "content": "IPL 2026 ಕ್ಕೆ ಸಿದ್ಧರಾಗಿ! ಆರಂಭಿಕ ಪಂದ್ಯಗಳ ರೋಮಾಂಚನ ಸನ್ನಿಹಿತವಾಗಿದೆ. ಈ ಆಕ್ಷನ್ ಅನ್ನು ಕಳೆದುಕೊಳ್ಳಬೇಡಿ – ನಿಮ್ಮ ಟಿಕೆಟ್‌ಗಳನ್ನು ಸುಲಭವಾಗಿ ಭದ್ರಪಡಿಸಿಕೊಳ್ಳಲು ತಜ್ಞರ ಸಲಹೆಗಳನ್ನು ಕರಗತ ಮಾಡಿಕೊಳ್ಳಿ. ಬುಕಿಂಗ್ ಪ್ಲಾಟ್‌ಫಾರ್ಮ್‌ಗಳನ್ನು ಹೇಗೆ ನಿರ್ವಹಿಸುವುದು, ಆತುರವನ್ನು ತಪ್ಪಿಸುವುದು ಮತ್ತು ಆ ಇಷ್ಟವಾದ ಸೀಟ್‌ಗಳನ್ನು ಖಾಲಿಯಾಗುವ ಮೊದಲು ಪಡೆಯುವುದು ಹೇಗೆಂದು ತಿಳಿಯಿರಿ. ಮರೆಯಲಾಗದ ಲೈವ್ ಸ್ಟೇಡಿಯಂ ಅನುಭವಕ್ಕಾಗಿ ಮುಂಚಿತವಾಗಿ ಯೋಜಿಸಿ. ಹುರಿದುಂಬಿಸಲು ಸಿದ್ಧರಾಗಿ!"
-            },
-            "mr": {
-                "title": "आयपीएल 2026: तुमच्या उद्घाटन सामन्याची तिकिटे मिळवा!",
-                "content": "आयपीएल 2026 साठी सज्ज व्हा! उद्घाटन सामन्यांचा थरार जवळ आला आहे. ही रोमांचक कृती गमावू नका – तुमची तिकिटे सहजपणे सुरक्षित करण्यासाठी तज्ञांच्या टिप्समध्ये निपुण व्हा. बुकिंग प्लॅटफॉर्म कसे वापरावे, गर्दी कशी टाळावी आणि मागणी असलेल्या जागा संपण्यापूर्वी कशा मिळवाव्यात हे शिका. अविस्मरणीय थेट स्टेडियम अनुभवासाठी आधीच योजना करा. जल्लोष करण्यासाठी तयार राहा!"
-            },
-            "hi": {
-                "title": "आईपीएल 2026: अपने शुरुआती मैच के टिकट सुरक्षित करें!",
-                "content": "आईपीएल 2026 के लिए तैयार हो जाइए! शुरुआती मैचों का रोमांच बस आने ही वाला है। इस एक्शन को मिस न करें – अपने टिकट आसानी से सुरक्षित करने के लिए विशेषज्ञ युक्तियों में महारत हासिल करें। जानें कि बुकिंग प्लेटफॉर्म को कैसे नेविगेट करें, भीड़ से कैसे बचें, और उन बहुप्रतीक्षित सीटों को खत्म होने से पहले कैसे हथियाएं। एक अविस्मरणीय लाइव स्टेडियम अनुभव सुनिश्चित करने के लिए पहले से योजना बनाएं। जयकार करने के लिए तैयार हो जाइए!"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTzN0bzVOYXBPOVljcGhPU00yOGx0cE1QV3hCblVZUW5QaHYyaDJmNnVqZU9GYVJKTnJDRnhwRmNQaEJUQktnTjlBRzR2UlpYQVZka0pQbFVxQkw3WmV2RmhSc3BqdW5qeTZDVzduOUg2dDExR2VZbDN1SnlxSV8xZ01EM3dKTU43c1NXWW5RSlBiSFYz?oc=5",
-        "date": "Sat, 28 Mar 2026 08:41:30 GMT"
-    },
-    {
-        "id": "c91fab98",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Naseem Shah's Viral Post on Maryam Nawaz Sparks Hacking Controversy",
-                "content": "Pakistani cricketer Naseem Shah's viral social media post about politician Maryam Nawaz during the PSL has ignited controversy. The post, expressing admiration, led to speculation of an account hack. Shah quickly deleted it, fueling debate over its authenticity – a genuine sentiment or external interference. The incident continues to trend, captivating online discussions and raising questions about digital security."
-            },
-            "kn": {
-                "title": "ನಸೀಮ್ ಷಾ ಅವರ ಮರ್ಯಮ್ ನವಾಜ್ ಕುರಿತ ವೈರಲ್ ಪೋಸ್ಟ್ ಹ್ಯಾಕಿಂಗ್ ವಿವಾದಕ್ಕೆ ಕಾರಣ",
-                "content": "ಪಾಕಿಸ್ತಾನಿ ಕ್ರಿಕೆಟಿಗ ನಸೀಮ್ ಷಾ ಅವರ ರಾಜಕಾರಣಿ ಮರ್ಯಮ್ ನವಾಜ್ ಕುರಿತಾದ PSL ಅವಧಿಯ ವೈರಲ್ ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮ ಪೋಸ್ಟ್ ವಿವಾದಕ್ಕೆ ಕಾರಣವಾಗಿದೆ. ಮೆಚ್ಚುಗೆ ವ್ಯಕ್ತಪಡಿಸಿದ್ದ ಪೋಸ್ಟ್, ಖಾತೆ ಹ್ಯಾಕ್ ಆಗಿರಬಹುದು ಎಂಬ ಊಹಾಪೋಹಗಳಿಗೆ ಕಾರಣವಾಯಿತು. ಷಾ ಅದನ್ನು ಶೀಘ್ರವಾಗಿ ಅಳಿಸಿದರು, ಅದರ ಸತ್ಯಾಸತ್ಯತೆ – ನಿಜವಾದ ಭಾವನೆ ಅಥವಾ ಬಾಹ್ಯ ಹಸ್ತಕ್ಷೇಪ – ಕುರಿತು ಚರ್ಚೆಯನ್ನು ಹುಟ್ಟುಹಾಕಿತು. ಈ ಘಟನೆ ಆನ್‌ಲೈನ್ ಚರ್ಚೆಗಳನ್ನು ಆಕರ್ಷಿಸುತ್ತಿದೆ ಮತ್ತು ಡಿಜಿಟಲ್ ಸುರಕ್ಷತೆಯ ಬಗ್ಗೆ ಪ್ರಶ್ನೆಗಳನ್ನು ಹುಟ್ಟುಹಾಕುತ್ತಿದೆ."
-            },
-            "mr": {
-                "title": "नसीम शाहच्या मरियम नवाजवरील व्हायरल पोस्टने हॅकिंगचा वाद निर्माण केला",
-                "content": "पाकिस्तानी क्रिकेटपटू नसीम शाहची राजकारणी मरियम नवाजवरील PSL दरम्यानची व्हायरल सोशल मीडिया पोस्ट वादाचा विषय बनली आहे. कौतुक करणारी ही पोस्ट, खाते हॅक झाल्याच्या अटकळांना कारणीभूत ठरली. शाहने ती तात्काळ हटवली, ज्यामुळे ती खरी भावना होती की बाह्य हस्तक्षेप, यावर चर्चा सुरू झाली. ही घटना ऑनलाइन चर्चांना आकर्षित करत आहे आणि डिजिटल सुरक्षेबद्दल प्रश्न निर्माण करत आहे."
-            },
-            "hi": {
-                "title": "नसीम शाह की मरियम नवाज पर वायरल पोस्ट ने हैकिंग विवाद खड़ा किया",
-                "content": "पाकिस्तानी क्रिकेटर नसीम शाह की पीएसएल के दौरान राजनेता मरियम नवाज पर वायरल सोशल मीडिया पोस्ट ने विवाद खड़ा कर दिया है। प्रशंसा व्यक्त करने वाली इस पोस्ट से अकाउंट हैक होने की अटकलें लगने लगीं। शाह ने इसे तुरंत हटा दिया, जिससे इसकी प्रामाणिकता – एक वास्तविक भावना या बाहरी हस्तक्षेप – पर बहस छिड़ गई। यह घटना ऑनलाइन चर्चाओं को आकर्षित कर रही है और डिजिटल सुरक्षा पर सवाल उठा रही है।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZnRLYUlkV2wtazVDeGdWYkRVM1dYWHNMVWROdmhUc0laUi1mdDF0TEFVa0w0cGx6TzJSS3JuYjN6em12cDlxQ2dud0pXOXpfX1lSQ09MSWJNNm1BV3B6NkdaZmg0dzZmUFhOYWFMa0dxSm5Fa2VuXzl4bUx5NHRYajZKZERJSk9tWmpCVmlvaTh4LUFMTVgtRjR4ODlLUFA5a1FMcFRqMjU4enRfN1E?oc=5",
-        "date": "Fri, 27 Mar 2026 12:48:32 GMT"
-    },
-    {
-        "id": "a86467fe",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Fact Check: Bumrah's MI vs KKR Status",
-                "content": "Concerns arose regarding Jasprit Bumrah's availability for the crucial MI vs KKR match at Wankhede. A fact-check article now addresses these rumors, providing clarity on the Mumbai Indians legend's status. It investigates whether Bumrah will feature in the playing XI and explores potential replacements should he indeed miss the game. Get the definitive update on his participation and MI's strategic decisions."
-            },
-            "kn": {
-                "title": "ಬುಮ್ರಾ MI vs KKR ಪಂದ್ಯಕ್ಕೆ ಲಭ್ಯತೆ: ಸತ್ಯಾಂಶ ಪರಿಶೀಲನೆ",
-                "content": "ವಾಂಖೆಡೆ ಕ್ರೀಡಾಂಗಣದಲ್ಲಿ ನಡೆಯಲಿರುವ MI vs KKR ಪ್ರಮುಖ ಪಂದ್ಯಕ್ಕೆ ಜಸ್ಪ್ರೀತ್ ಬುಮ್ರಾ ಅವರ ಲಭ್ಯತೆಯ ಬಗ್ಗೆ ಆತಂಕಗಳು ಮೂಡಿದ್ದವು. ಸತ್ಯಾಂಶ ಪರಿಶೀಲನಾ ಲೇಖನವು ಈಗ ಈ ವದಂತಿಗಳನ್ನು ಪರಿಹರಿಸುತ್ತದೆ, ಮುಂಬೈ ಇಂಡಿಯನ್ಸ್ ದಂತಕಥೆಯ ಸ್ಥಿತಿಯ ಬಗ್ಗೆ ಸ್ಪಷ್ಟತೆಯನ್ನು ನೀಡುತ್ತದೆ. ಬುಮ್ರಾ ಆಡುವ ಹನ್ನೊಂದರಲ್ಲಿ ಸ್ಥಾನ ಪಡೆಯುತ್ತಾರೆಯೇ ಎಂದು ಅದು ತನಿಖೆ ಮಾಡುತ್ತದೆ ಮತ್ತು ಅವರು ಪಂದ್ಯವನ್ನು ತಪ್ಪಿಸಿಕೊಂಡರೆ ಸಂಭವನೀಯ ಬದಲಾವಣೆಗಳನ್ನು ಅನ್ವೇಷಿಸುತ್ತದೆ. ಅವರ ಭಾಗವಹಿಸುವಿಕೆ ಮತ್ತು MI ನ ಕಾರ್ಯತಂತ್ರದ ನಿರ್ಧಾರಗಳ ಕುರಿತು ನಿರ್ಣಾಯಕ ಅಪ್‌ಡೇಟ್ ಪಡೆಯಿರಿ."
-            },
-            "mr": {
-                "title": "बुमराहची MI vs KKR साठी उपलब्धता: सत्य पडताळणी",
-                "content": "वानखेडे येथे होणाऱ्या महत्त्वाच्या MI vs KKR सामन्यासाठी जसप्रीत बुमराहच्या उपलब्धतेबाबत चिंता व्यक्त करण्यात आली होती. एका फॅक्ट-चेक लेखाने आता या अफवांना संबोधित केले आहे, ज्यामुळे मुंबई इंडियन्सच्या या दिग्गजाच्या स्थितीवर स्पष्टता आली आहे. बुमराह प्लेइंग इलेव्हनमध्ये असेल की नाही याची तपासणी केली आहे आणि जर तो सामना चुकला तर संभाव्य बदली खेळाडूंचा शोध घेतला आहे. त्याच्या सहभागाबद्दल आणि MI च्या धोरणात्मक निर्णयांबद्दल निश्चित अपडेट मिळवा."
-            },
-            "hi": {
-                "title": "बुमराह की MI vs KKR के लिए उपलब्धता: फैक्ट चेक",
-                "content": "वानखेड़े में होने वाले महत्वपूर्ण MI बनाम KKR मैच के लिए जसप्रीत बुमराह की उपलब्धता को लेकर चिंताएं बढ़ गई थीं। एक फैक्ट-चेक लेख अब इन अफवाहों पर विराम लगाता है, जिससे मुंबई इंडियंस के इस दिग्गज खिलाड़ी की स्थिति पर स्पष्टता मिलती है। यह जांच करता है कि क्या बुमराह प्लेइंग इलेवन में शामिल होंगे और यदि वह वास्तव में मैच से चूकते हैं तो संभावित प्रतिस्थापनों की पड़ताल करता है। उनकी भागीदारी और MI के रणनीतिक निर्णयों पर निश्चित अपडेट प्राप्त करें।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcUFnMDlieTUzR2pHZEJ4aUVMaTg3aEV3ZG9rdXRodDlBVzV2Vk1GUXFnLThQcUcwQ0tIckIxV2pUQkhvUGlUcUlqbXlRa1NxTkt4R1Vxd2x2U3loQnNrY1RSMWRCN2JkblRJV1lCTTJxZHdzalVOa1B1MDktN2VpVUQ1aUthclREWEZjRVBLNzZGT21kaE15cmVhQ29fV0R6d2FUNF9WTW9YQUhFNDc0MGl0SE40WEFtWTd3TFFqcWYyd3NtcE5KLW9OTGhTeFptRmZnd3JVU0R2QkhfTHdEdXI5MNIB6AFBVV95cUxPZHBnb0tRRzZGOERWZnItY29QU3lfN2FiMTZyMC1nUmYyY1JlNG10bWs0NGJ1d3M2MTJnU2lzSjIxQzZNV3g4UU91V25YYlBJdl9RWGlvbnJLbzl2TjNRWndYYzJOaWwzSnIyOU95WkxhMncyZmJVSDhkQWY1di1mejlUWU1nX0UwaHVOODhENnJRT0NodDRCazRSdU9rNVViNkN6OE04ZTVJSnVrY1g2amM0X0M0UGRWRHhGb21PZEpxSTdhNzJLRlJLSHotSjlxTWZrRVllOWpTOE5IdF9XTHM4X2RjWjVZ?oc=5",
-        "date": "Sat, 28 Mar 2026 05:40:51 GMT"
     }
 ]
