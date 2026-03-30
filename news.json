@@ -1,5 +1,30 @@
 [
     {
+        "id": "63d6b6e1",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "AI Cracks Japanese AC Remote for US Tourist",
+                "content": "A US tourist, struggling with a Japanese hotel AC remote at 4 AM, went viral after using an AI tool to decode it. Frustrated, he photographed the remote and fed it to 'Nano Banana' AI, which instantly translated its functions. He called the AI 'god,' and his ingenious hack resonated globally, showcasing technology's power to solve common travel frustrations."
+            },
+            "kn": {
+                "title": "ಎಐ ಅಮೆರಿಕನ್ ಪ್ರವಾಸಿಗರಿಗಾಗಿ ಜಪಾನೀಸ್ ಎಸಿ ರಿಮೋಟ್ ಡಿಕೋಡ್ ಮಾಡಿದೆ",
+                "content": "ಜಪಾನ್‌ನ ಹೋಟೆಲ್‌ನಲ್ಲಿ ಬೆಳಗಿನ ಜಾವ 4 ಗಂಟೆಗೆ ಎಸಿ ರಿಮೋಟ್‌ನೊಂದಿಗೆ ಹೋರಾಡುತ್ತಿದ್ದ ಅಮೆರಿಕದ ಪ್ರವಾಸಿಗನೊಬ್ಬ, ಎಐ ಉಪಕರಣವನ್ನು ಬಳಸಿ ಅದನ್ನು ಡಿಕೋಡ್ ಮಾಡಿ ವೈರಲ್ ಆದನು. ಹತಾಶನಾಗಿ, ಅವನು ರಿಮೋಟ್‌ನ ಫೋಟೋ ತೆಗೆದು 'ನ್ಯಾನೋ ಬನಾನಾ' ಎಐಗೆ ನೀಡಿದನು, ಅದು ತಕ್ಷಣವೇ ಅದರ ಕಾರ್ಯಗಳನ್ನು ಅನುವಾದಿಸಿತು. ಎಐ ಅನ್ನು 'ದೇವರು' ಎಂದು ಕರೆದ ಆತನ ಈ ಚತುರ ಪ್ರಯತ್ನ ಜಾಗತಿಕವಾಗಿ ಗಮನ ಸೆಳೆಯಿತು, ಸಾಮಾನ್ಯ ಪ್ರಯಾಣದ ತೊಂದರೆಗಳನ್ನು ಪರಿಹರಿಸುವ ತಂತ್ರಜ್ಞಾನದ ಶಕ್ತಿಯನ್ನು ಪ್ರದರ್ಶಿಸಿತು."
+            },
+            "mr": {
+                "title": "एआयने अमेरिकन पर्यटकासाठी जपानी एसी रिमोट हॅक केले",
+                "content": "जपानमधील हॉटेलमध्ये पहाटे 4 वाजता एसी रिमोट हाताळताना एका अमेरिकन पर्यटकाला अडचणी आल्या. त्याने एआय टूल वापरून ते डीकोड केले आणि व्हायरल झाला. निराश झालेल्या त्याने रिमोटचा फोटो 'नॅनो बनाना' एआयला दिला, ज्याने त्वरित त्याची कार्ये भाषांतरित केली. त्याने एआयला 'देव' म्हटले. त्याची ही हुशार युक्ती जगभरात पोहोचली, सामान्य प्रवासातील समस्या सोडवण्यासाठी तंत्रज्ञानाची शक्ती दर्शवली."
+            },
+            "hi": {
+                "title": "एआई ने अमेरिकी पर्यटक के लिए जापानी एसी रिमोट क्रैक किया",
+                "content": "जापान के एक होटल में सुबह 4 बजे एसी रिमोट से जूझ रहे एक अमेरिकी पर्यटक ने एआई टूल का उपयोग कर इसे डिकोड किया और वायरल हो गया। निराश होकर उसने रिमोट की तस्वीर 'नैनो बनाना' एआई को दी, जिसने तुरंत उसके कार्यों का अनुवाद किया। उसने एआई को 'भगवान' कहा; उसका यह हैक विश्व स्तर पर गूंज उठा, जो सामान्य यात्रा की समस्याओं को सुलझाने में प्रौद्योगिकी की शक्ति दिखाता है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129899251,imgsize-32348.cms",
+        "link": "https://timesofindia.indiatimes.com/world/rest-of-world/us-traveller-calls-nano-banana-tool-god-japanese-hotel-ac-remote-decoded-at-4-am-using-ai-goes-viral-online/articleshow/129899214.cms",
+        "date": "2026-03-30T16:51:31+05:30"
+    },
+    {
         "id": "3cf983a3",
         "category": "World",
         "translations": {
@@ -1973,30 +1998,5 @@
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
         "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQ0diVEtWS0NOcTlRd1ZkMG5jX2lLYk1Ba1E2eHFDM2hUZDQ0VUpVdHZ4akhIMTdQb084OEd3WmNSUzhEaXJZZEFfRTZCbjJfYTNBaWZJS3FQOTV5eXREUEFDMmJqVEJUSzZqUnF3VzdKWGlGeUpxeXFMM1N2N1lNZGk5RnNGMmJIZ2swVnlNa3FRWFNlbk1XajcxYUFuUVNURFJISzdjT0kyUEZMWmtXTkVxZkhtdkNuTkFYQmxpSnZzTUZzQjM2bERiS2QxX0Rrb2ZzSnRBckVmRE1Z0gHjAUFVX3lxTE9sZm54amNsMEJWbU9vTUNyRHhKUnVJZTQ4WVdwV2IwX3JLYWwtV25IVmNDTkdIYlRXSjlKTTU0blg3bE9nRWlRUTV6bUxPbkJLaDFJcFRkS2xvQTYwVlV0WHh2aERxYVUtVEZnVTVVQXUwLVdFcUE1T0pSSUNNMmp0dmh0S1hvbXZKTzZfc083SFBMS2pya0tkcUtISHpxYlp2WnBPbWp5MVd2Vm9rRnRZTGJmX2NRUUEzaEtjWndiM2dBc3JSZ2xoZHZ3YWRSWksxZklMblBidnBlV21HMTlUZHhn?oc=5",
         "date": "Sat, 28 Mar 2026 21:04:08 GMT"
-    },
-    {
-        "id": "c54a9fa6",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Mendoza, Raiders, and the No. 1 Pick Buzz",
-                "content": "Speculation is mounting that Fernando Mendoza could be the No. 1 overall pick, with strong ties emerging to the Las Vegas Raiders. The buzz around the promising prospect is intensifying as teams evaluate top talent. His potential impact and skillset make him a key focus for teams eyeing a franchise-changing player. This crucial link suggests a major shift in the pre-draft landscape."
-            },
-            "kn": {
-                "title": "ಮೆಂಡೋಜಾ, ರೈಡರ್ಸ್ ಮತ್ತು ನಂ. 1 ಆಯ್ಕೆಯ ಕುರಿತಾದ ಚರ್ಚೆ",
-                "content": "ಫರ್ನಾಂಡೋ ಮೆಂಡೋಜಾ ನಂ. 1 ಒಟ್ಟಾರೆ ಆಯ್ಕೆಯಾಗಬಹುದು ಎಂಬ ಊಹಾಪೋಹಗಳು ಹೆಚ್ಚುತ್ತಿವೆ, ಲಾಸ್ ವೇಗಾಸ್ ರೈಡರ್ಸ್‌ನೊಂದಿಗೆ ಪ್ರಬಲ ಸಂಬಂಧಗಳು ಹೊರಹೊಮ್ಮುತ್ತಿವೆ. ಭರವಸೆಯ ಆಟಗಾರನ ಸುತ್ತಲಿನ ಚರ್ಚೆ ತೀವ್ರಗೊಂಡಿದ್ದು, ತಂಡಗಳು ಉನ್ನತ ಪ್ರತಿಭೆಯನ್ನು ಮೌಲ್ಯಮಾಪನ ಮಾಡುತ್ತಿವೆ. ಅವರ ಸಂಭಾವ್ಯ ಪರಿಣಾಮ ಮತ್ತು ಕೌಶಲ್ಯಗಳು ಫ್ರಾಂಚೈಸಿ-ಬದಲಾಯಿಸುವ ಆಟಗಾರನನ್ನು ಹುಡುಕುತ್ತಿರುವ ತಂಡಗಳಿಗೆ ಪ್ರಮುಖ ಗಮನ ಕೇಂದ್ರವಾಗಿವೆ. ಈ ನಿರ್ಣಾಯಕ ಸಂಪರ್ಕವು ಕರಡುಪೂರ್ವ ಸನ್ನಿವೇಶದಲ್ಲಿ ಪ್ರಮುಖ ಬದಲಾವಣೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "मेंडोझा, रायडर्स आणि नंबर 1 पिकची चर्चा",
-                "content": "फर्नांडो मेंडोझा नंबर 1 एकूण निवड असू शकतो अशी अटकळ वाढत आहे, लास वेगास रायडर्सशी त्याचे मजबूत संबंध समोर येत आहेत. या आश्वासक खेळाडूभोवतीची चर्चा तीव्र होत आहे कारण संघ शीर्ष प्रतिभेचे मूल्यांकन करत आहेत. त्याचा संभाव्य परिणाम आणि कौशल्ये त्याला फ्रँचायझी-बदलणाऱ्या खेळाडूच्या शोधात असलेल्या संघांसाठी एक महत्त्वाचे केंद्र बनवतात. ही महत्त्वपूर्ण जोडणी प्री-ड्राफ्ट परिस्थितीत मोठ्या बदलाचे संकेत देते."
-            },
-            "hi": {
-                "title": "मेंडोज़ा, रेडर्स और नंबर 1 पिक की चर्चा",
-                "content": "फर्नांडो मेंडोज़ा नंबर 1 समग्र पिक हो सकते हैं, ऐसी अटकलें बढ़ रही हैं, और लास वेगास रेडर्स के साथ उनके मजबूत संबंध सामने आ रहे हैं। इस होनहार खिलाड़ी के इर्द-गिर्द की चर्चा तेज हो रही है क्योंकि टीमें शीर्ष प्रतिभा का मूल्यांकन कर रही हैं। उनका संभावित प्रभाव और कौशल उन्हें उन टीमों के लिए एक महत्वपूर्ण केंद्र बिंदु बनाते हैं जो फ्रेंचाइजी बदलने वाले खिलाड़ी की तलाश में हैं। यह महत्वपूर्ण जुड़ाव प्री-ड्राफ्ट परिदृश्य में एक बड़े बदलाव का संकेत देता है।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdm93WWM3U0laQlJfN3dBS1BQZUZJT1BfUHJBQktMem9DVkZjR2Mtc2Fvb2RDQXJmSW5hY0ZHdC1IUXNpQk12a1AzVm5XTEZuZ3NyaDlJSTNKbnRQQzB1bEo2Rk1mdHpCalotSzJnYVdpbmYxN2RUemRKNmxSOFRrSFJDYU5zR29jN1dNanctaTk2ZmtEQmRhY29YbllmeDVrdkdqeVZfT0lzNEpxRVRCbHgzbE9BWlZ1bDhFY2twYmdiVWgzZmFIWl9Sc3B4dkhOVzNYdzY2STDSAd4BQVVfeXFMUDE3aXJJUERwMlVnZ3R1cGprQUZDN0YxOTZ4Nk9MM2pNVU9DZVBjakduM1c4WWl3SGctUWxnLVZRN3pWR2RpMVRHMl9iOVVIZ19UMUZwY0QxeHJCeHotZGtkcFY5d2JnZFE0V29aWHZzbWdqWTBaNXM1dnJKdGZUbkxnMHlURkFWUnZFeUxQZUdNZjJ0dXRrYno0MHVZOU9BOFZkMlM3OVhEUVUyTDc2Y0hxQmJrSVRKX2F6SEFMNWVmY0J2dFBVNGZXcExjWWNuUHVsWWVXbHc3dEM0WVFn?oc=5",
-        "date": "Sun, 29 Mar 2026 00:21:22 GMT"
     }
 ]
