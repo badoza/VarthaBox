@@ -1,5 +1,105 @@
 [
     {
+        "id": "dade1233",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "MI Coach Reveals Suryakumar Yadav's Impact Sub Strategy",
+                "content": "MI coach explained why Suryakumar Yadav featured as an Impact Sub against KKR in IPL 2026. The decision was strategic, aimed at managing his recent injury recovery and easing him back into high-intensity play. This allowed the team flexibility and ensured Yadav's gradual return to full match fitness, optimizing his performance for crucial upcoming games while also adapting to match situations effectively."
+            },
+            "kn": {
+                "title": "ಎಂಐ ಕೋಚ್ ಸೂರ್ಯಕುಮಾರ್ ಯಾದವ್ ಅವರ ಇಂಪ್ಯಾಕ್ಟ್ ಸಬ್ ತಂತ್ರವನ್ನು ಅನಾವರಣಗೊಳಿಸಿದ್ದಾರೆ",
+                "content": "ಐಪಿಎಲ್ 2026 ರಲ್ಲಿ ಕೆಕೆಆರ್ ವಿರುದ್ಧ ಸೂರ್ಯಕುಮಾರ್ ಯಾದವ್ ಇಂಪ್ಯಾಕ್ಟ್ ಸಬ್ ಆಗಿ ಏಕೆ ಆಡಿದರು ಎಂಬುದನ್ನು ಮುಂಬೈ ಇಂಡಿಯನ್ಸ್ ಕೋಚ್ ವಿವರಿಸಿದ್ದಾರೆ. ಈ ನಿರ್ಧಾರವು ಅವರ ಇತ್ತೀಚಿನ ಗಾಯದಿಂದ ಚೇತರಿಕೆ ಮತ್ತು ಅವರನ್ನು ಹೆಚ್ಚು ತೀವ್ರತೆಯ ಆಟಕ್ಕೆ ಮರಳಿ ತರುವ ಉದ್ದೇಶದಿಂದ ಕಾರ್ಯತಂತ್ರವಾಗಿತ್ತು. ಇದು ತಂಡಕ್ಕೆ ನಮ್ಯತೆಯನ್ನು ನೀಡಿತು ಮತ್ತು ಯಾದವ್ ಪೂರ್ಣ ಪಂದ್ಯದ ಫಿಟ್‌ನೆಸ್‌ಗೆ ಕ್ರಮೇಣ ಮರಳುವುದನ್ನು ಖಚಿತಪಡಿಸಿತು, ಮುಂದಿನ ನಿರ್ಣಾಯಕ ಪಂದ್ಯಗಳಿಗೆ ಅವರ ಕಾರ್ಯಕ್ಷಮತೆಯನ್ನು ಉತ್ತಮಗೊಳಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "एमआय प्रशिक्षकाने सूर्यकुमार यादवच्या इम्पॅक्ट सब रणनीतीचा खुलासा केला",
+                "content": "आयपीएल 2026 मध्ये केकेआरविरुद्ध सूर्यकुमार यादव इम्पॅक्ट सब म्हणून का खेळला, याचे स्पष्टीकरण मुंबई इंडियन्सच्या प्रशिक्षकाने दिले. हा निर्णय रणनीतिक होता, ज्याचा उद्देश त्याच्या अलीकडील दुखापतीतून सावरणे आणि त्याला उच्च-तीव्रतेच्या खेळात हळूवारपणे परत आणणे हा होता. यामुळे संघाला लवचिकता मिळाली आणि यादवची पूर्ण मॅच फिटनेसमध्ये हळूहळू परत येण्याची खात्री झाली, ज्यामुळे पुढील महत्त्वाच्या सामन्यांसाठी त्याची कामगिरी अनुकूल होईल."
+            },
+            "hi": {
+                "title": "एमआई कोच ने सूर्यकुमार यादव की इम्पैक्ट सब रणनीति का खुलासा किया",
+                "content": "आईपीएल 2026 में केकेआर के खिलाफ सूर्यकुमार यादव इम्पैक्ट सब के तौर पर क्यों खेले, इसका खुलासा मुंबई इंडियंस के कोच ने किया है। यह फैसला रणनीतिक था, जिसका उद्देश्य उनकी हालिया चोट से उबरने और उन्हें धीरे-धीरे उच्च-तीव्रता वाले खेल में वापस लाना था। इससे टीम को लचीलापन मिला और यादव की पूर्ण मैच फिटनेस में gradual वापसी सुनिश्चित हुई, जिससे आगामी महत्वपूर्ण मैचों के लिए उनका प्रदर्शन बेहतर हो सके।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZlVWMGNxT2FGei0wOExscUdnaGxZNGkzaGpnUUNybFMxanM0bURUUVFjdVlDdmYyLVhtV3loUlBZa3JEeTZpNTJJNVdWQTFmZGlSN2xMVHNuRnZWeElTNlBzUkI2OEI4akxCOXJPRUdBS1FKN0FYejZmLXBvNThHUTBVR0ZEY0pNU3pyY0x2YXBvdnhEaTdfdS16R0NuMW04cnY4?oc=5",
+        "date": "Mon, 30 Mar 2026 08:10:20 GMT"
+    },
+    {
+        "id": "17bddbd4",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Iran Claims US Strike Hit Delhi-Bound Aid Flight",
+                "content": "Iran alleges a humanitarian aid flight destined for Delhi was struck by a US attack. The incident, if confirmed, marks a significant escalation amidst regional tensions. Tehran has condemned the alleged strike, raising serious concerns about the safety of aid operations and potential international repercussions. Details on casualties or damage are currently unconfirmed, but the claim adds to already strained US-Iran relations."
+            },
+            "kn": {
+                "title": "ಇರಾನ್ ಹೇಳಿಕೆ: ದೆಹಲಿ ಹೊರಟ ಮಾನವೀಯ ನೆರವಿನ ವಿಮಾನಕ್ಕೆ ಯುಎಸ್ ದಾಳಿ",
+                "content": "ದೆಹಲಿಗೆ ಹೊರಟಿದ್ದ ಮಾನವೀಯ ನೆರವಿನ ವಿಮಾನವೊಂದು ಅಮೆರಿಕದ ದಾಳಿಯಿಂದ ಹಾನಿಗೊಳಗಾಗಿದೆ ಎಂದು ಇರಾನ್ ಆರೋಪಿಸಿದೆ. ಇದು ದೃಢಪಟ್ಟರೆ, ಪ್ರಾದೇಶಿಕ ಉದ್ವಿಗ್ನತೆಯ ಮಧ್ಯೆ ಗಂಭೀರ ಏರಿಕೆಯಾಗಿದೆ. ಟೆಹ್ರಾನ್ ಈ ಆಪಾದಿತ ದಾಳಿಯನ್ನು ಖಂಡಿಸಿದೆ, ನೆರವಿನ ಕಾರ್ಯಾಚರಣೆಗಳ ಸುರಕ್ಷತೆ ಮತ್ತು ಸಂಭಾವ್ಯ ಅಂತರರಾಷ್ಟ್ರೀಯ ಪರಿಣಾಮಗಳ ಬಗ್ಗೆ ತೀವ್ರ ಕಳವಳ ವ್ಯಕ್ತಪಡಿಸಿದೆ. ಸಾವುನೋವು ಅಥವಾ ಹಾನಿಯ ವಿವರಗಳು ಪ್ರಸ್ತುತ ಅಸ್ಪಷ್ಟವಾಗಿದ್ದು, ಈ ಹೇಳಿಕೆ ಯುಎಸ್-ಇರಾನ್ ಸಂಬಂಧಗಳನ್ನು ಮತ್ತಷ್ಟು ಬಿಗಿಗೊಳಿಸಿದೆ."
+            },
+            "mr": {
+                "title": "इराणचा दावा: दिल्लीला निघालेल्या मदत विमानाला अमेरिकेचा हल्ला",
+                "content": "इराणने असा आरोप केला आहे की, दिल्लीकडे जाणाऱ्या मानवतावादी मदत विमानावर अमेरिकेने हल्ला केला आहे. जर या घटनेची पुष्टी झाली, तर प्रादेशिक तणावाच्या पार्श्वभूमीवर ही एक गंभीर वाढ असेल. तेहरानने या कथित हल्ल्याचा निषेध केला असून, मदत कार्यांच्या सुरक्षिततेबद्दल आणि संभाव्य आंतरराष्ट्रीय परिणामांबद्दल गंभीर चिंता व्यक्त केली आहे. जीवितहानी किंवा नुकसानीचे तपशील सध्या अस्पष्ट आहेत, परंतु या दाव्यामुळे अमेरिका-इराण संबंधांमधील तणाव आणखी वाढला आहे."
+            },
+            "hi": {
+                "title": "ईरान का दावा: अमेरिकी हमले से दिल्ली जा रहा राहत विमान प्रभावित",
+                "content": "ईरान का आरोप है कि दिल्ली जा रहे एक मानवीय सहायता विमान पर अमेरिकी हमला हुआ है। यदि इस घटना की पुष्टि होती है, तो यह क्षेत्रीय तनाव के बीच एक महत्वपूर्ण वृद्धि मानी जाएगी। तेहरान ने इस कथित हमले की निंदा की है, जिससे सहायता अभियानों की सुरक्षा और संभावित अंतरराष्ट्रीय परिणामों के बारे में गंभीर चिंताएं बढ़ गई हैं। हताहतों या क्षति का विवरण वर्तमान में अपुष्ट है, लेकिन यह दावा पहले से ही तनावपूर्ण अमेरिका-ईरान संबंधों को और बढ़ा देता है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129905254,imgsize-322943.cms",
+        "link": "https://timesofindia.indiatimes.com/india/delhi-bound-humanitarian-aid-flight-hit-in-us-strike-claims-iran/articleshow/129904998.cms",
+        "date": "2026-03-30T21:02:34+05:30"
+    },
+    {
+        "id": "f7768690",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Shah Blames Congress for Naxal Inaction, Rejects Talks",
+                "content": "Home Minister Amit Shah, in Lok Sabha, strongly criticized the Congress for its alleged inaction against Naxal violence. He firmly rejected any talks with armed Naxal groups, stating the government's resolve to eradicate Naxalism. Shah's remarks underscore a decisive shift in strategy against insurgency."
+            },
+            "kn": {
+                "title": "ಶಹಾ ಅವರಿಂದ ಕಾಂಗ್ರೆಸ್ ಮೇಲೆ ನಕ್ಸಲ್ ನಿಷ್ಕ್ರಿಯತೆಯ ಆರೋಪ, ಮಾತುಕತೆ ನಿರಾಕರಣೆ",
+                "content": "ಗೃಹ ಸಚಿವ ಅಮಿತ್ ಶಾ ಲೋಕಸಭೆಯಲ್ಲಿ ನಕ್ಸಲ್ ಹಿಂಸಾಚಾರದ ವಿರುದ್ಧ ಕಾಂಗ್ರೆಸ್‌ನ ನಿಷ್ಕ್ರಿಯತೆಯನ್ನು ತೀವ್ರವಾಗಿ ಟೀಕಿಸಿದರು. ಸಶಸ್ತ್ರ ನಕ್ಸಲ್ ಗುಂಪುಗಳೊಂದಿಗೆ ಯಾವುದೇ ಮಾತುಕತೆಯನ್ನು ಅವರು ದೃಢವಾಗಿ ನಿರಾಕರಿಸಿದರು, ನಕ್ಸಲಿಸಂ ಅನ್ನು ನಿರ್ಮೂಲನೆ ಮಾಡುವ ಸರ್ಕಾರದ ಸಂಕಲ್ಪವನ್ನು ಪ್ರತಿಪಾದಿಸಿದರು. ಶಾ ಅವರ ಹೇಳಿಕೆಗಳು ಬಂಡಾಯದ ವಿರುದ್ಧದ ಕಾರ್ಯತಂತ್ರದಲ್ಲಿ ನಿರ್ಣಾಯಕ ಬದಲಾವಣೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತವೆ."
+            },
+            "mr": {
+                "title": "शहांनी नक्षलवादावरील निष्क्रियतेबद्दल काँग्रेसला फटकारले, चर्चेस नकार",
+                "content": "गृहमंत्री अमित शाह यांनी लोकसभेत नक्षलवादी हिंसाचाराविरोधात काँग्रेसच्या कथित निष्क्रियतेवर जोरदार टीका केली. त्यांनी सशस्त्र नक्षलवादी गटांशी कोणत्याही चर्चेला ठामपणे नकार दिला, नक्षलवाद समूळ नष्ट करण्याचा सरकारचा निर्धार व्यक्त केला. शाह यांच्या टिप्पणीमुळे बंडखोरीविरोधी रणनीतीत निर्णायक बदल झाल्याचे दिसून येते."
+            },
+            "hi": {
+                "title": "शाह ने नक्सल निष्क्रियता पर कांग्रेस को घेरा, वार्ता से इनकार",
+                "content": "गृह मंत्री अमित शाह ने लोकसभा में नक्सल हिंसा के खिलाफ कांग्रेस की कथित निष्क्रियता पर कड़ी आलोचना की। उन्होंने सशस्त्र नक्सल समूहों के साथ किसी भी बातचीत को दृढ़ता से खारिज करते हुए, नक्सलवाद को खत्म करने के सरकार के संकल्प को बताया। शाह की टिप्पणियां उग्रवाद के खिलाफ रणनीति में एक निर्णायक बदलाव को रेखांकित करती हैं।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129904505,imgsize-982504.cms",
+        "link": "https://timesofindia.indiatimes.com/india/congress-did-nothing-to-end-naxal-violence-says-amit-shah-in-lok-sabha-rejects-talks-with-those-who-remain-armed/articleshow/129904167.cms",
+        "date": "2026-03-30T20:17:06+05:30"
+    },
+    {
+        "id": "015f614b",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "From Afghan Battlefield to Geek Squad Leader: Marine's Tech Triumph",
+                "content": "A US Marine, who lost both legs in Afghanistan in 2010, has transitioned from combat to cybersecurity, now leading Best Buy's 'Geek Squad'. This inspiring veteran specializes in digital forensics, famously stating, \"Nothing is truly ever deleted.\" His remarkable journey showcases resilience, demonstrating that severe physical challenges don't hinder a career in the intricate world of data recovery and tech support."
+            },
+            "kn": {
+                "title": "ಅಫ್ಘಾನ್ ಯುದ್ಧಭೂಮಿಯಿಂದ ಗೀಕ್ ಸ್ಕ್ವಾಡ್ ನಾಯಕತ್ವಕ್ಕೆ: ಮೆರೀನ್‌ನ ತಾಂತ್ರಿಕ ವಿಜಯ",
+                "content": "2010ರಲ್ಲಿ ಅಫ್ಘಾನಿಸ್ತಾನದಲ್ಲಿ ಎರಡೂ ಕಾಲುಗಳನ್ನು ಕಳೆದುಕೊಂಡ ಅಮೆರಿಕದ ಮೆರೀನ್ ಒಬ್ಬರು, ಈಗ ಬೆಸ್ಟ್ ಬೈ ನ 'ಗೀಕ್ ಸ್ಕ್ವಾಡ್' ಅನ್ನು ಮುನ್ನಡೆಸುತ್ತಾ ಯುದ್ಧದಿಂದ ಸೈಬರ್‌ಸುರಕ್ಷತೆಗೆ ಬದಲಾಗಿದ್ದಾರೆ. ಈ ಸ್ಫೂರ್ತಿದಾಯಕ ಯೋಧರು ಡಿಜಿಟಲ್ ಫೋರೆನ್ಸಿಕ್ಸ್‌ನಲ್ಲಿ ಪರಿಣತಿ ಹೊಂದಿದ್ದಾರೆ ಮತ್ತು \"ಯಾವುದೂ ನಿಜವಾಗಿಯೂ ಎಂದಿಗೂ ಅಳಿಸಲಾಗುವುದಿಲ್ಲ\" ಎಂದು ಪ್ರಸಿದ್ಧವಾಗಿ ಹೇಳುತ್ತಾರೆ. ಅವರ ಅಸಾಧಾರಣ ಪ್ರಯಾಣವು ಸ್ಥಿತಿಸ್ಥಾಪಕತ್ವವನ್ನು ಪ್ರದರ್ಶಿಸುತ್ತದೆ, ತೀವ್ರ ದೈಹಿಕ ಸವಾಲುಗಳು ಡೇಟಾ ಮರುಪಡೆಯುವಿಕೆ ಮತ್ತು ತಂತ್ರಜ್ಞಾನ ಬೆಂಬಲದ ಸಂಕೀರ್ಣ ಜಗತ್ತಿನಲ್ಲಿ ವೃತ್ತಿಜೀವನಕ್ಕೆ ಅಡ್ಡಿಯಾಗುವುದಿಲ್ಲ ಎಂದು ತೋರಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "अफगाण रणांगणातून 'गीक स्क्वॉड' प्रमुखपदी: मरीनचा तांत्रिक विजय",
+                "content": "2010 मध्ये अफगाणिस्तानात दोन्ही पाय गमावलेल्या एका अमेरिकन मरीनने आता 'बेस्ट बाय'च्या 'गीक स्क्वॉड'चे नेतृत्व करत लढाऊ भूमिकेतून सायबरसुरक्षेमध्ये संक्रमण केले आहे. हा प्रेरणादायी योद्धा डिजिटल फॉरेन्सिक्समध्ये माहिर असून, \"काहीही खऱ्या अर्थाने कधीच हटवले जात नाही\" असे त्यांचे प्रसिद्ध विधान आहे. त्यांचा विलक्षण प्रवास लवचिकपणा दर्शवतो, शारीरिक आव्हाने डेटा रिकव्हरी आणि तंत्रज्ञान समर्थनाच्या जटिल जगात करिअरमध्ये अडथळा आणत नाहीत हे सिद्ध करतो."
+            },
+            "hi": {
+                "title": "अफ़गान युद्धभूमि से 'गीक स्क्वाड' प्रमुख तक: मरीन की तकनीकी जीत",
+                "content": "2010 में अफ़गानिस्तान में अपने दोनों पैर गंवाने वाले एक अमेरिकी मरीन ने अब बेस्ट बाय के 'गीक स्क्वाड' का नेतृत्व करते हुए युद्ध से साइबर सुरक्षा में कदम रखा है। यह प्रेरणादायक अनुभवी सैनिक डिजिटल फ़ोरेंसिक में विशेषज्ञ है, और उनका प्रसिद्ध कथन है, \"कुछ भी वास्तव में कभी हटाया नहीं जाता।\" उनकी उल्लेखनीय यात्रा लचीलेपन को दर्शाती है, यह साबित करती है कि गंभीर शारीरिक चुनौतियाँ डेटा रिकवरी और तकनीकी सहायता की जटिल दुनिया में करियर में बाधा नहीं डालतीं।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129905474,imgsize-194846.cms",
+        "link": "https://timesofindia.indiatimes.com/world/us/us-marine-who-lost-both-legs-in-afghanistan-in-2010-now-leads-geek-squad-nothing-is-truly-ever-deleted/articleshow/129905323.cms",
+        "date": "2026-03-30T21:09:30+05:30"
+    },
+    {
         "id": "496be872",
         "category": "IPL Scoop",
         "translations": {
@@ -1898,105 +1998,5 @@
         "image": "https://static.toiimg.com/photo/msid-129875571,imgsize-75586.cms",
         "link": "https://timesofindia.indiatimes.com/world/rest-of-world/5-rivers-that-flow-underground-around-the-world/articleshow/129875549.cms",
         "date": "2026-03-29T09:47:11+05:30"
-    },
-    {
-        "id": "65bb964f",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "Pentagon Prepares Plans for US Troops in Iran",
-                "content": "The US military is developing contingency plans for potential ground operations in Iran, ranging from targeted raids to limited troop deployments. This preparation by the Pentagon aims to neutralize specific threats, even as the White House insists no decision has been made. The move highlights a growing disparity between US military readiness and cautious public messaging regarding Iran."
-            },
-            "kn": {
-                "title": "ಪೆಂಟಗನ್ ಇರಾನ್‌ನಲ್ಲಿ ಅಮೆರಿಕ ಪಡೆಗಳಿಗಾಗಿ ಯೋಜನೆಗಳನ್ನು ಸಿದ್ಧಪಡಿಸುತ್ತಿದೆ",
-                "content": "ಅಮೆರಿಕ ಸೇನೆಯು ಇರಾನ್‌ನಲ್ಲಿ ಸಂಭವನೀಯ ನೆಲದ ಕಾರ್ಯಾಚರಣೆಗಳಿಗಾಗಿ, ಗುರಿಯಿಟ್ಟ ದಾಳಿಗಳಿಂದ ಹಿಡಿದು ಸೀಮಿತ ಸೈನ್ಯ ನಿಯೋಜನೆಯವರೆಗಿನ ಆಕಸ್ಮಿಕ ಯೋಜನೆಗಳನ್ನು ಅಭಿವೃದ್ಧಿಪಡಿಸುತ್ತಿದೆ. ಶ್ವೇತಭವನವು ಯಾವುದೇ ನಿರ್ಧಾರವನ್ನು ತೆಗೆದುಕೊಂಡಿಲ್ಲ ಎಂದು ಹೇಳಿದರೂ, ಪೆಂಟಗನ್ ನಿರ್ದಿಷ್ಟ ಬೆದರಿಕೆಗಳನ್ನು ತಟಸ್ಥಗೊಳಿಸಲು ಈ ಸಿದ್ಧತೆಯನ್ನು ನಡೆಸುತ್ತಿದೆ. ಈ ಕ್ರಮವು ಅಮೆರಿಕದ ಮಿಲಿಟರಿ ಸನ್ನದ್ಧತೆ ಮತ್ತು ಇರಾನ್‌ಗೆ ಸಂಬಂಧಿಸಿದ ಎಚ್ಚರಿಕೆಯ ಸಾರ್ವಜನಿಕ ಸಂದೇಶದ ನಡುವಿನ ಹೆಚ್ಚುತ್ತಿರುವ ವ್ಯತ್ಯಾಸವನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "पेंटागॉन इराणमध्ये अमेरिकेच्या सैन्यासाठी योजना तयार करत आहे",
-                "content": "अमेरिकेचे सैन्य इराणमध्ये संभाव्य भू-कारवायांसाठी, लक्ष्यित हल्ल्यांपासून ते मर्यादित सैन्य तैनातीपर्यंतच्या आकस्मिक योजना विकसित करत आहे. व्हाईट हाऊसने कोणताही निर्णय घेतला नसल्याचे सांगितले असले तरी, पेंटागॉन विशिष्ट धोके निष्प्रभ करण्यासाठी ही तयारी करत आहे. हा निर्णय अमेरिकेच्या लष्करी सज्जता आणि इराणसंबंधीच्या सावध सार्वजनिक संदेशात वाढत जाणारी तफावत दर्शवतो."
-            },
-            "hi": {
-                "title": "पेंटागन ईरान में अमेरिकी सैनिकों के लिए योजनाएँ तैयार कर रहा है",
-                "content": "अमेरिकी सेना ईरान में संभावित जमीनी अभियानों के लिए आकस्मिक योजनाएं विकसित कर रही है, जिसमें लक्षित हमलों से लेकर सीमित सैनिक तैनाती तक शामिल है। व्हाइट हाउस का कहना है कि अभी कोई निर्णय नहीं लिया गया है, लेकिन पेंटागन विशिष्ट खतरों को बेअसर करने के लिए यह तैयारी कर रहा है। यह कदम अमेरिकी सैन्य तत्परता और ईरान के संबंध में सतर्क सार्वजनिक संदेश के बीच बढ़ती खाई को उजागर करता है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129875010,imgsize-1277118.cms",
-        "link": "https://timesofindia.indiatimes.com/world/middle-east/kharg-island-full-scale-invasion-or-special-ops-inside-pentagon-plan-for-us-boots-in-iran-iran-war-us-iran-war-news-israel-iran-ground-invasion/articleshow/129874970.cms",
-        "date": "2026-03-29T08:32:45+05:30"
-    },
-    {
-        "id": "242db784",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "Houthis Escalate Conflict with Second Strike on Israel",
-                "content": "Yemen's Houthi rebels declared a \"Holy Jihad Battle,\" launching their second military operation against Israel overnight. This aggressive move, involving drones and missiles, significantly widens the ongoing conflict in the Middle East, raising concerns about regional stability and further escalation."
-            },
-            "kn": {
-                "title": "ಇಸ್ರೇಲ್ ಮೇಲೆ ಎರಡನೇ ದಾಳಿಯೊಂದಿಗೆ ಹೂತಿಗಳು ಸಂಘರ್ಷವನ್ನು ಹೆಚ್ಚಿಸಿದರು",
-                "content": "ಯೆಮೆನ್‌ನ ಹೂತಿ ಬಂಡುಕೋರರು \"ಪವಿತ್ರ ಜಿಹಾದ್ ಕದನ\" ಘೋಷಿಸಿ, ರಾತ್ರೋರಾತ್ರಿ ಇಸ್ರೇಲ್ ವಿರುದ್ಧ ತಮ್ಮ ಎರಡನೇ ಮಿಲಿಟರಿ ಕಾರ್ಯಾಚರಣೆಯನ್ನು ಪ್ರಾರಂಭಿಸಿದರು. ಡ್ರೋನ್‌ಗಳು ಮತ್ತು ಕ್ಷಿಪಣಿಗಳನ್ನು ಒಳಗೊಂಡ ಈ ಆಕ್ರಮಣಕಾರಿ ನಡೆಯು, ಮಧ್ಯಪ್ರಾಚ್ಯದಲ್ಲಿ ನಡೆಯುತ್ತಿರುವ ಸಂಘರ್ಷವನ್ನು ಗಮನಾರ್ಹವಾಗಿ ವಿಸ್ತರಿಸುತ್ತದೆ, ಪ್ರಾದೇಶಿಕ ಸ್ಥಿರತೆ ಮತ್ತು ಮತ್ತಷ್ಟು ಉಲ್ಬಣದ ಬಗ್ಗೆ ಕಳವಳಗಳನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "हूतींनी इस्रायलवर दुसऱ्यांदा हल्ला करून संघर्ष वाढवला",
-                "content": "येमेनच्या हूती बंडखोरांनी \"पवित्र जिहाद युद्ध\" घोषित करत, रात्री इस्रायलविरोधात आपली दुसरी लष्करी कारवाई सुरू केली. ड्रोन आणि क्षेपणास्त्रांचा समावेश असलेली ही आक्रमक कृती, मध्यपूर्वेतील सध्याचा संघर्ष लक्षणीयरीत्या वाढवते, ज्यामुळे प्रादेशिक स्थिरता आणि पुढील संघर्षाबद्दल चिंता वाढली आहे."
-            },
-            "hi": {
-                "title": "हوثियों ने इजराइल पर दूसरे हमले के साथ संघर्ष बढ़ाया",
-                "content": "यमन के हूती विद्रोहियों ने \"पवित्र जिहाद युद्ध\" घोषित करते हुए, रातोरात इजराइल के खिलाफ अपना दूसरा सैन्य अभियान शुरू किया। ड्रोन और मिसाइलों से युक्त यह आक्रामक कदम, मध्य पूर्व में जारी संघर्ष को महत्वपूर्ण रूप से बढ़ाता है, जिससे क्षेत्रीय स्थिरता और आगे के तनाव को लेकर चिंताएं बढ़ गई हैं।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129874935,imgsize-1184696.cms",
-        "link": "https://timesofindia.indiatimes.com/world/middle-east/holy-jihad-battle-war-widens-as-yemens-houthis-carry-out-2nd-military-operation-against-israel-overnight/articleshow/129874791.cms",
-        "date": "2026-03-29T08:22:38+05:30"
-    },
-    {
-        "id": "b24afc25",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "Trump Unveils 'OnlyFarms' to Back US Farmers",
-                "content": "Donald Trump launched \"OnlyFarms\" on National Agriculture Day, a new platform aimed at bolstering support for US farmers. The initiative, announced at a White House event, promotes financial aid and policy adjustments to alleviate industry pressures. Its unique branding has garnered attention amidst current economic and geopolitical challenges, emphasizing Trump's commitment to America's agricultural sector."
-            },
-            "kn": {
-                "title": "ಟ್ರಂಪ್ ಯುಎಸ್ ರೈತರಿಗೆ ಬೆಂಬಲಿಸಲು 'ಓನ್ಲಿಫಾರ್ಮ್ಸ್' ಅನಾವರಣಗೊಳಿಸಿದರು",
-                "content": "ರಾಷ್ಟ್ರೀಯ ಕೃಷಿ ದಿನದಂದು ಡೊನಾಲ್ಡ್ ಟ್ರಂಪ್ ಯುಎಸ್ ರೈತರಿಗೆ ಬೆಂಬಲ ನೀಡುವ ಉದ್ದೇಶದಿಂದ \"ಓನ್ಲಿಫಾರ್ಮ್ಸ್\" ಅನ್ನು ಪ್ರಾರಂಭಿಸಿದರು. ಶ್ವೇತಭವನದ ಕಾರ್ಯಕ್ರಮದಲ್ಲಿ ಘೋಷಿಸಲಾದ ಈ ಉಪಕ್ರಮವು ಉದ್ಯಮದ ಒತ್ತಡಗಳನ್ನು ಕಡಿಮೆ ಮಾಡಲು ಆರ್ಥಿಕ ನೆರವು ಮತ್ತು ನೀತಿ ಹೊಂದಾಣಿಕೆಗಳನ್ನು ಉತ್ತೇಜಿಸುತ್ತದೆ. ಇದರ ವಿಶಿಷ್ಟ ಬ್ರ್ಯಾಂಡಿಂಗ್ ಪ್ರಸ್ತುತ ಆರ್ಥಿಕ ಮತ್ತು ಭೌಗೋಳಿಕ ರಾಜಕೀಯ ಸವಾಲುಗಳ ನಡುವೆ ಗಮನ ಸೆಳೆದಿದ್ದು, ಅಮೆರಿಕದ ಕೃಷಿ ಕ್ಷೇತ್ರಕ್ಕೆ ಟ್ರಂಪ್ ಅವರ ಬದ್ಧತೆಯನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "ट्रम्प यांनी अमेरिकन शेतकऱ्यांना पाठिंबा देण्यासाठी 'ओन्लीफार्म्स'चे अनावरण केले",
-                "content": "राष्ट्रीय कृषी दिनानिमित्त, डोनाल्ड ट्रम्प यांनी अमेरिकन शेतकऱ्यांना पाठिंबा देण्यासाठी \"ओन्लीफार्म्स\" हे नवीन व्यासपीठ सुरू केले. व्हाईट हाऊस येथे घोषित केलेल्या या उपक्रमात उद्योगावरील दबाव कमी करण्यासाठी आर्थिक मदत आणि धोरणात्मक बदलांना प्रोत्साहन दिले आहे. याच्या अद्वितीय ब्रँडिंगने सध्याच्या आर्थिक आणि भू-राजकीय आव्हानांदरम्यान लक्ष वेधले आहे, जे अमेरिकेच्या कृषी क्षेत्रासाठी ट्रम्प यांच्या वचनबद्धतेवर जोर देते."
-            },
-            "hi": {
-                "title": "ट्रम्प ने अमेरिकी किसानों का समर्थन करने के लिए 'ओनलीफार्म्स' का अनावरण किया",
-                "content": "राष्ट्रीय कृषि दिवस पर डोनाल्ड ट्रम्प ने अमेरिकी किसानों के लिए समर्थन मजबूत करने के उद्देश्य से \"ओनलीफार्म्स\" नामक एक नया मंच लॉन्च किया। व्हाइट हाउस में घोषित इस पहल में उद्योग के दबाव को कम करने के लिए वित्तीय सहायता और नीतिगत समायोजन को बढ़ावा दिया गया है। इसकी अनूठी ब्रांडिंग ने वर्तमान आर्थिक और भू-राजनीतिक चुनौतियों के बीच ध्यान आकर्षित किया है, जो अमेरिका के कृषि क्षेत्र के प्रति ट्रम्प की प्रतिबद्धता पर जोर देती है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129872252,imgsize-311295.cms",
-        "link": "https://timesofindia.indiatimes.com/world/us/what-is-onlyfarms-trump-unveils-bizarrely-named-website-to-mark-national-agriculture-day/articleshow/129872016.cms",
-        "date": "2026-03-29T04:17:49+05:30"
-    },
-    {
-        "id": "6681cb96",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "ChatGPT Helps Florida Man Sell Home for Nearly $1M",
-                "content": "A Florida man successfully sold his family home for $954,800, leveraging AI tool ChatGPT for the entire process. From crafting compelling property descriptions to negotiating offers and managing paperwork, he utilized ChatGPT to streamline communication and automate tasks. This innovative approach saved him significant real estate agent fees, demonstrating AI's powerful potential in complex transactions and personal finance."
-            },
-            "kn": {
-                "title": "ಚಾಟ್‌ಜಿಪಿಟಿ ನೆರವಿನಿಂದ ಫ್ಲೋರಿಡಾ ವ್ಯಕ್ತಿ ಸುಮಾರು $1 ಮಿಲಿಯನ್‌ಗೆ ಮನೆ ಮಾರಾಟ",
-                "content": "ಫ್ಲೋರಿಡಾದ ವ್ಯಕ್ತಿಯೊಬ್ಬರು ತಮ್ಮ ಕುಟುಂಬದ ಮನೆಯನ್ನು $954,800 ಗೆ ಯಶಸ್ವಿಯಾಗಿ ಮಾರಾಟ ಮಾಡಲು AI ಸಾಧನವಾದ ಚಾಟ್‌ಜಿಪಿಟಿಯನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಬಳಸಿಕೊಂಡರು. ಆಕರ್ಷಕ ಆಸ್ತಿ ವಿವರಣೆಗಳನ್ನು ರಚಿಸುವುದರಿಂದ ಹಿಡಿದು, ಆಫರ್‌ಗಳನ್ನು ಮಾತುಕತೆ ನಡೆಸಿ ಮತ್ತು ದಾಖಲೆಗಳನ್ನು ನಿರ್ವಹಿಸುವವರೆಗೆ, ಅವರು ಸಂವಹನವನ್ನು ಸುಗಮಗೊಳಿಸಲು ಮತ್ತು ಕಾರ್ಯಗಳನ್ನು ಸ್ವಯಂಚಾಲಿತಗೊಳಿಸಲು ಚಾಟ್‌ಜಿಪಿಟಿಯನ್ನು ಬಳಸಿದರು. ಈ ನವೀನ ವಿಧಾನವು ಅವರಿಗೆ ಗಮನಾರ್ಹ ರಿಯಲ್ ಎಸ್ಟೇಟ್ ಏಜೆಂಟ್ ಶುಲ್ಕಗಳನ್ನು ಉಳಿಸಿತು, ಸಂಕೀರ್ಣ ವ್ಯವಹಾರಗಳು ಮತ್ತು ವೈಯಕ್ತಿಕ ಹಣಕಾಸಿನಲ್ಲಿ AI ಯ ಪ್ರಬಲ ಸಾಮರ್ಥ್ಯವನ್ನು ಪ್ರದರ್ಶಿಸಿತು."
-            },
-            "mr": {
-                "title": "चॅटजीपीटीच्या मदतीने फ्लोरिडाच्या व्यक्तीने सुमारे $1 दशलक्षला घर विकले",
-                "content": "फ्लोरिडाच्या एका व्यक्तीने आपले कुटुंबाचे घर $954,800 ला यशस्वीरित्या विकले, यासाठी त्यांनी संपूर्ण प्रक्रियेत एआय साधन चॅटजीपीटीचा वापर केला. आकर्षक मालमत्ता वर्णने तयार करण्यापासून ते ऑफरची वाटाघाटी करण्यापर्यंत आणि कागदपत्रांचे व्यवस्थापन करण्यापर्यंत, त्यांनी संवाद सुलभ करण्यासाठी आणि कार्ये स्वयंचलित करण्यासाठी चॅटजीपीटीचा उपयोग केला. या नाविन्यपूर्ण दृष्टिकोनाने त्यांना महत्त्वपूर्ण रिअल इस्टेट एजंट शुल्क वाचवले, ज्यामुळे जटिल व्यवहार आणि वैयक्तिक आर्थिक व्यवहारात एआयची शक्तिशाली क्षमता दिसून येते."
-            },
-            "hi": {
-                "title": "चैटजीपीटी की मदद से फ्लोरिडा के व्यक्ति ने करीब $1 मिलियन में घर बेचा",
-                "content": "फ्लोरिडा के एक व्यक्ति ने अपने परिवार का घर $954,800 में सफलतापूर्वक बेचा, इस पूरी प्रक्रिया के लिए एआई टूल चैटजीपीटी का लाभ उठाया। आकर्षक संपत्ति विवरण तैयार करने से लेकर, ऑफ़र पर बातचीत करने और कागजी कार्रवाई का प्रबंधन करने तक, उन्होंने संचार को सुव्यवस्थित करने और कार्यों को स्वचालित करने के लिए चैटजीपीटी का उपयोग किया। इस अभिनव दृष्टिकोण ने उन्हें महत्वपूर्ण रियल एस्टेट एजेंट शुल्क बचाने में मदद की, जिससे जटिल लेनदेन और व्यक्तिगत वित्त में एआई की शक्तिशाली क्षमता प्रदर्शित हुई।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129872126,imgsize-148674.cms",
-        "link": "https://timesofindia.indiatimes.com/world/us/florida-man-sells-family-home-for-954800-using-chatgpt-100000-above-agent-estimates/articleshow/129872126.cms",
-        "date": "2026-03-29T02:41:58+05:30"
     }
 ]
