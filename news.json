@@ -1,5 +1,30 @@
 [
     {
+        "id": "3cf983a3",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Indian-American Group Releases Safety Guide Amid Rising US Hostility",
+                "content": "An Indian-American advocacy group has released a crucial guide for Indians residing in the US. Amidst a concerning rise in anti-Indian sentiment and hate crimes, this resource equips individuals with vital information on legal rights, reporting incidents, and accessing support services. It aims to empower the community, promoting safety and awareness in the face of increasing hostility."
+            },
+            "kn": {
+                "title": "ಹೆಚ್ಚುತ್ತಿರುವ ಅಮೆರಿಕದ ದ್ವೇಷದ ನಡುವೆ ಭಾರತೀಯ-ಅಮೆರಿಕನ್ನರಿಗೆ ಸುರಕ್ಷತಾ ಮಾರ್ಗದರ್ಶಿ",
+                "content": "ಅಮೆರಿಕದಲ್ಲಿ ವಾಸಿಸುವ ಭಾರತೀಯರಿಗಾಗಿ ಭಾರತೀಯ-ಅಮೆರಿಕನ್ ವಕಾಲತ್ತು ಗುಂಪೊಂದು ನಿರ್ಣಾಯಕ ಮಾರ್ಗದರ್ಶಿಯನ್ನು ಬಿಡುಗಡೆ ಮಾಡಿದೆ. ಭಾರತ ವಿರೋಧಿ ಭಾವನೆ ಮತ್ತು ದ್ವೇಷ ಅಪರಾಧಗಳ ಹೆಚ್ಚಳದ ನಡುವೆ, ಈ ಸಂಪನ್ಮೂಲವು ಕಾನೂನು ಹಕ್ಕುಗಳು, ಘಟನೆಗಳನ್ನು ವರದಿ ಮಾಡುವುದು ಮತ್ತು ಬೆಂಬಲ ಸೇವೆಗಳನ್ನು ಪ್ರವೇಶಿಸುವ ಬಗ್ಗೆ ಪ್ರಮುಖ ಮಾಹಿತಿಯನ್ನು ಒದಗಿಸುತ್ತದೆ. ಹೆಚ್ಚುತ್ತಿರುವ ದ್ವೇಷದ ಸಂದರ್ಭದಲ್ಲಿ ಸಮುದಾಯವನ್ನು ಸಬಲೀಕರಣಗೊಳಿಸುವುದು, ಸುರಕ್ಷತೆ ಮತ್ತು ಜಾಗೃತಿಯನ್ನು ಉತ್ತೇಜಿಸುವುದು ಇದರ ಗುರಿಯಾಗಿದೆ."
+            },
+            "mr": {
+                "title": "अमेरिकेतील वाढत्या शत्रुत्वाच्या पार्श्वभूमीवर भारतीय-अमेरिकन गटाकडून सुरक्षा मार्गदर्शक जारी",
+                "content": "अमेरिकेत स्थायिक झालेल्या भारतीयांसाठी एका भारतीय-अमेरिकन वकिली गटाने महत्त्वपूर्ण मार्गदर्शक पुस्तिका प्रसिद्ध केली आहे. भारतीयांविरुद्धच्या वाढत्या भावना आणि द्वेषपूर्ण गुन्हे वाढत असताना, हे संसाधन कायदेशीर अधिकार, घटनांची तक्रार करणे आणि समर्थन सेवांपर्यंत पोहोचण्याबद्दल आवश्यक माहिती पुरवते. वाढत्या शत्रुत्वाच्या परिस्थितीत समुदायाला सक्षम करणे, सुरक्षा आणि जागरूकतेला प्रोत्साहन देणे हा याचा उद्देश आहे."
+            },
+            "hi": {
+                "title": "अमेरिकी शत्रुता के बीच भारतीय-अमेरिकियों के लिए सुरक्षा गाइड जारी",
+                "content": "अमेरिकी में रह रहे भारतीयों के लिए एक भारतीय-अमेरिकी वकालत समूह ने एक महत्वपूर्ण गाइड जारी की है। भारत-विरोधी भावना और घृणा अपराधों में चिंताजनक वृद्धि के बीच, यह संसाधन व्यक्तियों को कानूनी अधिकारों, घटनाओं की रिपोर्टिंग और सहायता सेवाओं तक पहुँचने के बारे में महत्वपूर्ण जानकारी प्रदान करता है। इसका उद्देश्य बढ़ते हुए वैमनस्य के सामने समुदाय को सशक्त बनाना, सुरक्षा और जागरूकता को बढ़ावा देना है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129890871,imgsize-124454.cms",
+        "link": "https://timesofindia.indiatimes.com/world/us/know-your-rights-iaac-releases-guide-for-indians-living-in-america-amid-rising-hostility/articleshow/129890871.cms",
+        "date": "2026-03-30T09:42:49+05:30"
+    },
+    {
         "id": "254d9ac3",
         "category": "IPL Scoop",
         "translations": {
@@ -1973,30 +1998,5 @@
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdm93WWM3U0laQlJfN3dBS1BQZUZJT1BfUHJBQktMem9DVkZjR2Mtc2Fvb2RDQXJmSW5hY0ZHdC1IUXNpQk12a1AzVm5XTEZuZ3NyaDlJSTNKbnRQQzB1bEo2Rk1mdHpCalotSzJnYVdpbmYxN2RUemRKNmxSOFRrSFJDYU5zR29jN1dNanctaTk2ZmtEQmRhY29YbllmeDVrdkdqeVZfT0lzNEpxRVRCbHgzbE9BWlZ1bDhFY2twYmdiVWgzZmFIWl9Sc3B4dkhOVzNYdzY2STDSAd4BQVVfeXFMUDE3aXJJUERwMlVnZ3R1cGprQUZDN0YxOTZ4Nk9MM2pNVU9DZVBjakduM1c4WWl3SGctUWxnLVZRN3pWR2RpMVRHMl9iOVVIZ19UMUZwY0QxeHJCeHotZGtkcFY5d2JnZFE0V29aWHZzbWdqWTBaNXM1dnJKdGZUbkxnMHlURkFWUnZFeUxQZUdNZjJ0dXRrYno0MHVZOU9BOFZkMlM3OVhEUVUyTDc2Y0hxQmJrSVRKX2F6SEFMNWVmY0J2dFBVNGZXcExjWWNuUHVsWWVXbHc3dEM0WVFn?oc=5",
         "date": "Sun, 29 Mar 2026 00:21:22 GMT"
-    },
-    {
-        "id": "4b3f8772",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "RCB Makes IPL History with Fastest 200+ Chase",
-                "content": "Royal Challengers Bangalore (RCB) rewrote IPL history, achieving the fastest-ever 200+ run chase. Their incredible batting display saw them comfortably chase down a formidable target, securing a crucial victory. This record-breaking performance sets a new benchmark for aggression and efficiency in the tournament, thrilling fans."
-            },
-            "kn": {
-                "title": "RCB ಐಪಿಎಲ್ ಇತಿಹಾಸದಲ್ಲಿ ಅತಿ ವೇಗದ 200+ ರನ್ ಚೇಸ್‌ನೊಂದಿಗೆ ದಾಖಲೆ ಬರೆದಿದೆ",
-                "content": "ರಾಯಲ್ ಚಾಲೆಂಜರ್ಸ್ ಬೆಂಗಳೂರು (RCB) ಐಪಿಎಲ್ ಇತಿಹಾಸವನ್ನು ಪುನಃ ಬರೆದಿದೆ, ಅತಿ ವೇಗದ 200+ ರನ್ ಗುರಿ ಬೆನ್ನಟ್ಟಿ ಸಾಧನೆ ಮಾಡಿದೆ. ಅವರ ಅದ್ಭುತ ಬ್ಯಾಟಿಂಗ್ ಪ್ರದರ್ಶನವು ಒಂದು ಬೃಹತ್ ಗುರಿಯನ್ನು ಸುಲಭವಾಗಿ ಬೆನ್ನಟ್ಟಲು ಸಹಾಯ ಮಾಡಿತು, ನಿರ್ಣಾಯಕ ವಿಜಯವನ್ನು ಭದ್ರಪಡಿಸಿತು. ಈ ದಾಖಲೆ ಮುರಿಯುವ ಪ್ರದರ್ಶನವು ಪಂದ್ಯಾವಳಿಯಲ್ಲಿ ಆಕ್ರಮಣಶೀಲತೆ ಮತ್ತು ದಕ್ಷತೆಗೆ ಹೊಸ ಮಾನದಂಡವನ್ನು ನಿಗದಿಪಡಿಸುತ್ತದೆ, ಅಭಿಮಾನಿಗಳನ್ನು ರೋಮಾಂಚನಗೊಳಿಸಿದೆ."
-            },
-            "mr": {
-                "title": "RCB ने सर्वात जलद 200+ धावांचा पाठलाग करत IPL इतिहासात नवा विक्रम नोंदवला.",
-                "content": "रॉयल चॅलेंजर्स बेंगळुरू (RCB) ने IPL इतिहासात सर्वात जलद 200+ धावांचा पाठलाग करत नवा इतिहास घडवला. त्यांच्या अविश्वसनीय फलंदाजी प्रदर्शनाने त्यांनी एक मोठा लक्ष्य सहजपणे पूर्ण करत महत्त्वपूर्ण विजय मिळवला. हा विक्रम मोडणारा पराक्रम स्पर्धेतील आक्रमकता आणि कार्यक्षमतेसाठी एक नवीन बेंचमार्क सेट करतो, ज्यामुळे चाहते उत्साहात आहेत."
-            },
-            "hi": {
-                "title": "RCB ने सबसे तेज़ 200+ रन का पीछा करके IPL इतिहास में रचा कीर्तिमान।",
-                "content": "रॉयल चैलेंजर्स बैंगलोर (RCB) ने आईपीएल इतिहास को फिर से लिखा है, सबसे तेज़ 200+ रनों का सफल पीछा किया है। उनके अविश्वसनीय बल्लेबाजी प्रदर्शन ने उन्हें आसानी से एक बड़े लक्ष्य का पीछा करने और एक महत्वपूर्ण जीत हासिल करने में मदद की। यह रिकॉर्ड-तोड़ प्रदर्शन टूर्नामेंट में आक्रामकता और दक्षता के लिए एक नया मानदंड स्थापित करता है, जिससे प्रशंसक रोमांचित हैं।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNVVJNaG95cXVieGZQSnJGTGtGR1o2VXBMbFh2WnIxeWZ1T0ZyVUZZNDREcGc0U2JsMVhmZDRTZnFsYjRPOHdEckRrODlTQWZMaDVmV083cFVtRnMzWnV6cHZHR2x1dEdrRUpaczlCRjE0WDhpd2JrQjNRQVhqaDVKcWIzbHhGRUo2MGlmb2hiNENtb2hIdzdUbDRSRnk4SnVadk5WZXp0YTQzR2kzZ3dXNHdpYWtwTExvNklSLTVaaWVfckNJUnNWZkE3REVNV2Y2ZWFXenREelZsRF9QV3FGaTdNSU8xNWM4OXhn0gHwAUFVX3lxTFBORU50RzZMWFFoaEdTRTh1VmU0N2hNUXEyM0RiZm9KWDh2dnJCT1EtbU11dUxMaDJNQ19ZVGlaRE0tVzVSTW1GcUs0YlJDd1lzelBPLUNZRjl5d2hoM0trNmt5NFRxNEx3STAxak1RakZsR2VJeHRwV1RJYkhZZU02WV83cGtXSXhOU24zdnJzRWdGSUlzMWhlYmVkck10aWxxcjVWTU9IcTdWSDR6VmNNWGVfaUxWU0NxdkxWQXhQTU8tTnZYX1NhWDR1ZkpNTjdnZlFLa1lDNDFEOVdhUG9ReV9CclV0NlhuVWFkTzJKcA?oc=5",
-        "date": "Sun, 29 Mar 2026 02:41:00 GMT"
     }
 ]
