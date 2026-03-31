@@ -1,5 +1,55 @@
 [
     {
+        "id": "a5ade8a5",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "BCCI Mourns Demise of IPL Broadcast Engineer",
+                "content": "BCCI announced with profound grief the sudden demise of broadcast engineer Richard Tims on May 8 in the UK. Tims was a vital member of the IPL 2026 broadcast team, playing a crucial role in its technical operations. The cricket board extended heartfelt condolences to his family and colleagues, acknowledging his significant contributions to the sport's broadcast quality."
+            },
+            "kn": {
+                "title": "BCCI ಐಪಿಎಲ್ ಪ್ರಸಾರ ಎಂಜಿನಿಯರ್ ನಿಧನಕ್ಕೆ ಸಂತಾಪ",
+                "content": "BCCI ಮೇ 8 ರಂದು UK ನಲ್ಲಿ ಪ್ರಸಾರ ಎಂಜಿನಿಯರ್ ರಿಚರ್ಡ್ ಟಿಮ್ಸ್ ಅವರ ಆಕಸ್ಮಿಕ ನಿಧನಕ್ಕೆ ತೀವ್ರ ದುಃಖ ವ್ಯಕ್ತಪಡಿಸಿದೆ. ಟಿಮ್ಸ್ IPL 2026 ಪ್ರಸಾರ ತಂಡದ ಪ್ರಮುಖ ಸದಸ್ಯರಾಗಿದ್ದು, ಅದರ ತಾಂತ್ರಿಕ ಕಾರ್ಯಾಚರಣೆಗಳಲ್ಲಿ ನಿರ್ಣಾಯಕ ಪಾತ್ರ ವಹಿಸಿದ್ದರು. ಕ್ರಿಕೆಟ್ ಮಂಡಳಿಯು ಅವರ ಕುಟುಂಬ ಮತ್ತು ಸಹೋದ್ಯೋಗಿಗಳಿಗೆ ಸಂತಾಪ ಸೂಚಿಸಿದ್ದು, ಕ್ರೀಡೆಯ ಪ್ರಸಾರ ಗುಣಮಟ್ಟಕ್ಕೆ ಅವರ ಮಹತ್ವದ ಕೊಡುಗೆಗಳನ್ನು ಗುರುತಿಸಿದೆ."
+            },
+            "mr": {
+                "title": "बीसीसीआयने आयपीएल प्रसारण अभियंत्याच्या निधनावर शोक व्यक्त केला",
+                "content": "बीसीसीआयने यूकेमध्ये 8 मे रोजी प्रसारण अभियंता रिचर्ड टिम्स यांच्या आकस्मिक निधनाबद्दल तीव्र दुःख व्यक्त केले. टिम्स हे आयपीएल 2026 प्रसारण संघाचे एक महत्त्वाचे सदस्य होते आणि त्यांनी तांत्रिक कार्यामध्ये महत्त्वपूर्ण भूमिका बजावली होती. क्रिकेट बोर्डाने त्यांच्या कुटुंबियांना आणि सहकाऱ्यांना हार्दिक श्रद्धांजली वाहिली आणि खेळाच्या प्रसारण गुणवत्तेतील त्यांच्या योगदानाची दखल घेतली."
+            },
+            "hi": {
+                "title": "बीसीसीआई ने आईपीएल प्रसारण इंजीनियर के निधन पर शोक व्यक्त किया",
+                "content": "बीसीसीआई ने 8 मई को यूके में प्रसारण इंजीनियर रिचर्ड टिम्स के आकस्मिक निधन पर गहरा दुख व्यक्त किया। टिम्स आईपीएल 2026 प्रसारण टीम के एक महत्वपूर्ण सदस्य थे, जिन्होंने इसके तकनीकी संचालन में महत्वपूर्ण भूमिका निभाई थी। क्रिकेट बोर्ड ने उनके परिवार और सहयोगियों के प्रति हार्दिक संवेदना व्यक्त की और खेल की प्रसारण गुणवत्ता में उनके महत्वपूर्ण योगदान को स्वीकार किया।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOY1pITjRiTUdpOHM2dzBwanNucDRJUFB6aEQ2M0JMZnNQMTIzWkZyNmtoV0VkRzJKeWh6dnRCSk80blNqTFRsdTdxWnR3cUQ4emJfR0pEOXdQZkVKTGp0MjU1VlFiLWxnMjhqakljemZobXBERHBmSDdJcUpkOW5FT3BGUXdfNUNJcFhUaGhaZUtrSjJkMlhLajBua1BKRUlnOENIMXdpbkpiVGRZMGl4VldSamlMa2pONG5PMnc4U19PZFZpSExGa3NOekw3LVNaNTBaTk80czdrb0tRdVJoMVRyaUtLR1A4c3fSAe8BQVVfeXFMT0tHY2o2ZkdIR1BSX2UyQ2dRZEZaM2ZqTmlLQ1hwY29nZmxGN19ERHQ0cGhVbXM2dllIWUNCWTRnTmpkaGJabkgtbXFBMEtldjNUZ042VlY2djRia3FiWHF3RU8zdzlmZjY5ZXd0N1J5OEVjUmU3V3BjVE5zWlhFS0VpdEpGTzNzeHliVVBMYVdWVTJFOGJSSWIzOE83YkZkQ2pCSmJ4WWtWLTRkVFhZRG1IM0U2UUtJTWJDQUlTVHJGRVY1eE5EVmdHcUYzd2NqUHh1MzEwQnRTd2ktQzRlWDZ1bzcxSVVKWlk5eXVqOVE?oc=5",
+        "date": "Tue, 31 Mar 2026 12:05:00 GMT"
+    },
+    {
+        "id": "5c4d64f1",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "IPL Preview: PBKS vs GT Showdown",
+                "content": "Get ready for the exciting IPL clash between Punjab Kings and Gujarat Titans! This preview covers everything you need: predicted playing XIs for both teams, a detailed pitch report from the venue, the latest weather forecast for match day, and an expert match prediction. Stay ahead with all the crucial insights before the action begins. Who will dominate?"
+            },
+            "kn": {
+                "title": "ಐಪಿಎಲ್ ಪೂರ್ವವೀಕ್ಷಣೆ: ಪಿಬಿಕೆಎಸ್ ವರ್ಸಸ್ ಜಿಟಿ ಮುಖಾಮುಖಿ",
+                "content": "ಪಂಜಾಬ್ ಕಿಂಗ್ಸ್ ಮತ್ತು ಗುಜರಾತ್ ಟೈಟಾನ್ಸ್ ನಡುವಿನ ರೋಮಾಂಚಕ ಐಪಿಎಲ್ ಹಣಾಹಣಿಗೆ ಸಿದ್ಧರಾಗಿ! ಈ ಪೂರ್ವವೀಕ್ಷಣೆಯು ನಿಮಗೆ ಬೇಕಾದ ಎಲ್ಲವನ್ನೂ ಒಳಗೊಂಡಿದೆ: ಎರಡೂ ತಂಡಗಳ ಸಂಭಾವ್ಯ ಆಡುವ XI, ಕ್ರೀಡಾಂಗಣದ ಪಿಚ್ ವರದಿ, ಪಂದ್ಯದ ದಿನದ ಇತ್ತೀಚಿನ ಹವಾಮಾನ ಮುನ್ಸೂಚನೆ ಮತ್ತು ತಜ್ಞರ ಪಂದ್ಯ ಭವಿಷ್ಯ. ಆಕ್ಷನ್ ಪ್ರಾರಂಭವಾಗುವ ಮೊದಲು ಎಲ್ಲಾ ನಿರ್ಣಾಯಕ ಒಳನೋಟಗಳೊಂದಿಗೆ ಮುಂದೆ ಇರಿ. ಯಾರು ಪ್ರಾಬಲ್ಯ ಸಾಧಿಸುತ್ತಾರೆ?"
+            },
+            "mr": {
+                "title": "आयपीएल पूर्वदृश्य: पीबीकेएस विरुद्ध जीटी टक्कर",
+                "content": "पंजाब किंग्स आणि गुजरात टायटन्स यांच्यातील रोमांचक आयपीएल सामन्यासाठी सज्ज व्हा! या पूर्वदृश्यमध्ये तुम्हाला आवश्यक असलेली सर्व माहिती आहे: दोन्ही संघांचे संभाव्य प्लेइंग XI, मैदानाची सविस्तर खेळपट्टी अहवाल, सामन्याच्या दिवसाचा नवीनतम हवामान अंदाज आणि तज्ञांचे सामन्याबद्दलचे भाकीत. ॲक्शन सुरू होण्यापूर्वी सर्व महत्त्वाच्या माहितीसह अपडेटेड रहा. कोण वर्चस्व गाजवेल?"
+            },
+            "hi": {
+                "title": "आईपीएल पूर्वावलोकन: पीबीकेएस बनाम जीटी महामुकाबला",
+                "content": "पंजाब किंग्स और गुजरात टाइटन्स के बीच रोमांचक आईपीएल मुकाबले के लिए तैयार हो जाइए! यह पूर्वावलोकन आपको आवश्यक सभी जानकारी देता है: दोनों टीमों की संभावित प्लेइंग XI, स्टेडियम की विस्तृत पिच रिपोर्ट, मैच के दिन का नवीनतम मौसम पूर्वानुमान और एक विशेषज्ञ मैच भविष्यवाणी। एक्शन शुरू होने से पहले सभी महत्वपूर्ण जानकारियों के साथ अपडेटेड रहें। कौन हावी रहेगा?"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNZE1CMmVzckJSdGh2UV9ZZC1GamlYSEdTQzRmdHl4bnB3TUdsWDlpeU9FenBZc1QtYWlBZDFQYVpiV0V6cExidlR5TG5jZTZLNWtoWXVUS1RHdnBhRFViSUwwd1Q1YWVIS0dYdlRqdUZCZTJSUm9OZEwtX1NJTTJXYTRjYW5PaVhCeS1PSEwxcm1ES0FrZTZsWWt6bjlIeG9HdWo2Q1BDVHRtamhYVktFV2Y5ZDZVUG5LeFRnU0w2N04xM0dtc0FQSnRIUEEydFVOdVp2NmFCcC1MaDYxWU1hNnB6ZHk1U0hwT3VEbWw5dC1JWnBkYkdQNlRqbjU2cGU2N1RrQmp2anBLT2dIQnppN3EtWTNHZHJWT01fVVRGTG1TdEdk0gGqAkFVX3lxTE1vYWRYN2E1Vnh2Z0xtYjdJQkI1YWVOa3F1YlU4amV2TEFxVV96SnBZX3VVVm92NFhZWXFYUUgxZTl5YUNCdVlzTVFRWDZTZzY5VmdvOGdJVzl3Ump4aE9MMlpSdzhZZjR1TDBHak9PeEJCWERvbFRaVFVNT3lsbzlrYTdCN3NuU2xUOUZVQnpaeHJxc01Eb3lBQ3Zfdk12bkozRXlqcHgtNWRJUXpnN3B5N2lsNXBXblI5LUZVbzV6cDhPS0tGRnMycUU1Ri1EZ1MwWENOSFhqSjE0UVE3ZzVWdDA4RFlucUZBdVdoNVR4UjBuRlhEZGlKeWc1amd3SEZCY0J2YkQ4alcyUDREVzZSY19QdndHbnVrYVJodkFibjAwSFVuM1VqaWc?oc=5",
+        "date": "Tue, 31 Mar 2026 08:05:00 GMT"
+    },
+    {
         "id": "272612ae",
         "category": "Belagavi Core Politics",
         "translations": {
@@ -1948,55 +1998,5 @@
         "image": "https://static.toiimg.com/photo/msid-129890311,imgsize-68116.cms",
         "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/record-broken-rohit-sharma-dethrones-virat-kohli-with-kkr-carnage/articleshow/129890260.cms",
         "date": "2026-03-30T08:25:07+05:30"
-    },
-    {
-        "id": "11dceb53",
-        "category": "Sports",
-        "translations": {
-            "en": {
-                "title": "MI Breaks Jinx: Hardik Wants Shardul to Anchor Future",
-                "content": "Mumbai Indians snapped a 13-year opening match losing streak with a six-wicket victory over KKR. Skipper Hardik Pandya lauded Shardul Thakur's 3/39 performance, expressing his desire for Thakur to finish his career at MI, stating 'enough hopping.' A robust opening partnership between Rohit Sharma and Ryan Rickelton anchored the successful chase."
-            },
-            "kn": {
-                "title": "ಎಂಐನಿಂದ ದುರದೃಷ್ಟದ ಸರಪಳಿ ಭಗ್ನ: ಹಾರ್ದಿಕ್ ಠಾಕೂರ್ ಭವಿಷ್ಯವನ್ನು ಭದ್ರಪಡಿಸಲು ಬಯಸಿದ್ದಾರೆ",
-                "content": "ಮುಂಬೈ ಇಂಡಿಯನ್ಸ್ ಕೆಕೆಆರ್ ವಿರುದ್ಧ ಆರು ವಿಕೆಟ್‌ಗಳ ಜಯದೊಂದಿಗೆ 13 ವರ್ಷಗಳ ಉದ್ಘಾಟನಾ ಪಂದ್ಯದ ಸೋಲಿನ ಸರಪಳಿಯನ್ನು ಭಗ್ನಗೊಳಿಸಿತು. ನಾಯಕ ಹಾರ್ದಿಕ್ ಪಾಂಡ್ಯ ಶಾರ್ದೂಲ್ ಠಾಕೂರ್ ಅವರ 3/39 ಪ್ರದರ್ಶನವನ್ನು ಶ್ಲಾಘಿಸಿದರು, ಠಾಕೂರ್ ತಮ್ಮ ವೃತ್ತಿಜೀವನವನ್ನು ಎಂಐನಲ್ಲಿಯೇ ಮುಗಿಸಬೇಕು ಎಂದು 'ಸಾಕು ಈ ಓಡಾಟ' ಎಂದು ಹೇಳುತ್ತಾ ತಮ್ಮ ಆಸೆಯನ್ನು ವ್ಯಕ್ತಪಡಿಸಿದರು. ರೋಹಿತ್ ಶರ್ಮಾ ಮತ್ತು ರಿಯಾನ್ ರಿಕೆಲ್ಟನ್ ಅವರ ಬಲವಾದ ಆರಂಭಿಕ ಜೊತೆಯಾಟವು ಯಶಸ್ವಿ ಚೇಸ್‌ಗೆ ಆಧಾರವಾಯಿತು."
-            },
-            "mr": {
-                "title": "मुंबई इंडियन्सचा पराभवाचा शाप मोडला: हार्दिकला शार्दूलने भविष्य मुंबईतच घडवावे असे वाटते",
-                "content": "मुंबई इंडियन्सने केकेआरविरुद्ध सहा गडी राखून विजय मिळवत १३ वर्षांची सलामीच्या सामन्यातील पराभवाची मालिका खंडित केली. कर्णधार हार्दिक पंड्याने शार्दूल ठाकूरच्या ३/३९ च्या कामगिरीचे कौतुक केले आणि ठाकूरने 'पुरे झाले हे इकडे-तिकडे फिरणे' असे म्हणत आपले करिअर मुंबई इंडियन्समध्येच पूर्ण करावे अशी इच्छा व्यक्त केली. रोहित शर्मा आणि रायन रिकलटन यांच्या मजबूत सलामीच्या भागीदारीने यशस्वी पाठलागाचा पाया रचला."
-            },
-            "hi": {
-                "title": "एमआई ने तोड़ा अपशकुन: हार्दिक चाहते हैं शार्दुल अपना भविष्य मुंबई में ही बनाएं",
-                "content": "मुंबई इंडियंस ने केकेआर के खिलाफ छह विकेट की जीत के साथ 13 साल की शुरुआती मैच हारने की लकीर तोड़ दी। कप्तान हार्दिक पंड्या ने शार्दुल ठाकुर के 3/39 के प्रदर्शन की सराहना की और 'काफी हुआ यह इधर-उधर भटकना' कहते हुए ठाकुर के एमआई में ही अपना करियर खत्म करने की इच्छा व्यक्त की। रोहित शर्मा और रयान रिकलटन के बीच एक मजबूत शुरुआती साझेदारी ने सफल पीछा करने की नींव रखी।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129891800,imgsize-46022.cms",
-        "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/enough-hopping-hardik-pandya-wants-shardul-thakur-to-finish-career-at-mumbai-indians/articleshow/129891747.cms",
-        "date": "2026-03-30T10:32:20+05:30"
-    },
-    {
-        "id": "793e1c6e",
-        "category": "Sports",
-        "translations": {
-            "en": {
-                "title": "PSL Security Breach: Afridi & Raza Under Scrutiny",
-                "content": "PSL captains Shaheen Afridi and Sikandar Raza face a security breach controversy. They allegedly hosted four guests in Raza's room until 1:25 AM, defying hotel protocols. Security repeatedly denied it, but Raza insists he sought to meet family, claiming both players were unaware of updated SOPs. This incident raises questions about player accountability and security enforcement within the league."
-            },
-            "kn": {
-                "title": "ಪಿಎಸ್‌ಎಲ್ ಭದ್ರತಾ ಉಲ್ಲಂಘನೆ: ಅಫ್ರಿದಿ ಮತ್ತು ರಜಾ ತನಿಖೆಗೊಳಪಟ್ಟರು",
-                "content": "ಪಿಎಸ್‌ಎಲ್ ನಾಯಕರಾದ ಶಾಹೀನ್ ಅಫ್ರಿದಿ ಮತ್ತು ಸಿಕಂದರ್ ರಜಾ ಭದ್ರತಾ ಉಲ್ಲಂಘನೆ ವಿವಾದ ಎದುರಿಸುತ್ತಿದ್ದಾರೆ. ರಜಾ ಅವರ ಕೊಠಡಿಯಲ್ಲಿ ನಾಲ್ಕು ಅತಿಥಿಗಳನ್ನು ಬೆಳಗ್ಗೆ 1:25 ರವರೆಗೆ ಹೋಸ್ಟ್ ಮಾಡುವ ಮೂಲಕ ಹೋಟೆಲ್ ನಿಯಮಗಳನ್ನು ಉಲ್ಲಂಘಿಸಿದ್ದಾರೆ ಎನ್ನಲಾಗಿದೆ. ಭದ್ರತಾ ಸಿಬ್ಬಂದಿ ಇದನ್ನು ಪದೇ ಪದೇ ನಿರಾಕರಿಸಿದರೂ, ರಜಾ ಕುಟುಂಬವನ್ನು ಭೇಟಿಯಾಗಲು ಕೇಳಿಕೊಂಡಿದ್ದೇನೆ ಮತ್ತು ಇಬ್ಬರೂ ಆಟಗಾರರಿಗೆ ನವೀಕರಿಸಿದ ಎಸ್‌ಒಪಿಗಳ ಬಗ್ಗೆ ತಿಳಿದಿರಲಿಲ್ಲ ಎಂದು ಹೇಳಿದ್ದಾರೆ. ಈ ಘಟನೆಯು ಲೀಗ್‌ನಲ್ಲಿ ಆಟಗಾರರ ಹೊಣೆಗಾರಿಕೆ ಮತ್ತು ಭದ್ರತಾ ಜಾರಿ ಬಗ್ಗೆ ಪ್ರಶ್ನೆಗಳನ್ನು ಹುಟ್ಟುಹಾಕಿದೆ."
-            },
-            "mr": {
-                "title": "पीएसएल सुरक्षा भंग: आफ्रिदी आणि रझा चौकशीच्या घेऱ्यात",
-                "content": "पीएसएल कर्णधार शाहीन आफ्रिदी आणि सिकंदर रझा सुरक्षा भंग वादामुळे अडचणीत आहेत. त्यांनी रझाच्या खोलीत पहाटे 1:25 पर्यंत चार पाहुण्यांना ठेवून हॉटेलचे नियम मोडले असल्याचा आरोप आहे. सुरक्षा कर्मचाऱ्यांनी वारंवार नकार दिला तरी, रझाचा आग्रह आहे की त्याने कुटुंबाला भेटण्याची विनंती केली होती आणि दोन्ही खेळाडूंना अद्ययावित एसओपीची माहिती नव्हती. या घटनेमुळे लीगमध्ये खेळाडूंची जबाबदारी आणि सुरक्षा अंमलबजावणीबद्दल प्रश्न निर्माण झाले आहेत."
-            },
-            "hi": {
-                "title": "पीएसएल सुरक्षा उल्लंघन: अफरीदी और रजा जांच के दायरे में",
-                "content": "पीएसएल कप्तान शाहीन अफरीदी और सिकंदर रजा एक सुरक्षा उल्लंघन विवाद में घिर गए हैं। कथित तौर पर, उन्होंने रजा के कमरे में सुबह 1:25 बजे तक चार मेहमानों की मेजबानी कर होटल प्रोटोकॉल का उल्लंघन किया। सुरक्षा ने बार-बार इनकार किया, लेकिन रजा का कहना है कि उन्होंने परिवार से मिलने का अनुरोध किया था और दोनों खिलाड़ियों को अपडेटेड एसओपी की जानकारी नहीं थी। इस घटना से लीग के भीतर खिलाड़ियों की जवाबदेही और सुरक्षा प्रवर्तन पर सवाल उठते हैं।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129892578,imgsize-51388.cms",
-        "link": "https://timesofindia.indiatimes.com/sports/cricket/news/psl-hotel-security-breach-4-guests-till-125-am-player-says-afridi-ne-koi-manmani-/articleshow/129892516.cms",
-        "date": "2026-03-30T11:27:47+05:30"
     }
 ]
