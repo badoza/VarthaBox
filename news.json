@@ -1,5 +1,30 @@
 [
     {
+        "id": "f67a6312",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "Elon Musk Defends Grok Imagine's AGI Role",
+                "content": "Following the Sora shutdown, Elon Musk asserts that Grok Imagine is not a failure but crucial for achieving Artificial General Intelligence (AGI). He emphasizes its indispensable role in developing advanced AI, countering any doubts raised by recent developments. Musk's statement highlights the continuing race for sophisticated AI capabilities and XAI's commitment."
+            },
+            "kn": {
+                "title": "ಎಲೋನ್ ಮಸ್ಕ್ ಗ್ರೋಕ್ ಇಮ್ಯಾಜಿನ್‌ನ AGI ಪಾತ್ರವನ್ನು ಸಮರ್ಥಿಸುತ್ತಾರೆ",
+                "content": "ಸೋರಾ ಸ್ಥಗಿತಗೊಂಡ ನಂತರ, ಎಲೋನ್ ಮಸ್ಕ್ ಗ್ರೋಕ್ ಇಮ್ಯಾಜಿನ್ ವೈಫಲ್ಯವಲ್ಲ ಆದರೆ ಕೃತಕ ಸಾಮಾನ್ಯ ಬುದ್ಧಿಮತ್ತೆ (AGI) ಸಾಧಿಸಲು ನಿರ್ಣಾಯಕ ಎಂದು ಪ್ರತಿಪಾದಿಸುತ್ತಾರೆ. ಅವರು ಸುಧಾರಿತ AI ಅಭಿವೃದ್ಧಿಯಲ್ಲಿ ಅದರ ಅನಿವಾರ್ಯ ಪಾತ್ರವನ್ನು ಒತ್ತಿಹೇಳುತ್ತಾರೆ, ಇತ್ತೀಚಿನ ಬೆಳವಣಿಗೆಗಳಿಂದ ಉಂಟಾದ ಯಾವುದೇ ಸಂದೇಹಗಳನ್ನು ನಿವಾರಿಸುತ್ತಾರೆ. ಮಸ್ಕ್ ಅವರ ಹೇಳಿಕೆಯು ಅತ್ಯಾಧುನಿಕ AI ಸಾಮರ್ಥ್ಯಗಳು ಮತ್ತು XAI ನ ಬದ್ಧತೆಗಾಗಿ ನಡೆಯುತ್ತಿರುವ ಸ್ಪರ್ಧೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "इलॉन मस्कने ग्रोक इमॅजिनच्या AGI भूमिकेचे समर्थन केले",
+                "content": "सोरा बंद झाल्यानंतर, इलॉन मस्कने दावा केला आहे की ग्रोक इमॅजिन अपयशी नाही, तर कृत्रिम सामान्य बुद्धिमत्ता (AGI) साध्य करण्यासाठी ते महत्त्वाचे आहे. त्यांनी प्रगत एआयच्या विकासात त्याची अपरिहार्य भूमिका अधोरेखित केली आहे, ज्यामुळे अलीकडील घडामोडींमुळे निर्माण झालेल्या कोणत्याही शंका दूर होतात. मस्कच्या विधानामुळे अत्याधुनिक एआय क्षमता आणि XAI च्या वचनबद्धतेसाठी सुरू असलेली स्पर्धा अधोरेखित होते."
+            },
+            "hi": {
+                "title": "एलन मस्क ने ग्रोक इमेजिन की AGI भूमिका का बचाव किया",
+                "content": "सोरा के बंद होने के बाद, एलन मस्क ने दावा किया है कि ग्रोक इमेजिन कोई विफलता नहीं है, बल्कि आर्टिफिशियल जनरल इंटेलिजेंस (AGI) हासिल करने के लिए महत्वपूर्ण है। वह उन्नत एआई के विकास में इसकी अनिवार्य भूमिका पर जोर देते हैं, हाल के घटनाक्रमों से उत्पन्न किसी भी संदेह का खंडन करते हैं। मस्क का बयान परिष्कृत एआई क्षमताओं और XAI की प्रतिबद्धता के लिए जारी दौड़ को उजागर करता है।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMzVPZzF1N3BsbDVDTTZ4emdadHNBUHFRdEVLeUtudFJJVGVpVXI3Ymx4dHpJbExwc2x1UF9sdEpkeU5HRHo5R2ZoRkxXNE5JS2l6T3BSNkxPTWdoRjRTM3ZBQ2h4dDV5NFl6bUZqMzQtMVNKTm1jZGZjVHZzZGI3S1VWNWJScWpyUXVsQ2NYU0dLLW8xUHI5YWljd2FSS1RzQzJyel9YTWJtZlhHbm41V1BvMmU2V0dobHRvS3pfOVluMDBUM1VvOTJYR1RMVHNzODBqSDZrWDR6WlRtTkc0NUhHc9IB4wFBVV95cUxNMzVPZzF1N3BsbDVDTTZ4emdadHNBUHFRdEVLeUtudFJJVGVpVXI3Ymx4dHpJbExwc2x1UF9sdEpkeU5HRHo5R2ZoRkxXNE5JS2l6T3BSNkxPTWdoRjRTM3ZBQ2h4dDV5NFl6bUZqMzQtMVNKTm1jZGZjVHZzZGI3S1VWNWJScWpyUXVsQ2NYU0dLLW8xUHI5YWljd2FSS1RzQzJyel9YTWJtZlhHbm41V1BvMmU2V0dobHRvS3pfOVluMDBUM1VvOTJYR1RMVHNzODBqSDZrWDR6WlRtTkc0NUhHcw?oc=5",
+        "date": "Tue, 31 Mar 2026 07:55:09 GMT"
+    },
+    {
         "id": "8a2fd1c7",
         "category": "IPL Scoop",
         "translations": {
@@ -1973,30 +1998,5 @@
         "image": "https://static.toiimg.com/photo/msid-129887134,imgsize-162118.cms",
         "link": "https://timesofindia.indiatimes.com/world/us/fake-windows-blocked-views-and-stairs-leading-nowhere-how-trumps-300-million-white-house-ballroom-was-trashed-by-architects/articleshow/129887134.cms",
         "date": "2026-03-30T02:26:01+05:30"
-    },
-    {
-        "id": "83188e3e",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "LaGuardia Crash: Ejected 320ft, She Lived",
-                "content": "Solange Tremblay, a Canadian flight attendant, is a miraculous survivor. She defied incredible odds, surviving a harrowing LaGuardia plane crash despite being ejected a staggering 320 feet from the wreckage. Her incredible story of endurance and courage showcases unparalleled human resilience. Tremblay's survival isn't just news; it's a powerful testament to the indomitable spirit, making her a true symbol of hope and strength amidst adversity."
-            },
-            "kn": {
-                "title": "ಲಾಗಾರ್ಡಿಯಾ ಅಪಘಾತ: 320 ಅಡಿ ಹೊರಬಿದ್ದು ಬದುಕಿದಳು",
-                "content": "ಕೆನಡಾದ ವಿಮಾನ ಪರಿಚಾರಕಿ ಸೊಲಾಂಜ್ ಟ್ರೆಂಬ್ಲೆ ಅದ್ಭುತವಾಗಿ ಬದುಕುಳಿದವಳು. ಭಯಾನಕ ಲಾಗಾರ್ಡಿಯಾ ವಿಮಾನ ಅಪಘಾತದಲ್ಲಿ, ಅವಶೇಷಗಳಿಂದ 320 ಅಡಿ ದೂರಕ್ಕೆ ಎಸೆಯಲ್ಪಟ್ಟರೂ, ಅವರು ಬದುಕುಳಿದು ನಂಬಲಸಾಧ್ಯ ಅಡೆತಡೆಗಳನ್ನು ಮೆಟ್ಟಿನಿಂತರು. ಅವರ ಅಸಾಧಾರಣ ಸಹಿಷ್ಣುತೆ ಮತ್ತು ಧೈರ್ಯದ ಕಥೆಯು ಸಾಟಿಯಿಲ್ಲದ ಮಾನವ ಸ್ಥಿತಿಸ್ಥಾಪಕತ್ವವನ್ನು ಪ್ರದರ್ಶಿಸುತ್ತದೆ. ಟ್ರೆಂಬ್ಲೆಯವರ ಬದುಕುಳಿಯುವಿಕೆ ಕೇವಲ ಸುದ್ದಿಯಲ್ಲ; ಇದು ಅಚಲವಾದ ಆತ್ಮಕ್ಕೆ ಪ್ರಬಲ ಸಾಕ್ಷಿಯಾಗಿದೆ, ಇದು ಅವರನ್ನು ವಿಪತ್ತಿನ ನಡುವೆಯೂ ಆಶಯ ಮತ್ತು ಶಕ್ತಿಯ ನಿಜವಾದ ಸಂಕೇತವನ್ನಾಗಿ ಮಾಡುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "लागार्डिया अपघात: 320 फूट फेकली जाऊनही ती वाचली",
-                "content": "कॅनडाची फ्लाइट अटेंडंट सोलेंज ट्रेम्बले एक चमत्कारी वाचलेली व्यक्ती आहे. लागार्डियाच्या भीषण विमान अपघातातून वाचून तिने अविश्वसनीय संकटांवर मात केली, ढिगाऱ्यातून 320 फूट दूर फेकली जाऊनही. तिची अविश्वसनीय सहनशीलता आणि धैर्याची कथा अतुलनीय मानवी लवचिकता दर्शवते. ट्रेम्बलेचे वाचणे केवळ बातमी नाही; हे अदम्य आत्म्याचे एक शक्तिशाली प्रमाण आहे, ज्यामुळे ती प्रतिकूल परिस्थितीत आशा आणि सामर्थ्याचे खरे प्रतीक बनली आहे."
-            },
-            "hi": {
-                "title": "लागार्डिया दुर्घटना: 320 फीट दूर फेंके जाने के बाद भी बची",
-                "content": "कनाडाई फ्लाइट अटेंडेंट सोलांगे ट्रेम्बले एक चमत्कारी उत्तरजीवी हैं। उन्होंने लागार्डिया के एक भीषण विमान दुर्घटना में बचकर अविश्वसनीय बाधाओं को पार किया, मलबे से 320 फीट दूर फेंके जाने के बावजूद। उनकी सहनशीलता और साहस की अविश्वसनीय कहानी अद्वितीय मानवीय लचीलेपन को दर्शाती है। ट्रेम्बले का बचना सिर्फ खबर नहीं; यह अदम्य भावना का एक शक्तिशाली प्रमाण है, जो उन्हें प्रतिकूल परिस्थितियों में आशा और शक्ति का सच्चा प्रतीक बनाता है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129887104,imgsize-113842.cms",
-        "link": "https://timesofindia.indiatimes.com/world/us/who-is-solange-tremblay-canadian-flight-attendant-survives-laguardia-crash-after-being-ejected-320-feet/articleshow/129887104.cms",
-        "date": "2026-03-30T02:06:08+05:30"
     }
 ]
