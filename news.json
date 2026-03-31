@@ -1,5 +1,30 @@
 [
     {
+        "id": "a9d10fe6",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "Lindsey Vonn's Olympic Comeback Bid Begins",
+                "content": "Ski icon Lindsey Vonn, following a crash at the 2026 Winter Olympics, has begun her inspiring recovery. She's now taking crucial first steps, a significant milestone hinting at a potential return to the slopes. This early progress has sparked excitement, suggesting the legendary skier's career might not be over. Fans eagerly anticipate her next moves as she bravely navigates her challenging comeback journey."
+            },
+            "kn": {
+                "title": "ಲಿಂಡ್ಸೆ ವಾನ್ ಒಲಿಂಪಿಕ್ಸ್‌ಗೆ ಮರಳುವ ಪ್ರಯತ್ನ ಪ್ರಾರಂಭ",
+                "content": "2026ರ ಚಳಿಗಾಲದ ಒಲಿಂಪಿಕ್ಸ್‌ನಲ್ಲಿ ಅಪಘಾತಕ್ಕೀಡಾದ ನಂತರ, ಸ್ಕೀ ಐಕಾನ್ ಲಿಂಡ್ಸೆ ವಾನ್ ಸ್ಫೂರ್ತಿದಾಯಕ ಚೇತರಿಕೆ ಪ್ರಾರಂಭಿಸಿದ್ದಾರೆ. ಅವರು ಈಗ ಪ್ರಮುಖ ಮೊದಲ ಹೆಜ್ಜೆಗಳನ್ನು ಇಡುತ್ತಿದ್ದಾರೆ, ಇದು ಇಳಿಜಾರಿಗೆ ಸಂಭವನೀಯ ಮರಳುವಿಕೆಯ ಸುಳಿವು ನೀಡುವ ಮಹತ್ವದ ಮೈಲಿಗಲ್ಲು. ಈ ಆರಂಭಿಕ ಪ್ರಗತಿಯು ಉತ್ಸಾಹವನ್ನು ಹುಟ್ಟುಹಾಕಿದೆ, ಪೌರಾಣಿಕ ಸ್ಕೀಯರ್‌ನ ವೃತ್ತಿಜೀವನ ಮುಗಿದಿಲ್ಲ ಎಂದು ಸೂಚಿಸುತ್ತದೆ. ತಮ್ಮ ಸವಾಲಿನ ಮರುಪ್ರವೇಶದ ಪ್ರಯಾಣವನ್ನು ಧೈರ್ಯದಿಂದ ನಡೆಸುತ್ತಿರುವ ಅವರ ಮುಂದಿನ ನಡೆಗಳನ್ನು ಅಭಿಮಾನಿಗಳು ಕಾತರದಿಂದ ನಿರೀಕ್ಷಿಸುತ್ತಿದ್ದಾರೆ."
+            },
+            "mr": {
+                "title": "लिंडसे वॉनच्या ऑलिम्पिक पुनरागमनाचा प्रयत्न सुरू",
+                "content": "2026 च्या हिवाळी ऑलिम्पिकमधील अपघातानंतर, स्की आयकॉन लिंडसे वॉनने तिची प्रेरणादायी पुनर्प्राप्ती सुरू केली आहे. ती आता पहिली महत्त्वाची पाऊले उचलत आहे, जो बर्फाच्या उतारांवर संभाव्य पुनरागमनाचा संकेत देणारा एक महत्त्वाचा टप्पा आहे. या सुरुवातीच्या प्रगतीने उत्साह निर्माण केला आहे, ज्यामुळे या दिग्गज स्कीअरची कारकीर्द अजून संपलेली नाही असे सूचित होते. चाहते तिच्या आव्हानात्मक पुनरागमनाच्या प्रवासात तिच्या पुढील वाटचालीची आतुरतेने वाट पाहत आहेत."
+            },
+            "hi": {
+                "title": "लिंडसे वॉन की ओलंपिक वापसी की कोशिश शुरू",
+                "content": "2026 के शीतकालीन ओलंपिक में एक दुर्घटना के बाद, स्की आइकन लिंडसे वॉन ने अपनी प्रेरणादायक रिकवरी शुरू कर दी है। वह अब महत्वपूर्ण पहले कदम उठा रही हैं, जो ढलानों पर संभावित वापसी का संकेत देने वाला एक महत्वपूर्ण पड़ाव है। इस शुरुआती प्रगति ने उत्साह जगाया है, जिससे पता चलता है कि इस महान स्कीयर का करियर अभी खत्म नहीं हुआ है। प्रशंसक उनकी साहसिक वापसी यात्रा में उनके अगले कदमों का बेसब्री से इंतजार कर रहे हैं।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPRW1nY0ZPMzVCMUQ1RE1jSktaRUgwaGFMamhVNVJqUmsyLU8xbXgzTFp2b0huREJnbVVyc3lEZGpMT190MDJsMkFTczMxUGNoSlZJbHE1ZVlSYWlfMWgwWUZteTF6MjBJaC1sODVhZ0tXMmpGVU9IcGhZS19tYjhETHRnZ2hBR09Gb2J0TUMtSkVEeHlsM1ZOeml0clFRNjMwcHdUbWI2Wk1CaFlXeWd1V1ZVb2kwNjR4bG81NnpsTFZuM29tbnBMUmNpcHdaRkpIUzkyS2Zud1M3cGM3cXVyZnM3RHVsZmNjbU5LTHRmZkVONXJiX204ZzhubTAzTkcyZUJzTmdEdDNuQUxTTmpQZHBCd0RFZXdWQnh6TXQ3Smc1UQ?oc=5",
+        "date": "Tue, 31 Mar 2026 17:26:00 GMT"
+    },
+    {
         "id": "044d4f09",
         "category": "IPL Scoop",
         "translations": {
@@ -1973,30 +1998,5 @@
         "image": "https://static.toiimg.com/photo/msid-129893561,imgsize-54894.cms",
         "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/cameron-green-workload-row-who-calls-the-shots-kkr-or-cricket-australia/articleshow/129893512.cms",
         "date": "2026-03-30T12:15:13+05:30"
-    },
-    {
-        "id": "800c7abd",
-        "category": "Sports",
-        "translations": {
-            "en": {
-                "title": "Rahane Shrugs Off Critics, Focuses on Growth",
-                "content": "KKR captain Ajinkya Rahane, after his 67 against MI, dismissed criticism. He stated his focus is personal growth and white-ball improvement, not proving detractors wrong. Despite cramps and Bumrah's challenge, Rahane expressed satisfaction. He also backed struggling spinner Varun Chakravarthy, urging patience for KKR's inexperienced bowling unit, showing focused leadership amidst outside noise."
-            },
-            "kn": {
-                "title": "ರಹಾನೆ ಟೀಕೆಗಳನ್ನು ಕಡೆಗಣಿಸಿ, ಬೆಳವಣಿಗೆಯತ್ತ ಗಮನ",
-                "content": "ಕೆಕೆಆರ್ ನಾಯಕ ಅಜಿಂಕ್ಯ ರಹಾನೆ, ಮುಂಬೈ ಇಂಡಿಯನ್ಸ್ ವಿರುದ್ಧ 67 ರನ್ ಗಳಿಸಿದ ನಂತರ, ಟೀಕೆಗಳನ್ನು ತಳ್ಳಿಹಾಕಿದರು. ಅವರ ಗಮನ ವೈಯಕ್ತಿಕ ಬೆಳವಣಿಗೆ ಮತ್ತು ವೈಟ್‌ಬಾಲ್ ಸುಧಾರಣೆಯ ಮೇಲೆ ಇದೆ ಹೊರತು ವಿರೋಧಿಗಳನ್ನು ತಪ್ಪು ಎಂದು ಸಾಬೀತುಪಡಿಸುವುದರ ಮೇಲಲ್ಲ ಎಂದು ಅವರು ಹೇಳಿದರು. ಸೆಳೆತ ಮತ್ತು ಬುಮ್ರಾ ಅವರ ಸವಾಲಿನ ಹೊರತಾಗಿಯೂ, ರಹಾನೆ ತೃಪ್ತಿ ವ್ಯಕ್ತಪಡಿಸಿದರು. ಅವರು ಸಂಕಷ್ಟದಲ್ಲಿರುವ ಸ್ಪಿನ್ನರ್ ವರುಣ್ ಚಕ್ರವರ್ತಿಗೆ ಬೆಂಬಲ ನೀಡಿ, ಕೆಕೆಆರ್‌ನ ಅನುಭವವಿಲ್ಲದ ಬೌಲಿಂಗ್ ಘಟಕಕ್ಕೆ ತಾಳ್ಮೆ ವಹಿಸುವಂತೆ ಮನವಿ ಮಾಡಿದರು, ಹೊರಗಿನ ಗದ್ದಲದ ನಡುವೆಯೂ ಕೇಂದ್ರೀಕೃತ ನಾಯಕತ್ವವನ್ನು ತೋರಿಸಿದರು."
-            },
-            "mr": {
-                "title": "रहाणेने टीकाकारांना दुर्लक्षित केले, वाढीवर लक्ष केंद्रित केले",
-                "content": "केकेआरचा कर्णधार अजिंक्य रहाणेने, मुंबई इंडियन्सविरुद्धच्या ६७ धावांनंतर, टीकाकारांना उत्तर दिले. त्याचे लक्ष वैयक्तिक वाढ आणि व्हाईट-बॉलमधील सुधारणा यावर आहे, टीकाकारांना चुकीचे सिद्ध करण्यावर नाही, असे त्याने सांगितले. स्नायूंच्या खेचा आणि बुमराहच्या आव्हानानंतरही, रहाणेने समाधान व्यक्त केले. त्याने संघर्ष करणाऱ्या फिरकीपटू वरुण चक्रवर्तीलाही पाठिंबा दिला, तसेच केकेआरच्या अनुभवहीन गोलंदाजी युनिटसाठी संयम ठेवण्याचे आवाहन केले, बाहेरील गदारोळातही त्याने केंद्रित नेतृत्व दाखवले."
-            },
-            "hi": {
-                "title": "रहाणे ने आलोचकों को नकारा, विकास पर ध्यान",
-                "content": "मुंबई इंडियंस के खिलाफ 67 रन बनाने के बाद, केकेआर कप्तान अजिंक्य रहाणे ने अपनी आलोचनाओं को खारिज कर दिया. उन्होंने कहा कि उनका ध्यान व्यक्तिगत विकास और व्हाइट-बॉल क्रिकेट में सुधार पर है, न कि आलोचकों को गलत साबित करने पर. ऐंठन और बुमराह की चुनौती के बावजूद, रहाणे ने संतोष व्यक्त किया. उन्होंने संघर्षरत स्पिनर वरुण चक्रवर्ती का भी समर्थन किया, और केकेआर के अनुभवहीन गेंदबाजी इकाई के लिए धैर्य रखने का आग्रह किया, बाहरी शोर के बीच केंद्रित नेतृत्व दिखाया."
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129893648,imgsize-140390.cms",
-        "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/not-here-to-show-how-talented-i-am-rahane-unfazed-by-noise-around-his-future/articleshow/129893612.cms",
-        "date": "2026-03-30T12:19:50+05:30"
     }
 ]
