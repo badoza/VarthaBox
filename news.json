@@ -1,5 +1,30 @@
 [
     {
+        "id": "111ecaa8",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "IMD Forecast: Heatwaves & Above-Normal April Rain",
+                "content": "The IMD warns of increased heatwave days across several states. However, April is expected to bring above-normal rainfall nationwide, potentially lowering temperatures in some regions. This mixed forecast indicates continued challenging weather, with some relief anticipated from the upcoming monsoon. Stay updated on local advisories for heat and rain."
+            },
+            "kn": {
+                "title": "IMD ಮುನ್ಸೂಚನೆ: ಬಿಸಿಗಾಳಿ ಮತ್ತು ಏಪ್ರಿಲ್‌ನಲ್ಲಿ ಸಾಮಾನ್ಯಕ್ಕಿಂತ ಹೆಚ್ಚು ಮಳೆ",
+                "content": "ಹಲವು ರಾಜ್ಯಗಳಲ್ಲಿ ಬಿಸಿಗಾಳಿಯ ದಿನಗಳು ಹೆಚ್ಚಲಿವೆ ಎಂದು IMD ಎಚ್ಚರಿಸಿದೆ. ಆದರೂ, ಏಪ್ರಿಲ್‌ನಲ್ಲಿ ದೇಶಾದ್ಯಂತ ಸಾಮಾನ್ಯಕ್ಕಿಂತ ಹೆಚ್ಚು ಮಳೆಯಾಗುವ ನಿರೀಕ್ಷೆಯಿದೆ, ಇದು ಕೆಲವು ಪ್ರದೇಶಗಳಲ್ಲಿ ತಾಪಮಾನವನ್ನು ಕಡಿಮೆ ಮಾಡಬಹುದು. ಈ ಮಿಶ್ರ ಮುನ್ಸೂಚನೆಯು ಸವಾಲಿನ ಹವಾಮಾನವನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಆದರೆ ಮುಂಬರುವ ಮಳೆಯಿಂದ ಪರಿಹಾರ ನಿರೀಕ್ಷಿಸಲಾಗಿದೆ. ಬಿಸಿ ಮತ್ತು ಮಳೆ ಎರಡಕ್ಕೂ ಸ್ಥಳೀಯ ಸಲಹೆಗಳಿಗಾಗಿ ನವೀಕೃತವಾಗಿರಿ."
+            },
+            "mr": {
+                "title": "आयएमडीचा अंदाज: उष्णतेच्या लाटा आणि एप्रिलमध्ये सामान्यपेक्षा जास्त पाऊस",
+                "content": "आयएमडीने अनेक राज्यांमध्ये उष्णतेच्या लाटांचे दिवस वाढण्याचा इशारा दिला आहे. तथापि, एप्रिलमध्ये देशभरात सामान्यपेक्षा जास्त पाऊस अपेक्षित आहे, ज्यामुळे काही भागांतील तापमान कमी होऊ शकते. हा मिश्र अंदाज आव्हानात्मक हवामानाची सूचना देतो, परंतु आगामी पावसामुळे काही प्रमाणात दिलासा मिळण्याची अपेक्षा आहे. उष्णता आणि पावसासाठी स्थानिक सूचनांवर अद्ययावत रहा."
+            },
+            "hi": {
+                "title": "आईएमडी का पूर्वानुमान: हीटवेव और अप्रैल में सामान्य से अधिक वर्षा",
+                "content": "आईएमडी ने कई राज्यों में हीटवेव के दिनों में वृद्धि की चेतावनी दी है। हालांकि, अप्रैल में देश भर में सामान्य से अधिक बारिश होने की उम्मीद है, जिससे कुछ क्षेत्रों में तापमान कम हो सकता है। यह मिश्रित पूर्वानुमान चुनौतीपूर्ण मौसम का संकेत देता है, लेकिन आगामी बारिश से कुछ राहत मिलने की उम्मीद है। गर्मी और बारिश दोनों के लिए स्थानीय सलाह पर अपडेट रहें।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129931592,imgsize-718069.cms",
+        "link": "https://timesofindia.indiatimes.com/india/imd-warns-of-more-heatwave-days-in-many-states-april-to-get-above-normal-rainfall-in-the-country-brining-down-temp-in-certain-parts/articleshow/129931594.cms",
+        "date": "2026-03-31T21:53:32+05:30"
+    },
+    {
         "id": "de83ed5d",
         "category": "IPL Scoop",
         "translations": {
@@ -1973,30 +1998,5 @@
         "image": "https://static.toiimg.com/photo/msid-129891395,imgsize-2031669.cms",
         "link": "https://timesofindia.indiatimes.com/world/middle-east/watch-missile-shrapnel-from-iran-causes-fire-damage-to-israels-negev-industrial-hub/articleshow/129890621.cms",
         "date": "2026-03-30T10:05:59+05:30"
-    },
-    {
-        "id": "845f827d",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "Jerusalem Palm Sunday Blockade Sparks Global Outrage",
-                "content": "Israeli authorities controversially blocked senior Catholic leaders from Jerusalem's Church of the Holy Sepulchre on Palm Sunday, marking the first time in centuries. Citing security amid the Iran conflict, the move sparked global outrage from church figures and leaders like Macron and Meloni. The incident intensifies tensions over religious access and wartime restrictions in the Holy City."
-            },
-            "kn": {
-                "title": "ಜೆರುಸಲೇಂ ಪಾಮ್ ಭಾನುವಾರದ ನಿರ್ಬಂಧ ಜಾಗತಿಕ ಆಕ್ರೋಶಕ್ಕೆ ಕಾರಣ",
-                "content": "ಇಸ್ರೇಲಿ ಅಧಿಕಾರಿಗಳು ಪಾಮ್ ಭಾನುವಾರದಂದು ಜೆರುಸಲೇಂನ ಪವಿತ್ರ ಸಮಾಧಿ ಚರ್ಚ್‌ಗೆ ಹಿರಿಯ ಕ್ಯಾಥೋಲಿಕ್ ನಾಯಕರ ಪ್ರವೇಶವನ್ನು ವಿವಾದಾತ್ಮಕವಾಗಿ ನಿರ್ಬಂಧಿಸಿದರು, ಇದು ಶತಮಾನಗಳಲ್ಲಿ ಮೊದಲ ಬಾರಿಗೆ. ಇರಾನ್ ಸಂಘರ್ಷದ ಮಧ್ಯೆ ಭದ್ರತೆಯನ್ನು ಉಲ್ಲೇಖಿಸಿ, ಈ ಕ್ರಮವು ಚರ್ಚ್ ಮುಖಂಡರು ಹಾಗೂ ಮ್ಯಾಕ್ರನ್ ಮತ್ತು ಮೆಲೋನಿ ಅವರಂತಹ ಜಾಗತಿಕ ನಾಯಕರಿಂದ ತೀವ್ರ ಆಕ್ರೋಶಕ್ಕೆ ಕಾರಣವಾಯಿತು. ಈ ಘಟನೆಯು ಪವಿತ್ರ ನಗರದಲ್ಲಿ ಧಾರ್ಮಿಕ ಪ್ರವೇಶ ಮತ್ತು ಯುದ್ಧಕಾಲದ ನಿರ್ಬಂಧಗಳ ಮೇಲಿನ ಉದ್ವಿಗ್ನತೆಯನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "जेरुसलेम पाम संडे नाकाबंदीने जागतिक संताप",
-                "content": "इस्रायली अधिकाऱ्यांनी वादग्रस्तपणे पाम संडेला जेरुसलेममधील होली सेपल्चर चर्चमध्ये वरिष्ठ कॅथोलिक नेत्यांना प्रवेश करण्यापासून रोखले, जे शतकांमध्ये प्रथमच घडले. इराण संघर्षाच्या पार्श्वभूमीवर सुरक्षेचे कारण देत, या कृतीमुळे चर्चमधील प्रमुख व्यक्ती आणि मॅक्रॉन व मेलोनींसारख्या नेत्यांकडून जागतिक संताप व्यक्त झाला. ही घटना पवित्र शहरात धार्मिक प्रवेश आणि युद्धकालीन निर्बंधांवरील तणाव वाढवते."
-            },
-            "hi": {
-                "title": "यरुशलम पाम संडे नाकाबंदी ने भड़काया वैश्विक आक्रोश",
-                "content": "इजरायली अधिकारियों ने पाम संडे पर यरुशलम के चर्च ऑफ द होली सेपल्चर में वरिष्ठ कैथोलिक नेताओं को विवादास्पद रूप से प्रवेश करने से रोक दिया, जो सदियों में पहली बार हुआ. ईरान संघर्ष के बीच सुरक्षा का हवाला देते हुए, इस कदम से चर्च के प्रमुखों और मैक्रॉन व मेलोनी जैसे वैश्विक नेताओं से तीव्र आक्रोश भड़का. यह घटना पवित्र शहर में धार्मिक पहुंच और युद्धकालीन प्रतिबंधों पर तनाव बढ़ाती है."
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129889407,imgsize-1275012.cms",
-        "link": "https://timesofindia.indiatimes.com/world/middle-east/israel-blocks-senior-catholic-leaders-from-jerusalem-church-on-palm-sunday-first-time-in-centuries-access-restored/articleshow/129889170.cms",
-        "date": "2026-03-30T06:08:34+05:30"
     }
 ]
