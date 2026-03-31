@@ -1,5 +1,55 @@
 [
     {
+        "id": "4a5c051b",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "Green's Bowling Ban Sparks KKR-CA Clash",
+                "content": "Cameron Green's bowling ban has sparked a major clash between IPL franchise KKR and Cricket Australia (CA). KKR, who invested heavily in Green as an all-rounder, is furious over CA's restrictions impacting their team strategy. This dispute highlights escalating tensions between franchise league demands and national board control over player availability and player welfare."
+            },
+            "kn": {
+                "title": "ಗ್ರೀನ್ ಬೌಲಿಂಗ್ ನಿಷೇಧ: KKR-CA ಸಂಘರ್ಷಕ್ಕೆ ಕಾರಣ",
+                "content": "ಕ್ಯಾಮರೂನ್ ಗ್ರೀನ್ ಅವರ ಬೌಲಿಂಗ್ ನಿಷೇಧವು ಐಪಿಎಲ್ ಫ್ರಾಂಚೈಸಿ KKR ಮತ್ತು ಕ್ರಿಕೆಟ್ ಆಸ್ಟ್ರೇಲಿಯಾ (CA) ನಡುವೆ ದೊಡ್ಡ ಸಂಘರ್ಷವನ್ನು ಹುಟ್ಟುಹಾಕಿದೆ. ಆಲ್‌ರೌಂಡರ್ ಆಗಿ ಗ್ರೀನ್‌ನಲ್ಲಿ ಭಾರಿ ಹೂಡಿಕೆ ಮಾಡಿದ್ದ KKR, CA ಯ ನಿರ್ಬಂಧಗಳಿಂದ ತಮ್ಮ ತಂಡದ ಕಾರ್ಯತಂತ್ರಕ್ಕೆ ತೊಂದರೆಯಾಗಿರುವುದಕ್ಕೆ ಕೆರಳಿದೆ. ಈ ವಿವಾದವು ಫ್ರಾಂಚೈಸಿ ಲೀಗ್ ಬೇಡಿಕೆಗಳು ಮತ್ತು ಆಟಗಾರರ ಲಭ್ಯತೆ ಹಾಗೂ ಕಲ್ಯಾಣದ ಮೇಲಿನ ರಾಷ್ಟ್ರೀಯ ಮಂಡಳಿಗಳ ನಿಯಂತ್ರಣದ ನಡುವೆ ಹೆಚ್ಚುತ್ತಿರುವ ಉದ್ವಿಗ್ನತೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "ग्रीनच्या गोलंदाजी बंदीमुळे KKR-CA संघर्षाची ठिणगी",
+                "content": "कॅमेरॉन ग्रीनच्या गोलंदाजीवरील बंदीमुळे आयपीएल फ्रँचायझी KKR आणि क्रिकेट ऑस्ट्रेलिया (CA) यांच्यात मोठा संघर्ष सुरू झाला आहे. अष्टपैलू म्हणून ग्रीनमध्ये मोठी गुंतवणूक केलेल्या KKR ला CA च्या निर्बंधांमुळे त्यांच्या संघाच्या रणनीतीवर परिणाम होत असल्यामुळे संताप आला आहे. हा वाद फ्रँचायझी लीगच्या मागण्या आणि खेळाडूंच्या उपलब्धतेवर तसेच कल्याणावर राष्ट्रीय मंडळाच्या नियंत्रणादरम्यान वाढलेल्या तणावावर प्रकाश टाकतो."
+            },
+            "hi": {
+                "title": "ग्रीन की गेंदबाजी पर प्रतिबंध: KKR-CA में बढ़ा टकराव",
+                "content": "कैमरन ग्रीन की गेंदबाजी पर प्रतिबंध के कारण आईपीएल फ्रेंचाइजी KKR और क्रिकेट ऑस्ट्रेलिया (CA) के बीच एक बड़ा टकराव शुरू हो गया है। KKR, जिसने ग्रीन पर एक ऑलराउंडर के रूप में भारी निवेश किया था, CA के प्रतिबंधों से भड़क गया है, जिससे उनकी टीम की रणनीति प्रभावित हो रही है। यह विवाद फ्रेंचाइजी लीग की मांगों और खिलाड़ियों की उपलब्धता तथा कल्याण पर राष्ट्रीय बोर्ड के नियंत्रण के बीच बढ़ते तनाव को उजागर करता है।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYUZHZElaT0k1cldiczFLWXRlSktJMF9Mb2drWEFlcmxIazdhLWJwZVYzRXhkVWlyWktqNkV6NWpIVlRlMExlQ3NSNG5sVGYyRGNwb2toV0R3aWxzTnQzV1NWbmpWZ2RNSzBxbGlaLVRmTmlUTWotRDJmcGFjSVF1LTdhblFESGFOZEJnQjVCSmxuS25HUG1RTVYzZ3c4NzVjUklpVlV6VWlLTUFJU3ZNQ0czeVRuVTdvLUFucGJ3VnFWX1hPc1N4ZjB6c1ExYTc4ZW1nTEVGY1d1QQ?oc=5",
+        "date": "Mon, 30 Mar 2026 20:47:57 GMT"
+    },
+    {
+        "id": "378f926f",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Ancient Buddha Statue Reveals Hidden Gold Treasure",
+                "content": "Archaeologists in Thailand are stunned by the discovery of a hidden gold treasure inside a 1300-year-old Buddha statue. The ancient relic, revered for centuries, yielded its secret wealth during restoration, offering a rare glimpse into the region's rich history and religious practices. This unexpected find is set to rewrite archaeological understanding of the period."
+            },
+            "kn": {
+                "title": "ಪ್ರಾಚೀನ ಬುದ್ಧನ ಪ್ರತಿಮೆ ರಹಸ್ಯ ಚಿನ್ನದ ನಿಧಿಯನ್ನು ಬಹಿರಂಗಪಡಿಸಿದೆ",
+                "content": "ಥೈಲ್ಯಾಂಡ್‌ನಲ್ಲಿರುವ ಪುರಾತತ್ವಶಾಸ್ತ್ರಜ್ಞರು 1300 ವರ್ಷಗಳಷ್ಟು ಹಳೆಯ ಬುದ್ಧನ ಪ್ರತಿಮೆಯೊಳಗೆ ಅಡಗಿದ ಚಿನ್ನದ ನಿಧಿಯನ್ನು ಕಂಡು ದಿಗ್ಭ್ರಮೆಗೊಂಡಿದ್ದಾರೆ. ಶತಮಾನಗಳಿಂದ ಪೂಜಿಸಲ್ಪಟ್ಟ ಪ್ರಾಚೀನ ಅವಶೇಷವು ಅದರ ಪುನಃಸ್ಥಾಪನೆಯ ಸಮಯದಲ್ಲಿ ತನ್ನ ರಹಸ್ಯ ಸಂಪತ್ತನ್ನು ನೀಡಿದೆ, ಇದು ಪ್ರದೇಶದ ಶ್ರೀಮಂತ ಇತಿಹಾಸ ಮತ್ತು ಧಾರ್ಮಿಕ ಆಚರಣೆಗಳ ಅಪರೂಪದ ನೋಟವನ್ನು ನೀಡುತ್ತದೆ. ಈ ಅನಿರೀಕ್ಷಿತ ಅನ್ವೇಷಣೆಯು ಆ ಅವಧಿಯ ಪುರಾತತ್ವ ತಿಳುವಳಿಕೆಯನ್ನು ಪುನಃ ಬರೆಯಲು ಸಿದ್ಧವಾಗಿದೆ."
+            },
+            "mr": {
+                "title": "प्राचीन बुद्ध मूर्तीत दडलेला सोन्याचा खजिना उघड",
+                "content": "थायलंडमधील पुरातत्वशास्त्रज्ञांना 1300 वर्षांपूर्वीच्या बुद्ध मूर्तीच्या आत लपलेला सोन्याचा खजिना सापडल्याने ते थक्क झाले आहेत. शतकानुशतके पूजलेल्या या प्राचीन अवशेषाने त्याच्या जीर्णोद्धारादरम्यान आपले गुप्त धन प्रकट केले, ज्यामुळे या प्रदेशाचा समृद्ध इतिहास आणि धार्मिक प्रथांची दुर्मिळ झलक मिळाली. ही अनपेक्षित शोध त्या काळातील पुरातत्व समजूत पुन्हा लिहिण्यास सज्ज आहे."
+            },
+            "hi": {
+                "title": "प्राचीन बुद्ध प्रतिमा ने खोला छिपा हुआ सोने का खजाना",
+                "content": "थाईलैंड में पुरातत्वविद् 1300 साल पुरानी बुद्ध प्रतिमा के अंदर छिपे सोने के खजाने की खोज से दंग रह गए हैं। सदियों से पूजी जा रही इस प्राचीन अवशेष ने जीर्णोद्धार के दौरान अपनी गुप्त संपत्ति प्रकट की, जिससे क्षेत्र के समृद्ध इतिहास और धार्मिक प्रथाओं की एक दुर्लभ झलक मिली। यह अप्रत्याशित खोज उस काल की पुरातात्विक समझ को फिर से लिखने के लिए तैयार है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129921923,imgsize-59008.cms",
+        "link": "https://timesofindia.indiatimes.com/world/rest-of-world/hidden-gold-treasure-found-inside-1300-year-old-buddha-statue-in-thailand-shocks-archaeologists/articleshow/129920863.cms",
+        "date": "2026-03-31T15:16:47+05:30"
+    },
+    {
         "id": "22196f6c",
         "category": "IPL Scoop",
         "translations": {
@@ -1948,55 +1998,5 @@
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
         "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQYm50aTQxVDVuTm1FcDd4cXhxUUZ6QjhHZFVWWExXOXg0eEF5ZzdHa3RNUHEwV2dBeDNETzlPeGtIV2xBOHgtbUtvdFg0Q192OF9pRTZSZDdzMUFoN3RsRWJndDRjaXR5SUotdEhlSWFQSTRyNjQwYm1VVmpKbzNqckZHdHFqaVJtaTAyY1habTBNRXB4b20zUG9WWkxpWDUyaWRKQWR1bG96dzFaQnBHa0hBYVAzUmNEZ0tMMUtwb2JDSEFZQmNkeXAtOHN5QU1tNXpQeGk1Mm13bElKQUVzOHlKNNIB6AFBVV95cUxOakQ5dllYOU1HZ0ZKdjN6MnM4UUNtVEFTQVFxYnlyX1hVdGp6MVFxYUw2aHJFYVlwRmhPRjN4WWdDWTl1NUVPZHEtWUNXejRJRjVmNGxIZ3FjNDJaMGVhVDc4Y2d0dHVlYnR3Nlo5eTZYdW53ZGhtRjJ1THVLdHQxUFpjX2M3SjZQY2l6cWczSHlhZkhia0RodGZPRWlMc2hXZEVoZUpSemNWR0pZQ2g2RkR1SnlvMlp0RUFnS2ZJUWhBeFVIN00wbWhVZkp3YUplb2NjSDBuOTFkOHQ0eEhZWXZJYWdyelJi?oc=5",
         "date": "Mon, 30 Mar 2026 02:08:00 GMT"
-    },
-    {
-        "id": "9f8449f4",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Tiger Woods' Private World: Insider Reveals New Details",
-                "content": "An insider has revealed new details about golf legend Tiger Woods' personal life, highlighting his partner Erica Herman's unwavering support. Described as doing \"all she can,\" Herman is a crucial, dedicated presence. These insights emerge following recent discussions, offering a rare glimpse into the private world of the notoriously private athlete and the supportive dynamics within his inner circle."
-            },
-            "kn": {
-                "title": "ಟೈಗರ್ ವುಡ್ಸ್‌ನ ಖಾಸಗಿ ಜಗತ್ತು: ಆಂತರಿಕ ವ್ಯಕ್ತಿ ಹೊಸ ವಿವರಗಳನ್ನು ಬಹಿರಂಗಪಡಿಸಿದ್ದಾರೆ",
-                "content": "ಗಾಲ್ಫ್ ದಂತಕಥೆ ಟೈಗರ್ ವುಡ್ಸ್ ಅವರ ವೈಯಕ್ತಿಕ ಜೀವನದ ಬಗ್ಗೆ ಆಂತರಿಕ ವ್ಯಕ್ತಿಯೊಬ್ಬರು ಹೊಸ ವಿವರಗಳನ್ನು ಬಹಿರಂಗಪಡಿಸಿದ್ದಾರೆ, ಅವರ ಸಂಗಾತಿ ಎರಿಕಾ ಹರ್ಮನ್ ಅವರ ಅಚಲ ಬೆಂಬಲವನ್ನು ಎತ್ತಿ ತೋರಿಸಿದ್ದಾರೆ. \"ಅವರು ತಮ್ಮಿಂದಾದ ಎಲ್ಲವನ್ನೂ ಮಾಡುತ್ತಾರೆ\" ಎಂದು ವರ್ಣಿಸಲಾದ ಹರ್ಮನ್, ನಿರ್ಣಾಯಕ, ಸಮರ್ಪಿತ ಉಪಸ್ಥಿತಿಯಾಗಿದ್ದಾರೆ. ಇತ್ತೀಚಿನ ಚರ್ಚೆಗಳ ನಂತರ ಈ ಒಳನೋಟಗಳು ಹೊರಹೊಮ್ಮಿವೆ, ಕುಖ್ಯಾತ ಖಾಸಗಿ ಕ್ರೀಡಾಪಟುವಿನ ಖಾಸಗಿ ಜಗತ್ತು ಮತ್ತು ಅವರ ಆಂತರಿಕ ವಲಯದಲ್ಲಿನ ಬೆಂಬಲಿತ ಡೈನಾಮಿಕ್ಸ್ ಅನ್ನು ಅಪರೂಪಕ್ಕೆಂಬಂತೆ ತೋರಿಸುತ್ತವೆ."
-            },
-            "mr": {
-                "title": "टायगर वुड्सचे खाजगी जग: आतल्या व्यक्तीने नवीन तपशील उघड केले",
-                "content": "गोल्फपटू टायगर वुड्सच्या वैयक्तिक आयुष्याबद्दल एका आतल्या व्यक्तीने नवीन तपशील उघड केले आहेत, ज्यात त्यांची पार्टनर एरिका हरमनच्या अटूट पाठिंब्यावर प्रकाश टाकण्यात आला आहे. \"जे काही शक्य आहे ते सर्व ती करते\" असे वर्णन केलेल्या हरमन, एक महत्त्वपूर्ण आणि समर्पित अस्तित्व आहे. अलीकडील चर्चांनंतर हे खुलासे समोर आले आहेत, जे या कुप्रसिद्ध खाजगी खेळाडूच्या खाजगी जगाची आणि त्याच्या जवळच्या वर्तुळातील समर्थनात्मक गतिशीलतेची दुर्मिळ झलक देतात."
-            },
-            "hi": {
-                "title": "टाइगर वुड्स की निजी दुनिया: अंदरूनी सूत्र ने किए नए खुलासे",
-                "content": "गोल्फ के दिग्गज टाइगर वुड्स के निजी जीवन के बारे में एक अंदरूनी सूत्र ने नए विवरणों का खुलासा किया है, जिसमें उनकी साथी एरिका हरमन के अटूट समर्थन को उजागर किया गया है। \"वह अपनी तरफ से सब कुछ करती है\" के रूप में वर्णित हरमन, एक महत्वपूर्ण, समर्पित उपस्थिति है। ये अंतर्दृष्टि हालिया चर्चाओं के बाद सामने आई हैं, जो कुख्यात निजी एथलीट की निजी दुनिया और उनके आंतरिक दायरे के भीतर सहायक गतिशीलता की एक दुर्लभ झलक पेश करती हैं।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOb2ppSUZFSGlOR3VwYVVXbWlza0VKek9tNlNsUHlLVnVRekFaWU1kWW1zbFE1WVV5SzlkdTFtUTREWDIzWUFWRlV1c0w5bFAtMHM0em5GMXRkQTUyT1U5bUhUUkZldUZRWF9Ka0FjOWVUeG83S1RrbXJUak04Q1l0N0pHWUhzVnVLV1J5YVh1MkIteGhrMGRzTmVHWHZrS01wbWlxdnA1UVM1dkdNQWp5WmotMUQ4Vm45NjNWUDkyY2RabUU2UlNpbXVDNHU4Zk9GYUl2Y3BMZ0ZxUjUtUzh5aXMyd1FyZUV5aGpNOS1KeXpRbnB3Mm9wTWl1a1NQOWxpRDkyeVVhUFc5Z0JBazV6Nmxqd2RnNlQ5d3dKM243OUdlcHJsb0hmbzU5QlZ1VERGb0VGcTVra2FtWUU1VTUxcFF30gHHAkFVX3lxTE9MT1dhaTNVaE83LXdTbkJ4aWZxNXhWbTBYa2Y2NVF5MDV4U1lTaUl0bUVwdlV1ZDNVNG5GLVlHX2M2VlVXbHZVQjhHeTRidjZWVVFhaU9RMFRubTNWaUZkdkNzTzZvZXNSb2NYRVdzMFZQSS1uU0wwaEloQVo3UEdLUFZaZnFRWlFEa1hMVmIxclhCZFJDNmozYkR0SzZCUXlUeGZMUzF0WEJGLUpaVDViYjB6akFTODRjVmRpY1ZLZ0FYbjRrcXQzblY0Rkg2Zy1LRkZHMmFXZy0xZ1gzb19yNlBlem1ISGdPOVhmVnl4MF81ZTB2eXpDOENhWGtoWmVTdnB5OHJwbmZIeFRubkVGWFBVeVVnOXBTbTFxdHlhTDB4eVpqRnUyMFZ2Zy1uYWJGZ1ZHcllyV0h1dGRHb0FWaGxDc3ltNA?oc=5",
-        "date": "Mon, 30 Mar 2026 01:39:00 GMT"
-    },
-    {
-        "id": "4dc6b2eb",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "PSL Opener Hit by Pink-Ball Controversy",
-                "content": "The Pakistan Super League (PSL) opener was marred by a pink-ball controversy. Fans and experts questioned the quality and visibility of the ball used in the day-night match. Concerns were raised about its early wear and tear, potentially impacting the game's fairness and players' performance. This sparked debates among cricket enthusiasts, overshadowing the start of the tournament."
-            },
-            "kn": {
-                "title": "ಪಿಎಸ್ಎಲ್ ಆರಂಭಿಕ ಪಂದ್ಯಕ್ಕೆ ಪಿಂಕ್-ಬಾಲ್ ವಿವಾದದ ಅಡಚಣೆ",
-                "content": "ಪಾಕಿಸ್ತಾನ್ ಸೂಪರ್ ಲೀಗ್ (ಪಿಎಸ್ಎಲ್) ಆರಂಭಿಕ ಪಂದ್ಯ ಪಿಂಕ್-ಬಾಲ್ ವಿವಾದದಿಂದ ಕೆಟ್ಟಿದೆ. ಹಗಲು-ರಾತ್ರಿ ಪಂದ್ಯದಲ್ಲಿ ಬಳಸಲಾದ ಚೆಂಡಿನ ಗುಣಮಟ್ಟ ಮತ್ತು ಗೋಚರತೆಯ ಬಗ್ಗೆ ಅಭಿಮಾನಿಗಳು ಮತ್ತು ತಜ್ಞರು ಪ್ರಶ್ನಿಸಿದ್ದಾರೆ. ಅದರ ಆರಂಭಿಕ ಸವೆತವು ಆಟದ ನ್ಯಾಯಸಮ್ಮತತೆ ಮತ್ತು ಆಟಗಾರರ ಕಾರ್ಯಕ್ಷಮತೆಯ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರಬಹುದೆಂಬ ಕಳವಳ ವ್ಯಕ್ತವಾಗಿದೆ. ಇದು ಕ್ರಿಕೆಟ್ ಉತ್ಸಾಹಿಗಳಲ್ಲಿ ಚರ್ಚೆಗಳನ್ನು ಹುಟ್ಟುಹಾಕಿ, ಪಂದ್ಯಾವಳಿಯ ಆರಂಭವನ್ನು ಮರೆಮಾಡಿದೆ."
-            },
-            "mr": {
-                "title": "पीएसएलच्या उद्घाटनाला पिंक-बॉल वादाचा फटका",
-                "content": "पाकिस्तान सुपर लीग (पीएसएल) च्या उद्घाटन सामन्याला पिंक-बॉल वादाने ग्रासले. दिवस-रात्र सामन्यात वापरल्या गेलेल्या चेंडूच्या गुणवत्तेवर आणि दृश्यमानतेवर चाहते आणि तज्ञांनी प्रश्नचिन्ह उपस्थित केले. चेंडू लवकर खराब झाल्याने खेळाची निष्पक्षता आणि खेळाडूंच्या कामगिरीवर परिणाम होण्याची चिंता व्यक्त झाली. याने क्रिकेटप्रेमींमध्ये वाद निर्माण केले आणि स्पर्धेच्या सुरुवातीवर सावट टाकले."
-            },
-            "hi": {
-                "title": "पीएसएल के पहले मैच में पिंक-बॉल विवाद",
-                "content": "पाकिस्तान सुपर लीग (पीएसएल) का पहला मैच पिंक-बॉल विवाद से घिर गया। दिन-रात के मैच में इस्तेमाल की गई गेंद की गुणवत्ता और दृश्यता पर प्रशंसकों व विशेषज्ञों ने सवाल उठाए। इसके शुरुआती घिसाव से खेल की निष्पक्षता और खिलाड़ियों के प्रदर्शन पर असर पड़ने की चिंता व्यक्त की गई। इसने क्रिकेट प्रेमियों के बीच बहस छेड़ दी, जिसने टूर्नामेंट की शुरुआत को धूमिल कर दिया।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQM1lEOFRvRGVFVUZreWJjMlk2RnNrY0dIM21jN2ZYWUNzeHRob3BjM1AxMkIxR2JaZTcwc3VFTTJtbEd4ekExaXdGVGtxWmxLQkxmS2F2TEduZnVNMXowOThTdkJsQ0RYN0xtNTZ0ZDc1cXZ1dk9GaDF0eVhtXy1zMG1NQ25GXzNvM3VRVlYtNGlQQUs0Wjg3SWFfSUJMdElRQ1ZYNWlwNC1hd3ZQT1VmVXphVXBBbkNEQUkzUElILUE5QVBHdHVja1o1SXZQOXRZNmlIeUFxdUJTQQ?oc=5",
-        "date": "Sun, 29 Mar 2026 09:41:01 GMT"
     }
 ]
