@@ -1,5 +1,55 @@
 [
     {
+        "id": "c10c987f",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "Edoardo Mortara: Mahindra Racing's Season Star",
+                "content": "Mahindra Racing's Edoardo Mortara shines this season, revealing his success mantra in an exclusive interview. He emphasizes the crucial need to 'keep your' focus and strategic approach. Mortara's stellar performance is a major boost, driving the team forward with promising results and setting high expectations for future races."
+            },
+            "kn": {
+                "title": "ಎಡೋಆರ್ಡೋ ಮೊರ್ಟಾರಾ: ಮಹೀಂದ್ರಾ ರೇಸಿಂಗ್‌ನ ಈ ಸೀಸನ್‌ನ ತಾರೆ",
+                "content": "ಮಹೀಂದ್ರಾ ರೇಸಿಂಗ್‌ನ ಎಡೋಆರ್ಡೋ ಮೊರ್ಟಾರಾ ಈ ಸೀಸನ್‌ನಲ್ಲಿ ಅದ್ಭುತವಾಗಿ ಮಿಂಚಿದ್ದಾರೆ. ಒಂದು ವಿಶೇಷ ಸಂದರ್ಶನದಲ್ಲಿ, ಅವರು ತಮ್ಮ ಯಶಸ್ಸಿನ ಮಂತ್ರವನ್ನು ಬಹಿರಂಗಪಡಿಸಿದ್ದಾರೆ. ತಮ್ಮ ಗಮನ ಮತ್ತು ಕಾರ್ಯತಂತ್ರದ ವಿಧಾನವನ್ನು 'ಕಾಯ್ದುಕೊಳ್ಳುವ' ನಿರ್ಣಾಯಕ ಅಗತ್ಯವನ್ನು ಅವರು ಒತ್ತಿಹೇಳುತ್ತಾರೆ. ಮೊರ್ಟಾರಾ ಅವರ ಅಸಾಧಾರಣ ಪ್ರದರ್ಶನವು ತಂಡಕ್ಕೆ ದೊಡ್ಡ ಉತ್ತೇಜನ ನೀಡಿದೆ, ಭರವಸೆಯ ಫಲಿತಾಂಶಗಳೊಂದಿಗೆ ತಂಡವನ್ನು ಮುನ್ನಡೆಸುತ್ತದೆ ಮತ್ತು ಭವಿಷ್ಯದ ರೇಸ್‌ಗಳಿಗೆ ಹೆಚ್ಚಿನ ನಿರೀಕ್ಷೆಗಳನ್ನು ಇರಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "एडोआर्डो मोर्टारा: महिंद्रा रेसिंगचा या हंगामातील स्टार",
+                "content": "महिंद्रा रेसिंगचा एडोआर्डो मोर्टारा या हंगामात चमकदार कामगिरी करत आहे. एका विशेष मुलाखतीत, त्याने त्याच्या यशाचा मंत्र उघड केला आहे. तो आपले लक्ष आणि धोरणात्मक दृष्टिकोन 'टिकवून ठेवण्याच्या' महत्त्वावर भर देतो. मोर्टाराची उत्कृष्ट कामगिरी संघासाठी एक मोठी प्रेरणा आहे, ज्यामुळे संघाला आशादायक निकालांसह पुढे जाण्यास मदत होते आणि भविष्यातील शर्यतींसाठी उच्च अपेक्षा निर्माण होतात."
+            },
+            "hi": {
+                "title": "एडोआर्डो मोर्टारा: महिंद्रा रेसिंग के सीज़न के स्टार",
+                "content": "महिंद्रा रेसिंग के एडोआर्डो मोर्टारा इस सीज़न में शानदार प्रदर्शन कर रहे हैं। एक विशेष साक्षात्कार में, उन्होंने अपने सफलता के मंत्र का खुलासा किया। वह अपने ध्यान और रणनीतिक दृष्टिकोण को 'बनाए रखने' की महत्वपूर्ण आवश्यकता पर जोर देते हैं। मोर्टारा का बेहतरीन प्रदर्शन टीम के लिए एक बड़ा बढ़ावा है, जो आशाजनक परिणामों के साथ टीम को आगे बढ़ा रहा है और भविष्य की दौड़ के लिए उच्च उम्मीदें जगा रहा है।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOUGh0ZU5ueGxad0g4cGVOUGo3QjdrVzR2d0VvdVB6aDR2cjBRWVpDT0JLUG1xcVlqRkVBNUpjY09McmJ0STMwWXdFN3pjc1ppSFJoRGtIdVk5UE9Oa0FOUWZxZVA2TGxZQmVqMUhtTHRTZVc2OVFmNzAyQlcwWm5Jak5uNmF3UjFPNDV3WGFZQkNEY0s2Q2FtNWk0WG1PM0VWeXo1amtjNXUwV0g1VVI2UEp5MHAyZ0JuajRVc0Q4TnhlMWNQS0wtSXhCSUJYVHhJRzN3RHJYMkh4SkdHcWtteVhoYkY3VkcyemNZdVBHY3o5ekdFWUlKQmZzMjdxWFBKYXcxZkZ6eG1yMGpBMmFQSHhZWnJfeWRkS1MzUTB0STlfdlM3OE96YTJYTkHSAawCQVVfeXFMTlBodGVObnhsWndIOHBlTlBqN0I3a1c0dndFb3VQemg0dnIwUVlaQ09CS1BtcXFZakZFQTVKY2NPTHJidEkzMFl3RTd6Y3NaaUhSaERrSHVZOVBPTmtBTlFmcWVQNkxsWUJlajFIbUx0U2VXNjlRZjcwMkJXMFpuSWpObjZhd1IxTzQ1d1hhWUJDRGNLNkNhbTVpNFhtTzNFVnl6NWprYzV1MFdINVVSNlBKeTBwMmdCbmo0VXNEOE54ZTFjUEtMLUl4QklCWFR4SUczd0RyWDJIeEpHR3FrbXlYaGJGN1ZHMnpjWXVQR2N6OXpHRVlJSkJmczI3cVhQSmF3MWZGenhtcjBqQTJhUEh4WVpyX3lkZEtTM1EwdEk5X3ZTNzhPemEyWE5B?oc=5",
+        "date": "Wed, 01 Apr 2026 15:12:00 GMT"
+    },
+    {
+        "id": "1708a36b",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "PM Reviews Mideast Crisis, Supply Chains",
+                "content": "Prime Minister Modi chaired a critical Cabinet Committee on Security (CCS) meeting to assess the escalating Middle East conflict. He directed urgent measures to secure India's supply chains for essential goods and energy. The PM also emphasized proactive steps to mitigate potential inflationary pressures and curb price risks arising from the geopolitical instability, ensuring economic stability for the nation."
+            },
+            "kn": {
+                "title": "ಪ್ರಧಾನಿ ಮಧ್ಯಪ್ರಾಚ್ಯ ಬಿಕ್ಕಟ್ಟು, ಪೂರೈಕೆ ಸರಪಳಿಗಳ ಪರಿಶೀಲನೆ",
+                "content": "ಪ್ರಧಾನಿ ಮೋದಿ ಮಧ್ಯಪ್ರಾಚ್ಯ ಸಂಘರ್ಷದ ಕುರಿತು ಮಹತ್ವದ CCS ಸಭೆ ನಡೆಸಿದರು. ಭಾರತದ ಪೂರೈಕೆ ಸರಪಳಿಗಳನ್ನು ಭದ್ರಪಡಿಸಲು ಮತ್ತು ಅಗತ್ಯ ಸರಕು, ಇಂಧನದ ಲಭ್ಯತೆ ಖಚಿತಪಡಿಸಲು ತುರ್ತು ಕ್ರಮಗಳನ್ನು ನಿರ್ದೇಶಿಸಿದರು. ಹಣದುಬ್ಬರದ ಒತ್ತಡ ತಗ್ಗಿಸಲು ಹಾಗೂ ಬೆಲೆ ಅಪಾಯ ನಿಯಂತ್ರಿಸಲು ಸಕ್ರಿಯ ಕ್ರಮಗಳನ್ನು ಕೈಗೊಳ್ಳುವಂತೆ ಒತ್ತಿ ಹೇಳಿದರು, ಇದು ದೇಶದ ಆರ್ಥಿಕ ಸ್ಥಿರತೆಗೆ ಸಹಕಾರಿ ಎಂದರು."
+            },
+            "mr": {
+                "title": "पंतप्रधानांनी मध्यपूर्वेतील संकट, पुरवठा साखळ्यांचा आढावा घेतला",
+                "content": "पंतप्रधान मोदींनी मध्यपूर्वेतील संघर्षावर CCS बैठक घेतली. त्यांनी भारताच्या पुरवठा साखळ्या सुरक्षित ठेवण्यासाठी, आवश्यक वस्तू व ऊर्जा उपलब्धता सुनिश्चित करण्यासाठी तातडीचे निर्देश दिले. संभाव्य महागाईचा दबाव कमी करून किमतीचे धोके रोखण्यासाठी सक्रिय उपाययोजनांवर भर दिला, ज्यामुळे देशाची आर्थिक स्थिरता कायम राहील."
+            },
+            "hi": {
+                "title": "पीएम ने मध्यपूर्व संकट, आपूर्ति श्रृंखलाओं की समीक्षा की",
+                "content": "प्रधानमंत्री मोदी ने मध्यपूर्व संघर्ष पर CCS बैठक की। उन्होंने भारत की आपूर्ति श्रृंखलाएं सुरक्षित करने और आवश्यक वस्तुओं, ऊर्जा की उपलब्धता सुनिश्चित करने के तत्काल निर्देश दिए। पीएम ने मुद्रास्फीति के दबाव कम करने और मूल्य जोखिमों को नियंत्रित करने के लिए सक्रिय कदम उठाने पर जोर दिया, जिससे देश की आर्थिक स्थिरता कायम रहे।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129958123,imgsize-797876.cms",
+        "link": "https://timesofindia.indiatimes.com/india/pm-chairs-ccs-meet-on-middle-east-conflict-orders-urgent-steps-to-secure-supplies-and-curb-price-risks/articleshow/129958119.cms",
+        "date": "2026-04-01T22:21:43+05:30"
+    },
+    {
         "id": "e09bb832",
         "category": "IPL Scoop",
         "translations": {
@@ -1948,55 +1998,5 @@
         "image": "https://static.toiimg.com/photo/msid-129917654,imgsize-54770.cms",
         "link": "https://timesofindia.indiatimes.com/world/middle-east/uae-extends-distance-learning-till-april-17-ministry-confirms-schools-and-universities-to-remain-online/articleshow/129917535.cms",
         "date": "2026-03-31T11:39:36+05:30"
-    },
-    {
-        "id": "419a8e10",
-        "category": "Belagavi Core Politics",
-        "translations": {
-            "en": {
-                "title": "CM Siddaramaiah Accuses Centre of Delaying Upper Krishna Project",
-                "content": "Karnataka CM Siddaramaiah accused the Union government of deliberately delaying the crucial Upper Krishna Project-III. He stated this delay impacts farmers and the state's development, emphasizing the project's importance for irrigation and water security in the region. The CM urged swift approval and funding from the Centre to ensure timely completion and benefit the local populace, escalating the inter-governmental dispute over infrastructure."
-            },
-            "kn": {
-                "title": "ಸಿಎಂ ಸಿದ್ದರಾಮಯ್ಯ ಅವರಿಂದ ಕೇಂದ್ರದ ಮೇಲೆ ಅಪ್ಪರ್ ಕೃಷ್ಣ ಯೋಜನೆ ವಿಳಂಬ ಆರೋಪ",
-                "content": "ಕರ್ನಾಟಕ ಸಿಎಂ ಸಿದ್ದರಾಮಯ್ಯ ಅವರು ಪ್ರಮುಖ ಅಪ್ಪರ್ ಕೃಷ್ಣ ಯೋಜನೆ-III ಅನ್ನು ಕೇಂದ್ರ ಸರ್ಕಾರ ಉದ್ದೇಶಪೂರ್ವಕವಾಗಿ ವಿಳಂಬ ಮಾಡುತ್ತಿದೆ ಎಂದು ಆರೋಪಿಸಿದರು. ಈ ವಿಳಂಬ ರೈತರು ಮತ್ತು ರಾಜ್ಯದ ಅಭಿವೃದ್ಧಿಯ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರುತ್ತದೆ ಎಂದು ಅವರು ಹೇಳಿದರು, ಪ್ರದೇಶದಲ್ಲಿ ನೀರಾವರಿ ಮತ್ತು ನೀರಿನ ಭದ್ರತೆಗೆ ಯೋಜನೆಯ ಮಹತ್ವವನ್ನು ಒತ್ತಿ ಹೇಳಿದರು. ಸಿಎಂ ಶೀಘ್ರ ಅನುಮೋದನೆ ಮತ್ತು ನಿಧಿಗಾಗಿ ಕೇಂದ್ರವನ್ನು ಒತ್ತಾಯಿಸಿದರು."
-            },
-            "mr": {
-                "title": "मुख्यमंत्री सिद्धरामय्यांकडून केंद्र सरकारवर अप्पर कृष्णा प्रकल्पाच्या विलंबाचा आरोप",
-                "content": "कर्नाटकचे मुख्यमंत्री सिद्धरामय्या यांनी केंद्र सरकारवर महत्त्वाच्या अप्पर कृष्णा प्रकल्प-III ला जाणूनबुजून विलंब केल्याचा आरोप केला. या विलंबाचा शेतकऱ्यांवर आणि राज्याच्या विकासावर परिणाम होतो, असे त्यांनी म्हटले. मुख्यमंत्र्यांनी या प्रकल्पाचे महत्त्व अधोरेखित केले, कारण तो सिंचन आणि पाणी सुरक्षिततेसाठी महत्त्वाचा आहे. त्यांनी केंद्राकडे तातडीने मंजुरी आणि निधी देण्याची मागणी केली."
-            },
-            "hi": {
-                "title": "सीएम सिद्धारमैया ने केंद्र पर अपर कृष्णा परियोजना में देरी का आरोप लगाया",
-                "content": "कर्नाटक के मुख्यमंत्री सिद्धारमैया ने केंद्र सरकार पर महत्वपूर्ण अपर कृष्णा परियोजना-III में जानबूझकर देरी करने का आरोप लगाया है। उन्होंने कहा कि इस देरी से किसानों और राज्य के विकास पर असर पड़ रहा है, और इस क्षेत्र में सिंचाई व जल सुरक्षा के लिए परियोजना के महत्व पर जोर दिया। मुख्यमंत्री ने केंद्र से परियोजना के समय पर पूरा होने के लिए त्वरित मंजूरी और धन की मांग की।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVTFxRFhYS1hQSGFDVmNqcVMtMk5aUXRjMlJDNXpQZnhNUDRvWXU2SW1MeEw2eEpadEZTT1BJR3JIek5rR2EwbUF6TmJVeW1lem1DSmhsRk1iSWNPUDRxR2FndEV6VlBfUDE3QzBhejg0S0ZZNmhIQ18yeXlzVEhmTV9sMkNiRllOT1lMZkx5YXpFUHhvWi15RVI1VmQ4SXViMlVqZFIzejlTeDAwd3pkTVFBMkJaTHhkZmVUb1FOcmxuRHVHcHprYW8yaXU5eTDSAdwBQVVfeXFMUHFtWkxPcUpjMHhSVkUxbW5fNWdCak5rdzZva2pjUHkzdjY2UE52ckRQNFQ5LWE3UVgtNXhVbkhoeVg0M1hfYTV3TVRjUTZBZHlld0JPMWFDanVVRVpxcWFJa3ZIXzhmMVByMXlNQnhaUXhUV1NZYUxyVTFlSlFtMEVDVmxrd0hVZnpqbnQyN1hweGpOQTd2d3FQNjVWQmxZWlAxMGlQc25IYzl0S2w0eGNGUXZSLVROVzB5RWRUd2xmWUk0NnlZbUFUQlVNSDVyb1ZqaTBvTnRBWGdBNQ?oc=5",
-        "date": "Tue, 31 Mar 2026 03:23:45 GMT"
-    },
-    {
-        "id": "957b5541",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "TVK Chief Vijay Booked for Election Violations",
-                "content": "Tamilaga Vettri Kazhagam (TVK) chief Vijay is booked by police for allegedly violating election rules. A complaint cited 30 loudspeakers and over 5,000 people at his gathering, causing public inconvenience and obstructing a pathway, reportedly blocking an ambulance. Police registered a case against Vijay and party workers, just days after TVK's political entry."
-            },
-            "kn": {
-                "title": "TVK ಮುಖ್ಯ ವಿಜಯ್ ವಿರುದ್ಧ ಚುನಾವಣಾ ಉಲ್ಲಂಘನೆಗಾಗಿ ಪ್ರಕರಣ ದಾಖಲು",
-                "content": "ತಮಿಳಗ ವೆಟ್ರಿ ಕಳಗಂ (TVK) ಮುಖ್ಯಸ್ಥ ವಿಜಯ್ ಅವರ ವಿರುದ್ಧ ಚುನಾವಣಾ ನಿಯಮಗಳನ್ನು ಉಲ್ಲಂಘಿಸಿದ ಆರೋಪದ ಮೇಲೆ ಪೊಲೀಸರು ಪ್ರಕರಣ ದಾಖಲಿಸಿದ್ದಾರೆ. ಅವರ ಸಭೆಯಲ್ಲಿ 30 ಧ್ವನಿವರ್ಧಕಗಳು ಮತ್ತು 5,000 ಕ್ಕೂ ಹೆಚ್ಚು ಜನರು ಸೇರಿ ಸಾರ್ವಜನಿಕರಿಗೆ ಅನಾನುಕೂಲತೆ ಉಂಟುಮಾಡಿದೆ ಮತ್ತು ದಾರಿಯನ್ನು ತಡೆದಿದೆ, ವರದಿಯ ಪ್ರಕಾರ ಆಂಬ್ಯುಲೆನ್ಸ್ ಅನ್ನು ಸಹ ತಡೆದಿದೆ ಎಂದು ದೂರು ನೀಡಲಾಗಿದೆ. TVK ರಾಜಕೀಯ ಪ್ರವೇಶಿಸಿದ ಕೆಲವೇ ದಿನಗಳ ನಂತರ, ವಿಜಯ್ ಮತ್ತು ಪಕ್ಷದ ಕಾರ್ಯಕರ್ತರ ವಿರುದ್ಧ ಪೊಲೀಸರು ಪ್ರಕರಣ ದಾಖಲಿಸಿದ್ದಾರೆ."
-            },
-            "mr": {
-                "title": "टीव्हीके प्रमुख विजय यांच्यावर निवडणूक नियमांच्या उल्लंघनासाठी गुन्हा दाखल",
-                "content": "तमिलगा वेट्री कझगम (TVK) प्रमुख विजय यांच्यावर निवडणूक नियमांचे उल्लंघन केल्याप्रकरणी पोलिसांनी गुन्हा दाखल केला आहे. त्यांच्या सभेमध्ये 30 लाऊडस्पीकर आणि 5,000 हून अधिक लोक जमा झाल्याने लोकांना गैरसोय झाली आणि रस्ता अडवला गेला, ज्यामुळे एका रुग्णवाहिकेलाही अडथळा निर्माण झाल्याचे तक्रारीत म्हटले आहे. टीव्हीकेच्या राजकीय प्रवेशाच्या काही दिवसांनंतर, विजय आणि पक्ष कार्यकर्त्यांविरुद्ध पोलिसांनी गुन्हा नोंदवला आहे."
-            },
-            "hi": {
-                "title": "टीवीके प्रमुख विजय पर चुनावी नियमों के उल्लंघन का मामला दर्ज",
-                "content": "तमिलगा वेट्री कज़गम (टीवीके) प्रमुख विजय के खिलाफ चुनावी नियमों का कथित तौर पर उल्लंघन करने के आरोप में पुलिस ने मामला दर्ज किया है। एक शिकायत में बताया गया कि उनकी सभा में 30 लाउडस्पीकर और 5,000 से अधिक लोग जमा हुए, जिससे जनता को असुविधा हुई और रास्ता बाधित हुआ, कथित तौर पर एक एम्बुलेंस भी फंस गई थी। टीवीके के राजनीतिक प्रवेश के कुछ ही दिनों बाद, पुलिस ने विजय और पार्टी कार्यकर्ताओं के खिलाफ मामला दर्ज किया है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129915130,imgsize-637638.cms",
-        "link": "https://timesofindia.indiatimes.com/india/tamil-nadu-tvk-chief-vijay-booked-for-violating-election-rules-day-after-entering-polls/articleshow/129915104.cms",
-        "date": "2026-03-31T09:15:43+05:30"
     }
 ]
