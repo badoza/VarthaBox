@@ -1,5 +1,30 @@
 [
     {
+        "id": "939e0ff2",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "IPL 2026: MI vs KKR Live Watchalong",
+                "content": "Get ready for an electric IPL 2026 clash! Join our live watch-along as Mumbai Indians take on Kolkata Knight Riders in Match 2. Experience every boundary, wicket, and thrilling moment with expert commentary and real-time updates. Don't miss the excitement – immerse yourself in the heart of the action with fellow fans. Stay ahead with all the cricket buzz!"
+            },
+            "kn": {
+                "title": "IPL 2026: MI vs KKR ಲೈವ್ ವಾಚ್‌ಅಲಾಂಗ್",
+                "content": "ವಿದ್ಯುತ್‌ಪೂರ್ಣ IPL 2026 ಹಣಾಹಣಿಗೆ ಸಿದ್ಧರಾಗಿ! ಮುಂಬೈ ಇಂಡಿಯನ್ಸ್ ಮತ್ತು ಕೋಲ್ಕತ್ತಾ ನೈಟ್ ರೈಡರ್ಸ್ ನಡುವಿನ ಪಂದ್ಯ 2 ರ ಲೈವ್ ವಾಚ್‌ಅಲಾಂಗ್‌ಗೆ ಸೇರಿಕೊಳ್ಳಿ. ತಜ್ಞರ ವ್ಯಾಖ್ಯಾನ ಮತ್ತು ನೈಜ-ಸಮಯದ ನವೀಕರಣಗಳೊಂದಿಗೆ ಪ್ರತಿ ಬೌಂಡರಿ, ವಿಕೆಟ್ ಮತ್ತು ರೋಮಾಂಚಕ ಕ್ಷಣವನ್ನು ಅನುಭವಿಸಿ. ಉತ್ಸಾಹವನ್ನು ಕಳೆದುಕೊಳ್ಳಬೇಡಿ – ಸಹ ಅಭಿಮಾನಿಗಳೊಂದಿಗೆ ಆಟದ ಕೇಂದ್ರಬಿಂದುದಲ್ಲಿ ಮುಳುಗಿರಿ. ಎಲ್ಲಾ ಕ್ರಿಕೆಟ್ ಅಪ್‌ಡೇಟ್‌ಗಳೊಂದಿಗೆ ಮುಂದೆ ಇರಿ!"
+            },
+            "mr": {
+                "title": "IPL 2026: MI vs KKR लाइव्ह वॉचअलॉन्ग",
+                "content": "IPL 2026 च्या रोमांचक सामन्यासाठी सज्ज व्हा! मुंबई इंडियन्स आणि कोलकाता नाइट रायडर्स यांच्यातील दुसऱ्या सामन्याच्या आमच्या लाइव्ह वॉचअलॉंगमध्ये सामील व्हा. तज्ञ समालोचन आणि रिअल-टाइम अपडेट्ससह प्रत्येक चौकार, विकेट आणि रोमांचक क्षणाचा अनुभव घ्या. उत्साह चुकवू नका – सहकारी चाहत्यांसोबत कृतीच्या केंद्रस्थानी स्वतःला बुडवा. सर्व क्रिकेट अपडेट्ससह पुढे रहा!"
+            },
+            "hi": {
+                "title": "IPL 2026: MI बनाम KKR लाइव वॉचअलोंग",
+                "content": "एक रोमांचक IPL 2026 मुकाबले के लिए तैयार हो जाइए! हमारे लाइव वॉचअलोंग में शामिल हों जहाँ मुंबई इंडियंस, कोलकाता नाइट राइडर्स से मैच 2 में भिड़ेगी। विशेषज्ञ कमेंट्री और रीयल-टाइम अपडेट्स के साथ हर बाउंड्री, विकेट और रोमांचक पल का अनुभव करें। इस उत्साह को न छोड़ें – साथी प्रशंसकों के साथ एक्शन के केंद्र में डूब जाएं। सभी क्रिकेट अपडेट्स के साथ आगे रहें!"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iX2YwOGxMVTRXeEtGcDkxZ05MQjliaDNIUmtLWi1Ua3VKTExzR2pwZDlhc2RUVURUcFhTOVFnV2tHR1l2SUpyUlJmYXlCTTd0OEZ5M0E1QWNoUTJVREwxTmZzS0JVRElBdGw0VHpOQXY?oc=5",
+        "date": "Tue, 31 Mar 2026 20:04:59 GMT"
+    },
+    {
         "id": "e189d487",
         "category": "IPL Scoop",
         "translations": {
@@ -1973,30 +1998,5 @@
         "image": "https://static.toiimg.com/photo/msid-129891083,imgsize-1051367.cms",
         "link": "https://timesofindia.indiatimes.com/world/pakistan/pakistan-a-base-for-major-terror-groups-some-active-since-1980s-us-congress-report/articleshow/129890959.cms",
         "date": "2026-03-30T11:03:53+05:30"
-    },
-    {
-        "id": "88c0c7f8",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "Man Fatally Stabbed Near Mobile Dispensary in Bronx",
-                "content": "A 35-year-old man was fatally stabbed late Saturday night in the Bronx, collapsing near a mobile cannabis dispensary on Webster Avenue. Responders found him with a chest wound and transported him to St. Barnabas Hospital, where he was pronounced dead. Police are actively investigating the late-night attack."
-            },
-            "kn": {
-                "title": "ಬ್ರಾಂಕ್ಸ್‌ನಲ್ಲಿ ಮೊಬೈಲ್ ಡಿಸ್ಪೆನ್ಸರಿ ಬಳಿ ವ್ಯಕ್ತಿ ಮಾರಣಾಂತಿಕವಾಗಿ ಇರಿತ",
-                "content": "ಬ್ರಾಂಕ್ಸ್‌ನಲ್ಲಿ ಶನಿವಾರ ರಾತ್ರಿ 35 ವರ್ಷದ ವ್ಯಕ್ತಿಯನ್ನು ಮಾರಣಾಂತಿಕವಾಗಿ ಇರಿಯಲಾಯಿತು. ವೆಬ್‌ಸ್ಟರ್ ಅವೆನ್ಯೂದಲ್ಲಿರುವ ಮೊಬೈಲ್ ಗಾಂಜಾ ಡಿಸ್ಪೆನ್ಸರಿ ಬಳಿ ಅವರು ಕುಸಿದು ಬಿದ್ದ ಸ್ಥಿತಿಯಲ್ಲಿ ಪತ್ತೆಯಾದರು. ಸ್ಪಂದಿಸಿದವರು ಅವರ ಎದೆಗೆ ಗಾಯವಾಗಿರುವುದನ್ನು ಪತ್ತೆ ಮಾಡಿ ಸೇಂಟ್ ಬರ್ನಾಬಸ್ ಆಸ್ಪತ್ರೆಗೆ ಸಾಗಿಸಿದರು, ಅಲ್ಲಿ ಅವರನ್ನು ಮೃತ ಎಂದು ಘೋಷಿಸಲಾಯಿತು. ಈ ರಾತ್ರಿಯ ದಾಳಿಯ ಬಗ್ಗೆ ಪೊಲೀಸರು ಸಕ್ರಿಯವಾಗಿ ತನಿಖೆ ನಡೆಸುತ್ತಿದ್ದಾರೆ."
-            },
-            "mr": {
-                "title": "ब्रॉन्क्समध्ये मोबाईल औषधालयाजवळ एका व्यक्तीची चाकूने भोसकून हत्या",
-                "content": "ब्रॉन्क्समध्ये शनिवारी रात्री उशिरा एका 35 वर्षीय व्यक्तीची चाकूने भोसकून हत्या करण्यात आली. तो वेबस्टर एव्हेन्यूवरील एका मोबाईल कॅनॅबिस औषधालयाजवळ कोसळलेल्या अवस्थेत आढळला. प्रतिसादकांनी त्याला छातीत जखम झाल्याचे पाहिले आणि त्याला सेंट बर्नबास रुग्णालयात नेले, जिथे त्याला मृत घोषित करण्यात आले. रात्रीच्या या हल्ल्याचा पोलीस सक्रियपणे तपास करत आहेत."
-            },
-            "hi": {
-                "title": "ब्रोंक्स में मोबाइल डिस्पेंसरी के पास एक व्यक्ति की चाकू मारकर हत्या",
-                "content": "ब्रोंक्स में शनिवार देर रात एक 35 वर्षीय व्यक्ति को चाकू मारकर मार डाला गया। वह वेबस्टर एवेन्यू पर एक मोबाइल कैनबिस डिस्पेंसरी के पास गिरा हुआ मिला। बचावकर्ताओं ने उसके सीने में घाव पाया और उसे सेंट बर्नबास अस्पताल ले गए, जहां उसे मृत घोषित कर दिया गया। पुलिस इस देर रात हुए हमले की सक्रिय रूप से जांच कर रही है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129892146,imgsize-52172.cms",
-        "link": "https://timesofindia.indiatimes.com/world/us/man-fatally-stabbed-near-mobile-pot-dispensary-in-bronx-late-night-attack/articleshow/129891857.cms",
-        "date": "2026-03-30T10:56:08+05:30"
     }
 ]
