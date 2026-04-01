@@ -1,5 +1,80 @@
 [
     {
+        "id": "73b794e5",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "Lewandowski Backs Noem Amid New Controversy",
+                "content": "Corey Lewandowski has publicly affirmed his strong support for South Dakota Governor Kristi Noem, declaring he's 'standing by her' amidst a new controversy involving her and Bryon Noem. As Governor Noem faces fresh scrutiny, the former Trump campaign manager's public solidarity highlights ongoing political tensions. Details of this evolving situation continue to draw significant media attention."
+            },
+            "kn": {
+                "title": "ಹೊಸ ವಿವಾದದ ನಡುವೆ ಲೆವಾಂಡೋವ್ಸ್ಕಿ ನೋಮ್‌ಗೆ ಬೆಂಬಲ",
+                "content": "ಕೋರಿ ಲೆವಾಂಡೋವ್ಸ್ಕಿ ಅವರು ದಕ್ಷಿಣ ಡಕೋಟಾ ಗವರ್ನರ್ ಕ್ರಿಸ್ಟಿ ನೋಮ್‌ಗೆ ಬ್ರಿಯಾನ್ ನೋಮ್ ಅವರೊಂದಿಗೆ ಹೊಸ ವಿವಾದದ ನಡುವೆ ತಮ್ಮ ದೃಢ ಬೆಂಬಲವನ್ನು ಸಾರ್ವಜನಿಕವಾಗಿ ಘೋಷಿಸಿದ್ದಾರೆ, 'ಅವರೊಂದಿಗೆ ನಿಲ್ಲುತ್ತೇನೆ' ಎಂದು ಹೇಳಿದ್ದಾರೆ. ಗವರ್ನರ್ ನೋಮ್ ಹೊಸ ಪರಿಶೀಲನೆಯನ್ನು ಎದುರಿಸುತ್ತಿರುವಾಗ, ಮಾಜಿ ಟ್ರಂಪ್ ಪ್ರಚಾರ ವ್ಯವಸ್ಥಾಪಕರ ಸಾರ್ವಜನಿಕ ಐಕ್ಯತೆ ನಡೆಯುತ್ತಿರುವ ರಾಜಕೀಯ ಉದ್ವಿಗ್ನತೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ಈ ವಿಕಸನಗೊಳ್ಳುತ್ತಿರುವ ಪರಿಸ್ಥಿತಿಯ ವಿವರಗಳು ಗಮನಾರ್ಹ ಮಾಧ್ಯಮ ಗಮನವನ್ನು ಸೆಳೆಯುತ್ತಲೇ ಇವೆ."
+            },
+            "mr": {
+                "title": "नवीन वादामुळे लेवांडोव्स्की यांचा नोएमला पाठिंबा",
+                "content": "कोरी लेवांडोव्स्की यांनी दक्षिण डकोटाच्या गव्हर्नर क्रिस्टी नोएम यांना ब्रायन नोएम यांच्याशी संबंधित नवीन वादामुळे 'त्यांच्या पाठीशी उभे' असल्याचे सांगत आपला ठाम पाठिंबा जाहीर केला आहे. गव्हर्नर नोएम यांना नवीन तपासणीला सामोरे जावे लागत असताना, ट्रम्प यांच्या माजी प्रचार व्यवस्थापकाची ही सार्वजनिक एकजूट सध्याच्या राजकीय तणावावर प्रकाश टाकते. या विकसनशील परिस्थितीचे तपशील महत्त्वाचे माध्यमांचे लक्ष वेधून घेत आहेत."
+            },
+            "hi": {
+                "title": "नए विवाद के बीच लेवांडोव्स्की ने नोएम का किया समर्थन",
+                "content": "कोरी लेवांडोव्स्की ने दक्षिण डकोटा की गवर्नर क्रिस्टी नोएम को ब्रायन नोएम से जुड़े एक नए विवाद के बीच 'उनके साथ खड़े रहने' की घोषणा करते हुए अपना दृढ़ समर्थन सार्वजनिक रूप से व्यक्त किया है। चूंकि गवर्नर नोएम को नए सिरे से जांच का सामना करना पड़ रहा है, पूर्व ट्रम्प अभियान प्रबंधक की सार्वजनिक एकजुटता चल रहे राजनीतिक तनावों को उजागर करती है। इस विकसित होती स्थिति का विवरण महत्वपूर्ण मीडिया का ध्यान आकर्षित कर रहा है।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPS2czNWwwQWRTZm1tb3lCSEc3b040ay1lZFRVZldGTXpWdVFqaUQ2c1NlR0NhY2RRS2NWLUlGRkUwVmZjRm9jOXFrdVRSQ2YtZkNGcU56eGY4QWprSG9wa05pal9tZ3dkbHF0RF9VMjRtdzRzWEhRNWh2WmYxZlJoUlF4bXZYVVV2V2t0WklWU1d1U2ZoWlU2bjFqY2RLRGRHRGZHcnRZNUFtblRNeFRUY0psVTVNTTJxaGJ6SURPVHNwelhqdThJUGNxZmpYSmR0MGM0cDVFYlZOTW5vbUw4akJZYlhtdjRtdTJoX3BPclN1N2psbU5TczROR19vSFBy0gGGAkFVX3lxTFA5bnIyU1lwZUptNFZFNTItdTkxcnFEYzFySGhCWG1uaDZVa2tQLXFBeTlPS0Y0V2ZvaWhFUERLYWFJTk0wZTI2a3pxNWxicDN4SHh6OW44Zjl0clZjdVg0YmNEc28yRUpaaklTSW85ZFlnNk0zUF8xa1Fib1dIbXlYTW50MXBTUzZ0RGJSM2d2VXZ5dzNjXzljSGktVzBDWE1mbFFUdHN2M1JFWjVHNWVpWEgtS2lyT2RIZVZQSk5DRjN3ajRVUWcxX253bHlIem1HdlhKajNLMHV6R1pzdnNobGpLZnp1U1JRcmt3dXB1dE83bWpwUEc0d096S1lFMDFOMGJzVHc?oc=5",
+        "date": "Wed, 01 Apr 2026 19:04:41 GMT"
+    },
+    {
+        "id": "94a664b0",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Noem's Husband Promises Revelation on 'Secret Life'",
+                "content": "Kristi Noem's husband stated he would reveal his perspective on the 'secret life' controversy, but not today. This comes amidst public speculation surrounding Noem. His forthcoming account is anticipated to shed light on the situation, promising a future disclosure of details previously kept private."
+            },
+            "kn": {
+                "title": "ನೋಮ್ ಅವರ ಪತಿ 'ರಹಸ್ಯ ಜೀವನ'ದ ಕುರಿತು ಬಹಿರಂಗಪಡಿಸಲು ಭರವಸೆ",
+                "content": "ಕ್ರಿಸ್ಟಿ ನೋಮ್ ಅವರ ಪತಿ 'ರಹಸ್ಯ ಜೀವನ' ವಿವಾದದ ಬಗ್ಗೆ ತಮ್ಮ ದೃಷ್ಟಿಕೋನವನ್ನು ಬಹಿರಂಗಪಡಿಸುವುದಾಗಿ ಹೇಳಿದ್ದಾರೆ, ಆದರೆ ಇಂದಲ್ಲ. ನೋಮ್ ಅವರನ್ನು ಸುತ್ತುವರಿದ ಸಾರ್ವಜನಿಕ ಊಹಾಪೋಹಗಳ ನಡುವೆ ಇದು ಬಂದಿದೆ. ಅವರ ಮುಂದಿನ ವಿವರಣೆಯು ಪರಿಸ್ಥಿತಿಯ ಮೇಲೆ ಬೆಳಕು ಚೆಲ್ಲುವ ನಿರೀಕ್ಷೆಯಿದೆ, ಹಿಂದೆ ಖಾಸಗಿಯಾಗಿ ಇರಿಸಲಾಗಿದ್ದ ವಿವರಗಳನ್ನು ಭವಿಷ್ಯದಲ್ಲಿ ಬಹಿರಂಗಪಡಿಸುವುದಾಗಿ ಭರವಸೆ ನೀಡಿದೆ."
+            },
+            "mr": {
+                "title": "नोएमच्या पतीने 'गुप्त आयुष्या'बद्दल खुलासे करण्याचे वचन दिले",
+                "content": "क्रिस्टी नोएमच्या पतीने 'गुप्त आयुष्या'च्या वादावर आपले मत उघड करणार असल्याचे सांगितले, पण आज नाही. नोएमभोवतीच्या सार्वजनिक अटकळांदरम्यान हे आले आहे. त्यांच्या आगामी कथनामुळे परिस्थितीवर प्रकाश पडण्याची अपेक्षा आहे, ज्यात पूर्वी खाजगी ठेवलेल्या तपशीलांचे भविष्यकालीन प्रकटीकरण करण्याचे आश्वासन दिले आहे."
+            },
+            "hi": {
+                "title": "नोएम के पति ने 'गुप्त जीवन' पर खुलासे का वादा किया",
+                "content": "क्रिस्टी नोएम के पति ने 'गुप्त जीवन' विवाद पर अपना पक्ष उजागर करने की बात कही है, लेकिन आज नहीं। यह नोएम को घेरने वाली सार्वजनिक अटकलों के बीच आया है। उनके आने वाले बयान से स्थिति पर प्रकाश पड़ने की उम्मीद है, जिसमें पहले गुप्त रखे गए विवरणों का भविष्य में खुलासा करने का वादा किया गया है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129961128,imgsize-42760.cms",
+        "link": "https://timesofindia.indiatimes.com/world/us/today-is-not-the-day-kristi-noems-husband-says-he-will-reveal-his-side-of-story-on-secret-life/articleshow/129961050.cms",
+        "date": "2026-04-02T00:31:45+05:30"
+    },
+    {
+        "id": "e1b49feb",
+        "category": "Sports",
+        "translations": {
+            "en": {
+                "title": "Rizvi's Unbeaten 70 Powers DC Victory",
+                "content": "Sameer Rizvi's unbeaten 70 and Tristan Stubbs' 39* led Delhi Capitals to a stunning six-wicket victory over Lucknow Super Giants. Recovering from a disastrous 26 for 4, their unbroken 119-run partnership chased down LSG's 141 with ease. A remarkable turnaround for DC!"
+            },
+            "kn": {
+                "title": "ರಿಜ್ವಿ ಅವರ ಅಜೇಯ 70 ರನ್, DC ಗೆ ಗೆಲುವು ತಂದಿತು",
+                "content": "ಸಮೀರ್ ರಿಜ್ವಿ ಅವರ ಅಜೇಯ 70 ರನ್ ಮತ್ತು ಟ್ರಿಸ್ಟಾನ್ ಸ್ಟಬ್ಸ್ ಅವರ 39* ರನ್, ಡೆಲ್ಲಿ ಕ್ಯಾಪಿಟಲ್ಸ್ ತಂಡವನ್ನು ಲಕ್ನೋ ಸೂಪರ್ ಜೈಂಟ್ಸ್ ವಿರುದ್ಧ ಭರ್ಜರಿ ಆರು ವಿಕೆಟ್ ಗಳ ಜಯಕ್ಕೆ ಕೊಂಡೊಯ್ದಿತು. 26ಕ್ಕೆ 4 ವಿಕೆಟ್ ಕಳೆದುಕೊಂಡು ಸಂಕಷ್ಟದಲ್ಲಿದ್ದ ತಂಡವನ್ನು, ಅವರ ಅಜೇಯ 119 ರನ್ ಗಳ ಜೊತೆಯಾಟವು LSG ಯ 141 ರನ್ ಗಳ ಗುರಿಯನ್ನು ಸುಲಭವಾಗಿ ಬೆನ್ನಟ್ಟಲು ಸಹಾಯ ಮಾಡಿತು. DC ಗೆ ಇದು ಒಂದು ಅದ್ಭುತ ಕಮ್‌ಬ್ಯಾಕ್!"
+            },
+            "mr": {
+                "title": "रिझवीच्या नाबाद 70 धावांनी दिल्लीला विजय मिळवून दिला",
+                "content": "समीर रिझवीच्या नाबाद 70 धावा आणि ट्रिस्टन स्टब्सच्या 39* धावांनी दिल्ली कॅपिटल्सला लखनऊ सुपर जायंट्सविरुद्ध शानदार सहा विकेट्सनी विजय मिळवून दिला. 26 धावांत 4 गडी गमावल्यानंतर, त्यांच्या 119 धावांच्या नाबाद भागीदारीने LSG चे 141 धावांचे लक्ष्य सहज गाठले. DC साठी हा एक उल्लेखनीय पुनरागमन होता!"
+            },
+            "hi": {
+                "title": "रिज़वी के नाबाद 70 रन ने DC को दिलाई जीत",
+                "content": "समीर रिज़वी के नाबाद 70 और ट्रिस्टन स्टब्स के 39* रनों ने दिल्ली कैपिटल्स को लखनऊ सुपर जायंट्स पर शानदार छह विकेट की जीत दिलाई। 26 रन पर 4 विकेट गिरने की खराब शुरुआत के बाद, उनकी 119 रन की अटूट साझेदारी ने LSG के 141 रन के लक्ष्य का आसानी से पीछा किया। DC के लिए एक उल्लेखनीय वापसी!"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129959511,imgsize-861939.cms",
+        "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/lsg-vs-dc-sameer-rizvis-unbeaten-70-guides-delhi-capitals-to-six-wicket-victory/articleshow/129959505.cms",
+        "date": "2026-04-01T23:23:34+05:30"
+    },
+    {
         "id": "4e07f0aa",
         "category": "IPL Scoop",
         "translations": {
@@ -1923,80 +1998,5 @@
         "image": "https://static.toiimg.com/photo/msid-129916529,imgsize-124326.cms",
         "link": "https://timesofindia.indiatimes.com/world/us/usha-vance-turns-narrator-opens-podcast-to-promote-child-literacy-netizens-blame-jd-vance-for-defunding-the-department-of-education/articleshow/129916529.cms",
         "date": "2026-03-31T11:01:43+05:30"
-    },
-    {
-        "id": "b53e4f60",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "Curtis Sliwa Faces GOP Backlash for Comedy Skit with NYC Mayor",
-                "content": "Former Republican rival Curtis Sliwa faced intense backlash after appearing in a charity gala comedy skit with New York City Mayor Zohran Mamdani. The staged parody, featuring Sliwa's love for cats, drew accusations of \"betrayal\" and questioned loyalty from prominent Republicans, including former Governor David Paterson, who criticized the unusual collaboration."
-            },
-            "kn": {
-                "title": "ಎನ್‌ವೈಸಿ ಮೇಯರ್ ಜೊತೆ ಹಾಸ್ಯ ಸ್ಕಿಟ್‌ಗಾಗಿ ಕರ್ಟಿಸ್ ಸ್ಲಿವಾ ಜಿಒಪಿ ಕೆಂಗಣ್ಣಿಗೆ ಗುರಿ",
-                "content": "ಮಾಜಿ ರಿಪಬ್ಲಿಕನ್ ಪ್ರತಿಸ್ಪರ್ಧಿ ಕರ್ಟಿಸ್ ಸ್ಲಿವಾ ಅವರು ನ್ಯೂಯಾರ್ಕ್ ಸಿಟಿ ಮೇಯರ್ ಜೊಹ್ರಾನ್ ಮಾಮ್ದಾನಿ ಅವರೊಂದಿಗೆ ಚಾರಿಟಿ ಗಾಲಾ ಹಾಸ್ಯ ಸ್ಕಿಟ್‌ನಲ್ಲಿ ಕಾಣಿಸಿಕೊಂಡ ನಂತರ ತೀವ್ರ ವಿರೋಧವನ್ನು ಎದುರಿಸಿದರು. ಸ್ಲಿವಾ ಅವರ ಬೆಕ್ಕುಗಳ ಮೇಲಿನ ಪ್ರೀತಿಯನ್ನು ಒಳಗೊಂಡಿದ್ದ ಈ ಪ್ರಹಸನವು, ಮಾಜಿ ಗವರ್ನರ್ ಡೇವಿಡ್ ಪ್ಯಾಟರ್ಸನ್ ಸೇರಿದಂತೆ ಪ್ರಮುಖ ರಿಪಬ್ಲಿಕನ್ನರಿಂದ \"ದ್ರೋಹ\" ಆರೋಪಗಳನ್ನು ಮತ್ತು ನಿಷ್ಠೆಯ ಪ್ರಶ್ನೆಗಳನ್ನು ಹುಟ್ಟುಹಾಕಿತು, ಅವರು ಈ ಅಸಾಮಾನ್ಯ ಸಹಯೋಗವನ್ನು ಟೀಕಿಸಿದರು."
-            },
-            "mr": {
-                "title": "एनवायसी महापौरांसोबतच्या विनोदी स्किटमुळे कर्टिस स्लिवाला जीओपीचा रोष",
-                "content": "न्यूयॉर्क शहराचे महापौर झोहरान ममदानी यांच्यासोबत चॅरिटी गाला विनोदी स्किटमध्ये दिसल्यानंतर माजी रिपब्लिकन प्रतिस्पर्धी कर्टिस स्लिवा यांना तीव्र टीकेला सामोरे जावे लागले. स्लिवाच्या मांजरांवरील प्रेमावर आधारित या नाटकीय विनोदाने, माजी गव्हर्नर डेव्हिड पॅटरसन यांच्यासह प्रमुख रिपब्लिकन नेत्यांकडून \"विश्वासघात\" आणि निष्ठेवर प्रश्नचिन्ह उपस्थित केले, ज्यांनी या अनपेक्षित सहकार्यावर टीका केली."
-            },
-            "hi": {
-                "title": "एनवाईसी मेयर के साथ कॉमेडी स्कि‍ट को लेकर कर्टिस स्लिवा को जीओपी का विरोध",
-                "content": "न्यूयॉर्क सिटी के मेयर जोहरान ममदानी के साथ एक चैरिटी गाला कॉमेडी स्कि‍ट में नज़र आने के बाद पूर्व रिपब्लिकन प्रतिद्वंद्वी कर्टिस स्लिवा को तीव्र विरोध का सामना करना पड़ा। स्लिवा के बिल्लियों के प्रति प्रेम को दर्शाने वाली इस मंचित पैरोडी ने पूर्व गवर्नर डेविड पैटरसन सहित प्रमुख रिपब्लिकन नेताओं से \"विश्वासघात\" के आरोप और वफादारी पर सवाल खड़े किए, जिन्होंने इस असामान्य सहयोग की आलोचना की।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129917419,imgsize-602659.cms",
-        "link": "https://timesofindia.indiatimes.com/world/us/republican-betrayer-curtis-silwa-faces-backlash-for-comedy-skit-with-nyc-mayor-zohran-mamdani/articleshow/129916852.cms",
-        "date": "2026-03-31T11:25:24+05:30"
-    },
-    {
-        "id": "dd8eefb0",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "UAE Fuel Prices to Soar in April 2026?",
-                "content": "UAE motorists should brace for higher fuel prices in April 2026 as global crude oil nears $115/barrel. Monthly adjustments reflect international market trends. Tight supply, steady demand, and geopolitical factors are driving this surge. Residents can expect increased commuting and logistics costs, impacting daily budgets. Stay informed as prices continue their upward trajectory."
-            },
-            "kn": {
-                "title": "ಯುಎಇ ಇಂಧನ ಬೆಲೆಗಳು ಏಪ್ರಿಲ್ 2026 ರಲ್ಲಿ ಏರಿಕೆಯಾಗಲಿವೆಯೇ?",
-                "content": "ಜಾಗತಿಕ ಕಚ್ಚಾ ತೈಲವು ಪ್ರತಿ ಬ್ಯಾರೆಲ್‌ಗೆ $115 ಸಮೀಪಿಸುತ್ತಿರುವುದರಿಂದ, ಯುಎಇ ವಾಹನ ಸವಾರರು ಏಪ್ರಿಲ್ 2026 ರಲ್ಲಿ ಹೆಚ್ಚಿನ ಇಂಧನ ಬೆಲೆಗಳಿಗೆ ಸಿದ್ಧರಾಗಿರಬೇಕು. ಮಾಸಿಕ ಹೊಂದಾಣಿಕೆಗಳು ಅಂತರರಾಷ್ಟ್ರೀಯ ಮಾರುಕಟ್ಟೆ ಪ್ರವೃತ್ತಿಗಳನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತವೆ. ಬಿಗಿಯಾದ ಪೂರೈಕೆ, ಸ್ಥಿರ ಬೇಡಿಕೆ ಮತ್ತು ಭೌಗೋಳಿಕ ರಾಜಕೀಯ ಅಂಶಗಳು ಈ ಏರಿಕೆಗೆ ಕಾರಣವಾಗಿವೆ. ನಿವಾಸಿಗಳು ಪ್ರಯಾಣ ಮತ್ತು ಲಾಜಿಸ್ಟಿಕ್ಸ್ ವೆಚ್ಚಗಳಲ್ಲಿ ಹೆಚ್ಚಳವನ್ನು ನಿರೀಕ್ಷಿಸಬಹುದು, ಇದು ದೈನಂದಿನ ಬಜೆಟ್‌ಗಳ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರುತ್ತದೆ. ಬೆಲೆಗಳು ಏರಿಕೆಯಾಗುತ್ತಿರುವುದರಿಂದ ಮಾಹಿತಿ ಪಡೆದಿರಿ."
-            },
-            "mr": {
-                "title": "एप्रिल 2026 मध्ये UAE मध्ये इंधनाच्या किमती वाढणार?",
-                "content": "जागतिक कच्च्या तेलाची किंमत $115 प्रति बॅरलजवळ पोहोचल्याने, UAE मधील वाहनधारकांनी एप्रिल 2026 मध्ये इंधनाच्या वाढीव किमतींसाठी तयार राहावे. मासिक समायोजन आंतरराष्ट्रीय बाजारातील ट्रेंड दर्शवते. कमी पुरवठा, स्थिर मागणी आणि भू-राजकीय घटक या वाढीस कारणीभूत आहेत. रहिवाशांना प्रवासाच्या आणि लॉजिस्टिक्सच्या खर्चात वाढ अपेक्षित आहे, ज्यामुळे दैनंदिन बजेटवर परिणाम होईल. किमती वाढत राहिल्याने माहिती ठेवा."
-            },
-            "hi": {
-                "title": "अप्रैल 2026 में यूएई में बढ़ेंगे ईंधन के दाम?",
-                "content": "वैश्विक कच्चे तेल के $115 प्रति बैरल के करीब पहुंचने के कारण यूएई के मोटर चालकों को अप्रैल 2026 में ईंधन की ऊंची कीमतों के लिए तैयार रहना चाहिए। मासिक समायोजन अंतरराष्ट्रीय बाजार के रुझानों को दर्शाता है। आपूर्ति में कमी, स्थिर मांग और भू-राजनीतिक कारक इस वृद्धि को बढ़ावा दे रहे हैं। निवासियों को यात्रा और लॉजिस्टिक्स लागत में वृद्धि की उम्मीद है, जिससे दैनिक बजट प्रभावित होगा। कीमतों में लगातार बढ़ोतरी पर जानकारी रखें।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129917003,imgsize-142430.cms",
-        "link": "https://timesofindia.indiatimes.com/world/middle-east/will-uae-fuel-prices-rise-in-april-2026-as-global-crude-nears-115-what-motorists-can-expect/articleshow/129916960.cms",
-        "date": "2026-03-31T11:06:21+05:30"
-    },
-    {
-        "id": "afca9ffc",
-        "category": "Belagavi Core Politics",
-        "translations": {
-            "en": {
-                "title": "Karnataka CM Signals Cabinet Reshuffle",
-                "content": "Karnataka CM Basavaraj Bommai has indicated an imminent cabinet reshuffle, stating it will happen \"soon.\" This move comes ahead of the crucial state assembly polls, suggesting strategic adjustments to his government's team. Political observers anticipate the reshuffle could be aimed at boosting public perception and optimizing performance before the elections."
-            },
-            "kn": {
-                "title": "ಕರ್ನಾಟಕ ಸಿಎಂ ಸಂಪುಟ ಪುನರ್ರಚನೆಗೆ ಸೂಚನೆ",
-                "content": "ಕರ್ನಾಟಕ ಸಿಎಂ ಬಸವರಾಜ ಬೊಮ್ಮಾಯಿ ಅವರು ಸಂಪುಟ ಪುನರ್ರಚನೆ ಶೀಘ್ರದಲ್ಲೇ ನಡೆಯಲಿದೆ ಎಂದು ತಿಳಿಸಿದ್ದಾರೆ. ಮುಂಬರುವ ಮಹತ್ವದ ರಾಜ್ಯ ವಿಧಾನಸಭಾ ಚುನಾವಣೆಗಳ ಮುನ್ನ ಈ ನಡೆ, ತಮ್ಮ ಸರ್ಕಾರದ ತಂಡದಲ್ಲಿ ಕಾರ್ಯತಂತ್ರದ ಹೊಂದಾಣಿಕೆಗಳನ್ನು ಸೂಚಿಸುತ್ತದೆ. ರಾಜಕೀಯ ವಿಶ್ಲೇಷಕರು ಈ ಪುನರ್ರಚನೆಯು ಸಾರ್ವಜನಿಕರ ಗ್ರಹಿಕೆಯನ್ನು ಹೆಚ್ಚಿಸುವ ಮತ್ತು ಚುನಾವಣೆಗಳ ಮೊದಲು ಕಾರ್ಯಕ್ಷಮತೆಯನ್ನು ಉತ್ತಮಗೊಳಿಸುವ ಗುರಿಯನ್ನು ಹೊಂದಿದೆ ಎಂದು ನಿರೀಕ್ಷಿಸಿದ್ದಾರೆ."
-            },
-            "mr": {
-                "title": "कर्नाटकच्या मुख्यमंत्र्यांकडून मंत्रिमंडळ फेरबदलाचे संकेत",
-                "content": "कर्नाटकचे मुख्यमंत्री बसवराज बोम्मई यांनी लवकरच मंत्रिमंडळ फेरबदल होणार असल्याचे संकेत दिले आहेत. आगामी महत्त्वपूर्ण विधानसभा निवडणुकांपूर्वी हा निर्णय त्यांच्या सरकारच्या संघात धोरणात्मक बदल सूचित करतो. राजकीय निरीक्षकांच्या मते, हा फेरबदल निवडणुकीपूर्वी जनतेमधील प्रतिमा सुधारण्यासाठी आणि कार्यक्षमतेत वाढ करण्यासाठी केला जाऊ शकतो."
-            },
-            "hi": {
-                "title": "कर्नाटक सीएम ने मंत्रिमंडल फेरबदल का संकेत दिया",
-                "content": "कर्नाटक के मुख्यमंत्री बसवराज बोम्मई ने संकेत दिया है कि जल्द ही मंत्रिमंडल में फेरबदल होगा। यह कदम महत्वपूर्ण राज्य विधानसभा चुनावों से पहले आया है, जो उनकी सरकार की टीम में रणनीतिक समायोजन का सुझाव देता है। राजनीतिक पर्यवेक्षकों का अनुमान है कि इस फेरबदल का उद्देश्य चुनावों से पहले सार्वजनिक धारणा को बढ़ावा देना और प्रदर्शन को अनुकूलित करना हो सकता है।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUEhpMjF2R2Vhd3RpM2tZTFRWZmZfdDhUeWs5OUl1aFAta0ZrckdGeVZ2TmlaalZRa3lvdjR3Wm1vTlduSFEyYmZKa1ozYkRaeFFlNGtXZ1NLZGVmai00QWZ5RVQ4Vk9JT2xiOTl0QU5WV3AzNnJwUjQwNUlEY1h2bFRaZVBPdl81TTBTNXgzMmRIeWZzSDhhNHhzMExiQlh1VXlmZm5qTU1iQU5FaXNJ?oc=5",
-        "date": "Mon, 30 Mar 2026 18:47:17 GMT"
     }
 ]
