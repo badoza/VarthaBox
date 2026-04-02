@@ -1,5 +1,55 @@
 [
     {
+        "id": "981ecd8f",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "India's Defence Exports Hit Record High",
+                "content": "India's defence exports hit a record Rs 38,424 crore in FY 2025-26, marking a significant 62.7% increase. This surge highlights rising global trust in India's indigenous defence manufacturing prowess. Exporting missile systems, artillery, and aircraft to over 80 nations, India is rapidly strengthening its standing as a major global defence exporter."
+            },
+            "kn": {
+                "title": "ಭಾರತದ ರಕ್ಷಣಾ ರಫ್ತು ದಾಖಲೆ ಮಟ್ಟಕ್ಕೆ ಏರಿಕೆ",
+                "content": "ಭಾರತದ ರಕ್ಷಣಾ ರಫ್ತು 2025-26 ಆರ್ಥಿಕ ವರ್ಷದಲ್ಲಿ 38,424 ಕೋಟಿ ರೂ.ಗಳ ದಾಖಲೆ ಮಟ್ಟವನ್ನು ತಲುಪಿದೆ, ಇದು 62.7% ರಷ್ಟು ಗಮನಾರ್ಹ ಹೆಚ್ಚಳವಾಗಿದೆ. ಈ ಏರಿಕೆ ಭಾರತದ ಸ್ಥಳೀಯ ರಕ್ಷಣಾ ಉತ್ಪಾದನಾ ಸಾಮರ್ಥ್ಯಗಳಲ್ಲಿ ಜಾಗತಿಕ ನಂಬಿಕೆ ಹೆಚ್ಚುತ್ತಿರುವುದನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. 80ಕ್ಕೂ ಹೆಚ್ಚು ದೇಶಗಳಿಗೆ ಕ್ಷಿಪಣಿ ವ್ಯವಸ್ಥೆಗಳು, ಫಿರಂಗಿ ಮತ್ತು ವಿಮಾನಗಳನ್ನು ರಫ್ತು ಮಾಡುವ ಮೂಲಕ, ಭಾರತವು ಪ್ರಮುಖ ಜಾಗತಿಕ ರಕ್ಷಣಾ ರಫ್ತುದಾರನಾಗಿ ತನ್ನ ಸ್ಥಾನವನ್ನು ವೇಗವಾಗಿ ಬಲಪಡಿಸುತ್ತಿದೆ."
+            },
+            "mr": {
+                "title": "भारताची संरक्षण निर्यात विक्रमी उच्चांकावर",
+                "content": "भारताच्या संरक्षण निर्यातीने आर्थिक वर्ष 2025-26 मध्ये 38,424 कोटी रुपयांचा विक्रमी आकडा गाठला, ज्यात 62.7% ची महत्त्वपूर्ण वाढ झाली आहे. ही वाढ भारताच्या स्वदेशी संरक्षण उत्पादन क्षमतेवरील वाढत्या जागतिक विश्वासाला अधोरेखित करते. 80 हून अधिक देशांना क्षेपणास्त्र प्रणाली, तोफखाना आणि विमानांची निर्यात करून, भारत एक प्रमुख जागतिक संरक्षण निर्यातदार म्हणून आपली स्थिती वेगाने मजबूत करत आहे."
+            },
+            "hi": {
+                "title": "भारत का रक्षा निर्यात रिकॉर्ड ऊंचाई पर",
+                "content": "भारत का रक्षा निर्यात वित्त वर्ष 2025-26 में रिकॉर्ड 38,424 करोड़ रुपये तक पहुंच गया है, जो 62.7% की उल्लेखनीय वृद्धि दर्शाता है। यह उछाल भारत की स्वदेशी रक्षा विनिर्माण क्षमता में बढ़ते वैश्विक विश्वास को उजागर करता है। 80 से अधिक देशों को मिसाइल प्रणालियों, तोपखाने और विमानों का निर्यात करके, भारत एक प्रमुख वैश्विक रक्षा निर्यातक के रूप में अपनी स्थिति तेजी से मजबूत कर रहा है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129991520,imgsize-133314.cms",
+        "link": "https://timesofindia.indiatimes.com/india/defence-exports-skyrocket-to-record-rs-38424cr-in-2025-26-62-7-per-cent-rise-over-previous-fiscal/articleshow/129991443.cms",
+        "date": "2026-04-03T04:39:19+05:30"
+    },
+    {
+        "id": "dc18f91e",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Rajnath Singh Warns Pak: \"Unprecedented\" Action Ahead",
+                "content": "Defence Minister Rajnath Singh sternly warned Pakistan of \"unprecedented and decisive\" action for any future misadventure. He revealed India was minutes away from a major sea strike during 'Operation Sindoor,' swiftly neutralizing Pakistan's terror apparatus within 22 minutes after the Pahalgam attack. This highlights India's readiness for swift, forceful retaliation."
+            },
+            "kn": {
+                "title": "ರಾಜನಾಥ್ ಸಿಂಗ್ ಪಾಕ್‌ಗೆ ಎಚ್ಚರಿಕೆ: \"ಅಪೂರ್ವ\" ಕ್ರಮ ಸನ್ನಿಹಿತ",
+                "content": "ರಕ್ಷಣಾ ಸಚಿವ ರಾಜನಾಥ್ ಸಿಂಗ್ ಅವರು ಪಾಕಿಸ್ತಾನಕ್ಕೆ ಭವಿಷ್ಯದಲ್ಲಿ ಯಾವುದೇ ದುಸ್ಸಾಹಸಕ್ಕೆ \"ಅಪೂರ್ವ ಮತ್ತು ನಿರ್ಣಾಯಕ\" ಕ್ರಮದ ಕಠಿಣ ಎಚ್ಚರಿಕೆ ನೀಡಿದರು. 'ಆಪರೇಷನ್ ಸಿಂಧೂರ್' ಸಮಯದಲ್ಲಿ ಭಾರತವು ಪ್ರಮುಖ ಸಮುದ್ರ ದಾಳಿಯಿಂದ ಕೆಲವೇ ನಿಮಿಷಗಳ ಅಂತರದಲ್ಲಿತ್ತು, ಪಹಲ್ಗಾಮ್ ದಾಳಿಯ ನಂತರ 22 ನಿಮಿಷಗಳಲ್ಲಿ ಪಾಕಿಸ್ತಾನದ ಭಯೋತ್ಪಾದಕ ಜಾಲವನ್ನು ತ್ವರಿತವಾಗಿ ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಿತ್ತು ಎಂದು ಅವರು ಬಹಿರಂಗಪಡಿಸಿದರು. ಇದು ತ್ವರಿತ, ಬಲವಾದ ಪ್ರತೀಕಾರಕ್ಕೆ ಭಾರತದ ಸಿದ್ಧತೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "राजनाथ सिंह यांचा पाकिस्तानला इशारा: \"अभूतपूर्व\" कारवाई निश्चित",
+                "content": "संरक्षण मंत्री राजनाथ सिंह यांनी पाकिस्तानला भविष्यात कोणत्याही गैरप्रकारासाठी \"अभूतपूर्व आणि निर्णायक\" कारवाईचा कठोर इशारा दिला. 'ऑपरेशन सिंदूर' दरम्यान भारत मोठ्या सागरी हल्ल्यापासून काही मिनिटांच्या अंतरावर होता, ज्याने पहलगाम हल्ल्यानंतर 22 मिनिटांत पाकिस्तानच्या दहशतवादी यंत्रणेला तात्काळ निष्क्रिय केले होते, असे त्यांनी सांगितले. हे त्वरित, जोरदार प्रत्युत्तरासाठी भारताची तयारी दर्शवते."
+            },
+            "hi": {
+                "title": "राजनाथ सिंह की पाक को चेतावनी: \"अभूतपूर्व\" कार्रवाई की तैयारी",
+                "content": "रक्षा मंत्री राजनाथ सिंह ने पाकिस्तान को भविष्य में किसी भी दुस्साहस के लिए \"अभूतपूर्व और निर्णायक\" कार्रवाई की कड़ी चेतावनी दी। उन्होंने खुलासा किया कि 'ऑपरेशन सिंदूर' के दौरान भारत एक बड़े समुद्री हमले से कुछ ही मिनट दूर था, जिसने पहलगाम हमले के 22 मिनट के भीतर पाकिस्तान के आतंकी तंत्र को तुरंत निष्क्रिय कर दिया था। यह त्वरित, जोरदार जवाबी कार्रवाई के लिए भारत की तत्परता को उजागर करता है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129991380,imgsize-253806.cms",
+        "link": "https://timesofindia.indiatimes.com/india/any-misadventure-from-pak-to-invite-unprecedented-action-says-rajnath-singh/articleshow/129991092.cms",
+        "date": "2026-04-03T04:33:52+05:30"
+    },
+    {
         "id": "2d3cd08e",
         "category": "National",
         "translations": {
@@ -1948,55 +1998,5 @@
         "image": "https://static.toiimg.com/photo/msid-129941515,imgsize-37252.cms",
         "link": "https://timesofindia.indiatimes.com/india/delhi-cm-rekha-gupta-dismisses-rumours-about-pink-saheli-card-says-aap-just-annoyed-by-welfare-schemes/articleshow/129941178.cms",
         "date": "2026-04-01T10:06:41+05:30"
-    },
-    {
-        "id": "78fcd2c8",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Assam Polls: MLAs' Wealth Jumps 80%",
-                "content": "Assam's re-contesting MLAs declare an astounding 80% surge in average wealth over five years, with assets jumping from Rs 4.17 crore to Rs 7.52 crore. This significant financial boost for legislators seeking re-election highlights a striking trend in rapid asset accumulation ahead of the assembly polls, sparking serious questions about the sources of such substantial growth and its implications for governance."
-            },
-            "kn": {
-                "title": "ಅಸ್ಸಾಂ ಚುನಾವಣೆ: ಶಾಸಕರ ಸಂಪತ್ತು 80% ಹೆಚ್ಚಳ",
-                "content": "ಅಸ್ಸಾಂನ ಮರು ಸ್ಪರ್ಧಿಸುತ್ತಿರುವ ಶಾಸಕರು ಐದು ವರ್ಷಗಳಲ್ಲಿ ತಮ್ಮ ಸರಾಸರಿ ಸಂಪತ್ತಿನಲ್ಲಿ ಆಶ್ಚರ್ಯಕರ 80% ಹೆಚ್ಚಳವನ್ನು ಘೋಷಿಸಿದ್ದಾರೆ, ಇದು ₹4.17 ಕೋಟಿಯಿಂದ ₹7.52 ಕೋಟಿಗೆ ಏರಿದೆ. ಮರುಚುನಾವಣೆಗೆ ಸ್ಪರ್ಧಿಸುತ್ತಿರುವ ಶಾಸಕರಿಗೆ ದೊರೆತ ಈ ಗಮನಾರ್ಹ ಆರ್ಥಿಕ ಉತ್ತೇಜನವು ವಿಧಾನಸಭಾ ಚುನಾವಣೆಗೂ ಮುನ್ನ ಆಸ್ತಿ ಸಂಗ್ರಹಣೆಯಲ್ಲಿನ ಎದ್ದುಕಾಣುವ ಪ್ರವೃತ್ತಿಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ, ಇದು ಇಂತಹ ಗಮನಾರ್ಹ ಬೆಳವಣಿಗೆಯ ಮೂಲಗಳು ಮತ್ತು ಆಡಳಿತದ ಮೇಲೆ ಅದರ ಪರಿಣಾಮಗಳ ಬಗ್ಗೆ ಗಂಭೀರ ಪ್ರಶ್ನೆಗಳನ್ನು ಹುಟ್ಟುಹಾಕಿದೆ."
-            },
-            "mr": {
-                "title": "आसाम निवडणूक: आमदारांच्या संपत्तीत 80% वाढ",
-                "content": "आसाममधील पुन्हा निवडणूक लढवणाऱ्या आमदारांनी पाच वर्षांत त्यांच्या सरासरी संपत्तीत 80% ची आश्चर्यकारक वाढ झाल्याचे घोषित केले आहे; त्यांची मालमत्ता 4.17 कोटी रुपयांवरून 7.52 कोटी रुपयांपर्यंत पोहोचली आहे. पुन्हा निवडून येण्यास इच्छुक असलेल्या आमदारांसाठी झालेली ही लक्षणीय आर्थिक वाढ, विधानसभा निवडणुकांपूर्वी जलद मालमत्ता जमा करण्याच्या एका विशिष्ट प्रवृत्तीवर प्रकाश टाकते, ज्यामुळे अशा भरीव वाढीच्या स्रोतांबद्दल आणि शासनावर त्याच्या परिणामांबद्दल गंभीर प्रश्न निर्माण होतात."
-            },
-            "hi": {
-                "title": "असम चुनाव: विधायकों की संपत्ति में 80% की बढ़ोतरी",
-                "content": "असम के दोबारा चुनाव लड़ रहे विधायकों ने पाँच सालों में अपनी औसत संपत्ति में 80% की वृद्धि घोषित की है; उनकी संपत्ति 4.17 करोड़ रुपये से बढ़कर 7.52 करोड़ रुपये हो गई है। फिर से चुनाव लड़ने वाले इन विधायकों के लिए यह महत्वपूर्ण वित्तीय वृद्धि, विधानसभा चुनावों से पहले तेजी से संपत्ति संचय में एक स्पष्ट प्रवृत्ति को उजागर करती है, जिससे ऐसी पर्याप्त वृद्धि के स्रोतों और शासन पर इसके निहितार्थों के बारे में गंभीर सवाल उठते हैं।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129941371,imgsize-938202.cms",
-        "link": "https://timesofindia.indiatimes.com/india/assam-assembly-elections-re-contesting-mlas-get-80-richer-in-5-years-which-party-saw-the-biggest-jump/articleshow/129940717.cms",
-        "date": "2026-04-01T10:02:36+05:30"
-    },
-    {
-        "id": "6a29bf53",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "India's First Digital Census 2027 Begins",
-                "content": "India launches its first-ever digital Census 2027 today. This historic headcount begins with 33 questions in Phase 1, leveraging technology for comprehensive data collection. Citizens will experience a streamlined, efficient process. This digital leap aims to provide accurate insights for crucial policy planning and resource allocation, shaping the nation's future."
-            },
-            "kn": {
-                "title": "ಭಾರತದ ಮೊದಲ ಡಿಜಿಟಲ್ ಜನಗಣತಿ 2027 ಪ್ರಾರಂಭ",
-                "content": "ಭಾರತವು ಇಂದು ತನ್ನ ಮೊದಲ ಡಿಜಿಟಲ್ ಜನಗಣತಿ 2027 ಅನ್ನು ಪ್ರಾರಂಭಿಸುತ್ತಿದೆ. ಈ ಐತಿಹಾಸಿಕ ಜನಗಣತಿ ಮೊದಲ ಹಂತದಲ್ಲಿ 33 ಪ್ರಶ್ನೆಗಳೊಂದಿಗೆ ಆರಂಭವಾಗಿದ್ದು, ಸಮಗ್ರ ದತ್ತಾಂಶ ಸಂಗ್ರಹಣೆಗಾಗಿ ತಂತ್ರಜ್ಞಾನವನ್ನು ಬಳಸಿಕೊಳ್ಳುತ್ತಿದೆ. ನಾಗರಿಕರು ಸುಧಾರಿತ ಮತ್ತು ದಕ್ಷ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಅನುಭವಿಸುವರು. ಈ ಡಿಜಿಟಲ್ ಹೆಜ್ಜೆ ನಿರ್ಣಾಯಕ ನೀತಿ ಯೋಜನೆ ಮತ್ತು ಸಂಪನ್ಮೂಲ ಹಂಚಿಕೆಗಾಗಿ ನಿಖರವಾದ ಒಳನೋಟಗಳನ್ನು ಒದಗಿಸುವ ಗುರಿಯನ್ನು ಹೊಂದಿದೆ, ಇದು ದೇಶದ ಭವಿಷ್ಯವನ್ನು ರೂಪಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "भारताची पहिली डिजिटल जनगणना २०२७ सुरू",
-                "content": "भारताची पहिली डिजिटल जनगणना २०२७ आजपासून सुरू होत आहे. ही ऐतिहासिक जनगणना पहिल्या टप्प्यात ३३ प्रश्नांनी सुरू होईल, ज्यामध्ये व्यापक डेटा संकलनासाठी तंत्रज्ञानाचा वापर केला जाईल. नागरिकांना एक सुलभ आणि कार्यक्षम प्रक्रिया अनुभवता येईल. हे डिजिटल पाऊल महत्त्वपूर्ण धोरणात्मक नियोजन आणि संसाधनांच्या वाटपासाठी अचूक माहिती प्रदान करून देशाचे भविष्य घडवण्याचे उद्दिष्ट ठेवते."
-            },
-            "hi": {
-                "title": "भारत की पहली डिजिटल जनगणना 2027 शुरू",
-                "content": "भारत आज अपनी पहली डिजिटल जनगणना 2027 शुरू कर रहा है। यह ऐतिहासिक जनगणना पहले चरण में 33 प्रश्नों के साथ शुरू होगी, जो व्यापक डेटा संग्रह के लिए प्रौद्योगिकी का लाभ उठाएगी। नागरिकों को एक सुव्यवस्थित और कुशल प्रक्रिया का अनुभव होगा। यह डिजिटल छलांग महत्वपूर्ण नीति नियोजन और संसाधन आवंटन के लिए सटीक जानकारी प्रदान करने, देश के भविष्य को आकार देने का लक्ष्य रखती है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129940998,imgsize-258552.cms",
-        "link": "https://timesofindia.indiatimes.com/india/census-2027-begins-today-first-digital-headcount-33-questions-in-phase-1-10-things-to-know/articleshow/129939879.cms",
-        "date": "2026-04-01T10:02:32+05:30"
     }
 ]
