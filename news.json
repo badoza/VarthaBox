@@ -1,5 +1,580 @@
 [
     {
+        "id": "ac9d2ce8",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "IPL 2026: Your Ultimate Viewing Guide",
+                "content": "Gear up for IPL 2026! Get your ultimate guide to watching every match of the Indian Premier League cricket season. Discover official live streams, detailed fixture lists, and expert tips to ensure you don't miss any action. From crucial match schedules to streaming platforms, we've got you covered. Catch every thrilling moment and cheer for your favorite team this IPL!"
+            },
+            "kn": {
+                "title": "IPL 2026: ನಿಮ್ಮ ಅಂತಿಮ ವೀಕ್ಷಣಾ ಮಾರ್ಗದರ್ಶಿ",
+                "content": "IPL 2026 ಗೆ ಸಿದ್ಧರಾಗಿ! ಇಂಡಿಯನ್ ಪ್ರೀಮಿಯರ್ ಲೀಗ್ ಕ್ರಿಕೆಟ್ ಸೀಸನ್‌ನ ಪ್ರತಿ ಪಂದ್ಯವನ್ನು ವೀಕ್ಷಿಸಲು ನಿಮ್ಮ ಅಂತಿಮ ಮಾರ್ಗದರ್ಶಿಯನ್ನು ಪಡೆಯಿರಿ. ಅಧಿಕೃತ ಲೈವ್ ಸ್ಟ್ರೀಮ್‌ಗಳು, ವಿವರವಾದ ವೇಳಾಪಟ್ಟಿಗಳು ಮತ್ತು ಯಾವುದೇ ಆಕ್ಷನ್ ಮಿಸ್ ಆಗದಂತೆ ತಜ್ಞರ ಸಲಹೆಗಳನ್ನು ಕಂಡುಕೊಳ್ಳಿ. ಪ್ರಮುಖ ಪಂದ್ಯದ ವೇಳಾಪಟ್ಟಿಗಳಿಂದ ಹಿಡಿದು ಸ್ಟ್ರೀಮಿಂಗ್ ಪ್ಲಾಟ್‌ಫಾರ್ಮ್‌ಗಳವರೆಗೆ, ನಾವು ನಿಮಗೆ ಎಲ್ಲವನ್ನು ಒದಗಿಸಿದ್ದೇವೆ. ಈ IPL ನಲ್ಲಿ ಪ್ರತಿ ರೋಮಾಂಚಕ ಕ್ಷಣವನ್ನು ಆನಂದಿಸಿ ಮತ್ತು ನಿಮ್ಮ ನೆಚ್ಚಿನ ತಂಡವನ್ನು ಹುರಿದುಂಬಿಸಿ!"
+            },
+            "mr": {
+                "title": "आयपीएल 2026: तुमचे अंतिम पाहण्याचे मार्गदर्शक",
+                "content": "आयपीएल 2026 साठी सज्ज व्हा! इंडियन प्रीमियर लीग क्रिकेट हंगामातील प्रत्येक सामना पाहण्यासाठी तुमचे अंतिम मार्गदर्शक मिळवा. अधिकृत लाइव्ह स्ट्रीम्स, तपशीलवार वेळापत्रक आणि कोणतीही ॲक्शन चुकणार नाही याची खात्री करण्यासाठी तज्ञांच्या टिप्स शोधा. महत्त्वाच्या सामन्यांच्या वेळापत्रकांपासून ते स्ट्रीमिंग प्लॅटफॉर्मपर्यंत, आम्ही तुम्हाला सर्व माहिती दिली आहे. या आयपीएलमध्ये प्रत्येक रोमांचक क्षण अनुभवा आणि तुमच्या आवडत्या संघाला प्रोत्साहन द्या!"
+            },
+            "hi": {
+                "title": "आईपीएल 2026: आपकी अंतिम देखने की गाइड",
+                "content": "आईपीएल 2026 के लिए तैयार हो जाइए! इंडियन प्रीमियर लीग क्रिकेट सीज़न के हर मैच को देखने के लिए अपनी अंतिम गाइड प्राप्त करें। आधिकारिक लाइव स्ट्रीम, विस्तृत फिक्स्चर सूची और यह सुनिश्चित करने के लिए विशेषज्ञ युक्तियाँ खोजें कि आप कोई भी एक्शन मिस न करें। महत्वपूर्ण मैच शेड्यूल से लेकर स्ट्रीमिंग प्लेटफॉर्म तक, हमने आपको कवर किया है। इस आईपीएल में हर रोमांचक पल का आनंद लें और अपनी पसंदीदा टीम को चीयर करें!"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1GdFRUNjdxQUw1UDFyTXZ3cVdtNVVlMi0zX3o3WlllbU16U2RmajBrLWNNZjAtempXelBJYko3aTFTa0RMYURfaXl2VHFScGtkZVRxRThkeW1wOHA1bkh2SWhaSURCN2xjSndaQWlkTE9XdmdXLWk4?oc=5",
+        "date": "Wed, 01 Apr 2026 14:02:18 GMT"
+    },
+    {
+        "id": "f4f8728a",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "Hanuman Jayanti 2026: Date & Significance",
+                "content": "Get ready for Hanuman Jayanti 2026! Celebrated on Chaitra Purnima, this auspicious day marks Lord Hanuman's birth, embodying immense strength, devotion, and selfless service. Devotees observe fasts, offer prayers, and recite the Hanuman Chalisa. It's a powerful occasion to seek blessings for courage, protection, and spiritual growth. Mark your calendars for this sacred Janmotsav!"
+            },
+            "kn": {
+                "title": "ಹನುಮಾನ್ ಜಯಂತಿ 2026: ದಿನಾಂಕ ಮತ್ತು ಮಹತ್ವ",
+                "content": "ಹನುಮಾನ್ ಜಯಂತಿ 2026ಕ್ಕೆ ಸಿದ್ಧರಾಗಿ! ಚೈತ್ರ ಪೂರ್ಣಿಮೆಯಂದು ಆಚರಿಸಲಾಗುವ ಈ ಶುಭ ದಿನವು ಭಗವಾನ್ ಹನುಮಾನ್ ಅವರ ಜನ್ಮವನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಇದು ಅಗಾಧ ಶಕ್ತಿ, ಭಕ್ತಿ ಮತ್ತು ನಿಸ್ವಾರ್ಥ ಸೇವೆಯನ್ನು ಪ್ರತಿನಿಧಿಸುತ್ತದೆ. ಭಕ್ತರು ಉಪವಾಸ ಕೈಗೊಳ್ಳುತ್ತಾರೆ, ಪ್ರಾರ್ಥನೆ ಸಲ್ಲಿಸುತ್ತಾರೆ ಮತ್ತು ಹನುಮಾನ್ ಚಾಲೀಸಾ ಪಠಿಸುತ್ತಾರೆ. ಇದು ಧೈರ್ಯ, ರಕ್ಷಣೆ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ಬೆಳವಣಣಿಗೆಗಾಗಿ ಆಶೀರ್ವಾದ ಪಡೆಯಲು ಒಂದು ಶಕ್ತಿಯುತ ಸಂದರ್ಭವಾಗಿದೆ. ಈ ಪವಿತ್ರ ಜನ್ಮೋತ್ಸವಕ್ಕಾಗಿ ನಿಮ್ಮ ದಿನಾಂಕಗಳನ್ನು ಗುರುತಿಸಿ!"
+            },
+            "mr": {
+                "title": "हनुमान जयंती 2026: तारीख आणि महत्त्व",
+                "content": "हनुमान जयंती 2026 साठी सज्ज व्हा! चैत्र पौर्णिमेला साजरा होणारा हा शुभ दिवस भगवान हनुमानाच्या जन्माचे प्रतीक आहे, जो प्रचंड शक्ती, भक्ती आणि निःस्वार्थ सेवेचे प्रतीक आहे. भक्त उपवास करतात, प्रार्थना करतात आणि हनुमान चालीसा पठण करतात. धैर्य, संरक्षण आणि आध्यात्मिक वाढीसाठी आशीर्वाद मिळवण्यासाठी ही एक शक्तिशाली संधी आहे. या पवित्र जन्मोत्सवासाठी आपले कॅलेंडर चिन्हांकित करा!"
+            },
+            "hi": {
+                "title": "हनुमान जयंती 2026: तिथि और महत्व",
+                "content": "हनुमान जयंती 2026 के लिए तैयार हो जाइए! चैत्र पूर्णिमा को मनाया जाने वाला यह शुभ दिन भगवान हनुमान के जन्म का प्रतीक है, जो अपार शक्ति, भक्ति और निस्वार्थ सेवा का प्रतीक है। भक्त उपवास रखते हैं, प्रार्थना करते हैं और हनुमान चालीसा का पाठ करते हैं। यह साहस, सुरक्षा और आध्यात्मिक विकास के लिए आशीर्वाद प्राप्त करने का एक शक्तिशाली अवसर है। इस पवित्र जन्मोत्सव के लिए अपने कैलेंडर चिह्नित करें!"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPLXBhQnBfTjBfMGNRVTFEb2kzVVZLZmpnN1BuU2FmaHVzV1hObWlqY25iZ2FkR2ZCV294d2RET0hDRzNEVk9SVjI1NndCTGNnY05zQU5xdHhlakNCcm1iU2FhOU15X2dWemdmRXhiWjBjYmhrcDhqRmF4V3J3N203RUpkdU9qVy1XbHFUaUFldWNBTjBpOTc4UmItYkJvT3ZQQXlFWl9JTm5pWUo4OEpvNGRVV3U5ekZfSW9yX19YdVdDVjlwdlpYdVZCYWd2ZEp6ZlZtUFVMY24yT0o4dWRTUGNzZEx6ekNpY3hQYTR2QdIB9AFBVV95cUxQMGcwXzNPTXNvOXVwWHN6eHpBOHlHTE8ycHdtV1pZaTlwZW9JMndiZEZKaTBwd2V3cWhwOHhsV2Nuck1aaTlHdklhUEVScE5QNVVqM3BGVzFpSjRZUTdwaU4yVXpPUFVJdWV1REtia1hKVDV1RzRtM0tGeDVsRVpkdU1YNzluc3Zla256TERHTEZ6VzF2NTllcE5oek1vclNMczBpaTBwT0JuRnJzc01ldEIxZUVWcTBPSHU3ODdBRXR2Z2h1dlBNTTdWcWxJNy0xbVpIdjNNbV9LQXVWb2lZUWNYQkVTcHpDSDFXWm5Gc3E3TG5i?oc=5",
+        "date": "Thu, 02 Apr 2026 03:20:00 GMT"
+    },
+    {
+        "id": "5ce0936e",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "Artemis II Launches Tonight: Watch Live!",
+                "content": "Don't miss it! Artemis II launches tonight, marking a historic step towards humanity's return to the Moon. Watch the crewed Orion spacecraft lift off live online, or find prime in-person viewing spots across Florida and Georgia. A full visibility guide is available to ensure you catch every moment of this crucial lunar mission milestone."
+            },
+            "kn": {
+                "title": "ಆರ್ಟೆಮಿಸ್ II ಇಂದು ರಾತ್ರಿ ಉಡಾವಣೆ: ನೇರಪ್ರಸಾರ ವೀಕ್ಷಿಸಿ!",
+                "content": "ಇದನ್ನು ಕಳೆದುಕೊಳ್ಳಬೇಡಿ! ಆರ್ಟೆಮಿಸ್ II ಇಂದು ರಾತ್ರಿ ಉಡಾವಣೆಯಾಗಲಿದ್ದು, ಮಾನವಕುಲದ ಚಂದ್ರನಿಗೆ ಮರಳುವಿಕೆಯ ಐತಿಹಾಸಿಕ ಹೆಜ್ಜೆಯಾಗಿದೆ. ಸಿಬ್ಬಂದಿಯುಳ್ಳ ಓರಿಯನ್ ಬಾಹ್ಯಾಕಾಶ ನೌಕೆ ಉಡಾವಣೆಯನ್ನು ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ನೇರವಾಗಿ ವೀಕ್ಷಿಸಿ, ಅಥವಾ ಫ್ಲೋರಿಡಾ ಮತ್ತು ಜಾರ್ಜಿಯಾದಾದ್ಯಂತ ಪ್ರಮುಖ ವೀಕ್ಷಣಾ ಸ್ಥಳಗಳನ್ನು ಹುಡುಕಿ. ಈ ಪ್ರಮುಖ ಚಂದ್ರನ ಮಿಷನ್ ಮೈಲಿಗಲ್ಲಿನ ಪ್ರತಿ ಕ್ಷಣವನ್ನು ನೀವು ತಪ್ಪಿಸಿಕೊಳ್ಳದಂತೆ ನೋಡಿಕೊಳ್ಳಲು ಸಂಪೂರ್ಣ ಗೋಚರತೆ ಮಾರ್ಗದರ್ಶಿ ಲಭ್ಯವಿದೆ."
+            },
+            "mr": {
+                "title": "आर्टेमिस II आज रात्री प्रक्षेपित: थेट पहा!",
+                "content": "हे चुकवू नका! आर्टेमिस II आज रात्री प्रक्षेपित होत आहे, जे मानवाच्या चंद्रावर परतण्याच्या दिशेने एक ऐतिहासिक पाऊल आहे. चालक दल असलेल्या ओरियन अंतराळयानाचे थेट प्रक्षेपण ऑनलाइन पहा, किंवा फ्लोरिडा आणि जॉर्जियामध्ये प्रत्यक्ष पाहण्यासाठी उत्तम ठिकाणे शोधा. या महत्त्वाच्या चंद्र मोहिमेचा प्रत्येक क्षण तुम्हाला पाहता यावा यासाठी संपूर्ण दृश्यमानता मार्गदर्शक उपलब्ध आहे."
+            },
+            "hi": {
+                "title": "आर्टेमिस II का आज रात लॉन्च: सीधा देखें!",
+                "content": "इसे न चूकें! आर्टेमिस II आज रात लॉन्च हो रहा है, जो मानव जाति की चंद्रमा पर वापसी की दिशा में एक ऐतिहासिक कदम है। चालक दल वाले ओरियन अंतरिक्ष यान के सीधे प्रक्षेपण को ऑनलाइन देखें, या फ्लोरिडा और जॉर्जिया में व्यक्तिगत रूप से देखने के लिए प्रमुख स्थान खोजें। इस महत्वपूर्ण चंद्र मिशन के मील के पत्थर का हर पल सुनिश्चित करने के लिए एक पूर्ण दृश्यता मार्गदर्शिका उपलब्ध है।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxObHVDUkNqd3V2Mkp3VGFOeWhLOVdRM0FyZWZCRWVjSXU0SWl4RnJ3VU9TVlFmLU9IOG1lck9udktBT2JFT2paQnl2V1ZvcTBMUUZsZlhfTzRpUjh6LVMzNjJQUjV4YkEzN1NEMHNSZ3l2a1ZaTlItS05tdEdUU3Z2OWxnVkRfRm1FVGtVaC1DNTlXOUY5VEJ2cVRjSFY5cTRRcGFUYjh4S0dxLThHVjR6S0JMQ21xYzg4N3podXNGaVpueGdyMllNU09TZFBxLWJqdnRkbXc5UUN1RjlmR3E4WFo2LTFscldyWDkyQllaaVdiRWdVRi1jcXZnRUY2U0JmNnZlcDdpU1DSAY4CQVVfeXFMUFZwby03WFJJQ1B2ZFVCODJSMmN3aldnbk1QNUxyRlA2WUEwMEkyaGJhWlNFSzhsQmlGWFBMLUZJamE3ZXgtWVlMXzBHZzRuMW5DWGs2akxON0dkeVJ1NjJFanhzeTZsdU5DSnFPSjJuNWg0QlUzclhfRXBqWWk2c3hmMVF1LXhrLUVfUTFJUnpHQTk3UEZuclgySVNiR2YzUnNDa2VpVGdDdzd4TDgxR29ySVZtLW44cnBWTzdxTlFpeGc4dVplbHhpRGo0THJfZmdRVjU4WDVVRWhPMWFpZVM5Qm9uSmRPc1VUN0FPU0pLQXRnQ01ZVi02T2VvZnp4VWprWjV5VUxyX1VrSlZn?oc=5",
+        "date": "Wed, 01 Apr 2026 14:05:42 GMT"
+    },
+    {
+        "id": "a9c2e41d",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "Sinner's Season: Is New Romance a Distraction?",
+                "content": "Speculation mounts over tennis star Jannik Sinner's rumored relationship with Laila Hasanovic. Fans and analysts question if this new personal connection could impact his future performance and focus. Concerns are being raised about how a high-profile romance might affect his preparation and concentration for the upcoming 2026 season and beyond in the competitive ATP circuit."
+            },
+            "kn": {
+                "title": "ಸಿನ್ನರ್‌ನ ಸೀಸನ್: ಹೊಸ ಪ್ರೀತಿ ವಿಚಲನವೇ?",
+                "content": "ಟೆನಿಸ್ ತಾರೆ ಜನ್ನಿಕ್ ಸಿನ್ನರ್ ಮತ್ತು ಲೈಲಾ ಹಸನೋವಿಕ್ ಅವರ ವದಂತಿಯ ಸಂಬಂಧದ ಬಗ್ಗೆ ಊಹಾಪೋಹಗಳು ಹೆಚ್ಚಾಗಿವೆ. ಈ ಹೊಸ ವೈಯಕ್ತಿಕ ಸಂಪರ್ಕವು ಅವರ ಭವಿಷ್ಯದ ಪ್ರದರ್ಶನ ಮತ್ತು ಗಮನದ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರಬಹುದೇ ಎಂದು ಅಭಿಮಾನಿಗಳು ಮತ್ತು ವಿಶ್ಲೇಷಕರು ಪ್ರಶ್ನಿಸುತ್ತಿದ್ದಾರೆ. ಮುಂಬರುವ 2026 ಸೀಸನ್ ಮತ್ತು ಸ್ಪರ್ಧಾತ್ಮಕ ಎಟಿಪಿ ಸರ್ಕ್ಯೂಟ್‌ನಲ್ಲಿ ಉನ್ನತ ಮಟ್ಟದ ಪ್ರಣಯವು ಅವರ ಸಿದ್ಧತೆ ಮತ್ತು ಏಕಾಗ್ರತೆಯ ಮೇಲೆ ಹೇಗೆ ಪರಿಣಾಮ ಬೀರಬಹುದು ಎಂಬ ಆತಂಕಗಳು ಎದ್ದಿವೆ."
+            },
+            "mr": {
+                "title": "सिन्नरचा हंगाम: नवीन प्रेमसंबंध विचलित करणारा आहे का?",
+                "content": "टेनिसपटू जनिक सिन्नर आणि लैला हसनोविक यांच्या कथित संबंधांवरून अनेक तर्कवितर्क आहेत. चाहते आणि विश्लेषक प्रश्न विचारत आहेत की हा नवीन वैयक्तिक संबंध त्याच्या भविष्यातील कामगिरीवर आणि एकाग्रतेवर परिणाम करू शकतो का. स्पर्धात्मक एटीपी सर्किटमधील आगामी 2026 हंगामासाठी आणि त्यापुढील काळात उच्च-प्रोफाइल प्रेमसंबंध त्याच्या तयारीवर आणि एकाग्रतेवर कसा परिणाम करू शकतो, याबाबत चिंता व्यक्त केली जात आहे."
+            },
+            "hi": {
+                "title": "सिनर का सीज़न: क्या नया रोमांस भटकाव है?",
+                "content": "टेनिस स्टार जनिक सिनर और लैला हसनोविक के कथित रिश्ते पर अटकलें तेज हैं। प्रशंसक और विश्लेषक सवाल कर रहे हैं कि क्या यह नया व्यक्तिगत संबंध उनके भविष्य के प्रदर्शन और एकाग्रता को प्रभावित करेगा। प्रतिस्पर्धी एटीपी सर्किट में आगामी 2026 सीज़न और उसके बाद एक हाई-प्रोफाइल रोमांस उनकी तैयारी और एकाग्रता पर कैसा असर डालेगा, इस बारे में चिंताएं हैं।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wNDNlamZ4X25BR1FheXc2dFlQV3A1TDF1SlBJLXRFNVNsV3MxZVZFclJNSDEzZUNfVFJHQVdYUzZjZjVRSEVKd3Vpc1c1TGR2eFJqYUMybkJkVHVSaG5QVXpySkRZeU9MYk5GaWJBTko?oc=5",
+        "date": "Wed, 01 Apr 2026 16:37:38 GMT"
+    },
+    {
+        "id": "8007e35b",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "India Mandates Recycled Plastic for Packaging",
+                "content": "India has implemented new rules making the use of recycled plastic mandatory in packaging. This significant move aims to boost the circular economy by reducing virgin plastic consumption and promoting sustainability across industries. The regulations will gradually increase the required percentage of recycled content, encouraging better waste management and resource efficiency nationwide."
+            },
+            "kn": {
+                "title": "ಪ್ಯಾಕೇಜಿಂಗ್‌ಗೆ ಮರುಬಳಕೆಯ ಪ್ಲಾಸ್ಟಿಕ್ ಕಡ್ಡಾಯಗೊಳಿಸಿದ ಭಾರತ",
+                "content": "ಭಾರತವು ಪ್ಯಾಕೇಜಿಂಗ್‌ನಲ್ಲಿ ಮರುಬಳಕೆಯ ಪ್ಲಾಸ್ಟಿಕ್ ಬಳಕೆ ಕಡ್ಡಾಯಗೊಳಿಸುವ ಹೊಸ ನಿಯಮಗಳನ್ನು ಜಾರಿಗೆ ತಂದಿದೆ. ಕಚ್ಚಾ ಪ್ಲಾಸ್ಟಿಕ್ ಬಳಕೆ ಕಡಿಮೆ ಮಾಡಿ, ಕೈಗಾರಿಕೆಗಳಾದ್ಯಂತ ಸುಸ್ಥಿರತೆಯನ್ನು ಉತ್ತೇಜಿಸುವ ಮೂಲಕ ವೃತ್ತಾಕಾರದ ಆರ್ಥಿಕತೆಯನ್ನು ಹೆಚ್ಚಿಸುವುದು ಈ ಮಹತ್ವದ ಕ್ರಮದ ಗುರಿಯಾಗಿದೆ. ನಿಯಮಗಳು ಕ್ರಮೇಣ ಮರುಬಳಕೆಯ ವಿಷಯದ ಅಗತ್ಯ ಶೇಕಡಾವಾರು ಪ್ರಮಾಣವನ್ನು ಹೆಚ್ಚಿಸುತ್ತವೆ, ಇದು ಉತ್ತಮ ತ್ಯಾಜ್ಯ ನಿರ್ವಹಣೆ ಮತ್ತು ಸಂಪನ್ಮೂಲ ದಕ್ಷತೆಯನ್ನು ದೇಶಾದ್ಯಂತ ಉತ್ತೇಜಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "भारताने पॅकेजिंगसाठी पुनर्वापर केलेले प्लास्टिक बंधनकारक केले",
+                "content": "भारताने पॅकेजिंगमध्ये पुनर्वापर केलेल्या प्लास्टिकचा वापर बंधनकारक करणारे नवीन नियम लागू केले आहेत. या महत्त्वपूर्ण पावलाचा उद्देश नवीन प्लास्टिकचा वापर कमी करून आणि उद्योगांमध्ये शाश्वततेला प्रोत्साहन देऊन चक्रीय अर्थव्यवस्थेला चालना देणे हा आहे. हे नियम हळूहळू पुनर्वापर केलेल्या सामग्रीचे आवश्यक प्रमाण वाढवतील, ज्यामुळे देशभरात चांगले कचरा व्यवस्थापन आणि संसाधनांची कार्यक्षमता वाढेल."
+            },
+            "hi": {
+                "title": "भारत ने पैकेजिंग के लिए पुनर्नवीनीकृत प्लास्टिक अनिवार्य किया",
+                "content": "भारत ने पैकेजिंग में पुनर्नवीनीकृत प्लास्टिक का उपयोग अनिवार्य करने वाले नए नियम लागू किए हैं। इस महत्वपूर्ण कदम का उद्देश्य कुंवारे प्लास्टिक की खपत को कम करके और उद्योगों में स्थिरता को बढ़ावा देकर चक्रीय अर्थव्यवस्था को बढ़ावा देना है। ये नियम धीरे-धीरे पुनर्नवीनीकृत सामग्री के आवश्यक प्रतिशत को बढ़ाएंगे, जिससे देश भर में बेहतर अपशिष्ट प्रबंधन और संसाधन दक्षता को प्रोत्साहन मिलेगा।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129970092,imgsize-168790.cms",
+        "link": "https://timesofindia.indiatimes.com/india/use-of-recycled-plastic-in-packaging-made-mandatory-new-rules-to-boost-circularity/articleshow/129969620.cms",
+        "date": "2026-04-02T12:38:30+05:30"
+    },
+    {
+        "id": "467fe2b2",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Navy Chief: We Were Minutes From Striking Pakistan by Sea",
+                "content": "Navy Chief Admiral Dinesh K Tripathi revealed the Indian Navy was on the brink of striking Pakistan by sea during 'Operation Sindoor.' Launched after the Pahalgam terror attack to target terrorist bases, the operation was halted only after Pakistan requested a cessation of military actions. This demonstrated the Navy's swift deployment, aggressive posture, and precision in hitting nine terror camps."
+            },
+            "kn": {
+                "title": "ನೌಕಾ ಮುಖ್ಯಸ್ಥ: ನಾವು ಪಾಕಿಸ್ತಾನದ ಮೇಲೆ ಸಮುದ್ರದಿಂದ ದಾಳಿ ಮಾಡಲು ಸಿದ್ಧರಾಗಿದ್ದೆವು",
+                "content": "ನೌಕಾ ಮುಖ್ಯಸ್ಥ ಅಡ್ಮಿರಲ್ ದಿನೇಶ್ ಕೆ ತ್ರಿಪಾಠಿ ಅವರು 'ಆಪರೇಷನ್ ಸಿಂಧೂರ್' ಸಮಯದಲ್ಲಿ ಭಾರತೀಯ ನೌಕಾಪಡೆಯು ಸಮುದ್ರದಿಂದ ಪಾಕಿಸ್ತಾನದ ಮೇಲೆ ದಾಳಿ ಮಾಡಲು ಸಿದ್ಧವಾಗಿತ್ತು ಎಂದು ಬಹಿರಂಗಪಡಿಸಿದರು. ಪಹಲ್ಗಾಮ್ ಭಯೋತ್ಪಾದಕ ದಾಳಿಯ ನಂತರ ಭಯೋತ್ಪಾದಕ ನೆಲೆಗಳನ್ನು ಗುರಿಯಾಗಿಸಲು ಪ್ರಾರಂಭಿಸಲಾದ ಈ ಕಾರ್ಯಾಚರಣೆಯನ್ನು, ಪಾಕಿಸ್ತಾನವು ಮಿಲಿಟರಿ ಕ್ರಮಗಳನ್ನು ನಿಲ್ಲಿಸಲು ವಿನಂತಿಸಿದ ನಂತರವೇ ನಿಲ್ಲಿಸಲಾಯಿತು. ಇದು ನೌಕಾಪಡೆಯ ಕ್ಷಿಪ್ರ ನಿಯೋಜನೆ, ಆಕ್ರಮಣಕಾರಿ ಭಂಗಿ ಮತ್ತು ಒಂಬತ್ತು ಭಯೋತ್ಪಾದಕ ಶಿಬಿರಗಳನ್ನು ನಿಖರವಾಗಿ ಹೊಡೆಯುವ ಸಾಮರ್ಥ್ಯವನ್ನು ಪ್ರದರ್ಶಿಸಿತು."
+            },
+            "mr": {
+                "title": "नौदल प्रमुख: आम्ही समुद्रातून पाकिस्तानवर हल्ला करण्यापासून मिनिटभर दूर होतो",
+                "content": "नौदल प्रमुख ॲडमिरल दिनेश के त्रिपाठी यांनी खुलासा केला की 'ऑपरेशन सिंदूर' दरम्यान भारतीय नौदल समुद्रातून पाकिस्तानवर हल्ला करण्याच्या तयारीत होते. पहलगाम दहशतवादी हल्ल्यानंतर दहशतवादी तळांना लक्ष्य करण्यासाठी सुरू केलेले हे ऑपरेशन, पाकिस्तानने लष्करी कारवाई थांबवण्याची विनंती केल्यानंतरच थांबवले गेले. यातून नौदलाची जलद तैनाती, आक्रमक पवित्रा आणि नऊ दहशतवादी शिबिरांवर अचूक हल्ला करण्याची क्षमता दिसून आली."
+            },
+            "hi": {
+                "title": "नौसेना प्रमुख: हम समुद्र से पाकिस्तान पर हमला करने से मिनटों दूर थे",
+                "content": "नौसेना प्रमुख एडमिरल दिनेश के त्रिपाठी ने खुलासा किया कि 'ऑपरेशन सिंदूर' के दौरान भारतीय नौसेना समुद्र से पाकिस्तान पर हमला करने के करीब थी। पहलगाम आतंकी हमले के बाद आतंकवादी ठिकानों को निशाना बनाने के लिए शुरू किया गया यह अभियान, पाकिस्तान द्वारा सैन्य कार्रवाई रोकने का अनुरोध करने के बाद ही रोका गया। इसने नौसेना की त्वरित तैनाती, आक्रामक मुद्रा और नौ आतंकी शिविरों पर सटीक हमला करने की क्षमता का प्रदर्शन किया।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129967919,imgsize-33158.cms",
+        "link": "https://timesofindia.indiatimes.com/india/minutes-away-from-striking-pakistan-from-sea-navy-chief-dinesh-k-tripathi-reveals-key-operation-sindoor-moment/articleshow/129967317.cms",
+        "date": "2026-04-02T12:02:11+05:30"
+    },
+    {
+        "id": "ccb64be9",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "SC Condemns Bengal's 'Law & Order Breakdown' After Judicial Hostage Crisis",
+                "content": "The Supreme Court has vehemently condemned the hostage-taking of judicial officers in Malda, West Bengal, deeming it a 'complete breakdown of law and order.' The Court issued showcause notices to top state officials, citing 'abdication of duty,' and ordered deployment of central forces. It also allowed probes into the incident, urging leaders to refrain from politicizing the matter."
+            },
+            "kn": {
+                "title": "ನ್ಯಾಯಾಂಗ ಬಂಧಕ ಬಿಕ್ಕಟ್ಟಿನ ನಂತರ ಬಂಗಾಳದ 'ಕಾನೂನು ಸುವ್ಯವಸ್ಥೆ ಕುಸಿತ'ವನ್ನು ಎಸ್‌ಸಿ ಖಂಡಿಸಿದೆ",
+                "content": "ಮಾಲ್ಡಾದಲ್ಲಿ ನ್ಯಾಯಾಂಗ ಅಧಿಕಾರಿಗಳನ್ನು ಒತ್ತೆ ಇರಿಸಿಕೊಂಡಿದ್ದನ್ನು ಸುಪ್ರೀಂ ಕೋರ್ಟ್ ತೀವ್ರವಾಗಿ ಖಂಡಿಸಿದ್ದು, ಇದು 'ಕಾನೂನು ಮತ್ತು ಸುವ್ಯವಸ್ಥೆಯ ಸಂಪೂರ್ಣ ಕುಸಿತ' ಎಂದು ಬಣ್ಣಿಸಿದೆ. ನ್ಯಾಯಾಲಯವು ಉನ್ನತ ರಾಜ್ಯ ಅಧಿಕಾರಿಗಳಿಗೆ 'ಕರ್ತವ್ಯ ಲೋಪ'ದ ಆರೋಪದ ಮೇಲೆ ಶೋಕಾಸ್ ನೋಟಿಸ್ ಜಾರಿಗೊಳಿಸಿದ್ದು, ಕೇಂದ್ರ ಪಡೆಗಳನ್ನು ನಿಯೋಜಿಸಲು ಆದೇಶಿಸಿದೆ. ಪ್ರಕರಣದ ತನಿಖೆಗೂ ಅನುಮತಿ ನೀಡಿದ್ದು, ನಾಯಕರು ವಿಷಯವನ್ನು ರಾಜಕೀಯಗೊಳಿಸದಂತೆ ಮನವಿ ಮಾಡಿದೆ."
+            },
+            "mr": {
+                "title": "न्यायाधीश ओलिस घटनेनंतर बंगालमधील 'कायदा आणि सुव्यवस्थेच्या बिघाडाचा' SC कडून निषेध",
+                "content": "पश्चिम बंगालमधील मालदा येथे न्यायिक अधिकाऱ्यांना ओलीस ठेवल्याचा सुप्रीम कोर्टाने तीव्र निषेध केला आहे, याला 'कायदा आणि सुव्यवस्थेचे पूर्णपणे बिघडणे' असे म्हटले आहे. कोर्टाने 'कर्तव्यच्युती' दर्शवत राज्य सरकारच्या वरिष्ठ अधिकाऱ्यांना कारणे दाखवा नोटीस बजावली आणि केंद्रीय दलांच्या तैनातीचे आदेश दिले. कोर्टाने या घटनेच्या चौकशीलाही परवानगी दिली असून, नेत्यांना या प्रकरणाचे राजकारण टाळण्याचे आवाहन केले आहे."
+            },
+            "hi": {
+                "title": "न्यायिक बंधक संकट के बाद बंगाल में 'कानून व्यवस्था बिगड़ने' की SC ने की निंदा",
+                "content": "सुप्रीम कोर्ट ने पश्चिम बंगाल के मालदा में न्यायिक अधिकारियों को बंधक बनाए जाने की कड़ी निंदा की है, इसे 'कानून व्यवस्था का पूर्ण उल्लंघन' करार दिया है। कोर्ट ने शीर्ष राज्य अधिकारियों को 'कर्तव्य से विमुखता' का हवाला देते हुए कारण बताओ नोटिस जारी किए और केंद्रीय बलों की तैनाती का आदेश दिया। इसने घटना की जांच की भी अनुमति दी है, नेताओं से इस मामले का राजनीतिकरण न करने का आग्रह किया है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129968972,imgsize-1604572.cms",
+        "link": "https://timesofindia.indiatimes.com/india/complete-breakdown-of-law-order-in-bengal-sc-after-judicial-officers-were-held-hostage-for-hours-over-sir-deletion/articleshow/129968990.cms",
+        "date": "2026-04-02T11:41:59+05:30"
+    },
+    {
+        "id": "48fecb05",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Astronaut Shukla Reflects on Moon's Call, Hails Artemis II",
+                "content": "Indian astronaut-designate Shubhanshu Shukla evoked the profound feeling of being on the Moon, reflecting on humanity's journey to Earth's satellite. He enthusiastically hailed NASA's upcoming Artemis II mission, underscoring its pivotal role in reigniting lunar exploration. Shukla emphasized the mission's inspiration for future space endeavors and India's own ambitions beyond our planet."
+            },
+            "kn": {
+                "title": "ಆಸ್ಟ್ರೋನಾಟ್ ಶುಕ್ಲಾ ಚಂದ್ರನ ಕರೆಯನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತಾರೆ, ಆರ್ಟೆಮಿಸ್ II ಅನ್ನು ಸ್ವಾಗತಿಸುತ್ತಾರೆ",
+                "content": "ಭಾರತೀಯ ಆಸ್ಟ್ರೋನಾಟ್ ನಾಮನಿರ್ದೇಶಿತ ಶುಭಾಂಶು ಶುಕ್ಲಾ ಅವರು ಚಂದ್ರನ ಮೇಲಿದ್ದ ಆಳವಾದ ಭಾವನೆಯನ್ನು ಸ್ಮರಿಸಿದರು, ಮಾನವಕುಲದ ಭೂಮಿಯ ಉಪಗ್ರಹಕ್ಕೆ ಪ್ರಯಾಣವನ್ನು ಪ್ರತಿಬಿಂಬಿಸಿದರು. ಅವರು NASA ದ ಮುಂಬರುವ ಆರ್ಟೆಮಿಸ್ II ಮಿಷನ್ ಅನ್ನು ಉತ್ಸಾಹದಿಂದ ಶ್ಲಾಘಿಸಿದರು, ಇದು ಚಂದ್ರನ ಪರಿಶೋಧನೆಯನ್ನು ಪುನರುಜ್ಜೀವನಗೊಳಿಸುವಲ್ಲಿ ಅದರ ಪ್ರಮುಖ ಪಾತ್ರವನ್ನು ಒತ್ತಿ ಹೇಳಿದರು. ಶುಕ್ಲಾ ಅವರು ಭವಿಷ್ಯದ ಬಾಹ್ಯಾಕಾಶ ಸಾಹಸಗಳಿಗೆ ಮತ್ತು ನಮ್ಮ ಗ್ರಹವನ್ನು ಮೀರಿ ಭಾರತದ ಮಹತ್ವಾಕಾಂಕ್ಷೆಗಳಿಗೆ ಈ ಮಿಷನ್‌ನ ಪ್ರೇರಣೆಯನ್ನು ಒತ್ತಿ ಹೇಳಿದರು."
+            },
+            "mr": {
+                "title": "अंतराळवीर शुक्ला चंद्राच्या आवाहनावर चिंतन करतात, आर्टेमिस II चे स्वागत करतात",
+                "content": "भारतीय अंतराळवीर नामित शुभांशु शुक्ला यांनी चंद्रावर असल्याच्या गहन भावना व्यक्त केल्या, मानवतेच्या पृथ्वीच्या उपग्रहापर्यंतच्या प्रवासावर चिंतन केले. त्यांनी नासाच्या आगामी आर्टेमिस II मिशनचे उत्साहाने स्वागत केले, चंद्राच्या शोधमोहिमेला पुन्हा चालना देण्यात त्याची महत्त्वाची भूमिका अधोरेखित केली. शुक्ला यांनी भविष्यातील अंतराळ मोहिमांसाठी आणि आपल्या ग्रहापलीकडील भारताच्या स्वतःच्या महत्त्वाकांक्षेसाठी या मिशनच्या प्रेरणेवर जोर दिला."
+            },
+            "hi": {
+                "title": "अंतरिक्ष यात्री शुक्ला ने चंद्रमा के आह्वान पर चिंतन किया, आर्टेमिस II की सराहना की",
+                "content": "भारतीय अंतरिक्ष यात्री नामित शुभांशु शुक्ला ने चंद्रमा पर होने की गहरी भावना को व्यक्त किया, मानवता की पृथ्वी के उपग्रह तक की यात्रा पर चिंतन किया। उन्होंने नासा के आगामी आर्टेमिस II मिशन की उत्साहपूर्वक सराहना की, चंद्र अन्वेषण को फिर से शुरू करने में इसकी महत्वपूर्ण भूमिका पर जोर दिया। शुक्ला ने भविष्य के अंतरिक्ष प्रयासों और हमारे ग्रह से परे भारत की अपनी महत्वाकांक्षाओं के लिए इस मिशन की प्रेरणा पर बल दिया।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129968794,imgsize-1166520.cms",
+        "link": "https://timesofindia.indiatimes.com/india/remember-standing-on-those-grounds-astronaut-shubhanshu-shukla-recalls-moon-journey-hails-artemis-ii-launch/articleshow/129968700.cms",
+        "date": "2026-04-02T11:23:30+05:30"
+    },
+    {
+        "id": "6fd05dd4",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Bulk Food Gets Strict Labels: FSSAI's 2027 Overhaul",
+                "content": "FSSAI is implementing stringent new labeling rules for bulk food packs, effective from 2027. This overhaul aims to boost transparency and ensure large consignments provide comprehensive product details. The updated regulations will prevent inadequately labeled bulk foods from entering the supply chain, significantly enhancing consumer safety and industry accountability. No more \"slipping through\" for these packs."
+            },
+            "kn": {
+                "title": "ಬೃಹತ್ ಆಹಾರ ಪ್ಯಾಕ್‌ಗಳಿಗೆ ಕಠಿಣ ಲೇಬಲ್‌ಗಳು: FSSAI ನ 2027ರ ಸುಧಾರಣೆ",
+                "content": "FSSAI 2027 ರಿಂದ ಜಾರಿಗೆ ಬರುವ ಬೃಹತ್ ಆಹಾರ ಪ್ಯಾಕ್‌ಗಳಿಗೆ ಕಠಿಣ ಹೊಸ ಲೇಬಲಿಂಗ್ ನಿಯಮಗಳನ್ನು ಜಾರಿಗೊಳಿಸುತ್ತಿದೆ. ಈ ಸುಧಾರಣೆಯು ಪಾರದರ್ಶಕತೆಯನ್ನು ಹೆಚ್ಚಿಸುವ ಮತ್ತು ದೊಡ್ಡ ಸಾಗಣೆಗಳು ಸಮಗ್ರ ಉತ್ಪನ್ನ ವಿವರಗಳನ್ನು ಒದಗಿಸುವುದನ್ನು ಖಚಿತಪಡಿಸುತ್ತದೆ. ನವೀಕರಿಸಿದ ನಿಯಮಗಳು ಅಸಮರ್ಪಕವಾಗಿ ಲೇಬಲ್ ಮಾಡಲಾದ ಬೃಹತ್ ಆಹಾರಗಳು ಪೂರೈಕೆ ಸರಪಣಿಯನ್ನು ಪ್ರವೇಶಿಸುವುದನ್ನು ತಡೆಯುತ್ತವೆ, ಗ್ರಾಹಕರ ಸುರಕ್ಷತೆ ಮತ್ತು ಉದ್ಯಮದ ಜವಾಬ್ದಾರಿಯನ್ನು ಗಮನಾರ್ಹವಾಗಿ ಹೆಚ್ಚಿಸುತ್ತವೆ."
+            },
+            "mr": {
+                "title": "बल्क खाद्यपदार्थांसाठी कठोर लेबले: FSSAI ची 2027 मधील सुधारणा",
+                "content": "FSSAI 2027 पासून लागू होणारे, मोठ्या प्रमाणात खाद्यपदार्थांच्या पॅकसाठी नवीन कठोर लेबलिंग नियम लागू करत आहे. या सुधारणेचा उद्देश पारदर्शकता वाढवणे आणि मोठ्या खेपांमध्ये सर्वसमावेशक उत्पादनाचे तपशील असल्याची खात्री करणे आहे. अद्ययावित नियमांमुळे अपुरे लेबल असलेले मोठ्या प्रमाणात खाद्यपदार्थ पुरवठा साखळीत येण्यापासून रोखले जातील, ज्यामुळे ग्राहकांची सुरक्षितता आणि उद्योगाची जबाबदारी लक्षणीयरीत्या वाढेल."
+            },
+            "hi": {
+                "title": "बल्क खाद्य पदार्थों के लिए सख्त लेबल: FSSAI का 2027 का पुनर्गठन",
+                "content": "FSSAI 2027 से प्रभावी होने वाले बल्क खाद्य पैक के लिए नए सख्त लेबलिंग नियम लागू कर रहा है। इस पुनर्गठन का उद्देश्य पारदर्शिता बढ़ाना और यह सुनिश्चित करना है कि बड़ी खेप में व्यापक उत्पाद विवरण हों। अद्यतन नियम अपर्याप्त लेबल वाले बल्क खाद्य पदार्थों को आपूर्ति श्रृंखला में प्रवेश करने से रोकेंगे, जिससे उपभोक्ता सुरक्षा और उद्योग की जवाबदेही में काफी वृद्धि होगी।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129968793,imgsize-21078.cms",
+        "link": "https://timesofindia.indiatimes.com/india/bulk-food-packs-wont-slip-through-anymore-fssai-tightens-label-rules-rollout-from-2027/articleshow/129968662.cms",
+        "date": "2026-04-02T11:23:29+05:30"
+    },
+    {
+        "id": "cd8cd6bb",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Female Elephant Found Dead in Katarniaghat",
+                "content": "A female elephant was tragically discovered dead in Uttar Pradesh's Katarniaghat Wildlife Sanctuary. Forest officials have launched an immediate investigation to ascertain the exact cause, which remains unknown. This somber finding sparks concerns about wildlife well-being in the protected area. Authorities are meticulously examining the site for clues, working to determine if it was natural causes or external factors. The incident underscores the fragility of wildlife populations."
+            },
+            "kn": {
+                "title": "ಕತರ್ನಿಯಾಘಾಟ್‌ನಲ್ಲಿ ಹೆಣ್ಣಾನೆ ಮೃತದೇಹ ಪತ್ತೆ",
+                "content": "ಉತ್ತರ ಪ್ರದೇಶದ ಕತರ್ನಿಯಾಘಾಟ್ ವನ್ಯಜೀವಿ ಧಾಮದಲ್ಲಿ ಹೆಣ್ಣಾನೆಯ ಮೃತದೇಹ ಪತ್ತೆಯಾಗಿದೆ. ಅರಣ್ಯ ಅಧಿಕಾರಿಗಳು ಸಾವಿನ ನಿಖರ ಕಾರಣವನ್ನು ಪತ್ತೆಹಚ್ಚಲು ತಕ್ಷಣ ತನಿಖೆ ಆರಂಭಿಸಿದ್ದಾರೆ, ಅದು ಇನ್ನೂ ತಿಳಿದಿಲ್ಲ. ಈ ದುಃಖಕರ ಘಟನೆ ಸಂರಕ್ಷಿತ ಪ್ರದೇಶದಲ್ಲಿ ವನ್ಯಜೀವಿಗಳ ಯೋಗಕ್ಷೇಮದ ಬಗ್ಗೆ ಕಳವಳ ಮೂಡಿಸಿದೆ. ಅಧಿಕಾರಿಗಳು ನೈಸರ್ಗಿಕ ಕಾರಣಗಳು ಅಥವಾ ಬಾಹ್ಯ ಅಂಶಗಳನ್ನು ನಿರ್ಧರಿಸಲು ಸ್ಥಳವನ್ನು ಸೂಕ್ಷ್ಮವಾಗಿ ಪರಿಶೀಲಿಸುತ್ತಿದ್ದಾರೆ. ಈ ಘಟನೆ ವನ್ಯಜೀವಿಗಳ ಜನಸಂಖ್ಯೆಯ ದುರ್ಬಲತೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "कतरनियाघाटमध्ये मादी हत्ती मृतावस्थेत आढळला",
+                "content": "उत्तर प्रदेशातील कतरनियाघाट वन्यजीव अभयारण्यात एका मादी हत्तीचा मृतदेह आढळला आहे. वन अधिकाऱ्यांनी मृत्यूचे नेमके कारण शोधण्यासाठी त्वरित तपास सुरू केला आहे, जे अद्याप अज्ञात आहे. या दुःखद घटनेमुळे संरक्षित क्षेत्रातील वन्यजीवांच्या कल्याणाबद्दल चिंता वाढली आहे. नैसर्गिक कारणे होती की बाह्य घटक, हे निश्चित करण्यासाठी अधिकारी जागेची कसून तपासणी करत आहेत. ही घटना वन्यजीव प्रजातींच्या नाजूकपणावर भर देते."
+            },
+            "hi": {
+                "title": "कतरनियाघाट में मृत मिली हथिनी",
+                "content": "उत्तर प्रदेश के कतरनियाघाट वन्यजीव अभयारण्य में एक हथिनी मृत पाई गई है। वन अधिकारियों ने मौत का सटीक कारण जानने के लिए तत्काल जांच शुरू कर दी है, जो अभी अज्ञात है। यह दुखद खोज संरक्षित क्षेत्र में वन्यजीवों के कल्याण के बारे में चिंताएं पैदा करती है। अधिकारी बारीकी से स्थल की जांच कर रहे हैं, यह पता लगाने की कोशिश कर रहे हैं कि क्या यह प्राकृतिक कारणों से हुआ था या बाहरी कारकों के कारण। यह घटना वन्यजीव आबादी की नाजुकता को रेखांकित करती है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-117515978,imgsize-99969.cms",
+        "link": "https://timesofindia.indiatimes.com/india/female-elephant-found-dead-in-katarniaghat/articleshow/129961794.cms",
+        "date": "2026-04-02T08:47:00+05:30"
+    },
+    {
+        "id": "ab15681d",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "FCRA Bill Stalled Amid Opposition Protests",
+                "content": "The controversial FCRA bill faced a significant setback as it was not taken up for discussion in Parliament. Intense protests from the opposition stalled its consideration, highlighting deep political divisions. This delay impacts the government's legislative agenda and underscores the challenging environment for passing crucial reforms amid fierce political opposition."
+            },
+            "kn": {
+                "title": "ಎಫ್‌ಸಿಆರ್‌ಎ ಮಸೂದೆ ವಿರೋಧ ಪಕ್ಷದ ಪ್ರತಿಭಟನೆಗಳ ಮಧ್ಯೆ ಸ್ಥಗಿತ",
+                "content": "ವಿವಾದಿತ ಎಫ್‌ಸಿಆರ್‌ಎ ಮಸೂದೆಯನ್ನು ಸಂಸತ್ತಿನಲ್ಲಿ ಚರ್ಚೆಗೆ ತೆಗೆದುಕೊಳ್ಳದಿರುವುದರಿಂದ ಗಂಭೀರ ಹಿನ್ನಡೆ ಎದುರಿಸಿತು. ವಿರೋಧ ಪಕ್ಷದಿಂದ ತೀವ್ರ ಪ್ರತಿಭಟನೆಗಳು ಅದರ ಪರಿಗಣನೆಯನ್ನು ಸ್ಥಗಿತಗೊಳಿಸಿದವು, ಇದು ಆಳವಾದ ರಾಜಕೀಯ ವಿಭಜನೆಗಳನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ಈ ವಿಳಂಬವು ಸರ್ಕಾರದ ಶಾಸಕಾಂಗದ ಕಾರ್ಯಸೂಚಿಯ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರುತ್ತದೆ ಮತ್ತು ತೀವ್ರ ರಾಜಕೀಯ ವಿರೋಧದ ನಡುವೆ ನಿರ್ಣಾಯಕ ಸುಧಾರಣೆಗಳನ್ನು ಜಾರಿಗೊಳಿಸುವ ಸವಾಲಿನ ವಾತಾವರಣವನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "एफसीआरए विधेयक विरोधी पक्षांच्या आंदोलनामुळे थांबले",
+                "content": "वादग्रस्त एफसीआरए विधेयक संसदेत चर्चेसाठी न घेतल्याने त्याला मोठा धक्का बसला. विरोधी पक्षांच्या तीव्र आंदोलनामुळे त्याची चर्चा थांबली, ज्यामुळे खोल राजकीय मतभेद समोर आले. या विलंबाचा सरकारच्या कायदेशीर अजेंड्यावर परिणाम होतो आणि तीव्र राजकीय विरोध असताना महत्त्वाचे सुधारणा कायदे मंजूर करण्याच्या आव्हानात्मक वातावरणावर प्रकाश टाकतो."
+            },
+            "hi": {
+                "title": "एफसीआरए विधेयक विपक्षी विरोध के बीच अटका",
+                "content": "विवादास्पद एफसीआरए विधेयक को एक बड़ा झटका लगा क्योंकि इसे संसद में चर्चा के लिए नहीं लिया गया। विपक्ष के तीव्र विरोध ने इसके विचार को रोक दिया, जिससे गहरे राजनीतिक विभाजन उजागर हुए। यह देरी सरकार के विधायी एजेंडे को प्रभावित करती है और भयंकर राजनीतिक विरोध के बीच महत्वपूर्ण सुधारों को पारित करने के चुनौतीपूर्ण माहौल को रेखांकित करती है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129965707,imgsize-1222723.cms",
+        "link": "https://timesofindia.indiatimes.com/india/fcra-bill-not-taken-up-amid-oppn-protests/articleshow/129965662.cms",
+        "date": "2026-04-02T08:37:41+05:30"
+    },
+    {
+        "id": "33c424f2",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "President, VP, PM Kick Off Census 2027",
+                "content": "President Murmu, Vice President, and Prime Minister Modi have officially initiated Census 2027 by completing their self-enumeration. This significant launch marks the commencement of India's next comprehensive population count, embracing a digital-first approach for enhanced accuracy. The crucial data gathered will inform national planning, resource allocation, and policy development across the country."
+            },
+            "kn": {
+                "title": "ರಾಷ್ಟ್ರಪತಿ, ಉಪರಾಷ್ಟ್ರಪತಿ, ಪ್ರಧಾನಿ ಅವರಿಂದ 2027ರ ಜನಗಣತಿಗೆ ಚಾಲನೆ",
+                "content": "ರಾಷ್ಟ್ರಪತಿ ಮುರ್ಮು, ಉಪರಾಷ್ಟ್ರಪತಿ ಮತ್ತು ಪ್ರಧಾನಿ ಮೋದಿ ಅವರು ತಮ್ಮ ಸ್ವಯಂ-ಗಣತಿಯನ್ನು ಪೂರ್ಣಗೊಳಿಸುವ ಮೂಲಕ 2027ರ ಜನಗಣತಿಗೆ ಅಧಿಕೃತವಾಗಿ ಚಾಲನೆ ನೀಡಿದ್ದಾರೆ. ಈ ಮಹತ್ವದ ಚಾಲನೆಯು ಭಾರತದ ಮುಂದಿನ ಸಮಗ್ರ ಜನಸಂಖ್ಯಾ ಗಣತಿಯ ಪ್ರಾರಂಭವನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಇದು ವರ್ಧಿತ ನಿಖರತೆಗಾಗಿ ಡಿಜಿಟಲ್-ಮೊದಲ ವಿಧಾನವನ್ನು ಅಳವಡಿಸಿಕೊಂಡಿದೆ. ಸಂಗ್ರಹಿಸಿದ ನಿರ್ಣಾಯಕ ದತ್ತಾಂಶವು ರಾಷ್ಟ್ರೀಯ ಯೋಜನೆ, ಸಂಪನ್ಮೂಲ ಹಂಚಿಕೆ ಮತ್ತು ದೇಶಾದ್ಯಂತ ನೀತಿ ಅಭಿವೃದ್ಧಿಗೆ ಮಾಹಿತಿಯನ್ನು ನೀಡುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "राष्ट्रपती, उपराष्ट्रपती, पंतप्रधानांकडून 2027 च्या जनगणनेला प्रारंभ",
+                "content": "राष्ट्रपती मुर्मू, उपराष्ट्रपती आणि पंतप्रधान मोदी यांनी स्वतःची गणना पूर्ण करून 2027 च्या जनगणनेला अधिकृतपणे सुरुवात केली आहे. हे महत्त्वपूर्ण उद्घाटन भारताच्या पुढील व्यापक लोकसंख्या गणनेच्या प्रारंभाचे सूचक आहे, जे वर्धित अचूकतेसाठी डिजिटल-प्रथम दृष्टिकोन स्वीकारते. संकलित केलेला महत्त्वपूर्ण डेटा राष्ट्रीय नियोजन, संसाधनांचे वाटप आणि देशभरातील धोरणात्मक विकासासाठी माहिती देईल."
+            },
+            "hi": {
+                "title": "राष्ट्रपति, उपराष्ट्रपति, प्रधानमंत्री ने 2027 की जनगणना की शुरुआत की",
+                "content": "राष्ट्रपति मुर्मू, उपराष्ट्रपति और प्रधानमंत्री मोदी ने अपनी स्व-गणना पूरी करके आधिकारिक तौर पर जनगणना 2027 की शुरुआत की है। यह महत्वपूर्ण शुभारंभ भारत की अगली व्यापक जनगणना के प्रारंभ का प्रतीक है, जो बेहतर सटीकता के लिए डिजिटल-प्रथम दृष्टिकोण अपना रही है। एकत्रित किए गए महत्वपूर्ण डेटा से राष्ट्रीय योजना, संसाधन आवंटन और देशभर में नीति विकास को जानकारी मिलेगी।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129966003,imgsize-151392.cms",
+        "link": "https://timesofindia.indiatimes.com/india/self-enumeration-by-president-murmu-vp-pm-modi-kicks-off-census-2027/articleshow/129965756.cms",
+        "date": "2026-04-02T08:26:42+05:30"
+    },
+    {
+        "id": "05f2046a",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "SC Fines Centre for 'Unnecessary' CISF Cop Appeal",
+                "content": "The Supreme Court fined the Centre ₹25,000 for filing an \"unnecessary\" appeal challenging a High Court order. The High Court had reinstated a CISF official, terminated for allegedly helping a couple elope, after ruling the girl was an adult and married willingly. The apex court criticized the government for contributing to court pendency with such appeals."
+            },
+            "kn": {
+                "title": "ಸುಪ್ರೀಂ ಕೋರ್ಟ್‌ನಿಂದ ಕೇಂದ್ರಕ್ಕೆ 'ಅನಗತ್ಯ' ಸಿಐಎಸ್‌ಎಫ್ ಸಿಬ್ಬಂದಿ ಮೇಲ್ಮನವಿಗಾಗಿ ದಂಡ",
+                "content": "ಸುಪ್ರೀಂ ಕೋರ್ಟ್, ಹೈಕೋರ್ಟ್ ಆದೇಶವನ್ನು ಪ್ರಶ್ನಿಸಿ \"ಅನಗತ್ಯ\" ಮೇಲ್ಮನವಿ ಸಲ್ಲಿಸಿದ್ದಕ್ಕಾಗಿ ಕೇಂದ್ರಕ್ಕೆ ₹25,000 ದಂಡ ವಿಧಿಸಿತು. ಹೈಕೋರ್ಟ್, ದಂಪತಿ ಓಡಿಹೋಗಲು ಸಹಾಯ ಮಾಡಿದ್ದಾರೆ ಎಂಬ ಆರೋಪದ ಮೇಲೆ ವಜಾಗೊಳಿಸಿದ್ದ ಸಿಐಎಸ್‌ಎಫ್ ಅಧಿಕಾರಿಯನ್ನು ಮರುಸ್ಥಾಪಿಸಿತ್ತು, ಏಕೆಂದರೆ ಹುಡುಗಿ ವಯಸ್ಕಳಾಗಿದ್ದು ಸ್ವಇಚ್ಛೆಯಿಂದ ಮದುವೆಯಾಗಿದ್ದಳು. ಇಂತಹ ಮೇಲ್ಮನವಿಗಳಿಂದ ನ್ಯಾಯಾಲಯಗಳಲ್ಲಿ ಪ್ರಕರಣಗಳು ಬಾಕಿ ಉಳಿಯಲು ಸರ್ಕಾರ ಕಾರಣ ಎಂದು ಸುಪ್ರೀಂ ಕೋರ್ಟ್ ಟೀಕಿಸಿತು."
+            },
+            "mr": {
+                "title": "अनावश्यक CISF कर्मचाऱ्यांच्या अपीलासाठी सर्वोच्च न्यायालयाने केंद्राला दंड ठोठावला",
+                "content": "उच्च न्यायालयाच्या आदेशाला आव्हान देणारी \"अनावश्यक\" याचिका दाखल केल्याबद्दल सर्वोच्च न्यायालयाने केंद्राला ₹25,000 दंड ठोठावला. उच्च न्यायालयाने एका CISF अधिकाऱ्याला पुन्हा सेवेत घेतले होते, ज्याला एका जोडप्याला पळून जाण्यास मदत केल्याच्या आरोपावरून काढून टाकण्यात आले होते, कारण न्यायालयाने मुलीला प्रौढ ठरवून तिने स्वेच्छेने विवाह केला होता. अशा याचिकांमुळे न्यायालयांतील प्रलंबित प्रकरणांमध्ये वाढ होत असल्याबद्दल सर्वोच्च न्यायालयाने सरकारवर टीका केली."
+            },
+            "hi": {
+                "title": "अनावश्यक CISF जवान अपील पर SC ने केंद्र पर लगाया जुर्माना",
+                "content": "सुप्रीम कोर्ट ने हाई कोर्ट के आदेश को चुनौती देने वाली \"अनावश्यक\" अपील दाखिल करने के लिए केंद्र पर ₹25,000 का जुर्माना लगाया. हाई कोर्ट ने एक CISF अधिकारी को बहाल कर दिया था, जिसे एक जोड़े को भागने में मदद करने के आरोप में बर्खास्त किया गया था, क्योंकि लड़की बालिग थी और उसने स्वेच्छा से शादी की थी. शीर्ष अदालत ने ऐसी अपीलों से अदालती मामलों के लंबित रहने में सरकार के योगदान की आलोचना की."
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129965601,imgsize-868933.cms",
+        "link": "https://timesofindia.indiatimes.com/india/supreme-court-fines-centre-for-plea-on-cisf-cops-sacking-case/articleshow/129965585.cms",
+        "date": "2026-04-02T08:08:09+05:30"
+    },
+    {
+        "id": "e60072b0",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Chornobyl: A Global Nuclear Catastrophe",
+                "content": "The 1986 Chornobyl disaster, a catastrophic nuclear accident at the Chornobyl Nuclear Power Plant in Ukraine, occurred during a safety test. An uncontrolled power surge led to reactor core meltdown and explosions, releasing vast amounts of radioactive material into the atmosphere. This global catastrophe caused widespread environmental contamination, long-term health issues, and forced mass evacuations, marking the worst nuclear power plant accident in history."
+            },
+            "kn": {
+                "title": "ಚೆರ್ನೋಬಿಲ್: ಒಂದು ಜಾಗತಿಕ ಅಣು ದುರಂತ",
+                "content": "1986ರ ಚೆರ್ನೋಬಿಲ್ ದುರಂತವು, ಉಕ್ರೇನ್‌ನ ಚೆರ್ನೋಬಿಲ್ ಅಣು ವಿದ್ಯುತ್ ಸ್ಥಾವರದಲ್ಲಿ ಸುರಕ್ಷತಾ ಪರೀಕ್ಷೆಯ ಸಮಯದಲ್ಲಿ ಸಂಭವಿಸಿದ ವಿನಾಶಕಾರಿ ಅಣು ಅಪಘಾತವಾಗಿದೆ. ಅನಿಯಂತ್ರಿತ ವಿದ್ಯುತ್ ಹೆಚ್ಚಳದಿಂದ ರಿಯಾಕ್ಟರ್ ಕೋರ್ ಕರಗಿ ಸ್ಫೋಟಗಳು ಸಂಭವಿಸಿ, ಅಪಾರ ಪ್ರಮಾಣದ ವಿಕಿರಣಶೀಲ ವಸ್ತುಗಳನ್ನು ವಾತಾವರಣಕ್ಕೆ ಬಿಡುಗಡೆ ಮಾಡಿತು. ಈ ಜಾಗತಿಕ ದುರಂತವು ವ್ಯಾಪಕ ಪರಿಸರ ಮಾಲಿನ್ಯ, ದೀರ್ಘಕಾಲಿಕ ಆರೋಗ್ಯ ಸಮಸ್ಯೆಗಳು ಮತ್ತು ಸಾಮೂಹಿಕ ಸ್ಥಳಾಂತರಗಳಿಗೆ ಕಾರಣವಾಗಿ, ಇತಿಹಾಸದ ಅತ್ಯಂತ ಭೀಕರ ಅಣು ವಿದ್ಯುತ್ ಸ್ಥಾವರ ಅಪಘಾತ ಎಂದು ಗುರುತಿಸಲ್ಪಟ್ಟಿದೆ."
+            },
+            "mr": {
+                "title": "चेर्नोबिल: एक जागतिक अणु आपत्ती",
+                "content": "1986 ची चेर्नोबिल आपत्ती, युक्रेनमधील चेर्नोबिल अणुऊर्जा प्रकल्पात सुरक्षा चाचणीदरम्यान घडलेली एक विनाशकारी अणु दुर्घटना होती. अनियंत्रित ऊर्जा वाढीमुळे अणुभट्टीचा गाभा वितळला आणि स्फोट झाले, ज्यामुळे मोठ्या प्रमाणात किरणोत्सर्गी पदार्थ वातावरणात पसरले. या जागतिक आपत्तीमुळे व्यापक पर्यावरणीय प्रदूषण, दीर्घकालीन आरोग्य समस्या आणि मोठ्या प्रमाणावर स्थलांतर झाले, ज्यामुळे हा इतिहासातील सर्वात वाईट अणुऊर्जा प्रकल्पाचा अपघात ठरला."
+            },
+            "hi": {
+                "title": "चेरनोबिल: एक वैश्विक परमाणु आपदा",
+                "content": "1986 की चेरनोबिल आपदा, यूक्रेन के चेरनोबिल परमाणु ऊर्जा संयंत्र में सुरक्षा परीक्षण के दौरान हुई एक विनाशकारी परमाणु दुर्घटना थी। एक अनियंत्रित बिजली वृद्धि के कारण रिएक्टर कोर पिघल गया और विस्फोट हुए, जिससे बड़ी मात्रा में रेडियोधर्मी सामग्री वायुमंडल में फैल गई। इस वैश्विक आपदा से व्यापक पर्यावरणीय संदूषण, दीर्घकालिक स्वास्थ्य समस्याएं और बड़े पैमाने पर निकासी हुई, जिसने इसे इतिहास की सबसे खराब परमाणु ऊर्जा संयंत्र दुर्घटना बना दिया।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129961272,imgsize-78202.cms",
+        "link": "https://timesofindia.indiatimes.com/world/rest-of-world/the-chornobyl-disaster-1986-when-a-nuclear-test-turned-into-a-global-catastrophe/articleshow/129961238.cms",
+        "date": "2026-04-02T01:00:00+05:30"
+    },
+    {
+        "id": "15ad6278",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "UAE Warns Against Illegal Domestic Worker Recruitment",
+                "content": "UAE has issued a strict warning against illegal domestic worker recruitment, threatening heavy fines and agency shutdowns for violators. Authorities emphasize using only accredited agencies to protect both workers and customers from exploitation. The Ministry of Human Resources and Emiratisation urges public cooperation to maintain a regulated labor market and report any illicit practices immediately."
+            },
+            "kn": {
+                "title": "ಯುಎಇ ಅಕ್ರಮ ಗೃಹ ಕಾರ್ಮಿಕರ ನೇಮಕಾತಿ ವಿರುದ್ಧ ಎಚ್ಚರಿಕೆ",
+                "content": "ಯುಎಇ ಅಕ್ರಮ ಗೃಹ ಕಾರ್ಮಿಕರ ನೇಮಕಾತಿ ವಿರುದ್ಧ ಕಟ್ಟುನಿಟ್ಟಾದ ಎಚ್ಚರಿಕೆ ನೀಡಿದೆ, ಉಲ್ಲಂಘಿಸುವವರಿಗೆ ಭಾರಿ ದಂಡ ಮತ್ತು ಏಜೆನ್ಸಿ ಮುಚ್ಚುವ ಬೆದರಿಕೆ ಹಾಕಿದೆ. ಕಾರ್ಮಿಕರು ಮತ್ತು ಗ್ರಾಹಕರಿಬ್ಬರನ್ನೂ ಶೋಷಣೆಯಿಂದ ರಕ್ಷಿಸಲು ಮಾನ್ಯತೆ ಪಡೆದ ಏಜೆನ್ಸಿಗಳನ್ನು ಮಾತ್ರ ಬಳಸಲು ಅಧಿಕಾರಿಗಳು ಒತ್ತಿ ಹೇಳುತ್ತಾರೆ. ನಿಯಂತ್ರಿತ ಕಾರ್ಮಿಕ ಮಾರುಕಟ್ಟೆಯನ್ನು ನಿರ್ವಹಿಸಲು ಮತ್ತು ಯಾವುದೇ ಅಕ್ರಮ ಪದ್ಧತಿಗಳನ್ನು ತಕ್ಷಣ ವರದಿ ಮಾಡಲು ಸಾರ್ವಜನಿಕ ಸಹಕಾರವನ್ನು ಮಾನವ ಸಂಪನ್ಮೂಲ ಮತ್ತು ಎಮಿರಾಟೈಸೇಶನ್ ಸಚಿವಾಲಯ ಒತ್ತಾಯಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "युएईने बेकायदेशीर घरगुती कामगार भरतीविरुद्ध दिला इशारा",
+                "content": "युएईने बेकायदेशीर घरगुती कामगार भरतीविरुद्ध कठोर इशारा दिला आहे, ज्यात नियम मोडणाऱ्यांना मोठा दंड आणि एजन्सी बंद करण्याची धमकी दिली आहे. अधिकारी कामगार आणि ग्राहक दोघांनाही शोषणापासून वाचवण्यासाठी केवळ मान्यताप्राप्त एजन्सी वापरण्यावर जोर देतात. मानव संसाधन आणि एमिरेटायझेशन मंत्रालय सुव्यवस्थित कामगार बाजार राखण्यासाठी आणि कोणत्याही बेकायदेशीर प्रॅक्टिसची तात्काळ तक्रार करण्यासाठी जनतेच्या सहकार्याची विनंती करते."
+            },
+            "hi": {
+                "title": "यूएई ने अवैध घरेलू कामगार भर्ती के खिलाफ चेतावनी दी",
+                "content": "यूएई ने अवैध घरेलू कामगारों की भर्ती के खिलाफ सख्त चेतावनी जारी की है, जिसमें उल्लंघनकर्ताओं के लिए भारी जुर्माना और एजेंसियों को बंद करने की धमकी दी गई है। अधिकारी श्रमिकों और ग्राहकों दोनों को शोषण से बचाने के लिए केवल मान्यता प्राप्त एजेंसियों का उपयोग करने पर जोर देते हैं। मानव संसाधन और अमीरात मंत्रालय एक विनियमित श्रम बाजार बनाए रखने और किसी भी अवैध प्रथाओं की तुरंत रिपोर्ट करने के लिए जनता के सहयोग का आग्रह करता है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129969762,imgsize-547331.cms",
+        "link": "https://timesofindia.indiatimes.com/world/middle-east/uae-issues-strict-warning-against-illegal-domestic-worker-recruitment-heavy-fines-agency-shutdowns-for-violators/articleshow/129969304.cms",
+        "date": "2026-04-02T12:10:23+05:30"
+    },
+    {
+        "id": "34b5d82c",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Artemis II Crew Reports Orion Toilet Issue",
+                "content": "NASA's Artemis II moon mission faces a quirky challenge: the Orion spacecraft's toilet isn't working. The crew reported the issue, prompting engineers to troubleshoot this essential system. Ensuring astronaut comfort and hygiene is paramount for the upcoming lunar journey. NASA is actively working to fix the 'space potty' problem before launch, a minor hiccup in humanity's return to the Moon."
+            },
+            "kn": {
+                "title": "ಆರ್ಟೆಮಿಸ್ II ಸಿಬ್ಬಂದಿ ಓರಿಯನ್ ಶೌಚಾಲಯ ಸಮಸ್ಯೆಯನ್ನು ವರದಿ ಮಾಡಿದ್ದಾರೆ",
+                "content": "ನಾಸಾದ ಆರ್ಟೆಮಿಸ್ II ಚಂದ್ರಯಾನಕ್ಕೆ ಒಂದು ವಿಚಿತ್ರ ಸವಾಲು ಎದುರಾಗಿದೆ: ಓರಿಯನ್ ಬಾಹ್ಯಾಕಾಶ ನೌಕೆಯ ಶೌಚಾಲಯವು ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಿಲ್ಲ. ಸಿಬ್ಬಂದಿ ಸಮಸ್ಯೆಯನ್ನು ವರದಿ ಮಾಡಿದ್ದಾರೆ, ಇದು ಎಂಜಿನಿಯರ್‌ಗಳನ್ನು ಈ ಅಗತ್ಯ ವ್ಯವಸ್ಥೆಯನ್ನು ಪರಿಶೀಲಿಸಲು ಪ್ರೇರೇಪಿಸಿದೆ. ಮುಂಬರುವ ಚಂದ್ರನ ಪ್ರಯಾಣಕ್ಕೆ ಗಗನಯಾತ್ರಿಗಳ ಆರಾಮ ಮತ್ತು ನೈರ್ಮಲ್ಯವನ್ನು ಖಚಿತಪಡಿಸುವುದು ಅತಿ ಮುಖ್ಯವಾಗಿದೆ. ಉಡಾವಣೆಗೆ ಮುನ್ನ ನಾಸಾ 'ಸ್ಪೇಸ್ ಪಾಟಿ' ಸಮಸ್ಯೆಯನ್ನು ಸರಿಪಡಿಸಲು ಸಕ್ರಿಯವಾಗಿ ಕೆಲಸ ಮಾಡುತ್ತಿದೆ, ಇದು ಮಾನವಕುಲದ ಚಂದ್ರನಿಗೆ ಮರಳುವಿಕೆಯ ಸಣ್ಣ ಅಡಚಣೆಯಾಗಿದೆ."
+            },
+            "mr": {
+                "title": "आर्टेमिस II क्रूने ओरियन शौचालयाच्या समस्येची नोंद केली",
+                "content": "नासाच्या आर्टेमिस II चंद्र मोहिमेला एक अनोखे आव्हान आहे: ओरियन स्पेसक्राफ्टचे शौचालय काम करत नाहीये. क्रूने या समस्येची नोंद केली आहे, ज्यामुळे अभियंत्यांना ही आवश्यक प्रणाली तपासण्यास प्रवृत्त केले आहे. आगामी चंद्राच्या प्रवासात अंतराळवीरांच्या आरामाची आणि स्वच्छतेची खात्री करणे अत्यंत महत्त्वाचे आहे. नासा प्रक्षेपणपूर्वी 'स्पेस पॉटी' समस्या सोडवण्यासाठी सक्रियपणे काम करत आहे, मानवाच्या चंद्रावर परत येण्यातील ही एक लहान अडचण आहे."
+            },
+            "hi": {
+                "title": "आर्टेमिस II क्रू ने ओरियन टॉयलेट समस्या की सूचना दी",
+                "content": "नासा के आर्टेमिस II चंद्रमा मिशन को एक अजीब चुनौती का सामना करना पड़ रहा है: ओरियन अंतरिक्ष यान का शौचालय काम नहीं कर रहा है। चालक दल ने इस समस्या की सूचना दी, जिससे इंजीनियरों को इस आवश्यक प्रणाली की जाँच करने के लिए प्रेरित किया गया। आगामी चंद्र यात्रा के लिए अंतरिक्ष यात्रियों के आराम और स्वच्छता को सुनिश्चित करना सर्वोपरि है। नासा लॉन्च से पहले 'स्पेस पॉटी' की समस्या को ठीक करने के लिए सक्रिय रूप से काम कर रहा है, जो मानवता की चंद्रमा पर वापसी में एक छोटी सी बाधा है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129968721,imgsize-53958.cms",
+        "link": "https://timesofindia.indiatimes.com/science/moon-mission-artemis-ii-crew-report-issue-with-orion-spacecraft-toilet-nasa-troubleshoots/articleshow/129967958.cms",
+        "date": "2026-04-02T11:19:46+05:30"
+    },
+    {
+        "id": "62fb75a8",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Rare Millennium-Old Quranic Manuscript Unveiled",
+                "content": "Saudi Arabia has unveiled a rare, nearly 1000-year-old Quranic manuscript, \"Gharib Al-Qur’an,\" by Abu Ubaidah. This monumental discovery, detailing rare Quranic terms, underscores the King Abdulaziz Public Library's dedication to preserving early Islamic scholarship. The invaluable text is now available for academic research, enriching our understanding of the region's rich historical and religious heritage."
+            },
+            "kn": {
+                "title": "ಅಪರೂಪದ ಸಹಸ್ರಮಾನದ ಹಳೆಯ ಕುರಾನ್ ಹಸ್ತಪ್ರತಿ ಅನಾವರಣ",
+                "content": "ಸೌದಿ ಅರೇಬಿಯಾವು ಅಬು ಉಬೈದಾ ಅವರ 'ಘರೀಬ್ ಅಲ್-ಕುರಾನ್' ಎಂಬ ಅಪರೂಪದ, ಸುಮಾರು 1000 ವರ್ಷಗಳ ಹಳೆಯ ಕುರಾನ್ ಹಸ್ತಪ್ರತಿಯನ್ನು ಅನಾವರಣಗೊಳಿಸಿದೆ. ಅಪರೂಪದ ಕುರಾನ್ ಪದಗಳನ್ನು ವಿವರಿಸುವ ಈ ಸ್ಮಾರಕದ ಆವಿಷ್ಕಾರವು ಆರಂಭಿಕ ಇಸ್ಲಾಮಿಕ್ ಪಾಂಡಿತ್ಯವನ್ನು ಸಂರಕ್ಷಿಸುವ ಕಿಂಗ್ ಅಬ್ದುಲ್ ಅಜೀಜ್ ಸಾರ್ವಜನಿಕ ಗ್ರಂಥಾಲಯದ ಸಮರ್ಪಣೆಯನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ. ಅಮೂಲ್ಯವಾದ ಈ ಪಠ್ಯವು ಶೈಕ್ಷಣಿಕ ಸಂಶೋಧನೆಗೆ ಲಭ್ಯವಿದ್ದು, ಪ್ರದೇಶದ ಶ್ರೀಮಂತ ಐತಿಹಾಸಿಕ ಮತ್ತು ಧಾರ್ಮಿಕ ಪರಂಪರೆಯ ಬಗ್ಗೆ ನಮ್ಮ ತಿಳುವಳಿಕೆಯನ್ನು ಸಮೃದ್ಧಗೊಳಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "दुर्मिळ हजारो वर्षांपूर्वीची कुराण हस्तलिखित उघड",
+                "content": "सौदी अरेबियाने अबू उबैदा यांच्या 'घरीब अल-कुराण' नावाच्या, सुमारे 1000 वर्षांपूर्वीच्या दुर्मिळ कुराण हस्तलिखिताचे अनावरण केले आहे. दुर्मिळ कुराणी शब्दांचे तपशील देणारी ही ऐतिहासिक शोध, किंग अब्दुल अझीझ सार्वजनिक ग्रंथालयाच्या सुरुवातीच्या इस्लामिक शिष्यवृत्तीचे जतन करण्याच्या समर्पणावर जोर देते. हे अमूल्य मजकूर आता शैक्षणिक संशोधनासाठी उपलब्ध आहे, ज्यामुळे प्रदेशाच्या समृद्ध ऐतिहासिक आणि धार्मिक वारशाबद्दलची आपली समज वाढते."
+            },
+            "hi": {
+                "title": "दुर्लभ सहस्राब्दी पुरानी कुरान पांडुलिपि का अनावरण",
+                "content": "सऊदी अरब ने अबू उबैदा द्वारा लिखित एक दुर्लभ, लगभग 1000 साल पुरानी कुरान पांडुलिपि, 'गरीब अल-कुरान' का अनावरण किया है। दुर्लभ कुरानिक शब्दों का विवरण देने वाली यह ऐतिहासिक खोज, प्रारंभिक इस्लामी विद्वत्ता को संरक्षित करने के लिए किंग अब्दुलअज़ीज़ पब्लिक लाइब्रेरी के समर्पण को रेखांकित करती है। यह अमूल्य पाठ अब अकादमिक अनुसंधान के लिए उपलब्ध है, जो क्षेत्र की समृद्ध ऐतिहासिक और धार्मिक विरासत के बारे में हमारी समझ को समृद्ध करता है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129968376,imgsize-1197878.cms",
+        "link": "https://timesofindia.indiatimes.com/world/middle-east/rare-1000-year-old-quranic-manuscript-unveiled-in-saudi-arabia/articleshow/129968011.cms",
+        "date": "2026-04-02T10:59:51+05:30"
+    },
+    {
+        "id": "273ebf8c",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "MAGA Alleges O-1A Visa Scam Targeting Indian-Americans",
+                "content": "A MAGA-aligned group accuses Indian-Americans of an O-1A visa scam. They claim agencies are illegally promoting O-1A visas, typically for 'extraordinary ability' individuals, as a 'workaround' for the highly sought-after H-1B visa. This alleged fraud suggests exploitation of the system, enabling individuals to bypass H-1B requirements through fraudulent means, raising concerns about visa integrity."
+            },
+            "kn": {
+                "title": "MAGA ಭಾರತೀಯ-ಅಮೆರಿಕನ್ನರ ವಿರುದ್ಧ O-1A ವೀಸಾ ವಂಚನೆಯ ಆರೋಪ",
+                "content": "MAGA-ಸಂಬಂಧಿತ ಗುಂಪು ಭಾರತೀಯ-ಅಮೆರಿಕನ್ನರ ವಿರುದ್ಧ O-1A ವೀಸಾ ವಂಚನೆಯ ಆರೋಪ ಮಾಡಿದೆ. ಏಜೆನ್ಸಿಗಳು ಸಾಮಾನ್ಯವಾಗಿ 'ಅಸಾಧಾರಣ ಸಾಮರ್ಥ್ಯ'ದ ವ್ಯಕ್ತಿಗಳಿಗೆ ನೀಡಲಾಗುವ O-1A ವೀಸಾಗಳನ್ನು, ಹೆಚ್ಚು ಬೇಡಿಕೆಯಿರುವ H-1B ವೀಸಾಗೆ 'ಪರ್ಯಾಯ'ವಾಗಿ ಅಕ್ರಮವಾಗಿ ಪ್ರಚಾರ ಮಾಡುತ್ತಿವೆ ಎಂದು ಅವರು ಹೇಳಿದ್ದಾರೆ. ಈ ಆರೋಪಿತ ವಂಚನೆಯು ವ್ಯವಸ್ಥೆಯ ದುರುಪಯೋಗವನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಇದು ವ್ಯಕ್ತಿಗಳಿಗೆ ಮೋಸದ ವಿಧಾನಗಳ ಮೂಲಕ H-1B ಅವಶ್ಯಕತೆಗಳನ್ನು ಬೈಪಾಸ್ ಮಾಡಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ, ವೀಸಾದ ಸಮಗ್ರತೆಯ ಬಗ್ಗೆ ಕಳವಳ ವ್ಯಕ್ತಪಡಿಸಿದೆ."
+            },
+            "mr": {
+                "title": "MAGA कडून भारतीय-अमेरिकन लोकांवर O-1A व्हिसा घोटाळ्याचा आरोप",
+                "content": "MAGA-संबंधित गटाने भारतीय-अमेरिकन लोकांवर O-1A व्हिसा घोटाळ्याचा आरोप केला आहे. त्यांचे म्हणणे आहे की एजन्सीज, 'असाधारण क्षमता' असलेल्या व्यक्तींसाठी असलेल्या O-1A व्हिसाला, जास्त मागणी असलेल्या H-1B व्हिसासाठी 'पर्याय' म्हणून बेकायदेशीरपणे प्रोत्साहन देत आहेत. या कथित घोटाळ्यात प्रणालीचा गैरवापर झाल्याचे सूचित होते, ज्यामुळे व्यक्तींना फसवणुकीच्या मार्गाने H-1B च्या आवश्यकता टाळता येतात आणि व्हिसाच्या सचोटीबद्दल चिंता वाढते."
+            },
+            "hi": {
+                "title": "MAGA ने भारतीय-अमेरिकियों पर O-1A वीज़ा घोटाले का आरोप लगाया",
+                "content": "MAGA से जुड़े एक समूह ने भारतीय-अमेरिकियों पर O-1A वीज़ा घोटाले का आरोप लगाया है। उनका दावा है कि एजेंसियां, आमतौर पर 'असाधारण क्षमता' वाले व्यक्तियों के लिए बनाए गए O-1A वीज़ा को, अत्यधिक मांग वाले H-1B वीज़ा के लिए 'कार्यप्रणाली' के रूप में अवैध रूप से बढ़ावा दे रही हैं। यह कथित धोखाधड़ी प्रणाली के दुरुपयोग का संकेत देती है, जिससे व्यक्तियों को कपटपूर्ण तरीकों से H-1B आवश्यकताओं को दरकिनार करने में मदद मिलती है, जिससे वीज़ा की अखंडता पर चिंताएं बढ़ जाती हैं।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129967969,imgsize-95664.cms",
+        "link": "https://timesofindia.indiatimes.com/world/us/us-news-this-is-fraud-maga-accuses-indian-americans-of-o-1a-visa-scam-claim-agencies-offering-h-1b-workaround/articleshow/129967969.cms",
+        "date": "2026-04-02T10:55:58+05:30"
+    },
+    {
+        "id": "fff3be68",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Artemis II: Astronauts Manually Pilot Orion for Lunar Return",
+                "content": "NASA's Artemis II mission is underway! Astronauts are manually piloting the Orion spacecraft, successfully performing proximity operations tests after separation. This historic 10-day journey marks humanity's return to lunar space after over 50 years. The crew will fly around the Moon, capturing stunning images, paving the way for future lunar exploration."
+            },
+            "kn": {
+                "title": "ಆರ್ಟೆಮಿಸ್ II: ಚಂದ್ರಯಾನಕ್ಕೆ ಒರಿಯನ್ ಅನ್ನು ಗಗನಯಾತ್ರಿಗಳು ಕೈಯಾರೆ ಚಲಾಯಿಸಿದರು",
+                "content": "ನಾಸಾದ ಆರ್ಟೆಮಿಸ್ II ಮಿಷನ್ ಕಾರ್ಯರೂಪದಲ್ಲಿದೆ! ಗಗನಯಾತ್ರಿಗಳು ಒರಿಯನ್ ಬಾಹ್ಯಾಕಾಶ ನೌಕೆಯನ್ನು ಕೈಯಾರೆ ಚಲಾಯಿಸುತ್ತಿದ್ದಾರೆ, ಪ್ರತ್ಯೇಕತೆಯ ನಂತರ ಸಮೀಪ ಕಾರ್ಯಾಚರಣೆಯ ಪರೀಕ್ಷೆಗಳನ್ನು ಯಶಸ್ವಿಯಾಗಿ ನಿರ್ವಹಿಸುತ್ತಿದ್ದಾರೆ. ಈ ಐತಿಹಾಸಿಕ 10 ದಿನಗಳ ಪ್ರಯಾಣವು 50 ವರ್ಷಗಳ ನಂತರ ಮಾನವಕುಲದ ಚಂದ್ರನ ಬಾಹ್ಯಾಕಾಶಕ್ಕೆ ಮರಳುವಿಕೆಯನ್ನು ಗುರುತಿಸುತ್ತದೆ. ಸಿಬ್ಬಂದಿ ಚಂದ್ರನ ಸುತ್ತ ಹಾರುತ್ತಾರೆ, ಅದ್ಭುತ ಚಿತ್ರಗಳನ್ನು ಸೆರೆಹಿಡಿಯುತ್ತಾರೆ, ಭವಿಷ್ಯದ ಚಂದ್ರನ ಪರಿಶೋಧನೆಗೆ ದಾರಿ ಮಾಡಿಕೊಡುತ್ತಾರೆ."
+            },
+            "mr": {
+                "title": "आर्टेमिस II: चंद्राकडे परतण्यासाठी अंतराळवीरांनी ओरियनला हाताने चालवले",
+                "content": "नासाचे आर्टेमिस II अभियान सुरू झाले आहे! अंतराळवीर ओरियन अवकाशयानाचे हाताने संचालन करत आहेत, यशस्वीपणे विभक्त झाल्यानंतर नजीकच्या कार्यान्वयनाचे परीक्षण करत आहेत. हा ऐतिहासिक 10 दिवसांचा प्रवास 50 वर्षांनंतर मानवजातीचे चंद्राच्या अवकाशात पुनरागमन दर्शवतो. हे दल चंद्राभोवती उड्डाण करेल, आश्चर्यकारक प्रतिमा कॅप्चर करेल आणि भविष्यातील चंद्र संशोधनाचा मार्ग मोकळा करेल."
+            },
+            "hi": {
+                "title": "आर्टेमिस II: चंद्र वापसी के लिए अंतरिक्ष यात्रियों ने ओरियन को मैन्युअल रूप से संचालित किया",
+                "content": "नासा का आर्टेमिस II मिशन शुरू हो गया है! अंतरिक्ष यात्री ओरियन अंतरिक्ष यान को मैन्युअल रूप से चला रहे हैं, अलगाव के बाद निकटता संचालन परीक्षण सफलतापूर्वक कर रहे हैं। यह ऐतिहासिक 10 दिवसीय यात्रा 50 से अधिक वर्षों के बाद मानव जाति की चंद्र अंतरिक्ष में वापसी का प्रतीक है। यह दल चंद्रमा के चारों ओर उड़ान भरेगा, शानदार तस्वीरें खींचेगा और भविष्य के चंद्र अन्वेषण का मार्ग प्रशस्त करेगा।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129966781,imgsize-2418216.cms",
+        "link": "https://timesofindia.indiatimes.com/science/artemis-ii-astronauts-manually-pilot-orion-nasa-video-shows-spacecraft-heading-towards-moon/articleshow/129966641.cms",
+        "date": "2026-04-02T09:43:52+05:30"
+    },
+    {
+        "id": "ca09bdd3",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Carnegie's Wealth Secret: Focus & Vigilance",
+                "content": "Andrew Carnegie's powerful quote, \"Put all your eggs in one basket and then watch that basket,\" defies conventional wisdom of spreading risk. He advocates intense, singular focus for achieving wealth. His philosophy stresses committing fully to one venture, dedicating undivided attention and effort to its success. This intense dedication and vigilant oversight, Carnegie suggests, is the ultimate strategy for significant financial prosperity."
+            },
+            "kn": {
+                "title": "ಕಾರ್ನೆಗಿಯ ಸಂಪತ್ತಿನ ರಹಸ್ಯ: ಗಮನ ಮತ್ತು ನಿಗಾ",
+                "content": "ಆಂಡ್ರ್ಯೂ ಕಾರ್ನೆಗಿಯವರ ಪ್ರಬಲ ಉಲ್ಲೇಖ, \"ನಿಮ್ಮ ಎಲ್ಲಾ ಮೊಟ್ಟೆಗಳನ್ನು ಒಂದೇ ಬುಟ್ಟಿಯಲ್ಲಿ ಹಾಕಿ ಮತ್ತು ಆ ಬುಟ್ಟಿಯನ್ನು ಗಮನಿಸಿ,\" ಅಪಾಯವನ್ನು ಹಂಚುವ ಸಾಂಪ್ರದಾಯಿಕ ಬುದ್ಧಿವಂತಿಕೆಯನ್ನು ತಿರಸ್ಕರಿಸುತ್ತದೆ. ಅವರು ಸಂಪತ್ತು ಗಳಿಸಲು ತೀವ್ರ, ಏಕಾಗ್ರ ಗಮನವನ್ನು ಪ್ರತಿಪಾದಿಸುತ್ತಾರೆ. ಅವರ ತತ್ವಶಾಸ್ತ್ರವು ಒಂದೇ ಉದ್ಯಮಕ್ಕೆ ಸಂಪೂರ್ಣವಾಗಿ ಬದ್ಧರಾಗಿ, ಅದರ ಯಶಸ್ಸಿಗೆ ಅಖಂಡ ಗಮನ ಮತ್ತು ಪ್ರಯತ್ನವನ್ನು ವಿನಿಯೋಗಿಸಲು ಒತ್ತಿಹೇಳುತ್ತದೆ. ಕಾರ್ನೆಗಿ ಸಲಹೆ ನೀಡುವಂತೆ, ಈ ತೀವ್ರ ಸಮರ್ಪಣೆ ಮತ್ತು ಜಾಗರೂಕ ಮೇಲ್ವಿಚಾರಣೆಯು ಗಣನೀಯ ಆರ್ಥಿಕ ಸಮೃದ್ಧಿಗೆ ಅಂತಿಮ ತಂತ್ರವಾಗಿದೆ."
+            },
+            "mr": {
+                "title": "कार्नेगीचे संपत्तीचे रहस्य: लक्ष आणि सतर्कता",
+                "content": "अँड्र्यू कार्नेगी यांचे शक्तिशाली विधान, \"आपली सर्व अंडी एकाच टोपलीत ठेवा आणि नंतर त्या टोपलीकडे लक्ष ठेवा,\" धोका विभागण्याच्या पारंपरिक शहाणपणाला आव्हान देते. ते संपत्ती मिळवण्यासाठी तीव्र, एकट्या लक्ष केंद्रित करण्याची शिफारस करतात. त्यांचे तत्त्वज्ञान एकाच व्यवसायाला पूर्णपणे समर्पित होऊन, त्याच्या यशासाठी अविभाजित लक्ष आणि प्रयत्न देण्यावर भर देते. कार्नेगी सुचवतात की, हे तीव्र समर्पण आणि सतर्क निरीक्षण लक्षणीय आर्थिक समृद्धीसाठी अंतिम रणनीती आहे."
+            },
+            "hi": {
+                "title": "कार्नेगी का धन का रहस्य: ध्यान और सतर्कता",
+                "content": "एंड्रयू कार्नेगी का शक्तिशाली उद्धरण, \"अपने सभी अंडे एक टोकरी में रखो और फिर उस टोकरी पर नज़र रखो,\" जोखिम फैलाने की पारंपरिक बुद्धिमत्ता को चुनौती देता है। वे धन प्राप्त करने के लिए गहन, एकल ध्यान केंद्रित करने की वकालत करते हैं। उनका दर्शन एक ही उद्यम के प्रति पूरी तरह से प्रतिबद्ध होने, उसकी सफलता के लिए अविभाजित ध्यान और प्रयास समर्पित करने पर जोर देता है। कार्नेगी का सुझाव है कि यह गहन समर्पण और सतर्क निगरानी ही महत्वपूर्ण वित्तीय समृद्धि के लिए अंतिम रणनीति है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129968225,imgsize-33406.cms",
+        "link": "https://timesofindia.indiatimes.com/world/us/quote-of-the-day-by-andrew-carnegie-the-way-to-become-rich-is-to-put-all-your-eggs-in-one-basket-and-then-watch-that-basket-/articleshow/129968102.cms",
+        "date": "2026-04-02T10:53:07+05:30"
+    },
+    {
+        "id": "2a697eb1",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Oil Prices Surge After Trump's Hormuz Call",
+                "content": "Oil prices surged after President Trump's speech urged nations to help reopen the Strait of Hormuz, citing Iran's weakened state and military setbacks. The address, outlining US objectives and suggesting alternative fuel sources, reversed an initial dip. Brent crude hit $106, WTI topped $103, reflecting market volatility post-speech."
+            },
+            "kn": {
+                "title": "ಟ್ರಂಪ್ ಅವರ ಹೋರ್ಮುಜ್ ಕರೆಯ ನಂತರ ತೈಲ ಬೆಲೆ ಏರಿಕೆ",
+                "content": "ಅಧ್ಯಕ್ಷ ಟ್ರಂಪ್ ಅವರ ಭಾಷಣದ ನಂತರ ತೈಲ ಬೆಲೆಗಳು ಏರಿಕೆ ಕಂಡವು, ಅವರು ಇರಾನ್‌ನ ದುರ್ಬಲ ಸ್ಥಿತಿ ಮತ್ತು ಮಿಲಿಟರಿ ಹಿನ್ನಡೆಗಳನ್ನು ಉಲ್ಲೇಖಿಸಿ, ಹೋರ್ಮುಜ್ ಜಲಸಂಧಿಯನ್ನು ಮರು-ತೆರೆಯಲು ರಾಷ್ಟ್ರಗಳಿಗೆ ಕರೆ ನೀಡಿದರು. ಯುಎಸ್ ಉದ್ದೇಶಗಳನ್ನು ವಿವರಿಸಿದ ಮತ್ತು ಪರ್ಯಾಯ ಇಂಧನ ಮೂಲಗಳನ್ನು ಸೂಚಿಸಿದ ಈ ಭಾಷಣ, ಆರಂಭಿಕ ಕುಸಿತವನ್ನು ಹಿಮ್ಮೆಟ್ಟಿಸಿತು. ಬ್ರೆಂಟ್ ಕಚ್ಚಾ ತೈಲ $106 ಮತ್ತು WTI $103 ತಲುಪಿತು, ಇದು ಭಾಷಣದ ನಂತರದ ಮಾರುಕಟ್ಟೆ ಅಸ್ಥಿರತೆಯನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "ट्रम्प यांच्या होर्मुझ आवाहनानंतर तेलाच्या किमती वाढल्या",
+                "content": "राष्ट्राध्यक्ष ट्रम्प यांच्या भाषणानंतर तेलाच्या किमती वाढल्या, ज्यामध्ये त्यांनी इराणची कमकुवत स्थिती आणि लष्करी अडचणींचा उल्लेख करत होर्मुझची सामुद्रधुनी पुन्हा उघडण्यास मदत करण्याचे आवाहन राष्ट्रांना केले. अमेरिकेची उद्दिष्टे आणि पर्यायी इंधनाच्या स्रोतांची रूपरेषा मांडलेल्या या भाषणामुळे सुरुवातीची घसरण थांबली. ब्रेंट क्रूड $106 आणि WTI $103 वर पोहोचले, ज्यामुळे भाषणानंतरची बाजारातील अस्थिरता दिसून येते."
+            },
+            "hi": {
+                "title": "ट्रम्प के होर्मुज आह्वान के बाद तेल की कीमतों में उछाल",
+                "content": "राष्ट्रपति ट्रम्प के भाषण के बाद तेल की कीमतें बढ़ गईं, जिसमें उन्होंने ईरान की कमजोर स्थिति और सैन्य असफलताओं का हवाला देते हुए राष्ट्रों से होर्मुज जलडमरूमध्य को फिर से खोलने में मदद करने का आग्रह किया। अमेरिकी उद्देश्यों को रेखांकित करने और वैकल्पिक ईंधन स्रोतों का सुझाव देने वाले इस संबोधन ने शुरुआती गिरावट को उलट दिया। ब्रेंट क्रूड $106 और डब्ल्यूटीआई $103 पर पहुंच गया, जो भाषण के बाद बाजार की अस्थिरता को दर्शाता है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129965318,imgsize-1886311.cms",
+        "link": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-climb-today-on-april-2-2026-after-trumps-speech-brent-crude-reaches-106-wti-tops-103/articleshow/129965171.cms",
+        "date": "2026-04-02T07:39:49+05:30"
+    },
+    {
+        "id": "c7731bf1",
+        "category": "Entertainment",
+        "translations": {
+            "en": {
+                "title": "Rishi-Ranbir's Strained Bond Revealed; Ranbir Vows Closer Raha Tie",
+                "content": "Viveck Vaswani revealed late Rishi Kapoor was frequently irritated with son Ranbir, who typically laughed it off. Ranbir now seeks to break their \"glass wall\" of distant father-son ties, aiming for a much closer bond with his daughter, Raha. This personal insight sheds light on their dynamic, contrasting Ranbir's past with his future hopes. Rishi passed in 2020."
+            },
+            "kn": {
+                "title": "ರಿಷಿ-ರಣಬೀರ್‌ನ ಬಿರುಕಿದ ಸಂಬಂಧ ಬಹಿರಂಗ; ರಣಬೀರ್‌ಗೆ ರಾಹಾ ಜೊತೆ ನಿಕಟ ಸಂಬಂಧದ ಸಂಕಲ್ಪ",
+                "content": "ವಿವೇಕ್ ವಾಸುದೇವನ್ ಬಹಿರಂಗಪಡಿಸಿದಂತೆ, ದಿವಂಗತ ರಿಷಿ ಕಪೂರ್ ಮಗ ರಣಬೀರ್‌ನಿಂದ ಆಗಾಗ್ಗೆ ಅಸಮಾಧಾನಗೊಂಡಿದ್ದರು, ಅದನ್ನು ರಣಬೀರ್ ನಗುತ್ತಲೇ ಸ್ವೀಕರಿಸುತ್ತಿದ್ದರು. ರಣಬೀರ್ ಈಗ ತಮ್ಮ ಮಗಳು ರಾಹಾ ಜೊತೆ ಹೆಚ್ಚು ನಿಕಟ ಸಂಬಂಧ ಬೆಳೆಸುವ ಮೂಲಕ ತಂದೆ-ಮಗನ ದೂರದ 'ಗಾಜಿನ ಗೋಡೆ'ಯನ್ನು ಮುರಿಯಲು ಬಯಸಿದ್ದಾರೆ. ಇದು ಅವರ ಸಂಬಂಧದ ಆಳವನ್ನು ತೋರಿಸುತ್ತದೆ. ರಿಷಿ ಕಪೂರ್ 2020 ರಲ್ಲಿ ನಿಧನರಾದರು."
+            },
+            "mr": {
+                "title": "ऋषी-रणबीरचे ताणलेले नाते उघड; रणबीरचा राहासोबत अधिक घट्ट नात्याचा संकल्प",
+                "content": "विवेक वासवानी यांनी खुलासा केला की, दिवंगत ऋषी कपूर अनेकदा मुलगा रणबीरवर चिडलेले असायचे, रणबीर मात्र ते हसून टाळायचा. रणबीर आता आपली मुलगी राहासोबत अधिक घट्ट नाते निर्माण करून त्यांच्यातील वडील-मुलाच्या नात्यातील 'काचेची भिंत' तोडण्याचा प्रयत्न करत आहे. ही माहिती त्यांच्या नात्यावर प्रकाश टाकते. ऋषी कपूर २०२० मध्ये निधन पावले."
+            },
+            "hi": {
+                "title": "ऋषि-रणबीर का तनावपूर्ण रिश्ता उजागर; रणबीर का राहा से घनिष्ठ संबंध का संकल्प",
+                "content": "विवेक वासवानी ने खुलासा किया कि दिवंगत ऋषि कपूर अक्सर बेटे रणबीर से चिढ़ते थे, जिसे रणबीर हंसकर टाल देते थे। रणबीर अब अपनी बेटी राहा के साथ घनिष्ठ रिश्ता बनाकर पिता-पुत्र के दूर के संबंधों की 'कांच की दीवार' तोड़ना चाहते हैं। यह जानकारी उनके रिश्ते की गहराई बताती है। ऋषि कपूर का निधन 2020 में हुआ।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129969961,imgsize-15194.cms",
+        "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/viveck-vaswani-opens-up-about-their-complicated-father-son-bond-rishi-kapoor-was-continuously-aggravated-with-ranbir/articleshow/129969961.cms",
+        "date": "2026-04-02T12:19:29+05:30"
+    },
+    {
+        "id": "6e20be80",
+        "category": "Entertainment",
+        "translations": {
+            "en": {
+                "title": "Noah Schnapp Celebrates One Month with Mystery Boyfriend",
+                "content": "\"Stranger Things\" star Noah Schnapp, who publicly came out as gay in January 2023, is celebrating a relationship milestone. He recently shared a sweet Instagram photo, marking one month with his new mystery boyfriend. Schnapp has previously credited his character, Will Byers, with helping him embrace his own sexuality, making this announcement particularly heartwarming for fans."
+            },
+            "kn": {
+                "title": "ನೋವಾ ಶ್ನಾಪ್ ನಿಗೂಢ ಗೆಳೆಯನೊಂದಿಗೆ ಒಂದು ತಿಂಗಳು ಆಚರಿಸಿದರು",
+                "content": "\"ಸ್ಟ್ರೇಂಜರ್ ಥಿಂಗ್ಸ್\" ನಟ ನೋವಾ ಶ್ನಾಪ್, ಜನವರಿ 2023 ರಲ್ಲಿ ಸಾರ್ವಜನಿಕವಾಗಿ ಗೇ ಎಂದು ಘೋಷಿಸಿಕೊಂಡಿದ್ದರು, ಈಗ ಸಂಬಂಧದ ಮೈಲಿಗಲ್ಲನ್ನು ಆಚರಿಸುತ್ತಿದ್ದಾರೆ. ಅವರು ಇತ್ತೀಚೆಗೆ ತಮ್ಮ ಹೊಸ ನಿಗೂಢ ಗೆಳೆಯನೊಂದಿಗೆ ಒಂದು ತಿಂಗಳು ಪೂರ್ಣಗೊಂಡಿರುವುದನ್ನು ಸೂಚಿಸುವ ಒಂದು ಮುದ್ದಾದ ಇನ್‌ಸ್ಟಾಗ್ರಾಮ್ ಫೋಟೋವನ್ನು ಹಂಚಿಕೊಂಡಿದ್ದಾರೆ. ಶ್ನಾಪ್ ಈ ಹಿಂದೆ ತಮ್ಮ ಪಾತ್ರವಾದ ವಿಲ್ ಬೈಯರ್ಸ್ ತಮ್ಮ ಲೈಂಗಿಕತೆಯನ್ನು ಸ್ವೀಕರಿಸಲು ಸಹಾಯ ಮಾಡಿದೆ ಎಂದು ಹೇಳಿಕೊಂಡಿದ್ದರು, ಇದು ಅಭಿಮಾನಿಗಳಿಗೆ ಈ ಘೋಷಣೆಯನ್ನು ಇನ್ನಷ್ಟು ಸಂತೋಷಕರವಾಗಿಸಿದೆ."
+            },
+            "mr": {
+                "title": "नोहा श्नापनी मिस्ट्री बॉयफ्रेंडसोबत एका महिन्याचे सेलिब्रेशन केले",
+                "content": "\"स्ट्रेंजर थिंग्स\" चा स्टार नोहा श्नाप, ज्याने जानेवारी 2023 मध्ये सार्वजनिकपणे समलिंगी असल्याचे जाहीर केले होते, तो एका नात्यातील महत्त्वाचा टप्पा साजरा करत आहे. त्याने नुकताच इंस्टाग्रामवर एक सुंदर फोटो शेअर केला, ज्यामध्ये त्याच्या नवीन मिस्ट्री बॉयफ्रेंडसोबतच्या एका महिन्याचे सेलिब्रेशन दिसत आहे. श्नापने यापूर्वी आपल्या विल बायर्स या भूमिकेने त्याला स्वतःची लैंगिकता स्वीकारण्यास मदत केली होती असे म्हटले होते, ज्यामुळे ही घोषणा चाहत्यांसाठी विशेष हृदयस्पर्शी ठरली आहे."
+            },
+            "hi": {
+                "title": "नूह श्नैप ने मिस्ट्री बॉयफ्रेंड के साथ एक महीना मनाया",
+                "content": "\"स्ट्रेंजर थिंग्स\" के स्टार नूह श्नैप, जो जनवरी 2023 में सार्वजनिक रूप से समलैंगिक के रूप में सामने आए थे, एक रिश्ते के मील के पत्थर का जश्न मना रहे हैं। उन्होंने हाल ही में अपने नए मिस्ट्री बॉयफ्रेंड के साथ एक महीने पूरे होने का जश्न मनाते हुए एक प्यारी इंस्टाग्राम तस्वीर साझा की। श्नैप ने पहले अपने किरदार, विल बायर्स को अपनी यौन पहचान स्वीकार करने में मदद करने का श्रेय दिया था, जिससे यह घोषणा प्रशंसकों के लिए विशेष रूप से दिल को छू लेने वाली बन गई है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129969841,imgsize-121644.cms",
+        "link": "https://timesofindia.indiatimes.com/web-series/news/english/stranger-things-star-noah-schnapp-shares-arm-wrapped-pictures-with-mystery-boyfriend-celebrates-one-month-of-relationship/articleshow/129969841.cms",
+        "date": "2026-04-02T12:17:27+05:30"
+    },
+    {
         "id": "6e06de13",
         "category": "IPL Scoop",
         "translations": {
@@ -1423,580 +1998,5 @@
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
         "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPRW1nY0ZPMzVCMUQ1RE1jSktaRUgwaGFMamhVNVJqUmsyLU8xbXgzTFp2b0huREJnbVVyc3lEZGpMT190MDJsMkFTczMxUGNoSlZJbHE1ZVlSYWlfMWgwWUZteTF6MjBJaC1sODVhZ0tXMmpGVU9IcGhZS19tYjhETHRnZ2hBR09Gb2J0TUMtSkVEeHlsM1ZOeml0clFRNjMwcHdUbWI2Wk1CaFlXeWd1V1ZVb2kwNjR4bG81NnpsTFZuM29tbnBMUmNpcHdaRkpIUzkyS2Zud1M3cGM3cXVyZnM3RHVsZmNjbU5LTHRmZkVONXJiX204ZzhubTAzTkcyZUJzTmdEdDNuQUxTTmpQZHBCd0RFZXdWQnh6TXQ3Smc1UQ?oc=5",
         "date": "Tue, 31 Mar 2026 17:26:00 GMT"
-    },
-    {
-        "id": "044d4f09",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Gujarat Titans' IPL 2026 Schedule Released!",
-                "content": "Gujarat Titans' full schedule for IPL 2026 has been released. Fans can now check all dates, venues, and home-away fixtures for the upcoming season. The Times of India reports on this highly anticipated release, offering crucial details for supporters to plan their matchday experiences and follow their favourite team's journey."
-            },
-            "kn": {
-                "title": "ಗುಜರಾತ್ ಟೈಟನ್ಸ್ ಐಪಿಎಲ್ 2026 ವೇಳಾಪಟ್ಟಿ ಬಿಡುಗಡೆ!",
-                "content": "ಗುಜರಾತ್ ಟೈಟನ್ಸ್ ತಂಡದ ಐಪಿಎಲ್ 2026 ರ ಸಂಪೂರ್ಣ ವೇಳಾಪಟ್ಟಿ ಬಿಡುಗಡೆಯಾಗಿದೆ. ಅಭಿಮಾನಿಗಳು ಈಗ ಮುಂಬರುವ ಸೀಸನ್‌ಗಾಗಿ ಎಲ್ಲಾ ದಿನಾಂಕಗಳು, ಸ್ಥಳಗಳು ಮತ್ತು ತವರು-ಹೊರಗಿನ ಪಂದ್ಯಗಳ ವಿವರಗಳನ್ನು ಪರಿಶೀಲಿಸಬಹುದು. ಟೈಮ್ಸ್ ಆಫ್ ಇಂಡಿಯಾ ಈ ಬಹುನಿರೀಕ್ಷಿತ ಬಿಡುಗಡೆಯ ಬಗ್ಗೆ ವರದಿ ಮಾಡಿದ್ದು, ಅಭಿಮಾನಿಗಳಿಗೆ ತಮ್ಮ ಪಂದ್ಯದ ಅನುಭವಗಳನ್ನು ಯೋಜಿಸಲು ಮತ್ತು ತಮ್ಮ ನೆಚ್ಚಿನ ತಂಡದ ಪ್ರಯಾಣವನ್ನು ಅನುಸರಿಸಲು ಪ್ರಮುಖ ವಿವರಗಳನ್ನು ನೀಡಿದೆ."
-            },
-            "mr": {
-                "title": "गुजरात टायटन्सचे IPL 2026 वेळापत्रक जाहीर!",
-                "content": "गुजरात टायटन्सचे IPL 2026 चे संपूर्ण वेळापत्रक जाहीर झाले आहे. चाहते आता आगामी हंगामासाठी सर्व तारखा, ठिकाणे आणि घरच्या मैदानावर तसेच बाहेरच्या मैदानावर होणाऱ्या सामन्यांची माहिती तपासू शकतात. द टाइम्स ऑफ इंडियाने या बहुप्रतीक्षित घोषणेची बातमी दिली आहे, ज्यामुळे चाहत्यांना त्यांचे सामन्याचे अनुभव नियोजनबद्ध करण्यास आणि त्यांच्या आवडत्या संघाच्या प्रवासाचे अनुसरण करण्यास महत्त्वाचे तपशील मिळाले आहेत."
-            },
-            "hi": {
-                "title": "गुजरात टाइटंस का IPL 2026 शेड्यूल जारी!",
-                "content": "गुजरात टाइटंस का IPL 2026 का पूरा शेड्यूल जारी कर दिया गया है। प्रशंसक अब आगामी सीज़न के लिए सभी तारीखें, स्थान और घरेलू-बाहरी मैचों की जानकारी देख सकते हैं। द टाइम्स ऑफ इंडिया ने इस बहुप्रतीक्षित घोषणा की रिपोर्ट दी है, जो समर्थकों को उनके मैच-डे अनुभवों की योजना बनाने और अपनी पसंदीदा टीम की यात्रा का अनुसरण करने के लिए महत्वपूर्ण विवरण प्रदान करती है।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQbmN6NG1HQ0phMnB3bDJFbS1zNzVUT1BrZDJzeDUyVXJaZjZxc2c3dDhqLVpQUEZBWlJnR2xfeWd1dVZCcXFuRHd2ZHhxWjdTU1pGd204akpPNC02T05aNVhxVzF4U2dwWXJXOE1GeHNxWFRLQVZCLTYxaUxSTUdMczhxNmI3OU5rUE5hVFJGalZTNjJQZHJLMGFrdTB3R2d5UGJWTkc4bG55RWozM29vbWVaa3NPYUtoeHIxdHlUcXRFaWNiNDJZd3dqMDhKclpVd2tTTEVXSVNKUWY3S0pnQWVkdWRGRERpTk1iVkNkQWc3ZTBsYjczSVpQbFVoQ1ViMnBIRHJNQzlSUdIBjwJBVV95cUxNNkd6QVpjdnBra1dPOGJlUWJpVFpGcVJCcE1ITGZ0bVhXRFBIRHMtdnoyZVc5VlEwSXJBR1dqZHBjel9MYlN3YWxsYkR4NmcxbjQ2a2l2cjU5NEo1Xy1uNTBPalBUMW1IWjFHVzVSZldMdWQxTDhrSVVJYjI4MzY2SzlBSUNPUHE4bzV6azFKSVowOUpXaWNCOGpVUWh4RFBFeklmRDJDaGJiRFBnV3dQOHlyT0JjSjJQLUNBQXZlV0VLd1lxR0NVQVpIVE1JMm42TGtPMVFVWnp3V3VjdmVrY0tabnpOdkR6Wnh6b1QyS2t5T3pLNzVGcjNBM3VBT3VBMnlwR3JHbEFLVzBhcm5B?oc=5",
-        "date": "Tue, 31 Mar 2026 10:50:00 GMT"
-    },
-    {
-        "id": "aad8c323",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "IPL 2026: PBKS vs GT T20 Clash Today",
-                "content": "Get ready for a thrilling T20 showdown! Punjab Kings face Gujarat Titans today in an exciting IPL 2026 encounter. This high-stakes match promises cricketing action, strategic plays, and fierce competition. Don't miss out on the crucial facts and what to know before these titans clash on the field, aiming for victory in this much-anticipated game."
-            },
-            "kn": {
-                "title": "IPL 2026: PBKS vs GT T20 ಮುಖಾಮುಖಿ ಇಂದು",
-                "content": "ರೋಮಾಂಚಕ T20 ಹೋರಾಟಕ್ಕೆ ಸಿದ್ಧರಾಗಿ! ಪಂಜಾಬ್ ಕಿಂಗ್ಸ್ ಇಂದು IPL 2026 ರ ರೋಮಾಂಚಕಾರಿ ಪಂದ್ಯದಲ್ಲಿ ಗುಜರಾತ್ ಟೈಟಾನ್ಸ್ ಅನ್ನು ಎದುರಿಸಲಿದೆ. ಈ ಉನ್ನತ-ಸ್ಟೇಕ್‌ಗಳ ಪಂದ್ಯವು ಕ್ರಿಕೆಟ್ ಆಕ್ಷನ್, ಕಾರ್ಯತಂತ್ರದ ಆಟಗಳು ಮತ್ತು ತೀವ್ರ ಸ್ಪರ್ಧೆಯನ್ನು ಭರವಸೆ ನೀಡುತ್ತದೆ. ಈ ಟೈಟಾನ್‌ಗಳು ಮೈದಾನದಲ್ಲಿ ಸೆಣಸುವ ಮೊದಲು ಗೆಲುವಿಗಾಗಿ ಗುರಿಯಿಟ್ಟುಕೊಂಡಿರುವ ಈ ಬಹುನಿರೀಕ್ಷಿತ ಆಟದ ನಿರ್ಣಾಯಕ ಸಂಗತಿಗಳು ಮತ್ತು ತಿಳಿದುಕೊಳ್ಳಬೇಕಾದ ವಿಷಯಗಳನ್ನು ತಪ್ಪಿಸಿಕೊಳ್ಳಬೇಡಿ."
-            },
-            "mr": {
-                "title": "IPL 2026: PBKS विरुद्ध GT T20 आजचा सामना",
-                "content": "रोमांचक T20 संघर्षासाठी सज्ज व्हा! पंजाब किंग्ज आज IPL 2026 च्या रोमांचक सामन्यात गुजरात टायटन्सशी भिडणार आहे. हा उच्च-दराचा सामना क्रिकेट ऍक्शन, धोरणात्मक खेळ आणि तीव्र स्पर्धा देतो. हे दिग्गज मैदानात उतरण्यापूर्वी विजयासाठी प्रयत्न करत असलेल्या या बहुप्रतिक्षित सामन्यातील महत्त्वाच्या गोष्टी आणि काय जाणून घ्यायचे आहे ते गमावू नका."
-            },
-            "hi": {
-                "title": "IPL 2026: PBKS बनाम GT T20 मुकाबला आज",
-                "content": "रोमांचक T20 मुकाबले के लिए तैयार हो जाइए! पंजाब किंग्स आज एक रोमांचक IPL 2026 भिड़ंत में गुजरात टाइटंस का सामना करेगी। यह हाई-स्टेक मैच क्रिकेट एक्शन, रणनीतिक खेल और कड़ी प्रतिस्पर्धा का वादा करता है। मैदान पर इन दिग्गजों के भिड़ने से पहले इस बहुप्रतीक्षित खेल के महत्वपूर्ण तथ्यों और जानने योग्य बातों को न चूकें, जो जीत के लिए लक्ष्य बना रहे हैं।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLWM4dkFReHFNYWVVaENPY1h0ZVRLa0l3eTRmTW9Hd2JEUjc4d2tKWU1FbktkeDI3VUZMeUtULVNfcVFEN1g5QkVXakRDSnkxT2d0eUpydUFnbzdXcTVtb1NReHlpeVlteGtOODFDa0lRelNaMVpHR1pwVkRVbHpRaExuR1hSX3dmNFpnWU5BNEM5Sy14dllvYloxbW4xWjJxaWctZFFtY2NuTWJVN2p4WS1uM1RyZ9IBwwFBVV95cUxPeTdoampMei0zREJYQUg0YTVnd2RXUDRhV2E5aHFlNzdRYnE0el9wWVZJUEI2WDZ6cV8zNEl0M0FEeVRfUFlJeWpNbU9XcHlfTGxyNENjajAxcHl3djhGQk9PYVNoMXlXMlk0Sk5JU0pkSkxXYjNYYlpDQVRzMjlLUHhVLVd3VWgyVGcwY1gzWWdWNXd0UWFyVHRrT3kwT3BhWHlwUkVNMmt3WElycG9ONkR0ZzRuQWl0dFZCMHVRYmVGLVU?oc=5",
-        "date": "Tue, 31 Mar 2026 06:16:24 GMT"
-    },
-    {
-        "id": "a5ade8a5",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "BCCI Mourns Demise of IPL Broadcast Engineer",
-                "content": "BCCI announced with profound grief the sudden demise of broadcast engineer Richard Tims on May 8 in the UK. Tims was a vital member of the IPL 2026 broadcast team, playing a crucial role in its technical operations. The cricket board extended heartfelt condolences to his family and colleagues, acknowledging his significant contributions to the sport's broadcast quality."
-            },
-            "kn": {
-                "title": "BCCI ಐಪಿಎಲ್ ಪ್ರಸಾರ ಎಂಜಿನಿಯರ್ ನಿಧನಕ್ಕೆ ಸಂತಾಪ",
-                "content": "BCCI ಮೇ 8 ರಂದು UK ನಲ್ಲಿ ಪ್ರಸಾರ ಎಂಜಿನಿಯರ್ ರಿಚರ್ಡ್ ಟಿಮ್ಸ್ ಅವರ ಆಕಸ್ಮಿಕ ನಿಧನಕ್ಕೆ ತೀವ್ರ ದುಃಖ ವ್ಯಕ್ತಪಡಿಸಿದೆ. ಟಿಮ್ಸ್ IPL 2026 ಪ್ರಸಾರ ತಂಡದ ಪ್ರಮುಖ ಸದಸ್ಯರಾಗಿದ್ದು, ಅದರ ತಾಂತ್ರಿಕ ಕಾರ್ಯಾಚರಣೆಗಳಲ್ಲಿ ನಿರ್ಣಾಯಕ ಪಾತ್ರ ವಹಿಸಿದ್ದರು. ಕ್ರಿಕೆಟ್ ಮಂಡಳಿಯು ಅವರ ಕುಟುಂಬ ಮತ್ತು ಸಹೋದ್ಯೋಗಿಗಳಿಗೆ ಸಂತಾಪ ಸೂಚಿಸಿದ್ದು, ಕ್ರೀಡೆಯ ಪ್ರಸಾರ ಗುಣಮಟ್ಟಕ್ಕೆ ಅವರ ಮಹತ್ವದ ಕೊಡುಗೆಗಳನ್ನು ಗುರುತಿಸಿದೆ."
-            },
-            "mr": {
-                "title": "बीसीसीआयने आयपीएल प्रसारण अभियंत्याच्या निधनावर शोक व्यक्त केला",
-                "content": "बीसीसीआयने यूकेमध्ये 8 मे रोजी प्रसारण अभियंता रिचर्ड टिम्स यांच्या आकस्मिक निधनाबद्दल तीव्र दुःख व्यक्त केले. टिम्स हे आयपीएल 2026 प्रसारण संघाचे एक महत्त्वाचे सदस्य होते आणि त्यांनी तांत्रिक कार्यामध्ये महत्त्वपूर्ण भूमिका बजावली होती. क्रिकेट बोर्डाने त्यांच्या कुटुंबियांना आणि सहकाऱ्यांना हार्दिक श्रद्धांजली वाहिली आणि खेळाच्या प्रसारण गुणवत्तेतील त्यांच्या योगदानाची दखल घेतली."
-            },
-            "hi": {
-                "title": "बीसीसीआई ने आईपीएल प्रसारण इंजीनियर के निधन पर शोक व्यक्त किया",
-                "content": "बीसीसीआई ने 8 मई को यूके में प्रसारण इंजीनियर रिचर्ड टिम्स के आकस्मिक निधन पर गहरा दुख व्यक्त किया। टिम्स आईपीएल 2026 प्रसारण टीम के एक महत्वपूर्ण सदस्य थे, जिन्होंने इसके तकनीकी संचालन में महत्वपूर्ण भूमिका निभाई थी। क्रिकेट बोर्ड ने उनके परिवार और सहयोगियों के प्रति हार्दिक संवेदना व्यक्त की और खेल की प्रसारण गुणवत्ता में उनके महत्वपूर्ण योगदान को स्वीकार किया।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOY1pITjRiTUdpOHM2dzBwanNucDRJUFB6aEQ2M0JMZnNQMTIzWkZyNmtoV0VkRzJKeWh6dnRCSk80blNqTFRsdTdxWnR3cUQ4emJfR0pEOXdQZkVKTGp0MjU1VlFiLWxnMjhqakljemZobXBERHBmSDdJcUpkOW5FT3BGUXdfNUNJcFhUaGhaZUtrSjJkMlhLajBua1BKRUlnOENIMXdpbkpiVGRZMGl4VldSamlMa2pONG5PMnc4U19PZFZpSExGa3NOekw3LVNaNTBaTk80czdrb0tRdVJoMVRyaUtLR1A4c3fSAe8BQVVfeXFMT0tHY2o2ZkdIR1BSX2UyQ2dRZEZaM2ZqTmlLQ1hwY29nZmxGN19ERHQ0cGhVbXM2dllIWUNCWTRnTmpkaGJabkgtbXFBMEtldjNUZ042VlY2djRia3FiWHF3RU8zdzlmZjY5ZXd0N1J5OEVjUmU3V3BjVE5zWlhFS0VpdEpGTzNzeHliVVBMYVdWVTJFOGJSSWIzOE83YkZkQ2pCSmJ4WWtWLTRkVFhZRG1IM0U2UUtJTWJDQUlTVHJGRVY1eE5EVmdHcUYzd2NqUHh1MzEwQnRTd2ktQzRlWDZ1bzcxSVVKWlk5eXVqOVE?oc=5",
-        "date": "Tue, 31 Mar 2026 12:05:00 GMT"
-    },
-    {
-        "id": "5c4d64f1",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "IPL Preview: PBKS vs GT Showdown",
-                "content": "Get ready for the exciting IPL clash between Punjab Kings and Gujarat Titans! This preview covers everything you need: predicted playing XIs for both teams, a detailed pitch report from the venue, the latest weather forecast for match day, and an expert match prediction. Stay ahead with all the crucial insights before the action begins. Who will dominate?"
-            },
-            "kn": {
-                "title": "ಐಪಿಎಲ್ ಪೂರ್ವವೀಕ್ಷಣೆ: ಪಿಬಿಕೆಎಸ್ ವರ್ಸಸ್ ಜಿಟಿ ಮುಖಾಮುಖಿ",
-                "content": "ಪಂಜಾಬ್ ಕಿಂಗ್ಸ್ ಮತ್ತು ಗುಜರಾತ್ ಟೈಟಾನ್ಸ್ ನಡುವಿನ ರೋಮಾಂಚಕ ಐಪಿಎಲ್ ಹಣಾಹಣಿಗೆ ಸಿದ್ಧರಾಗಿ! ಈ ಪೂರ್ವವೀಕ್ಷಣೆಯು ನಿಮಗೆ ಬೇಕಾದ ಎಲ್ಲವನ್ನೂ ಒಳಗೊಂಡಿದೆ: ಎರಡೂ ತಂಡಗಳ ಸಂಭಾವ್ಯ ಆಡುವ XI, ಕ್ರೀಡಾಂಗಣದ ಪಿಚ್ ವರದಿ, ಪಂದ್ಯದ ದಿನದ ಇತ್ತೀಚಿನ ಹವಾಮಾನ ಮುನ್ಸೂಚನೆ ಮತ್ತು ತಜ್ಞರ ಪಂದ್ಯ ಭವಿಷ್ಯ. ಆಕ್ಷನ್ ಪ್ರಾರಂಭವಾಗುವ ಮೊದಲು ಎಲ್ಲಾ ನಿರ್ಣಾಯಕ ಒಳನೋಟಗಳೊಂದಿಗೆ ಮುಂದೆ ಇರಿ. ಯಾರು ಪ್ರಾಬಲ್ಯ ಸಾಧಿಸುತ್ತಾರೆ?"
-            },
-            "mr": {
-                "title": "आयपीएल पूर्वदृश्य: पीबीकेएस विरुद्ध जीटी टक्कर",
-                "content": "पंजाब किंग्स आणि गुजरात टायटन्स यांच्यातील रोमांचक आयपीएल सामन्यासाठी सज्ज व्हा! या पूर्वदृश्यमध्ये तुम्हाला आवश्यक असलेली सर्व माहिती आहे: दोन्ही संघांचे संभाव्य प्लेइंग XI, मैदानाची सविस्तर खेळपट्टी अहवाल, सामन्याच्या दिवसाचा नवीनतम हवामान अंदाज आणि तज्ञांचे सामन्याबद्दलचे भाकीत. ॲक्शन सुरू होण्यापूर्वी सर्व महत्त्वाच्या माहितीसह अपडेटेड रहा. कोण वर्चस्व गाजवेल?"
-            },
-            "hi": {
-                "title": "आईपीएल पूर्वावलोकन: पीबीकेएस बनाम जीटी महामुकाबला",
-                "content": "पंजाब किंग्स और गुजरात टाइटन्स के बीच रोमांचक आईपीएल मुकाबले के लिए तैयार हो जाइए! यह पूर्वावलोकन आपको आवश्यक सभी जानकारी देता है: दोनों टीमों की संभावित प्लेइंग XI, स्टेडियम की विस्तृत पिच रिपोर्ट, मैच के दिन का नवीनतम मौसम पूर्वानुमान और एक विशेषज्ञ मैच भविष्यवाणी। एक्शन शुरू होने से पहले सभी महत्वपूर्ण जानकारियों के साथ अपडेटेड रहें। कौन हावी रहेगा?"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNZE1CMmVzckJSdGh2UV9ZZC1GamlYSEdTQzRmdHl4bnB3TUdsWDlpeU9FenBZc1QtYWlBZDFQYVpiV0V6cExidlR5TG5jZTZLNWtoWXVUS1RHdnBhRFViSUwwd1Q1YWVIS0dYdlRqdUZCZTJSUm9OZEwtX1NJTTJXYTRjYW5PaVhCeS1PSEwxcm1ES0FrZTZsWWt6bjlIeG9HdWo2Q1BDVHRtamhYVktFV2Y5ZDZVUG5LeFRnU0w2N04xM0dtc0FQSnRIUEEydFVOdVp2NmFCcC1MaDYxWU1hNnB6ZHk1U0hwT3VEbWw5dC1JWnBkYkdQNlRqbjU2cGU2N1RrQmp2anBLT2dIQnppN3EtWTNHZHJWT01fVVRGTG1TdEdk0gGqAkFVX3lxTE1vYWRYN2E1Vnh2Z0xtYjdJQkI1YWVOa3F1YlU4amV2TEFxVV96SnBZX3VVVm92NFhZWXFYUUgxZTl5YUNCdVlzTVFRWDZTZzY5VmdvOGdJVzl3Ump4aE9MMlpSdzhZZjR1TDBHak9PeEJCWERvbFRaVFVNT3lsbzlrYTdCN3NuU2xUOUZVQnpaeHJxc01Eb3lBQ3Zfdk12bkozRXlqcHgtNWRJUXpnN3B5N2lsNXBXblI5LUZVbzV6cDhPS0tGRnMycUU1Ri1EZ1MwWENOSFhqSjE0UVE3ZzVWdDA4RFlucUZBdVdoNVR4UjBuRlhEZGlKeWc1amd3SEZCY0J2YkQ4alcyUDREVzZSY19QdndHbnVrYVJodkFibjAwSFVuM1VqaWc?oc=5",
-        "date": "Tue, 31 Mar 2026 08:05:00 GMT"
-    },
-    {
-        "id": "272612ae",
-        "category": "Belagavi Core Politics",
-        "translations": {
-            "en": {
-                "title": "Belagavi Milk Union Posts ₹12.59 Crore Profit",
-                "content": "Belagavi District Cooperative Milk Producers Union (BMU) has announced a significant profit of ₹12.59 crore. This robust financial performance highlights the union's successful operations and efficient management. It ensures benefits for its member dairy farmers and marks a strong year for the cooperative."
-            },
-            "kn": {
-                "title": "ಬೆಳಗಾವಿ ಹಾಲು ಒಕ್ಕೂಟಕ್ಕೆ ₹12.59 ಕೋಟಿ ಲಾಭ",
-                "content": "ಬೆಳಗಾವಿ ಜಿಲ್ಲಾ ಸಹಕಾರಿ ಹಾಲು ಉತ್ಪಾದಕರ ಒಕ್ಕೂಟ (BMU) ₹12.59 ಕೋಟಿ ಗಣನೀಯ ಲಾಭವನ್ನು ಘೋಷಿಸಿದೆ. ಈ ಸದೃಢ ಆರ್ಥಿಕ ಕಾರ್ಯಕ್ಷಮತೆಯು ಒಕ್ಕೂಟದ ಯಶಸ್ವಿ ಕಾರ್ಯಾಚರಣೆಗಳು ಮತ್ತು ಸಮರ್ಥ ನಿರ್ವಹಣೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ಇದು ಅದರ ಸದಸ್ಯ ಡೈರಿ ರೈತರಿಗೆ ಪ್ರಯೋಜನಗಳನ್ನು ಖಾತ್ರಿಪಡಿಸುತ್ತದೆ ಮತ್ತು ಸಹಕಾರ ಸಂಘಕ್ಕೆ ಬಲವಾದ ವರ್ಷವನ್ನು ಸೂಚಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "बेळगाव दूध संघाला ₹12.59 कोटींचा नफा",
-                "content": "बेळगाव जिल्हा सहकारी दूध उत्पादक संघाने (BMU) ₹12.59 कोटी रुपयांचा भरीव नफा जाहीर केला आहे. ही मजबूत आर्थिक कामगिरी संघाच्या यशस्वी कामकाजाला आणि कार्यक्षम व्यवस्थापनाला अधोरेखित करते. हे त्याच्या सदस्य दूध उत्पादक शेतकऱ्यांसाठी फायद्याची खात्री देते आणि सहकारासाठी एक मजबूत वर्ष दर्शवते."
-            },
-            "hi": {
-                "title": "बेलगावी दुग्ध संघ को ₹12.59 करोड़ का लाभ",
-                "content": "बेलगावी जिला सहकारी दुग्ध उत्पादक संघ (BMU) ने ₹12.59 करोड़ के महत्वपूर्ण लाभ की घोषणा की है। यह मजबूत वित्तीय प्रदर्शन संघ के सफल संचालन और कुशल प्रबंधन को उजागर करता है। यह इसके सदस्य डेयरी किसानों के लिए लाभ सुनिश्चित करता है और सहकारी के लिए एक मजबूत वर्ष का प्रतीक है।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPemNPVkFhX01yUHZ1U28tUl9BUm9sRHNFSm5RSVc5MXV5V0RCUGpFcC1jMWh5SWszelJJTktOdFJ5SWpTM2djSjF5YlU3MEctRDE3NTRqMFlUZnROWWJFOUxZQUkybWlfZ0FGVTJRLXRwWjJ0dlFrSUFfaFZ6R3FQVEIyZ1ZzVEhSN0lQQUYwS0JPX2NsdVMydTY3MXFuM1pUYkY0alVkYU9TYXlHd1NRWWV3TEtDdjI20gG4AUFVX3lxTE96Y09WQWFfTXJQdnVTby1SX0FSb2xEc0VKblFJVzkxdXlXREJQakVwLWMxaHlJazN6UklOS050UnlJalMzZ2NKMXliVTcwRy1EMTc1NGowWVRmdE5ZYkU5TFlBSTJtaV9nQUZVMlEtdHBaMnR2UWtJQV9oVnpHcVBUQjJnVnNUSFI3SVBBRjBLQk9fY2x1UzJ1NjcxcW4zWlRiRjRqVWRhT1NheUd3U1FZZXdMS0N2MjY?oc=5",
-        "date": "Tue, 31 Mar 2026 12:52:36 GMT"
-    },
-    {
-        "id": "1895e9a8",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Stalin Launches TN Election Campaign, Targets BJP-AIADMK",
-                "content": "M.K. Stalin launched his Tamil Nadu election campaign in Tiruvarur, framing the polls as a critical state vs. center battle. He accused the BJP-led NDA of hindering Tamil Nadu's growth and controlling AIADMK. Emphasizing the state's future, he urged voters to reject the NDA, asserting the election's significance for the state."
-            },
-            "kn": {
-                "title": "ಸ್ಟಾಲಿನ್ ತಮಿಳುನಾಡು ಚುನಾವಣಾ ಪ್ರಚಾರ ಆರಂಭಿಸಿದರು, ಬಿಜೆಪಿ-ಎಐಎಡಿಎಂಕೆ ಗುರಿಪಡಿಸಿದರು",
-                "content": "ಎಂ.ಕೆ. ಸ್ಟಾಲಿನ್ ತಿರುವರೂರ್‌ನಲ್ಲಿ ತಮ್ಮ ತಮಿಳುನಾಡು ಚುನಾವಣಾ ಪ್ರಚಾರವನ್ನು ಪ್ರಾರಂಭಿಸಿದರು, ಈ ಚುನಾವಣೆಗಳನ್ನು ರಾಜ್ಯ ಮತ್ತು ಕೇಂದ್ರದ ನಡುವಿನ ನಿರ್ಣಾಯಕ ಯುದ್ಧ ಎಂದು ಬಿಂಬಿಸಿದರು. ಅವರು ಬಿಜೆಪಿ ನೇತೃತ್ವದ ಎನ್‌ಡಿಎ ತಮಿಳುನಾಡಿನ ಬೆಳವಣಿಗೆಗೆ ಅಡ್ಡಿಯಾಗುತ್ತಿದೆ ಮತ್ತು ಎಐಎಡಿಎಂಕೆ ಅನ್ನು ನಿಯಂತ್ರಿಸುತ್ತಿದೆ ಎಂದು ಆರೋಪಿಸಿದರು. ರಾಜ್ಯದ ಭವಿಷ್ಯಕ್ಕೆ ಮಹತ್ವ ನೀಡಿ, ಮತದಾರರಿಗೆ ಎನ್‌ಡಿಎಯನ್ನು ತಿರಸ್ಕರಿಸುವಂತೆ ಒತ್ತಾಯಿಸಿದರು."
-            },
-            "mr": {
-                "title": "स्टालिन यांनी तामिळनाडू निवडणूक प्रचाराला सुरुवात केली, भाजप-एआयएडीएमकेला लक्ष्य केले",
-                "content": "एम.के. स्टालिन यांनी तिरुवरूरमध्ये त्यांच्या तामिळनाडू निवडणूक प्रचाराला सुरुवात केली, या निवडणुकांना राज्य विरुद्ध केंद्राची निर्णायक लढाई असे म्हटले. त्यांनी भाजप-नेतृत्वाखालील एनडीएवर तामिळनाडूच्या विकासाला अडथळा आणण्याचा आणि एआयएडीएमकेला नियंत्रित करण्याचा आरोप केला. राज्याच्या भविष्यावर भर देत, त्यांनी मतदारांना एनडीए नाकारण्याचे आवाहन केले."
-            },
-            "hi": {
-                "title": "स्टालिन ने तमिलनाडु चुनाव अभियान शुरू किया, भाजपा-एआईएडीएमके को निशाना बनाया",
-                "content": "एम.के. स्टालिन ने तिरुवरूर में अपना तमिलनाडु चुनाव अभियान शुरू किया, इन चुनावों को राज्य बनाम केंद्र की महत्वपूर्ण लड़ाई बताया। उन्होंने भाजपा-नीत एनडीए पर तमिलनाडु के विकास में बाधा डालने और एआईएडीएमके को नियंत्रित करने का आरोप लगाया। राज्य के भविष्य पर जोर देते हुए, उन्होंने मतदाताओं से एनडीए को खारिज करने का आग्रह किया।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129929850,imgsize-1162716.cms",
-        "link": "https://timesofindia.indiatimes.com/india/tamil-nadu-polls-stalin-kicks-off-campaign-with-emotional-pitch-targets-aiadmk-bjp/articleshow/129929627.cms",
-        "date": "2026-03-31T20:29:37+05:30"
-    },
-    {
-        "id": "35aa8ba1",
-        "category": "Belagavi Core Politics",
-        "translations": {
-            "en": {
-                "title": "Belagavi Milk Union Posts ₹12.59 Crore Profit",
-                "content": "Belagavi Milk Union has churned out an impressive ₹12.59 crore profit, showcasing robust financial health and efficient management. This substantial earning reflects successful operations and a strong market presence, benefiting dairy farmers and consumers in the region. The union's remarkable performance underscores its vital role in the local economy and dairy sector's growth."
-            },
-            "kn": {
-                "title": "ಬೆಳಗಾವಿ ಹಾಲು ಒಕ್ಕೂಟಕ್ಕೆ ₹12.59 ಕೋಟಿ ಲಾಭ",
-                "content": "ಬೆಳಗಾವಿ ಹಾಲು ಒಕ್ಕೂಟವು ₹12.59 ಕೋಟಿಗಳ ಅದ್ಭುತ ಲಾಭ ಗಳಿಸಿದ್ದು, ಸದೃಢ ಆರ್ಥಿಕ ಸ್ಥಿತಿ ಮತ್ತು ದಕ್ಷ ನಿರ್ವಹಣೆಯನ್ನು ಪ್ರದರ್ಶಿಸಿದೆ. ಈ ಗಮನಾರ್ಹ ಗಳಿಕೆಯು ಯಶಸ್ವಿ ಕಾರ್ಯಾಚರಣೆಗಳು ಮತ್ತು ಬಲವಾದ ಮಾರುಕಟ್ಟೆ ಉಪಸ್ಥಿತಿಯನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ, ಇದು ಪ್ರದೇಶದ ಹಾಲು ಉತ್ಪಾದಕರು ಮತ್ತು ಗ್ರಾಹಕರಿಗೆ ಪ್ರಯೋಜನವನ್ನು ನೀಡುತ್ತದೆ. ಒಕ್ಕೂಟದ ಗಮನಾರ್ಹ ಕಾರ್ಯಕ್ಷಮತೆಯು ಸ್ಥಳೀಯ ಆರ್ಥಿಕತೆ ಮತ್ತು ಡೈರಿ ವಲಯದ ಬೆಳವಣಿಗೆಯಲ್ಲಿ ಅದರ ಪ್ರಮುಖ ಪಾತ್ರವನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "बेळगाव दूध संघाने कमावले ₹12.59 कोटींचा नफा",
-                "content": "बेळगाव दूध संघाने ₹12.59 कोटींचा प्रभावी नफा कमावला आहे, जो त्यांची मजबूत आर्थिक स्थिती आणि कार्यक्षम व्यवस्थापन दर्शवतो. ही भरीव कमाई यशस्वी कार्यपद्धती आणि मजबूत बाजारपेठेतील उपस्थितीचे प्रतिबिंब आहे, ज्यामुळे क्षेत्रातील दूध उत्पादक आणि ग्राहकांना फायदा होतो. संघाची ही उत्कृष्ट कामगिरी स्थानिक अर्थव्यवस्था आणि डेअरी क्षेत्राच्या वाढीमध्ये त्यांची महत्त्वाची भूमिका अधोरेखित करते."
-            },
-            "hi": {
-                "title": "बेलगावी दुग्ध संघ ने कमाया ₹12.59 करोड़ का लाभ",
-                "content": "बेलगावी दुग्ध संघ ने ₹12.59 करोड़ का शानदार लाभ अर्जित किया है, जो उसकी मजबूत वित्तीय स्थिति और कुशल प्रबंधन को दर्शाता है। यह महत्वपूर्ण कमाई सफल संचालन और मजबूत बाजार उपस्थिति को दर्शाती है, जिससे क्षेत्र के डेयरी किसानों और उपभोक्ताओं को लाभ होता है। संघ का उल्लेखनीय प्रदर्शन स्थानीय अर्थव्यवस्था और डेयरी क्षेत्र के विकास में उसकी महत्वपूर्ण भूमिका को रेखांकित करता।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRnlNZTBDdmh1NFdTTjZWTXVXQTNDZGhJdzRscFJqaUJiRDh6YXV3TjdENDQyNl9mOUQxSEREbDlfVjRZREdSZFJteDRrWW1HcldjSjBNQWs4X0dPMVpqQTVoU2VLb0lRSXdxUGNsMGlCS1d0dzdydDJGcVlfY3hDdGxMektoYnVHYzZuaVVWRWJ3djE3UWVmaTg1VHEtaFM4SlI2aVVSV0YxT2RkcEFLc2NB0gG4AUFVX3lxTE96Y09WQWFfTXJQdnVTby1SX0FSb2xEc0VKblFJVzkxdXlXREJQakVwLWMxaHlJazN6UklOS050UnlJalMzZ2NKMXliVTcwRy1EMTc1NGowWVRmdE5ZYkU5TFlBSTJtaV9nQUZVMlEtdHBaMnR2UWtJQV9oVnpHcVBUQjJnVnNUSFI3SVBBRjBLQk9fY2x1UzJ1NjcxcW4zWlRiRjRqVWRhT1NheUd3U1FZZXdMS0N2MjY?oc=5",
-        "date": "Tue, 31 Mar 2026 12:52:36 GMT"
-    },
-    {
-        "id": "4a5c051b",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Green's Bowling Ban Sparks KKR-CA Clash",
-                "content": "Cameron Green's bowling ban has sparked a major clash between IPL franchise KKR and Cricket Australia (CA). KKR, who invested heavily in Green as an all-rounder, is furious over CA's restrictions impacting their team strategy. This dispute highlights escalating tensions between franchise league demands and national board control over player availability and player welfare."
-            },
-            "kn": {
-                "title": "ಗ್ರೀನ್ ಬೌಲಿಂಗ್ ನಿಷೇಧ: KKR-CA ಸಂಘರ್ಷಕ್ಕೆ ಕಾರಣ",
-                "content": "ಕ್ಯಾಮರೂನ್ ಗ್ರೀನ್ ಅವರ ಬೌಲಿಂಗ್ ನಿಷೇಧವು ಐಪಿಎಲ್ ಫ್ರಾಂಚೈಸಿ KKR ಮತ್ತು ಕ್ರಿಕೆಟ್ ಆಸ್ಟ್ರೇಲಿಯಾ (CA) ನಡುವೆ ದೊಡ್ಡ ಸಂಘರ್ಷವನ್ನು ಹುಟ್ಟುಹಾಕಿದೆ. ಆಲ್‌ರೌಂಡರ್ ಆಗಿ ಗ್ರೀನ್‌ನಲ್ಲಿ ಭಾರಿ ಹೂಡಿಕೆ ಮಾಡಿದ್ದ KKR, CA ಯ ನಿರ್ಬಂಧಗಳಿಂದ ತಮ್ಮ ತಂಡದ ಕಾರ್ಯತಂತ್ರಕ್ಕೆ ತೊಂದರೆಯಾಗಿರುವುದಕ್ಕೆ ಕೆರಳಿದೆ. ಈ ವಿವಾದವು ಫ್ರಾಂಚೈಸಿ ಲೀಗ್ ಬೇಡಿಕೆಗಳು ಮತ್ತು ಆಟಗಾರರ ಲಭ್ಯತೆ ಹಾಗೂ ಕಲ್ಯಾಣದ ಮೇಲಿನ ರಾಷ್ಟ್ರೀಯ ಮಂಡಳಿಗಳ ನಿಯಂತ್ರಣದ ನಡುವೆ ಹೆಚ್ಚುತ್ತಿರುವ ಉದ್ವಿಗ್ನತೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "ग्रीनच्या गोलंदाजी बंदीमुळे KKR-CA संघर्षाची ठिणगी",
-                "content": "कॅमेरॉन ग्रीनच्या गोलंदाजीवरील बंदीमुळे आयपीएल फ्रँचायझी KKR आणि क्रिकेट ऑस्ट्रेलिया (CA) यांच्यात मोठा संघर्ष सुरू झाला आहे. अष्टपैलू म्हणून ग्रीनमध्ये मोठी गुंतवणूक केलेल्या KKR ला CA च्या निर्बंधांमुळे त्यांच्या संघाच्या रणनीतीवर परिणाम होत असल्यामुळे संताप आला आहे. हा वाद फ्रँचायझी लीगच्या मागण्या आणि खेळाडूंच्या उपलब्धतेवर तसेच कल्याणावर राष्ट्रीय मंडळाच्या नियंत्रणादरम्यान वाढलेल्या तणावावर प्रकाश टाकतो."
-            },
-            "hi": {
-                "title": "ग्रीन की गेंदबाजी पर प्रतिबंध: KKR-CA में बढ़ा टकराव",
-                "content": "कैमरन ग्रीन की गेंदबाजी पर प्रतिबंध के कारण आईपीएल फ्रेंचाइजी KKR और क्रिकेट ऑस्ट्रेलिया (CA) के बीच एक बड़ा टकराव शुरू हो गया है। KKR, जिसने ग्रीन पर एक ऑलराउंडर के रूप में भारी निवेश किया था, CA के प्रतिबंधों से भड़क गया है, जिससे उनकी टीम की रणनीति प्रभावित हो रही है। यह विवाद फ्रेंचाइजी लीग की मांगों और खिलाड़ियों की उपलब्धता तथा कल्याण पर राष्ट्रीय बोर्ड के नियंत्रण के बीच बढ़ते तनाव को उजागर करता है।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYUZHZElaT0k1cldiczFLWXRlSktJMF9Mb2drWEFlcmxIazdhLWJwZVYzRXhkVWlyWktqNkV6NWpIVlRlMExlQ3NSNG5sVGYyRGNwb2toV0R3aWxzTnQzV1NWbmpWZ2RNSzBxbGlaLVRmTmlUTWotRDJmcGFjSVF1LTdhblFESGFOZEJnQjVCSmxuS25HUG1RTVYzZ3c4NzVjUklpVlV6VWlLTUFJU3ZNQ0czeVRuVTdvLUFucGJ3VnFWX1hPc1N4ZjB6c1ExYTc4ZW1nTEVGY1d1QQ?oc=5",
-        "date": "Mon, 30 Mar 2026 20:47:57 GMT"
-    },
-    {
-        "id": "378f926f",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "Ancient Buddha Statue Reveals Hidden Gold Treasure",
-                "content": "Archaeologists in Thailand are stunned by the discovery of a hidden gold treasure inside a 1300-year-old Buddha statue. The ancient relic, revered for centuries, yielded its secret wealth during restoration, offering a rare glimpse into the region's rich history and religious practices. This unexpected find is set to rewrite archaeological understanding of the period."
-            },
-            "kn": {
-                "title": "ಪ್ರಾಚೀನ ಬುದ್ಧನ ಪ್ರತಿಮೆ ರಹಸ್ಯ ಚಿನ್ನದ ನಿಧಿಯನ್ನು ಬಹಿರಂಗಪಡಿಸಿದೆ",
-                "content": "ಥೈಲ್ಯಾಂಡ್‌ನಲ್ಲಿರುವ ಪುರಾತತ್ವಶಾಸ್ತ್ರಜ್ಞರು 1300 ವರ್ಷಗಳಷ್ಟು ಹಳೆಯ ಬುದ್ಧನ ಪ್ರತಿಮೆಯೊಳಗೆ ಅಡಗಿದ ಚಿನ್ನದ ನಿಧಿಯನ್ನು ಕಂಡು ದಿಗ್ಭ್ರಮೆಗೊಂಡಿದ್ದಾರೆ. ಶತಮಾನಗಳಿಂದ ಪೂಜಿಸಲ್ಪಟ್ಟ ಪ್ರಾಚೀನ ಅವಶೇಷವು ಅದರ ಪುನಃಸ್ಥಾಪನೆಯ ಸಮಯದಲ್ಲಿ ತನ್ನ ರಹಸ್ಯ ಸಂಪತ್ತನ್ನು ನೀಡಿದೆ, ಇದು ಪ್ರದೇಶದ ಶ್ರೀಮಂತ ಇತಿಹಾಸ ಮತ್ತು ಧಾರ್ಮಿಕ ಆಚರಣೆಗಳ ಅಪರೂಪದ ನೋಟವನ್ನು ನೀಡುತ್ತದೆ. ಈ ಅನಿರೀಕ್ಷಿತ ಅನ್ವೇಷಣೆಯು ಆ ಅವಧಿಯ ಪುರಾತತ್ವ ತಿಳುವಳಿಕೆಯನ್ನು ಪುನಃ ಬರೆಯಲು ಸಿದ್ಧವಾಗಿದೆ."
-            },
-            "mr": {
-                "title": "प्राचीन बुद्ध मूर्तीत दडलेला सोन्याचा खजिना उघड",
-                "content": "थायलंडमधील पुरातत्वशास्त्रज्ञांना 1300 वर्षांपूर्वीच्या बुद्ध मूर्तीच्या आत लपलेला सोन्याचा खजिना सापडल्याने ते थक्क झाले आहेत. शतकानुशतके पूजलेल्या या प्राचीन अवशेषाने त्याच्या जीर्णोद्धारादरम्यान आपले गुप्त धन प्रकट केले, ज्यामुळे या प्रदेशाचा समृद्ध इतिहास आणि धार्मिक प्रथांची दुर्मिळ झलक मिळाली. ही अनपेक्षित शोध त्या काळातील पुरातत्व समजूत पुन्हा लिहिण्यास सज्ज आहे."
-            },
-            "hi": {
-                "title": "प्राचीन बुद्ध प्रतिमा ने खोला छिपा हुआ सोने का खजाना",
-                "content": "थाईलैंड में पुरातत्वविद् 1300 साल पुरानी बुद्ध प्रतिमा के अंदर छिपे सोने के खजाने की खोज से दंग रह गए हैं। सदियों से पूजी जा रही इस प्राचीन अवशेष ने जीर्णोद्धार के दौरान अपनी गुप्त संपत्ति प्रकट की, जिससे क्षेत्र के समृद्ध इतिहास और धार्मिक प्रथाओं की एक दुर्लभ झलक मिली। यह अप्रत्याशित खोज उस काल की पुरातात्विक समझ को फिर से लिखने के लिए तैयार है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129921923,imgsize-59008.cms",
-        "link": "https://timesofindia.indiatimes.com/world/rest-of-world/hidden-gold-treasure-found-inside-1300-year-old-buddha-statue-in-thailand-shocks-archaeologists/articleshow/129920863.cms",
-        "date": "2026-03-31T15:16:47+05:30"
-    },
-    {
-        "id": "22196f6c",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Shardul Thakur's Wicket-Taking Smarts Revealed",
-                "content": "Shardul Thakur's impressive knack for picking up crucial wickets isn't just luck; it's a testament to his sharp cricketing intelligence. Often lauded as a \"wicket-taker,\" Thakur strategically outsmarts batsmen, leveraging his deep understanding of the game and conditions. His ability to break partnerships at pivotal moments highlights his invaluable smarts, making him a vital asset. He uses his brain as much as his skill to deliver consistent breakthroughs."
-            },
-            "kn": {
-                "title": "ಶಾರ್ದೂಲ್ ಠಾಕೂರ್ ಅವರ ವಿಕೆಟ್ ಪಡೆಯುವ ಬುದ್ಧಿವಂತಿಕೆ ಬಹಿರಂಗ",
-                "content": "ಶಾರ್ದೂಲ್ ಠಾಕೂರ್ ಅವರ ಪ್ರಮುಖ ವಿಕೆಟ್‌ಗಳನ್ನು ಪಡೆಯುವ ಅದ್ಭುತ ಸಾಮರ್ಥ್ಯ ಕೇವಲ ಅದೃಷ್ಟವಲ್ಲ; ಅದು ಅವರ ಚುರುಕಾದ ಕ್ರಿಕೆಟ್ ಬುದ್ಧಿವಂತಿಕೆಗೆ ಸಾಕ್ಷಿಯಾಗಿದೆ. ಆಗಾಗ್ಗೆ \"ವಿಕೆಟ್-ಟೇಕರ್\" ಎಂದು ಪ್ರಶಂಸಿಸಲ್ಪಡುವ ಠಾಕೂರ್, ಆಟ ಮತ್ತು ಪರಿಸ್ಥಿತಿಗಳ ಬಗ್ಗೆ ತಮ್ಮ ಆಳವಾದ ತಿಳುವಳಿಕೆಯನ್ನು ಬಳಸಿಕೊಂಡು ಬ್ಯಾಟ್ಸ್‌ಮನ್‌ಗಳನ್ನು ಕಾರ್ಯತಂತ್ರವಾಗಿ ಮೀರಿಸುತ್ತಾರೆ. ನಿರ್ಣಾಯಕ ಕ್ಷಣಗಳಲ್ಲಿ ಪಾಲುದಾರಿಕೆಗಳನ್ನು ಮುರಿಯುವ ಅವರ ಸಾಮರ್ಥ್ಯವು ಅವರ ಅಮೂಲ್ಯವಾದ ಬುದ್ಧಿವಂತಿಕೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ, ಇದು ಅವರನ್ನು ಪ್ರಮುಖ ಆಸ್ತಿಯನ್ನಾಗಿ ಮಾಡುತ್ತದೆ. ಅವರು ಸ್ಥಿರವಾಗಿ ಯಶಸ್ಸನ್ನು ನೀಡಲು ತಮ್ಮ ಕೌಶಲ್ಯದಷ್ಟೇ ಮೆದುಳನ್ನೂ ಬಳಸುತ್ತಾರೆ."
-            },
-            "mr": {
-                "title": "शार्दुल ठाकूरच्या विकेट घेण्याच्या चातुर्याचे रहस्य उघड",
-                "content": "शार्दुल ठाकूरची महत्त्वपूर्ण विकेट्स घेण्याची प्रभावी हातोटी केवळ नशिबावर अवलंबून नाही; तर ती त्याच्या तीक्ष्ण क्रिकेट बुद्धिमत्तेचा पुरावा आहे. अनेकदा \"विकेट-टेकर\" म्हणून गौरवलेल्या ठाकूर, खेळ आणि परिस्थितीची सखोल समज वापरून फलंदाजांना रणनीतिकरित्या हरवतो. निर्णायक क्षणी भागीदारी तोडण्याची त्याची क्षमता त्याची मौल्यवान बुद्धिमत्ता अधोरेखित करते, ज्यामुळे तो एक महत्त्वाचा खेळाडू बनतो. सातत्याने यश मिळवण्यासाठी तो कौशल्याबरोबरच आपल्या बुद्धीचाही वापर करतो."
-            },
-            "hi": {
-                "title": "शार्दुल ठाकुर की विकेट लेने की चतुराई का खुलासा",
-                "content": "शार्दुल ठाकुर की महत्वपूर्ण विकेट लेने की प्रभावशाली क्षमता केवल किस्मत नहीं है; यह उनकी तीक्ष्ण क्रिकेटिंग बुद्धिमत्ता का प्रमाण है। अक्सर \"विकेट-टेकर\" के रूप में प्रशंसित, ठाकुर खेल और परिस्थितियों की अपनी गहरी समझ का लाभ उठाकर बल्लेबाजों को रणनीतिक रूप से मात देते हैं। निर्णायक क्षणों में साझेदारी तोड़ने की उनकी क्षमता उनकी अमूल्य चतुराई को उजागर करती है, जिससे वह एक महत्वपूर्ण संपत्ति बन जाते हैं। वह लगातार सफलता दिलाने के लिए अपने कौशल के साथ-साथ अपनी बुद्धि का भी उपयोग करते हैं।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYlV0VHFibnBPZHoydThvQ1VZZXcya01SZDZIN0xiZGJrdmxWVEU1VTk0SVpaUy1mZ09tQngzWFloTC1hRWFMckx0X2hDNGw3ZmpkOHlxOEpyaWJZRXA4RWM2aUhOMGNNeWVBMEJhOGE5ME45UkdhMEd4azlGRXY2VjZvN3Y0ZmtIUnFkX1ktbXd5ZDFjbmNESmllaEVGX25qajdEcGlicU5xb2dtamNBUlZEd2pyc0dreUNjdXBFUWnSAcYBQVVfeXFMT3BVUnl4N2dZQVpnRmJ3U2hDdjZHdWo0dWNVY3lGaTlMOFoxelE2Y1dGd3EtMXdIOVIwRjFUQ3duWWVYUHgwMnBSN0ZuZWJvdzl1X0dOYkpWemlvZkIyYUswaElDLXNXVzA0dmdyWUUzZlN1d2ZpN29zT19PcDNrMlBnaUUxaXI1M1dxTEZucG5OS2pDbkRhSlQ3TlpRZktsNW1GSERiaGMzck5fTmI2MGcyLUtnVjUzOTBuYzNCc2swUmxWQ3h3?oc=5",
-        "date": "Mon, 30 Mar 2026 12:57:00 GMT"
-    },
-    {
-        "id": "f67a6312",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Elon Musk Defends Grok Imagine's AGI Role",
-                "content": "Following the Sora shutdown, Elon Musk asserts that Grok Imagine is not a failure but crucial for achieving Artificial General Intelligence (AGI). He emphasizes its indispensable role in developing advanced AI, countering any doubts raised by recent developments. Musk's statement highlights the continuing race for sophisticated AI capabilities and XAI's commitment."
-            },
-            "kn": {
-                "title": "ಎಲೋನ್ ಮಸ್ಕ್ ಗ್ರೋಕ್ ಇಮ್ಯಾಜಿನ್‌ನ AGI ಪಾತ್ರವನ್ನು ಸಮರ್ಥಿಸುತ್ತಾರೆ",
-                "content": "ಸೋರಾ ಸ್ಥಗಿತಗೊಂಡ ನಂತರ, ಎಲೋನ್ ಮಸ್ಕ್ ಗ್ರೋಕ್ ಇಮ್ಯಾಜಿನ್ ವೈಫಲ್ಯವಲ್ಲ ಆದರೆ ಕೃತಕ ಸಾಮಾನ್ಯ ಬುದ್ಧಿಮತ್ತೆ (AGI) ಸಾಧಿಸಲು ನಿರ್ಣಾಯಕ ಎಂದು ಪ್ರತಿಪಾದಿಸುತ್ತಾರೆ. ಅವರು ಸುಧಾರಿತ AI ಅಭಿವೃದ್ಧಿಯಲ್ಲಿ ಅದರ ಅನಿವಾರ್ಯ ಪಾತ್ರವನ್ನು ಒತ್ತಿಹೇಳುತ್ತಾರೆ, ಇತ್ತೀಚಿನ ಬೆಳವಣಿಗೆಗಳಿಂದ ಉಂಟಾದ ಯಾವುದೇ ಸಂದೇಹಗಳನ್ನು ನಿವಾರಿಸುತ್ತಾರೆ. ಮಸ್ಕ್ ಅವರ ಹೇಳಿಕೆಯು ಅತ್ಯಾಧುನಿಕ AI ಸಾಮರ್ಥ್ಯಗಳು ಮತ್ತು XAI ನ ಬದ್ಧತೆಗಾಗಿ ನಡೆಯುತ್ತಿರುವ ಸ್ಪರ್ಧೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "इलॉन मस्कने ग्रोक इमॅजिनच्या AGI भूमिकेचे समर्थन केले",
-                "content": "सोरा बंद झाल्यानंतर, इलॉन मस्कने दावा केला आहे की ग्रोक इमॅजिन अपयशी नाही, तर कृत्रिम सामान्य बुद्धिमत्ता (AGI) साध्य करण्यासाठी ते महत्त्वाचे आहे. त्यांनी प्रगत एआयच्या विकासात त्याची अपरिहार्य भूमिका अधोरेखित केली आहे, ज्यामुळे अलीकडील घडामोडींमुळे निर्माण झालेल्या कोणत्याही शंका दूर होतात. मस्कच्या विधानामुळे अत्याधुनिक एआय क्षमता आणि XAI च्या वचनबद्धतेसाठी सुरू असलेली स्पर्धा अधोरेखित होते."
-            },
-            "hi": {
-                "title": "एलन मस्क ने ग्रोक इमेजिन की AGI भूमिका का बचाव किया",
-                "content": "सोरा के बंद होने के बाद, एलन मस्क ने दावा किया है कि ग्रोक इमेजिन कोई विफलता नहीं है, बल्कि आर्टिफिशियल जनरल इंटेलिजेंस (AGI) हासिल करने के लिए महत्वपूर्ण है। वह उन्नत एआई के विकास में इसकी अनिवार्य भूमिका पर जोर देते हैं, हाल के घटनाक्रमों से उत्पन्न किसी भी संदेह का खंडन करते हैं। मस्क का बयान परिष्कृत एआई क्षमताओं और XAI की प्रतिबद्धता के लिए जारी दौड़ को उजागर करता है।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMzVPZzF1N3BsbDVDTTZ4emdadHNBUHFRdEVLeUtudFJJVGVpVXI3Ymx4dHpJbExwc2x1UF9sdEpkeU5HRHo5R2ZoRkxXNE5JS2l6T3BSNkxPTWdoRjRTM3ZBQ2h4dDV5NFl6bUZqMzQtMVNKTm1jZGZjVHZzZGI3S1VWNWJScWpyUXVsQ2NYU0dLLW8xUHI5YWljd2FSS1RzQzJyel9YTWJtZlhHbm41V1BvMmU2V0dobHRvS3pfOVluMDBUM1VvOTJYR1RMVHNzODBqSDZrWDR6WlRtTkc0NUhHc9IB4wFBVV95cUxNMzVPZzF1N3BsbDVDTTZ4emdadHNBUHFRdEVLeUtudFJJVGVpVXI3Ymx4dHpJbExwc2x1UF9sdEpkeU5HRHo5R2ZoRkxXNE5JS2l6T3BSNkxPTWdoRjRTM3ZBQ2h4dDV5NFl6bUZqMzQtMVNKTm1jZGZjVHZzZGI3S1VWNWJScWpyUXVsQ2NYU0dLLW8xUHI5YWljd2FSS1RzQzJyel9YTWJtZlhHbm41V1BvMmU2V0dobHRvS3pfOVluMDBUM1VvOTJYR1RMVHNzODBqSDZrWDR6WlRtTkc0NUhHcw?oc=5",
-        "date": "Tue, 31 Mar 2026 07:55:09 GMT"
-    },
-    {
-        "id": "8a2fd1c7",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "KKR Eyes IPL 2026 Squad Revamp",
-                "content": "Anticipation builds for IPL 2026 as discussions begin around the Kolkata Knight Riders' potential new squad. With significant changes expected for the upcoming season, fans are eager to see KKR's strategy for retentions and new player acquisitions. Experts are already analyzing possible team compositions and how the Knight Riders will shape up to reclaim their glory. Stay tuned for insights into KKR's 2026 journey!"
-            },
-            "kn": {
-                "title": "KKR IPL 2026 ತಂಡದ ಪುನರ್ರಚನೆಗೆ ಚಿತ್ತ",
-                "content": "ಐಪಿಎಲ್ 2026ಕ್ಕೆ ಕಾತರ ಹೆಚ್ಚಾಗಿದ್ದು, ಕೋಲ್ಕತ್ತಾ ನೈಟ್ ರೈಡರ್ಸ್‌ನ ಸಂಭಾವ್ಯ ಹೊಸ ತಂಡದ ಬಗ್ಗೆ ಚರ್ಚೆಗಳು ಶುರುವಾಗಿವೆ. ಮುಂಬರುವ ಸೀಸನ್‌ಗೆ ಗಮನಾರ್ಹ ಬದಲಾವಣೆಗಳ ನಿರೀಕ್ಷೆಯೊಂದಿಗೆ, KKR ನ ರಿಟೆನ್ಷನ್ ಮತ್ತು ಹೊಸ ಆಟಗಾರರ ಖರೀದಿ ತಂತ್ರವನ್ನು ನೋಡಲು ಅಭಿಮಾನಿಗಳು ಕಾತುರರಾಗಿದ್ದಾರೆ. ತಜ್ಞರು ಈಗಾಗಲೇ ಸಂಭಾವ್ಯ ತಂಡದ ಸಂಯೋಜನೆಗಳನ್ನು ವಿಶ್ಲೇಷಿಸುತ್ತಿದ್ದಾರೆ ಮತ್ತು ನೈಟ್ ರೈಡರ್ಸ್ ತಮ್ಮ ವೈಭವವನ್ನು ಮರಳಿ ಪಡೆಯಲು ಹೇಗೆ ರೂಪುಗೊಳ್ಳುತ್ತಾರೆ ಎಂಬುದನ್ನು ನೋಡುತ್ತಿದ್ದಾರೆ. KKR ನ 2026ರ ಪ್ರಯಾಣದ ಒಳನೋಟಗಳಿಗಾಗಿ ಗಮನವಿಡಿ!"
-            },
-            "mr": {
-                "title": "KKR ची IPL 2026 संघात मोठे बदल करण्याची तयारी",
-                "content": "IPL 2026 साठी उत्सुकता वाढत आहे, कारण कोलकाता नाईट रायडर्सच्या संभाव्य नवीन संघावर चर्चा सुरू झाली आहे. आगामी हंगामासाठी महत्त्वपूर्ण बदल अपेक्षित असल्याने, KKR ची खेळाडू टिकवून ठेवण्याची आणि नवीन खेळाडू खरेदी करण्याची रणनीती पाहण्यासाठी चाहते उत्सुक आहेत. तज्ञ सध्या संभाव्य संघाची रचना आणि नाईट रायडर्स आपला गौरव पुन्हा मिळवण्यासाठी कसे तयार होतील याचे विश्लेषण करत आहेत. KKR च्या 2026 च्या प्रवासातील माहितीसाठी संपर्कात रहा!"
-            },
-            "hi": {
-                "title": "IPL 2026: KKR अपने दल में बदलाव की तैयारी में",
-                "content": "आईपीएल 2026 के लिए उत्सुकता बढ़ रही है, क्योंकि कोलकाता नाइट राइडर्स के संभावित नए दल पर चर्चा शुरू हो गई है। आगामी सीज़न के लिए महत्वपूर्ण बदलावों की उम्मीद है, प्रशंसक KKR की रिटेंशन और नए खिलाड़ियों को खरीदने की रणनीति देखने के लिए उत्सुक हैं। विशेषज्ञ पहले से ही संभावित टीम संरचनाओं का विश्लेषण कर रहे हैं और देख रहे हैं कि नाइट राइडर्स अपनी पुरानी शान वापस पाने के लिए कैसे तैयार होंगे। KKR के 2026 के सफर की जानकारी के लिए बने रहें!"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZbVZFaElRRmVWby1mb2FZdHpRc2d6OGNXbUFCYmhsckl0ZnNHNWkyZ01EYl96RmgtRFRtT25yVExNeEk1UnRnMVpFOHFoQXczdnlocUxvY1k5UjFEZlBkVW15WmNTX3o0MzcyY1NOUzg?oc=5",
-        "date": "Tue, 31 Mar 2026 03:06:18 GMT"
-    },
-    {
-        "id": "427d9984",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "KKR Surges Amid Insider Buys & IPL Buzz",
-                "content": "KKR asset jumps 2.9% driven by robust insider buying, sparking market curiosity. This uptrend unfolds amidst an ongoing IPL controversy, leading analysts to question potential links. Investors are keenly observing if this speculative connection or strong internal confidence will sustain KKR's momentum."
-            },
-            "kn": {
-                "title": "KKR ಆಂತರಿಕ ಖರೀದಿ ಮತ್ತು IPL ವಿವಾದದ ನಡುವೆ ಏರಿಕೆ",
-                "content": "KKR ಆಸ್ತಿಯು ಆಂತರಿಕ ಖರೀದಿಗಳಿಂದ 2.9% ಏರಿಕೆ ಕಂಡಿದೆ, ಇದು ಮಾರುಕಟ್ಟೆಯಲ್ಲಿ ಕುತೂಹಲ ಮೂಡಿಸಿದೆ. IPL ವಿವಾದವೊಂದು ನಡೆಯುತ್ತಿರುವಾಗ ಈ ಏರಿಕೆ ಕಂಡುಬಂದಿದ್ದು, ವಿಶ್ಲೇಷಕರು ಸಂಭವನೀಯ ಸಂಬಂಧಗಳನ್ನು ಪ್ರಶ್ನಿಸುತ್ತಿದ್ದಾರೆ. ಈ ಊಹಾತ್ಮಕ ಸಂಪರ್ಕ ಅಥವಾ ಬಲವಾದ ಆಂತರಿಕ ವಿಶ್ವಾಸವು KKR ನ ಗತಿಯನ್ನು ಉಳಿಸಿಕೊಳ್ಳುತ್ತದೆಯೇ ಎಂದು ಹೂಡಿಕೆದಾರರು ಸೂಕ್ಷ್ಮವಾಗಿ ಗಮನಿಸುತ್ತಿದ್ದಾರೆ."
-            },
-            "mr": {
-                "title": "KKR अंतर्गत खरेदी आणि IPL वादाच्या पार्श्वभूमीवर वाढले",
-                "content": "KKR मालमत्ता अंतर्गत खरेदीच्या जोरावर 2.9% ने वाढली आहे, ज्यामुळे बाजारात उत्सुकता निर्माण झाली आहे. IPL वाद सुरू असताना ही वाढ झाली असून, विश्लेषक संभाव्य दुवे शोधत आहेत. हा सट्टा संबंध किंवा मजबूत अंतर्गत आत्मविश्वास KKR ची गती टिकवून ठेवेल का, यावर गुंतवणूकदार बारकाईने लक्ष ठेवून आहेत."
-            },
-            "hi": {
-                "title": "KKR अंदरूनी खरीद और IPL विवाद के बीच उछला",
-                "content": "KKR संपत्ति मजबूत अंदरूनी खरीद के कारण 2.9% बढ़ी है, जिससे बाजार में उत्सुकता जगी है। यह उछाल एक जारी IPL विवाद के बीच हो रहा है, जिससे विश्लेषक संभावित संबंधों पर सवाल उठा रहे हैं। निवेशक बारीकी से देख रहे हैं कि क्या यह सट्टा संबंध या मजबूत आंतरिक विश्वास KKR की गति को बनाए रखेगा।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5MWVU0NEUtdFphaHJ0alIxNjhVdk5ISzVKQ2pjRktuWm5BZWpZX0F3cjQzbk9URTB4OXFkUjhFQXQtdVllalFvVFBPTFRaMGRLdmRDUDNTVVNFTmFRbHNCZ1NYSdIBY0FVX3lxTE5MWVU0NEUtdFphaHJ0alIxNjhVdk5ISzVKQ2pjRktuWm5BZWpZX0F3cjQzbk9URTB4OXFkUjhFQXQtdVllalFvVFBPTFRaMGRLdmRDUDNTVVNFTmFRbHNCZ1NYSQ?oc=5",
-        "date": "Mon, 30 Mar 2026 16:45:17 GMT"
-    },
-    {
-        "id": "eb2b2066",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Beyond Cricket: 11 IPL Controversies That Shook The League",
-                "content": "The Indian Premier League, a cricketing extravaganza, has faced its share of major controversies. From the infamous 'Slapgate' incident to shocking spot-fixing scandals and off-field misconduct, the league has repeatedly grabbed headlines for the wrong reasons. A look back at 11 significant controversies reveals the darker side of IPL, often overshadowing its on-field brilliance."
-            },
-            "kn": {
-                "title": "ಕ್ರಿಕೆಟ್ ಮೀರಿ: ಐಪಿಎಲ್ ಅನ್ನು ತಲ್ಲಣಗೊಳಿಸಿದ 11 ವಿವಾದಗಳು",
-                "content": "ಇಂಡಿಯನ್ ಪ್ರೀಮಿಯರ್ ಲೀಗ್, ಒಂದು ಕ್ರಿಕೆಟ್ ಮಹೋತ್ಸವವಾಗಿದ್ದರೂ, ತನ್ನ ಪಾಲಿನ ಪ್ರಮುಖ ವಿವಾದಗಳನ್ನು ಎದುರಿಸಿದೆ. ಕುಖ್ಯಾತ 'ಸ್ಲ್ಯಾಪ್‌ಗೇಟ್' ಘಟನೆಯಿಂದ ಹಿಡಿದು ಆಘಾತಕಾರಿ ಸ್ಪಾಟ್-ಫಿಕ್ಸಿಂಗ್ ಹಗರಣಗಳು ಮತ್ತು ಆಫ್-ಫೀಲ್ಡ್ ದುರ್ನಡತೆಗಳವರೆಗೆ, ಲೀಗ್ ಪದೇ ಪದೇ ತಪ್ಪು ಕಾರಣಗಳಿಗಾಗಿ ಸುದ್ದಿಯಾಗಿದೆ. 11 ಪ್ರಮುಖ ವಿವಾದಗಳನ್ನು ಹಿಂತಿರುಗಿ ನೋಡಿದಾಗ ಐಪಿಎಲ್‌ನ ಕರಾಳ ಮುಖ ಅನಾವರಣಗೊಳ್ಳುತ್ತದೆ, ಇದು ಕೆಲವೊಮ್ಮೆ ಅದರ ಆನ್-ಫೀಲ್ಡ್ ಪ್ರತಿಭೆಯನ್ನು ಮರೆಮಾಡುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "क्रिकेटपलीकडे: आयपीएलला हादरवून सोडणारे 11 वाद",
-                "content": "इंडियन प्रीमियर लीग, एक क्रिकेट सोहळा असला तरी, त्याला अनेक मोठ्या वादांचा सामना करावा लागला आहे. कुप्रसिद्ध 'स्लॅपगेट' घटनेपासून ते धक्कादायक स्पॉट-फिक्सिंग घोटाळे आणि मैदानाबाहेरील गैरवर्तनापर्यंत, लीगने अनेकदा चुकीच्या कारणांमुळे मथळे बनवले आहेत. 11 महत्त्वाच्या वादांकडे मागे वळून पाहिल्यास आयपीएलची गडद बाजू उघड होते, जी अनेकदा त्याच्या मैदानातील चमकदार कामगिरीवर झाकळ घालते."
-            },
-            "hi": {
-                "title": "क्रिकेट से परे: आईपीएल को हिला देने वाले 11 विवाद",
-                "content": "इंडियन प्रीमियर लीग, एक क्रिकेट उत्सव होने के बावजूद, कई बड़े विवादों से जूझता रहा है। कुख्यात 'स्लैपगेट' घटना से लेकर चौंकाने वाले स्पॉट-फिक्सिंग घोटालों और मैदान से बाहर के दुर्व्यवहार तक, लीग ने बार-बार गलत कारणों से सुर्खियां बटोरी हैं। 11 महत्वपूर्ण विवादों पर एक नज़र आईपीएल के एक काले पक्ष को उजागर करती है, जो अक्सर इसके मैदान पर शानदार प्रदर्शन को धुंधला कर देता है।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdHBZajBpVUI1emNWNnB6TDFTUmF0YTdRZnAxaFpUSVZyODJDMk1RdldQV19zNzVwZWFyZmFuSzVJVkxIdkgwdGF0bFhIclBjZGtFOTk3Vm45YjBKcFZHQk1pdUwwZHdma3RHRTg5OHNwMzRTRU56ZTBDREI0aklydGpfSndWR1NLM0lwWnR0RTA5U0FYcGlNVm0yd2FwaUFi?oc=5",
-        "date": "Tue, 31 Mar 2026 05:06:14 GMT"
-    },
-    {
-        "id": "51fb2a1e",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "PSL Rocked by Double Trouble: Security & Tampering Rows",
-                "content": "PCB chief Mohsin Naqvi is reportedly \"unhappy\" as the Pakistan Super League (PSL) faces a dual crisis. A hotel security row has raised concerns about player safety, while a ball-tampering scandal threatens the tournament's integrity. These escalating issues are now casting a shadow over the league's reputation and management."
-            },
-            "kn": {
-                "title": "ಪಿಎಸ್‌ಎಲ್ ಡಬಲ್ ತೊಂದರೆಯಿಂದ ತತ್ತರಿಸಿದೆ: ಭದ್ರತೆ ಮತ್ತು ಟ್ಯಾಂಪರಿಂಗ್ ವಿವಾದಗಳು",
-                "content": "ಪಿಎಸ್‌ಎಲ್ (ಪಾಕಿಸ್ತಾನ್ ಸೂಪರ್ ಲೀಗ್) ಎರಡು ಬಿಕ್ಕಟ್ಟುಗಳನ್ನು ಎದುರಿಸುತ್ತಿರುವ ಕಾರಣ ಪಿಸಿಬಿ ಮುಖ್ಯಸ್ಥ ಮೊಹ್ಸಿನ್ ನಖ್ವಿ \"ಅತೃಪ್ತರು\" ಎಂದು ವರದಿಯಾಗಿದೆ. ಹೋಟೆಲ್ ಭದ್ರತಾ ವಿವಾದವು ಆಟಗಾರರ ಸುರಕ್ಷತೆಯ ಬಗ್ಗೆ ಕಳವಳ ವ್ಯಕ್ತಪಡಿಸಿದೆ, ಆದರೆ ಬಾಲ್-ಟ್ಯಾಂಪರಿಂಗ್ ಹಗರಣವು ಪಂದ್ಯಾವಳಿಯ ಸಮಗ್ರತೆಗೆ ಧಕ್ಕೆ ತರುತ್ತಿದೆ. ಈ ಹೆಚ್ಚುತ್ತಿರುವ ಸಮಸ್ಯೆಗಳು ಈಗ ಲೀಗ್‌ನ ಖ್ಯಾತಿ ಮತ್ತು ನಿರ್ವಹಣೆಯ ಮೇಲೆ ನೆರಳು ಬೀರಿದೆ."
-            },
-            "mr": {
-                "title": "पीएसएल दुहेरी संकटात: सुरक्षा आणि टेंपरिंग विवाद",
-                "content": "पाकिस्तान सुपर लीग (पीएसएल) दुहेरी संकटाचा सामना करत असल्याने पीसीबी प्रमुख मोहसिन नक्वी 'नाखूश' असल्याचे वृत्त आहे. हॉटेल सुरक्षा विवादाने खेळाडूंच्या सुरक्षिततेबद्दल चिंता निर्माण केली आहे, तर बॉल-टेंपरिंग घोटाळा स्पर्धेच्या प्रतिष्ठेला धोका निर्माण करत आहे. हे वाढते मुद्दे आता लीगच्या प्रतिमेवर आणि व्यवस्थापनावर प्रश्नचिन्ह निर्माण करत आहेत."
-            },
-            "hi": {
-                "title": "पीएसएल पर दोहरा संकट: सुरक्षा और टेंपरिंग विवाद",
-                "content": "रिपोर्ट के अनुसार, पीसीबी प्रमुख मोहसिन नकवी 'नाखुश' हैं क्योंकि पाकिस्तान सुपर लीग (पीएसएल) दोहरे संकट का सामना कर रहा है। एक होटल सुरक्षा विवाद ने खिलाड़ियों की सुरक्षा पर चिंताएं बढ़ा दी हैं, जबकि बॉल-टेंपरिंग घोटाला टूर्नामेंट की अखंडता को खतरा पैदा कर रहा है। ये बढ़ते मुद्दे अब लीग की प्रतिष्ठा और प्रबंधन पर सवाल उठा रहे हैं।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNLWJnVVVhLVE2QzNDNG50Z0M0VV8yVmF6MTVhemhscjBYb2NRODI4d0czSFNZLTAwcHBTVGZRdkFMdUtra3g1YWlZTlM1UGdOeUYzTklSdzVGalZtbWNLdTdQV1Jud3BmWkFsMGY5QmRnUmRpOXhPb1hNNTk5THF5Tk9pVzFyN2dRWUtnLVZKZGk0RnBjZ2VEMGh3Qnk2dkZzUHBpY0JSLW9Bd0pJNWZQRVV5WVRjRDlsQTBldm5XQzM3ei1rMzk4dUsyUjNJWXZTb0g2RjdNd1FuRWU1TzBuakRNS2s2TmUwM3B2cmhVZXRad1U30gH6AUFVX3lxTE5HNS0tMno3aWFqaDNfLUdMdnRIU2EtYnV2VC1McVZ0dVE1ZDl0VEJDVmNRaDYyOXIxa0g3MHBtY1BaVFo1N3c1aFdWanBRZmhycnJ4OGVyU281bEdkZWQ3T0NJbDBNVTRWSEV2NjBrZlFaMWVBMHdPb1MySWp0NkNiRTJRdWdNTHJ5clJCVFpVdk5tYkhGM1VWNk03Q0hHWnJQMnVKOFAtOElwdUltWWJ0NEhWWEVQaFAzbi12azBYaXJtQlljQXdLOWxFcUdIY0Y2Vl9YUnJFbG1aQ2J4YUlNYWY2QmNuQ2ozLXY4SUxjeWJ4X0RsRThDRUE?oc=5",
-        "date": "Mon, 30 Mar 2026 23:30:00 GMT"
-    },
-    {
-        "id": "7b6e74ba",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Starc Hits Back: Injury Caused IPL Delay",
-                "content": "Mitchell Starc has hit back at critics, clarifying the reasons behind his delayed start to the IPL season. The Australian pacer revealed he'd been battling a \"significant\" injury setback, which prevented him from joining his Kolkata Knight Riders teammates sooner. Starc emphasized that focusing on recovery was crucial, dismissing speculation about his commitment."
-            },
-            "kn": {
-                "title": "ಸ್ಟಾರ್ಕ್ ತಿರುಗೇಟು: ಗಾಯದಿಂದ IPL ವಿಳಂಬ",
-                "content": "ಮಿಚೆಲ್ ಸ್ಟಾರ್ಕ್ ತನ್ನ IPL ಸೀಸನ್ ವಿಳಂಬದ ಹಿಂದಿನ ಕಾರಣಗಳನ್ನು ಸ್ಪಷ್ಟಪಡಿಸುವ ಮೂಲಕ ವಿಮರ್ಶಕರಿಗೆ ತಿರುಗೇಟು ನೀಡಿದ್ದಾರೆ. ಆಸ್ಟ್ರೇಲಿಯಾದ ವೇಗದ ಬೌಲರ್ ತಾನು \"ಗಂಭೀರ\" ಗಾಯದ ಸಮಸ್ಯೆಯಿಂದ ಬಳಲುತ್ತಿರುವುದಾಗಿ ಬಹಿರಂಗಪಡಿಸಿದರು, ಇದು ಅವರನ್ನು ಕೋಲ್ಕತ್ತಾ ನೈಟ್ ರೈಡರ್ಸ್ ತಂಡದೊಂದಿಗೆ ಬೇಗ ಸೇರಲು ಅಡ್ಡಿಪಡಿಸಿತು. ಚೇತರಿಕೆಯತ್ತ ಗಮನ ಹರಿಸುವುದು ಮುಖ್ಯ ಎಂದು ಸ್ಟಾರ್ಕ್ ಒತ್ತಿಹೇಳಿದರು, ಅವರ ಬದ್ಧತೆಯ ಬಗ್ಗೆ ಇದ್ದ ಊಹಾಪೋಹಗಳನ್ನು ತಳ್ಳಿಹಾಕಿದರು."
-            },
-            "mr": {
-                "title": "स्टार्कचा पलटवार: दुखापतीमुळे IPL ला विलंब",
-                "content": "मिचेल स्टार्कने त्याच्या IPL हंगामाला उशीर होण्यामागची कारणे स्पष्ट करत टीकाकारांना प्रत्युत्तर दिले आहे. ऑस्ट्रेलियन वेगवान गोलंदाजाने खुलासा केला की तो \"महत्त्वाच्या\" दुखापतीमुळे त्रस्त होता, ज्यामुळे त्याला लवकर कोलकाता नाइट रायडर्स संघासोबत सामील होता आले नाही. स्टार्कने आपल्या वचनबद्धतेबद्दलच्या अटकळींना फेटाळत, पुनर्प्राप्तीवर लक्ष केंद्रित करणे महत्त्वाचे असल्याचे सांगितले."
-            },
-            "hi": {
-                "title": "स्टार्क का पलटवार: चोट के कारण IPL में देरी",
-                "content": "मिशेल स्टार्क ने अपने आईपीएल सीज़न में देरी के पीछे के कारणों को स्पष्ट करते हुए आलोचकों को करारा जवाब दिया है। ऑस्ट्रेलियाई तेज़ गेंदबाज़ ने खुलासा किया कि वह एक \"गंभीर\" चोट से जूझ रहे थे, जिसने उन्हें कोलकाता नाइट राइडर्स टीम में जल्द शामिल होने से रोका। स्टार्क ने अपनी प्रतिबद्धता के बारे में अटकलों को खारिज करते हुए, ठीक होने पर ध्यान केंद्रित करने को महत्वपूर्ण बताया।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQZ0RKY2tNdkJVNkZmRTVRZE1Ib1lFT2dRUWFaR29DckNiZVpTSU1tU1Jid3N2MEZocFV4aTJBNl83S2FpcEJtV2Y2TG9xYUpwY1dpV3hkMTNPcE5Vd0tiQVB2RWpLbHk3REJpN0pWQ3pFOTBxS2FVWXZqbmt1UnM4N3NhQ3NoMWN0UEI0cW12aDJjWVdzQldkeEQ0bWlwOG5nWHZuU2Ytd1NDUnNlSnY2U3I2NU9HcUFKUDREZVRJT0VnTjVqTG13ejlRd0JYWjd2ZDJQdUVfMXNGN2xzQkkxZ0FJcExZQlJxTXJkdWw2dHBqM1JRak1LVTlpbEZ4bDZlcU0wOA?oc=5",
-        "date": "Tue, 31 Mar 2026 01:20:20 GMT"
-    },
-    {
-        "id": "f27a6908",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Cowboys-Jets Trade Talks Heat Up Over $60M WR",
-                "content": "NFL trade talks between the Dallas Cowboys and New York Jets are intensifying. Rumors suggest discussions revolve around a prominent wide receiver with a $60 million contract whose future in his current team is uncertain. This potential blockbuster trade could significantly impact both teams' rosters and the upcoming season, keeping fans on edge as developments unfold."
-            },
-            "kn": {
-                "title": "$60M WR ಗಾಗಿ ಕೌಬಾಯ್ಸ್-ಜೆಟ್ಸ್ ವ್ಯಾಪಾರ ಚರ್ಚೆ ತೀವ್ರ",
-                "content": "ಡಲ್ಲಾಸ್ ಕೌಬಾಯ್ಸ್ ಮತ್ತು ನ್ಯೂಯಾರ್ಕ್ ಜೆಟ್ಸ್ ನಡುವಿನ NFL ವ್ಯಾಪಾರ ಮಾತುಕತೆ ತೀವ್ರಗೊಳ್ಳುತ್ತಿದೆ. $60 ಮಿಲಿಯನ್ ಒಪ್ಪಂದದೊಂದಿಗೆ ಒಬ್ಬ ಪ್ರಮುಖ ವೈಡ್ ರಿಸೀವರ್‌ನ ಭವಿಷ್ಯ ಅನಿಶ್ಚಿತವಾಗಿರುವ ಬಗ್ಗೆ ಚರ್ಚೆಗಳು ನಡೆಯುತ್ತಿವೆ ಎಂದು ವದಂತಿಗಳಿವೆ. ಈ ಸಂಭಾವ್ಯ ದೊಡ್ಡ ವ್ಯಾಪಾರವು ಎರಡೂ ತಂಡಗಳ ರೋಸ್ಟರ್‌ಗಳು ಮತ್ತು ಮುಂಬರುವ ಋತುವಿನ ಮೇಲೆ ಗಮನಾರ್ಹ ಪರಿಣಾಮ ಬೀರಬಹುದು, ಅಭಿಮಾನಿಗಳನ್ನು ಕುತೂಹಲದಿಂದ ಕಾಯುವಂತೆ ಮಾಡಿದೆ."
-            },
-            "mr": {
-                "title": "$60M WR साठी काउबॉय-जेट्स व्यापार चर्चा तीव्र",
-                "content": "डल्लास काउबॉयज आणि न्यूयॉर्क जेट्स यांच्यातील NFL व्यापार चर्चा तीव्र होत आहे. $60 दशलक्ष करारासह एका प्रमुख वाइड रिसीव्हरचे भविष्य अनिश्चित असल्याने त्याभोवती चर्चा फिरत असल्याच्या अफवा आहेत. हा संभाव्य मोठा व्यापार दोन्ही संघांच्या खेळाडूंच्या यादीवर आणि आगामी हंगामावर लक्षणीय परिणाम करू शकतो, ज्यामुळे चाहते पुढील घडामोडींची उत्सुकतेने वाट पाहत आहेत."
-            },
-            "hi": {
-                "title": "$60M WR को लेकर काउबॉय-जेट्स व्यापार चर्चा तेज",
-                "content": "डलास काउबॉयज और न्यूयॉर्क जेट्स के बीच NFL व्यापार वार्ता तेज हो रही है। अफवाहें बताती हैं कि चर्चाएँ $60 मिलियन के अनुबंध वाले एक प्रमुख वाइड रिसीवर के अनिश्चित भविष्य के इर्द-गिर्द घूम रही हैं। यह संभावित बड़ा व्यापार दोनों टीमों की रोस्टर और आगामी सीज़न पर महत्वपूर्ण प्रभाव डाल सकता है, जिससे प्रशंसक उत्सुकता से घटनाओं के खुलने का इंतजार कर रहे हैं।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxONXhXZG40RklzN05YVF9BOFpFWXhpOVhDcC15RDNoaHFrY3NFSHFnVEVDRXR4QlcwblpxcXgwSXJDcHpHWFlVbmhPbGMzY2tYZkFsdTI3dUpkUDVQcjczLW9XYUp2dlI0M01qRDdjQ2x0Z2ZTTC1pazg0dTZKTHZkNFl5Zm9XTnJRRTdYNXFzbHhsRjkyZjBKTFBrWnV0ekFrbTNva01KamhkVnB4RlRnUUdXcjdnMXJvdXJ5LWxpVXJ2cXIxSl9IcWN3Q0REZ2xwWG5TaGxGemE5R211dk5DUEhNQnM5NTRlYkx5S3o0X0xPN0hCUkdRM3l0NXNwZFXSAf8BQVVfeXFMTjV4V2RuNEZJczdOWFRfQThaRVl4aTlYQ3AteUQzaGhxa2NzRUhxZ1RFQ0V0eEJXMG5acXF4MElyQ3B6R1hZVW5oT2xjM2NrWGZBbHUyN3VKZFA1UHI3My1vV2FKdnZSNDNNakQ3Y0NsdGdmU0wtaWs4NHU2Skx2ZDRZeWZvV05yUUU3WDVxc2x4bEY5MmYwSkxQa1p1dHpBa20zb2tNSmpoZFZweEZUZ1FHV3I3ZzFyb3VyeS1saVVydnFyMUpfSHFjd0NERGdscFhuU2hsRnphOUdtdXZOQ1BITUJzOTU0ZWJMeUt6NF9MTzdIQlJHUTN5dDVzcGRV?oc=5",
-        "date": "Mon, 30 Mar 2026 23:40:00 GMT"
-    },
-    {
-        "id": "50eb2b94",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Rahul Gandhi Slams Modi on Sabarimala Gold Theft Silence",
-                "content": "Rahul Gandhi slammed PM Modi, questioning his silence on the alleged Sabarimala gold theft. Gandhi accused Modi of selectively addressing religious matters, suggesting a hidden alliance between BJP and Kerala's ruling LDF. He claimed Modi controls CM Vijayan and labeled CPI(M) an extreme right-wing party now aligned with BJP, highlighting political hypocrisy and alleged backdoor dealings in Kerala."
-            },
-            "kn": {
-                "title": "ರಾಹುಲ್ ಗಾಂಧಿ ಶಬರಿಮಲೆ ಚಿನ್ನ ಕಳ್ಳತನದ ಬಗ್ಗೆ ಮೋದಿ ಮೌನವನ್ನು ಟೀಕಿಸಿದ್ದಾರೆ",
-                "content": "ರಾಹುಲ್ ಗಾಂಧಿ ಪ್ರಧಾನಿ ಮೋದಿಯವರ ವಿರುದ್ಧ ವಾಗ್ದಾಳಿ ನಡೆಸಿದ್ದು, ಶಬರಿಮಲೆ ಚಿನ್ನ ಕಳ್ಳತನದ ಆರೋಪದ ಬಗ್ಗೆ ಅವರ ಮೌನವನ್ನು ಪ್ರಶ್ನಿಸಿದ್ದಾರೆ. ಧಾರ್ಮಿಕ ವಿಷಯಗಳನ್ನು ಆಯ್ದುಕೊಂಡು ಮಾತನಾಡುತ್ತಾರೆ ಎಂದು ಗಾಂಧಿ ಮೋದಿ ಮೇಲೆ ಆರೋಪಿಸಿದರು, ಬಿಜೆಪಿ ಮತ್ತು ಕೇರಳದ ಆಡಳಿತಾರೂಢ ಎಲ್‌ಡಿಎಫ್ ನಡುವೆ ರಹಸ್ಯ ಮೈತ್ರಿ ಇದೆ ಎಂದು ಸೂಚಿಸಿದರು. ಮೋದಿ ಮುಖ್ಯಮಂತ್ರಿ ವಿಜಯನ್ ಅವರನ್ನು ನಿಯಂತ್ರಿಸುತ್ತಾರೆ ಎಂದು ಅವರು ಹೇಳಿಕೊಂಡರು ಮತ್ತು ಸಿಪಿಐ(ಎಂ) ಈಗ ಬಿಜೆಪಿಯೊಂದಿಗೆ ಹೊಂದಿಕೊಂಡಿರುವ ತೀವ್ರ ಬಲಪಂಥೀಯ ಪಕ್ಷವಾಗಿದೆ ಎಂದು ಲೇಬಲ್ ಮಾಡಿದರು, ಕೇರಳದಲ್ಲಿ ರಾಜಕೀಯ ಬೂಟಾಟಿಕೆ ಮತ್ತು ಹಿಂಬಾಗಿಲಿನ ವ್ಯವಹಾರಗಳನ್ನು ಎತ್ತಿ ತೋರಿಸಿದರು."
-            },
-            "mr": {
-                "title": "राहुल गांधींनी शबरीमला सुवर्ण चोरीवर मोदींच्या मौनावर टीका केली",
-                "content": "राहुल गांधींनी पंतप्रधान मोदींवर हल्लाबोल करत शबरीमला येथील कथित सुवर्ण चोरीवर त्यांच्या मौनावर प्रश्नचिन्ह उपस्थित केले. गांधींनी मोदींवर धार्मिक बाबींवर निवडकपणे बोलण्याचा आरोप केला, तसेच भाजप आणि केरळमधील सत्ताधारी एलडीएफ यांच्यात गुप्त युती असल्याचा दावा केला. मोदी मुख्यमंत्री विजयन यांना नियंत्रित करतात असे ते म्हणाले आणि सीपीआय(एम) आता भाजपशी संलग्न असलेला एक अति-उजव्या विचारसरणीचा पक्ष बनला आहे, असे म्हटले, ज्यामुळे केरळमधील राजकीय ढोंग आणि कथित पडद्यामागील व्यवहार उघड झाले."
-            },
-            "hi": {
-                "title": "राहुल गांधी ने सबरीमाला स्वर्ण चोरी पर मोदी की चुप्पी पर साधा निशाना",
-                "content": "राहुल गांधी ने प्रधानमंत्री मोदी पर निशाना साधते हुए सबरीमाला में कथित स्वर्ण चोरी पर उनकी चुप्पी पर सवाल उठाया। गांधी ने मोदी पर धार्मिक मामलों को चुनिंदा रूप से उठाने का आरोप लगाया, जिसमें भाजपा और केरल के सत्तारूढ़ एलडीएफ के बीच एक गुप्त गठबंधन का सुझाव दिया गया। उन्होंने दावा किया कि मोदी मुख्यमंत्री विजयन को नियंत्रित करते हैं और सीपीआई (एम) को अब भाजपा के साथ जुड़ा एक अति-दक्षिणपंथी दल करार दिया, केरल में राजनीतिक पाखंड और कथित पर्दे के पीछे के सौदों को उजागर किया।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129919155,imgsize-797594.cms",
-        "link": "https://timesofindia.indiatimes.com/india/so-called-defender-of-hinduism-says-nothing-about-sabarimala-rahul-gandhi-takes-dig-at-pm-modi/articleshow/129918817.cms",
-        "date": "2026-03-31T12:58:27+05:30"
-    },
-    {
-        "id": "bd284529",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "BJP Unveils Assam Election Manifesto",
-                "content": "BJP's 'Sankalp Patra' for Assam's 2026 elections reveals 31 commitments. The manifesto focuses on indigenous rights, economic growth, and infrastructure development. Key pledges include a Rs 5 lakh crore investment to make Assam an economic hub, strengthening law and order, and implementing a Uniform Civil Code. It also promises to protect indigenous land/heritage and create youth employment."
-            },
-            "kn": {
-                "title": "ಬಿಜೆಪಿ ಅಸ್ಸಾಂ ಚುನಾವಣಾ ಪ್ರಣಾಳಿಕೆ ಅನಾವರಣ",
-                "content": "ಅಸ್ಸಾಂನ 2026ರ ಚುನಾವಣೆಗೆ ಬಿಜೆಪಿಯ 'ಸಂಕಲ್ಪ ಪತ್ರ' 31 ಬದ್ಧತೆಗಳನ್ನು ಅನಾವರಣಗೊಳಿಸಿದೆ. ಪ್ರಣಾಳಿಕೆಯು ಸ್ಥಳೀಯ ಹಕ್ಕುಗಳು, ಆರ್ಥಿಕ ಬೆಳವಣಿಗೆ ಮತ್ತು ಮೂಲಸೌಕರ್ಯ ಅಭಿವೃದ್ಧಿಯ ಮೇಲೆ ಕೇಂದ್ರೀಕರಿಸುತ್ತದೆ. ಪ್ರಮುಖ ಭರವಸೆಗಳಲ್ಲಿ ಅಸ್ಸಾಂ ಅನ್ನು ಆರ್ಥಿಕ ಕೇಂದ್ರವನ್ನಾಗಿ ಮಾಡಲು 5 ಲಕ್ಷ ಕೋಟಿ ರೂ. ಹೂಡಿಕೆ, ಕಾನೂನು ಸುವ್ಯವಸ್ಥೆ ಬಲಪಡಿಸುವುದು ಮತ್ತು ಏಕರೂಪ ನಾಗರಿಕ ಸಂಹಿತೆ ಜಾರಿಗೊಳಿಸುವುದು ಸೇರಿವೆ. ಇದು ಸ್ಥಳೀಯ ಭೂಮಿ/ಪರಂಪರೆಯನ್ನು ರಕ್ಷಿಸಲು ಮತ್ತು ಯುವ ಉದ್ಯೋಗಗಳನ್ನು ಸೃಷ್ಟಿಸಲು ಸಹ ಭರವಸೆ ನೀಡುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "भाजपने आसाम निवडणुकीचा जाहीरनामा प्रसिद्ध केला",
-                "content": "आसामच्या 2026 च्या निवडणुकीसाठी भाजपच्या 'संकल्प पत्रात' 31 वचनबद्धता उघड झाल्या आहेत. जाहीरनामा स्थानिक हक्क, आर्थिक वाढ आणि पायाभूत सुविधा विकासावर लक्ष केंद्रित करतो. मुख्य आश्वासनांमध्ये आसामला आर्थिक केंद्र बनवण्यासाठी 5 लाख कोटी रुपयांची गुंतवणूक, कायदा व सुव्यवस्था बळकट करणे आणि समान नागरी संहिता लागू करणे यांचा समावेश आहे. यात स्थानिक जमीन/वारसांचे संरक्षण आणि तरुणांसाठी नोकऱ्या निर्माण करण्याचेही वचन दिले आहे."
-            },
-            "hi": {
-                "title": "भाजपा ने असम चुनाव घोषणापत्र जारी किया",
-                "content": "असम के 2026 चुनावों के लिए भाजपा के 'संकल्प पत्र' में 31 प्रतिबद्धताएँ सामने आई हैं। घोषणापत्र स्थानीय अधिकारों, आर्थिक विकास और बुनियादी ढाँचे के विकास पर केंद्रित है। प्रमुख प्रतिज्ञाओं में असम को एक आर्थिक केंद्र बनाने के लिए 5 लाख करोड़ रुपये का निवेश, कानून व्यवस्था मजबूत करना और समान नागरिक संहिता लागू करना शामिल है। इसमें स्थानीय भूमि/विरासत की रक्षा और युवाओं के लिए रोजगार सृजित करने का भी वादा किया गया है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129917820,imgsize-1425044.cms",
-        "link": "https://timesofindia.indiatimes.com/india/assam-assembly-elections-2026-what-is-bjp-offering-in-its-poll-manifesto/articleshow/129917164.cms",
-        "date": "2026-03-31T11:48:09+05:30"
-    },
-    {
-        "id": "20bf73df",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Indian Triservices Showcase Joint Might in 'Dweep Shakti' Drill",
-                "content": "India's triservices conducted 'Dweep Shakti', a major joint exercise showcasing amphibious assaults, maritime dominance, and complex beach landings. The Indian Army, Navy, and Air Force demonstrated seamless synergy, employing next-generation equipment and drones. This large-scale drill reaffirmed their precision, jointness, and mission-ready interoperability, highlighting India's robust defence capabilities."
-            },
-            "kn": {
-                "title": "ದ್ವೀಪ ಶಕ್ತಿ' ಸಮರಾಭ್ಯಾಸದಲ್ಲಿ ಭಾರತೀಯ ತ್ರಿ-ಸೇವೆಗಳ ಸಮನ್ವಯ ಶಕ್ತಿ ಪ್ರದರ್ಶನ",
-                "content": "ಭಾರತದ ಮೂರು ಸೇವೆಗಳು 'ದ್ವೀಪ ಶಕ್ತಿ' ಎಂಬ ಬೃಹತ್ ಜಂಟಿ ಸಮರಾಭ್ಯಾಸ ನಡೆಸಿದವು. ಈ ಅಭ್ಯಾಸವು ಉಭಯಚರ ದಾಳಿಗಳು, ಕಡಲ ಪ್ರಾಬಲ್ಯ ಮತ್ತು ಸಂಕೀರ್ಣ ಕಡಲತೀರದ ಇಳಿಯುವಿಕೆಗಳನ್ನು ಪ್ರದರ್ಶಿಸಿತು. ಭಾರತೀಯ ಸೇನೆ, ನೌಕಾಪಡೆ ಮತ್ತು ವಾಯುಪಡೆಗಳು ಮುಂದಿನ ತಲೆಮಾರಿನ ಉಪಕರಣಗಳು ಮತ್ತು ಡ್ರೋನ್‌ಗಳನ್ನು ಬಳಸಿ ನಿರಂತರ ಸಮನ್ವಯವನ್ನು ತೋರಿಸಿದವು. ಈ ದೊಡ್ಡ ಪ್ರಮಾಣದ ಡ್ರಿಲ್ ಅವರ ನಿಖರತೆ, ಸಮನ್ವಯತೆ ಮತ್ತು ಕಾರ್ಯಾಚರಣೆಗೆ ಸಿದ್ಧವಾದ ಪರಸ್ಪರ ಕಾರ್ಯಸಾಧ್ಯತೆಯನ್ನು ಪುನರುಚ್ಚರಿಸಿತು, ಭಾರತದ ಬಲವಾದ ರಕ್ಷಣಾ ಸಾಮರ್ಥ್ಯಗಳನ್ನು ಎತ್ತಿ ತೋರಿಸಿತು."
-            },
-            "mr": {
-                "title": "'द्वीप शक्ती' सरावात भारतीय त्रि-सेवांनी दाखवली संयुक्त ताकद",
-                "content": "भारताच्या तिन्ही सेवांनी 'द्वीप शक्ती' नावाचा एक मोठा संयुक्त सराव केला, ज्यामध्ये उभयचर हल्ले, सागरी वर्चस्व आणि जटिल किनारी लँडिंगचे प्रदर्शन करण्यात आले. भारतीय सैन्य, नौदल आणि वायुसेनेने पुढील पिढीतील उपकरणे आणि ड्रोन वापरून अखंड समन्वय दाखवला. या मोठ्या सरावाने त्यांची अचूकता, संयुक्तता आणि मोहिमेसाठी सज्ज आंतरकार्यक्षमता पुन्हा एकदा अधोरेखित केली, ज्यामुळे भारताच्या मजबूत संरक्षण क्षमतांवर प्रकाश टाकला."
-            },
-            "hi": {
-                "title": "'द्वीप शक्ति' अभ्यास में भारतीय त्रि-सेवाओं ने दिखाई संयुक्त ताकत",
-                "content": "भारत की तीनों सेनाओं ने 'द्वीप शक्ति' नामक एक प्रमुख संयुक्त अभ्यास किया, जिसमें उभयचर हमले, समुद्री प्रभुत्व और जटिल समुद्र तट लैंडिंग का प्रदर्शन किया गया. भारतीय सेना, नौसेना और वायुसेना ने अगली पीढ़ी के उपकरण और ड्रोन का उपयोग करके सहज समन्वय दिखाया. इस बड़े पैमाने के अभ्यास ने उनकी सटीकता, संयुक्तता और मिशन-तैयार अंतर-संचालनीयता की पुष्टि की, जो भारत की मजबूत रक्षा क्षमताओं पर प्रकाश डालता है."
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129914092,imgsize-195616.cms",
-        "link": "https://timesofindia.indiatimes.com/india/dweep-shakti-three-services-conduct-amphibious-assaults-maritime-dominance-ops/articleshow/129914097.cms",
-        "date": "2026-03-31T06:52:33+05:30"
-    },
-    {
-        "id": "ac29c4f5",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Indian Worker Killed in Kuwait Plant Attack",
-                "content": "An Indian national has tragically lost their life in a violent attack on a desalination plant in Kuwait. Details surrounding the incident remain scarce, but authorities are investigating the circumstances that led to this unfortunate fatality. The Ministry of External Affairs is likely monitoring the situation closely and assisting the victim's family, raising concerns among the Indian diaspora."
-            },
-            "kn": {
-                "title": "ಕುವೈತ್ ಸ್ಥಾವರ ದಾಳಿಯಲ್ಲಿ ಭಾರತೀಯ ಕಾರ್ಮಿಕ ಸಾವು",
-                "content": "ಕುವೈತ್‌ನಲ್ಲಿನ ಶುದ್ಧೀಕರಣ ಘಟಕದ ಮೇಲೆ ನಡೆದ ಹಿಂಸಾತ್ಮಕ ದಾಳಿಯಲ್ಲಿ ಒಬ್ಬ ಭಾರತೀಯ ಪ್ರಜೆ ದುರಂತವಾಗಿ ಸಾವನ್ನಪ್ಪಿದ್ದಾರೆ. ಘಟನೆಯ ಸುತ್ತಲಿನ ವಿವರಗಳು ಸ್ಪಷ್ಟವಾಗಿಲ್ಲ, ಆದರೆ ಅಧಿಕಾರಿಗಳು ಈ ದುರದೃಷ್ಟಕರ ಸಾವಿಗೆ ಕಾರಣವಾದ ಸಂದರ್ಭಗಳನ್ನು ತನಿಖೆ ಮಾಡುತ್ತಿದ್ದಾರೆ. ವಿದೇಶಾಂಗ ವ್ಯವಹಾರಗಳ ಸಚಿವಾಲಯವು ಪರಿಸ್ಥಿತಿಯನ್ನು ಸೂಕ್ಷ್ಮವಾಗಿ ಗಮನಿಸುತ್ತಿದೆ ಮತ್ತು ಸಂತ್ರಸ್ತರ ಕುಟುಂಬಕ್ಕೆ ನೆರವು ನೀಡಲು ಸಿದ್ಧವಾಗಿದೆ, ಇದು ಭಾರತೀಯ ಸಮುದಾಯದಲ್ಲಿ ಕಳವಳ ಮೂಡಿಸಿದೆ."
-            },
-            "mr": {
-                "title": "कुवेत प्रकल्पावरील हल्ल्यात भारतीय कामगाराचा मृत्यू",
-                "content": "कुवेतमध्ये एका जलशुद्धीकरण प्रकल्पावर झालेल्या हिंसक हल्ल्यात एका भारतीय नागरिकाचा दुर्दैवी मृत्यू झाला आहे. या घटनेचे तपशील अद्याप अस्पष्ट आहेत, परंतु अधिकारी या दुर्दैवी मृत्यूला कारणीभूत ठरलेल्या परिस्थितीची चौकशी करत आहेत. परराष्ट्र मंत्रालय परिस्थितीवर बारीक लक्ष ठेवून आहे आणि पीडित कुटुंबाला मदत करत आहे, यामुळे भारतीय समुदायात चिंता वाढली आहे."
-            },
-            "hi": {
-                "title": "कुवैत संयंत्र हमले में भारतीय कार्यकर्ता की मौत",
-                "content": "कुवैत के एक विलवणीकरण संयंत्र पर हुए हिंसक हमले में एक भारतीय नागरिक की दुखद मृत्यु हो गई है। घटना से संबंधित विवरण अभी भी कम हैं, लेकिन अधिकारी इस दुर्भाग्यपूर्ण मौत के कारणों की जांच कर रहे हैं। विदेश मंत्रालय स्थिति पर करीब से नजर रख रहा है और पीड़ित परिवार की सहायता कर रहा है, जिससे भारतीय समुदाय में चिंता बढ़ गई है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129913745,imgsize-96664.cms",
-        "link": "https://timesofindia.indiatimes.com/india/indian-killed-in-kuwait-desalination-plant-attack/articleshow/129913740.cms",
-        "date": "2026-03-31T05:36:54+05:30"
-    },
-    {
-        "id": "3a1458ea",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Energy Cargo Ships Stranded in Persian Gulf",
-                "content": "Ten ships, vital for India's energy supply, are stranded in the Persian Gulf. This situation raises concerns about potential delays and economic repercussions for India's energy sector. Authorities are expected to act swiftly to resolve the logistical challenge and ensure the timely arrival of crucial resources, though the exact reason for the holdup remains undisclosed."
-            },
-            "kn": {
-                "title": "ಪರ್ಷಿಯನ್ ಗಲ್ಫ್‌ನಲ್ಲಿ ಸಿಲುಕಿರುವ ಇಂಧನ ಸರಕು ಹಡಗುಗಳು",
-                "content": "ಭಾರತದ ಇಂಧನ ಪೂರೈಕೆಗೆ ಅತ್ಯಗತ್ಯವಾದ ಹತ್ತು ಹಡಗುಗಳು ಪರ್ಷಿಯನ್ ಗಲ್ಫ್‌ನಲ್ಲಿ ಸಿಲುಕಿವೆ. ಈ ಪರಿಸ್ಥಿತಿಯು ಭಾರತದ ಇಂಧನ ವಲಯಕ್ಕೆ ಸಂಭಾವ್ಯ ವಿಳಂಬಗಳು ಮತ್ತು ಆರ್ಥಿಕ ಪರಿಣಾಮಗಳ ಬಗ್ಗೆ ಕಳವಳ ವ್ಯಕ್ತಪಡಿಸುತ್ತದೆ. ಸಾಗಾಣಿಕೆಯ ಸವಾಲನ್ನು ಪರಿಹರಿಸಲು ಮತ್ತು ನಿರ್ಣಾಯಕ ಸಂಪನ್ಮೂಲಗಳ ಸಮಯೋಚಿತ ಆಗಮನವನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು ಅಧಿಕಾರಿಗಳು ತ್ವರಿತವಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುವ ನಿರೀಕ್ಷೆಯಿದೆ, ಆದರೂ ವಿಳಂಬಕ್ಕೆ ನಿಖರವಾದ ಕಾರಣವನ್ನು ಬಹಿರಂಗಪಡಿಸಲಾಗಿಲ್ಲ."
-            },
-            "mr": {
-                "title": "पर्शियन गल्फमध्ये अडकलेली ऊर्जा मालवाहू जहाजे",
-                "content": "भारताच्या ऊर्जा पुरवठ्यासाठी महत्त्वाची असलेली दहा जहाजे पर्शियन गल्फमध्ये अडकली आहेत. यामुळे भारताच्या ऊर्जा क्षेत्रासाठी संभाव्य विलंब आणि आर्थिक परिणामांबाबत चिंता निर्माण झाली आहे. लॉजिस्टिक आव्हान सोडवण्यासाठी आणि महत्त्वपूर्ण संसाधनांची वेळेवर उपलब्धता सुनिश्चित करण्यासाठी अधिकारी त्वरीत कारवाई करतील अशी अपेक्षा आहे, तरीही अडकण्याचे नेमके कारण अद्याप उघड झालेले नाही."
-            },
-            "hi": {
-                "title": "फ़ारसी खाड़ी में फंसे ऊर्जा मालवाहक जहाज",
-                "content": "भारत की ऊर्जा आपूर्ति के लिए महत्वपूर्ण दस जहाज फ़ारसी खाड़ी में फंसे हुए हैं। यह स्थिति भारत के ऊर्जा क्षेत्र के लिए संभावित देरी और आर्थिक प्रभावों के बारे में चिंताएं बढ़ाती है। अधिकारियों से लॉजिस्टिकल चुनौती को हल करने और महत्वपूर्ण संसाधनों के समय पर आगमन को सुनिश्चित करने के लिए शीघ्रता से कार्य करने की उम्मीद है, हालांकि रुकावट का सटीक कारण अभी तक अज्ञात है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129913729,imgsize-52618.cms",
-        "link": "https://timesofindia.indiatimes.com/india/10-india-bound-ships-carrying-energy-cargo-stuck-in-persian-gulf/articleshow/129913720.cms",
-        "date": "2026-03-31T05:32:33+05:30"
-    },
-    {
-        "id": "49ff4a2b",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "India Dispatches Diesel to Bangladesh",
-                "content": "India has dispatched 7,000 tonnes of high-speed diesel to Bangladesh via railway. This significant supply aims to bolster Bangladesh's energy security and support its power sector amidst global energy challenges. The move further strengthens bilateral cooperation between the two nations, highlighting India's commitment to regional partnership and mutual development."
-            },
-            "kn": {
-                "title": "ಭಾರತ ಬಾಂಗ್ಲಾದೇಶಕ್ಕೆ ಡೀಸೆಲ್ ರವಾನಿಸಿದೆ",
-                "content": "ಭಾರತವು ರೈಲ್ವೆ ಮೂಲಕ ಬಾಂಗ್ಲಾದೇಶಕ್ಕೆ 7,000 ಟನ್ ಹೈ-ಸ್ಪೀಡ್ ಡೀಸೆಲ್ ರವಾನಿಸಿದೆ. ಈ ಮಹತ್ವದ ಪೂರೈಕೆಯು ಜಾಗತಿಕ ಇಂಧನ ಸವಾಲುಗಳ ಮಧ್ಯೆ ಬಾಂಗ್ಲಾದೇಶದ ಇಂಧನ ಭದ್ರತೆಯನ್ನು ಬಲಪಡಿಸಲು ಮತ್ತು ಅದರ ವಿದ್ಯುತ್ ಕ್ಷೇತ್ರಕ್ಕೆ ಬೆಂಬಲ ನೀಡುವ ಗುರಿ ಹೊಂದಿದೆ. ಈ ಕ್ರಮವು ಎರಡೂ ರಾಷ್ಟ್ರಗಳ ನಡುವಿನ ದ್ವಿಪಕ್ಷೀಯ ಸಹಕಾರವನ್ನು ಮತ್ತಷ್ಟು ಬಲಪಡಿಸುತ್ತದೆ, ಪ್ರಾದೇಶಿಕ ಸಹಭಾಗಿತ್ವ ಮತ್ತು ಪರಸ್ಪರ ಅಭಿವೃದ್ಧಿಗೆ ಭಾರತದ ಬದ್ಧತೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "भारताने बांगलादेशला डिझेल पाठवले",
-                "content": "भारताने रेल्वेमार्गे बांगलादेशला 7,000 टन हाय-स्पीड डिझेल पाठवले आहे. हा महत्त्वपूर्ण पुरवठा जागतिक ऊर्जा आव्हानांदरम्यान बांगलादेशची ऊर्जा सुरक्षा मजबूत करण्यासाठी आणि त्याच्या ऊर्जा क्षेत्राला पाठिंबा देण्यासाठी आहे. या कृतीमुळे दोन्ही राष्ट्रांमधील द्विपक्षीय सहकार्य आणखी बळकट होते, ज्यामुळे प्रादेशिक भागीदारी आणि परस्पर विकासासाठी भारताची कटिबद्धता अधोरेखित होते."
-            },
-            "hi": {
-                "title": "भारत ने बांग्लादेश को डीजल भेजा",
-                "content": "भारत ने रेलवे के माध्यम से बांग्लादेश को 7,000 टन हाई-स्पीड डीजल भेजा है। यह महत्वपूर्ण आपूर्ति वैश्विक ऊर्जा चुनौतियों के बीच बांग्लादेश की ऊर्जा सुरक्षा को मजबूत करने और उसके बिजली क्षेत्र का समर्थन करने के उद्देश्य से है। यह कदम दोनों देशों के बीच द्विपक्षीय सहयोग को और मजबूत करता है, जो क्षेत्रीय साझेदारी और आपसी विकास के प्रति भारत की प्रतिबद्धता को उजागर करता है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129913712,imgsize-109440.cms",
-        "link": "https://timesofindia.indiatimes.com/india/india-sends-7000-tonnes-diesel-to-bangladesh/articleshow/129913706.cms",
-        "date": "2026-03-31T05:27:45+05:30"
     }
 ]
