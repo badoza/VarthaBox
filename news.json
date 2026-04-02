@@ -1,5 +1,30 @@
 [
     {
+        "id": "b5b2c008",
+        "category": "Sports",
+        "translations": {
+            "en": {
+                "title": "IPL 2026 Showdown: KKR, SRH Eye Maiden Victory",
+                "content": "The Indian Premier League 2026 clash sees Kolkata Knight Riders face Sunrisers Hyderabad in a crucial encounter. Both titans are yet to secure a win this season and will be desperate to break their duck. Fans can expect an intense battle as KKR and SRH vie for their maiden victory, making this a must-watch game."
+            },
+            "kn": {
+                "title": "IPL 2026 ಮುಖಾಮುಖಿ: KKR, SRH ಮೊದಲ ಗೆಲುವಿನ ನಿರೀಕ್ಷೆಯಲ್ಲಿ",
+                "content": "ಇಂಡಿಯನ್ ಪ್ರೀಮಿಯರ್ ಲೀಗ್ 2026ರ ನಿರ್ಣಾಯಕ ಪಂದ್ಯದಲ್ಲಿ ಕೋಲ್ಕತ್ತಾ ನೈಟ್ ರೈಡರ್ಸ್ ಸನ್ ರೈಸರ್ಸ್ ಹೈದರಾಬಾದ್ ವಿರುದ್ಧ ಸೆಣಸಾಡುತ್ತಿದೆ. ಎರಡೂ ತಂಡಗಳು ಈ ಸೀಸನ್‌ನಲ್ಲಿ ಇನ್ನೂ ಗೆಲುವು ಸಾಧಿಸಿಲ್ಲ ಮತ್ತು ತಮ್ಮ ಮೊದಲ ಗೆಲುವಿಗಾಗಿ ಹತಾಶವಾಗಿವೆ. KKR ಮತ್ತು SRH ತಮ್ಮ ಚೊಚ್ಚಲ ಗೆಲುವಿಗಾಗಿ ಪೈಪೋಟಿ ನಡೆಸುವುದರಿಂದ ಅಭಿಮಾನಿಗಳು ತೀವ್ರ ಹೋರಾಟವನ್ನು ನಿರೀಕ್ಷಿಸಬಹುದು, ಇದು ಕಡ್ಡಾಯವಾಗಿ ನೋಡಬೇಕಾದ ಪಂದ್ಯ."
+            },
+            "mr": {
+                "title": "IPL 2026 महामुकाबला: KKR, SRH पहिल्या विजयाच्या प्रतीक्षेत",
+                "content": "इंडियन प्रीमियर लीग 2026 च्या महत्त्वाच्या सामन्यात कोलकाता नाइट रायडर्स आणि सनरायझर्स हैदराबाद आमनेसामने आहेत. दोन्ही दिग्गजांना या हंगामात अजूनही विजय मिळालेला नाही आणि ते आपली पहिली विजयाची नोंद करण्यासाठी उत्सुक आहेत. KKR आणि SRH त्यांच्या पहिल्या विजयासाठी झुंज देत असल्याने चाहते तीव्र लढतीची अपेक्षा करू शकतात, हा एक अवश्य पाहण्यासारखा सामना आहे."
+            },
+            "hi": {
+                "title": "IPL 2026 महामुकाबला: KKR, SRH पहली जीत की तलाश में",
+                "content": "इंडियन प्रीमियर लीग 2026 के इस महत्वपूर्ण मुकाबले में कोलकाता नाइट राइडर्स का सामना सनराइजर्स हैदराबाद से हो रहा है। इस सीज़न में दोनों दिग्गज टीमें अभी तक जीत हासिल नहीं कर पाई हैं और अपनी पहली जीत दर्ज करने के लिए बेताब होंगी। KKR और SRH अपनी पहली जीत के लिए संघर्ष करेंगे, जिससे यह एक रोमांचक और अवश्य देखने वाला मैच बन गया है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129977258,imgsize-78498.cms",
+        "link": "https://timesofindia.indiatimes.com/sports/cricket/kkr-vs-srh-today-ipl-cricket-match-2026-live-score-kolkata-knight-riders-vs-sunrisers-hyderabad-match-scorecard-player-to-watch-playing-11-ipl-news-ajinkya-rahane-ishan-kishan-abhishek-sharma-rinku-singh-eden-gardens/liveblog/129977258.cms",
+        "date": "2026-04-02T16:42:35+05:30"
+    },
+    {
         "id": "c409b466",
         "category": "IPL Scoop",
         "translations": {
@@ -1973,30 +1998,5 @@
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
         "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOS2NOMzU4Zk9tWjJqNHNGbVl4WkFMZEN3N3RQRGxNTzNNc2VSb1A5SV9IVVItcGxUUkQ5aXhsUE5VbmpQSUtibm9MaFFyUl9LN1ZSYWNOVjNBMUlRTl9Xekp1Qndsb013a01yOTI2WjFlb3M4bTVLY3ZfdG9MUzJrcW1CUlY2TXJyU3ByQkt0d1dSUzZORlJTdk5wa2w4UWRPMTBLMXZVWS1FMlZjWF9LOTU4V0VtTjBqV3YyN3JMRVRWOG9hRjhGQTRJT3p3VnFURHVuUDlQenFqNlM3TWFzeHFMRkZxUkVwWXpDOVA1YTY0aDhkN29IcV9IOE9JdTIyVFNSUERSY2gyQdIBjwJBVV95cUxOT1NUUmVNV3BPTk9TNEFpNjRzNHNPaVo4X01Iem8tUFBadFBobi1wbGJmQV8tdXpjcTJweXZhazJuVVd0bHd0VkZqTjlwaFpObkliZks1cUpWRG9MZ0phMFJqTXBiLWdrZTBKX1N5dXpJWm03YTBNbTM1MnFxeEhpaUQwVXdtM1VsS3RTdFphWDIwaHdxbGdTTVVjV1pGRUlJTTcwT0wzX0pwVXRxdGQ1MDc0YVY2dmZBOURHdnUyQjk1SVdQVzJkdmRjcmloVXhobXNpVm5RMmRqdElVRkJMNVAyaDZTS3E4S29BT0lXN3pqV1ZjV1lkTUhpVUw4Ym0tS0hNWVNxSFExaVhUUFRv?oc=5",
         "date": "Tue, 31 Mar 2026 11:38:00 GMT"
-    },
-    {
-        "id": "124d4196",
-        "category": "Belagavi Core Politics",
-        "translations": {
-            "en": {
-                "title": "BEMUL Posts Rs 12.59 Cr Net Profit for FY 2025-26",
-                "content": "BEMUL has reported a net profit of Rs 12.59 crore for the financial year 2025-26. This impressive financial performance underscores the company's strong operational efficiency and strategic growth. The robust profit highlights BEMUL's resilience and effective management, signaling a positive outlook for future investments and market stability. This achievement reflects successful execution in a competitive landscape."
-            },
-            "kn": {
-                "title": "BEMUL ಆರ್ಥಿಕ ವರ್ಷ 2025-26 ಕ್ಕೆ 12.59 ಕೋಟಿ ರೂ. ನಿವ್ವಳ ಲಾಭ ದಾಖಲಿಸಿದೆ",
-                "content": "BEMUL ಆರ್ಥಿಕ ವರ್ಷ 2025-26 ಕ್ಕೆ 12.59 ಕೋಟಿ ರೂ. ನಿವ್ವಳ ಲಾಭವನ್ನು ವರದಿ ಮಾಡಿದೆ. ಈ ಗಮನಾರ್ಹ ಆರ್ಥಿಕ ಪ್ರದರ್ಶನವು ಕಂಪನಿಯ ಬಲವಾದ ಕಾರ್ಯಾಚರಣೆಯ ದಕ್ಷತೆ ಮತ್ತು ಕಾರ್ಯತಂತ್ರದ ಬೆಳವಣಿಗೆಯನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ. ಈ ದೃಢವಾದ ಲಾಭವು BEMUL ನ ಸ್ಥಿತಿಸ್ಥಾಪಕತ್ವ ಮತ್ತು ಪರಿಣಾಮಕಾರಿ ನಿರ್ವಹಣೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ, ಭವಿಷ್ಯದ ಹೂಡಿಕೆಗಳು ಮತ್ತು ಮಾರುಕಟ್ಟೆ ಸ್ಥಿರತೆಗೆ ಸಕಾರಾತ್ಮಕ ದೃಷ್ಟಿಕೋನವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಈ ಸಾಧನೆಯು ಸ್ಪರ್ಧಾತ್ಮಕ ವಾತಾವರಣದಲ್ಲಿ ಯಶಸ್ವಿ ಅನುಷ್ಠಾನವನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "BEMUL ने आर्थिक वर्ष 2025-26 साठी 12.59 कोटी रुपयांचा निव्वळ नफा नोंदवला",
-                "content": "BEMUL ने आर्थिक वर्ष 2025-26 साठी 12.59 कोटी रुपयांचा निव्वळ नफा नोंदवला आहे. ही प्रभावी आर्थिक कामगिरी कंपनीची मजबूत कार्यक्षम कार्यक्षमता आणि धोरणात्मक वाढ दर्शवते. हा दमदार नफा BEMUL ची लवचिकता आणि प्रभावी व्यवस्थापनावर प्रकाश टाकतो, ज्यामुळे भविष्यातील गुंतवणूक आणि बाजाराच्या स्थिरतेसाठी सकारात्मक दृष्टिकोन सूचित होतो. हे यश स्पर्धात्मक वातावरणातील यशस्वी अंमलबजावणी दर्शवते."
-            },
-            "hi": {
-                "title": "BEMUL ने वित्त वर्ष 2025-26 के लिए ₹12.59 करोड़ का शुद्ध लाभ दर्ज किया",
-                "content": "BEMUL ने वित्त वर्ष 2025-26 के लिए ₹12.59 करोड़ का शुद्ध लाभ दर्ज किया है। यह प्रभावशाली वित्तीय प्रदर्शन कंपनी की मजबूत परिचालन दक्षता और रणनीतिक विकास को दर्शाता है। यह ठोस लाभ BEMUL की लचीलापन और प्रभावी प्रबंधन को उजागर करता है, जो भविष्य के निवेश और बाजार स्थिरता के लिए एक सकारात्मक दृष्टिकोण का संकेत देता है। यह उपलब्धि प्रतिस्पर्धी परिदृश्य में सफल निष्पादन को दर्शाती है।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUHBsUVBQT2pucTZ3WlZWVFlWVlpCc2w3NVcxczdjdjBWTW5peEx0aWFobGhRRWN6bEpUQ3p3XzN6SzlTR0dkUGIwUEY3RjE2c215SkVrSDEtMTVFQWUxLUgyU0FjT3BBaHhCNHBocklKdGcwcEM3WWFvbmw4Uy0xT2pxR2FyV0FtQUxJaVJnRk1ONlZBNjZsRUpnU3FjYmtOZS1acGN6QQ?oc=5",
-        "date": "Tue, 31 Mar 2026 20:31:03 GMT"
     }
 ]
