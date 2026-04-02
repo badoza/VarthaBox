@@ -1,5 +1,30 @@
 [
     {
+        "id": "14b5c4f1",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "Duckett Faces Fine, Potential IPL Ban",
+                "content": "England cricketer Ben Duckett is reportedly facing a hefty fine and a potential ban from the Indian Premier League (IPL) following a disciplinary incident. Details surrounding the nature of the transgression are yet to be fully disclosed. This could significantly impact his career and future participation in high-profile T20 tournaments, adding uncertainty for the talented batsman."
+            },
+            "kn": {
+                "title": "ಡಕೆಟ್‌ಗೆ ದಂಡ, ಐಪಿಎಲ್ ನಿಷೇಧದ ಭೀತಿ",
+                "content": "ಇಂಗ್ಲೆಂಡ್ ಕ್ರಿಕೆಟಿಗ ಬೆನ್ ಡಕೆಟ್ ಶಿಸ್ತು ಕ್ರಮದ ಘಟನೆಯ ನಂತರ ಭಾರಿ ದಂಡ ಮತ್ತು ಇಂಡಿಯನ್ ಪ್ರೀಮಿಯರ್ ಲೀಗ್ (ಐಪಿಎಲ್) ನಿಂದ ಸಂಭಾವ್ಯ ನಿಷೇಧವನ್ನು ಎದುರಿಸುತ್ತಿದ್ದಾರೆ ಎಂದು ವರದಿಯಾಗಿದೆ. ಈ ಉಲ್ಲಂಘನೆಯ ಸ್ವರೂಪದ ವಿವರಗಳು ಇನ್ನೂ ಸಂಪೂರ್ಣವಾಗಿ ಬಹಿರಂಗಗೊಂಡಿಲ್ಲ. ಇದು ಅವರ ವೃತ್ತಿಜೀವನ ಮತ್ತು ಉನ್ನತ ಮಟ್ಟದ ಟಿ20 ಪಂದ್ಯಾವಳಿಗಳಲ್ಲಿ ಭವಿಷ್ಯದ ಭಾಗವಹಿಸುವಿಕೆಗೆ ಗಮನಾರ್ಹವಾಗಿ ಪರಿಣಾಮ ಬೀರಬಹುದು, ಅನಿಶ್ಚಿತತೆಯನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "डकेटला दंड, आयपीएल बंदीची शक्यता",
+                "content": "इंग्लंडचा क्रिकेटपटू बेन डकेटला शिस्तभंगाच्या घटनेनंतर मोठा दंड आणि इंडियन प्रीमियर लीग (आयपीएल) मधून संभाव्य बंदीचा सामना करावा लागत आहे. या उल्लंघनाच्या स्वरूपाचे तपशील अद्याप पूर्णपणे उघड झालेले नाहीत. यामुळे त्याच्या कारकिर्दीवर आणि उच्च-प्रोफाइल टी-२० स्पर्धांमधील भविष्यातील सहभागावर लक्षणीय परिणाम होऊ शकतो, ज्यामुळे अनिश्चितता वाढेल."
+            },
+            "hi": {
+                "title": "डकैट पर जुर्माना, संभावित आईपीएल प्रतिबंध",
+                "content": "इंग्लैंड के क्रिकेटर बेन डकेट अनुशासनात्मक घटना के बाद भारी जुर्माने और इंडियन प्रीमियर लीग (आईपीएल) से संभावित प्रतिबंध का सामना कर रहे हैं। उल्लंघन की प्रकृति के संबंध में विवरण अभी तक पूरी तरह से सामने नहीं आए हैं। यह उनके करियर और उच्च-स्तरीय टी20 टूर्नामेंट में भविष्य की भागीदारी पर महत्वपूर्ण प्रभाव डाल सकता है, जिससे अनिश्चितता बढ़ जाएगी।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYllDTnJjdzVlX052ZDRXRGh6LXIyUlMwN3NlY0hWU010Yy1EbWpUaUx4UllrNDRWdklCUWRZSy0zUzdYeGU2REJ5VnNRTFpKa2pjZ2g3cXdxV1NKcFNkaG81MjdSakhNSEFTS2dFWmtLRkhmaG5OX2JCeTgwV19rOHYyUGRxQWZBdzlPUmY3emtVTTZUYmVVLWlMX2QxR05KUXpJb0laWGRhU3ZQQjRTemlXQnpfU0JsS3hIZGNrZUdfS1NueVByQ2FLa2ZqX1lXSDE2bFRieWE?oc=5",
+        "date": "Thu, 02 Apr 2026 01:14:52 GMT"
+    },
+    {
         "id": "529a9925",
         "category": "IPL Scoop",
         "translations": {
@@ -1973,30 +1998,5 @@
         "image": "https://static.toiimg.com/photo/msid-129913614,imgsize-83978.cms",
         "link": "https://timesofindia.indiatimes.com/india/design-in-india-or-lose-subsidy-it-electronic-minister-ashwini-vaishnaw-tells-electronics-companies/articleshow/129913605.cms",
         "date": "2026-03-31T04:57:35+05:30"
-    },
-    {
-        "id": "169a8bc0",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "US Strikes Isfahan: Iran's Critical Military-Nuclear Hub Targeted",
-                "content": "US strikes target Isfahan, a critical city in Iran. Isfahan houses vital components of Iran's military and nuclear infrastructure, making it a strategic target. The strike highlights escalating tensions and raises questions about its impact on Iran's defense capabilities and controversial nuclear program. Its importance lies in its role as a central hub for these sensitive facilities."
-            },
-            "kn": {
-                "title": "ಅಮೆರಿಕದಿಂದ ಇಸ್ಫಹಾನ್ ಮೇಲೆ ದಾಳಿ: ಇರಾನ್‌ನ ಪ್ರಮುಖ ಸೇನಾ-ಪರಮಾಣು ಕೇಂದ್ರ ಗುರಿ",
-                "content": "ಅಮೆರಿಕ ಇರಾನ್‌ನ ಪ್ರಮುಖ ನಗರವಾದ ಇಸ್ಫಹಾನ್ ಮೇಲೆ ದಾಳಿ ನಡೆಸಿದೆ. ಇಸ್ಫಹಾನ್ ಇರಾನ್‌ನ ಸೇನಾ ಮತ್ತು ಪರಮಾಣು ಮೂಲಸೌಕರ್ಯದ ನಿರ್ಣಾಯಕ ಭಾಗಗಳನ್ನು ಹೊಂದಿದ್ದು, ಇದು ಒಂದು ಕಾರ್ಯತಂತ್ರದ ಗುರಿಯಾಗಿದೆ. ಈ ದಾಳಿ ಉಲ್ಬಣಗೊಳ್ಳುತ್ತಿರುವ ಉದ್ವಿಗ್ನತೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ ಮತ್ತು ಇರಾನ್‌ನ ರಕ್ಷಣಾ ಸಾಮರ್ಥ್ಯಗಳು ಹಾಗೂ ವಿವಾದಾತ್ಮಕ ಪರಮಾಣು ಕಾರ್ಯಕ್ರಮದ ಮೇಲೆ ಅದರ ಪರಿಣಾಮಗಳ ಬಗ್ಗೆ ಪ್ರಶ್ನೆಗಳನ್ನು ಹುಟ್ಟುಹಾಕುತ್ತದೆ. ಸೂಕ್ಷ್ಮ ಸೌಲಭ್ಯಗಳ ಕೇಂದ್ರವಾಗಿ ಇದರ ಮಹತ್ವವಿದೆ."
-            },
-            "mr": {
-                "title": "अमेरिकेने इस्फहानवर हल्ला केला: इराणचे महत्त्वाचे लष्करी-अणु केंद्र लक्ष्य",
-                "content": "अमेरिकेने इराणमधील महत्त्वपूर्ण शहर इस्फहानवर हल्ला केला आहे. इस्फहानमध्ये इराणच्या लष्करी आणि अणुऊर्जा पायाभूत सुविधांचे महत्त्वपूर्ण घटक आहेत, ज्यामुळे ते एक मोक्याचे लक्ष्य बनले आहे. या हल्ल्यामुळे वाढता तणाव दिसून येतो आणि इराणच्या संरक्षण क्षमता व वादग्रस्त अणुकार्यक्रमावर त्याच्या परिणामांबद्दल प्रश्न निर्माण होतात. या संवेदनशील सुविधांचे केंद्रीय केंद्र म्हणून त्याचे महत्त्व आहे."
-            },
-            "hi": {
-                "title": "अमेरिका का इस्फहान पर हमला: ईरान का महत्वपूर्ण सैन्य-परमाणु केंद्र निशाना",
-                "content": "अमेरिका ने ईरान के महत्वपूर्ण शहर इस्फहान पर हमले किए हैं। इस्फहान में ईरान के सैन्य और परमाणु बुनियादी ढांचे के महत्वपूर्ण घटक मौजूद हैं, जिससे यह एक रणनीतिक लक्ष्य बन गया है। यह हमला बढ़ते तनाव को उजागर करता है और ईरान की रक्षा क्षमताओं व विवादास्पद परमाणु कार्यक्रम पर इसके प्रभाव के बारे में सवाल उठाता है। इन संवेदनशील सुविधाओं के लिए यह एक केंद्रीय केंद्र है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129919277,imgsize-1840557.cms",
-        "link": "https://timesofindia.indiatimes.com/world/middle-east/us-strikes-isfahan-why-is-it-key-to-irans-military-nuclear-infrastructure/articleshow/129918765.cms",
-        "date": "2026-03-31T12:57:21+05:30"
     }
 ]
