@@ -1,5 +1,55 @@
 [
     {
+        "id": "2701f73b",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "NIA to Probe West Bengal Officer 'Hostage' Incident",
+                "content": "The Election Commission has handed the probe into the gherao of judicial officers in West Bengal's Malda to the National Investigation Agency (NIA). This follows strong Supreme Court criticism of the state's \"complete failure\" to protect officers during electoral roll revision. An NIA team will investigate the incident where officers were reportedly held against their will by villagers."
+            },
+            "kn": {
+                "title": "ಪಶ್ಚಿಮ ಬಂಗಾಳ ಅಧಿಕಾರಿ 'ಬಂಧನ' ಪ್ರಕರಣ: ಎನ್‌ಐಎ ತನಿಖೆ",
+                "content": "ಚುನಾವಣಾ ಆಯೋಗವು ಪಶ್ಚಿಮ ಬಂಗಾಳದ ಮಾಲ್ಡಾದಲ್ಲಿ ನ್ಯಾಯಾಂಗ ಅಧಿಕಾರಿಗಳ ಘೇರಾವ್ ಕುರಿತ ತನಿಖೆಯನ್ನು ರಾಷ್ಟ್ರೀಯ ತನಿಖಾ ಸಂಸ್ಥೆ (ಎನ್‌ಐಎ) ಗೆ ಹಸ್ತಾಂತರಿಸಿದೆ. ಮತದಾರರ ಪಟ್ಟಿ ಪರಿಷ್ಕರಣೆ ವೇಳೆ ಅಧಿಕಾರಿಗಳನ್ನು ರಕ್ಷಿಸುವಲ್ಲಿ ರಾಜ್ಯದ \"ಸಂಪೂರ್ಣ ವೈಫಲ್ಯ\" ಕ್ಕೆ ಸುಪ್ರೀಂ ಕೋರ್ಟ್ ತೀವ್ರ ಟೀಕೆ ವ್ಯಕ್ತಪಡಿಸಿದ ನಂತರ ಈ ನಿರ್ಧಾರ ಬಂದಿದೆ. ಗ್ರಾಮಸ್ಥರು ಅಧಿಕಾರಿಗಳನ್ನು 'ಬಂಧನದಲ್ಲಿ' ಇರಿಸಿದ್ದಾರೆ ಎನ್ನಲಾದ ಘಟನೆಯನ್ನು ಎನ್‌ಐಎ ತಂಡ ತನಿಖೆ ಮಾಡಲಿದೆ."
+            },
+            "mr": {
+                "title": "पश्चिम बंगाल: अधिकारी 'ओलीस' प्रकरण, एनआयए तपास",
+                "content": "निवडणूक आयोगाने पश्चिम बंगालमधील मालदा येथील न्यायदंडाधिकार्‍यांना घेराव घालण्याच्या घटनेचा तपास राष्ट्रीय तपास यंत्रणा (एनआयए) कडे सोपवला आहे. मतदार यादीच्या पुनरावृत्तीदरम्यान अधिकाऱ्यांचे संरक्षण करण्यात राज्याच्या \"संपूर्ण अपयशावर\" सर्वोच्च न्यायालयाने तीव्र टीका केल्यानंतर हा निर्णय आला आहे. गावकऱ्यांनी अधिकाऱ्यांना 'ओलीस' ठेवल्याच्या कथित घटनेचा एनआयए पथक तपास करेल."
+            },
+            "hi": {
+                "title": "पश्चिम बंगाल में अधिकारी 'बंधक' घटना की जांच करेगी एनआईए",
+                "content": "चुनाव आयोग ने पश्चिम बंगाल के मालदा में न्यायिक अधिकारियों के घेराव की जांच राष्ट्रीय जांच एजेंसी (एनआईए) को सौंप दी है. मतदाता सूची संशोधन के दौरान अधिकारियों की सुरक्षा में राज्य की \"पूरी तरह से विफलता\" पर सुप्रीम कोर्ट की कड़ी आलोचना के बाद यह कदम उठाया गया है. एनआईए की एक टीम उस घटना की जांच करेगी जहां कथित तौर पर ग्रामीणों द्वारा अधिकारियों को बंधक बनाया गया था."
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129985647,imgsize-1009093.cms",
+        "link": "https://timesofindia.indiatimes.com/india/west-bengal-poll-chaos-villagers-hold-sir-officers-hostage-ec-asks-nia-to-probe-case/articleshow/129985658.cms",
+        "date": "2026-04-02T23:11:03+05:30"
+    },
+    {
+        "id": "ccb346d1",
+        "category": "Sports",
+        "translations": {
+            "en": {
+                "title": "First Win Hunt: KKR Bowls vs SRH, Shivang Debuts!",
+                "content": "IPL 2026: KKR won the toss against SRH and chose to bowl. Both teams, having lost their opening matches, are eager for their first win. KKR fields an unchanged lineup, while SRH brings in Shivang Kumar for his debut. Captains Rahane and Kishan emphasize execution in this early-season showdown. Don't miss the action!"
+            },
+            "kn": {
+                "title": "ಮೊದಲ ಜಯದ ಬೇಟೆ: KKR vs SRH, ಶಿವಾಂಗ್ ಪದಾರ್ಪಣೆ!",
+                "content": "ಐಪಿಎಲ್ 2026: KKR ಟಾಸ್ ಗೆದ್ದು SRH ವಿರುದ್ಧ ಬೌಲಿಂಗ್ ಆಯ್ಕೆ ಮಾಡಿದೆ. ತಮ್ಮ ಮೊದಲ ಪಂದ್ಯಗಳನ್ನು ಸೋತಿರುವ ಎರಡೂ ತಂಡಗಳು ಮೊದಲ ಗೆಲುವಿಗೆ ತುದಿಗಾಲಲ್ಲಿವೆ. KKR ಯಾವುದೇ ಬದಲಾವಣೆಯಿಲ್ಲದ ತಂಡದೊಂದಿಗೆ ಕಣಕ್ಕಿಳಿದಿದೆ, ಆದರೆ SRH ಶಿವಾಂಗ್ ಕುಮಾರ್‌ಗೆ ಪದಾರ್ಪಣೆ ಅವಕಾಶ ನೀಡಿದೆ. ನಾಯಕರು ರಹಾನೆ ಮತ್ತು ಕಿಶನ್ ಈ ಆರಂಭಿಕ ಪಂದ್ಯದಲ್ಲಿ ಉತ್ತಮ ಪ್ರದರ್ಶನ ನೀಡುವತ್ತ ಗಮನಹರಿಸಿದ್ದಾರೆ. ಆಕ್ಷನ್ ಮಿಸ್ ಮಾಡಬೇಡಿ!"
+            },
+            "mr": {
+                "title": "पहिल्या विजयाची शोध: KKR vs SRH, शिवांगचे पदार्पण!",
+                "content": "आयपीएल २०२६: केकेआरने एसआरएचविरुद्ध टॉस जिंकून गोलंदाजीचा निर्णय घेतला. आपले पहिले सामने गमावलेल्या दोन्ही संघांना पहिल्या विजयाची ओढ आहे. केकेआरने अपरिवर्तित संघ कायम ठेवला आहे, तर एसआरएचने शिवांग कुमारला पदार्पणाची संधी दिली आहे. कर्णधार रहाणे आणि किशन या मोसमातील सुरुवातीच्या सामन्यात खेळाच्या अंमलबजावणीवर लक्ष केंद्रित करत आहेत. ही रोमांचक लढत चुकवू नका!"
+            },
+            "hi": {
+                "title": "पहली जीत की तलाश: KKR बनाम SRH, शिवांग का डेब्यू!",
+                "content": "आईपीएल 2026: केकेआर ने एसआरएच के खिलाफ टॉस जीतकर गेंदबाजी चुनी। अपने शुरुआती मैच हारने के बाद, दोनों टीमें अपनी पहली जीत के लिए बेताब हैं। केकेआर ने अपनी अपरिवर्तित लाइनअप बरकरार रखी है, जबकि एसआरएच ने शिवांग कुमार को पदार्पण का मौका दिया है। कप्तान रहाणे और किशन इस शुरुआती मुकाबले में खेल के निष्पादन पर ध्यान केंद्रित कर रहे हैं। एक्शन मिस न करें!"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129981318,imgsize-354748.cms",
+        "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-shivang-kumar-debuts-as-kkr-opt-to-bowl-against-srh/articleshow/129981226.cms",
+        "date": "2026-04-02T19:27:33+05:30"
+    },
+    {
         "id": "de4915a2",
         "category": "National",
         "translations": {
@@ -1948,55 +1998,5 @@
         "image": "https://static.toiimg.com/photo/msid-129941409,imgsize-102216.cms",
         "link": "https://timesofindia.indiatimes.com/world/middle-east/uae-news-indian-schools-announce-dates-for-new-academic-year-classes-to-be-conducted-online/articleshow/129941409.cms",
         "date": "2026-04-01T10:05:35+05:30"
-    },
-    {
-        "id": "ee250993",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "Pink Moon Alert: UAE Skies to Shine",
-                "content": "The spectacular Pink Moon is set to grace UAE skies soon! While it's a full moon, its name comes from spring flowers. Skygazers can prepare to witness this celestial event. Details on specific dates, timings, and prime observation spots, including best desert locations for an unobstructed view, will be crucial for an unforgettable experience. Don't miss this vibrant lunar display!"
-            },
-            "kn": {
-                "title": "ಪಿಂಕ್ ಮೂನ್ ಎಚ್ಚರಿಕೆ: ಯುಎಇ ಆಕಾಶದಲ್ಲಿ ಹೊಳೆಯಲಿದೆ",
-                "content": "ಅದ್ಭುತವಾದ ಪಿಂಕ್ ಮೂನ್ ಶೀಘ್ರದಲ್ಲೇ ಯುಎಇ ಆಕಾಶವನ್ನು ಅಲಂಕರಿಸಲಿದೆ! ಇದು ಪೂರ್ಣ ಚಂದ್ರನಾಗಿದ್ದರೂ, ಇದರ ಹೆಸರು ವಸಂತ ಋತುವಿನ ಹೂವುಗಳಿಂದ ಬಂದಿದೆ. ಆಕಾಶ ವೀಕ್ಷಕರು ಈ ಆಕಾಶ ಘಟನೆಯನ್ನು ವೀಕ್ಷಿಸಲು ಸಿದ್ಧರಾಗಬಹುದು. ನಿರ್ದಿಷ್ಟ ದಿನಾಂಕಗಳು, ಸಮಯಗಳು ಮತ್ತು ಪ್ರಮುಖ ವೀಕ್ಷಣಾ ಸ್ಥಳಗಳು, ಅಡೆತಡೆಯಿಲ್ಲದ ವೀಕ್ಷಣೆಗಾಗಿ ಉತ್ತಮ ಮರುಭೂಮಿ ಸ್ಥಳಗಳು ಸೇರಿದಂತೆ, ಮರೆಯಲಾಗದ ಅನುಭವಕ್ಕಾಗಿ ನಿರ್ಣಾಯಕವಾಗಿವೆ. ಈ ರೋಮಾಂಚಕ ಚಂದ್ರನ ಪ್ರದರ್ಶನವನ್ನು ತಪ್ಪಿಸಿಕೊಳ್ಳಬೇಡಿ!"
-            },
-            "mr": {
-                "title": "पिंक मून अलर्ट: यूएईचे आकाश उजळणार",
-                "content": "आकर्षक पिंक मून लवकरच यूएईच्या आकाशात दिसणार आहे! जरी तो पौर्णिमेचा चंद्र असला तरी, त्याचे नाव वसंत ऋतूतील फुलांवरून आले आहे. आकाश निरीक्षकांनी या खगोलीय घटनेचे साक्षीदार होण्यासाठी तयारी करावी. अचूक तारखा, वेळा आणि प्रमुख निरीक्षण स्थळे, ज्यात निर्बाध दृश्यासाठी सर्वोत्तम वाळवंटी ठिकाणांचा समावेश आहे, अविस्मरणीय अनुभवासाठी महत्त्वाचे असतील. या तेजस्वी चंद्र प्रदर्शनाची संधी गमावू नका!"
-            },
-            "hi": {
-                "title": "पिंक मून अलर्ट: यूएई का आसमान चमकेगा",
-                "content": "शानदार पिंक मून जल्द ही यूएई के आसमान की शोभा बढ़ाएगा! हालांकि यह पूर्णिमा का चंद्रमा है, इसका नाम वसंत के फूलों से आया है। खगोलविद इस खगोलीय घटना को देखने के लिए तैयार हो सकते हैं। विशिष्ट तिथियों, समयों और प्रमुख अवलोकन स्थलों, जिसमें निर्बाध दृश्य के लिए सर्वश्रेष्ठ रेगिस्तानी स्थान शामिल हैं, का विवरण एक अविस्मरणीय अनुभव के लिए महत्वपूर्ण होगा। इस जीवंत चंद्र प्रदर्शन को देखना न भूलें!"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129940603,imgsize-60012.cms",
-        "link": "https://timesofindia.indiatimes.com/world/middle-east/uae-news-pink-moon-to-appear-in-uae-skies-soon-check-out-dates-timings-observation-points-and-best-spots-for-viewing/articleshow/129940603.cms",
-        "date": "2026-04-01T09:15:24+05:30"
-    },
-    {
-        "id": "c7910094",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "Myanmar Resistance Vows to Oust Junta-Backed Government",
-                "content": "Myanmar's resistance groups have vowed to overthrow the military-backed civilian government. This renewed pledge signifies escalating defiance against the junta's influence on the country's political landscape. They aim to restore democratic rule and end the military's grip, intensifying the ongoing conflict and challenging the legitimacy of the current administration."
-            },
-            "kn": {
-                "title": "ಮ್ಯಾನ್ಮಾರ್ ಪ್ರತಿರೋಧ: ಸೇನಾ-ಬೆಂಬಲಿತ ಸರ್ಕಾರವನ್ನು ಪದಚ್ಯುತಗೊಳಿಸಲು ಶಪಥ",
-                "content": "ಮ್ಯಾನ್ಮಾರ್‌ನ ಪ್ರತಿರೋಧ ಗುಂಪುಗಳು ಸೇನಾ-ಬೆಂಬಲಿತ ನಾಗರಿಕ ಸರ್ಕಾರವನ್ನು ಉರುಳಿಸಲು ಪ್ರತಿಜ್ಞೆ ಮಾಡಿವೆ. ಈ ನವೀಕೃತ ಪ್ರತಿಜ್ಞೆಯು ದೇಶದ ರಾಜಕೀಯದಲ್ಲಿ ಸೇನಾ ಪ್ರಭಾವದ ವಿರುದ್ಧ ಹೆಚ್ಚುತ್ತಿರುವ ವಿರೋಧವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಪ್ರಜಾಪ್ರಭುತ್ವ ಆಡಳಿತವನ್ನು ಮರುಸ್ಥಾಪಿಸಲು ಮತ್ತು ಸೇನೆಯ ಹಿಡಿತವನ್ನು ಕೊನೆಗೊಳಿಸಲು ಅವರು ಗುರಿಯಿಟ್ಟಿದ್ದಾರೆ, ಇದು ನಡೆಯುತ್ತಿರುವ ಸಂಘರ್ಷವನ್ನು ತೀವ್ರಗೊಳಿಸಿ ಪ್ರಸ್ತುತ ಆಡಳಿತದ ಸಿಂಧುತ್ವವನ್ನು ಪ್ರಶ್ನಿಸುತ್ತಿದೆ."
-            },
-            "mr": {
-                "title": "म्यानमार प्रतिकार: लष्कर-समर्थित सरकारला पदच्युत करण्याचे वचन",
-                "content": "म्यानमारच्या प्रतिकार गटांनी लष्कर-समर्थित नागरी सरकारला पदच्युत करण्याची प्रतिज्ञा केली आहे. ही नवीन प्रतिज्ञा देशाच्या राजकीय भूमितीवरील लष्कराच्या प्रभावाविरुद्ध वाढत्या विरोधाचे प्रतीक आहे. त्यांचे उद्दीष्ट लोकशाही शासन पुनर्संचयित करणे आणि लष्कराची पकड संपवणे आहे, ज्यामुळे सध्याचा संघर्ष तीव्र होत आहे आणि सध्याच्या प्रशासनाच्या वैधतेला आव्हान दिले जात आहे."
-            },
-            "hi": {
-                "title": "म्यांमार प्रतिरोध: सैन्य-समर्थित सरकार को गिराने का संकल्प",
-                "content": "म्यांमार के प्रतिरोध समूहों ने सैन्य-समर्थित नागरिक सरकार को उखाड़ फेंकने का संकल्प लिया है। यह नई प्रतिज्ञा देश के राजनीतिक परिदृश्य पर सैन्य प्रभाव के खिलाफ बढ़ते विरोध को दर्शाती है। उनका लक्ष्य लोकतांत्रिक शासन बहाल करना और सेना की पकड़ को समाप्त करना है, जिससे चल रहे संघर्ष को और तेज किया जा रहा है और वर्तमान प्रशासन की वैधता को चुनौती दी जा रही है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129939439,imgsize-86974.cms",
-        "link": "https://timesofindia.indiatimes.com/world/rest-of-world/myanmar-resistance-groups-pledge-to-oust-military-backed-civilian-government/articleshow/129939401.cms",
-        "date": "2026-04-01T07:45:18+05:30"
     }
 ]
