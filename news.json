@@ -1,5 +1,555 @@
 [
     {
+        "id": "6a051dc5",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "Lalit Modi Slams Sanjiv Goenka Over Rishabh Pant Incident",
+                "content": "Former IPL Chairman Lalit Modi fiercely criticized LSG owner Sanjiv Goenka, stating he \"would have banned him\" after the recent Rishabh Pant incident. Goenka had publicly reprimanded Pant following LSG's loss to DC, drawing widespread backlash. Modi's strong reaction adds to the controversy surrounding Goenka's conduct."
+            },
+            "kn": {
+                "title": "ಲಲಿತ್ ಮೋದಿ ಅವರಿಂದ ಸಂಜೀವ್ ಗೋಯೆಂಕಾ ರಿಷಭ್ ಪಂತ್ ಘಟನೆಗೆ ತೀವ್ರ ತರಾಟೆ",
+                "content": "ಮಾಜಿ ಐಪಿಎಲ್ ಅಧ್ಯಕ್ಷ ಲಲಿತ್ ಮೋದಿ, ಎಲ್‌ಎಸ್‌ಜಿ ಮಾಲೀಕ ಸಂಜೀವ್ ಗೋಯೆಂಕಾ ಅವರನ್ನು ಇತ್ತೀಚಿನ ರಿಷಭ್ ಪಂತ್ ಘಟನೆ ನಂತರ ತೀವ್ರವಾಗಿ ಟೀಕಿಸಿದ್ದಾರೆ. ಗೋಯೆಂಕಾ ಅವರನ್ನು \"ನಿಷೇಧಿಸುತ್ತಿದ್ದೆ\" ಎಂದು ಮೋದಿ ಹೇಳಿದರು. ಡಿ.ಸಿ. ವಿರುದ್ಧ ಎಲ್‌ಎಸ್‌ಜಿ ಸೋತ ನಂತರ ಗೋಯೆಂಕಾ ಪಂತ್‌ಗೆ ಸಾರ್ವಜನಿಕವಾಗಿ ತರಾಟೆಗೆ ತೆಗೆದುಕೊಂಡಿದ್ದರು. ಮೋದಿ ಅವರ ತೀಕ್ಷ್ಣ ಪ್ರತಿಕ್ರಿಯೆ ಗೋಯೆಂಕಾ ಅವರ ವರ್ತನೆಯ ಸುತ್ತಲಿನ ವಿವಾದಕ್ಕೆ ಮತ್ತಷ್ಟು ಸೇರಿಸಿದೆ."
+            },
+            "mr": {
+                "title": "ललित मोदींनी ऋषभ पंत प्रकरणी संजीव गोयंकांवर साधला निशाणा",
+                "content": "माजी आयपीएल अध्यक्ष ललित मोदी यांनी एलएसजीचे मालक संजीव गोयंकांवर ऋषभ पंतच्या ताज्या प्रकरणानंतर तीव्र टीका केली आहे. \"मी त्याला (गोयंकाला) बॅन केले असते,\" असे मोदी म्हणाले. डीसीविरुद्ध एलएसजीच्या पराभवानंतर गोयंकांनी पंतला सार्वजनिकरित्या फटकारले होते, ज्यामुळे त्यांना टीकेचा सामना करावा लागला. मोदींच्या या तीव्र प्रतिक्रियेमुळे गोयंकांच्या वर्तणुकीभोवतीचा वाद अधिकच वाढला आहे."
+            },
+            "hi": {
+                "title": "ललित मोदी ने ऋषभ पंत विवाद पर संजीव गोयनका को लताड़ा",
+                "content": "पूर्व आईपीएल अध्यक्ष ललित मोदी ने हाल ही में ऋषभ पंत की घटना के बाद एलएसजी के मालिक संजीव गोयनका की कड़ी आलोचना की है. मोदी ने कहा कि वह \"उन्हें (गोयनका को) प्रतिबंधित कर देते\". डीसी के खिलाफ एलएसजी की हार के बाद गोयनका ने पंत को सार्वजनिक रूप से फटकारा था, जिससे व्यापक प्रतिक्रिया हुई. मोदी की कड़ी प्रतिक्रिया से गोयनका के आचरण को लेकर विवाद और बढ़ गया है."
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdVBRVTMzLXJtUExrSzZVQzF3Q2xRLW1RNHRweDBDZ3VqSk90NkpGUDJ2YlVrZG1YYTVTQk9EMHdCYkNrb0F1bHIwUGxTR3ZJSkl4QnZoRUlCN3FuSDNnODUyS1I3cUJtU2dNbEJrczFSaV81eV91andTUGt0emFNcm9KdjROLVVQdEpuNXpWeHo1eU9tYV9WV2VlSENHcXZhMWdjNUxEekpqWUkxU2xoRUhYcS1kcjN6VHlZZDkxMEMtaGxtTmFWbmJQd3ZBOVhNaWJGd2VRZ2JWLWstZGtxbjhoX0dEQTMzYkJzTm5R?oc=5",
+        "date": "Fri, 03 Apr 2026 04:32:42 GMT"
+    },
+    {
+        "id": "f1035a1e",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "SRH's Stunning Defense Rocks IPL; KKR's Batting Implodes",
+                "content": "SRH defied expectations by successfully defending a total in a thrilling IPL encounter, showcasing a strategic shift. This win has significant implications for their campaign. Meanwhile, KKR faces mounting concerns as their batting lineup dramatically imploded, leading to a comprehensive defeat. Their inconsistent performance is now a major headache, demanding immediate attention and tactical adjustments for future matches."
+            },
+            "kn": {
+                "title": "SRH ನ ಅದ್ಭುತ ರಕ್ಷಣೆ ಐಪಿಎಲ್ ಅನ್ನು ಅಲ್ಲಾಡಿಸಿತು; KKR ನ ಬ್ಯಾಟಿಂಗ್ ಕುಸಿಯಿತು",
+                "content": "ರೋಮಾಂಚಕ ಐಪಿಎಲ್ ಪಂದ್ಯದಲ್ಲಿ, SRH ಯಶಸ್ವಿಯಾಗಿ ಮೊತ್ತವನ್ನು ರಕ್ಷಿಸುವ ಮೂಲಕ ನಿರೀಕ್ಷೆಗಳನ್ನು ಮೀರಿ ನಿಂತಿತು, ಇದು ಕಾರ್ಯತಂತ್ರದ ಬದಲಾವಣೆಯನ್ನು ಪ್ರದರ್ಶಿಸಿತು. ಈ ಗೆಲುವು ಅವರ ಅಭಿಯಾನಕ್ಕೆ ಮಹತ್ವದ ಪರಿಣಾಮಗಳನ್ನು ಹೊಂದಿದೆ. ಈ ಮಧ್ಯೆ, KKR ನ ಬ್ಯಾಟಿಂಗ್ ಲೈನ್ ಅಪ್ ನಾಟಕೀಯವಾಗಿ ಕುಸಿದು ಸಂಪೂರ್ಣ ಸೋಲಿಗೆ ಕಾರಣವಾದ್ದರಿಂದ ಹೆಚ್ಚುತ್ತಿರುವ ಆತಂಕಗಳನ್ನು ಎದುರಿಸುತ್ತಿದೆ. ಅವರ ಅಸ್ಥಿರ ಪ್ರದರ್ಶನವು ಈಗ ದೊಡ್ಡ ತಲೆನೋವಾಗಿದೆ, ಭವಿಷ್ಯದ ಪಂದ್ಯಗಳಿಗೆ ತಕ್ಷಣದ ಗಮನ ಮತ್ತು ಯುದ್ಧತಂತ್ರದ ಹೊಂದಾಣಿಕೆಗಳನ್ನು ಬಯಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "SRH च्या अप्रतिम बचावाने IPL हादरले; KKR ची फलंदाजी कोसळली",
+                "content": "एका रोमांचक आयपीएल सामन्यात, SRH ने धावसंख्या यशस्वीपणे वाचवत अपेक्षांना बगल दिली, ज्यामुळे त्यांच्या रणनीतीत बदल दिसून आला. या विजयाचे त्यांच्या मोहिमेवर महत्त्वपूर्ण परिणाम होतील. दरम्यान, KKR ची फलंदाजी नाट्यमयरित्या कोसळल्याने त्यांना मोठा पराभव पत्करावा लागला, ज्यामुळे त्यांची चिंता वाढत आहे. त्यांची अस्थिर कामगिरी आता मोठी डोकेदुखी बनली आहे, ज्यासाठी पुढील सामन्यांसाठी त्वरित लक्ष आणि रणनीतिक समायोजनांची आवश्यकता आहे."
+            },
+            "hi": {
+                "title": "SRH के शानदार बचाव से IPL में खलबली; KKR की बल्लेबाजी ढेर",
+                "content": "एक रोमांचक आईपीएल मुकाबले में, SRH ने सफलतापूर्वक टोटल का बचाव कर उम्मीदों को धता बताया, जो एक रणनीतिक बदलाव को दर्शाता है। इस जीत के उनके अभियान के लिए महत्वपूर्ण निहितार्थ हैं। वहीं, KKR की बल्लेबाजी लाइनअप नाटकीय रूप से ध्वस्त हो गई, जिससे उन्हें करारी हार मिली और उनकी चिंताएं बढ़ गईं। उनका असंगत प्रदर्शन अब एक बड़ी सिरदर्द है, जिसके लिए भविष्य के मैचों हेतु तत्काल ध्यान और सामरिक समायोजन की आवश्यकता है।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQRlJqeVNDdldQUEVCWDBEQkRmUDc4SEc1UFV0QmV6LW1TN2ZNRzJXUFk1RHJwOHJXYnNnZ2p4dHhJdGZMZjBCR0FRMGk3LWl4YVBUYjdJbzhCR3hpVHVMVWpWRHdJNkFYYnFLN1UzQUg3MEhPSHg1TXFnUHhHZTlpX0hyM0p0VWdWNFk2cVNfQ3dkdTBpbS1XaWFOaXIzOWdvOExVZDFjLWxoNFJjQWxJem1lVElXVjVPb1A3VVprMXNmaWgxaTBaRlp4a2VScXNlWllDLWRSZDlDeXRmam5vbU9ibzgtWE55aDUycDNkRGlRMmNyTnAyMFU3cErSAfwBQVVfeXFMUEZSanlTQ3ZXUFBFQlgwREJEZlA3OEhHNVBVdEJlei1tUzdmTUcyV1BZNURycDhyV2JzZ2dqeHR4SXRmTGYwQkdBUTBpNy1peGFQVGI3SW84Qkd4aVR1TFVqVkR3STZBWGJxSzdVM0FINzBIT0h4NU1xZ1B4R2U5aV9IcjNKdFVnVjRZNnFTX0N3ZHUwaW0tV2lhTmlyMzlnbzhMVWQxYy1saDRSY0FsSXptZVRJV1Y1T29QN1VaazFzZmloMWkwWkZaeGtlUnFzZVpZQy1kUmQ5Q3l0Zmpub21PYm84LVhOeWg1MnAzZERpUTJjck5wMjBVN3BK?oc=5",
+        "date": "Fri, 03 Apr 2026 00:45:15 GMT"
+    },
+    {
+        "id": "f863d66d",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "CBSE Denies Viral QR Code Links",
+                "content": "CBSE has clarified the controversy surrounding QR codes on answer sheets, denying any links to viral personalities like Orry or Rick Astley. The board stated these codes are strictly for internal processing and warned against spreading misinformation. CBSE urged students and the public to disregard speculative claims and rely only on official communications regarding examination procedures."
+            },
+            "kn": {
+                "title": "ಸಿಬಿಎಸ್‌ಇ ವೈರಲ್ ಕ್ಯೂಆರ್ ಕೋಡ್ ಸಂಪರ್ಕಗಳನ್ನು ನಿರಾಕರಿಸಿದೆ",
+                "content": "ಸಿಬಿಎಸ್‌ಇ ಉತ್ತರ ಪತ್ರಿಕೆಗಳ ಮೇಲಿನ ಕ್ಯೂಆರ್ ಕೋಡ್‌ಗಳ ವಿವಾದವನ್ನು ಸ್ಪಷ್ಟಪಡಿಸಿದೆ, ಒರಿ ಅಥವಾ ರಿಕ್ ಆಸ್ಟ್ಲಿ ಅವರಂತಹ ವೈರಲ್ ವ್ಯಕ್ತಿಗಳೊಂದಿಗೆ ಯಾವುದೇ ಸಂಪರ್ಕವನ್ನು ನಿರಾಕರಿಸಿದೆ. ಮಂಡಳಿಯು ಈ ಕೋಡ್‌ಗಳು ಆಂತರಿಕ ಪ್ರಕ್ರಿಯೆಗಳಿಗೆ ಮಾತ್ರ ಎಂದು ಹೇಳಿದೆ ಮತ್ತು ತಪ್ಪು ಮಾಹಿತಿ ಹರಡುವುದರ ವಿರುದ್ಧ ಎಚ್ಚರಿಕೆ ನೀಡಿದೆ. ಸಿಬಿಎಸ್‌ಇ ವಿದ್ಯಾರ್ಥಿಗಳು ಮತ್ತು ಸಾರ್ವಜನಿಕರಿಗೆ ಊಹಾತ್ಮಕ ಹೇಳಿಕೆಗಳನ್ನು ನಿರ್ಲಕ್ಷಿಸಲು ಮತ್ತು ಪರೀಕ್ಷಾ ಕಾರ್ಯವಿಧಾನಗಳ ಕುರಿತು ಅಧಿಕೃತ ಸಂವಹನಗಳನ್ನು ಮಾತ್ರ ಅವಲಂಬಿಸಲು ವಿನಂತಿಸಿದೆ."
+            },
+            "mr": {
+                "title": "सीबीएसईने व्हायरल क्यूआर कोड संबंध नाकारले",
+                "content": "सीबीएसईने उत्तरपत्रिकांवरील क्यूआर कोडच्या वादळावर स्पष्टीकरण दिले आहे, ओरी किंवा रिक ॲस्टलीसारख्या व्हायरल व्यक्तिमत्त्वांशी कोणतेही संबंध नाकारले आहेत. बोर्डाने सांगितले की हे कोड केवळ अंतर्गत प्रक्रियेसाठी आहेत आणि चुकीची माहिती पसरवण्याबद्दल इशारा दिला. सीबीएसईने विद्यार्थ्यांना आणि जनतेला सट्टा लावणाऱ्या दाव्यांकडे दुर्लक्ष करून केवळ परीक्षा प्रक्रियांबद्दलच्या अधिकृत माहितीवर अवलंबून राहण्याचे आवाहन केले."
+            },
+            "hi": {
+                "title": "सीबीएसई ने वायरल क्यूआर कोड लिंक से इनकार किया",
+                "content": "सीबीएसई ने उत्तर पुस्तिकाओं पर क्यूआर कोड को लेकर चल रहे विवाद को स्पष्ट किया है, जिसमें ओरी या रिक एस्टली जैसे वायरल हस्तियों से किसी भी संबंध से इनकार किया गया है। बोर्ड ने कहा कि ये कोड कड़ाई से आंतरिक प्रक्रियाओं के लिए हैं और गलत सूचना फैलाने के खिलाफ चेतावनी दी। सीबीएसई ने छात्रों और जनता से अटकलबाजी वाले दावों को नजरअंदाज करने और परीक्षा प्रक्रियाओं के संबंध में केवल आधिकारिक संचार पर भरोसा करने का आग्रह किया।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNWC1uLVBjNE8zU2Z1cFZYc0VmU0hhOUlzQ2lLUC1yMTAxdnE1THotdmJhU185VmxUX09LVWtjSUl0V3FsTHpnMVZhb3gyYl9mVFc1aEhYVUluOWV0WkVnZjZsSlpmTTYtUjhxV0hnOHRfeGk5UExoSV9LZnlubXVwWlpvalFIWTZNMW9VNnEyOHZ3SW9xVzBTN2xFUGhOZXh2MG1nUWNHY1pta190S0FmQmFLbTY3WmRzSFJTQ25GNWN0dWpGWm1CM2RscUsxbTF3Z0lxbzJUTkJITzhLRVBSSGtrZFpleG44QXpUM202eUlETXhadGJZZDRzZGx3TG5vVFBETmphd0s5Wk5W0gGSAkFVX3lxTE1SV09EaVVveDFvRXBmX1FjV1Y1bWxrcGZnREZuR2ZIbnMxc0ZhdzlLeUlmckxxeVM1NlF5ZVhjUmRQTFlqNXVFVlpIaVFkQmJwN2E3a0w1c2t5SjkzYXlKbXNFRWtfNzZhRnVOWHFPLWpxbDE5aURya0hqLWdIbzlKZ1RLQnFjQlJPRjBVbVZheGZ2MDJTazRwZl96US1rQmNhMi00eHJKUklWR1p4OEJPX180LTFWaGVXVE1KMDc1SWNBNnVVcm9YclNySHdUa3hNZlQwU2ZvbVRmNEc4dmg0dXU5a2h1WllDTjBXNERMRkg3ZmEyN3kweW80X3IxT2N0dlNzWTJBanRWX1FRRFRXMlE?oc=5",
+        "date": "Fri, 03 Apr 2026 03:27:00 GMT"
+    },
+    {
+        "id": "82a40000",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "Aries: Health Alert for April 3, 2026",
+                "content": "Aries, April 3, 2026: Your horoscope suggests heightened health awareness today. Be cautious, especially with underlying or previously ignored ailments. Proactively addressing these hidden concerns is vital for your well-being. Don't let subtle symptoms go unnoticed."
+            },
+            "kn": {
+                "title": "ಮೇಷ ರಾಶಿ: ಏಪ್ರಿಲ್ 3, 2026 ರ ಆರೋಗ್ಯ ಎಚ್ಚರಿಕೆ",
+                "content": "ಮೇಷ ರಾಶಿ, ಏಪ್ರಿಲ್ 3, 2026: ನಿಮ್ಮ ರಾಶಿ ಭವಿಷ್ಯವು ಇಂದು ಹೆಚ್ಚಿದ ಆರೋಗ್ಯ ಜಾಗೃತಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ವಿಶೇಷವಾಗಿ ಆಧಾರವಾಗಿರುವ ಅಥವಾ ಹಿಂದೆ ನಿರ್ಲಕ್ಷಿಸಿದ ಕಾಯಿಲೆಗಳ ಬಗ್ಗೆ ಜಾಗರೂಕರಾಗಿರಿ. ಈ ಗುಪ್ತ ಕಾಳಜಿಗಳನ್ನು ಸಕ್ರಿಯವಾಗಿ ಪರಿಹರಿಸುವುದು ನಿಮ್ಮ ಯೋಗಕ್ಷೇಮಕ್ಕೆ ಅತ್ಯಗತ್ಯ. ಸೂಕ್ಷ್ಮ ಲಕ್ಷಣಗಳನ್ನು ಗಮನಿಸದೆ ಬಿಡಬೇಡಿ."
+            },
+            "mr": {
+                "title": "मेष रास: 3 एप्रिल 2026 साठी आरोग्य सूचना",
+                "content": "मेष रास, 3 एप्रिल 2026: तुमची राशी आज वाढीव आरोग्य जागरूकतेची सूचना देते. विशेषतः अंतर्निहित किंवा यापूर्वी दुर्लक्षित केलेल्या आजारांबद्दल सावध रहा. या लपलेल्या समस्यांवर सक्रियपणे लक्ष देणे तुमच्या आरोग्यासाठी महत्त्वाचे आहे. सूक्ष्म लक्षणांकडे दुर्लक्ष करू नका."
+            },
+            "hi": {
+                "title": "मेष राशि: 3 अप्रैल 2026 के लिए स्वास्थ्य अलर्ट",
+                "content": "मेष राशि, 3 अप्रैल 2026: आपकी राशिफल आज बढ़ी हुई स्वास्थ्य जागरूकता का सुझाव देती है। विशेष रूप से अंतर्निहित या पहले अनदेखी की गई बीमारियों के प्रति सतर्क रहें। इन छिपी हुई चिंताओं को सक्रिय रूप से संबोधित करना आपके स्वास्थ्य के लिए महत्वपूर्ण है। सूक्ष्म लक्षणों को अनदेखा न करें।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQRnpWd2xsWi1qci1EeWhkRlJNN2tEZFl5UTNnUEY4NWhVUmdDRThYd09VV0w5NGhHUkozWG5Fck5OZkpfRHpxSVZtZ2dqQzJPanFsRmFiOEtraFc2RGM0S0hoWXZCZFNzTTJjd096cTFoNkZlZkNHTUUtVGg5bVN5QUdzWE1IQlBjWGxuUlliU01NZkFEbW1RRlE2UFhNRHBwVE1aMk1XSVNxSGJXWkVnR0JPSlBOelVnQW0zMldIZHRncjhWcVdGb2tQYXNkUFVQYTVhd0dDdktZRHdPQmpUZnJJNEJ2YUotOTBhcXE4RUxlNVZ3UUdwYlM3QUJiM0U3UjZuYy1XbVUwQdIBjwJBVV95cUxNN0hTTFlkQ0ZONnJvdHZ3OXAyQ09PX2QxejZYcnZtOHZXNWc3SkIwTFd3LWpYNmRjdzF0aHVQbTJiNk80OTlOR2taNnBiS0tFWVFQQkRKSmk4NE9yVk5jT2NWcHk4SnFlX0txWlVnZ3pQbHQzTC0tX1hWRkduY1k5a0x3ZnQ3UUFJQXQyVnFRdE8zZEdrWFVldi1SYTNFYWpDMHNFaGljV2pqVm91Q2lWczB2eWNfSDhjNExWcTVLNzBPTlBjeFdDMm1tVlExMzhjWFd5cTUtU1N2YWt5U2FORWZaT05waExrTlZMS21wMVE5Q2ZEZzgwYXJnb0xRUUxMY2pwSU1YMUxwaGpTaV8w?oc=5",
+        "date": "Thu, 02 Apr 2026 20:00:00 GMT"
+    },
+    {
+        "id": "aebb45f9",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Congress Nears Final TN Candidate List",
+                "content": "The Congress party is set to finalize its list of candidates for Tamil Nadu at a crucial Central Election Committee (CEC) meeting today. With 85% of candidates already approved, the party will now seal the remaining 15% to complete its selection process. This move comes as the party prepares for the upcoming elections, aiming to present a strong and united front."
+            },
+            "kn": {
+                "title": "ಕಾಂಗ್ರೆಸ್ ತಮಿಳುನಾಡು ಅಂತಿಮ ಅಭ್ಯರ್ಥಿ ಪಟ್ಟಿ ಅಂತಿಮಗೊಳಿಸಲು ಸಿದ್ಧವಾಗಿದೆ",
+                "content": "ಕಾಂಗ್ರೆಸ್ ಪಕ್ಷವು ಇಂದು ನಿರ್ಣಾಯಕ ಕೇಂದ್ರ ಚುನಾವಣಾ ಸಮಿತಿ (CEC) ಸಭೆಯಲ್ಲಿ ತಮಿಳುನಾಡು ಅಭ್ಯರ್ಥಿಗಳ ಪಟ್ಟಿಯನ್ನು ಅಂತಿಮಗೊಳಿಸಲು ಸಿದ್ಧವಾಗಿದೆ. ಶೇ 85ರಷ್ಟು ಅಭ್ಯರ್ಥಿಗಳು ಈಗಾಗಲೇ ಅನುಮೋದನೆಗೊಂಡಿದ್ದು, ಪಕ್ಷವು ಈಗ ಉಳಿದ ಶೇ 15ರಷ್ಟು ಅಭ್ಯರ್ಥಿಗಳನ್ನು ಅಂತಿಮಗೊಳಿಸಿ ಆಯ್ಕೆ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಪೂರ್ಣಗೊಳಿಸಲಿದೆ. ಮುಂಬರುವ ಚುನಾವಣೆಗಳಿಗೆ ಸಿದ್ಧವಾಗುತ್ತಿರುವ ಪಕ್ಷವು ಬಲಿಷ್ಠ ಮತ್ತು ಸಂಘಟಿತ ಮುಖವನ್ನು ಪ್ರಸ್ತುತಪಡಿಸುವ ಗುರಿಯನ್ನು ಹೊಂದಿದೆ."
+            },
+            "mr": {
+                "title": "काँग्रेस तामिळनाडू उमेदवारांची अंतिम यादी निश्चित करणार",
+                "content": "काँग्रेस पक्ष आज महत्त्वपूर्ण केंद्रीय निवडणूक समिती (CEC) बैठकीत तामिळनाडूसाठी उमेदवारांची यादी निश्चित करणार आहे. 85% उमेदवार आधीच मंजूर झाले आहेत. पक्ष आता उर्वरित 15% उमेदवारांना निश्चित करून निवड प्रक्रिया पूर्ण करेल. आगामी निवडणुकांसाठी तयारी करत असताना, एक मजबूत आणि एकजूट आघाडी सादर करण्याच्या उद्देशाने हा निर्णय घेण्यात आला आहे."
+            },
+            "hi": {
+                "title": "कांग्रेस तमिलनाडु की अंतिम उम्मीदवार सूची को आज अंतिम रूप देगी",
+                "content": "कांग्रेस पार्टी आज एक महत्वपूर्ण केंद्रीय चुनाव समिति (CEC) की बैठक में तमिलनाडु के लिए अपने उम्मीदवारों की सूची को अंतिम रूप देने जा रही है। 85% उम्मीदवारों को पहले ही मंजूरी मिल चुकी है, अब पार्टी शेष 15% उम्मीदवारों को अंतिम रूप देकर अपनी चयन प्रक्रिया पूरी करेगी। यह कदम आगामी चुनावों की तैयारी के तहत उठाया गया है, जिसका लक्ष्य एक मजबूत और एकजुट मोर्चा पेश करना है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129995443,imgsize-94400.cms",
+        "link": "https://timesofindia.indiatimes.com/india/85-candidates-finalised-15-pending-congress-to-seal-tamil-nadu-list-at-cec-meet-today/articleshow/129995067.cms",
+        "date": "2026-04-03T12:40:00+05:30"
+    },
+    {
+        "id": "a0a7253e",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "AAP Hits Back at Chadha Amid Leadership Tensions",
+                "content": "AAP and Rajya Sabha MP Raghav Chadha are embroiled in a public spat following his removal as deputy leader. Chadha claims he was 'silenced' from raising public issues. AAP hit back, accusing him of fearing PM Modi and shying away from national concerns. This exchange highlights growing internal leadership tensions within the party."
+            },
+            "kn": {
+                "title": "AAP ಚಡ್ಡಾಗೆ ತಿರುಗೇಟು, ನಾಯಕತ್ವದೊಳಗಿನ ಭಿನ್ನಾಭಿಪ್ರಾಯ ಬಯಲು",
+                "content": "ಉಪನಾಯಕ ಸ್ಥಾನದಿಂದ ತೆಗೆದುಹಾಕಿದ ನಂತರ AAP ಮತ್ತು ರಾಜ್ಯಸಭಾ ಸಂಸದ ರಾಘವ್ ಚಡ್ಡಾ ನಡುವೆ ಭಿನ್ನಾಭಿಪ್ರಾಯ ಏರ್ಪಟ್ಟಿದೆ. ಸಾರ್ವಜನಿಕ ವಿಷಯಗಳನ್ನು ಎತ್ತದಂತೆ 'ಮೌನಗೊಳಿಸಲಾಗಿದೆ' ಎಂದು ಚಡ್ಡಾ ಆರೋಪಿಸಿದ್ದಾರೆ. ಇದಕ್ಕೆ AAP ತಿರುಗೇಟು ನೀಡಿದ್ದು, ಚಡ್ಡಾ ಪ್ರಧಾನಿ ಮೋದಿಗೆ ಹೆದರಿ ರಾಷ್ಟ್ರೀಯ ಕಾಳಜಿಗಳಿಂದ ದೂರವಿದ್ದಾರೆ ಎಂದು ಹೇಳಿದೆ. ಈ ಘಟನೆ ಪಕ್ಷದೊಳಗಿನ ನಾಯಕತ್ವದ ಭಿನ್ನಾಭಿಪ್ರಾಯಗಳನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "आप-चड्ढा वादातून नेतृत्व तणाव उघड",
+                "content": "उपनेतेपदावरून हटवल्यानंतर 'आप' आणि राज्यसभा खासदार राघव चड्ढा यांच्यात सार्वजनिक वाद निर्माण झाला आहे. सार्वजनिक प्रश्न मांडण्यापासून आपल्याला 'गप्प' करण्यात आल्याचा दावा चड्ढा यांनी केला आहे. 'आपने' प्रत्युत्तर देत चड्ढा यांच्यावर पंतप्रधान मोदींना घाबरून राष्ट्रीय चिंतांवर बोलणे टाळल्याचा आरोप केला आहे. हा वाद पक्षातील अंतर्गत नेतृत्वाचे ताणतणाव दर्शवतो."
+            },
+            "hi": {
+                "title": "आप ने चड्ढा पर साधा निशाना, नेतृत्व में खींचतान उजागर",
+                "content": "उपनेता पद से हटाए जाने के बाद आप और राज्यसभा सांसद राघव चड्ढा में सार्वजनिक विवाद छिड़ गया है। चड्ढा ने कहा कि उन्हें सार्वजनिक मुद्दे उठाने से 'चुप' कराया गया। आप ने पलटवार करते हुए उन पर मोदी से डरने और राष्ट्रीय चिंताओं से बचने का आरोप लगाया। यह विवाद पार्टी में आंतरिक नेतृत्व संबंधी खींचतान को उजागर करता है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129995369,imgsize-56970.cms",
+        "link": "https://timesofindia.indiatimes.com/india/youve-grown-afraid-aap-hits-back-after-raghav-chadhas-direct-attack-on-leadership/articleshow/129995329.cms",
+        "date": "2026-04-03T11:45:48+05:30"
+    },
+    {
+        "id": "fac81cce",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "AAP Rift Flares: Chadha Challenges Leadership After Removal",
+                "content": "AAP's internal rift deepens as Raghav Chadha, removed as Rajya Sabha deputy leader, publicly challenged the party's high command. After AAP asked the RS Secretariat to bar him from speaking, Chadha asserted his silence isn't defeat, questioning the move. He maintained his focus remains on public issues, highlighting a clear power struggle within the party."
+            },
+            "kn": {
+                "title": "ಆಮ್ ಆದ್ಮಿ ಪಕ್ಷದ ಭಿನ್ನಮತ ಭುಗಿಲೆದ್ದಿದೆ: ಚಡ್ಡಾ ಅವರನ್ನು ತೆಗೆದುಹಾಕಿದ ನಂತರ ನಾಯಕತ್ವವನ್ನು ಪ್ರಶ್ನಿಸಿದ್ದಾರೆ",
+                "content": "ಆಮ್ ಆದ್ಮಿ ಪಕ್ಷದ ಆಂತರಿಕ ಭಿನ್ನಮತ ತೀವ್ರಗೊಂಡಿದೆ. ರಾಜ್ಯಸಭೆಯ ಉಪನಾಯಕರ ಸ್ಥಾನದಿಂದ ತೆಗೆದುಹಾಕಲ್ಪಟ್ಟ ರಾಘವ್ ಚಡ್ಡಾ ಸಾರ್ವಜನಿಕವಾಗಿ ಪಕ್ಷದ ಹೈಕಮಾಂಡ್ ಅನ್ನು ಪ್ರಶ್ನಿಸಿದ್ದಾರೆ. ಎಎಪಿ ಅವರನ್ನು ಮಾತನಾಡುವುದನ್ನು ತಡೆಯಲು ರಾಜ್ಯಸಭಾ ಸಚಿವಾಲಯವನ್ನು ಕೇಳಿದ ನಂತರ, ಚಡ್ಡಾ ತಮ್ಮ ಮೌನವು ಸೋಲಲ್ಲ ಎಂದು ಹೇಳಿ, ಈ ಕ್ರಮವನ್ನು ಪ್ರಶ್ನಿಸಿದರು. ಅವರು ಸಾರ್ವಜನಿಕ ವಿಷಯಗಳ ಮೇಲೆ ತಮ್ಮ ಗಮನವನ್ನು ಉಳಿಸಿಕೊಂಡಿದ್ದು, ಪಕ್ಷದೊಳಗಿನ ಸ್ಪಷ್ಟ ಅಧಿಕಾರ ಹೋರಾಟವನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "आपमध्ये फूट उफाळली: पदावरून हटवल्यानंतर चढ्ढांचे नेतृत्वाला आव्हान",
+                "content": "आपमध्ये अंतर्गत फूट अधिकच तीव्र झाली आहे. राज्यसभा उपनेतेपदावरून हटवण्यात आल्यानंतर राघव चढ्ढा यांनी पक्षाच्या हायकमांडला सार्वजनिकरित्या आव्हान दिले. आपने त्यांना बोलण्यापासून रोखण्यासाठी राज्यसभा सचिवालयाला विनंती केल्यानंतर, चढ्ढा यांनी त्यांची शांतता म्हणजे पराभव नाही असे सांगत या निर्णयावर प्रश्नचिन्ह उपस्थित केले. त्यांनी आपले लक्ष सार्वजनिक मुद्द्यांवरच असल्याचे म्हटले, ज्यामुळे पक्षातील स्पष्ट सत्तासंघर्ष समोर आला आहे."
+            },
+            "hi": {
+                "title": "AAP में फूट बढ़ी: हटाए जाने के बाद चड्ढा ने नेतृत्व को चुनौती दी",
+                "content": "AAP में आंतरिक कलह तब और गहरा गया जब राज्यसभा के उपनेता पद से हटाए गए राघव चड्ढा ने सार्वजनिक रूप से पार्टी के हाईकमान को चुनौती दी। AAP द्वारा उन्हें बोलने से रोकने के लिए राज्यसभा सचिवालय से अनुरोध करने के बाद, चड्ढा ने जोर देकर कहा कि उनकी चुप्पी हार नहीं है, इस कदम पर सवाल उठाया। उन्होंने कहा कि उनका ध्यान सार्वजनिक मुद्दों पर ही रहेगा, जो पार्टी के भीतर एक स्पष्ट सत्ता संघर्ष को उजागर करता है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129995285,imgsize-1273821.cms",
+        "link": "https://timesofindia.indiatimes.com/india/aap-rift-out-in-open-raghav-chadha-arvind-kejriwal-attacks-leadership-party-hits-back/articleshow/129995078.cms",
+        "date": "2026-04-03T11:38:30+05:30"
+    },
+    {
+        "id": "51651bba",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Delhi CM: Hanuman's Ideals Drive Nation-Building",
+                "content": "Delhi CM Rekha Gupta declared Lord Hanuman's timeless ideals remain a powerful force for nation-building. She emphasized his principles' enduring relevance in fostering a strong, unified society. Gupta's statement highlights the spiritual and ethical foundations guiding national development, inspiring citizens to contribute to a progressive future."
+            },
+            "kn": {
+                "title": "ದೆಹಲಿ ಸಿಎಂ: ಹನುಮಾನ್ ಆದರ್ಶಗಳು ರಾಷ್ಟ್ರ ನಿರ್ಮಾಣಕ್ಕೆ ಪ್ರೇರಣೆ",
+                "content": "ದೆಹಲಿ ಸಿಎಂ ರೇಖಾ ಗುಪ್ತಾ ಅವರು ಲಾರ್ಡ್ ಹನುಮಾನ್ ಅವರ ಸಾರ್ವಕಾಲಿಕ ಆದರ್ಶಗಳು ರಾಷ್ಟ್ರ ನಿರ್ಮಾಣಕ್ಕೆ ಪ್ರಬಲ ಶಕ್ತಿಯಾಗಿ ಉಳಿದಿವೆ ಎಂದು ಘೋಷಿಸಿದರು. ಬಲವಾದ, ಏಕೀಕೃತ ಸಮಾಜವನ್ನು ಪೋಷಿಸುವಲ್ಲಿ ಅವರ ತತ್ವಗಳ ಶಾಶ್ವತ ಪ್ರಸ್ತುತತೆಯನ್ನು ಅವರು ಒತ್ತಿಹೇಳಿದರು. ರಾಷ್ಟ್ರೀಯ ಅಭಿವೃದ್ಧಿಗೆ ಮಾರ್ಗದರ್ಶನ ನೀಡುವ ಆಧ್ಯಾತ್ಮಿಕ ಮತ್ತು ನೈತಿಕ ಅಡಿಪಾಯಗಳನ್ನು ಗುಪ್ತಾ ಅವರ ಹೇಳಿಕೆ ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ, ಪ್ರಗತಿಪರ ಭವಿಷ್ಯಕ್ಕೆ ಕೊಡುಗೆ ನೀಡಲು ನಾಗರಿಕರನ್ನು ಪ್ರೇರೇಪಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "दिल्लीचे मुख्यमंत्री: हनुमानाचे आदर्श राष्ट्रनिर्माणास प्रेरणा देतात",
+                "content": "दिल्लीच्या मुख्यमंत्री रेखा गुप्ता यांनी जाहीर केले की भगवान हनुमानाचे कालातीत आदर्श राष्ट्रनिर्माणासाठी एक शक्तिशाली शक्ती म्हणून कायम आहेत. त्यांनी मजबूत, एकत्रित समाजाला प्रोत्साहन देण्यासाठी त्यांच्या तत्त्वांचे चिरस्थायी महत्त्व अधोरेखित केले. गुप्तांच्या विधानामुळे राष्ट्रीय विकासाला मार्गदर्शन करणाऱ्या आध्यात्मिक आणि नैतिक मूल्यांवर प्रकाश पडतो, ज्यामुळे नागरिकांना प्रगतीशील भविष्यासाठी योगदान देण्याची प्रेरणा मिळते."
+            },
+            "hi": {
+                "title": "दिल्ली सीएम: हनुमान के आदर्श राष्ट्र निर्माण को प्रेरित करते हैं",
+                "content": "दिल्ली की मुख्यमंत्री रेखा गुप्ता ने घोषणा की कि भगवान हनुमान के कालातीत आदर्श राष्ट्र निर्माण के लिए एक शक्तिशाली शक्ति बने हुए हैं। उन्होंने एक मजबूत, एकीकृत समाज को बढ़ावा देने में उनके सिद्धांतों की चिरस्थायी प्रासंगिकता पर जोर दिया। गुप्ता के बयान में राष्ट्रीय विकास को निर्देशित करने वाली आध्यात्मिक और नैतिक नींवों पर प्रकाश डाला गया है, जो नागरिकों को एक प्रगतिशील भविष्य में योगदान करने के लिए प्रेरित करता है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129995226,imgsize-140786.cms",
+        "link": "https://timesofindia.indiatimes.com/india/lord-hanumans-ideals-continue-to-inspire-nation-building-delhi-cm-rekha-gupta/articleshow/129995059.cms",
+        "date": "2026-04-03T11:31:48+05:30"
+    },
+    {
+        "id": "f61db2f0",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Malda Hostage Case: 'Mastermind' Arrested by Bengal Police",
+                "content": "Bengal Police have arrested the alleged 'mastermind' behind the Malda hostage case, where seven judicial officers were gheraoed. Mofakkarul Islam was apprehended at Bagdogra airport. This breakthrough marks a significant development in the high-profile incident that sparked widespread concern, ensuring accountability for those involved in obstructing justice."
+            },
+            "kn": {
+                "title": "ಮಾಲ್ಡಾ ಒತ್ತೆ ಪ್ರಕರಣ: 'ಸೂತ್ರಧಾರ'ನನ್ನು ಬಂಧಿಸಿದ ಬಂಗಾಳ ಪೊಲೀಸರು",
+                "content": "ಏಳು ನ್ಯಾಯಾಂಗ ಅಧಿಕಾರಿಗಳನ್ನು ಘೆರಾವ್ ಮಾಡಿದ್ದ ಮಾಲ್ಡಾ ಒತ್ತೆ ಪ್ರಕರಣದ ಆರೋಪಿತ 'ಸೂತ್ರಧಾರ'ನನ್ನು ಬಂಗಾಳ ಪೊಲೀಸರು ಬಂಧಿಸಿದ್ದಾರೆ. ಮೊಫಕ್ಕರುಲ್ ಇಸ್ಲಾಂನನ್ನು ಬಾಗ್ದೋಗ್ರಾ ವಿಮಾನ ನಿಲ್ದಾಣದಲ್ಲಿ ಬಂಧಿಸಲಾಯಿತು. ಈ ಪ್ರಗತಿಯು ವ್ಯಾಪಕ ಕಳವಳಕ್ಕೆ ಕಾರಣವಾಗಿದ್ದ ಉನ್ನತ ಮಟ್ಟದ ಘಟನೆಯಲ್ಲಿ ಮಹತ್ವದ ಬೆಳವಣಿಗೆಯಾಗಿದೆ, ನ್ಯಾಯಕ್ಕೆ ಅಡ್ಡಿಪಡಿಸಿದವರಿಗೆ ಹೊಣೆಗಾರಿಕೆಯನ್ನು ಖಚಿತಪಡಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "माल्दा ओलीस प्रकरण: बंगाल पोलिसांनी 'सूत्रधारा'ला अटक केली",
+                "content": "बंगाल पोलिसांनी माल्दा ओलीस प्रकरणामागील कथित 'सूत्रधारा'ला अटक केली आहे, जिथे सात न्यायिक अधिकाऱ्यांवर घेराव घालण्यात आला होता. मोफक्करुल इस्लामला बागडोगरा विमानतळावर अटक करण्यात आली. ही प्रगती मोठ्या प्रमाणावर चिंता निर्माण करणाऱ्या या उच्च-स्तरीय घटनेतील एक महत्त्वपूर्ण घडामोड आहे, ज्यामुळे न्याय अडवणाऱ्यांसाठी जबाबदारी सुनिश्चित होते."
+            },
+            "hi": {
+                "title": "मालदा बंधक मामला: बंगाल पुलिस ने 'मास्टरमाइंड' को किया गिरफ्तार",
+                "content": "बंगाल पुलिस ने मालदा बंधक मामले के कथित 'मास्टरमाइंड' को गिरफ्तार कर लिया है, जहाँ सात न्यायिक अधिकारियों को घेरा गया था। मोफक्करुल इस्लाम को बागडोगरा हवाई अड्डे पर पकड़ा गया। यह सफलता उच्च-स्तरीय घटनाक्रम में एक महत्वपूर्ण विकास है जिसने व्यापक चिंता पैदा की थी, और न्याय में बाधा डालने वालों के लिए जवाबदेही सुनिश्चित करती है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129994627,imgsize-21928.cms",
+        "link": "https://timesofindia.indiatimes.com/india/malda-gherao-case-alleged-mastermind-mofakkarul-islam-arrested-at-bagdogra-airport/articleshow/129994568.cms",
+        "date": "2026-04-03T10:44:53+05:30"
+    },
+    {
+        "id": "dcc81f8b",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "India-Bangladesh Boost Defence Ties for Regional Peace",
+                "content": "Indian Army Chief General Upendra Dwivedi met Bangladesh High Commissioner Riaz Hamidullah in New Delhi to bolster defence ties. Their discussions focused on enhancing joint training and deepening coordination for regional peace and security. This engagement highlights the growing strategic partnership between India and Bangladesh, built on shared values and a commitment to mutual prosperity."
+            },
+            "kn": {
+                "title": "ಪ್ರಾದೇಶಿಕ ಶಾಂತಿಗಾಗಿ ಭಾರತ-ಬಾಂಗ್ಲಾದೇಶ ರಕ್ಷಣಾ ಸಂಬಂಧಗಳನ್ನು ಬಲಪಡಿಸುತ್ತಿವೆ",
+                "content": "ಭಾರತೀಯ ಸೇನಾ ಮುಖ್ಯಸ್ಥ ಜನರಲ್ ಉಪೇಂದ್ರ ದ್ವಿವೇದಿ ಅವರು ನವದೆಹಲಿಯಲ್ಲಿ ಬಾಂಗ್ಲಾದೇಶದ ಹೈಕಮಿಷನರ್ ರಿಯಾಜ್ ಹಮಿದುಲ್ಲಾ ಅವರನ್ನು ಭೇಟಿಯಾಗಿ ರಕ್ಷಣಾ ಸಂಬಂಧಗಳನ್ನು ಬಲಪಡಿಸಿದರು. ಜಂಟಿ ತರಬೇತಿ ಹೆಚ್ಚಿಸುವುದು ಮತ್ತು ಪ್ರಾದೇಶಿಕ ಶಾಂತಿ ಹಾಗೂ ಭದ್ರತೆಗಾಗಿ ಸಮನ್ವಯವನ್ನು ಗಾಢವಾಗಿಸುವುದು ಅವರ ಚರ್ಚೆಗಳ ಕೇಂದ್ರಬಿಂದುವಾಗಿತ್ತು. ಈ ಸಭೆಯು ಭಾರತ ಮತ್ತು ಬಾಂಗ್ಲಾದೇಶ ನಡುವಿನ ಬೆಳೆಯುತ್ತಿರುವ ಕಾರ್ಯತಂತ್ರದ ಪಾಲುದಾರಿಕೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "प्रादेशिक शांततेसाठी भारत-बांगलादेश संरक्षण संबंध मजबूत करत आहेत",
+                "content": "भारतीय लष्करप्रमुख जनरल उपेंद्र द्विवेदी यांनी नवी दिल्लीत बांगलादेशचे उच्चायुक्त रियाझ हमीदुल्ला यांची भेट घेऊन संरक्षण संबंध मजबूत केले. त्यांच्या चर्चेत संयुक्त प्रशिक्षण वाढवणे आणि प्रादेशिक शांतता व सुरक्षेसाठी समन्वय अधिक सखोल करण्यावर लक्ष केंद्रित करण्यात आले. ही भेट भारत आणि बांगलादेश यांच्यातील वाढती रणनीतिक भागीदारी अधोरेखित करते."
+            },
+            "hi": {
+                "title": "क्षेत्रीय शांति हेतु भारत-बांग्लादेश ने बढ़ाई रक्षा साझेदारी",
+                "content": "भारतीय सेना प्रमुख जनरल उपेंद्र द्विवेदी ने नई दिल्ली में बांग्लादेश के उच्चायुक्त रियाज हमीदुल्ला से रक्षा संबंधों को मजबूत करने के लिए मुलाकात की। उनकी चर्चा संयुक्त प्रशिक्षण बढ़ाने और क्षेत्रीय शांति व सुरक्षा के लिए समन्वय गहरा करने पर केंद्रित थी। यह जुड़ाव भारत और बांग्लादेश के बीच बढ़ती रणनीतिक साझेदारी को उजागर करता है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129993787,imgsize-98700.cms",
+        "link": "https://timesofindia.indiatimes.com/india/deeper-collaboration-for-regional-peace-upendra-dwivedi-meets-bangladesh-high-commissioner-riaz-hamidullah/articleshow/129993609.cms",
+        "date": "2026-04-03T10:20:00+05:30"
+    },
+    {
+        "id": "cb024be4",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "EC Orders NIA Probe into Maldah Judicial Gherao",
+                "content": "The Election Commission has ordered an NIA probe into the gherao of judicial officers in Maldah. This directive comes after the Supreme Court intervened, highlighting concerns about the intimidation of the judiciary. The incident involved the confinement of officials, prompting serious legal action to ensure judicial independence and accountability."
+            },
+            "kn": {
+                "title": "ಇಸಿ ಮಾಲ್ಡಾ ನ್ಯಾಯಾಂಗ ಅಧಿಕಾರಿಗಳ ಘೆರಾವೋ ಕುರಿತು ಎನ್‌ಐಎ ತನಿಖೆಗೆ ಆದೇಶ",
+                "content": "ಸುಪ್ರೀಂ ಕೋರ್ಟ್ ನಿರ್ದೇಶನದ ನಂತರ, ಚುನಾವಣಾ ಆಯೋಗವು ಮಾಲ್ಡಾದಲ್ಲಿ ನ್ಯಾಯಾಂಗ ಅಧಿಕಾರಿಗಳ ಘೆರಾವೋ ಕುರಿತು ಎನ್‌ಐಎ ತನಿಖೆಗೆ ಆದೇಶಿಸಿದೆ. ನ್ಯಾಯಾಂಗದ ಬೆದರಿಕೆಯ ಬಗ್ಗೆ ಕಳವಳ ವ್ಯಕ್ತಪಡಿಸಿದ ಸುಪ್ರೀಂ ಕೋರ್ಟ್ ಹಸ್ತಕ್ಷೇಪದ ನಂತರ ಈ ನಿರ್ಧಾರ ಕೈಗೊಳ್ಳಲಾಗಿದೆ. ಈ ಘಟನೆಯು ಅಧಿಕಾರಿಗಳನ್ನು ನಿರ್ಬಂಧಿಸುವುದನ್ನು ಒಳಗೊಂಡಿತ್ತು, ನ್ಯಾಯಾಂಗದ ಸ್ವಾತಂತ್ರ್ಯ ಮತ್ತು ಹೊಣೆಗಾರಿಕೆಯನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು ಗಂಭೀರ ಕಾನೂನು ಕ್ರಮಕ್ಕೆ ಕಾರಣವಾಯಿತು."
+            },
+            "mr": {
+                "title": "निवडणूक आयोगाचा मालदा येथील न्यायिक अधिकाऱ्यांच्या घेरावाला एनआयए चौकशीचा आदेश",
+                "content": "सर्वोच्च न्यायालयाच्या निर्देशानंतर, निवडणूक आयोगाने मालदा येथील न्यायिक अधिकाऱ्यांच्या घेराव प्रकरणी एनआयए चौकशीचे आदेश दिले आहेत. न्यायव्यवस्थेच्या भीतीबद्दल चिंता व्यक्त करत सर्वोच्च न्यायालयाने हस्तक्षेप केल्यानंतर हा निर्णय घेण्यात आला. या घटनेत अधिकाऱ्यांना कोंडून ठेवण्यात आले होते, ज्यामुळे न्यायिक स्वातंत्र्य आणि जबाबदारी सुनिश्चित करण्यासाठी गंभीर कायदेशीर कारवाई झाली."
+            },
+            "hi": {
+                "title": "चुनाव आयोग ने मालदा न्यायिक घेराव की NIA जांच का आदेश दिया",
+                "content": "सुप्रीम कोर्ट के निर्देश के बाद, चुनाव आयोग ने मालदा में न्यायिक अधिकारियों के घेराव की NIA जांच का आदेश दिया है। सुप्रीम कोर्ट ने न्यायपालिका को डराने-धमकाने पर चिंता व्यक्त करते हुए हस्तक्षेप किया, जिसके बाद यह निर्देश आया। इस घटना में अधिकारियों को बंधक बनाया गया था, जिससे न्यायिक स्वतंत्रता और जवाबदेही सुनिश्चित करने के लिए गंभीर कानूनी कार्रवाई शुरू हुई।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129993788,imgsize-46510.cms",
+        "link": "https://timesofindia.indiatimes.com/india/ec-orders-nia-probe-into-maldah-gherao-of-judicial-officers-after-supreme-court-directive/articleshow/129993730.cms",
+        "date": "2026-04-03T09:54:42+05:30"
+    },
+    {
+        "id": "c3291eb6",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Jobless Children's Burden: Study Flags Parental Depression Risk",
+                "content": "A recent study reveals a hidden mental health crisis: unemployed adult children significantly increase depression risk among their elderly parents in India. This finding highlights the immense emotional and psychological burden faced by older Indians as they grapple with their children's joblessness, underscoring a pressing societal challenge requiring immediate attention and support systems."
+            },
+            "kn": {
+                "title": "ನಿರುದ್ಯೋಗಿ ಮಕ್ಕಳ ಹೊರೆ: ಪೋಷಕರಲ್ಲಿ ಖಿನ್ನತೆಯ ಅಪಾಯ ಹೆಚ್ಚಳ",
+                "content": "ಇತ್ತೀಚಿನ ಅಧ್ಯಯನವು ಗುಪ್ತ ಮಾನಸಿಕ ಆರೋಗ್ಯ ಬಿಕ್ಕಟ್ಟನ್ನು ಬಹಿರಂಗಪಡಿಸಿದೆ: ನಿರುದ್ಯೋಗಿ ವಯಸ್ಕ ಮಕ್ಕಳಿಂದ ಭಾರತದ ವೃದ್ಧ ಪೋಷಕರಲ್ಲಿ ಖಿನ್ನತೆಯ ಅಪಾಯ ಹೆಚ್ಚಾಗಿದೆ. ಈ ಸಂಶೋಧನೆಯು ತಮ್ಮ ಮಕ್ಕಳ ನಿರುದ್ಯೋಗದಿಂದ ಬಳಲುತ್ತಿರುವ ಹಿರಿಯ ಭಾರತೀಯರು ಎದುರಿಸುತ್ತಿರುವ ಅಗಾಧ ಮಾನಸಿಕ ಮತ್ತು ಭಾವನಾತ್ಮಕ ಹೊರೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ, ಇದು ತಕ್ಷಣದ ಗಮನ ಮತ್ತು ಬೆಂಬಲ ವ್ಯವಸ್ಥೆಗಳ ಅಗತ್ಯವಿರುವ ಪ್ರಮುಖ ಸಾಮಾಜಿಕ ಸವಾಲಾಗಿದೆ."
+            },
+            "mr": {
+                "title": "बेरोजगार मुलांचा भार: पालकांमध्ये नैराश्याचा धोका वाढल्याचे अभ्यासात समोर",
+                "content": "एका ताज्या अभ्यासात एक छुपे मानसिक आरोग्य संकट उघड झाले आहे: बेरोजगार प्रौढ मुलांमुळे भारतातील वृद्ध पालकांमध्ये नैराश्याचा धोका लक्षणीयरीत्या वाढतो. हा शोध वृद्ध भारतीयांना मुलांच्या नोकरीविना जगताना होणारा प्रचंड भावनिक आणि मानसिक ताण दर्शवतो, ज्यामुळे त्वरित लक्ष आणि सहाय्य प्रणाली आवश्यक असलेल्या एका गंभीर सामाजिक आव्हानावर प्रकाश पडतो."
+            },
+            "hi": {
+                "title": "बेरोजगार बच्चों का बोझ: अध्ययन में माता-पिता में डिप्रेशन का खतरा उजागर",
+                "content": "एक हालिया अध्ययन ने एक छिपे हुए मानसिक स्वास्थ्य संकट का खुलासा किया है: बेरोजगार वयस्क बच्चे भारत में अपने वृद्ध माता-पिता के बीच डिप्रेशन के जोखिम को काफी बढ़ा रहे हैं। यह निष्कर्ष उन बुजुर्ग भारतीयों द्वारा अनुभव किए जा रहे भारी भावनात्मक और मनोवैज्ञानिक बोझ को उजागर करता है जो अपने बच्चों की बेरोजगारी से जूझ रहे हैं, एक ऐसे महत्वपूर्ण सामाजिक चुनौती पर जोर देता है जिस पर तत्काल ध्यान और सहायता प्रणालियों की आवश्यकता है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129993660,imgsize-30682.cms",
+        "link": "https://timesofindia.indiatimes.com/india/when-jobless-children-break-parents-study-flags-hidden-mental-health-crisis/articleshow/129993542.cms",
+        "date": "2026-04-03T09:42:18+05:30"
+    },
+    {
+        "id": "9eab6eff",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Telangana CM Unveils UDF Manifesto for Kerala, Promises 'Golden Era'",
+                "content": "Telangana CM Revanth Reddy launched the UDF manifesto for Kerala's assembly polls, proclaiming a \"golden era\" after a \"dark era.\" He slammed the Pinarayi Vijayan government over alleged corruption and insecurity of religious assets. The manifesto outlines \"Indira's Five Guarantees\" and five \"Dream Projects,\" promising significant welfare and development initiatives to transform the state."
+            },
+            "kn": {
+                "title": "ತೆಲಂಗಾಣ ಸಿಎಂ ಕೇರಳಕ್ಕೆ ಯುಡಿಎಫ್ ಪ್ರಣಾಳಿಕೆ ಅನಾವರಣ, 'ಸುವರ್ಣ ಯುಗ'ದ ಭರವಸೆ",
+                "content": "ತೆಲಂಗಾಣ ಮುಖ್ಯಮಂತ್ರಿ ರೇವಂತ್ ರೆಡ್ಡಿ ಕೇರಳ ವಿಧಾನಸಭೆ ಚುನಾವಣೆಗಾಗಿ ಯುಡಿಎಫ್ ಪ್ರಣಾಳಿಕೆಯನ್ನು ಬಿಡುಗಡೆ ಮಾಡಿದರು, 'ಕರಾಳ ಯುಗ'ದ ನಂತರ 'ಸುವರ್ಣ ಯುಗ'ವನ್ನು ಘೋಷಿಸಿದರು. ಅವರು ಪಿಣರಾಯಿ ವಿಜಯನ್ ಸರ್ಕಾರವನ್ನು ಭ್ರಷ್ಟಾಚಾರ ಮತ್ತು ಧಾರ್ಮಿಕ ಆಸ್ತಿಗಳ ಅಭದ್ರತೆಯ ಆರೋಪದ ಮೇಲೆ ಟೀಕಿಸಿದರು. ಪ್ರಣಾಳಿಕೆಯು \"ಇಂದಿರಾ ಅವರ ಐದು ಗ್ಯಾರಂಟಿಗಳು\" ಮತ್ತು ಐದು \"ಕನಸಿನ ಯೋಜನೆಗಳನ್ನು\" ಒಳಗೊಂಡಿದ್ದು, ರಾಜ್ಯದ ಪರಿವರ್ತನೆಗೆ ಮಹತ್ವದ ಕಲ್ಯಾಣ ಮತ್ತು ಅಭಿವೃದ್ಧಿ ಉಪಕ್ರಮಗಳನ್ನು ಭರವಸೆ ನೀಡಿದೆ."
+            },
+            "mr": {
+                "title": "तेलंगणाचे मुख्यमंत्री रेवंत रेड्डी यांनी केरळसाठी UDF जाहीरनामा सादर केला, 'सुवर्णयुगा'चे वचन",
+                "content": "तेलंगणाचे मुख्यमंत्री रेवंत रेड्डी यांनी केरळ विधानसभा निवडणुकांसाठी UDF चा जाहीरनामा प्रकाशित केला, 'अंधाऱ्या युगा'नंतर 'सुवर्णयुगा'ची घोषणा केली. त्यांनी पिनराई विजयन सरकारवर कथित भ्रष्टाचार आणि धार्मिक मालमत्तांच्या असुरक्षिततेवरून टीका केली. जाहीरनाम्यात \"इंदिरांच्या पाच हमी\" आणि पाच \"स्वप्न प्रकल्प\" समाविष्ट आहेत, जे राज्याला बदलण्यासाठी महत्त्वपूर्ण कल्याणकारी आणि विकास उपक्रमांचे आश्वासन देतात."
+            },
+            "hi": {
+                "title": "तेलंगाना सीएम ने केरल के लिए यूडीएफ घोषणापत्र का अनावरण किया, 'स्वर्णिम युग' का वादा",
+                "content": "तेलंगाना के सीएम रेवंत रेड्डी ने केरल विधानसभा चुनावों के लिए यूडीएफ घोषणापत्र जारी किया, 'अंधेरे युग' के बाद 'स्वर्णिम युग' की घोषणा की। उन्होंने पिनाराई विजयन सरकार पर कथित भ्रष्टाचार और धार्मिक संपत्तियों की असुरक्षा को लेकर हमला बोला। घोषणापत्र में \"इंदिरा की पांच गारंटियाँ\" और पांच \"ड्रीम प्रोजेक्ट\" शामिल हैं, जो राज्य को बदलने के लिए महत्वपूर्ण कल्याण और विकास पहलों का वादा करते हैं।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129993443,imgsize-794040.cms",
+        "link": "https://timesofindia.indiatimes.com/india/kerala-assembly-polls-telangana-cm-revanth-reddy-unveils-udf-manifesto-calls-it-the-beginning-of-a-golden-era/articleshow/129993007.cms",
+        "date": "2026-04-03T09:20:09+05:30"
+    },
+    {
+        "id": "68e1293f",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Kerala Elections 2026: Pinarayi's Brand Under Scrutiny",
+                "content": "Kerala Chief Minister Pinarayi Vijayan's 'Brand Pinarayi' faces a critical test in the 2026 assembly elections. Mounting voter unease, fiscal stress, and internal CPM rifts challenge his governance model. The LDF battles anti-incumbency, economic strain, and perception gaps. Vijayan plans to counter these challenges by highlighting development and strong leadership, as his political survival and legacy are at stake."
+            },
+            "kn": {
+                "title": "ಕೇರಳ 2026 ಚುನಾವಣೆ: ಪಿಣರಾಯಿ ಅವರ ಬ್ರ್ಯಾಂಡ್‌ಗೆ ಸವಾಲು",
+                "content": "ಕೇರಳ ಮುಖ್ಯಮಂತ್ರಿ ಪಿಣರಾಯಿ ವಿಜಯನ್ ಅವರ 'ಬ್ರ್ಯಾಂಡ್ ಪಿಣರಾಯಿ' 2026ರ ವಿಧಾನಸಭಾ ಚುನಾವಣೆಯಲ್ಲಿ ನಿರ್ಣಾಯಕ ಪರೀಕ್ಷೆಯನ್ನು ಎದುರಿಸುತ್ತಿದೆ. ಹೆಚ್ಚುತ್ತಿರುವ ಮತದಾರರ ಅಸಮಾಧಾನ, ಆರ್ಥಿಕ ಒತ್ತಡ ಮತ್ತು ಆಂತರಿಕ ಸಿಪಿಎಂ ಭಿನ್ನಾಭಿಪ್ರಾಯಗಳು ಅವರ ಆಡಳಿತ ಮಾದರಿಗೆ ಸವಾಲಾಗಿವೆ. ಎಲ್‌ಡಿಎಫ್ ವಿರೋಧಿ ಅಲೆಯನ್ನು, ಆರ್ಥಿಕ ತೊಂದರೆಗಳನ್ನು ಮತ್ತು ಗ್ರಹಿಕೆ ಅಂತರವನ್ನು ಎದುರಿಸುತ್ತಿದೆ. ವಿಜಯನ್ ಅಭಿವೃದ್ಧಿ ಮತ್ತು ಬಲವಾದ ನಾಯಕತ್ವವನ್ನು ಎತ್ತಿಹಿಡಿಯುವ ಮೂಲಕ ಈ ಸವಾಲುಗಳನ್ನು ಎದುರಿಸಲು ಯೋಜಿಸಿದ್ದಾರೆ, ಏಕೆಂದರೆ ಅವರ ರಾಜಕೀಯ ಅಸ್ತಿತ್ವ ಮತ್ತು ಪರಂಪರೆ ಅಪಾಯದಲ್ಲಿದೆ."
+            },
+            "mr": {
+                "title": "केरळ 2026 निवडणुका: पिनाराईंच्या ब्रँडची कसोटी",
+                "content": "केरळचे मुख्यमंत्री पिनाराई विजयन यांच्या 'ब्रँड पिनाराई' ला 2026 च्या विधानसभा निवडणुकांमध्ये एक महत्त्वपूर्ण कसोटी सामोरे जावे लागणार आहे. वाढती मतदारांची नाराजी, आर्थिक ताण आणि अंतर्गत सीपीएममधील मतभेद त्यांच्या शासन मॉडेलला आव्हान देत आहेत. एलडीएफला सत्ताविरोधी लाट, आर्थिक अडचणी आणि प्रतिमेतील अंतर यांचा सामना करावा लागत आहे. विजयन विकास आणि मजबूत नेतृत्वावर भर देऊन या आव्हानांचा मुकाबला करण्याची योजना आखत आहेत, कारण त्यांचे राजकीय अस्तित्व आणि वारसा धोक्यात आहे."
+            },
+            "hi": {
+                "title": "केरल चुनाव 2026: पिनाराई के ब्रांड की अग्निपरीक्षा",
+                "content": "केरल के मुख्यमंत्री पिनाराई विजयन का 'ब्रांड पिनाराई' 2026 के विधानसभा चुनावों में एक महत्वपूर्ण परीक्षा का सामना कर रहा है। बढ़ती मतदाता अशांति, वित्तीय दबाव और आंतरिक सीपीएम दरारें उनके शासन मॉडल को चुनौती दे रही हैं। एलडीएफ सत्ता विरोधी लहर, आर्थिक तनाव और धारणा अंतराल से जूझ रहा है। विजयन विकास और मजबूत नेतृत्व पर जोर देकर इन चुनौतियों का मुकाबला करने की योजना बना रहे हैं, क्योंकि उनका राजनीतिक अस्तित्व और विरासत दांव पर है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129993385,imgsize-901074.cms",
+        "link": "https://timesofindia.indiatimes.com/india/will-brand-pinarayi-survive-keralas-electoral-cycle/articleshow/129993353.cms",
+        "date": "2026-04-03T09:16:35+05:30"
+    },
+    {
+        "id": "436a6a44",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Ancient Riddles: 10 Historical Clues of Alien Contact",
+                "content": "Historical anomalies like Giza's precision and the Antikythera Mechanism challenge conventional views on ancient technology. Mainstream science attributes these to human creativity, but their logistical and mathematical complexity strongly supports the paleocontact hypothesis. Could ancient civilizations have received help from extraterrestrials? These historical signs suggest the possibility of alien existence in our past."
+            },
+            "kn": {
+                "title": "ಪ್ರಾಚೀನ ರಹಸ್ಯಗಳು: ಅನ್ಯಗ್ರಹ ಜೀವಿಗಳ ಸಂಪರ್ಕದ 10 ಐತಿಹಾಸಿಕ ಸುಳಿವುಗಳು",
+                "content": "ಗೀಜಾದ ನಿಖರತೆ ಮತ್ತು ಆಂಟಿಕಿಥೆರಾ ಯಾಂತ್ರಿಕತೆಯಂತಹ ಐತಿಹಾಸಿಕ ಅಸಂಗತತೆಗಳು ಪ್ರಾಚೀನ ತಂತ್ರಜ್ಞಾನದ ಬಗ್ಗೆ ಸಾಂಪ್ರದಾಯಿಕ ದೃಷ್ಟಿಕೋನಗಳಿಗೆ ಸವಾಲು ಹಾಕುತ್ತವೆ. ಮುಖ್ಯವಾಹಿನಿಯ ವಿಜ್ಞಾನವು ಇವುಗಳನ್ನು ಮಾನವನ ಸೃಜನಶೀಲತೆಗೆ ಕಾರಣವೆಂದು ಹೇಳುತ್ತದೆ, ಆದರೆ ಅವುಗಳ ಲಾಜಿಸ್ಟಿಕಲ್ ಮತ್ತು ಗಣಿತದ ಸಂಕೀರ್ಣತೆಯು ಪ್ರಾಚೀನ ಸಂಪರ್ಕ ಊಹೆಯನ್ನು ಬಲವಾಗಿ ಬೆಂಬಲಿಸುತ್ತದೆ. ಪ್ರಾಚೀನ ನಾಗರಿಕತೆಗಳು ಅನ್ಯಗ್ರಹ ಜೀವಿಗಳಿಂದ ಸಹಾಯ ಪಡೆದಿರಬಹುದೇ? ಈ ಐತಿಹಾಸಿಕ ಚಿಹ್ನೆಗಳು ನಮ್ಮ ಭೂತಕಾಲದಲ್ಲಿ ಅನ್ಯಗ್ರಹ ಜೀವಿಗಳ ಅಸ್ತಿತ್ವದ ಸಾಧ್ಯತೆಯನ್ನು ಸೂಚಿಸುತ್ತವೆ."
+            },
+            "mr": {
+                "title": "प्राचीन रहस्ये: परग्रहवासींच्या संपर्काचे 10 ऐतिहासिक संकेत",
+                "content": "गिझाची अचूकता आणि अँटिकिथेरा मेकॅनिझम यांसारख्या ऐतिहासिक विसंगती प्राचीन तंत्रज्ञानाबद्दलच्या पारंपारिक मतांना आव्हान देतात. मुख्य प्रवाहातील विज्ञान याला मानवी सर्जनशीलतेचे श्रेय देते, परंतु त्यांची लॉजिस्टिक आणि गणिताची गुंतागुंत पॅलेओकॉन्टॅक्ट सिद्धांताला जोरदार समर्थन देते. प्राचीन संस्कृतींना परग्रहवासीयांकडून मदत मिळाली असेल का? हे ऐतिहासिक संकेत आपल्या भूतकाळात परग्रहवासींच्या अस्तित्वाची शक्यता सुचवतात."
+            },
+            "hi": {
+                "title": "प्राचीन पहेलियाँ: एलियन संपर्क के 10 ऐतिहासिक सुराग",
+                "content": "गीज़ा की सटीकता और एंटीकीथेरा मैकेनिज्म जैसी ऐतिहासिक विसंगतियाँ प्राचीन प्रौद्योगिकी पर पारंपरिक विचारों को चुनौती देती हैं। मुख्यधारा का विज्ञान इन्हें मानवीय रचनात्मकता का श्रेय देता है, लेकिन इनकी तार्किक और गणितीय जटिलता पेलियोकॉन्टैक्ट परिकल्पना का दृढ़ता से समर्थन करती है। क्या प्राचीन सभ्यताओं को अलौकिक जीवों से मदद मिली होगी? ये ऐतिहासिक संकेत हमारे अतीत में एलियन के अस्तित्व की संभावना सुझाते हैं।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129987629,imgsize-89106.cms",
+        "link": "https://timesofindia.indiatimes.com/science/10-historical-signs-that-suggest-aliens-exist/photostory/129987629.cms",
+        "date": "2026-04-03T11:30:00+05:30"
+    },
+    {
+        "id": "499fdc75",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Armstrong: Human Nature Drives Moon Missions",
+                "content": "Neil Armstrong famously stated humanity's innate drive to face challenges, mirroring salmon swimming upstream, propelled us to the moon. He believed overcoming such obstacles is fundamental to human nature. This intrinsic desire for exploration and achievement defines our species' greatest feats, from space travel to everyday triumphs, highlighting our inherent quest for the unknown."
+            },
+            "kn": {
+                "title": "ಆರ್ಮ್‌ಸ್ಟ್ರಾಂಗ್: ಮಾನವ ಸ್ವಭಾವವೇ ಚಂದ್ರಯಾನಕ್ಕೆ ಪ್ರೇರಣೆ",
+                "content": "ನೀಲ್ ಆರ್ಮ್‌ಸ್ಟ್ರಾಂಗ್ ಪ್ರಸಿದ್ಧವಾಗಿ ಹೇಳಿದಂತೆ, ಸವಾಲುಗಳನ್ನು ಎದುರಿಸುವ ಮಾನವನ ಸಹಜ ಪ್ರೇರಣೆ, ಮೇಲ್ಮುಖವಾಗಿ ಈಜುವ ಸಾಲ್ಮನ್ ಮೀನಿನಂತೆ, ನಮ್ಮನ್ನು ಚಂದ್ರನತ್ತ ಕೊಂಡೊಯ್ಯಿತು. ಅಂತಹ ಅಡೆತಡೆಗಳನ್ನು ನಿವಾರಿಸುವುದು ಮಾನವನ ಸ್ವಭಾವಕ್ಕೆ ಮೂಲಭೂತವಾಗಿದೆ ಎಂದು ಅವರು ನಂಬಿದ್ದರು. ಅನ್ವೇಷಣೆ ಮತ್ತು ಸಾಧನೆಯ ಈ ಆಂತರಿಕ ಬಯಕೆಯು ನಮ್ಮ ಜಾತಿಯ ಶ್ರೇಷ್ಠ ಕಾರ್ಯಗಳನ್ನು ವ್ಯಾಖ್ಯಾನಿಸುತ್ತದೆ, ಬಾಹ್ಯಾಕಾಶ ಪ್ರಯಾಣದಿಂದ ಹಿಡಿದು ದೈನಂದಿನ ವಿಜಯಗಳವರೆಗೆ, ಅಜ್ಞಾತದ ನಮ್ಮ ಸಹಜ ಅನ್ವೇಷಣೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "आर्मस्ट्राँग: मानवी स्वभावच चंद्र मोहिमांना प्रेरणा देतो",
+                "content": "नील आर्मस्ट्राँग यांनी प्रसिद्धपणे सांगितले की, आव्हानांना सामोरे जाण्याची मानवाची उपजत प्रेरणा, नदीच्या प्रवाहाविरुद्ध पोहणाऱ्या सॅल्मन माशांप्रमाणे, आपल्याला चंद्रावर घेऊन गेली. त्यांचा असा विश्वास होता की, अशा अडथळ्यांवर मात करणे मानवी स्वभावासाठी मूलभूत आहे. अन्वेषण आणि यशाची ही आंतरिक इच्छा आपल्या प्रजातींच्या महान कर्तृत्वाला परिभाषित करते, ज्यात अंतराळ प्रवासापासून ते दैनंदिन विजयांपर्यंतचा समावेश आहे, जे अज्ञात गोष्टींच्या आपल्या मूळ शोधावर प्रकाश टाकते."
+            },
+            "hi": {
+                "title": "आर्मस्ट्रांग: मानव स्वभाव ही चंद्र अभियानों का प्रेरक",
+                "content": "नील आर्मस्ट्रांग ने प्रसिद्ध रूप से कहा था कि चुनौतियों का सामना करने की मानवता की जन्मजात प्रेरणा, जैसे सैल्मन मछली धारा के विपरीत तैरती है, हमें चंद्रमा तक ले गई। उनका मानना था कि ऐसी बाधाओं पर काबू पाना मानव स्वभाव के लिए मौलिक है। अन्वेषण और उपलब्धि की यह आंतरिक इच्छा हमारी प्रजाति के महानतम कारनामों को परिभाषित करती है, अंतरिक्ष यात्रा से लेकर रोजमर्रा की जीत तक, अज्ञात की हमारी सहज खोज को उजागर करती है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129993908,imgsize-52976.cms",
+        "link": "https://timesofindia.indiatimes.com/science/quote-of-the-day-by-neil-armstrong-i-think-were-going-to-the-moon-because-its-in-the-nature-of-the-human-being-to-face-challenges-were-required-to-do-these-things-just-as-salmon-swim-upstream-/articleshow/129993864.cms",
+        "date": "2026-04-03T10:04:32+05:30"
+    },
+    {
+        "id": "a42d047e",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Iranian Drone Hits Kuwait Refinery",
+                "content": "An Iranian drone attack caused a fire at Kuwait's Mina al-Ahmadi oil refinery, threatening operations. This incident highlights escalating attacks on critical energy infrastructure in the Gulf, occurring amid ongoing hostilities between Iran, the US, and Israel. Such strikes impact global oil flows and prices, raising concerns about regional stability and energy security."
+            },
+            "kn": {
+                "title": "ಇರಾನಿ ಡ್ರೋನ್ ಕುವೈತ್ ರಿಫೈನರಿ ಮೇಲೆ ದಾಳಿ",
+                "content": "ಇರಾನಿ ಡ್ರೋನ್ ದಾಳಿಯಿಂದ ಕುವೈತ್‌ನ ಮಿನಾ ಅಲ್-ಅಹ್ಮದಿ ತೈಲ ರಿಫೈನರಿಯಲ್ಲಿ ಬೆಂಕಿ ಕಾಣಿಸಿಕೊಂಡು, ಕಾರ್ಯಾಚರಣೆಗಳಿಗೆ ಬೆದರಿಕೆ ಒಡ್ಡಿದೆ. ಇದು ಗಲ್ಫ್ ಪ್ರದೇಶದಲ್ಲಿನ ನಿರ್ಣಾಯಕ ಇಂಧನ ಮೂಲಸೌಕರ್ಯಗಳ ಮೇಲಿನ ದಾಳಿಗಳ ಹೆಚ್ಚಳವನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ, ಇದು ಇರಾನ್, ಯುಎಸ್ ಮತ್ತು ಇಸ್ರೇಲ್ ನಡುವಿನ ನಡೆಯುತ್ತಿರುವ ವೈರತ್ವದ ನಡುವೆ ಸಂಭವಿಸಿದೆ. ಇಂತಹ ದಾಳಿಗಳು ಜಾಗತಿಕ ತೈಲ ಹರಿವು ಮತ್ತು ಬೆಲೆಗಳ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರಿ, ಪ್ರಾದೇಶಿಕ ಸ್ಥಿರತೆ ಮತ್ತು ಇಂಧನ ಭದ್ರತೆಯ ಬಗ್ಗೆ ಕಳವಳ ಮೂಡಿಸುತ್ತವೆ."
+            },
+            "mr": {
+                "title": "इराणी ड्रोनचा कुवेत रिफायनरीवर हल्ला",
+                "content": "इराणी ड्रोन हल्ल्यामुळे कुवेतच्या मीना अल-अहमदी तेल रिफायनरीला आग लागली, ज्यामुळे कामकाज धोक्यात आले आहे. ही घटना पर्शियन आखातातील महत्त्वाच्या ऊर्जा पायाभूत सुविधांवर वाढत्या हल्ल्यांवर प्रकाश टाकते, जे इराण, अमेरिका आणि इस्रायल यांच्यातील सध्याच्या शत्रुत्वाच्या दरम्यान घडले आहे. अशा हल्ल्यांचा जागतिक तेलाच्या प्रवाहावर आणि किमतींवर परिणाम होतो, ज्यामुळे प्रादेशिक स्थिरता आणि ऊर्जा सुरक्षेबद्दल चिंता वाढतात."
+            },
+            "hi": {
+                "title": "ईरानी ड्रोन ने कुवैत रिफाइनरी पर हमला किया",
+                "content": "एक ईरानी ड्रोन हमले से कुवैत की मीना अल-अहमदी तेल रिफाइनरी में आग लग गई, जिससे परिचालन को खतरा है। यह घटना खाड़ी में महत्वपूर्ण ऊर्जा बुनियादी ढांचे पर बढ़ते हमलों को उजागर करती है, जो ईरान, अमेरिका और इज़राइल के बीच चल रही शत्रुता के बीच हुई है। ऐसे हमले वैश्विक तेल प्रवाह और कीमतों को प्रभावित करते हैं, जिससे क्षेत्रीय स्थिरता और ऊर्जा सुरक्षा पर चिंताएं बढ़ जाती हैं।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129996161,imgsize-22970.cms",
+        "link": "https://timesofindia.indiatimes.com/world/middle-east/watch-kuwait-refinery-on-fire-after-another-iranian-drone-attack-operations-under-threat/articleshow/129996095.cms",
+        "date": "2026-04-03T12:35:02+05:30"
+    },
+    {
+        "id": "ca51b459",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "UAE to Brace for Rain, Dust, Strong Winds",
+                "content": "UAE residents, brace for a significant weather shift next week. The National Center of Meteorology (NCM) has issued an advisory predicting light rain, strong winds, and rough seas. Dust and sand will reduce visibility, impacting outdoor and marine activities. Authorities urge caution. Stay updated with NCM alerts as unsettled conditions approach."
+            },
+            "kn": {
+                "title": "ಯುಎಇಯಲ್ಲಿ ಮಳೆ, ಧೂಳು, ಬಿರುಗಾಳಿ ನಿರೀಕ್ಷೆ",
+                "content": "ಯುಎಇ ನಿವಾಸಿಗಳೇ, ಮುಂದಿನ ವಾರ ಗಣನೀಯ ಹವಾಮಾನ ಬದಲಾವಣೆಗೆ ಸಿದ್ಧರಾಗಿರಿ. ರಾಷ್ಟ್ರೀಯ ಹವಾಮಾನ ಕೇಂದ್ರ (NCM) ತಿಳಿಸುವುದೇನೆಂದರೆ, ಲಘು ಮಳೆ, ಬಿರುಗಾಳಿ ಮತ್ತು ಪ್ರಕ್ಷುಬ್ಧ ಸಮುದ್ರವನ್ನು ನಿರೀಕ್ಷಿಸಲಾಗಿದೆ. ಧೂಳು ಮತ್ತು ಮರಳು ದೃಷ್ಟಿಗೋಚರತೆಯನ್ನು ಕಡಿಮೆ ಮಾಡಿ, ಹೊರಾಂಗಣ ಮತ್ತು ಕಡಲ ಚಟುವಟಿಕೆಗಳ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರುತ್ತವೆ. ಅಧಿಕಾರಿಗಳು ಎಚ್ಚರಿಕೆ ವಹಿಸುವಂತೆ ಸೂಚಿಸಿದ್ದಾರೆ. ಹವಾಮಾನ ಅಸ್ಥಿರವಾಗುತ್ತಿದ್ದಂತೆ NCM ಎಚ್ಚರಿಕೆಗಳೊಂದಿಗೆ ನವೀಕರಿಸಿಕೊಳ್ಳಿ."
+            },
+            "mr": {
+                "title": "यूएईमध्ये पाऊस, धूळ आणि जोरदार वाऱ्यासाठी तयार राहा",
+                "content": "यूएईच्या रहिवाशांनो, पुढील आठवड्यात महत्त्वपूर्ण हवामान बदलासाठी तयार रहा. राष्ट्रीय हवामान केंद्राने (NCM) हलका पाऊस, जोरदार वारे आणि खवळलेल्या समुद्राचा अंदाज वर्तवला आहे. धूळ आणि वाळूमुळे दृश्यामानता कमी होईल, ज्यामुळे बाह्य आणि सागरी उपक्रमांवर परिणाम होईल. प्रशासनाने सावधगिरी बाळगण्याचे आवाहन केले आहे. हवामान अस्थिर होत असताना NCM च्या सूचनांसह अद्ययावत रहा."
+            },
+            "hi": {
+                "title": "यूएई में बारिश, धूल और तेज़ हवाओं के लिए तैयार रहें",
+                "content": "यूएई के निवासियों, अगले सप्ताह एक महत्वपूर्ण मौसम परिवर्तन के लिए तैयार रहें। राष्ट्रीय मौसम विज्ञान केंद्र (NCM) ने हल्की बारिश, तेज़ हवाओं और अशांत समुद्र का अनुमान लगाते हुए एक सलाह जारी की है। धूल और रेत से दृश्यता कम होगी, जिससे बाहरी और समुद्री गतिविधियों पर असर पड़ेगा। अधिकारियों ने सावधानी बरतने का आग्रह किया है। जैसे-जैसे मौसम अस्थिर हो, NCM की चेतावनियों से अपडेट रहें।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129995425,imgsize-100196.cms",
+        "link": "https://timesofindia.indiatimes.com/world/middle-east/uae-weather-alert-rain-dust-and-strong-winds-expected-next-week-as-ncm-issues-advisory/articleshow/129995235.cms",
+        "date": "2026-04-03T11:47:59+05:30"
+    },
+    {
+        "id": "73a02bc6",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Artemis II Crew Soars to Moon, Marveling at Earth",
+                "content": "Artemis II astronauts are moon-bound on the Orion spacecraft after a critical engine burn, enjoying breathtaking views of Earth. The mission is progressing optimally, with all systems and crew functioning perfectly during this crucial test flight. They're \"glued to windows,\" witnessing Earth's splendor as humanity takes a significant step towards lunar exploration."
+            },
+            "kn": {
+                "title": "ಆರ್ಟೆಮಿಸ್ II ಸಿಬ್ಬಂದಿ ಚಂದ್ರನತ್ತ ಪಯಣ, ಭೂಮಿಯನ್ನು ನೋಡಿ ವಿಸ್ಮಯ",
+                "content": "ಆರ್ಟೆಮಿಸ್ II ಗಗನಯಾತ್ರಿಗಳು ನಿರ್ಣಾಯಕ ಎಂಜಿನ್ ದಹನದ ನಂತರ ಓರಿಯನ್ ಬಾಹ್ಯಾಕಾಶ ನೌಕೆಯಲ್ಲಿ ಚಂದ್ರನತ್ತ ಹೊರಟಿದ್ದಾರೆ, ಭೂಮಿಯ ಉಸಿರುಬಿಗಿದುಕೊಳ್ಳುವ ನೋಟಗಳನ್ನು ಆನಂದಿಸುತ್ತಿದ್ದಾರೆ. ಈ ಪ್ರಮುಖ ಪರೀಕ್ಷಾ ಹಾರಾಟದ ಸಮಯದಲ್ಲಿ ಎಲ್ಲಾ ವ್ಯವಸ್ಥೆಗಳು ಮತ್ತು ಸಿಬ್ಬಂದಿ ಉತ್ತಮವಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಿದ್ದು, ಮಿಷನ್ ಪ್ರಗತಿಯಲ್ಲಿದೆ. ಅವರು \"ಕಿಟಕಿಗಳಿಗೆ ಅಂಟಿಕೊಂಡಿದ್ದು,\" ಮಾನವಕುಲವು ಚಂದ್ರನ ಅನ್ವೇಷಣೆಯತ್ತ ಮಹತ್ವದ ಹೆಜ್ಜೆ ಇಡುತ್ತಿರುವಾಗ ಭೂಮಿಯ ವೈಭವವನ್ನು ವೀಕ್ಷಿಸುತ್ತಿದ್ದಾರೆ."
+            },
+            "mr": {
+                "title": "आर्टेमिस II क्रू चंद्राकडे झेप, पृथ्वीच्या दर्शनाने थक्क",
+                "content": "आर्टेमिस II अंतराळवीर ओरियन स्पेसक्राफ्टमधून चंद्राकडे निघाले आहेत, एका महत्त्वपूर्ण इंजिन बर्ननंतर पृथ्वीचे मनमोहक दृश्य अनुभवत आहेत. या महत्त्वाच्या चाचणी उड्डाणादरम्यान सर्व प्रणाली आणि क्रू उत्तम प्रकारे कार्य करत असून, मोहीम यशस्वीरित्या पुढे सरकत आहे. ते \"खिडक्यांना चिटकून\", मानवतेने चंद्र मोहिमेकडे एक महत्त्वाचे पाऊल टाकत असताना पृथ्वीचे सौंदर्य पाहत आहेत."
+            },
+            "hi": {
+                "title": "आर्टेमिस II क्रू चंद्रमा की ओर रवाना, पृथ्वी के नज़ारे से अभिभूत",
+                "content": "आर्टेमिस II के अंतरिक्ष यात्री एक महत्वपूर्ण इंजन बर्न के बाद ओरियन अंतरिक्ष यान में चंद्रमा की ओर निकल पड़े हैं, पृथ्वी के लुभावने दृश्यों का आनंद ले रहे हैं। इस महत्वपूर्ण परीक्षण उड़ान के दौरान सभी प्रणालियां और चालक दल बेहतरीन ढंग से काम कर रहे हैं और मिशन सुचारु रूप से आगे बढ़ रहा है। वे \"खिड़कियों से चिपके हुए,\" पृथ्वी की महिमा देख रहे हैं क्योंकि मानवता चंद्र अन्वेषण की दिशा में एक महत्वपूर्ण कदम उठा रही है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129994652,imgsize-67750.cms",
+        "link": "https://timesofindia.indiatimes.com/science/glued-to-windows-how-artemis-ii-astronauts-spent-their-first-hours-on-orion-en-route-to-moon/articleshow/129994040.cms",
+        "date": "2026-04-03T11:46:45+05:30"
+    },
+    {
+        "id": "1305a9a2",
+        "category": "Sports",
+        "translations": {
+            "en": {
+                "title": "Ayush Mhatre's Dream Meet with Idol Rohit Sharma",
+                "content": "Young batter Ayush Mhatre had a \"dream day,\" meeting his idol Rohit Sharma at his residence for an inspiring two-hour conversation. Mhatre initiated the personal interaction, following Sharma's previous offer of guidance. This unforgettable experience remains a significant milestone, deeply fueling Mhatre's cricketing aspirations and journey."
+            },
+            "kn": {
+                "title": "ಆಯುಷ್ ಮ್ಹಾತ್ರೆ ಅವರ ಆದರ್ಶ ರೋಹಿತ್ ಶರ್ಮಾ ಅವರೊಂದಿಗೆ ಕನಸಿನ ಭೇಟಿ",
+                "content": "ಯುವ ಬ್ಯಾಟರ್ ಆಯುಷ್ ಮ್ಹಾತ್ರೆ ಅವರು ತಮ್ಮ ಆದರ್ಶ ರೋಹಿತ್ ಶರ್ಮಾ ಅವರನ್ನು ಅವರ ನಿವಾಸದಲ್ಲಿ ಭೇಟಿಯಾಗಿ ಎರಡು ಗಂಟೆಗಳ ಕಾಲ ಸ್ಫೂರ್ತಿದಾಯಕ ಸಂಭಾಷಣೆ ನಡೆಸಿ \"ಕನಸಿನ ದಿನ\" ಕಳೆದರು. ಶರ್ಮಾ ಅವರ ಹಿಂದಿನ ಮಾರ್ಗದರ್ಶನ ನೀಡುವ ಪ್ರಸ್ತಾಪದ ನಂತರ ಮ್ಹಾತ್ರೆ ಈ ವೈಯಕ್ತಿಕ ಸಂವಾದವನ್ನು ಪ್ರಾರಂಭಿಸಿದರು. ಈ ಮರೆಯಲಾಗದ ಅನುಭವವು ಮ್ಹಾತ್ರೆಯವರ ಕ್ರಿಕೆಟ್ ಆಕಾಂಕ್ಷೆಗಳು ಮತ್ತು ಪ್ರಯಾಣಕ್ಕೆ ಆಳವಾಗಿ ಉತ್ತೇಜನ ನೀಡುವ ಮಹತ್ವದ ಮೈಲಿಗಲ್ಲಾಗಿ ಉಳಿದಿದೆ."
+            },
+            "mr": {
+                "title": "आयुष म्हात्रेची आदर्श रोहित शर्मासोबत स्वप्नवत भेट",
+                "content": "युवा फलंदाज आयुष म्हात्रेने आपला आदर्श रोहित शर्माला त्याच्या निवासस्थानी भेटून \"स्वप्नवत दिवस\" अनुभवला, जिथे दोन तास प्रेरणादायी संवाद झाला. शर्माच्या मागील मार्गदर्शनाच्या ऑफरनंतर म्हात्रेनेच ही वैयक्तिक भेट घडवून आणली. हा अविस्मरणीय अनुभव म्हात्रेच्या क्रिकेटमधील महत्त्वाकांक्षा आणि प्रवासाला खोलवर चालना देणारा एक महत्त्वाचा टप्पा ठरला आहे."
+            },
+            "hi": {
+                "title": "आयुष म्हात्रे की आदर्श रोहित शर्मा से सपनों भरी मुलाकात",
+                "content": "युवा बल्लेबाज आयुष म्हात्रे ने अपने आदर्श रोहित शर्मा से उनके निवास पर दो घंटे की प्रेरक बातचीत करते हुए \"सपनों भरा दिन\" बिताया। शर्मा के पिछले मार्गदर्शन प्रस्ताव के बाद म्हात्रे ने ही इस व्यक्तिगत बातचीत की शुरुआत की थी। यह अविस्मरणीय अनुभव म्हात्रे की क्रिकेट आकांक्षाओं और यात्रा को गहराई से बढ़ावा देने वाला एक महत्वपूर्ण मील का पत्थर बना हुआ है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129994971,imgsize-1048007.cms",
+        "link": "https://timesofindia.indiatimes.com/sports/cricket/news/i-can-come-anywhere-to-meet-you-ayush-mhatre-on-unforgettable-time-with-rohit-sharma/articleshow/129994930.cms",
+        "date": "2026-04-03T11:27:50+05:30"
+    },
+    {
+        "id": "18c9793d",
+        "category": "Entertainment",
+        "translations": {
+            "en": {
+                "title": "Dhurandhar 2: Box Office Juggernaut",
+                "content": "Ranveer Singh's 'Dhurandhar 2' is a box office juggernaut, amassing Rs. 939.46 crore India net in just 16 days. Surpassing its predecessor's lifetime collections, it boasts a global gross of Rs. 1,492.17 crore. Despite the IPL, the film continues its dominance, becoming the highest-grossing Indian film in North America and is rapidly closing in on the monumental Rs. 1,000 crore India net milestone."
+            },
+            "kn": {
+                "title": "ಧುರಂಧರ್ 2: ಬಾಕ್ಸ್ ಆಫೀಸ್ ದೈತ್ಯ",
+                "content": "ರಣವೀರ್ ಸಿಂಗ್ ಅವರ 'ಧುರಂಧರ್ 2' ಬಾಕ್ಸ್ ಆಫೀಸ್‌ನಲ್ಲಿ ಅಬ್ಬರಿಸುತ್ತಿದೆ. ಕೇವಲ 16 ದಿನಗಳಲ್ಲಿ ಭಾರತದಲ್ಲಿ 939.46 ಕೋಟಿ ರೂ. ನಿವ್ವಳ ಗಳಿಕೆ ಕಂಡಿದೆ. ಇದು ತನ್ನ ಹಿಂದಿನ ಭಾಗದ ಗಳಿಕೆಯನ್ನು ಮೀರಿ, ಜಾಗತಿಕವಾಗಿ 1,492.17 ಕೋಟಿ ರೂ. ಗಳಿಸಿದೆ. ಐಪಿಎಲ್ ಹೊರತಾಗಿಯೂ, ಉತ್ತರ ಅಮೆರಿಕಾದಲ್ಲಿ ಅತಿ ಹೆಚ್ಚು ಗಳಿಕೆ ಮಾಡಿದ ಭಾರತೀಯ ಚಲನಚಿತ್ರವಾಗಿ ಪ್ರಾಬಲ್ಯ ಸಾಧಿಸುತ್ತಿದ್ದು, ಶೀಘ್ರದಲ್ಲೇ 1,000 ಕೋಟಿ ರೂ. ನಿವ್ವಳ ಗಡಿಯನ್ನು ತಲುಪಲಿದೆ."
+            },
+            "mr": {
+                "title": "धुरंधर 2: बॉक्स ऑफिसवर धुमाकूळ",
+                "content": "रणवीर सिंगचा 'धुरंधर 2' बॉक्स ऑफिसवर धुमाकूळ घालत आहे. अवघ्या 16 दिवसांत या चित्रपटाने भारतात 939.46 कोटी रुपयांची निव्वळ कमाई केली आहे. मागील भागाची लाइफटाइम कमाई मागे टाकत, या चित्रपटाने जागतिक स्तरावर 1,492.17 कोटी रुपयांचा गल्ला जमवला आहे. आयपीएल असूनही, हा चित्रपट उत्तर अमेरिकेत सर्वाधिक कमाई करणारा भारतीय चित्रपट ठरला असून, लवकरच 1,000 कोटी रुपयांच्या निव्वळ कमाईचा टप्पा गाठत आहे."
+            },
+            "hi": {
+                "title": "धुरंधर 2: बॉक्स ऑफिस पर धूम",
+                "content": "रणवीर सिंह की 'धुरंधर 2' बॉक्स ऑफिस पर धूम मचा रही है, जिसने सिर्फ 16 दिनों में भारत में 939.46 करोड़ रुपये का नेट कलेक्शन किया है। इसने अपने पिछले भाग की लाइफटाइम कमाई को पीछे छोड़ दिया है और वैश्विक स्तर पर 1,492.17 करोड़ रुपये का ग्रॉस कलेक्शन किया है। आईपीएल के बावजूद, फिल्म अपना दबदबा बनाए हुए है, उत्तरी अमेरिका में सबसे ज्यादा कमाई करने वाली भारतीय फिल्म बन गई है और तेजी से 1,000 करोड़ रुपये के नेट कलेक्शन के ऐतिहासिक मील के पत्थर के करीब पहुंच रही है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129995382,imgsize-93538.cms",
+        "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-box-office-collection-day-16-live-ranveer-singh-rakesh-bedi-sanjay-dutt-arjun-rampal-film-eyes-rs-950-crore-india-net-on-third-friday-as-worldwide-gross-closes-in-on-rs-1500-crore/articleshow/129995382.cms",
+        "date": "2026-04-03T11:56:30+05:30"
+    },
+    {
+        "id": "307d46d2",
+        "category": "Entertainment",
+        "translations": {
+            "en": {
+                "title": "Dhurandhar: The Revenge Nears Staggering Rs 1,500 Cr Mark Globally",
+                "content": "Ranveer Singh's spy thriller \"Dhurandhar: The Revenge\" is a global box office sensation, raking in an astounding Rs 1490 crore worldwide in just 15 days. As it enters its third week, the film is set to surpass the massive Rs 1500 crore milestone, solidifying its position as a cinematic powerhouse. Domestically, it's also performing strongly, approaching Rs 950 crore net collection."
+            },
+            "kn": {
+                "title": "ಧುರಂಧರ್: ದಿ ರಿವೆಂಜ್ ಜಾಗತಿಕವಾಗಿ 1,500 ಕೋಟಿ ರೂ. ಗಡಿ ಸಮೀಪ",
+                "content": "ರಣವೀರ್ ಸಿಂಗ್ ಅಭಿನಯದ ಗೂಢಚಾರಿ ಥ್ರಿಲ್ಲರ್ \"ಧುರಂಧರ್: ದಿ ರಿವೆಂಜ್\" ಕೇವಲ 15 ದಿನಗಳಲ್ಲಿ ಜಾಗತಿಕವಾಗಿ 1490 ಕೋಟಿ ರೂ. ಗಳಿಸಿ ಬಾಕ್ಸ್ ಆಫೀಸ್‌ನಲ್ಲಿ ಸಂಚಲನ ಮೂಡಿಸಿದೆ. ಮೂರನೇ ವಾರಕ್ಕೆ ಕಾಲಿಡುತ್ತಿದ್ದಂತೆ, ಚಿತ್ರವು ಬೃಹತ್ 1500 ಕೋಟಿ ರೂ. ಮೈಲಿಗಲ್ಲನ್ನು ದಾಟಲು ಸಜ್ಜಾಗಿದೆ, ಇದು ಸಿನೆಮಾ ಕ್ಷೇತ್ರದಲ್ಲಿ ಅದರ ಶಕ್ತಿಯನ್ನು ದೃಢಪಡಿಸುತ್ತದೆ. ದೇಶೀಯವಾಗಿ, ಇದು 950 ಕೋಟಿ ರೂ. ನಿವ್ವಳ ಸಂಗ್ರಹವನ್ನು ಸಮೀಪಿಸುತ್ತಿದೆ."
+            },
+            "mr": {
+                "title": "धुरंधर: द रिव्हेंज जागतिक स्तरावर 1,500 कोटींच्या टप्प्यावर",
+                "content": "रणवीर सिंगच्या स्पाय थ्रिलर \"धुरंधर: द रिव्हेंज\" ने केवळ 15 दिवसांत जगभरात 1490 कोटी रुपये कमावून बॉक्स ऑफिसवर धुमाकूळ घातला आहे. तिसऱ्या आठवड्यात प्रवेश करत असताना, हा चित्रपट भव्य 1500 कोटींचा टप्पा ओलांडण्यासाठी सज्ज आहे, ज्यामुळे चित्रपटाची ताकद सिद्ध होते. देशांतर्गतही, हा चित्रपट 950 कोटींच्या निव्वळ कलेक्शनच्या जवळ पोहोचत आहे."
+            },
+            "hi": {
+                "title": "धुरंधर: द रिवेंज वैश्विक स्तर पर 1,500 करोड़ के करीब",
+                "content": "रणवीर सिंह की स्पाई थ्रिलर \"धुरंधर: द रिवेंज\" ने सिर्फ 15 दिनों में दुनिया भर में 1490 करोड़ रुपये की कमाई कर बॉक्स ऑफिस पर धूम मचा दी है। तीसरे हफ्ते में प्रवेश करते ही, यह फिल्म 1500 करोड़ रुपये के विशाल मील के पत्थर को पार करने के लिए तैयार है, जो सिनेमाई जगत में इसकी ताकत को मजबूत करता है। घरेलू स्तर पर भी, यह 950 करोड़ रुपये के शुद्ध कलेक्शन के करीब पहुंच रही है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129991880,imgsize-38034.cms",
+        "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-box-office-collection-day-15-ranveer-singh-rakesh-bedi-sanjay-dutt-and-arjun-rampals-film-inches-close-to-rs-1500-cr-mark-worldwide/articleshow/129991874.cms",
+        "date": "2026-04-03T05:52:13+05:30"
+    },
+    {
         "id": "ff2e2f82",
         "category": "IPL Scoop",
         "translations": {
@@ -1448,555 +1998,5 @@
         "image": "https://static.toiimg.com/photo/msid-129966609,imgsize-57274.cms",
         "link": "https://timesofindia.indiatimes.com/india/as-glp-1-generics-flood-market-govt-intensifies-surveillance/articleshow/129966556.cms",
         "date": "2026-04-02T09:02:45+05:30"
-    },
-    {
-        "id": "08c14e00",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Thiruma: No Agenda in Candidate Choices",
-                "content": "VCK chief Thol. Thirumavalavan has emphatically stated there is \"no agenda\" in the party's candidate selection for the upcoming elections. Addressing recent speculation, he clarified that choices are purely based on merit, winnability, and party strategy, not personal preferences or external influence. Thirumavalavan underscored the party's commitment to democratic principles and transparency, aiming to dispel any doubts regarding the fairness and impartiality of the nomination process."
-            },
-            "kn": {
-                "title": "ತಿರುಮಾ: ಅಭ್ಯರ್ಥಿ ಆಯ್ಕೆಯಲ್ಲಿ ಯಾವುದೇ ಅಜೆಂಡಾ ಇಲ್ಲ",
-                "content": "ವಿಡಿಸಿ ಕೆ ಮುಖ್ಯಸ್ಥ ತೊಳ್. ತಿರುಮಾವಳವನ್ ಮುಂಬರುವ ಚುನಾವಣೆಗಳಿಗೆ ಪಕ್ಷದ ಅಭ್ಯರ್ಥಿ ಆಯ್ಕೆಯಲ್ಲಿ 'ಯಾವುದೇ ಅಜೆಂಡಾ ಇಲ್ಲ' ಎಂದು ಸ್ಪಷ್ಟವಾಗಿ ಹೇಳಿದ್ದಾರೆ. ಇತ್ತೀಚಿನ ಊಹಾಪೋಹಗಳಿಗೆ ಉತ್ತರಿಸಿದ ಅವರು, ಆಯ್ಕೆಗಳು ಸಂಪೂರ್ಣವಾಗಿ ಅರ್ಹತೆ, ಗೆಲ್ಲುವ ಸಾಮರ್ಥ್ಯ ಮತ್ತು ಪಕ್ಷದ ತಂತ್ರವನ್ನು ಆಧರಿಸಿವೆ ಎಂದು ಸ್ಪಷ್ಟಪಡಿಸಿದರು, ವೈಯಕ್ತಿಕ ಆದ್ಯತೆಗಳು ಅಥವಾ ಬಾಹ್ಯ ಪ್ರಭಾವವನ್ನಲ್ಲ. ಪ್ರಜಾಪ್ರಭುತ್ವ ತತ್ವಗಳು ಮತ್ತು ಪಾರದರ್ಶಕತೆಗೆ ಪಕ್ಷದ ಬದ್ಧತೆಯನ್ನು ತಿರುಮಾವಳವನ್ ಒತ್ತಿಹೇಳಿದರು, ನಾಮನಿರ್ದೇಶನ ಪ್ರಕ್ರಿಯೆಯ ನ್ಯಾಯಸಮ್ಮತತೆ ಮತ್ತು ನಿಷ್ಪಕ್ಷಪಾತದ ಬಗ್ಗೆ ಯಾವುದೇ ಅನುಮಾನಗಳನ್ನು ನಿವಾರಿಸುವ ಗುರಿಯನ್ನು ಹೊಂದಿದ್ದಾರೆ."
-            },
-            "mr": {
-                "title": "थिरुमा: उमेदवार निवडीत कोणताही अजेंडा नाही",
-                "content": "व्हीसीके प्रमुख थोळ. थिरुमावलवन यांनी आगामी निवडणुकांसाठी पक्षाच्या उमेदवार निवडीत 'कोणताही अजेंडा नाही' असे ठामपणे सांगितले आहे. अलीकडील अटकळींना उत्तर देताना, त्यांनी स्पष्ट केले की निवडी पूर्णपणे गुणवत्तेवर, जिंकण्याच्या क्षमतेवर आणि पक्षाच्या रणनीतीवर आधारित आहेत, वैयक्तिक प्राधान्ये किंवा बाह्य प्रभावावर नाहीत. थिरुमावलवन यांनी लोकशाही तत्त्वे आणि पारदर्शकतेसाठी पक्षाची वचनबद्धता अधोरेखित केली, उमेदवारी प्रक्रियेच्या न्याय्यतेबद्दल आणि निःपक्षपातीपणाबद्दल कोणतीही शंका दूर करण्याचा उद्देश ठेवला आहे."
-            },
-            "hi": {
-                "title": "थिरुमा: उम्मीदवार चयन में कोई एजेंडा नहीं",
-                "content": "वीसीके प्रमुख थोल्. थिरुमावलवन ने आगामी चुनावों के लिए पार्टी के उम्मीदवार चयन में 'कोई एजेंडा नहीं' होने का स्पष्ट रूप से कहा है। हालिया अटकलों का जवाब देते हुए, उन्होंने स्पष्ट किया कि चुनाव पूरी तरह से योग्यता, जीतने की क्षमता और पार्टी की रणनीति पर आधारित हैं, न कि व्यक्तिगत प्राथमिकताओं या बाहरी प्रभाव पर। थिरुमावलवन ने लोकतांत्रिक सिद्धांतों और पारदर्शिता के प्रति पार्टी की प्रतिबद्धता को रेखांकित किया, जिसका उद्देश्य नामांकन प्रक्रिया की निष्पक्षता और निष्पक्षता के बारे में किसी भी संदेह को दूर करना है।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQXzJNeUR6UnFsY1EzWWZGcjA2Z0RtWnNXT2tqVVFzMTVsUDEwdlNLM21TclNRMU5OZ3ZjWFBuT2tteE0tZ1llTktZVjNYeTgyTnEzRjUtOFJYMlN6dEZMWmhjUUpSUk01S3lFLUN3TTd3UlV2UmNTajc3YXJXS3ZPNnh5TkIzRklkMDFidDlacV9SYXA1WjJncDJ1NllRMFAxYUcyNXA0VVVrQkM4bjhUQnd30gG3AUFVX3lxTE9MUnhhWDhGbmFZMmVNa2Qyc1VYSE9melJ0LWs2UjltZll6anhfa0tRVURUZGR3OEM4T3J2NEhkTjdwaXRId3N5VXl6WjEtNjByTUU3SjFUTGVRSXVwNGtVTFBxbC1ZUHZnMjZmTF9KSnVJZ3ZmWjNpWXdsbEk5WHFLckxOQ01QOUQwUk5xRHZIOTR3WjRDTVdwR3JYQ3dZejVRZ3JHbHp4TjBhakg3d2Z2M1Y4dGlQTQ?oc=5",
-        "date": "Wed, 01 Apr 2026 23:11:00 GMT"
-    },
-    {
-        "id": "14b5c4f1",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Duckett Faces Fine, Potential IPL Ban",
-                "content": "England cricketer Ben Duckett is reportedly facing a hefty fine and a potential ban from the Indian Premier League (IPL) following a disciplinary incident. Details surrounding the nature of the transgression are yet to be fully disclosed. This could significantly impact his career and future participation in high-profile T20 tournaments, adding uncertainty for the talented batsman."
-            },
-            "kn": {
-                "title": "ಡಕೆಟ್‌ಗೆ ದಂಡ, ಐಪಿಎಲ್ ನಿಷೇಧದ ಭೀತಿ",
-                "content": "ಇಂಗ್ಲೆಂಡ್ ಕ್ರಿಕೆಟಿಗ ಬೆನ್ ಡಕೆಟ್ ಶಿಸ್ತು ಕ್ರಮದ ಘಟನೆಯ ನಂತರ ಭಾರಿ ದಂಡ ಮತ್ತು ಇಂಡಿಯನ್ ಪ್ರೀಮಿಯರ್ ಲೀಗ್ (ಐಪಿಎಲ್) ನಿಂದ ಸಂಭಾವ್ಯ ನಿಷೇಧವನ್ನು ಎದುರಿಸುತ್ತಿದ್ದಾರೆ ಎಂದು ವರದಿಯಾಗಿದೆ. ಈ ಉಲ್ಲಂಘನೆಯ ಸ್ವರೂಪದ ವಿವರಗಳು ಇನ್ನೂ ಸಂಪೂರ್ಣವಾಗಿ ಬಹಿರಂಗಗೊಂಡಿಲ್ಲ. ಇದು ಅವರ ವೃತ್ತಿಜೀವನ ಮತ್ತು ಉನ್ನತ ಮಟ್ಟದ ಟಿ20 ಪಂದ್ಯಾವಳಿಗಳಲ್ಲಿ ಭವಿಷ್ಯದ ಭಾಗವಹಿಸುವಿಕೆಗೆ ಗಮನಾರ್ಹವಾಗಿ ಪರಿಣಾಮ ಬೀರಬಹುದು, ಅನಿಶ್ಚಿತತೆಯನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "डकेटला दंड, आयपीएल बंदीची शक्यता",
-                "content": "इंग्लंडचा क्रिकेटपटू बेन डकेटला शिस्तभंगाच्या घटनेनंतर मोठा दंड आणि इंडियन प्रीमियर लीग (आयपीएल) मधून संभाव्य बंदीचा सामना करावा लागत आहे. या उल्लंघनाच्या स्वरूपाचे तपशील अद्याप पूर्णपणे उघड झालेले नाहीत. यामुळे त्याच्या कारकिर्दीवर आणि उच्च-प्रोफाइल टी-२० स्पर्धांमधील भविष्यातील सहभागावर लक्षणीय परिणाम होऊ शकतो, ज्यामुळे अनिश्चितता वाढेल."
-            },
-            "hi": {
-                "title": "डकैट पर जुर्माना, संभावित आईपीएल प्रतिबंध",
-                "content": "इंग्लैंड के क्रिकेटर बेन डकेट अनुशासनात्मक घटना के बाद भारी जुर्माने और इंडियन प्रीमियर लीग (आईपीएल) से संभावित प्रतिबंध का सामना कर रहे हैं। उल्लंघन की प्रकृति के संबंध में विवरण अभी तक पूरी तरह से सामने नहीं आए हैं। यह उनके करियर और उच्च-स्तरीय टी20 टूर्नामेंट में भविष्य की भागीदारी पर महत्वपूर्ण प्रभाव डाल सकता है, जिससे अनिश्चितता बढ़ जाएगी।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYllDTnJjdzVlX052ZDRXRGh6LXIyUlMwN3NlY0hWU010Yy1EbWpUaUx4UllrNDRWdklCUWRZSy0zUzdYeGU2REJ5VnNRTFpKa2pjZ2g3cXdxV1NKcFNkaG81MjdSakhNSEFTS2dFWmtLRkhmaG5OX2JCeTgwV19rOHYyUGRxQWZBdzlPUmY3emtVTTZUYmVVLWlMX2QxR05KUXpJb0laWGRhU3ZQQjRTemlXQnpfU0JsS3hIZGNrZUdfS1NueVByQ2FLa2ZqX1lXSDE2bFRieWE?oc=5",
-        "date": "Thu, 02 Apr 2026 01:14:52 GMT"
-    },
-    {
-        "id": "529a9925",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "IPL 2026 Vlogger Challenge: Tanvi Shah vs. Washington Sundar",
-                "content": "Ever wondered who's the best vlogger? Join Tanvi Shah and cricket star Washington Sundar in an exciting vlogging challenge presented by Gujarat Titans for IPL 2026! Watch them battle it out, share their unique perspectives, and decide for yourself: Who truly has the winning vlog? Don't miss this fun-filled showdown!"
-            },
-            "kn": {
-                "title": "IPL 2026 ವ್ಲಾಗರ್ ಚಾಲೆಂಜ್: ತನ್ವಿ ಶಾ vs. ವಾಷಿಂಗ್ಟನ್ ಸುಂದರ್",
-                "content": "ಅತ್ಯುತ್ತಮ ವ್ಲಾಗರ್ ಯಾರು ಎಂದು ಎಂದಾದರೂ ಯೋಚಿಸಿದ್ದೀರಾ? IPL 2026 ಗಾಗಿ ಗುಜರಾತ್ ಟೈಟನ್ಸ್ ಪ್ರಸ್ತುತಪಡಿಸುವ ರೋಮಾಂಚಕ ವ್ಲಾಗಿಂಗ್ ಚಾಲೆಂಜ್‌ನಲ್ಲಿ ತನ್ವಿ ಶಾ ಮತ್ತು ಕ್ರಿಕೆಟ್ ತಾರೆ ವಾಷಿಂಗ್ಟನ್ ಸುಂದರ್ ಜೊತೆಗೂಡಿ! ಅವರು ಸ್ಪರ್ಧಿಸುವುದನ್ನು ವೀಕ್ಷಿಸಿ, ಅವರ ಅನನ್ಯ ದೃಷ್ಟಿಕೋನಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳುವುದನ್ನು ನೋಡಿ ಮತ್ತು ನೀವೇ ನಿರ್ಧರಿಸಿ: ನಿಜವಾಗಿಯೂ ಯಾರ ವ್ಲಾಗ್ ವಿಜೇತವಾಗಿದೆ? ಈ ಮೋಜಿನ ಕದನವನ್ನು ತಪ್ಪಿಸಿಕೊಳ್ಳಬೇಡಿ!"
-            },
-            "mr": {
-                "title": "IPL 2026 व्लॉगर चॅलेंज: तन्वी शाह विरुद्ध वॉशिंग्टन सुंदर",
-                "content": "सर्वोत्तम व्लॉगर कोण आहे याचा कधी विचार केला आहे का? IPL 2026 साठी गुजरात टायटन्सने सादर केलेल्या रोमांचक व्लॉगिंग चॅलेंजमध्ये तन्वी शाह आणि क्रिकेट स्टार वॉशिंग्टन सुंदर सामील व्हा! त्यांना स्पर्धा करताना, त्यांचे अनमोल दृष्टिकोन शेअर करताना पहा आणि स्वतःच ठरवा: खऱ्या अर्थाने कोणाचा व्लॉग विजेता आहे? हा मजेदार सामना चुकवू नका!"
-            },
-            "hi": {
-                "title": "IPL 2026 व्लॉगर चैलेंज: तन्वी शाह बनाम वॉशिंगटन सुंदर",
-                "content": "क्या आपने कभी सोचा है कि सबसे अच्छा व्लॉगर कौन है? IPL 2026 के लिए गुजरात टाइटन्स द्वारा प्रस्तुत रोमांचक व्लॉगिंग चैलेंज में तन्वी शाह और क्रिकेट स्टार वॉशिंगटन सुंदर से जुड़ें! उन्हें मुकाबला करते हुए, अपने अनूठे दृष्टिकोण साझा करते हुए देखें और खुद तय करें: वास्तव में किसका व्लॉग विजेता है? इस मज़ेदार मुकाबले को देखना न भूलें!"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPV1hEMW1DazZyTjE1TElVblpwc2FsOTQ0cFBCejd1ZkxNQVlFeFlIZTVWSVdXRWVPS3hzUlktbmI3NnZCeUVEOEl0Zk5EV2VMbnZGblh1X2FYc0JQREhEelZhYV9jcDh6THdSamRHV3ZUTmh3NWVBN1JfdXBVbjl1N3BBaDJDZ1E5VzI5ZHZzcF9KUkhEOWtpRE5uZkNwRDNRcDh0Q3JVU1ljRExqN1RHVWpTUEJJN1pwMjZhRDl0ZjVMenhpVUVvaWV3?oc=5",
-        "date": "Wed, 01 Apr 2026 17:31:53 GMT"
-    },
-    {
-        "id": "cd487e14",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "RCB Extends BigBasket Partnership Till IPL 2026",
-                "content": "Royal Challengers Bangalore (RCB) has extended its partnership with BigBasket until IPL 2026. This renewal solidifies their focus on quick commerce and enhancing digital fan engagement. The collaboration aims to provide fans with seamless shopping experiences and innovative ways to connect with the team, leveraging BigBasket's platform for greater brand visibility and fan interaction in the cricket ecosystem."
-            },
-            "kn": {
-                "title": "RCB ಬಿಗ್‌ಬಾಸ್ಕೆಟ್ ಸಹಭಾಗಿತ್ವವನ್ನು IPL 2026 ರವರೆಗೆ ವಿಸ್ತರಿಸಿದೆ",
-                "content": "ರಾಯಲ್ ಚಾಲೆಂಜರ್ಸ್ ಬೆಂಗಳೂರು (RCB) ಬಿಗ್‌ಬಾಸ್ಕೆಟ್‌ನೊಂದಿಗಿನ ತನ್ನ ಸಹಭಾಗಿತ್ವವನ್ನು IPL 2026 ರವರೆಗೆ ವಿಸ್ತರಿಸಿದೆ. ಈ ನವೀಕರಣವು ಕ್ಷಿಪ್ರ ವಾಣಿಜ್ಯ ಮತ್ತು ಡಿಜಿಟಲ್ ಅಭಿಮಾನಿಗಳ ನಿಶ್ಚಿತಾರ್ಥವನ್ನು ಹೆಚ್ಚಿಸುವುದರ ಮೇಲೆ ಅವರ ಗಮನವನ್ನು ಬಲಪಡಿಸುತ್ತದೆ. ಈ ಸಹಯೋಗವು ಅಭಿಮಾನಿಗಳಿಗೆ ತಡೆರಹಿತ ಶಾಪಿಂಗ್ ಅನುಭವಗಳು ಮತ್ತು ತಂಡದೊಂದಿಗೆ ಸಂಪರ್ಕ ಸಾಧಿಸಲು ನವೀನ ಮಾರ್ಗಗಳನ್ನು ಒದಗಿಸುವ ಗುರಿಯನ್ನು ಹೊಂದಿದೆ, ಕ್ರಿಕೆಟ್ ಪರಿಸರ ವ್ಯವಸ್ಥೆಯಲ್ಲಿ ಬ್ರ್ಯಾಂಡ್ ಗೋಚರತೆ ಮತ್ತು ಅಭಿಮಾನಿಗಳ ಸಂವಹನಕ್ಕಾಗಿ ಬಿಗ್‌ಬಾಸ್ಕೆಟ್ ವೇದಿಕೆಯನ್ನು ಬಳಸಿಕೊಳ್ಳುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "आरसीबीने बिगबास्केटसोबतची भागीदारी आयपीएल २०२६ पर्यंत वाढवली",
-                "content": "रॉयल चॅलेंजर्स बंगलोर (आरसीबी) ने बिगबास्केटसोबतची आपली भागीदारी आयपीएल २०२६ पर्यंत वाढवली आहे. हे नूतनीकरण जलद वाणिज्य आणि डिजिटल चाहत्यांच्या सहभागावर त्यांचे लक्ष केंद्रित करते. या सहकार्याचा उद्देश चाहत्यांना अखंड खरेदी अनुभव आणि संघाशी जोडले जाण्याचे अभिनव मार्ग प्रदान करणे आहे, बिगबास्केटच्या प्लॅटफॉर्मचा वापर क्रिकेट परिसंस्थेतील ब्रँडची दृश्यमानता आणि चाहत्यांशी संवाद वाढवण्यासाठी केला जाईल."
-            },
-            "hi": {
-                "title": "आरसीबी ने बिगबास्केट के साथ साझेदारी IPL 2026 तक बढ़ाई",
-                "content": "रॉयल चैलेंजर्स बैंगलोर (आरसीबी) ने बिगबास्केट के साथ अपनी साझेदारी को आईपीएल 2026 तक बढ़ा दिया है। यह नवीनीकरण त्वरित वाणिज्य और डिजिटल प्रशंसक जुड़ाव बढ़ाने पर उनके ध्यान को मजबूत करता है। इस सहयोग का उद्देश्य प्रशंसकों को सहज खरीदारी अनुभव और टीम से जुड़ने के अभिनव तरीके प्रदान करना है, क्रिकेट पारिस्थितिकी तंत्र में ब्रांड दृश्यता और प्रशंसक बातचीत के लिए बिगबास्केट के मंच का लाभ उठाना है।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbUFMTG15UWlFZmQ4WEFYajRrd0h4UWRDRU9XRkpJc0c2bnJzT2ZSeWNubWtUd3YtVmRDRFVVcjY1aGJSV1ZJWDluMkNmVGpCblZUMzJ0U2puS1VWUEVfSXRWZk01bkxsUXpRWGVDM3NKbWVNeEJuR0Y5a2ZSaTE2UFFtSTdjek13aG8yRmdLQkVtN1ByNnpPV2dzX19fT1N4NVRobUYwZmZKVjNsczlWYXB1dm0tMXdXbkJPOXUyOGtjYWhkRFEtT1FvOG8?oc=5",
-        "date": "Wed, 01 Apr 2026 19:04:31 GMT"
-    },
-    {
-        "id": "d7d0a75b",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Census 2027 Kicks Off: President, PM Lead Self-Enumeration",
-                "content": "India's Census 2027 has officially begun with President Murmu, PM Modi, VP Radhakrishnan, and HM Amit Shah completing self-enumeration. This marks the first phase, focusing on house listing and housing census. A 15-day self-enumeration drive in Delhi started Wednesday, signaling the nationwide initiative."
-            },
-            "kn": {
-                "title": "ಜನಗಣತಿ 2027 ಶುರು: ರಾಷ್ಟ್ರಪತಿ, ಪ್ರಧಾನಿ ಸ್ವಯಂ-ಗಣತಿಗೆ ಚಾಲನೆ",
-                "content": "ಭಾರತದ ಜನಗಣತಿ 2027 ಅಧಿಕೃತವಾಗಿ ಪ್ರಾರಂಭವಾಗಿದೆ, ರಾಷ್ಟ್ರಪತಿ ಮುರ್ಮು, ಪ್ರಧಾನಿ ಮೋದಿ, ಉಪಾಧ್ಯಕ್ಷ ರಾಧಾಕೃಷ್ಣನ್ ಮತ್ತು ಗೃಹ ಸಚಿವ ಅಮಿತ್ ಶಾ ಅವರು ಸ್ವಯಂ-ಗಣತಿಯನ್ನು ಪೂರ್ಣಗೊಳಿಸಿದ್ದಾರೆ. ಇದು ಮೊದಲ ಹಂತವಾಗಿದೆ, ಮನೆಗಳ ಪಟ್ಟಿ ಮತ್ತು ಗೃಹ ಜನಗಣತಿಯ ಮೇಲೆ ಕೇಂದ್ರೀಕೃತವಾಗಿದೆ. ದೆಹಲಿಯಲ್ಲಿ 15 ದಿನಗಳ ಸ್ವಯಂ-ಗಣತಿ ಅಭಿಯಾನ ಬುಧವಾರ ಪ್ರಾರಂಭವಾಯಿತು, ಇದು ರಾಷ್ಟ್ರವ್ಯಾಪಿ ಉಪಕ್ರಮಕ್ಕೆ ಸಂಕೇತವಾಗಿದೆ."
-            },
-            "mr": {
-                "title": "जनगणना २०२७ ला सुरुवात: राष्ट्रपती, पंतप्रधान यांनी स्व-गणना केली",
-                "content": "भारताची जनगणना २०२७ अधिकृतपणे सुरू झाली आहे. राष्ट्रपती मुर्मू, पंतप्रधान मोदी, उपराष्ट्रपती राधाकृष्णन आणि गृहमंत्री अमित शाह यांनी स्व-गणना पूर्ण केली आहे. हे घर नोंदणी आणि गृहगणतीवर लक्ष केंद्रित करणारा पहिला टप्पा आहे. दिल्लीत बुधवारपासून १५ दिवसांची स्व-गणना मोहीम सुरू झाली, जी देशव्यापी उपक्रमाची सुरुवात दर्शवते."
-            },
-            "hi": {
-                "title": "जनगणना 2027 शुरू: राष्ट्रपति, पीएम ने स्व-गणना की अगुवाई की",
-                "content": "भारत की जनगणना 2027 आधिकारिक तौर पर शुरू हो गई है, जिसमें राष्ट्रपति मुर्मू, पीएम मोदी, उपराष्ट्रपति राधाकृष्णन और गृह मंत्री अमित शाह ने स्व-गणना पूरी की है। यह पहला चरण है, जो घर सूचीकरण और आवास जनगणना पर केंद्रित है। दिल्ली में बुधवार से 15 दिवसीय स्व-गणना अभियान शुरू हुआ, जो राष्ट्रव्यापी पहल का संकेत है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129956673,imgsize-977731.cms",
-        "link": "https://timesofindia.indiatimes.com/india/census-2027-begins-president-murmu-pm-modi-among-leaders-completing-self-enumeration/articleshow/129956643.cms",
-        "date": "2026-04-01T21:26:30+05:30"
-    },
-    {
-        "id": "73b794e5",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Lewandowski Backs Noem Amid New Controversy",
-                "content": "Corey Lewandowski has publicly affirmed his strong support for South Dakota Governor Kristi Noem, declaring he's 'standing by her' amidst a new controversy involving her and Bryon Noem. As Governor Noem faces fresh scrutiny, the former Trump campaign manager's public solidarity highlights ongoing political tensions. Details of this evolving situation continue to draw significant media attention."
-            },
-            "kn": {
-                "title": "ಹೊಸ ವಿವಾದದ ನಡುವೆ ಲೆವಾಂಡೋವ್ಸ್ಕಿ ನೋಮ್‌ಗೆ ಬೆಂಬಲ",
-                "content": "ಕೋರಿ ಲೆವಾಂಡೋವ್ಸ್ಕಿ ಅವರು ದಕ್ಷಿಣ ಡಕೋಟಾ ಗವರ್ನರ್ ಕ್ರಿಸ್ಟಿ ನೋಮ್‌ಗೆ ಬ್ರಿಯಾನ್ ನೋಮ್ ಅವರೊಂದಿಗೆ ಹೊಸ ವಿವಾದದ ನಡುವೆ ತಮ್ಮ ದೃಢ ಬೆಂಬಲವನ್ನು ಸಾರ್ವಜನಿಕವಾಗಿ ಘೋಷಿಸಿದ್ದಾರೆ, 'ಅವರೊಂದಿಗೆ ನಿಲ್ಲುತ್ತೇನೆ' ಎಂದು ಹೇಳಿದ್ದಾರೆ. ಗವರ್ನರ್ ನೋಮ್ ಹೊಸ ಪರಿಶೀಲನೆಯನ್ನು ಎದುರಿಸುತ್ತಿರುವಾಗ, ಮಾಜಿ ಟ್ರಂಪ್ ಪ್ರಚಾರ ವ್ಯವಸ್ಥಾಪಕರ ಸಾರ್ವಜನಿಕ ಐಕ್ಯತೆ ನಡೆಯುತ್ತಿರುವ ರಾಜಕೀಯ ಉದ್ವಿಗ್ನತೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ಈ ವಿಕಸನಗೊಳ್ಳುತ್ತಿರುವ ಪರಿಸ್ಥಿತಿಯ ವಿವರಗಳು ಗಮನಾರ್ಹ ಮಾಧ್ಯಮ ಗಮನವನ್ನು ಸೆಳೆಯುತ್ತಲೇ ಇವೆ."
-            },
-            "mr": {
-                "title": "नवीन वादामुळे लेवांडोव्स्की यांचा नोएमला पाठिंबा",
-                "content": "कोरी लेवांडोव्स्की यांनी दक्षिण डकोटाच्या गव्हर्नर क्रिस्टी नोएम यांना ब्रायन नोएम यांच्याशी संबंधित नवीन वादामुळे 'त्यांच्या पाठीशी उभे' असल्याचे सांगत आपला ठाम पाठिंबा जाहीर केला आहे. गव्हर्नर नोएम यांना नवीन तपासणीला सामोरे जावे लागत असताना, ट्रम्प यांच्या माजी प्रचार व्यवस्थापकाची ही सार्वजनिक एकजूट सध्याच्या राजकीय तणावावर प्रकाश टाकते. या विकसनशील परिस्थितीचे तपशील महत्त्वाचे माध्यमांचे लक्ष वेधून घेत आहेत."
-            },
-            "hi": {
-                "title": "नए विवाद के बीच लेवांडोव्स्की ने नोएम का किया समर्थन",
-                "content": "कोरी लेवांडोव्स्की ने दक्षिण डकोटा की गवर्नर क्रिस्टी नोएम को ब्रायन नोएम से जुड़े एक नए विवाद के बीच 'उनके साथ खड़े रहने' की घोषणा करते हुए अपना दृढ़ समर्थन सार्वजनिक रूप से व्यक्त किया है। चूंकि गवर्नर नोएम को नए सिरे से जांच का सामना करना पड़ रहा है, पूर्व ट्रम्प अभियान प्रबंधक की सार्वजनिक एकजुटता चल रहे राजनीतिक तनावों को उजागर करती है। इस विकसित होती स्थिति का विवरण महत्वपूर्ण मीडिया का ध्यान आकर्षित कर रहा है।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPS2czNWwwQWRTZm1tb3lCSEc3b040ay1lZFRVZldGTXpWdVFqaUQ2c1NlR0NhY2RRS2NWLUlGRkUwVmZjRm9jOXFrdVRSQ2YtZkNGcU56eGY4QWprSG9wa05pal9tZ3dkbHF0RF9VMjRtdzRzWEhRNWh2WmYxZlJoUlF4bXZYVVV2V2t0WklWU1d1U2ZoWlU2bjFqY2RLRGRHRGZHcnRZNUFtblRNeFRUY0psVTVNTTJxaGJ6SURPVHNwelhqdThJUGNxZmpYSmR0MGM0cDVFYlZOTW5vbUw4akJZYlhtdjRtdTJoX3BPclN1N2psbU5TczROR19vSFBy0gGGAkFVX3lxTFA5bnIyU1lwZUptNFZFNTItdTkxcnFEYzFySGhCWG1uaDZVa2tQLXFBeTlPS0Y0V2ZvaWhFUERLYWFJTk0wZTI2a3pxNWxicDN4SHh6OW44Zjl0clZjdVg0YmNEc28yRUpaaklTSW85ZFlnNk0zUF8xa1Fib1dIbXlYTW50MXBTUzZ0RGJSM2d2VXZ5dzNjXzljSGktVzBDWE1mbFFUdHN2M1JFWjVHNWVpWEgtS2lyT2RIZVZQSk5DRjN3ajRVUWcxX253bHlIem1HdlhKajNLMHV6R1pzdnNobGpLZnp1U1JRcmt3dXB1dE83bWpwUEc0d096S1lFMDFOMGJzVHc?oc=5",
-        "date": "Wed, 01 Apr 2026 19:04:41 GMT"
-    },
-    {
-        "id": "94a664b0",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "Noem's Husband Promises Revelation on 'Secret Life'",
-                "content": "Kristi Noem's husband stated he would reveal his perspective on the 'secret life' controversy, but not today. This comes amidst public speculation surrounding Noem. His forthcoming account is anticipated to shed light on the situation, promising a future disclosure of details previously kept private."
-            },
-            "kn": {
-                "title": "ನೋಮ್ ಅವರ ಪತಿ 'ರಹಸ್ಯ ಜೀವನ'ದ ಕುರಿತು ಬಹಿರಂಗಪಡಿಸಲು ಭರವಸೆ",
-                "content": "ಕ್ರಿಸ್ಟಿ ನೋಮ್ ಅವರ ಪತಿ 'ರಹಸ್ಯ ಜೀವನ' ವಿವಾದದ ಬಗ್ಗೆ ತಮ್ಮ ದೃಷ್ಟಿಕೋನವನ್ನು ಬಹಿರಂಗಪಡಿಸುವುದಾಗಿ ಹೇಳಿದ್ದಾರೆ, ಆದರೆ ಇಂದಲ್ಲ. ನೋಮ್ ಅವರನ್ನು ಸುತ್ತುವರಿದ ಸಾರ್ವಜನಿಕ ಊಹಾಪೋಹಗಳ ನಡುವೆ ಇದು ಬಂದಿದೆ. ಅವರ ಮುಂದಿನ ವಿವರಣೆಯು ಪರಿಸ್ಥಿತಿಯ ಮೇಲೆ ಬೆಳಕು ಚೆಲ್ಲುವ ನಿರೀಕ್ಷೆಯಿದೆ, ಹಿಂದೆ ಖಾಸಗಿಯಾಗಿ ಇರಿಸಲಾಗಿದ್ದ ವಿವರಗಳನ್ನು ಭವಿಷ್ಯದಲ್ಲಿ ಬಹಿರಂಗಪಡಿಸುವುದಾಗಿ ಭರವಸೆ ನೀಡಿದೆ."
-            },
-            "mr": {
-                "title": "नोएमच्या पतीने 'गुप्त आयुष्या'बद्दल खुलासे करण्याचे वचन दिले",
-                "content": "क्रिस्टी नोएमच्या पतीने 'गुप्त आयुष्या'च्या वादावर आपले मत उघड करणार असल्याचे सांगितले, पण आज नाही. नोएमभोवतीच्या सार्वजनिक अटकळांदरम्यान हे आले आहे. त्यांच्या आगामी कथनामुळे परिस्थितीवर प्रकाश पडण्याची अपेक्षा आहे, ज्यात पूर्वी खाजगी ठेवलेल्या तपशीलांचे भविष्यकालीन प्रकटीकरण करण्याचे आश्वासन दिले आहे."
-            },
-            "hi": {
-                "title": "नोएम के पति ने 'गुप्त जीवन' पर खुलासे का वादा किया",
-                "content": "क्रिस्टी नोएम के पति ने 'गुप्त जीवन' विवाद पर अपना पक्ष उजागर करने की बात कही है, लेकिन आज नहीं। यह नोएम को घेरने वाली सार्वजनिक अटकलों के बीच आया है। उनके आने वाले बयान से स्थिति पर प्रकाश पड़ने की उम्मीद है, जिसमें पहले गुप्त रखे गए विवरणों का भविष्य में खुलासा करने का वादा किया गया है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129961128,imgsize-42760.cms",
-        "link": "https://timesofindia.indiatimes.com/world/us/today-is-not-the-day-kristi-noems-husband-says-he-will-reveal-his-side-of-story-on-secret-life/articleshow/129961050.cms",
-        "date": "2026-04-02T00:31:45+05:30"
-    },
-    {
-        "id": "e1b49feb",
-        "category": "Sports",
-        "translations": {
-            "en": {
-                "title": "Rizvi's Unbeaten 70 Powers DC Victory",
-                "content": "Sameer Rizvi's unbeaten 70 and Tristan Stubbs' 39* led Delhi Capitals to a stunning six-wicket victory over Lucknow Super Giants. Recovering from a disastrous 26 for 4, their unbroken 119-run partnership chased down LSG's 141 with ease. A remarkable turnaround for DC!"
-            },
-            "kn": {
-                "title": "ರಿಜ್ವಿ ಅವರ ಅಜೇಯ 70 ರನ್, DC ಗೆ ಗೆಲುವು ತಂದಿತು",
-                "content": "ಸಮೀರ್ ರಿಜ್ವಿ ಅವರ ಅಜೇಯ 70 ರನ್ ಮತ್ತು ಟ್ರಿಸ್ಟಾನ್ ಸ್ಟಬ್ಸ್ ಅವರ 39* ರನ್, ಡೆಲ್ಲಿ ಕ್ಯಾಪಿಟಲ್ಸ್ ತಂಡವನ್ನು ಲಕ್ನೋ ಸೂಪರ್ ಜೈಂಟ್ಸ್ ವಿರುದ್ಧ ಭರ್ಜರಿ ಆರು ವಿಕೆಟ್ ಗಳ ಜಯಕ್ಕೆ ಕೊಂಡೊಯ್ದಿತು. 26ಕ್ಕೆ 4 ವಿಕೆಟ್ ಕಳೆದುಕೊಂಡು ಸಂಕಷ್ಟದಲ್ಲಿದ್ದ ತಂಡವನ್ನು, ಅವರ ಅಜೇಯ 119 ರನ್ ಗಳ ಜೊತೆಯಾಟವು LSG ಯ 141 ರನ್ ಗಳ ಗುರಿಯನ್ನು ಸುಲಭವಾಗಿ ಬೆನ್ನಟ್ಟಲು ಸಹಾಯ ಮಾಡಿತು. DC ಗೆ ಇದು ಒಂದು ಅದ್ಭುತ ಕಮ್‌ಬ್ಯಾಕ್!"
-            },
-            "mr": {
-                "title": "रिझवीच्या नाबाद 70 धावांनी दिल्लीला विजय मिळवून दिला",
-                "content": "समीर रिझवीच्या नाबाद 70 धावा आणि ट्रिस्टन स्टब्सच्या 39* धावांनी दिल्ली कॅपिटल्सला लखनऊ सुपर जायंट्सविरुद्ध शानदार सहा विकेट्सनी विजय मिळवून दिला. 26 धावांत 4 गडी गमावल्यानंतर, त्यांच्या 119 धावांच्या नाबाद भागीदारीने LSG चे 141 धावांचे लक्ष्य सहज गाठले. DC साठी हा एक उल्लेखनीय पुनरागमन होता!"
-            },
-            "hi": {
-                "title": "रिज़वी के नाबाद 70 रन ने DC को दिलाई जीत",
-                "content": "समीर रिज़वी के नाबाद 70 और ट्रिस्टन स्टब्स के 39* रनों ने दिल्ली कैपिटल्स को लखनऊ सुपर जायंट्स पर शानदार छह विकेट की जीत दिलाई। 26 रन पर 4 विकेट गिरने की खराब शुरुआत के बाद, उनकी 119 रन की अटूट साझेदारी ने LSG के 141 रन के लक्ष्य का आसानी से पीछा किया। DC के लिए एक उल्लेखनीय वापसी!"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129959511,imgsize-861939.cms",
-        "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/lsg-vs-dc-sameer-rizvis-unbeaten-70-guides-delhi-capitals-to-six-wicket-victory/articleshow/129959505.cms",
-        "date": "2026-04-01T23:23:34+05:30"
-    },
-    {
-        "id": "4e07f0aa",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Controversy-Hit NCP Minister Skips Cabinet Meet",
-                "content": "NCP minister Narhari Zirwal, embroiled in controversy, notably absented himself from a recent Maharashtra cabinet meeting. This absence comes amidst heightened scrutiny surrounding the minister, sparking speculation about potential internal party dynamics or pressure related to the ongoing controversies. His decision to skip the crucial meeting has drawn significant attention."
-            },
-            "kn": {
-                "title": "ವಿವಾದಗ್ರಸ್ತ ಎನ್‌ಸಿಪಿ ಸಚಿವರು ಸಚಿವ ಸಂಪುಟ ಸಭೆಯಿಂದ ದೂರ",
-                "content": "ವಿವಾದದಲ್ಲಿ ಸಿಲುಕಿರುವ ಎನ್‌ಸಿಪಿ ಸಚಿವ ನರಹರಿ ಝಿರ್ವಾಲ್ ಇತ್ತೀಚಿನ ಮಹಾರಾಷ್ಟ್ರ ಸಚಿವ ಸಂಪುಟ ಸಭೆಯಿಂದ ದೂರ ಉಳಿದಿದ್ದಾರೆ. ಸಚಿವರ ಸುತ್ತಲಿನ ತೀವ್ರ ಪರಿಶೀಲನೆಯ ನಡುವೆ ಈ ಅನುಪಸ್ಥಿತಿ ಕಂಡುಬಂದಿದೆ, ಇದು ಆಂತರಿಕ ಪಕ್ಷದ ರಾಜಕೀಯ ಅಥವಾ ನಡೆಯುತ್ತಿರುವ ವಿವಾದಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಒತ್ತಡದ ಬಗ್ಗೆ ಊಹಾಪೋಹಗಳಿಗೆ ಕಾರಣವಾಗಿದೆ. ನಿರ್ಣಾಯಕ ಸಭೆಯನ್ನು ತಪ್ಪಿಸಿಕೊಳ್ಳುವ ಅವರ ನಿರ್ಧಾರವು ಗಮನಾರ್ಹ ಗಮನ ಸೆಳೆದಿದೆ."
-            },
-            "mr": {
-                "title": "वादग्रस्त राष्ट्रवादी काँग्रेस मंत्र्यांनी मंत्रिमंडळ बैठकीला दांडी मारली",
-                "content": "वादात अडकलेले राष्ट्रवादी काँग्रेसचे मंत्री नरहरी झिरवाळ यांनी अलीकडील महाराष्ट्र मंत्रिमंडळ बैठकीला दांडी मारली. मंत्र्याभोवती वाढलेल्या छाननीच्या दरम्यान ही अनुपस्थिती दिसून आली आहे, ज्यामुळे संभाव्य अंतर्गत पक्षीय गतिशीलता किंवा सध्याच्या वादांशी संबंधित दबावांबद्दल अटकळ वाढली आहे. त्यांची ही महत्त्वपूर्ण बैठक चुकवण्याची कृती लक्षवेधी ठरली आहे."
-            },
-            "hi": {
-                "title": "विवादों से घिरे एनसीपी मंत्री ने कैबिनेट बैठक से बनाई दूरी",
-                "content": "विवादों से घिरे एनसीपी मंत्री नरहरि झिरवाल ने हाल ही में महाराष्ट्र कैबिनेट बैठक से खुद को अनुपस्थित रखा। मंत्री के चारों ओर बढ़ी जांच-पड़ताल के बीच यह अनुपस्थिति आई है, जिससे संभावित आंतरिक पार्टी गतिशीलता या चल रहे विवादों से संबंधित दबावों के बारे में अटकलें तेज हो गई हैं। उनकी महत्वपूर्ण बैठक से दूर रहने के इस फैसले ने काफी ध्यान आकर्षित किया है।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOTzkybE45eTJKSTdkVk8xZGJOa1dET24tYWIxMW1tUmZiVGFNd0tvUHJGajZXTFQ5TlVPLWZEYWZTUWVodnR0R1hCc3F5Q3hFYlQwbVRMa1U4ajVSc2JvTWF1X2xjU1FCVDBtZmk4RWZHMjNXWjlOcUFiVzU1UHQ5UjNyWHdlMkZ2Nmw5ckVkeTdFSWc2cVZ6VUJudTR5dmg4dVc2M1AwNnJ6dWNUd2JrU3ZmZHVSOEVlTmwxTldUQWZHMFZXbTV1ek9oMXV0ZmNhUWhnbzNyOE94M3JBNW5zcDlzMjl6VEdScGt0eWtEYW5yNFXSAfgBQVVfeXFMTzRrUTNXYUp4RXVfQWhJYTk4c2RKci1PcXFHMHZaN0lRZTBwV2hIWnNMaHBCMmVqcDgzZVU1U2xheWhteWJBUUlCYkFBX3BVMDZOUnI5ZC1pNjZtNnZtSS1NNXZzaTMzMS1pbXQyX0FyMzRMbGttVVpTa3ZPX3Vnd093Z1pZWHZkVWphZ3oyTGF0dC0tQ1pVUEZRbU1KS01uLXhHNXNvT19IQ1ZwenZ6WVlGdWtSNDFnSHVET1pCZTkxZXcxcGFrQTgteDNBU0VsYXlPR0ljdk9QYm1FY0owMkdQeTJMX1lXQkNMUU9JNWttUFF2NkRTM2I?oc=5",
-        "date": "Wed, 01 Apr 2026 17:56:00 GMT"
-    },
-    {
-        "id": "46aa1b81",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "IPL 2026: Tech Transforms Viewing",
-                "content": "Get ready for a revolutionary IPL 2026 viewing experience! Advanced tech is transforming cricket broadcasts. Expect cutting-edge AI for real-time analytics, immersive AR/VR bringing the stadium home, personalized camera angles, and stunning 8K visuals. These innovations promise enhanced fan engagement, deeper insights, and dynamic entertainment. The future of sports viewing is here, pushing boundaries for seamless, interactive, unforgettable action."
-            },
-            "kn": {
-                "title": "ಐಪಿಎಲ್ 2026: ತಂತ್ರಜ್ಞಾನ ವೀಕ್ಷಣೆಯನ್ನು ಬದಲಾಯಿಸುತ್ತದೆ",
-                "content": "ಐಪಿಎಲ್ 2026 ರ ಕ್ರಾಂತಿಕಾರಿ ವೀಕ್ಷಣೆಗೆ ಸಿದ್ಧರಾಗಿ! ಸುಧಾರಿತ ತಂತ್ರಜ್ಞಾನವು ಕ್ರಿಕೆಟ್ ಪ್ರಸಾರವನ್ನು ಪರಿವರ್ತಿಸುತ್ತದೆ. ರಿಯಲ್-ಟೈಮ್ ವಿಶ್ಲೇಷಣೆಗಾಗಿ ಅತ್ಯಾಧುನಿಕ AI, ಕ್ರೀಡಾಂಗಣವನ್ನು ಮನೆಗೆ ತರುವ ತಲ್ಲೀನಗೊಳಿಸುವ AR/VR, ವೈಯಕ್ತಿಕ ಕ್ಯಾಮೆರಾ ಕೋನಗಳು ಮತ್ತು ಬೆರಗುಗೊಳಿಸುವ 8K ದೃಶ್ಯಗಳನ್ನು ನಿರೀಕ್ಷಿಸಿ. ಈ ಆವಿಷ್ಕಾರಗಳು ವರ್ಧಿತ ಅಭಿಮಾನಿ ತೊಡಗುವಿಕೆ, ಆಳವಾದ ಒಳನೋಟಗಳು ಮತ್ತು ಕ್ರಿಯಾತ್ಮಕ ಮನರಂಜನೆಯನ್ನು ಭರವಸೆ ನೀಡುತ್ತವೆ. ಕ್ರೀಡಾ ವೀಕ್ಷಣೆಯ ಭವಿಷ್ಯ ಇಲ್ಲಿದೆ, ತಡೆರಹಿತ, ಸಂವಾದಾತ್ಮಕ, ಮರೆಯಲಾಗದ ಆಕ್ಷನ್‌ಗಾಗಿ ಗಡಿಗಳನ್ನು ತಳ್ಳುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "आयपीएल 2026: तंत्रज्ञानाने बदलणार प्रेक्षक अनुभव",
-                "content": "आयपीएल 2026 च्या क्रांतिकारी प्रेक्षक अनुभवासाठी सज्ज व्हा! प्रगत तंत्रज्ञान क्रिकेट प्रसारणात बदल घडवत आहे. रिअल-टाइम ॲनालिटिक्ससाठी अत्याधुनिक AI, स्टेडियमला ​​घरी आणणारे इमर्सिव्ह AR/VR, वैयक्तिक कॅमेरा अँगल आणि आकर्षक 8K व्हिज्युअलची अपेक्षा करा. हे नवोपक्रम चाहत्यांचा सहभाग, सखोल अंतर्दृष्टी आणि डायनॅमिक मनोरंजन देतील. क्रीडा पाहण्याचे भविष्य येथे आहे, अखंड, संवादात्मक, अविस्मरणीय ॲक्शनसाठी मर्यादा ओलांडत आहे."
-            },
-            "hi": {
-                "title": "आईपीएल 2026: तकनीक बदलेगी देखने का अंदाज़",
-                "content": "आईपीएल 2026 के क्रांतिकारी देखने के अनुभव के लिए तैयार हो जाइए! उन्नत तकनीक क्रिकेट प्रसारण को बदल रही है। वास्तविक समय के विश्लेषण के लिए अत्याधुनिक AI, स्टेडियम को घर लाने वाले इमर्सिव AR/VR, व्यक्तिगत कैमरा एंगल और शानदार 8K विजुअल्स की अपेक्षा करें। ये नवाचार प्रशंसक जुड़ाव, गहरी अंतर्दृष्टि और गतिशील मनोरंजन का वादा करते हैं। खेल देखने का भविष्य यहाँ है, सहज, इंटरैक्टिव, अविस्मरणीय एक्शन के लिए सीमाओं को आगे बढ़ा रहा है।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdzBxdnI0OU1nNzFwTURyOWx4WkwzeWd6M1IyT05RNUhmVnVCVmVjNVQyYU1VTVhsVTVFamtkT0JucG5wQ2NWd0RyX2d0ZzRKR1VNMnlNOFo1OTdhMGZxTy1PUU5FMTJyQ204a0lmeHAtYVBzT0xMYUk5bmNnOXkzNVlrcVh0V3PSAYcBQVVfeXFMT3cwcXZyNDlNZzcxcE1EcjlseFpMM3lnejNSMk9OUTVIZlZ1QlZlYzVUMmFNVU1YbFU1RWprZE9CbnBucENjVndEcl9ndGc0SkdVTTJ5TThaNTk3YTBmcU8tT1FORTEyckNtOGtJZnhwLWFQc09MTGFJOW5jZzl5MzVZa3FYdFdz?oc=5",
-        "date": "Wed, 01 Apr 2026 14:25:45 GMT"
-    },
-    {
-        "id": "c10c987f",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Edoardo Mortara: Mahindra Racing's Season Star",
-                "content": "Mahindra Racing's Edoardo Mortara shines this season, revealing his success mantra in an exclusive interview. He emphasizes the crucial need to 'keep your' focus and strategic approach. Mortara's stellar performance is a major boost, driving the team forward with promising results and setting high expectations for future races."
-            },
-            "kn": {
-                "title": "ಎಡೋಆರ್ಡೋ ಮೊರ್ಟಾರಾ: ಮಹೀಂದ್ರಾ ರೇಸಿಂಗ್‌ನ ಈ ಸೀಸನ್‌ನ ತಾರೆ",
-                "content": "ಮಹೀಂದ್ರಾ ರೇಸಿಂಗ್‌ನ ಎಡೋಆರ್ಡೋ ಮೊರ್ಟಾರಾ ಈ ಸೀಸನ್‌ನಲ್ಲಿ ಅದ್ಭುತವಾಗಿ ಮಿಂಚಿದ್ದಾರೆ. ಒಂದು ವಿಶೇಷ ಸಂದರ್ಶನದಲ್ಲಿ, ಅವರು ತಮ್ಮ ಯಶಸ್ಸಿನ ಮಂತ್ರವನ್ನು ಬಹಿರಂಗಪಡಿಸಿದ್ದಾರೆ. ತಮ್ಮ ಗಮನ ಮತ್ತು ಕಾರ್ಯತಂತ್ರದ ವಿಧಾನವನ್ನು 'ಕಾಯ್ದುಕೊಳ್ಳುವ' ನಿರ್ಣಾಯಕ ಅಗತ್ಯವನ್ನು ಅವರು ಒತ್ತಿಹೇಳುತ್ತಾರೆ. ಮೊರ್ಟಾರಾ ಅವರ ಅಸಾಧಾರಣ ಪ್ರದರ್ಶನವು ತಂಡಕ್ಕೆ ದೊಡ್ಡ ಉತ್ತೇಜನ ನೀಡಿದೆ, ಭರವಸೆಯ ಫಲಿತಾಂಶಗಳೊಂದಿಗೆ ತಂಡವನ್ನು ಮುನ್ನಡೆಸುತ್ತದೆ ಮತ್ತು ಭವಿಷ್ಯದ ರೇಸ್‌ಗಳಿಗೆ ಹೆಚ್ಚಿನ ನಿರೀಕ್ಷೆಗಳನ್ನು ಇರಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "एडोआर्डो मोर्टारा: महिंद्रा रेसिंगचा या हंगामातील स्टार",
-                "content": "महिंद्रा रेसिंगचा एडोआर्डो मोर्टारा या हंगामात चमकदार कामगिरी करत आहे. एका विशेष मुलाखतीत, त्याने त्याच्या यशाचा मंत्र उघड केला आहे. तो आपले लक्ष आणि धोरणात्मक दृष्टिकोन 'टिकवून ठेवण्याच्या' महत्त्वावर भर देतो. मोर्टाराची उत्कृष्ट कामगिरी संघासाठी एक मोठी प्रेरणा आहे, ज्यामुळे संघाला आशादायक निकालांसह पुढे जाण्यास मदत होते आणि भविष्यातील शर्यतींसाठी उच्च अपेक्षा निर्माण होतात."
-            },
-            "hi": {
-                "title": "एडोआर्डो मोर्टारा: महिंद्रा रेसिंग के सीज़न के स्टार",
-                "content": "महिंद्रा रेसिंग के एडोआर्डो मोर्टारा इस सीज़न में शानदार प्रदर्शन कर रहे हैं। एक विशेष साक्षात्कार में, उन्होंने अपने सफलता के मंत्र का खुलासा किया। वह अपने ध्यान और रणनीतिक दृष्टिकोण को 'बनाए रखने' की महत्वपूर्ण आवश्यकता पर जोर देते हैं। मोर्टारा का बेहतरीन प्रदर्शन टीम के लिए एक बड़ा बढ़ावा है, जो आशाजनक परिणामों के साथ टीम को आगे बढ़ा रहा है और भविष्य की दौड़ के लिए उच्च उम्मीदें जगा रहा है।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOUGh0ZU5ueGxad0g4cGVOUGo3QjdrVzR2d0VvdVB6aDR2cjBRWVpDT0JLUG1xcVlqRkVBNUpjY09McmJ0STMwWXdFN3pjc1ppSFJoRGtIdVk5UE9Oa0FOUWZxZVA2TGxZQmVqMUhtTHRTZVc2OVFmNzAyQlcwWm5Jak5uNmF3UjFPNDV3WGFZQkNEY0s2Q2FtNWk0WG1PM0VWeXo1amtjNXUwV0g1VVI2UEp5MHAyZ0JuajRVc0Q4TnhlMWNQS0wtSXhCSUJYVHhJRzN3RHJYMkh4SkdHcWtteVhoYkY3VkcyemNZdVBHY3o5ekdFWUlKQmZzMjdxWFBKYXcxZkZ6eG1yMGpBMmFQSHhZWnJfeWRkS1MzUTB0STlfdlM3OE96YTJYTkHSAawCQVVfeXFMTlBodGVObnhsWndIOHBlTlBqN0I3a1c0dndFb3VQemg0dnIwUVlaQ09CS1BtcXFZakZFQTVKY2NPTHJidEkzMFl3RTd6Y3NaaUhSaERrSHVZOVBPTmtBTlFmcWVQNkxsWUJlajFIbUx0U2VXNjlRZjcwMkJXMFpuSWpObjZhd1IxTzQ1d1hhWUJDRGNLNkNhbTVpNFhtTzNFVnl6NWprYzV1MFdINVVSNlBKeTBwMmdCbmo0VXNEOE54ZTFjUEtMLUl4QklCWFR4SUczd0RyWDJIeEpHR3FrbXlYaGJGN1ZHMnpjWXVQR2N6OXpHRVlJSkJmczI3cVhQSmF3MWZGenhtcjBqQTJhUEh4WVpyX3lkZEtTM1EwdEk5X3ZTNzhPemEyWE5B?oc=5",
-        "date": "Wed, 01 Apr 2026 15:12:00 GMT"
-    },
-    {
-        "id": "1708a36b",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "PM Reviews Mideast Crisis, Supply Chains",
-                "content": "Prime Minister Modi chaired a critical Cabinet Committee on Security (CCS) meeting to assess the escalating Middle East conflict. He directed urgent measures to secure India's supply chains for essential goods and energy. The PM also emphasized proactive steps to mitigate potential inflationary pressures and curb price risks arising from the geopolitical instability, ensuring economic stability for the nation."
-            },
-            "kn": {
-                "title": "ಪ್ರಧಾನಿ ಮಧ್ಯಪ್ರಾಚ್ಯ ಬಿಕ್ಕಟ್ಟು, ಪೂರೈಕೆ ಸರಪಳಿಗಳ ಪರಿಶೀಲನೆ",
-                "content": "ಪ್ರಧಾನಿ ಮೋದಿ ಮಧ್ಯಪ್ರಾಚ್ಯ ಸಂಘರ್ಷದ ಕುರಿತು ಮಹತ್ವದ CCS ಸಭೆ ನಡೆಸಿದರು. ಭಾರತದ ಪೂರೈಕೆ ಸರಪಳಿಗಳನ್ನು ಭದ್ರಪಡಿಸಲು ಮತ್ತು ಅಗತ್ಯ ಸರಕು, ಇಂಧನದ ಲಭ್ಯತೆ ಖಚಿತಪಡಿಸಲು ತುರ್ತು ಕ್ರಮಗಳನ್ನು ನಿರ್ದೇಶಿಸಿದರು. ಹಣದುಬ್ಬರದ ಒತ್ತಡ ತಗ್ಗಿಸಲು ಹಾಗೂ ಬೆಲೆ ಅಪಾಯ ನಿಯಂತ್ರಿಸಲು ಸಕ್ರಿಯ ಕ್ರಮಗಳನ್ನು ಕೈಗೊಳ್ಳುವಂತೆ ಒತ್ತಿ ಹೇಳಿದರು, ಇದು ದೇಶದ ಆರ್ಥಿಕ ಸ್ಥಿರತೆಗೆ ಸಹಕಾರಿ ಎಂದರು."
-            },
-            "mr": {
-                "title": "पंतप्रधानांनी मध्यपूर्वेतील संकट, पुरवठा साखळ्यांचा आढावा घेतला",
-                "content": "पंतप्रधान मोदींनी मध्यपूर्वेतील संघर्षावर CCS बैठक घेतली. त्यांनी भारताच्या पुरवठा साखळ्या सुरक्षित ठेवण्यासाठी, आवश्यक वस्तू व ऊर्जा उपलब्धता सुनिश्चित करण्यासाठी तातडीचे निर्देश दिले. संभाव्य महागाईचा दबाव कमी करून किमतीचे धोके रोखण्यासाठी सक्रिय उपाययोजनांवर भर दिला, ज्यामुळे देशाची आर्थिक स्थिरता कायम राहील."
-            },
-            "hi": {
-                "title": "पीएम ने मध्यपूर्व संकट, आपूर्ति श्रृंखलाओं की समीक्षा की",
-                "content": "प्रधानमंत्री मोदी ने मध्यपूर्व संघर्ष पर CCS बैठक की। उन्होंने भारत की आपूर्ति श्रृंखलाएं सुरक्षित करने और आवश्यक वस्तुओं, ऊर्जा की उपलब्धता सुनिश्चित करने के तत्काल निर्देश दिए। पीएम ने मुद्रास्फीति के दबाव कम करने और मूल्य जोखिमों को नियंत्रित करने के लिए सक्रिय कदम उठाने पर जोर दिया, जिससे देश की आर्थिक स्थिरता कायम रहे।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129958123,imgsize-797876.cms",
-        "link": "https://timesofindia.indiatimes.com/india/pm-chairs-ccs-meet-on-middle-east-conflict-orders-urgent-steps-to-secure-supplies-and-curb-price-risks/articleshow/129958119.cms",
-        "date": "2026-04-01T22:21:43+05:30"
-    },
-    {
-        "id": "e09bb832",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "DC Wins Toss, Opts to Bowl vs LSG in IPL 2026",
-                "content": "In a crucial IPL 2026 encounter, Delhi Capitals (DC) won the toss against Lucknow Super Giants (LSG) and opted to bowl first. This strategic decision sets the stage for an exciting match as DC looks to exploit early conditions. Fans eagerly await to see if this choice will give them an edge in today's high-stakes game."
-            },
-            "kn": {
-                "title": "IPL 2026 ರಲ್ಲಿ DC ಟಾಸ್ ಗೆದ್ದು LSG ವಿರುದ್ಧ ಬೌಲಿಂಗ್ ಆಯ್ಕೆ ಮಾಡಿಕೊಂಡಿದೆ",
-                "content": "ಪ್ರಮುಖ IPL 2026 ಪಂದ್ಯದಲ್ಲಿ, ಡೆಲ್ಲಿ ಕ್ಯಾಪಿಟಲ್ಸ್ (DC) ಲಕ್ನೋ ಸೂಪರ್ ಜೈಂಟ್ಸ್ (LSG) ವಿರುದ್ಧ ಟಾಸ್ ಗೆದ್ದು ಮೊದಲು ಬೌಲಿಂಗ್ ಮಾಡಲು ನಿರ್ಧರಿಸಿತು. ಈ ಕಾರ್ಯತಂತ್ರದ ನಿರ್ಧಾರವು ರೋಮಾಂಚಕ ಪಂದ್ಯಕ್ಕೆ ವೇದಿಕೆ ಸಿದ್ಧಪಡಿಸಿದೆ, DC ಆರಂಭಿಕ ಪರಿಸ್ಥಿತಿಗಳನ್ನು ಬಳಸಿಕೊಳ್ಳಲು ಎದುರು ನೋಡುತ್ತಿದೆ. ಇಂದಿನ ಈ ನಿರ್ಣಾಯಕ ಪಂದ್ಯದಲ್ಲಿ ಈ ಆಯ್ಕೆ ಅವರಿಗೆ ಲಾಭ ತರುತ್ತದೆಯೇ ಎಂದು ಅಭಿಮಾನಿಗಳು ಕಾತರದಿಂದ ಕಾಯುತ್ತಿದ್ದಾರೆ."
-            },
-            "mr": {
-                "title": "IPL 2026 मध्ये DC ने टॉस जिंकला, LSG विरुद्ध प्रथम गोलंदाजी निवडली",
-                "content": "महत्त्वाच्या IPL 2026 सामन्यात, दिल्ली कॅपिटल्स (DC) ने लखनऊ सुपर जायंट्स (LSG) विरुद्ध टॉस जिंकून प्रथम गोलंदाजी करण्याचा निर्णय घेतला. हा रणनीतिक निर्णय एका रोमांचक सामन्यासाठी मंच तयार करतो, कारण DC सुरुवातीच्या परिस्थितीचा फायदा घेण्याचा प्रयत्न करत आहे. आजच्या या महत्त्वाच्या सामन्यात हा निर्णय त्यांना फायदा देईल की नाही हे पाहण्यासाठी चाहते उत्सुक आहेत."
-            },
-            "hi": {
-                "title": "IPL 2026: DC ने टॉस जीता, LSG के खिलाफ पहले गेंदबाजी का फैसला",
-                "content": "IPL 2026 के एक महत्वपूर्ण मुकाबले में, दिल्ली कैपिटल्स (DC) ने लखनऊ सुपर जायंट्स (LSG) के खिलाफ टॉस जीतकर पहले गेंदबाजी करने का विकल्प चुना. यह रणनीतिक फैसला एक रोमांचक मैच का मंच तैयार करता है, क्योंकि DC शुरुआती परिस्थितियों का फायदा उठाना चाहती है. प्रशंसक बेसब्री से इंतजार कर रहे हैं कि क्या यह फैसला उन्हें आज के इस बड़े दांव वाले खेल में बढ़त दिलाएगा."
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMHVVTmh3RHV0LXFXcmVNZ2g2QTl4MEQ5OHd5UWo2UXJ1TFMxRVVTZzBiLWgzT3p6N3NkZEtLdTdKd2NfVU1sc0xvQ0s3MEcyMlV0TVVleTZ1UUtFTFdueWtWS0prdk9OR1dUT2ZwMGw0MGFwLXpvZE5ILWtQYU1uVU0zTWctREZmbzNITFlFWm04OUtiU2xjT2VWLVdtN1hhb3JDTEFDVdIBrgFBVV95cUxNOW9IYk1Udncyd1pra3hQb0hzVVhDb2hBRzVGczNNVkhFaUwxQmJyTDVoRzN2SkJXNWJ2dk9UOEpnWW1ldXVWbDRJUnp5djhTVHRlbUhZaE02ZHM2SDZvR1I3aEo4RlhvbkV6dUVhNzJ3SlJVeVJvNHVtcFZFQVVrQllBWEo2LS1DcnFzZEItMWs2Uk83bHZqLUxBczI3NHdWNTRqNFpfd1J0WU9zWGc?oc=5",
-        "date": "Wed, 01 Apr 2026 14:48:00 GMT"
-    },
-    {
-        "id": "fd3e2f58",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Delhi CM Offers ₹1 Cr COVID Aid to Fallen Heroes' Families",
-                "content": "Delhi Chief Minister Arvind Kejriwal has provided ₹1 crore each as ex-gratia to the families of six government employees who succumbed to COVID-19 while on duty. The CM met the families, emphasizing the government's commitment to supporting those who lost loved ones serving the public during the pandemic. This financial aid aims to help the kin of these frontline workers."
-            },
-            "kn": {
-                "title": "ದೆಹಲಿ ಸಿಎಂನಿಂದ COVID ಬಲಿಯಾದವರ ಕುಟುಂಬಗಳಿಗೆ ₹1 ಕೋಟಿ ನೆರವು",
-                "content": "ದೆಹಲಿ ಮುಖ್ಯಮಂತ್ರಿ ಅರವಿಂದ್ ಕೇಜ್ರಿವಾಲ್ ಅವರು ಕರ್ತವ್ಯದ ಸಮಯದಲ್ಲಿ COVID-19 ನಿಂದ ಮೃತಪಟ್ಟ ಆರು ಸರ್ಕಾರಿ ನೌಕರರ ಕುಟುಂಬಗಳಿಗೆ ತಲಾ ₹1 ಕೋಟಿ ಪರಿಹಾರ ಧನ ನೀಡಿದ್ದಾರೆ. ಸಾಂಕ್ರಾಮಿಕ ರೋಗದ ಸಮಯದಲ್ಲಿ ಸಾರ್ವಜನಿಕರಿಗೆ ಸೇವೆ ಸಲ್ಲಿಸುತ್ತಾ ಪ್ರಾಣ ಕಳೆದುಕೊಂಡವರನ್ನು ಬೆಂಬಲಿಸಲು ಸರ್ಕಾರದ ಬದ್ಧತೆಯನ್ನು ಸಿಎಂ ಕುಟುಂಬಗಳನ್ನು ಭೇಟಿ ಮಾಡಿ ಒತ್ತಿ ಹೇಳಿದರು. ಈ ಆರ್ಥಿಕ ನೆರವು ಈ ಮುಂಚೂಣಿ ಕಾರ್ಯಕರ್ತರ ಕುಟುಂಬಗಳಿಗೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "दिल्ली CM कडून COVID शहिदांच्या कुटुंबियांना ₹1 कोटी मदत",
-                "content": "दिल्लीचे मुख्यमंत्री अरविंद केजरीवाल यांनी कर्तव्य बजावताना COVID-19 मुळे निधन झालेल्या सहा सरकारी कर्मचाऱ्यांच्या कुटुंबियांना प्रत्येकी ₹1 कोटी रुपयांची सानुग्रह मदत दिली आहे. मुख्यमंत्र्यांनी कुटुंबियांची भेट घेऊन, महामारीच्या काळात जनतेची सेवा करताना जीव गमावलेल्यांना मदत करण्याच्या सरकारच्या वचनबद्धतेवर भर दिला. ही आर्थिक मदत या फ्रंटलाइन कर्मचाऱ्यांच्या कुटुंबियांना आधार देईल."
-            },
-            "hi": {
-                "title": "दिल्ली CM ने COVID वीरगति प्राप्त परिजनों को दिए ₹1 करोड़",
-                "content": "दिल्ली के मुख्यमंत्री अरविंद केजरीवाल ने ड्यूटी के दौरान COVID-19 से जान गंवाने वाले छह सरकारी कर्मचारियों के परिवारों को ₹1 करोड़ प्रत्येक की अनुग्रह राशि प्रदान की है। मुख्यमंत्री ने परिवारों से मुलाकात की और महामारी के दौरान जनता की सेवा करते हुए अपनों को खोने वालों का समर्थन करने की सरकार की प्रतिबद्धता पर जोर दिया। यह वित्तीय सहायता इन अग्रिम पंक्ति के कार्यकर्ताओं के परिजनों को मदद करेगी।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129956362,imgsize-824364.cms",
-        "link": "https://timesofindia.indiatimes.com/india/delhi-cm-provides-covid-ex-gratia-of-rs-1-cr-each-to-kin-of-six-deceased-govt-employees/articleshow/129956303.cms",
-        "date": "2026-04-01T21:03:50+05:30"
-    },
-    {
-        "id": "e4e22b65",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Rohit Sharma's Viral Party Popper Fail",
-                "content": "Indian cricket star Rohit Sharma recently sparked online amusement with a viral party popper 'fail'. A video captured him humorously struggling to operate the celebratory device. Fans quickly shared the relatable mishap across social media, sparking countless memes and affectionate reactions. This lighthearted incident showcased his human side, delighting millions and becoming an instant online sensation. It offered a funny glimpse."
-            },
-            "kn": {
-                "title": "ರೋಹಿತ್ ಶರ್ಮಾ ವೈರಲ್ ಪಾರ್ಟಿ ಪಾಪ್ಪರ್ ವೈಫಲ್ಯ",
-                "content": "ಭಾರತೀಯ ಕ್ರಿಕೆಟ್ ತಾರೆ ರೋಹಿತ್ ಶರ್ಮಾ ಅವರ ಪಾರ್ಟಿ ಪಾಪ್ಪರ್ 'ವೈಫಲ್ಯ' ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ತಮಾಷೆಗೆ ಕಾರಣವಾಯಿತು. ಆಚರಣೆಯ ಸಾಧನವನ್ನು ತಮಾಷೆಯಾಗಿ ನಿರ್ವಹಿಸಲು ಹೆಣಗಾಡುತ್ತಿರುವುದನ್ನು ವಿಡಿಯೋ ಸೆರೆಹಿಡಿದಿದೆ. ಅಭಿಮಾನಿಗಳು ಈ ಘಟನೆಯನ್ನು ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮಗಳಲ್ಲಿ ಶೀಘ್ರ ಹಂಚಿಕೊಂಡರು, ಇದು ಅಸಂಖ್ಯಾತ ಮೀಮ್‌ಗಳು ಮತ್ತು ಆಪ್ತ ಪ್ರತಿಕ್ರಿಯೆಗಳಿಗೆ ಕಾರಣವಾಯಿತು. ಈ ಲಘು ಘಟನೆ ಅವರ ಮಾನವೀಯ ಭಾಗವನ್ನು ಪ್ರದರ್ಶಿಸಿ, ಲಕ್ಷಾಂತರ ಜನರನ್ನು ಸಂತೋಷಪಡಿಸಿತು, ತಕ್ಷಣವೇ ಆನ್‌ಲೈನ್ ಸಂವೇದನೆಯಾಯಿತು. ಇದು ತಮಾಷೆಯ ನೋಟ ನೀಡಿತು."
-            },
-            "mr": {
-                "title": "रोहित शर्माचे व्हायरल पार्टी पॉपर अपयश",
-                "content": "भारतीय क्रिकेटपटू रोहित शर्माच्या पार्टी पॉपरच्या 'अपयशा'चा व्हिडिओ व्हायरल झाल्याने तो ऑनलाइन चर्चेत आला. एका व्हिडिओत तो हसतमुखाने सेलिब्रेशनचा पॉपर वापरताना संघर्ष करताना दिसतोय. चाहत्यांनी हा व्हिडिओ सोशल मीडियावर लगेच शेअर केला, ज्यामुळे असंख्य मीम्स आणि आपुलकीच्या प्रतिक्रिया उमटल्या. या हलक्याफुलक्या घटनेने त्याची मानवी बाजू दाखवली, लाखो लोकांना आनंद दिला आणि तात्काळ ऑनलाइन सनसनाटी बनली. एक मजेशीर झलक मिळाली."
-            },
-            "hi": {
-                "title": "रोहित शर्मा का वायरल पार्टी पॉपर 'फेल'",
-                "content": "भारतीय क्रिकेट स्टार रोहित शर्मा का वायरल पार्टी पॉपर 'फेल' ऑनलाइन मनोरंजन का कारण बना। एक वीडियो में उन्हें जश्न के उपकरण चलाने में हास्यास्पद संघर्ष करते कैद किया गया। प्रशंसकों ने इस मजेदार घटना को सोशल मीडिया पर तुरंत साझा किया, जिससे अनगिनत मीम्स और स्नेहपूर्ण प्रतिक्रियाएँ मिलीं। इस हल्के-फुल्के वाकये ने उनका मानवीय पक्ष दर्शाया, लाखों को खुश किया और तुरंत ऑनलाइन सनसनी बन गया, एक मजेदार झलक पेश की।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYWx4RUhRQWs3NkdFZGI0NmhCOEhBNEtBWjNTMnMzWTVhdWItZnRlR0ozdVRLTjZjVkdOYkN6bXBLVEpZWEhDcTgwMGZQdm1GQ1liNHRJQ2hyQ1pOYnVhMHEwZG1Ea2QzRU9wX2NYd3JCVWFOTnAweWxHSldNX3kyX0ZDN1gtN1c0WkRzQ1U1cU1lakl3dmNGWUpyNUltSTdZY3pfSTVNc2FzaEgzTmFhVDQwcVJUOGxCeFdPRUJUX19CY1M4RnRxcTRGZmtacmVUWkxDYw?oc=5",
-        "date": "Wed, 01 Apr 2026 10:42:38 GMT"
-    },
-    {
-        "id": "f4a9ac8a",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Artemis-II Set to Shatter 50-Year Lunar Record",
-                "content": "NASA's Artemis-II mission is poised to shatter a 50-year space exploration record. Carrying a crew, it will mark humanity's return to lunar orbit, paving the way for future Moon landings. This crucial test flight aims to validate systems for deep space travel, pushing the boundaries of human spaceflight and inspiring a new generation of explorers."
-            },
-            "kn": {
-                "title": "ಆರ್ಟೆಮಿಸ್-II: 50 ವರ್ಷಗಳ ಚಂದ್ರನ ದಾಖಲೆ ಮುರಿಯಲು ಸಿದ್ಧವಾಗಿದೆ",
-                "content": "ನಾಸಾದ ಆರ್ಟೆಮಿಸ್-II ಮಿಷನ್ 50 ವರ್ಷಗಳ ಬಾಹ್ಯಾಕಾಶ ಪರಿಶೋಧನೆಯ ದಾಖಲೆಯನ್ನು ಮುರಿಯಲು ಸಿದ್ಧವಾಗಿದೆ. ಸಿಬ್ಬಂದಿಯನ್ನು ಹೊತ್ತ ಈ ಮಿಷನ್ ಮಾನವೀಯತೆಯ ಚಂದ್ರನ ಕಕ್ಷೆಗೆ ಮರಳುವಿಕೆಯನ್ನು ಗುರುತಿಸುತ್ತದೆ, ಭವಿಷ್ಯದ ಚಂದ್ರನ ಮೇಲೆ ಇಳಿಯುವಿಕೆಗೆ ದಾರಿ ಮಾಡಿಕೊಡುತ್ತದೆ. ಈ ನಿರ್ಣಾಯಕ ಪರೀಕ್ಷಾ ಹಾರಾಟವು ಆಳವಾದ ಬಾಹ್ಯಾಕಾಶ ಪ್ರಯಾಣಕ್ಕಾಗಿ ವ್ಯವಸ್ಥೆಗಳನ್ನು ಮೌಲ್ಯೀಕರಿಸುವ ಗುರಿಯನ್ನು ಹೊಂದಿದೆ, ಮಾನವ ಬಾಹ್ಯಾಕಾಶ ಹಾರಾಟದ ಗಡಿಗಳನ್ನು ತಳ್ಳುತ್ತದೆ ಮತ್ತು ಹೊಸ ಪೀಳಿಗೆಯ ಪರಿಶೋಧಕರಿಗೆ ಸ್ಫೂರ್ತಿ ನೀಡುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "आर्टेमिस-II: 50 वर्षांचा चंद्र विक्रम मोडण्यास सज्ज",
-                "content": "नासाचे आर्टेमिस-II अभियान 50 वर्षांचा अवकाश संशोधनाचा विक्रम मोडण्यास सज्ज आहे. क्रूसह जाणारे हे अभियान, मानवतेच्या चंद्र कक्षेत परत येण्याचे प्रतीक असेल, ज्यामुळे भविष्यातील चंद्र मोहिमांचा मार्ग मोकळा होईल. ही महत्त्वाची चाचणी उड्डाण खोल अवकाशातील प्रवासासाठी प्रणालींना प्रमाणित करण्याचे उद्दीष्ट ठेवते, मानवी अवकाश प्रवासाच्या मर्यादांना पुढे ढकलते आणि शोधकांच्या नवीन पिढीला प्रेरणा देते."
-            },
-            "hi": {
-                "title": "आर्टेमिस-II: 50 साल पुराना चंद्र रिकॉर्ड तोड़ने को तैयार",
-                "content": "नासा का आर्टेमिस-II मिशन 50 साल पुराने अंतरिक्ष अन्वेषण के रिकॉर्ड को तोड़ने के लिए तैयार है। एक दल को लेकर, यह मानवता की चंद्र कक्षा में वापसी को चिह्नित करेगा, जिससे भविष्य के चंद्र अभियानों का मार्ग प्रशस्त होगा। इस महत्वपूर्ण परीक्षण उड़ान का उद्देश्य गहरे अंतरिक्ष यात्रा के लिए प्रणालियों को मान्य करना है, जो मानव अंतरिक्ष उड़ान की सीमाओं को आगे बढ़ाएगा और खोजकर्ताओं की एक नई पीढ़ी को प्रेरित करेगा।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZGltdzZfdENiMGtVSVpZX3VLdnNJc0pUTW9JbEVCQzhneXpwQ2lQWXh6dWtxSDZ1VWZCRG5FdVV1UDB1QTQyUm1mWVM4Q0JvSFZ5QVROOGozUHYxT1NZTzc0LUR2WWctdHVSMmVtaVBBWExZa1RqdHBIejJiN3JEUXNHM1pUaTBZV2FyMk55ejFUS2toelpvdnRFSi1VMmF3SWZpS2QteGlZQUp0b29wTFRFcGFiUjM5dGtOUFNKRjNCbUxUUDlwYkIyemZQbEY2RDljY2s0ckEteG1VYmR0NUNHeGl4VEUwd0JjSHpIVjUzMlNYdHfSAfsBQVVfeXFMT3ZPMFJKVjZxZzR4Zk44eHBhdHF6Y1llOGxUVkg2cFh5cWpkajc0T19QMFE3UmNSRTdDanoxV1U2WTRnbUlUb2hUczZzbjc1RkhJbnA3VTRVLXAtemxjTlJoTlNnTTBWY2xjcVlTbENpeWtJVlVvcmFmTjFUdzVxUUNTSDYyeUI2Yksya050NXlnajdiYnZyWTNJdlRvWGJ2c3JLLTQ2YmFWV1c3Y1pzX0c5SURIR0RPdFdycnp6SFNxenM1YW1qLVdQTDRPd2p0UzRqOEswTGUwY3I0ZHJrdnZUTFcwM1FlalV3c1c0dXc5RjJYMWU3Q0N0TTQ?oc=5",
-        "date": "Wed, 01 Apr 2026 14:18:00 GMT"
-    },
-    {
-        "id": "27dafa04",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "KKR Unveils IPL 2026 Jersey, Schedule & Practice Camp",
-                "content": "Kolkata Knight Riders (KKR) fans, get ready! IPL 2026 brings exciting updates. The team has unveiled its new jersey, announced its much-awaited schedule, and commenced its practice camp. Stay tuned for top KKR news and developments as they prepare for the upcoming season, aiming for glory. Don't miss any action!"
-            },
-            "kn": {
-                "title": "KKR IPL 2026 ಜೆರ್ಸಿ, ವೇಳಾಪಟ್ಟಿ ಮತ್ತು ಅಭ್ಯಾಸ ಶಿಬಿರವನ್ನು ಅನಾವರಣಗೊಳಿಸಿದೆ",
-                "content": "ಕೋಲ್ಕತ್ತಾ ನೈಟ್ ರೈಡರ್ಸ್ (KKR) ಅಭಿಮಾನಿಗಳೇ, ಸಿದ್ಧರಾಗಿ! IPL 2026 ಅತ್ಯಾಕರ್ಷಕ ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ತರುತ್ತಿದೆ. ತಂಡವು ತನ್ನ ಹೊಸ ಜೆರ್ಸಿಯನ್ನು ಅನಾವರಣಗೊಳಿಸಿದೆ, ಬಹುನಿರೀಕ್ಷಿತ ವೇಳಾಪಟ್ಟಿಯನ್ನು ಪ್ರಕಟಿಸಿದೆ ಮತ್ತು ಅಭ್ಯಾಸ ಶಿಬಿರವನ್ನು ಪ್ರಾರಂಭಿಸಿದೆ. ಮುಂಬರುವ ಸೀಸನ್‌ಗಾಗಿ ಸಿದ್ಧತೆ ನಡೆಸುತ್ತಿರುವ KKR ನ ಪ್ರಮುಖ ಸುದ್ದಿ ಮತ್ತು ಬೆಳವಣಿಗೆಗಳಿಗಾಗಿ ಕಾಯುತ್ತಿರಿ, ವೈಭವಕ್ಕಾಗಿ ಗುರಿ ಹೊಂದಿದೆ. ಯಾವುದೇ ಕ್ರಿಯೆಯನ್ನು ಕಳೆದುಕೊಳ್ಳಬೇಡಿ!"
-            },
-            "mr": {
-                "title": "KKR ने IPL 2026 जर्सी, वेळापत्रक आणि सराव शिबिर अनावरण केले",
-                "content": "कोलकाता नाइट रायडर्स (KKR) च्या चाहत्यांनो, तयार रहा! IPL 2026 रोमांचक अपडेट्स घेऊन येत आहे. संघाने आपली नवीन जर्सी प्रदर्शित केली आहे, बहुप्रतीक्षित वेळापत्रक जाहीर केले आहे आणि सराव शिबिर सुरू केले आहे. आगामी हंगामासाठी तयारी करत असलेल्या KKR च्या प्रमुख बातम्या आणि घडामोडींसाठी संपर्कात रहा, यशासाठी प्रयत्नशील. कोणतीही कृती चुकवू नका!"
-            },
-            "hi": {
-                "title": "KKR ने IPL 2026 की जर्सी, शेड्यूल और अभ्यास शिविर का अनावरण किया",
-                "content": "कोलकाता नाइट राइडर्स (KKR) के प्रशंसक, तैयार हो जाइए! IPL 2026 रोमांचक अपडेट्स ला रहा है। टीम ने अपनी नई जर्सी का अनावरण किया है, बहुप्रतीक्षित शेड्यूल की घोषणा की है और अपना अभ्यास शिविर शुरू कर दिया है। आगामी सीज़न के लिए तैयारी कर रही KKR की शीर्ष खबरों और विकास के लिए जुड़े रहें, महिमा के लिए लक्ष्य साधते हुए। कोई भी कार्रवाई न चूकें!"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKcDJmZEdpSi03SW92VWdlVUhnMEpCdkpudC0yMzlYZ2tod0R1ZnBNQ1hZZHBPcmg4RzdYeW1kUTVKZS1QRElOY3gzcW5EM0RmSGMya0FfTUh3WGhmb1ZPLTUyYlJFWlg3clVzckJYd2Q?oc=5",
-        "date": "Tue, 31 Mar 2026 19:57:46 GMT"
-    },
-    {
-        "id": "809f51c3",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Blake Lively's Apparent Snub to Taylor Swift",
-                "content": "Blake Lively seems to have subtly critiqued Taylor Swift after reportedly being left out of her upcoming wedding to Travis Kelce. Fans noticed Lively's social media activity, interpreting a recent post as a pointed reference to the highly anticipated celebrity nuptials she wasn't invited to. This alleged slight has sparked speculation among followers about the nature of their friendship amidst the wedding buzz."
-            },
-            "kn": {
-                "title": "ಬ್ಲೇಕ್ ಲೈವ್ಲಿ ಟೇಲರ್ ಸ್ವಿಫ್ಟ್‌ಗೆ ಸ್ಪಷ್ಟ ತಿರಸ್ಕಾರ",
-                "content": "ಬ್ಲೇಕ್ ಲೈವ್ಲಿ ಟೇಲರ್ ಸ್ವಿಫ್ಟ್ ಅವರ ಟ್ರಾವಿಸ್ ಕೆಲ್ಸೆಯೊಂದಿಗಿನ ಮುಂಬರುವ ವಿವಾಹದಿಂದ ಹೊರಗುಳಿದ ನಂತರ ಸೂಕ್ಷ್ಮವಾಗಿ ಟೀಕಿಸಿದ್ದಾರೆ. ಆಹ್ವಾನವಿಲ್ಲದ ಕಾರಣ, ಆಕೆಯ ಇತ್ತೀಚಿನ ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮ ಪೋಸ್ಟ್ ಅನ್ನು ಅಭಿಮಾನಿಗಳು ವಿವಾಹಕ್ಕೆ ಉದ್ದೇಶಪೂರ್ವಕ ಉಲ್ಲೇಖವೆಂದು ಪರಿಗಣಿಸಿದ್ದಾರೆ. ಈ ಆರೋಪಿತ ನಿರ್ಲಕ್ಷ್ಯವು ವಿವಾಹದ ಸುತ್ತಮುತ್ತ ಅವರ ಸ್ನೇಹದ ಬಗ್ಗೆ ಊಹಾಪೋಹಗಳನ್ನು ಹುಟ್ಟುಹಾಕಿದೆ."
-            },
-            "mr": {
-                "title": "ब्लेक लाइव्हलीचा टेलर स्विफ्टला कथित दुर्लक्ष",
-                "content": "टेलर स्विफ्टच्या ट्रॅव्हिस केल्सीसोबतच्या आगामी लग्नातून बाहेर ठेवल्यामुळे ब्लेक लाइव्हलीने तिच्यावर अप्रत्यक्ष टीका केली आहे. ब्लेकच्या सोशल मीडियावरील हालचाली पाहून चाहत्यांनी तिच्या अलीकडील पोस्टला सेलिब्रिटी लग्नाच्या अपेक्षित सोहळ्याकडे केलेला थेट उल्लेख मानले आहे, ज्यात तिला आमंत्रित केले नव्हते. या कथित दुर्लक्षामुळे त्यांच्या मैत्रीच्या स्वरूपाबद्दल अटकळ सुरू झाली आहे."
-            },
-            "hi": {
-                "title": "ब्लेक लाइवली की टेलर स्विफ्ट के प्रति कथित उपेक्षा",
-                "content": "टेलर स्विफ्ट और ट्रैविस केल्से की आगामी शादी से कथित तौर पर बाहर रखे जाने के बाद ब्लेक लाइवली ने उन पर परोक्ष रूप से कटाक्ष किया है। प्रशंसकों ने लाइवली की सोशल मीडिया गतिविधि को देखा, और एक हालिया पोस्ट को उस बहुप्रतीक्षित सेलिब्रिटी शादी का एक सीधा संदर्भ माना जिसमें उन्हें आमंत्रित नहीं किया गया था। इस कथित उपेक्षा ने शादी की चर्चा के बीच उनकी दोस्ती की प्रकृति के बारे में अटकलें तेज कर दी हैं।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQdldHaTd1aU16TlFuRE1rSXVyVEVOZVhlQWhkTGIxUjVBeW9aQmZCX0N6Qk5Odkc4Yi02MEdNYS02NjFOMHQ3LWtXcjZrNHhhQ1d6MDVMdnRZY0ZFOTN6SVBnY3FvenRwZFNrUy03VlhMblRHbTd4RTRKblN6V3pXODNqeUpOdjNGaW5oaVoxN2pGM3RKS0RGNW5RMklaam1LWG11OWRvbTRCdDdpNm0tSDZtOTdnMWswRWc2MlVVUWIwaE51SkwtU1ppRTZVMDBmd2gtSW01bkgxQ2J5ZG5iT2twb0hWR2FvS0VpRkZCOU5XMF9oTHJhb3M0ODhWMFg1WVY4X0VaN3BOWmfSAYsCQVVfeXFMUHZXR2k3dWlNek5RbkRNa0l1clRFTmVYZUFoZExiMVI1QXlvWkJmQl9DekJOTnZHOGItNjBHTWEtNjYxTjB0Ny1rV3I2azR4YUNXejA1THZ0WWNGRTkzeklQZ2Nxb3p0cGRTa1MtN1ZYTG5UR203eEU0Sm5Teld6VzgzanlKTnYzRmluaGlaMTdqRjN0SktERjVuUTJJWmptS1htdTlkb200QnQ3aTZtLUg2bTk3ZzFrMEVnNjJVVVFiMGhOdUpMLVNaaUU2VTAwZndoLUltNW5IMUNieWRuYk9rcG9IVkdhb0tFaUZGQjlOVzBfaExyYW9zNDg4VjBYNVlWOF9FWjdwTlpn?oc=5",
-        "date": "Wed, 01 Apr 2026 10:46:00 GMT"
-    },
-    {
-        "id": "d69f453b",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Congress Slams Centre Over Lok Sabha Seat Hike Bill",
-                "content": "Congress slammed the Centre over a bill proposing a 50% increase in Lok Sabha seats, arguing it disadvantages southern, northeastern, and western states. The party claims this proposal, which would boost northern states' representation, is deceptive. They label it a 'weapon of mass diversion' from government failures, highlighting concerns about equitable representation and political motives."
-            },
-            "kn": {
-                "title": "ಲೋಕಸಭಾ ಸೀಟು ಹೆಚ್ಚಳ ಮಸೂದೆ: ಕೇಂದ್ರದ ವಿರುದ್ಧ ಕಾಂಗ್ರೆಸ್ ವಾಗ್ದಾಳಿ",
-                "content": "ಲೋಕಸಭಾ ಸೀಟುಗಳನ್ನು 50% ಹೆಚ್ಚಿಸುವ ಮಸೂದೆ ಬಗ್ಗೆ ಕಾಂಗ್ರೆಸ್ ಕೇಂದ್ರದ ವಿರುದ್ಧ ವಾಗ್ದಾಳಿ ನಡೆಸಿದೆ. ಇದು ದಕ್ಷಿಣ, ಈಶಾನ್ಯ ಮತ್ತು ಪಶ್ಚಿಮ ರಾಜ್ಯಗಳಿಗೆ ಅನನುಕೂಲಕರವಾಗಿದೆ ಎಂದು ಪಕ್ಷ ವಾದಿಸಿದೆ. ಉತ್ತರದ ರಾಜ್ಯಗಳ ಪ್ರಾತಿನಿಧ್ಯವನ್ನು ಹೆಚ್ಚಿಸುವ ಈ ಪ್ರಸ್ತಾವನೆಯು ಮೋಸದಾಯಕವಾಗಿದೆ. ಸರ್ಕಾರಿ ವೈಫಲ್ಯಗಳಿಂದ ಗಮನವನ್ನು ಬೇರೆಡೆಗೆ ಸೆಳೆಯಲು ಇದೊಂದು 'ಸಾಮೂಹಿಕ ದಿಕ್ಚ್ಯುತಿ ಅಸ್ತ್ರ' ಎಂದು ಕಾಂಗ್ರೆಸ್ ಹೇಳಿದೆ, ಸಮಾನ ಪ್ರಾತಿನಿಧ್ಯದ ಬಗ್ಗೆ ಆತಂಕ ವ್ಯಕ್ತಪಡಿಸಿದೆ."
-            },
-            "mr": {
-                "title": "लोकसभा जागा वाढ विधेयकावरून केंद्रावर काँग्रेसचा हल्ला",
-                "content": "लोकसभा जागांमध्ये 50% वाढ करण्याच्या विधेयकावरून काँग्रेसने केंद्रावर टीका केली आहे. यामुळे दक्षिण, ईशान्य आणि पश्चिम राज्यांचे नुकसान होईल, असे पक्षाचे म्हणणे आहे. उत्तरेकडील राज्यांचे प्रतिनिधित्व वाढवणारा हा प्रस्ताव फसवा आहे. सरकारी अपयशांपासून लक्ष विचलित करण्याचे हे 'सामूहिक विचलित करण्याचे शस्त्र' असल्याचे काँग्रेसने म्हटले आहे, समान प्रतिनिधित्व आणि राजकीय हेतूंबद्दल चिंता व्यक्त करत."
-            },
-            "hi": {
-                "title": "लोकसभा सीट वृद्धि विधेयक पर केंद्र पर कांग्रेस का हमला",
-                "content": "कांग्रेस ने लोकसभा सीटों में 50% वृद्धि का प्रस्ताव करने वाले विधेयक को लेकर केंद्र पर हमला बोला है. पार्टी का तर्क है कि इससे दक्षिणी, पूर्वोत्तर और पश्चिमी राज्यों को नुकसान होगा. उनका दावा है कि उत्तरी राज्यों का प्रतिनिधित्व बढ़ाने वाला यह प्रस्ताव भ्रामक है. कांग्रेस ने इसे सरकारी विफलताओं से ध्यान भटकाने का 'सामूहिक विचलन का हथियार' करार दिया है, समान प्रतिनिधित्व और राजनीतिक उद्देश्यों पर चिंताएं जताईं हैं."
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129946116,imgsize-738649.cms",
-        "link": "https://timesofindia.indiatimes.com/india/southern-states-are-at-a-disadvantage-congress-slams-centre-over-bill-proposing-to-increase-lok-sabha-seats/articleshow/129943659.cms",
-        "date": "2026-04-01T13:56:04+05:30"
-    },
-    {
-        "id": "294ff646",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "PM Modi Slams Congress, Rahul Gandhi in Assam; Predicts Defeat",
-                "content": "During a rally in Assam, PM Modi attacked Congress and Rahul Gandhi, labeling him \"Rajkumar\" and predicting a \"hat-trick of defeat\" for the party. Modi expressed confidence in the BJP-led NDA's victory, highlighting development work. He also promised a Uniform Civil Code and envisioned Assam as a future tech hub, reinforcing his party's electoral agenda."
-            },
-            "kn": {
-                "title": "ಪ್ರಧಾನಿ ಮೋದಿ ಅಸ್ಸಾಂನಲ್ಲಿ ಕಾಂಗ್ರೆಸ್, ರಾಹುಲ್ ಗಾಂಧಿ ವಿರುದ್ಧ ವಾಗ್ದಾಳಿ; ಸೋಲಿನ ಭವಿಷ್ಯ ನುಡಿದರು",
-                "content": "ಅಸ್ಸಾಂ ರ‍್ಯಾಲಿಯಲ್ಲಿ ಪ್ರಧಾನಿ ಮೋದಿ ಕಾಂಗ್ರೆಸ್ ಹಾಗೂ ರಾಹುಲ್ ಗಾಂಧಿಯನ್ನು \"ರಾಜಕುಮಾರ\" ಎಂದು ಕರೆದು, ಪಕ್ಷಕ್ಕೆ \"ಹ್ಯಾಟ್ರಿಕ್ ಸೋಲು\" ಖಚಿತ ಎಂದರು. ಬಿಜೆಪಿ ನೇತೃತ್ವದ ಎನ್‌ಡಿಎ ಗೆಲ್ಲುವ ವಿಶ್ವಾಸ ವ್ಯಕ್ತಪಡಿಸಿದ ಅವರು, ಅಭಿವೃದ್ಧಿ ಕಾರ್ಯಗಳನ್ನು ಉಲ್ಲೇಖಿಸಿದರು. ಏಕರೂಪ ನಾಗರಿಕ ಸಂಹಿತೆ ಭರವಸೆ ನೀಡಿದ ಮೋದಿ, ಅಸ್ಸಾಂ ಅನ್ನು ಭವಿಷ್ಯದ ತಂತ್ರಜ್ಞಾನ ಕೇಂದ್ರವಾಗಿ ರೂಪಿಸುವ ದೃಷ್ಟಿಕೋನ ಹಂಚಿಕೊಂಡರು, ಪಕ್ಷದ ಚುನಾವಣಾ ಕಾರ್ಯಸೂಚಿಯನ್ನು ಬಲಪಡಿಸಿದರು."
-            },
-            "mr": {
-                "title": "पंतप्रधान मोदींचा आसाममध्ये काँग्रेस, राहुल गांधींवर हल्ला; पराभवाची भविष्यवाणी",
-                "content": "आसाममधील रॅलीत पंतप्रधान मोदींनी काँग्रेस आणि राहुल गांधींवर हल्ला चढवला, त्यांना \"राजकुमार\" संबोधत पक्षासाठी \"पराभवाची हॅट्ट्रिक\" निश्चित असल्याचे भाकीत केले. मोदींनी भाजप-नेतृत्वाखालील एनडीएच्या विजयाबद्दल विश्वास व्यक्त केला, विकासकामांवर भर दिला. त्यांनी समान नागरी संहितेचे आश्वासनही दिले आणि आसामला भविष्यातील तंत्रज्ञान केंद्र म्हणून पाहिले, पक्षाचा निवडणूक अजेंडा मजबूत केला."
-            },
-            "hi": {
-                "title": "पीएम मोदी ने असम में कांग्रेस, राहुल गांधी पर साधा निशाना; हार की भविष्यवाणी",
-                "content": "असम में एक रैली के दौरान पीएम मोदी ने कांग्रेस और राहुल गांधी पर हमला करते हुए उन्हें \"राजकुमार\" कहा और पार्टी के लिए \"हार की हैट्रिक\" की भविष्यवाणी की। मोदी ने भाजपा के नेतृत्व वाले एनडीए की जीत पर भरोसा जताया, विकास कार्यों का उल्लेख किया। उन्होंने समान नागरिक संहिता का वादा किया और असम को भविष्य के तकनीकी केंद्र के रूप में देखा, पार्टी के चुनावी एजेंडे को मजबूत किया।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129945141,imgsize-800053.cms",
-        "link": "https://timesofindia.indiatimes.com/india/hat-trick-of-defeat-for-congress-certain-pm-modi-takes-rajkumar-dig-at-rahul-gandhi-in-assam/articleshow/129945047.cms",
-        "date": "2026-04-01T13:08:00+05:30"
-    },
-    {
-        "id": "f4ba9721",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "IU & Byeon Woo Seok \"Wedding\" Invite Sparks Frenzy!",
-                "content": "A fake wedding invitation for K-pop star IU and actor Byeon Woo Seok has gone viral, sparking widespread confusion among fans. The cleverly designed invite, featuring their names, quickly circulated online, leading many to believe the unexpected duo was tying the knot. This incident highlights how easily misinformation spreads, leaving fans amused but informed it's a prank."
-            },
-            "kn": {
-                "title": "ಐಯು ಮತ್ತು ಬ್ಯೆಯೋನ್ ವೂ ಸಿಯೋಕ್ \"ಮದುವೆ\" ಆಮಂತ್ರಣ ವೈರಲ್: ಸಂಚಲನ!",
-                "content": "ಕೆ-ಪಾಪ್ ತಾರೆ ಐಯು ಮತ್ತು ನಟ ಬ್ಯೆಯೋನ್ ವೂ ಸಿಯೋಕ್ ಅವರ ನಕಲಿ ಮದುವೆ ಆಮಂತ್ರಣ ವೈರಲ್ ಆಗಿದ್ದು, ಅಭಿಮಾನಿಗಳಲ್ಲಿ ವ್ಯಾಪಕ ಗೊಂದಲ ಸೃಷ್ಟಿಸಿದೆ. ಅವರ ಹೆಸರನ್ನು ಒಳಗೊಂಡ ಚತುರ ವಿನ್ಯಾಸದ ಆಮಂತ್ರಣವು ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ವೇಗವಾಗಿ ಹರಡಿತು, ಅನಿರೀಕ್ಷಿತ ಜೋಡಿ ಮದುವೆಯಾಗುತ್ತಿದೆ ಎಂದು ಹಲವರು ನಂಬುವಂತೆ ಮಾಡಿತು. ಈ ಘಟನೆಯು ತಪ್ಪು ಮಾಹಿತಿ ಎಷ್ಟು ಸುಲಭವಾಗಿ ಹರಡುತ್ತದೆ ಎಂಬುದನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ, ಇದು ಅಭಿಮಾನಿಗಳನ್ನು ರಂಜಿಸಿದೆ ಆದರೆ ಇದು ತಮಾಷೆ ಎಂದು ತಿಳಿಸಿದೆ."
-            },
-            "mr": {
-                "title": "आययू आणि ब्यॉन वू सियोकच्या \"लग्नाच्या\" आमंत्रणाने खळबळ!",
-                "content": "के-पॉप स्टार आययू आणि अभिनेता ब्यॉन वू सियोक यांच्या बनावट लग्नाची पत्रिका व्हायरल झाली आहे, ज्यामुळे चाहत्यांमध्ये मोठ्या प्रमाणावर गोंधळ निर्माण झाला आहे. त्यांची नावे असलेली ही चलाखपणे डिझाइन केलेली पत्रिका ऑनलाइन वेगाने पसरली, ज्यामुळे अनेकांना वाटले की हे अनपेक्षित जोडपे लग्न करत आहे. ही घटना दाखवते की चुकीची माहिती किती सहजपणे पसरते, ज्यामुळे चाहते मनोरंजित झाले असले तरी त्यांना कळले की हा एक प्रँक आहे."
-            },
-            "hi": {
-                "title": "IU और ब्योन वू सियोक के \"शादी\" के निमंत्रण ने मचाया हंगामा!",
-                "content": "के-पॉप स्टार IU और अभिनेता ब्योन वू सियोक की एक फर्जी शादी का निमंत्रण वायरल हो गया है, जिससे प्रशंसकों में व्यापक भ्रम फैल गया है। उनके नामों वाली चतुराई से डिज़ाइन की गई यह पत्रिका तेज़ी से ऑनलाइन प्रसारित हुई, जिससे कई लोगों को लगा कि यह अप्रत्याशित जोड़ी शादी कर रही है। यह घटना दर्शाती है कि गलत सूचना कितनी आसानी से फैलती है, जिससे प्रशंसक हैरान तो हुए लेकिन उन्हें पता चला कि यह एक मज़ाक था।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQX0pYai1Nbl9wcklWdG91Y1V6dkRRdW1EZ2pmNXVWVVY1Z2hnc1FLZUk4MVMtZG1qRnlidkxYdDZyMnlfNnR4Q2RRMnY3R3FtbUFmNTg2NUZvdHdPRERTYW9ha3RPb2stelNRWlhnMzlRV2tzVHo3OGV5U3J5eTdoODdhNXJ5MmliRDk4VndaQXgzUFU2V181eEdnYUNBVERaNXd5eFhzMDNKUUU1OFlwdnJIRUJEU25vdjZMOXduc3Ruck8wblJlTnFKZVBQRkdVT0pBdEVMazFaWXpidkdkdk5OWmkzb2_SAewBQVVfeXFMTlpMbjZVekU1SW12NnNKdl9NVXd0UUpRUVZ1RHR4X1g5N3dJX0psTlN5ekZ1NjZ2eExxWFc2TEF2czF4OGNGSkRSQ0Roc3c1SWM0aGx4dTBKQV9qVGhvaW5aLWprempsSnhrNmxvWDJKX3hlLV9Pdk5QXzBrM0FMUG4ya2t5eDJKUmIwVGJRVHRlcjNzQW9xSTl1ZnFaMk1GUHpIclNOZ205NERIQ2hTekxESlJnVldJZk43bmxhbElNVWxkNWFNbFVWbmxQUTRxNzJwMUJnNkd5dG5jc2NrT1pKOVBtejZ0cHM1MzI?oc=5",
-        "date": "Wed, 01 Apr 2026 08:45:35 GMT"
-    },
-    {
-        "id": "d09ac25b",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Carl Jung: Architect of the Psyche",
-                "content": "Carl Jung was a pivotal Swiss psychiatrist, founder of analytical psychology. He introduced concepts like the collective unconscious, archetypes, and introversion/extraversion, profoundly shaping our understanding of personality and spirituality. His work explores dreams, myths, and symbols, offering deep insights into human nature and the complexities of the mind. Discover his enduring legacy."
-            },
-            "kn": {
-                "title": "ಕಾರ್ಲ್ ಜಂಗ್: ಮನಸ್ಸಿನ ವಾಸ್ತುಶಿಲ್ಪಿ",
-                "content": "ಕಾರ್ಲ್ ಜಂಗ್ ವಿಶ್ಲೇಷಣಾತ್ಮಕ ಮನೋವಿಜ್ಞಾನದ ಸ್ಥಾಪಕ, ಒಬ್ಬ ಪ್ರಮುಖ ಸ್ವಿಟ್ಜರ್ಲೆಂಡ್ ಮನೋವೈದ್ಯರಾಗಿದ್ದರು. ಅವರು ಸಾಮೂಹಿಕ ಅಜ್ಞಾತ, ಮೂಲಮಾದರಿಗಳು (archetypes) ಮತ್ತು ಅಂತರ್ಮುಖಿ/ಬಹಿರ್ಮುಖಿ ಪರಿಕಲ್ಪನೆಗಳನ್ನು ಪರಿಚಯಿಸಿ, ವ್ಯಕ್ತಿತ್ವ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕತೆಯ ಬಗ್ಗೆ ನಮ್ಮ ತಿಳುವಳಿಕೆಯನ್ನು ಆಳವಾಗಿ ರೂಪಿಸಿದರು. ಅವರ ಕೃತಿಗಳು ಕನಸುಗಳು, ಪುರಾಣಗಳು ಮತ್ತು ಸಂಕೇತಗಳನ್ನು ಅನ್ವೇಷಿಸುತ್ತವೆ, ಮಾನವ ಸ್ವಭಾವ ಮತ್ತು ಮನಸ್ಸಿನ ಸಂಕೀರ್ಣತೆಗಳ ಬಗ್ಗೆ ಆಳವಾದ ಒಳನೋಟಗಳನ್ನು ನೀಡುತ್ತವೆ. ಅವರ ಶಾಶ್ವತ ಪರಂಪರೆಯನ್ನು ಅನ್ವೇಷಿಸಿ."
-            },
-            "mr": {
-                "title": "कार्ल जंग: मनाचे शिल्पकार",
-                "content": "कार्ल जंग हे विश्लेषणात्मक मानसशास्त्राचे संस्थापक, एक महत्त्वाचे स्विस मानसोपचारतज्ज्ञ होते. त्यांनी सामूहिक अचेतन मन, मूळ नमुने (आर्केटाइप्स) आणि अंतर्मुखता/बहिर्मुखता यांसारख्या संकल्पना मांडल्या, ज्यामुळे व्यक्तिमत्व आणि अध्यात्म याबद्दलची आपली समज मोठ्या प्रमाणात बदलली. त्यांचे कार्य स्वप्ने, मिथके आणि चिन्हे यांचा शोध घेते, मानवी स्वभाव आणि मनाच्या गुंतागुंतीबद्दल सखोल अंतर्दृष्टी देते. त्यांचा चिरस्थायी वारसा शोधा."
-            },
-            "hi": {
-                "title": "कार्ल जंग: मन के वास्तुकार",
-                "content": "कार्ल जंग विश्लेषणात्मक मनोविज्ञान के संस्थापक, एक महत्वपूर्ण स्विस मनोचिकित्सक थे। उन्होंने सामूहिक अचेतन मन, आर्केटाइप्स और अंतर्मुखता/बहिर्मुखता जैसी अवधारणाएँ प्रस्तुत कीं, जिन्होंने व्यक्तित्व और आध्यात्मिकता की हमारी समझ को गहराई से आकार दिया। उनका कार्य सपनों, मिथकों और प्रतीकों की पड़ताल करता है, जो मानव स्वभाव और मन की जटिलताओं में गहरी अंतर्दृष्टि प्रदान करता है। उनकी स्थायी विरासत की खोज करें।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX2Y5VWlVa2hOUktJa3VaRWtTSWItbTgtN3QxV080blJHckZlcUo0SmI4VktONktsVTQ2VTgzM2JjbDA1QzZxVkZKVUpJdmkzbnVWbFMzNDV2NFlxN3dUR2pqcEt6RzB3T2dJbUFrNVFuRlk3ak9tVXpaTmpkOU9LNlFxQ3hVY2NPVkVKZTQwbURSQVpNalhPelpxYkN4eW1hVGZIam5R0gGmAUFVX3lxTFBfZjlVaVVraE5SS0lrdVpFa1NJYi1tOC03dDFXTzRuUkdyRmVxSjRKYjhWS042S2xVNDZVODMzYmNsMDVDNnFWRkpVSkl2aTNudVZsUzM0NXY0WXE3d1RHampwS3pHMHdPZ0ltQWs1UW5GWTdqT21VelpOamQ5T0s2UXFDeFVjY09WRUplNDBtRFJBWk1qWE96WnFiQ3h5bWFUZkhqblE?oc=5",
-        "date": "Wed, 01 Apr 2026 08:00:35 GMT"
     }
 ]
