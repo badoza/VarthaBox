@@ -1,5 +1,55 @@
 [
     {
+        "id": "7c73ec80",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Rare Disease Funding Drops Amid Unspent Funds",
+                "content": "Funding for rare disease treatment at Centres of Excellence has drastically fallen from Rs 82.87 crore to Rs 32.73 crore. Paradoxically, many institutions report unspent funds, highlighting severe issues with fund utilization and patient support. This critical situation persists despite limited new allocations, impacting access to vital care for rare disease patients across the nation."
+            },
+            "kn": {
+                "title": "ಅಪರೂಪದ ರೋಗಗಳ ನಿಧಿ ಬಳಕೆಯಾಗದೆ ಉಳಿದಿದೆ, ಅನುದಾನ ಕುಸಿತ",
+                "content": "ಅಪರೂಪದ ಕಾಯಿಲೆಗಳ ಚಿಕಿತ್ಸೆಗಾಗಿನ ನಿಧಿ ಉತ್ಕೃಷ್ಟತಾ ಕೇಂದ್ರಗಳಲ್ಲಿ 82.87 ಕೋಟಿ ರೂ.ಗಳಿಂದ 32.73 ಕೋಟಿ ರೂ.ಗಳಿಗೆ ತೀವ್ರವಾಗಿ ಕುಸಿದಿದೆ. ವಿಪರ್ಯಾಸವೆಂದರೆ, ಅನೇಕ ಸಂಸ್ಥೆಗಳು ಬಳಕೆಯಾಗದ ನಿಧಿಗಳನ್ನು ವರದಿ ಮಾಡಿವೆ, ಇದು ನಿಧಿ ಬಳಕೆ ಮತ್ತು ರೋಗಿಗಳ ಬೆಂಬಲದಲ್ಲಿನ ಗಂಭೀರ ಸಮಸ್ಯೆಗಳನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ಸೀಮಿತ ಹೊಸ ಹಂಚಿಕೆಗಳ ಹೊರತಾಗಿಯೂ ಈ ನಿರ್ಣಾಯಕ ಪರಿಸ್ಥಿತಿ ಮುಂದುವರಿದಿದ್ದು, ದೇಶಾದ್ಯಂತ ಅಪರೂಪದ ಕಾಯಿಲೆಯ ರೋಗಿಗಳಿಗೆ ಅಗತ್ಯ ಆರೈಕೆಯನ್ನು ತಡೆಯುತ್ತಿದೆ."
+            },
+            "mr": {
+                "title": "दुर्मिळ रोगांच्या निधीत घट, अनेक ठिकाणी निधी पडून",
+                "content": "उत्कृष्टता केंद्रांमध्ये दुर्मिळ रोगांच्या उपचारांसाठीचा निधी ८२.८७ कोटी रुपयांवरून ३२.७३ कोटी रुपयांपर्यंत मोठ्या प्रमाणात घटला आहे. विरोधाभास असा की, अनेक संस्थांनी न वापरलेल्या निधीची नोंद केली आहे, ज्यामुळे निधीचा वापर आणि रुग्णांच्या मदतीमध्ये गंभीर समस्या दिसून येतात. नवीन निधी वाटप मर्यादित असूनही, ही गंभीर परिस्थिती देशभरातील दुर्मिळ रोग्यांसाठी आवश्यक आरोग्य सेवांवर परिणाम करत आहे."
+            },
+            "hi": {
+                "title": "दुर्लभ रोगों के लिए धन में कमी, अप्रयुक्त निधि जमा",
+                "content": "उत्कृष्टता केंद्रों में दुर्लभ रोगों के उपचार के लिए फंडिंग ८२.८७ करोड़ रुपये से घटकर ३२.७३ करोड़ रुपये हो गई है। विडंबना यह है कि कई संस्थानों ने अप्रयुक्त निधियों की सूचना दी है, जो धन के उपयोग और रोगी सहायता में गंभीर समस्याओं को उजागर करता है। सीमित नए आवंटन के बावजूद यह गंभीर स्थिति बनी हुई है, जिससे देश भर में दुर्लभ रोग से पीड़ित रोगियों के लिए महत्वपूर्ण देखभाल प्रभावित हो रही है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130004658,imgsize-476256.cms",
+        "link": "https://timesofindia.indiatimes.com/india/rare-disease-funds-drop-unspent-money-piles-up-at-key-centres/articleshow/130004632.cms",
+        "date": "2026-04-03T21:18:40+05:30"
+    },
+    {
+        "id": "6ef9a52e",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Florida Man Arrested for $40K Trading Card Heist",
+                "content": "A Florida man was arrested for stealing $40,000 worth of trading cards from Target. This high-value heist, involving collectible cards, could land him up to 90 years in prison. The bold theft highlights the booming market for trading card collectibles and the severe consequences for such crimes."
+            },
+            "kn": {
+                "title": "ಫ್ಲೋರಿಡಾ ವ್ಯಕ್ತಿ $40K ಟ್ರೇಡಿಂಗ್ ಕಾರ್ಡ್ ಕಳ್ಳತನಕ್ಕಾಗಿ ಬಂಧನ",
+                "content": "ಫ್ಲೋರಿಡಾ ವ್ಯಕ್ತಿಯೊಬ್ಬ ಟಾರ್ಗೆಟ್‌ನಿಂದ $40,000 ಮೌಲ್ಯದ ಟ್ರೇಡಿಂಗ್ ಕಾರ್ಡ್‌ಗಳನ್ನು ಕದ್ದ ಆರೋಪದ ಮೇಲೆ ಬಂಧಿಸಲ್ಪಟ್ಟಿದ್ದಾನೆ. ಈ ದೊಡ್ಡ ಕಳ್ಳತನವು ಅವನಿಗೆ 90 ವರ್ಷಗಳವರೆಗೆ ಜೈಲು ಶಿಕ್ಷೆ ವಿಧಿಸಬಹುದು. ಈ ಧೈರ್ಯದ ಕಳ್ಳತನವು ಟ್ರೇಡಿಂಗ್ ಕಾರ್ಡ್ ಸಂಗ್ರಹಣೆಗಳಿಗಾಗಿ ಹೆಚ್ಚುತ್ತಿರುವ ಮಾರುಕಟ್ಟೆ ಮತ್ತು ಅಪರಾಧಗಳ ಗಂಭೀರ ಪರಿಣಾಮಗಳನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "फ्लोरिडातील व्यक्तीला $40K च्या ट्रेडिंग कार्ड चोरीसाठी अटक",
+                "content": "फ्लोरिडातील एका व्यक्तीला टार्गेटमधून $40,000 किमतीची ट्रेडिंग कार्ड्स चोरल्याप्रकरणी अटक करण्यात आली आहे. या मोठ्या चोरीमुळे त्याला 90 वर्षांपर्यंत तुरुंगवास होऊ शकतो. ही धाडसी चोरी ट्रेडिंग कार्ड संग्रहांसाठी वाढणारी बाजारपेठ आणि अशा गुन्ह्यांचे गंभीर परिणाम अधोरेखित करते."
+            },
+            "hi": {
+                "title": "फ्लोरिडा व्यक्ति $40K की ट्रेडिंग कार्ड चोरी के आरोप में गिरफ्तार",
+                "content": "फ्लोरिडा के एक व्यक्ति को टारगेट से $40,000 मूल्य के ट्रेडिंग कार्ड चुराने के आरोप में गिरफ्तार किया गया है। संग्रहणीय कार्डों वाली इस महंगी चोरी के लिए उसे 90 साल तक की जेल हो सकती है। यह साहसिक चोरी ट्रेडिंग कार्ड संग्रह के बढ़ते बाजार और ऐसे अपराधों के गंभीर परिणामों पर प्रकाश डालती है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130001987,imgsize-82252.cms",
+        "link": "https://timesofindia.indiatimes.com/world/us/florida-man-arrested-for-stealing-40000-worth-of-trading-cards-from-target-using-cheap-taco-seasoning-packets/articleshow/130001987.cms",
+        "date": "2026-04-03T21:04:00+05:30"
+    },
+    {
         "id": "43f569a2",
         "category": "IPL Scoop",
         "translations": {
@@ -1948,55 +1998,5 @@
         "image": "https://static.toiimg.com/photo/msid-129965601,imgsize-868933.cms",
         "link": "https://timesofindia.indiatimes.com/india/supreme-court-fines-centre-for-plea-on-cisf-cops-sacking-case/articleshow/129965585.cms",
         "date": "2026-04-02T08:08:09+05:30"
-    },
-    {
-        "id": "e60072b0",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "Chornobyl: A Global Nuclear Catastrophe",
-                "content": "The 1986 Chornobyl disaster, a catastrophic nuclear accident at the Chornobyl Nuclear Power Plant in Ukraine, occurred during a safety test. An uncontrolled power surge led to reactor core meltdown and explosions, releasing vast amounts of radioactive material into the atmosphere. This global catastrophe caused widespread environmental contamination, long-term health issues, and forced mass evacuations, marking the worst nuclear power plant accident in history."
-            },
-            "kn": {
-                "title": "ಚೆರ್ನೋಬಿಲ್: ಒಂದು ಜಾಗತಿಕ ಅಣು ದುರಂತ",
-                "content": "1986ರ ಚೆರ್ನೋಬಿಲ್ ದುರಂತವು, ಉಕ್ರೇನ್‌ನ ಚೆರ್ನೋಬಿಲ್ ಅಣು ವಿದ್ಯುತ್ ಸ್ಥಾವರದಲ್ಲಿ ಸುರಕ್ಷತಾ ಪರೀಕ್ಷೆಯ ಸಮಯದಲ್ಲಿ ಸಂಭವಿಸಿದ ವಿನಾಶಕಾರಿ ಅಣು ಅಪಘಾತವಾಗಿದೆ. ಅನಿಯಂತ್ರಿತ ವಿದ್ಯುತ್ ಹೆಚ್ಚಳದಿಂದ ರಿಯಾಕ್ಟರ್ ಕೋರ್ ಕರಗಿ ಸ್ಫೋಟಗಳು ಸಂಭವಿಸಿ, ಅಪಾರ ಪ್ರಮಾಣದ ವಿಕಿರಣಶೀಲ ವಸ್ತುಗಳನ್ನು ವಾತಾವರಣಕ್ಕೆ ಬಿಡುಗಡೆ ಮಾಡಿತು. ಈ ಜಾಗತಿಕ ದುರಂತವು ವ್ಯಾಪಕ ಪರಿಸರ ಮಾಲಿನ್ಯ, ದೀರ್ಘಕಾಲಿಕ ಆರೋಗ್ಯ ಸಮಸ್ಯೆಗಳು ಮತ್ತು ಸಾಮೂಹಿಕ ಸ್ಥಳಾಂತರಗಳಿಗೆ ಕಾರಣವಾಗಿ, ಇತಿಹಾಸದ ಅತ್ಯಂತ ಭೀಕರ ಅಣು ವಿದ್ಯುತ್ ಸ್ಥಾವರ ಅಪಘಾತ ಎಂದು ಗುರುತಿಸಲ್ಪಟ್ಟಿದೆ."
-            },
-            "mr": {
-                "title": "चेर्नोबिल: एक जागतिक अणु आपत्ती",
-                "content": "1986 ची चेर्नोबिल आपत्ती, युक्रेनमधील चेर्नोबिल अणुऊर्जा प्रकल्पात सुरक्षा चाचणीदरम्यान घडलेली एक विनाशकारी अणु दुर्घटना होती. अनियंत्रित ऊर्जा वाढीमुळे अणुभट्टीचा गाभा वितळला आणि स्फोट झाले, ज्यामुळे मोठ्या प्रमाणात किरणोत्सर्गी पदार्थ वातावरणात पसरले. या जागतिक आपत्तीमुळे व्यापक पर्यावरणीय प्रदूषण, दीर्घकालीन आरोग्य समस्या आणि मोठ्या प्रमाणावर स्थलांतर झाले, ज्यामुळे हा इतिहासातील सर्वात वाईट अणुऊर्जा प्रकल्पाचा अपघात ठरला."
-            },
-            "hi": {
-                "title": "चेरनोबिल: एक वैश्विक परमाणु आपदा",
-                "content": "1986 की चेरनोबिल आपदा, यूक्रेन के चेरनोबिल परमाणु ऊर्जा संयंत्र में सुरक्षा परीक्षण के दौरान हुई एक विनाशकारी परमाणु दुर्घटना थी। एक अनियंत्रित बिजली वृद्धि के कारण रिएक्टर कोर पिघल गया और विस्फोट हुए, जिससे बड़ी मात्रा में रेडियोधर्मी सामग्री वायुमंडल में फैल गई। इस वैश्विक आपदा से व्यापक पर्यावरणीय संदूषण, दीर्घकालिक स्वास्थ्य समस्याएं और बड़े पैमाने पर निकासी हुई, जिसने इसे इतिहास की सबसे खराब परमाणु ऊर्जा संयंत्र दुर्घटना बना दिया।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129961272,imgsize-78202.cms",
-        "link": "https://timesofindia.indiatimes.com/world/rest-of-world/the-chornobyl-disaster-1986-when-a-nuclear-test-turned-into-a-global-catastrophe/articleshow/129961238.cms",
-        "date": "2026-04-02T01:00:00+05:30"
-    },
-    {
-        "id": "15ad6278",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "UAE Warns Against Illegal Domestic Worker Recruitment",
-                "content": "UAE has issued a strict warning against illegal domestic worker recruitment, threatening heavy fines and agency shutdowns for violators. Authorities emphasize using only accredited agencies to protect both workers and customers from exploitation. The Ministry of Human Resources and Emiratisation urges public cooperation to maintain a regulated labor market and report any illicit practices immediately."
-            },
-            "kn": {
-                "title": "ಯುಎಇ ಅಕ್ರಮ ಗೃಹ ಕಾರ್ಮಿಕರ ನೇಮಕಾತಿ ವಿರುದ್ಧ ಎಚ್ಚರಿಕೆ",
-                "content": "ಯುಎಇ ಅಕ್ರಮ ಗೃಹ ಕಾರ್ಮಿಕರ ನೇಮಕಾತಿ ವಿರುದ್ಧ ಕಟ್ಟುನಿಟ್ಟಾದ ಎಚ್ಚರಿಕೆ ನೀಡಿದೆ, ಉಲ್ಲಂಘಿಸುವವರಿಗೆ ಭಾರಿ ದಂಡ ಮತ್ತು ಏಜೆನ್ಸಿ ಮುಚ್ಚುವ ಬೆದರಿಕೆ ಹಾಕಿದೆ. ಕಾರ್ಮಿಕರು ಮತ್ತು ಗ್ರಾಹಕರಿಬ್ಬರನ್ನೂ ಶೋಷಣೆಯಿಂದ ರಕ್ಷಿಸಲು ಮಾನ್ಯತೆ ಪಡೆದ ಏಜೆನ್ಸಿಗಳನ್ನು ಮಾತ್ರ ಬಳಸಲು ಅಧಿಕಾರಿಗಳು ಒತ್ತಿ ಹೇಳುತ್ತಾರೆ. ನಿಯಂತ್ರಿತ ಕಾರ್ಮಿಕ ಮಾರುಕಟ್ಟೆಯನ್ನು ನಿರ್ವಹಿಸಲು ಮತ್ತು ಯಾವುದೇ ಅಕ್ರಮ ಪದ್ಧತಿಗಳನ್ನು ತಕ್ಷಣ ವರದಿ ಮಾಡಲು ಸಾರ್ವಜನಿಕ ಸಹಕಾರವನ್ನು ಮಾನವ ಸಂಪನ್ಮೂಲ ಮತ್ತು ಎಮಿರಾಟೈಸೇಶನ್ ಸಚಿವಾಲಯ ಒತ್ತಾಯಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "युएईने बेकायदेशीर घरगुती कामगार भरतीविरुद्ध दिला इशारा",
-                "content": "युएईने बेकायदेशीर घरगुती कामगार भरतीविरुद्ध कठोर इशारा दिला आहे, ज्यात नियम मोडणाऱ्यांना मोठा दंड आणि एजन्सी बंद करण्याची धमकी दिली आहे. अधिकारी कामगार आणि ग्राहक दोघांनाही शोषणापासून वाचवण्यासाठी केवळ मान्यताप्राप्त एजन्सी वापरण्यावर जोर देतात. मानव संसाधन आणि एमिरेटायझेशन मंत्रालय सुव्यवस्थित कामगार बाजार राखण्यासाठी आणि कोणत्याही बेकायदेशीर प्रॅक्टिसची तात्काळ तक्रार करण्यासाठी जनतेच्या सहकार्याची विनंती करते."
-            },
-            "hi": {
-                "title": "यूएई ने अवैध घरेलू कामगार भर्ती के खिलाफ चेतावनी दी",
-                "content": "यूएई ने अवैध घरेलू कामगारों की भर्ती के खिलाफ सख्त चेतावनी जारी की है, जिसमें उल्लंघनकर्ताओं के लिए भारी जुर्माना और एजेंसियों को बंद करने की धमकी दी गई है। अधिकारी श्रमिकों और ग्राहकों दोनों को शोषण से बचाने के लिए केवल मान्यता प्राप्त एजेंसियों का उपयोग करने पर जोर देते हैं। मानव संसाधन और अमीरात मंत्रालय एक विनियमित श्रम बाजार बनाए रखने और किसी भी अवैध प्रथाओं की तुरंत रिपोर्ट करने के लिए जनता के सहयोग का आग्रह करता है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129969762,imgsize-547331.cms",
-        "link": "https://timesofindia.indiatimes.com/world/middle-east/uae-issues-strict-warning-against-illegal-domestic-worker-recruitment-heavy-fines-agency-shutdowns-for-violators/articleshow/129969304.cms",
-        "date": "2026-04-02T12:10:23+05:30"
     }
 ]
