@@ -1,5 +1,30 @@
 [
     {
+        "id": "8eea0a8f",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Iran Threatens Gulf Targets After US Bridge Strike",
+                "content": "Following US-led strikes that destroyed Iran's tallest bridge near Tehran, Iran threatens \"tit for tat\" retaliation. Tehran has identified seven strategic bridges across the Gulf as potential targets, signaling a dangerous escalation. This move could significantly widen the conflict, increasing regional tensions and raising concerns about broader instability."
+            },
+            "kn": {
+                "title": "ಅಮೆರಿಕ ಸೇತುವೆ ದಾಳಿ ನಂತರ ಇರಾನ್ ಗಲ್ಫ್ ಗುರಿಗಳ ಬೆದರಿಕೆ",
+                "content": "ಅಮೆರಿಕ ನೇತೃತ್ವದ ದಾಳಿಯಿಂದ ಟೆಹ್ರಾನ್ ಬಳಿ ಇರುವ ಇರಾನ್‌ನ ಅತಿ ಎತ್ತರದ ಸೇತುವೆ ನಾಶವಾದ ನಂತರ, ಇರಾನ್ 'ಪ್ರತೀಕಾರ'ದ ಬೆದರಿಕೆ ಹಾಕಿದೆ. ಟೆಹ್ರಾನ್ ಗಲ್ಫ್‌ನಾದ್ಯಂತ ಏಳು ಕಾರ್ಯತಂತ್ರದ ಸೇತುವೆಗಳನ್ನು ಸಂಭಾವ್ಯ ಗುರಿಗಳೆಂದು ಗುರುತಿಸಿದೆ, ಇದು ಅಪಾಯಕಾರಿ ಉಲ್ಬಣವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಈ ನಡೆಯು ಸಂಘರ್ಷವನ್ನು ಗಣನೀಯವಾಗಿ ವಿಸ್ತರಿಸಬಹುದು, ಪ್ರಾದೇಶಿಕ ಉದ್ವಿಗ್ನತೆಯನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ ಮತ್ತು ವಿಶಾಲವಾದ ಅಸ್ಥಿರತೆಯ ಬಗ್ಗೆ ಕಳವಳವನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "अमेरिकेच्या पूल हल्ल्यानंतर इराणकडून आखातातील लक्ष्यांना धमकी",
+                "content": "अमेरिकेच्या नेतृत्वाखालील हल्ल्यांमुळे तेहरानजवळील इराणचा सर्वात उंच पूल नष्ट झाल्यानंतर, इराणने 'प्रत्युत्तरा'ची धमकी दिली आहे. तेहरानने आखातातील सात धोरणात्मक पूल संभाव्य लक्ष्य म्हणून ओळखले आहेत, जे धोकादायक वाढ दर्शवते. या पावलामुळे संघर्ष लक्षणीयरीत्या वाढू शकतो, प्रादेशिक तणाव वाढू शकतो आणि व्यापक अस्थिरतेबद्दल चिंता वाढू शकते."
+            },
+            "hi": {
+                "title": "अमेरिकी पुल हमले के बाद ईरान ने खाड़ी लक्ष्यों को धमकाया",
+                "content": "अमेरिकी नेतृत्व वाले हमलों से तेहरान के पास ईरान का सबसे ऊंचा पुल नष्ट होने के बाद, ईरान ने 'जैसे को तैसा' जवाबी कार्रवाई की धमकी दी है। तेहरान ने खाड़ी के पार सात रणनीतिक पुलों को संभावित लक्ष्यों के रूप में पहचाना है, जो एक खतरनाक वृद्धि का संकेत है। यह कदम संघर्ष को काफी बढ़ा सकता है, क्षेत्रीय तनाव को बढ़ा सकता है और व्यापक अस्थिरता के बारे में चिंताओं को बढ़ा सकता है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-129994664,imgsize-839621.cms",
+        "link": "https://timesofindia.indiatimes.com/world/middle-east/bridge-for-bridge-iran-lists-7-gulf-targets-after-karaj-strike/articleshow/129994472.cms",
+        "date": "2026-04-03T13:16:51+05:30"
+    },
+    {
         "id": "361996da",
         "category": "IPL Scoop",
         "translations": {
@@ -1973,30 +1998,5 @@
         "image": "https://static.toiimg.com/photo/msid-129968225,imgsize-33406.cms",
         "link": "https://timesofindia.indiatimes.com/world/us/quote-of-the-day-by-andrew-carnegie-the-way-to-become-rich-is-to-put-all-your-eggs-in-one-basket-and-then-watch-that-basket-/articleshow/129968102.cms",
         "date": "2026-04-02T10:53:07+05:30"
-    },
-    {
-        "id": "2a697eb1",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "Oil Prices Surge After Trump's Hormuz Call",
-                "content": "Oil prices surged after President Trump's speech urged nations to help reopen the Strait of Hormuz, citing Iran's weakened state and military setbacks. The address, outlining US objectives and suggesting alternative fuel sources, reversed an initial dip. Brent crude hit $106, WTI topped $103, reflecting market volatility post-speech."
-            },
-            "kn": {
-                "title": "ಟ್ರಂಪ್ ಅವರ ಹೋರ್ಮುಜ್ ಕರೆಯ ನಂತರ ತೈಲ ಬೆಲೆ ಏರಿಕೆ",
-                "content": "ಅಧ್ಯಕ್ಷ ಟ್ರಂಪ್ ಅವರ ಭಾಷಣದ ನಂತರ ತೈಲ ಬೆಲೆಗಳು ಏರಿಕೆ ಕಂಡವು, ಅವರು ಇರಾನ್‌ನ ದುರ್ಬಲ ಸ್ಥಿತಿ ಮತ್ತು ಮಿಲಿಟರಿ ಹಿನ್ನಡೆಗಳನ್ನು ಉಲ್ಲೇಖಿಸಿ, ಹೋರ್ಮುಜ್ ಜಲಸಂಧಿಯನ್ನು ಮರು-ತೆರೆಯಲು ರಾಷ್ಟ್ರಗಳಿಗೆ ಕರೆ ನೀಡಿದರು. ಯುಎಸ್ ಉದ್ದೇಶಗಳನ್ನು ವಿವರಿಸಿದ ಮತ್ತು ಪರ್ಯಾಯ ಇಂಧನ ಮೂಲಗಳನ್ನು ಸೂಚಿಸಿದ ಈ ಭಾಷಣ, ಆರಂಭಿಕ ಕುಸಿತವನ್ನು ಹಿಮ್ಮೆಟ್ಟಿಸಿತು. ಬ್ರೆಂಟ್ ಕಚ್ಚಾ ತೈಲ $106 ಮತ್ತು WTI $103 ತಲುಪಿತು, ಇದು ಭಾಷಣದ ನಂತರದ ಮಾರುಕಟ್ಟೆ ಅಸ್ಥಿರತೆಯನ್ನು ಪ್ರತಿಬಿಂಬಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "ट्रम्प यांच्या होर्मुझ आवाहनानंतर तेलाच्या किमती वाढल्या",
-                "content": "राष्ट्राध्यक्ष ट्रम्प यांच्या भाषणानंतर तेलाच्या किमती वाढल्या, ज्यामध्ये त्यांनी इराणची कमकुवत स्थिती आणि लष्करी अडचणींचा उल्लेख करत होर्मुझची सामुद्रधुनी पुन्हा उघडण्यास मदत करण्याचे आवाहन राष्ट्रांना केले. अमेरिकेची उद्दिष्टे आणि पर्यायी इंधनाच्या स्रोतांची रूपरेषा मांडलेल्या या भाषणामुळे सुरुवातीची घसरण थांबली. ब्रेंट क्रूड $106 आणि WTI $103 वर पोहोचले, ज्यामुळे भाषणानंतरची बाजारातील अस्थिरता दिसून येते."
-            },
-            "hi": {
-                "title": "ट्रम्प के होर्मुज आह्वान के बाद तेल की कीमतों में उछाल",
-                "content": "राष्ट्रपति ट्रम्प के भाषण के बाद तेल की कीमतें बढ़ गईं, जिसमें उन्होंने ईरान की कमजोर स्थिति और सैन्य असफलताओं का हवाला देते हुए राष्ट्रों से होर्मुज जलडमरूमध्य को फिर से खोलने में मदद करने का आग्रह किया। अमेरिकी उद्देश्यों को रेखांकित करने और वैकल्पिक ईंधन स्रोतों का सुझाव देने वाले इस संबोधन ने शुरुआती गिरावट को उलट दिया। ब्रेंट क्रूड $106 और डब्ल्यूटीआई $103 पर पहुंच गया, जो भाषण के बाद बाजार की अस्थिरता को दर्शाता है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129965318,imgsize-1886311.cms",
-        "link": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-climb-today-on-april-2-2026-after-trumps-speech-brent-crude-reaches-106-wti-tops-103/articleshow/129965171.cms",
-        "date": "2026-04-02T07:39:49+05:30"
     }
 ]
