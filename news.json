@@ -1,5 +1,30 @@
 [
     {
+        "id": "1ca21ef6",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "Bishop Apologizes to Gaikwad for Chepauk Toss Delay",
+                "content": "Ian Bishop publicly apologized to CSK captain Ruturaj Gaikwad for the unusually long toss at Chepauk. The former cricketer-turned-commentator stated that the 'extremely loud' crowd made communication difficult, causing the coin toss procedure to 'drag on' longer than usual. Bishop expressed regret for the extended delay and thanked Gaikwad for his patience."
+            },
+            "kn": {
+                "title": "ಚೆಪಾಕ್ ಟಾಸ್ ವಿಳಂಬಕ್ಕೆ ಗಾಯಕ್ವಾಡ್‌ಗೆ ಬಿಷಪ್ ಕ್ಷಮೆಯಾಚಿಸಿದರು",
+                "content": "ಇಯಾನ್ ಬಿಷಪ್ ಅವರು ಚೆಪಾಕ್‌ನಲ್ಲಿ ನಡೆದ ಅಸಾಮಾನ್ಯವಾಗಿ ಸುದೀರ್ಘ ಟಾಸ್‌ಗಾಗಿ ಸಿಎಸ್‌ಕೆ ನಾಯಕ ಋತುರಾಜ್ ಗಾಯಕ್ವಾಡ್‌ಗೆ ಸಾರ್ವಜನಿಕವಾಗಿ ಕ್ಷಮೆಯಾಚಿಸಿದರು. ಮಾಜಿ ಕ್ರಿಕೆಟಿಗ-ಭಾಷ್ಯಕಾರರು 'ಅತ್ಯಂತ ಜೋರಾದ' ಜನಸಂದಣಿಯಿಂದಾಗಿ ಸಂವಹನ ಕಷ್ಟವಾಯಿತು, ಇದರಿಂದಾಗಿ ನಾಣ್ಯ ಟಾಸ್ ಕಾರ್ಯವಿಧಾನವು ಸಾಮಾನ್ಯಕ್ಕಿಂತ ಹೆಚ್ಚು ಸಮಯ 'ಹಿಂದೆ ಸರಿಯಿತು' ಎಂದು ಹೇಳಿದ್ದಾರೆ. ಬಿಷಪ್ ಅವರು ಹೆಚ್ಚುವರಿ ವಿಳಂಬಕ್ಕಾಗಿ ವಿಷಾದ ವ್ಯಕ್ತಪಡಿಸಿದರು ಮತ್ತು ಗಾಯಕ್ವಾಡ್ ಅವರ ತಾಳ್ಮೆಗೆ ಧನ್ಯವಾದ ಅರ್ಪಿಸಿದರು."
+            },
+            "mr": {
+                "title": "चेपॉक टॉस विलंबाबद्दल बिषप यांची गायकवाड यांची माफी",
+                "content": "चेपॉकमध्ये झालेल्या अनपेक्षितपणे लांबलेल्या नाणेफेकीबद्दल इयान बिषप यांनी सीएसके कर्णधार ऋतुराज गायकवाड यांची जाहीर माफी मागितली. माजी क्रिकेटपटू-समालोचकांनी सांगितले की 'अत्यंत मोठ्या' गर्दीमुळे संवाद साधणे कठीण झाले, ज्यामुळे नाणेफेकीची प्रक्रिया नेहमीपेक्षा जास्त 'लांबली'. बिषप यांनी झालेल्या अतिरिक्त विलंबाबद्दल खेद व्यक्त केला आणि गायकवाड यांच्या संयमाबद्दल त्यांचे आभार मानले."
+            },
+            "hi": {
+                "title": "चेपॉक टॉस में देरी के लिए बिषप ने गायकवाड़ से मांगी माफी",
+                "content": "इयान बिषप ने चेपॉक में असामान्य रूप से लंबे टॉस के लिए सीएसके कप्तान ऋतुराज गायकवाड़ से सार्वजनिक रूप से माफी मांगी। पूर्व क्रिकेटर-कमेंटेटर ने कहा कि 'बेहद शोरगुल वाली' भीड़ के कारण संवाद करना मुश्किल हो गया था, जिससे सिक्का उछालने की प्रक्रिया सामान्य से अधिक 'खींच गई'। बिषप ने देरी पर खेद व्यक्त किया और गायकवाड़ के धैर्य के लिए उनका धन्यवाद किया।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOb3luSmFPbldYcWcweGN6WUVqRm9peXFCQWEtTGJVSVVLbWpqOVUxaUsyMlhyYXE0WXdTMDQ5c0NnTjNqWWJvRlBkTWlYU2l6NWVQQXpXYXVIT1RxRktOR1JrYlVTZkVrVnM0TWVkdC1qMGJZX1duV0pWTzNRTXh0Z2lFMlNuQTZNY1ZLcmVmemNLNU9jcnJETmJCdnFkMUVsYnlTMGZsd2oxT0FhMkQ3UzRPVGxfZjh0SjVQSVNlbjBEUWRGVy01RmlITllSS0xRMUF2ZVU4U1F0VGJ6bWVGWkpFd2ZNSDhGR1NESWczcDh6eHFrWUk0WUF2dzkwcGF5Mk81RFA5OERkZ9IBigJBVV95cUxOb3luSmFPbldYcWcweGN6WUVqRm9peXFCQWEtTGJVSVVLbWpqOVUxaUsyMlhyYXE0WXdTMDQ5c0NnTjNqWWJvRlBkTWlYU2l6NWVQQXpXYXVIT1RxRktOR1JrYlVTZkVrVnM0TWVkdC1qMGJZX1duV0pWTzNRTXh0Z2lFMlNuQTZNY1ZLcmVmemNLNU9jcnJETmJCdnFkMUVsYnlTMGZsd2oxT0FhMkQ3UzRPVGxfZjh0SjVQSVNlbjBEUWRGVy01RmlITllSS0xRMUF2ZVU4U1F0VGJ6bWVGWkpFd2ZNSDhGR1NESWczcDh6eHFrWUk0WUF2dzkwcGF5Mk81RFA5OERkZw?oc=5",
+        "date": "Fri, 03 Apr 2026 13:51:41 GMT"
+    },
+    {
         "id": "70f23113",
         "category": "IPL Scoop",
         "translations": {
@@ -1973,30 +1998,5 @@
         "image": "https://static.toiimg.com/photo/msid-117515978,imgsize-99969.cms",
         "link": "https://timesofindia.indiatimes.com/india/female-elephant-found-dead-in-katarniaghat/articleshow/129961794.cms",
         "date": "2026-04-02T08:47:00+05:30"
-    },
-    {
-        "id": "ab15681d",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "FCRA Bill Stalled Amid Opposition Protests",
-                "content": "The controversial FCRA bill faced a significant setback as it was not taken up for discussion in Parliament. Intense protests from the opposition stalled its consideration, highlighting deep political divisions. This delay impacts the government's legislative agenda and underscores the challenging environment for passing crucial reforms amid fierce political opposition."
-            },
-            "kn": {
-                "title": "ಎಫ್‌ಸಿಆರ್‌ಎ ಮಸೂದೆ ವಿರೋಧ ಪಕ್ಷದ ಪ್ರತಿಭಟನೆಗಳ ಮಧ್ಯೆ ಸ್ಥಗಿತ",
-                "content": "ವಿವಾದಿತ ಎಫ್‌ಸಿಆರ್‌ಎ ಮಸೂದೆಯನ್ನು ಸಂಸತ್ತಿನಲ್ಲಿ ಚರ್ಚೆಗೆ ತೆಗೆದುಕೊಳ್ಳದಿರುವುದರಿಂದ ಗಂಭೀರ ಹಿನ್ನಡೆ ಎದುರಿಸಿತು. ವಿರೋಧ ಪಕ್ಷದಿಂದ ತೀವ್ರ ಪ್ರತಿಭಟನೆಗಳು ಅದರ ಪರಿಗಣನೆಯನ್ನು ಸ್ಥಗಿತಗೊಳಿಸಿದವು, ಇದು ಆಳವಾದ ರಾಜಕೀಯ ವಿಭಜನೆಗಳನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ಈ ವಿಳಂಬವು ಸರ್ಕಾರದ ಶಾಸಕಾಂಗದ ಕಾರ್ಯಸೂಚಿಯ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರುತ್ತದೆ ಮತ್ತು ತೀವ್ರ ರಾಜಕೀಯ ವಿರೋಧದ ನಡುವೆ ನಿರ್ಣಾಯಕ ಸುಧಾರಣೆಗಳನ್ನು ಜಾರಿಗೊಳಿಸುವ ಸವಾಲಿನ ವಾತಾವರಣವನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "एफसीआरए विधेयक विरोधी पक्षांच्या आंदोलनामुळे थांबले",
-                "content": "वादग्रस्त एफसीआरए विधेयक संसदेत चर्चेसाठी न घेतल्याने त्याला मोठा धक्का बसला. विरोधी पक्षांच्या तीव्र आंदोलनामुळे त्याची चर्चा थांबली, ज्यामुळे खोल राजकीय मतभेद समोर आले. या विलंबाचा सरकारच्या कायदेशीर अजेंड्यावर परिणाम होतो आणि तीव्र राजकीय विरोध असताना महत्त्वाचे सुधारणा कायदे मंजूर करण्याच्या आव्हानात्मक वातावरणावर प्रकाश टाकतो."
-            },
-            "hi": {
-                "title": "एफसीआरए विधेयक विपक्षी विरोध के बीच अटका",
-                "content": "विवादास्पद एफसीआरए विधेयक को एक बड़ा झटका लगा क्योंकि इसे संसद में चर्चा के लिए नहीं लिया गया। विपक्ष के तीव्र विरोध ने इसके विचार को रोक दिया, जिससे गहरे राजनीतिक विभाजन उजागर हुए। यह देरी सरकार के विधायी एजेंडे को प्रभावित करती है और भयंकर राजनीतिक विरोध के बीच महत्वपूर्ण सुधारों को पारित करने के चुनौतीपूर्ण माहौल को रेखांकित करती है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129965707,imgsize-1222723.cms",
-        "link": "https://timesofindia.indiatimes.com/india/fcra-bill-not-taken-up-amid-oppn-protests/articleshow/129965662.cms",
-        "date": "2026-04-02T08:37:41+05:30"
     }
 ]
