@@ -1,5 +1,80 @@
 [
     {
+        "id": "ef6d6dcb",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "Riyadh Attack: US Embassy Damaged, Iran Blames Top Ally",
+                "content": "A Riyadh attack caused significant, undisclosed damage to the US embassy. Iran has blamed its top ally for orchestrating the strike, a move that could escalate regional tensions. The incident's full impact and the specific ally implicated remain under wraps, raising international concerns about the broader implications for stability in the Middle East."
+            },
+            "kn": {
+                "title": "ರಿಯಾದ್ ದಾಳಿ: ಅಮೆರಿಕ ರಾಯಭಾರ ಕಚೇರಿಗೆ ಹಾನಿ, ಇರಾನ್ ತನ್ನ ಪ್ರಮುಖ ಮಿತ್ರನನ್ನು ದೂಷಿಸಿದೆ",
+                "content": "ರಿಯಾದ್‌ನಲ್ಲಿ ನಡೆದ ದಾಳಿಯಿಂದ ಅಮೆರಿಕದ ರಾಯಭಾರ ಕಚೇರಿಗೆ ಗಮನಾರ್ಹ, ಆದರೆ ಬಹಿರಂಗಪಡಿಸದ ಹಾನಿಯಾಗಿದೆ. ಇರಾನ್ ಈ ದಾಳಿಗೆ ತನ್ನ ಪ್ರಮುಖ ಮಿತ್ರನನ್ನು ದೂಷಿಸಿದೆ, ಇದು ಪ್ರಾದೇಶಿಕ ಉದ್ವಿಗ್ನತೆಯನ್ನು ಹೆಚ್ಚಿಸಬಹುದು. ಘಟನೆಯ ಸಂಪೂರ್ಣ ಪರಿಣಾಮ ಮತ್ತು ನಿರ್ದಿಷ್ಟ ಮಿತ್ರನ ಗುರುತು ಇನ್ನೂ ಅಸ್ಪಷ್ಟವಾಗಿದ್ದು, ಮಧ್ಯಪ್ರಾಚ್ಯದಲ್ಲಿ ಸ್ಥಿರತೆಯ ಮೇಲೆ ವ್ಯಾಪಕ ಪರಿಣಾಮಗಳ ಬಗ್ಗೆ ಅಂತರರಾಷ್ಟ್ರೀಯ ಕಳವಳಗಳನ್ನು ಹೆಚ್ಚಿಸಿದೆ."
+            },
+            "mr": {
+                "title": "रियाध हल्ला: अमेरिकेच्या दूतावासाचे नुकसान, इराणने आपल्या प्रमुख साथीदाराला दोष दिला",
+                "content": "रियाधमधील हल्ल्यामुळे अमेरिकेच्या दूतावासाचे मोठे, परंतु उघड न केलेले नुकसान झाले आहे. इराणने या हल्ल्यासाठी आपल्या प्रमुख साथीदाराला जबाबदार धरले आहे, ज्यामुळे प्रादेशिक तणाव वाढू शकतो. या घटनेचा पूर्ण परिणाम आणि दोषी साथीदाराची ओळख अजूनही गुलदस्त्यात असून, मध्यपूर्वेतील स्थिरतेवर होणाऱ्या व्यापक परिणामांबद्दल आंतरराष्ट्रीय चिंता वाढली आहे."
+            },
+            "hi": {
+                "title": "रियाद हमला: अमेरिकी दूतावास क्षतिग्रस्त, ईरान ने शीर्ष सहयोगी पर आरोप लगाया",
+                "content": "रियाद में हुए हमले से अमेरिकी दूतावास को महत्वपूर्ण, लेकिन अज्ञात क्षति हुई है। ईरान ने इस हमले के लिए अपने शीर्ष सहयोगी को जिम्मेदार ठहराया है, जिससे क्षेत्रीय तनाव बढ़ सकता है। घटना का पूरा प्रभाव और आरोपित विशिष्ट सहयोगी अभी भी गुप्त हैं, जिससे मध्य पूर्व में स्थिरता के लिए व्यापक निहितार्थों पर अंतरराष्ट्रीय चिंताएं बढ़ गई हैं।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNEptbGVPZjNIN1hGbXpySkZ6SVhmX2FzNm1uaF94NGowaG1rNzFUSHZSWC05TV81NVRIZnNJbmUwbER4c29wU1FVUXJySXpnbVBSTHg2eEpkRVh5Z3dkSHVmcWhMeU5BT2xpNTgzRXNsQ3JBZDJmT2swcUFxRjFvdjNXSWdpd3Z0eTFxU3FXNlphMkN0bllrU1dYNGpwWXVhckVQeWVTNXBFb3JjQ3kyQUhuR09YSHhVQjA0eFlvZGRwRjA3OFV0ejhpQ1g3MnFCbEl5TlZRREVLbXoyMU5sQ0U4bHVMeGpFVWfSAe8BQVVfeXFMT01kS1V1TlpRbXlUUUVPU1FlU3ByaXJpYWhNa21rMEk5dkdhZWd2MEU5dkxkdUFNN2xYY2oyMmhGaWMwUUI4VW9EamRPQlB2MFN0Mm5ub0JVYW5GVWhGS3I3RzlqTmhKTUZmbEZ0YXprUXMwSjdWM0dJa2dVMXRkejVMa0txamlQR0x6WWtKRjVvVEJJLUh1Y2pLeUN1aGZNNGoyeUVtVzU1NmpsbzBFNnltcHpiN2NoNnExVEJzc1pXZmY2QmNEVmRwR19yWkhUSmZZRjdmaHF3NS11dHJCS1pLVXByazc1OGtLSkpWazA?oc=5",
+        "date": "Sat, 04 Apr 2026 12:56:28 GMT"
+    },
+    {
+        "id": "ae4e043b",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Election Season Fuels Religious Politics",
+                "content": "As election season grips India, political discourse is increasingly dominated by debates concerning religious sites like temples and mosques. This trend highlights parties strategically leveraging communal sentiments for electoral gain. Critics observe a recurring pattern: sensitive religious topics resurface to mobilize voters, often overshadowing developmental agendas. The politicization of faith emerges as a key campaign strategy."
+            },
+            "kn": {
+                "title": "ಚುನಾವಣಾ ಋತುವಿನಲ್ಲಿ ಧಾರ್ಮಿಕ ರಾಜಕೀಯ ತೀವ್ರ",
+                "content": "ಚುನಾವಣಾ ಋತುವಿನಲ್ಲಿ ಭಾರತದಲ್ಲಿ, ರಾಜಕೀಯ ಚರ್ಚೆಗಳು ದೇವಸ್ಥಾನಗಳು, ಮಸೀದಿಗಳಂತಹ ಧಾರ್ಮಿಕ ಸ್ಥಳಗಳ ಕುರಿತು ಹೆಚ್ಚು ಕೇಂದ್ರೀಕೃತವಾಗಿವೆ. ಪಕ್ಷಗಳು ಮತಗಳಿಕೆಗಾಗಿ ಕೋಮುವಾದಿ ಭಾವನೆಗಳನ್ನು ಕಾರ್ಯತಂತ್ರವಾಗಿ ಬಳಸಿಕೊಳ್ಳುತ್ತಿವೆ ಎಂಬುದನ್ನು ಈ ಪ್ರವೃತ್ತಿ ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ಸೂಕ್ಷ್ಮ ಧಾರ್ಮಿಕ ವಿಷಯಗಳು ಮತ್ತೆ ಮುನ್ನೆಲೆಗೆ ಬಂದು ಮತದಾರರನ್ನು ಸಜ್ಜುಗೊಳಿಸುವುದು, ಅಭಿವೃದ್ಧಿ ಕಾರ್ಯಸೂಚಿಗಳನ್ನು ಮರೆಮಾಚುವುದು ಒಂದು ಪುನರಾವರ್ತಿತ ಮಾದರಿ ಎಂದು ವಿಮರ್ಶಕರು ಹೇಳುತ್ತಾರೆ. ಧರ್ಮದ ರಾಜಕೀಯೀಕರಣ ಪ್ರಮುಖ ಪ್ರಚಾರ ತಂತ್ರವಾಗಿ ಹೊರಹೊಮ್ಮಿದೆ."
+            },
+            "mr": {
+                "title": "निवडणूक हंगामात धार्मिक राजकारणाला धार",
+                "content": "निवडणूक हंगामात भारतभरातील राजकीय चर्चेत मंदिरे आणि मशिदींसारख्या धार्मिक स्थळांबद्दलच्या वादांचे वर्चस्व वाढत आहे. पक्षांकडून निवडणुकीतील लाभासाठी जातीय भावनांचा रणनीतिक वापर केला जात असल्याचे यातून दिसते. टीकाकारांचे निरीक्षण आहे की, संवेदनशील धार्मिक विषय पुन्हा समोर येतात, मतदारांना संघटित करतात आणि विकासाच्या मुद्द्यांवरून लक्ष विचलित करतात. श्रद्धेचे राजकारण ही एक महत्त्वाची प्रचार रणनीती बनली आहे."
+            },
+            "hi": {
+                "title": "चुनाव में धार्मिक राजनीति हुई तेज",
+                "content": "चुनाव का मौसम आते ही भारत में राजनीतिक विमर्श मंदिर और मस्जिद जैसे धार्मिक स्थलों को लेकर गरमा गया है। यह रुझान दर्शाता है कि पार्टियाँ चुनावी लाभ के लिए सांप्रदायिक भावनाओं का रणनीतिक रूप से उपयोग कर रही हैं। आलोचक एक दोहराए जाने वाले पैटर्न को देखते हैं: संवेदनशील धार्मिक विषय मतदाताओं को लामबंद करने के लिए फिर से सामने आते हैं, अक्सर विकास के एजेंडा को पीछे छोड़ देते हैं। आस्था का राजनीतिकरण एक प्रमुख अभियान रणनीति बनकर उभरा है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130026881,imgsize-1439089.cms",
+        "link": "https://timesofindia.indiatimes.com/india/temple-today-mosque-tomorrow-its-election-season/articleshow/130026877.cms",
+        "date": "2026-04-05T03:25:50+05:30"
+    },
+    {
+        "id": "4ddf79f6",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "EC Official Caught with BJP Material, Sparks Row",
+                "content": "A viral video allegedly shows an Election Commission official in Kolkata preparing BJP campaign material, sparking a major political controversy. The TMC has demanded his immediate removal and legal action, citing a serious breach of neutrality and the Model Code of Conduct. This incident raises concerns about free and fair elections, prompting calls for strict accountability."
+            },
+            "kn": {
+                "title": "EC ಅಧಿಕಾರಿ ಬಿಜೆಪಿ ಸಾಮಗ್ರಿಗಳೊಂದಿಗೆ: ವಿವಾದ ಭುಗಿಲು",
+                "content": "ಕೋಲ್ಕತ್ತಾದಲ್ಲಿ ಚುನಾವಣಾ ಆಯೋಗದ ಅಧಿಕಾರಿಯೊಬ್ಬರು ಬಿಜೆಪಿ ಪ್ರಚಾರ ಸಾಮಗ್ರಿಗಳನ್ನು ಸಿದ್ಧಪಡಿಸುತ್ತಿರುವ ವೈರಲ್ ವಿಡಿಯೋ ಗಂಭೀರ ರಾಜಕೀಯ ವಿವಾದಕ್ಕೆ ಕಾರಣವಾಗಿದೆ. ಟಿಎಂಸಿ ತಟಸ್ಥತೆ ಮತ್ತು ನೀತಿ ಸಂಹಿತೆಯ ಉಲ್ಲಂಘನೆಯನ್ನು ಉಲ್ಲೇಖಿಸಿ, ಅವರ ತಕ್ಷಣದ ತೆಗೆದುಹಾಕುವಿಕೆ ಮತ್ತು ಕಾನೂನು ಕ್ರಮಕ್ಕೆ ಒತ್ತಾಯಿಸಿದೆ. ಈ ಘಟನೆ ಮುಕ್ತ ಮತ್ತು ನ್ಯಾಯಸಮ್ಮತ ಚುನಾವಣೆಯ ಬಗ್ಗೆ ಕಳವಳ ಮೂಡಿಸಿದ್ದು, ಕಟ್ಟುನಿಟ್ಟಾದ ಹೊಣೆಗಾರಿಕೆಗೆ ಕರೆ ನೀಡಿದೆ."
+            },
+            "mr": {
+                "title": "ईसी अधिकारी भाजप सामग्रीसह सापडले, वाद सुरू",
+                "content": "कोलकातामध्ये एका निवडणूक आयोगाच्या अधिकाऱ्याला भाजपच्या प्रचाराचे साहित्य तयार करताना दाखवणारा एक व्हायरल व्हिडिओ समोर आला आहे, ज्यामुळे मोठा राजकीय वाद निर्माण झाला आहे. टीएमसीने तटस्थता आणि आदर्श आचारसंहितेचे गंभीर उल्लंघन झाल्याचे सांगत, त्यांच्या तात्काळ हकालपट्टीची आणि कायदेशीर कारवाईची मागणी केली आहे. या घटनेमुळे मुक्त आणि निष्पक्ष निवडणुकांबद्दल चिंता वाढली आहे, ज्यामुळे कठोर जबाबदारीची मागणी होत आहे."
+            },
+            "hi": {
+                "title": "EC अधिकारी भाजपा सामग्री संग, विवाद गहराया",
+                "content": "कोलकाता में एक कथित वायरल वीडियो में चुनाव आयोग के एक अधिकारी को भाजपा अभियान सामग्री तैयार करते हुए दिखाया गया है, जिससे एक बड़ा राजनीतिक विवाद खड़ा हो गया है। टीएमसी ने तटस्थता और आदर्श आचार संहिता के गंभीर उल्लंघन का हवाला देते हुए, उनकी तत्काल बर्खास्तगी और कानूनी कार्रवाई की मांग की है। यह घटना स्वतंत्र और निष्पक्ष चुनावों को लेकर चिंताएं बढ़ाती है, जिससे कड़ी जवाबदेही की मांग की जा रही है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130026848,imgsize-846529.cms",
+        "link": "https://timesofindia.indiatimes.com/india/ec-official-caught-on-cam-with-bjp-material/articleshow/130026772.cms",
+        "date": "2026-04-05T03:01:39+05:30"
+    },
+    {
         "id": "00a40b3d",
         "category": "IPL Scoop",
         "translations": {
@@ -1923,80 +1998,5 @@
         "image": "https://static.toiimg.com/photo/msid-129995382,imgsize-93538.cms",
         "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-box-office-collection-day-16-live-ranveer-singh-rakesh-bedi-sanjay-dutt-arjun-rampal-film-eyes-rs-950-crore-india-net-on-third-friday-as-worldwide-gross-closes-in-on-rs-1500-crore/articleshow/129995382.cms",
         "date": "2026-04-03T11:56:30+05:30"
-    },
-    {
-        "id": "307d46d2",
-        "category": "Entertainment",
-        "translations": {
-            "en": {
-                "title": "Dhurandhar: The Revenge Nears Staggering Rs 1,500 Cr Mark Globally",
-                "content": "Ranveer Singh's spy thriller \"Dhurandhar: The Revenge\" is a global box office sensation, raking in an astounding Rs 1490 crore worldwide in just 15 days. As it enters its third week, the film is set to surpass the massive Rs 1500 crore milestone, solidifying its position as a cinematic powerhouse. Domestically, it's also performing strongly, approaching Rs 950 crore net collection."
-            },
-            "kn": {
-                "title": "ಧುರಂಧರ್: ದಿ ರಿವೆಂಜ್ ಜಾಗತಿಕವಾಗಿ 1,500 ಕೋಟಿ ರೂ. ಗಡಿ ಸಮೀಪ",
-                "content": "ರಣವೀರ್ ಸಿಂಗ್ ಅಭಿನಯದ ಗೂಢಚಾರಿ ಥ್ರಿಲ್ಲರ್ \"ಧುರಂಧರ್: ದಿ ರಿವೆಂಜ್\" ಕೇವಲ 15 ದಿನಗಳಲ್ಲಿ ಜಾಗತಿಕವಾಗಿ 1490 ಕೋಟಿ ರೂ. ಗಳಿಸಿ ಬಾಕ್ಸ್ ಆಫೀಸ್‌ನಲ್ಲಿ ಸಂಚಲನ ಮೂಡಿಸಿದೆ. ಮೂರನೇ ವಾರಕ್ಕೆ ಕಾಲಿಡುತ್ತಿದ್ದಂತೆ, ಚಿತ್ರವು ಬೃಹತ್ 1500 ಕೋಟಿ ರೂ. ಮೈಲಿಗಲ್ಲನ್ನು ದಾಟಲು ಸಜ್ಜಾಗಿದೆ, ಇದು ಸಿನೆಮಾ ಕ್ಷೇತ್ರದಲ್ಲಿ ಅದರ ಶಕ್ತಿಯನ್ನು ದೃಢಪಡಿಸುತ್ತದೆ. ದೇಶೀಯವಾಗಿ, ಇದು 950 ಕೋಟಿ ರೂ. ನಿವ್ವಳ ಸಂಗ್ರಹವನ್ನು ಸಮೀಪಿಸುತ್ತಿದೆ."
-            },
-            "mr": {
-                "title": "धुरंधर: द रिव्हेंज जागतिक स्तरावर 1,500 कोटींच्या टप्प्यावर",
-                "content": "रणवीर सिंगच्या स्पाय थ्रिलर \"धुरंधर: द रिव्हेंज\" ने केवळ 15 दिवसांत जगभरात 1490 कोटी रुपये कमावून बॉक्स ऑफिसवर धुमाकूळ घातला आहे. तिसऱ्या आठवड्यात प्रवेश करत असताना, हा चित्रपट भव्य 1500 कोटींचा टप्पा ओलांडण्यासाठी सज्ज आहे, ज्यामुळे चित्रपटाची ताकद सिद्ध होते. देशांतर्गतही, हा चित्रपट 950 कोटींच्या निव्वळ कलेक्शनच्या जवळ पोहोचत आहे."
-            },
-            "hi": {
-                "title": "धुरंधर: द रिवेंज वैश्विक स्तर पर 1,500 करोड़ के करीब",
-                "content": "रणवीर सिंह की स्पाई थ्रिलर \"धुरंधर: द रिवेंज\" ने सिर्फ 15 दिनों में दुनिया भर में 1490 करोड़ रुपये की कमाई कर बॉक्स ऑफिस पर धूम मचा दी है। तीसरे हफ्ते में प्रवेश करते ही, यह फिल्म 1500 करोड़ रुपये के विशाल मील के पत्थर को पार करने के लिए तैयार है, जो सिनेमाई जगत में इसकी ताकत को मजबूत करता है। घरेलू स्तर पर भी, यह 950 करोड़ रुपये के शुद्ध कलेक्शन के करीब पहुंच रही है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129991880,imgsize-38034.cms",
-        "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-box-office-collection-day-15-ranveer-singh-rakesh-bedi-sanjay-dutt-and-arjun-rampals-film-inches-close-to-rs-1500-cr-mark-worldwide/articleshow/129991874.cms",
-        "date": "2026-04-03T05:52:13+05:30"
-    },
-    {
-        "id": "ff2e2f82",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Dhoni's Humble Act Elevates \"Kodi Anna\" to Viral Stardom",
-                "content": "Cricket legend MS Dhoni's recent humble gesture has taken social media by storm, making \"Kodi Anna\" an overnight sensation. Dhoni was seen interacting respectfully with the ground staff member, Kodi Anna, during a practice session. This simple act of kindness and recognition from the former Indian captain has resonated deeply with fans, highlighting his grounded nature and earning widespread praise online."
-            },
-            "kn": {
-                "title": "ಧೋನಿ ಅವರ ವಿನಮ್ರ ನಡೆ \"ಕೋಡಿ ಅಣ್ಣ\" ಅವರನ್ನು ವೈರಲ್ ಸ್ಟಾರ್ ಮಾಡಿದೆ",
-                "content": "ಕ್ರಿಕೆಟ್ ದಂತಕಥೆ ಎಂ.ಎಸ್. ಧೋನಿ ಅವರ ಇತ್ತೀಚಿನ ವಿನಮ್ರ ಸನ್ನೆ ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮದಲ್ಲಿ ಬಿರುಗಾಳಿ ಎಬ್ಬಿಸಿದ್ದು, \"ಕೋಡಿ ಅಣ್ಣ\" ಅವರನ್ನು ರಾತ್ರೋರಾತ್ರಿ ಸಂವೇದನೆಯನ್ನಾಗಿ ಮಾಡಿದೆ. ಅಭ್ಯಾಸ ಅವಧಿಯಲ್ಲಿ ಧೋನಿ ಮೈದಾನ ಸಿಬ್ಬಂದಿ \"ಕೋಡಿ ಅಣ್ಣ\" ಅವರೊಂದಿಗೆ ಗೌರವಯುತವಾಗಿ ಸಂವಹನ ನಡೆಸುತ್ತಿರುವುದು ಕಂಡುಬಂದಿದೆ. ಮಾಜಿ ಭಾರತೀಯ ನಾಯಕನ ಈ ಸರಳ ಸೌಜನ್ಯ ಮತ್ತು ಗುರುತಿಸುವಿಕೆಯು ಅಭಿಮಾನಿಗಳೊಂದಿಗೆ ಆಳವಾಗಿ ಅನುರಣಿಸಿದೆ, ಅವರ ನಮ್ರತೆಯನ್ನು ಎತ್ತಿ ಹಿಡಿದಿದೆ ಮತ್ತು ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ವ್ಯಾಪಕ ಮೆಚ್ಚುಗೆಯನ್ನು ಗಳಿಸಿದೆ."
-            },
-            "mr": {
-                "title": "धोनीच्या विनम्र कृतीने \"कोडी अण्णा\" यांना व्हायरल स्टार बनवले",
-                "content": "क्रिकेटपटू एम.एस. धोनी यांच्या अलीकडील विनम्र कृतीने सोशल मीडियावर धुमाकूळ घातला आहे, ज्यामुळे \"कोडी अण्णा\" रातोरात प्रसिद्ध झाले आहेत. सराव सत्रादरम्यान धोनी मैदानातील कर्मचारी \"कोडी अण्णा\" यांच्याशी आदराने संवाद साधताना दिसले. भारताच्या माजी कर्णधाराच्या या साध्या दयाळूपणाने आणि कौतुकाने चाहत्यांच्या मनात घर केले आहे, ज्यामुळे त्यांचे नम्र व्यक्तिमत्व अधोरेखित झाले आहे आणि त्यांना ऑनलाइनवर मोठ्या प्रमाणावर प्रशंसा मिळाली आहे."
-            },
-            "hi": {
-                "title": "धोनी के विनम्र कार्य ने \"कोडी अन्ना\" को बनाया वायरल स्टार",
-                "content": "क्रिकेट के दिग्गज एम.एस. धोनी के हालिया विनम्र हावभाव ने सोशल मीडिया पर तहलका मचा दिया है, जिससे \"कोडी अन्ना\" रातों-रात सनसनी बन गए हैं। धोनी को एक अभ्यास सत्र के दौरान ग्राउंड स्टाफ सदस्य, कोडी अन्ना, के साथ सम्मानपूर्वक बातचीत करते देखा गया। पूर्व भारतीय कप्तान के इस सरल दयालुता और पहचान के कार्य ने प्रशंसकों के साथ गहराई से प्रतिध्वनित किया है, उनकी विनम्र प्रकृति को उजागर किया है और ऑनलाइन व्यापक प्रशंसा अर्जित की है।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOanlCN0x0a04wSXF0TzhfUzdhbEdUdGNTUnM4VkU0RTRRaWwtMXdDdXNvOTdVdjVBdmp4MkxkWU9uS0dfckVkemEzRTc0djF5U1VHWFdzQUROSHZVRkNfVFdEWEJScGhpeUdaTWRFLXRnaGdtVDRXZmdVVEdoeVNSV2VwcGtxLW9nZVhuVWFmcEVGZkwwUVNLSl9Iek54Y0RMQlJhc2JPZ0c1QTBKZVlmUDNqd2NqWFhsM21kVlp1X2w1RlBYRWVTVjRR?oc=5",
-        "date": "Thu, 02 Apr 2026 21:58:28 GMT"
-    },
-    {
-        "id": "24ea1316",
-        "category": "Entertainment",
-        "translations": {
-            "en": {
-                "title": "Pay Raises Drove 'Summer I Turned Pretty' Cast to Film Deal",
-                "content": "Stars of 'The Summer I Turned Pretty' reportedly signed a film adaptation *only* to secure pay raises for their show's third and final season. Sources reveal cast members felt compelled to accept the film contract, despite reservations, ensuring increased episode fees. This strategic move, which involved the upcoming April 27 movie, highlights the behind-the-scenes pressures actors face for fair compensation."
-            },
-            "kn": {
-                "title": "'ದಿ ಸಮ್ಮರ್ ಐ ಟರ್ನ್ಡ್ ಪ್ರೆಟಿ': ವೇತನ ಹೆಚ್ಚಳಕ್ಕಾಗಿ ನಟರ ಚಿತ್ರ ಒಪ್ಪಂದ!",
-                "content": "'ದಿ ಸಮ್ಮರ್ ಐ ಟರ್ನ್ಡ್ ಪ್ರೆಟಿ' ತಾರೆಯರು ತಮ್ಮ ಪ್ರದರ್ಶನದ ಮೂರನೇ ಮತ್ತು ಅಂತಿಮ ಸೀಸನ್‌ಗೆ ವೇತನ ಹೆಚ್ಚಳವನ್ನು ಪಡೆಯಲು ಚಲನಚಿತ್ರ ರೂಪಾಂತರಕ್ಕೆ ಸಹಿ ಹಾಕಿದ್ದಾರೆ. ಮೂಲಗಳ ಪ್ರಕಾರ, ಕಲಾವಿದರು ಹಿಂಜರಿಕೆಯಿದ್ದರೂ, ಸಂಚಿಕೆ ಶುಲ್ಕ ಹೆಚ್ಚಳ ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು ಚಲನಚಿತ್ರ ಒಪ್ಪಂದವನ್ನು ಸ್ವೀಕರಿಸಲು ಒತ್ತಾಯಿಸಲ್ಪಟ್ಟಿದ್ದಾರೆ. ಏಪ್ರಿಲ್ 27 ರಂದು ಬಿಡುಗಡೆಯಾಗಲಿರುವ ಈ ಚಲನಚಿತ್ರವು ನ್ಯಾಯಯುತ ಸಂಭಾವನೆಗಾಗಿ ನಟರು ಎದುರಿಸುವ ತೆರೆಮರೆಯ ಒತ್ತಡಗಳನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "'द समर आय टर्न्ड प्रिटी'च्या कलाकारांनी पगारवाढीसाठी केला चित्रपटाचा करार!",
-                "content": "'द समर आय टर्न्ड प्रिटी'च्या कलाकारांनी त्यांच्या मालिकेच्या तिसऱ्या आणि अंतिम सीझनसाठी पगारवाढ मिळवण्यासाठी केवळ एका चित्रपटाच्या रुपांतरावर सही केली. सूत्रांनुसार, भागाचे शुल्क वाढवण्यासाठी कलाकारांना काही आरक्षणे असूनही चित्रपटाचा करार स्वीकारण्यास भाग पाडले गेले. २७ एप्रिल रोजी येणाऱ्या या चित्रपटाशी संबंधित हा रणनीतिक निर्णय, कलाकारांना योग्य मोबदल्यासाठी कोणत्या पडद्यामागील दबावांना सामोरे जावे लागते हे दर्शवतो."
-            },
-            "hi": {
-                "title": "'द समर आई टर्न्ड प्रिटी' के कलाकारों ने वेतन वृद्धि के लिए किया फिल्म का सौदा!",
-                "content": "'द समर आई टर्न्ड प्रिटी' के कलाकारों ने कथित तौर पर अपने शो के तीसरे और अंतिम सीज़न के लिए वेतन वृद्धि सुनिश्चित करने हेतु एक फिल्म रूपांतरण पर हस्ताक्षर किए. सूत्रों से पता चला है कि कलाकारों को आपत्तियों के बावजूद फिल्म अनुबंध स्वीकार करने के लिए मजबूर किया गया, ताकि एपिसोड शुल्क बढ़ाया जा सके. 27 अप्रैल को आने वाली यह फिल्म, अभिनेताओं को उचित मुआवजे के लिए जिन पर्दे के पीछे के दबावों का सामना करना पड़ता है, उसे उजागर करती है."
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129993795,imgsize-245160.cms",
-        "link": "https://timesofindia.indiatimes.com/web-series/news/english/the-summer-i-turned-pretty-cast-allegedly-felt-under-duress-signing-for-film-for-season-3-pay-bump-report/articleshow/129993795.cms",
-        "date": "2026-04-03T09:57:37+05:30"
     }
 ]
