@@ -1,5 +1,55 @@
 [
     {
+        "id": "a9a1ff26",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "Abhishek Sharma Fined After Record Sixes in SRH Win",
+                "content": "SRH's Abhishek Sharma was fined following his team's recent victory, despite his record-breaking performance. Sharma smashed an unprecedented number of sixes, playing a crucial role in SRH's win. However, he incurred a penalty for an undisclosed reason. This disciplinary action somewhat overshadowed his stellar batting display, leaving fans curious about the circumstances of the fine."
+            },
+            "kn": {
+                "title": "ಎಸ್‌ಆರ್‌ಹೆಚ್ ಗೆಲುವಿನಲ್ಲಿ ದಾಖಲೆಯ ಸಿಕ್ಸರ್‌ಗಳ ನಂತರ ಅಭಿಷೇಕ್ ಶರ್ಮಾ ಅವರಿಗೆ ದಂಡ",
+                "content": "ಎಸ್‌ಆರ್‌ಹೆಚ್‌ನ ಅಭಿಷೇಕ್ ಶರ್ಮಾ, ತಂಡದ ಇತ್ತೀಚಿನ ಗೆಲುವಿನ ನಂತರ ದಂಡಕ್ಕೆ ಗುರಿಯಾಗಿದ್ದಾರೆ, ಅವರ ದಾಖಲೆ ನಿರ್ಮಿಸುವ ಪ್ರದರ್ಶನದ ಹೊರತಾಗಿಯೂ. ಶರ್ಮಾ ಅಭೂತಪೂರ್ವ ಸಿಕ್ಸರ್‌ಗಳನ್ನು ಬಾರಿಸುವ ಮೂಲಕ ಎಸ್‌ಆರ್‌ಹೆಚ್ ಗೆಲುವಿನಲ್ಲಿ ಪ್ರಮುಖ ಪಾತ್ರ ವಹಿಸಿದರು. ಆದಾಗ್ಯೂ, ಅವರು ಬಹಿರಂಗಪಡಿಸದ ಕಾರಣಕ್ಕಾಗಿ ದಂಡವನ್ನು ಎದುರಿಸಿದರು. ಈ ಶಿಸ್ತು ಕ್ರಮವು ಅವರ ಅದ್ಭುತ ಬ್ಯಾಟಿಂಗ್ ಪ್ರದರ್ಶನವನ್ನು ಸ್ವಲ್ಪಮಟ್ಟಿಗೆ ಮರೆಮಾಡಿದೆ, ದಂಡದ ಸಂದರ್ಭಗಳ ಬಗ್ಗೆ ಅಭಿಮಾನಿಗಳಲ್ಲಿ ಕುತೂಹಲ ಮೂಡಿಸಿದೆ."
+            },
+            "mr": {
+                "title": "SRH च्या विजयात विक्रमी षटकार मारल्यानंतर अभिषेक शर्माला दंड",
+                "content": "SRH च्या अभिषेक शर्माला संघाच्या अलीकडील विजयानंतर, त्याच्या विक्रमी कामगिरी असूनही दंड ठोठावण्यात आला. शर्माने अभूतपूर्व षटकार मारले, ज्यामुळे SRH च्या विजयात त्याने महत्त्वाची भूमिका बजावली. तथापि, त्याला अज्ञात कारणास्तव दंड भरावा लागला. या शिस्तभंगाच्या कारवाईने त्याच्या उत्कृष्ट फलंदाजीच्या प्रदर्शनाला काही प्रमाणात झाकोळून टाकले, ज्यामुळे चाहत्यांमध्ये दंडाच्या परिस्थितीबद्दल उत्सुकता निर्माण झाली आहे."
+            },
+            "hi": {
+                "title": "SRH की जीत में रिकॉर्ड छक्कों के बाद अभिषेक शर्मा पर जुर्माना",
+                "content": "SRH के अभिषेक शर्मा पर अपनी टीम की हालिया जीत के बाद जुर्माना लगाया गया, उनके रिकॉर्ड तोड़ प्रदर्शन के बावजूद। शर्मा ने अभूतपूर्व संख्या में छक्के जड़े, जिससे SRH की जीत में महत्वपूर्ण भूमिका निभाई। हालांकि, उन्हें एक अज्ञात कारण से जुर्माना भरना पड़ा। इस अनुशासनात्मक कार्रवाई ने उनके शानदार बल्लेबाजी प्रदर्शन को कुछ हद तक धूमिल कर दिया, जिससे प्रशंसक जुर्माने की परिस्थितियों के बारे में उत्सुक हैं।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNa0dRMXZpb3JGY1dqZE9zSFVqM28tanpocm53bVZtaGszTXB4UFRKRGZBdEVhdHhGVFdEVXVQT0dEaWJZYU5kRVRmMEFwSnFPM2ozbmxEbEJSbExmREZlN1UtR2ZOVC1iWng4UGVKVjM5SWMtajhqMHBHRGE4ckphWFJreFZxT2JxRjJ2cmJNaDVNY1VkdXVXWHVYbDlQZnhXeEx3V1kxeFlYdU9iX0p3Vk9XN3dndnl1SERvRzJNa0k0bjVDblQ2R3M2Q0VJU2I1U1ZwanJPYmw0bTAyNTZSYWpCTS1XQzFIV0E?oc=5",
+        "date": "Fri, 03 Apr 2026 20:34:08 GMT"
+    },
+    {
+        "id": "0ad91e44",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Kick Streamer Collapses After Chokehold Live, Sparks Safety Debate",
+                "content": "Kick streamer Clavicular (Braden Eric Peters) collapsed during a live stream after a chokehold, sparking widespread safety concerns. The viral video highlights questions about the limits of live online content. This incident follows his recent arrests in Arizona and Florida and other controversies, including a viral video involving gunfire at an alligator, intensifying scrutiny on the streamer's public activities."
+            },
+            "kn": {
+                "title": "ಕಿಕ್ ಸ್ಟ್ರೀಮರ್ ಲೈವ್‌ನಲ್ಲಿ ಚೋಕ್‌ಹೋಲ್ಡ್‌ನಿಂದ ಕುಸಿದು, ಸುರಕ್ಷತಾ ಚರ್ಚೆ ಹುಟ್ಟುಹಾಕಿತು",
+                "content": "ಕಿಕ್ ಸ್ಟ್ರೀಮರ್ ಕ್ಲಾವಿಕ್ಯುಲರ್ (ಬ್ರಾಡನ್ ಎರಿಕ್ ಪೀಟರ್ಸ್) ಲೈವ್ ಸ್ಟ್ರೀಮ್ ವೇಳೆ ಚೋಕ್‌ಹೋಲ್ಡ್‌ನಿಂದ ಕುಸಿದು ಬಿದ್ದಿದ್ದು, ವ್ಯಾಪಕ ಸುರಕ್ಷತಾ ಕಳವಳಗಳನ್ನು ಹುಟ್ಟುಹಾಕಿದೆ. ವೈರಲ್ ವಿಡಿಯೋ ಲೈವ್ ಆನ್‌ಲೈನ್ ವಿಷಯದ ಮಿತಿಗಳ ಬಗ್ಗೆ ಪ್ರಶ್ನೆಗಳನ್ನು ಎತ್ತಿದೆ. ಈ ಘಟನೆ ಅವರ ಇತ್ತೀಚಿನ ಅರಿಜೋನಾ ಮತ್ತು ಫ್ಲೋರಿಡಾ ಬಂಧನಗಳು ಮತ್ತು ಆಲಿಗೇಟರ್‌ಗೆ ಗುಂಡು ಹಾರಿಸುವುದನ್ನು ಒಳಗೊಂಡ ವೈರಲ್ ವೀಡಿಯೊ ಸೇರಿದಂತೆ ಇತರ ವಿವಾದಗಳನ್ನು ಅನುಸರಿಸುತ್ತದೆ, ಸ್ಟ್ರೀಮರ್‌ನ ಸಾರ್ವಜನಿಕ ಚಟುವಟಿಕೆಗಳ ಮೇಲಿನ ಪರಿಶೀಲನೆಯನ್ನು ತೀವ್ರಗೊಳಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "किक स्ट्रीमर लाईव्हमध्ये चोकहोल्डनंतर कोसळला, सुरक्षिततेवर चर्चा",
+                "content": "किक स्ट्रीमर क्लॅविक्युलर (ब्रॅडन एरिक पीटर्स) लाईव्ह स्ट्रीमदरम्यान चोकहोल्डनंतर कोसळला, ज्यामुळे सुरक्षिततेबद्दल चिंता वाढली. व्हायरल व्हिडिओने लाईव्ह ऑनलाइन सामग्रीच्या मर्यादांबद्दल प्रश्न निर्माण केले आहेत. ही घटना ॲरिझोना आणि फ्लोरिडामधील त्याच्या अलीकडील अटकेनंतर आणि मगरीला गोळीबार करण्याच्या व्हायरल व्हिडिओसह इतर विवादांनंतर घडली आहे, ज्यामुळे स्ट्रीमरच्या सार्वजनिक कार्यांवर अधिक तपासणी होत आहे."
+            },
+            "hi": {
+                "title": "किक स्ट्रीमर लाइव में चोकहोल्ड के बाद गिरा, सुरक्षा पर बहस छिड़ी",
+                "content": "किक स्ट्रीमर क्लैविकलर (ब्रैडन एरिक पीटर्स) एक लाइव स्ट्रीम के दौरान चोकहोल्ड के बाद गिर गया, जिससे व्यापक सुरक्षा चिंताएं पैदा हो गईं। वायरल वीडियो लाइव ऑनलाइन सामग्री की सीमाओं के बारे में सवाल उठाता है। यह घटना एरिज़ोना और फ्लोरिडा में उसकी हालिया गिरफ्तारी और मगरमच्छ पर गोलीबारी से जुड़े वायरल वीडियो सहित अन्य विवादों के बाद हुई है, जिससे स्ट्रीमर की सार्वजनिक गतिविधियों पर गहन जांच बढ़ गई है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130005288,imgsize-20296.cms",
+        "link": "https://timesofindia.indiatimes.com/world/us-streamers/kick-streamer-clavicular-collapses-mid-stream-after-chokehold-as-viral-video-raises-questions-about-live-content-limits/articleshow/130005337.cms",
+        "date": "2026-04-03T22:05:23+05:30"
+    },
+    {
         "id": "e416fdd8",
         "category": "IPL Scoop",
         "translations": {
@@ -1948,55 +1998,5 @@
         "image": "https://static.toiimg.com/photo/msid-129970092,imgsize-168790.cms",
         "link": "https://timesofindia.indiatimes.com/india/use-of-recycled-plastic-in-packaging-made-mandatory-new-rules-to-boost-circularity/articleshow/129969620.cms",
         "date": "2026-04-02T12:38:30+05:30"
-    },
-    {
-        "id": "467fe2b2",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Navy Chief: We Were Minutes From Striking Pakistan by Sea",
-                "content": "Navy Chief Admiral Dinesh K Tripathi revealed the Indian Navy was on the brink of striking Pakistan by sea during 'Operation Sindoor.' Launched after the Pahalgam terror attack to target terrorist bases, the operation was halted only after Pakistan requested a cessation of military actions. This demonstrated the Navy's swift deployment, aggressive posture, and precision in hitting nine terror camps."
-            },
-            "kn": {
-                "title": "ನೌಕಾ ಮುಖ್ಯಸ್ಥ: ನಾವು ಪಾಕಿಸ್ತಾನದ ಮೇಲೆ ಸಮುದ್ರದಿಂದ ದಾಳಿ ಮಾಡಲು ಸಿದ್ಧರಾಗಿದ್ದೆವು",
-                "content": "ನೌಕಾ ಮುಖ್ಯಸ್ಥ ಅಡ್ಮಿರಲ್ ದಿನೇಶ್ ಕೆ ತ್ರಿಪಾಠಿ ಅವರು 'ಆಪರೇಷನ್ ಸಿಂಧೂರ್' ಸಮಯದಲ್ಲಿ ಭಾರತೀಯ ನೌಕಾಪಡೆಯು ಸಮುದ್ರದಿಂದ ಪಾಕಿಸ್ತಾನದ ಮೇಲೆ ದಾಳಿ ಮಾಡಲು ಸಿದ್ಧವಾಗಿತ್ತು ಎಂದು ಬಹಿರಂಗಪಡಿಸಿದರು. ಪಹಲ್ಗಾಮ್ ಭಯೋತ್ಪಾದಕ ದಾಳಿಯ ನಂತರ ಭಯೋತ್ಪಾದಕ ನೆಲೆಗಳನ್ನು ಗುರಿಯಾಗಿಸಲು ಪ್ರಾರಂಭಿಸಲಾದ ಈ ಕಾರ್ಯಾಚರಣೆಯನ್ನು, ಪಾಕಿಸ್ತಾನವು ಮಿಲಿಟರಿ ಕ್ರಮಗಳನ್ನು ನಿಲ್ಲಿಸಲು ವಿನಂತಿಸಿದ ನಂತರವೇ ನಿಲ್ಲಿಸಲಾಯಿತು. ಇದು ನೌಕಾಪಡೆಯ ಕ್ಷಿಪ್ರ ನಿಯೋಜನೆ, ಆಕ್ರಮಣಕಾರಿ ಭಂಗಿ ಮತ್ತು ಒಂಬತ್ತು ಭಯೋತ್ಪಾದಕ ಶಿಬಿರಗಳನ್ನು ನಿಖರವಾಗಿ ಹೊಡೆಯುವ ಸಾಮರ್ಥ್ಯವನ್ನು ಪ್ರದರ್ಶಿಸಿತು."
-            },
-            "mr": {
-                "title": "नौदल प्रमुख: आम्ही समुद्रातून पाकिस्तानवर हल्ला करण्यापासून मिनिटभर दूर होतो",
-                "content": "नौदल प्रमुख ॲडमिरल दिनेश के त्रिपाठी यांनी खुलासा केला की 'ऑपरेशन सिंदूर' दरम्यान भारतीय नौदल समुद्रातून पाकिस्तानवर हल्ला करण्याच्या तयारीत होते. पहलगाम दहशतवादी हल्ल्यानंतर दहशतवादी तळांना लक्ष्य करण्यासाठी सुरू केलेले हे ऑपरेशन, पाकिस्तानने लष्करी कारवाई थांबवण्याची विनंती केल्यानंतरच थांबवले गेले. यातून नौदलाची जलद तैनाती, आक्रमक पवित्रा आणि नऊ दहशतवादी शिबिरांवर अचूक हल्ला करण्याची क्षमता दिसून आली."
-            },
-            "hi": {
-                "title": "नौसेना प्रमुख: हम समुद्र से पाकिस्तान पर हमला करने से मिनटों दूर थे",
-                "content": "नौसेना प्रमुख एडमिरल दिनेश के त्रिपाठी ने खुलासा किया कि 'ऑपरेशन सिंदूर' के दौरान भारतीय नौसेना समुद्र से पाकिस्तान पर हमला करने के करीब थी। पहलगाम आतंकी हमले के बाद आतंकवादी ठिकानों को निशाना बनाने के लिए शुरू किया गया यह अभियान, पाकिस्तान द्वारा सैन्य कार्रवाई रोकने का अनुरोध करने के बाद ही रोका गया। इसने नौसेना की त्वरित तैनाती, आक्रामक मुद्रा और नौ आतंकी शिविरों पर सटीक हमला करने की क्षमता का प्रदर्शन किया।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129967919,imgsize-33158.cms",
-        "link": "https://timesofindia.indiatimes.com/india/minutes-away-from-striking-pakistan-from-sea-navy-chief-dinesh-k-tripathi-reveals-key-operation-sindoor-moment/articleshow/129967317.cms",
-        "date": "2026-04-02T12:02:11+05:30"
-    },
-    {
-        "id": "ccb64be9",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "SC Condemns Bengal's 'Law & Order Breakdown' After Judicial Hostage Crisis",
-                "content": "The Supreme Court has vehemently condemned the hostage-taking of judicial officers in Malda, West Bengal, deeming it a 'complete breakdown of law and order.' The Court issued showcause notices to top state officials, citing 'abdication of duty,' and ordered deployment of central forces. It also allowed probes into the incident, urging leaders to refrain from politicizing the matter."
-            },
-            "kn": {
-                "title": "ನ್ಯಾಯಾಂಗ ಬಂಧಕ ಬಿಕ್ಕಟ್ಟಿನ ನಂತರ ಬಂಗಾಳದ 'ಕಾನೂನು ಸುವ್ಯವಸ್ಥೆ ಕುಸಿತ'ವನ್ನು ಎಸ್‌ಸಿ ಖಂಡಿಸಿದೆ",
-                "content": "ಮಾಲ್ಡಾದಲ್ಲಿ ನ್ಯಾಯಾಂಗ ಅಧಿಕಾರಿಗಳನ್ನು ಒತ್ತೆ ಇರಿಸಿಕೊಂಡಿದ್ದನ್ನು ಸುಪ್ರೀಂ ಕೋರ್ಟ್ ತೀವ್ರವಾಗಿ ಖಂಡಿಸಿದ್ದು, ಇದು 'ಕಾನೂನು ಮತ್ತು ಸುವ್ಯವಸ್ಥೆಯ ಸಂಪೂರ್ಣ ಕುಸಿತ' ಎಂದು ಬಣ್ಣಿಸಿದೆ. ನ್ಯಾಯಾಲಯವು ಉನ್ನತ ರಾಜ್ಯ ಅಧಿಕಾರಿಗಳಿಗೆ 'ಕರ್ತವ್ಯ ಲೋಪ'ದ ಆರೋಪದ ಮೇಲೆ ಶೋಕಾಸ್ ನೋಟಿಸ್ ಜಾರಿಗೊಳಿಸಿದ್ದು, ಕೇಂದ್ರ ಪಡೆಗಳನ್ನು ನಿಯೋಜಿಸಲು ಆದೇಶಿಸಿದೆ. ಪ್ರಕರಣದ ತನಿಖೆಗೂ ಅನುಮತಿ ನೀಡಿದ್ದು, ನಾಯಕರು ವಿಷಯವನ್ನು ರಾಜಕೀಯಗೊಳಿಸದಂತೆ ಮನವಿ ಮಾಡಿದೆ."
-            },
-            "mr": {
-                "title": "न्यायाधीश ओलिस घटनेनंतर बंगालमधील 'कायदा आणि सुव्यवस्थेच्या बिघाडाचा' SC कडून निषेध",
-                "content": "पश्चिम बंगालमधील मालदा येथे न्यायिक अधिकाऱ्यांना ओलीस ठेवल्याचा सुप्रीम कोर्टाने तीव्र निषेध केला आहे, याला 'कायदा आणि सुव्यवस्थेचे पूर्णपणे बिघडणे' असे म्हटले आहे. कोर्टाने 'कर्तव्यच्युती' दर्शवत राज्य सरकारच्या वरिष्ठ अधिकाऱ्यांना कारणे दाखवा नोटीस बजावली आणि केंद्रीय दलांच्या तैनातीचे आदेश दिले. कोर्टाने या घटनेच्या चौकशीलाही परवानगी दिली असून, नेत्यांना या प्रकरणाचे राजकारण टाळण्याचे आवाहन केले आहे."
-            },
-            "hi": {
-                "title": "न्यायिक बंधक संकट के बाद बंगाल में 'कानून व्यवस्था बिगड़ने' की SC ने की निंदा",
-                "content": "सुप्रीम कोर्ट ने पश्चिम बंगाल के मालदा में न्यायिक अधिकारियों को बंधक बनाए जाने की कड़ी निंदा की है, इसे 'कानून व्यवस्था का पूर्ण उल्लंघन' करार दिया है। कोर्ट ने शीर्ष राज्य अधिकारियों को 'कर्तव्य से विमुखता' का हवाला देते हुए कारण बताओ नोटिस जारी किए और केंद्रीय बलों की तैनाती का आदेश दिया। इसने घटना की जांच की भी अनुमति दी है, नेताओं से इस मामले का राजनीतिकरण न करने का आग्रह किया है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129968972,imgsize-1604572.cms",
-        "link": "https://timesofindia.indiatimes.com/india/complete-breakdown-of-law-order-in-bengal-sc-after-judicial-officers-were-held-hostage-for-hours-over-sir-deletion/articleshow/129968990.cms",
-        "date": "2026-04-02T11:41:59+05:30"
     }
 ]
