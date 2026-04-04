@@ -1,5 +1,30 @@
 [
     {
+        "id": "1f9c5300",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "RCB's Duffy Shines, Justifies Patidar's Faith in IPL 2026",
+                "content": "In a thrilling IPL 2026 fixture, Royal Challengers Bangalore's Jacob Duffy showcased a stellar performance, validating captain Rajat Patidar's faith. Duffy's crucial contribution turned the tide for RCB, proving Patidar's decision to back him was a masterstroke. His impactful play was pivotal in the team's success, signaling a strong start to the season."
+            },
+            "kn": {
+                "title": "ಆರ್‌ಸಿಬಿ ಡಫಿ ಮಿಂಚು, ಐಪಿಎಲ್ 2026 ರಲ್ಲಿ ಪಾಟಿದಾರ್ ನಂಬಿಕೆ ಸಮರ್ಥನೆ",
+                "content": "ಐಪಿಎಲ್ 2026 ರ ರೋಮಾಂಚಕ ಪಂದ್ಯದಲ್ಲಿ, ಆರ್‌ಸಿಬಿ ಜಾಕೋಬ್ ಡಫಿ ಅದ್ಭುತ ಪ್ರದರ್ಶನ ನೀಡಿ ನಾಯಕ ರಜತ್ ಪಾಟಿದಾರ್ ಅವರ ನಂಬಿಕೆಯನ್ನು ನಿಜವಾಗಿಸಿದರು. ಡಫಿ ಅವರ ನಿರ್ಣಾಯಕ ಕೊಡುಗೆ ಆರ್‌ಸಿಬಿಗೆ ತಿರುವು ನೀಡಿತು, ಪಾಟಿದಾರ್ ಅವರ ಬೆಂಬಲದ ನಿರ್ಧಾರವು ಮಾಸ್ಟರ್‌ಸ್ಟ್ರೋಕ್ ಎಂದು ಸಾಬೀತಾಯಿತು. ಅವರ ಪ್ರಭಾವಶಾಲಿ ಆಟ ತಂಡದ ಯಶಸ್ಸಿನಲ್ಲಿ ಪ್ರಮುಖವಾಗಿತ್ತು, ಇದು ಸೀಸನ್‌ಗೆ ಬಲವಾದ ಆರಂಭವನ್ನು ಸೂಚಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "आयपीएल 2026 मध्ये आरसीबीचा डफी चमकला, पाटिदारचा विश्वास सार्थ ठरवला",
+                "content": "आयपीएल 2026 च्या रोमांचक सामन्यात, आरसीबीच्या जेकब डफीने शानदार प्रदर्शन करत कर्णधार रजत पाटिदारचा विश्वास सार्थ ठरवला. डफीच्या महत्त्वपूर्ण योगदानाने आरसीबीसाठी सामन्याचे चित्र बदलले, पाटिदारचा त्याला पाठिंबा देण्याचा निर्णय मास्टरस्ट्रोक असल्याचे सिद्ध झाले. त्याचा प्रभावी खेळ संघाच्या यशात महत्त्वाचा ठरला, ज्यामुळे हंगामाची जोरदार सुरुवात झाली."
+            },
+            "hi": {
+                "title": "आईपीएल 2026 में आरसीबी के डफी चमके, पाटिदार के विश्वास पर खरे उतरे",
+                "content": "आईपीएल 2026 के रोमांचक मुकाबले में, आरसीबी के जैकब डफी ने शानदार प्रदर्शन कर कप्तान रजत पाटिदार के विश्वास को सही ठहराया। डफी के महत्वपूर्ण योगदान ने आरसीबी के लिए मैच का रुख पलट दिया, साबित हुआ कि पाटिदार का उन्हें मौका देना मास्टरस्ट्रोक था। उनका प्रभावशाली खेल टीम की सफलता में अहम रहा, जो सीज़न की मजबूत शुरुआत का संकेत है।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVkdKX2g1c0RRY19oUVB1Y1k3djR2eVRsX1pvVlNRRFlNM1QwYXFHVGZFNC1DZGFMNUctM3I1dEtxQ1BxN3hpVndJS0RNVFNjY01Ha3c0NXpWcUtwZ1UxY2JyNUtDeHlLYzlNajlIMHdGdVNNRDk1Rnk0T0xYeVZHWFFnSjlVcEgyblJqLXNGdWJBYTlWcUV4T2lseDIwOWdJUlptZEctSEpJVDMwZlNvTndWajlzUXJhRENr?oc=5",
+        "date": "Fri, 03 Apr 2026 10:37:16 GMT"
+    },
+    {
         "id": "d48f3eb1",
         "category": "National",
         "translations": {
@@ -1973,30 +1998,5 @@
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVTBxMXM1b29aaEc4SEJOYldSNTM4WFVrWWc4RjhaQkxwWXI4a3pUYTJjLVViQzJ4T2RKOTBwSlFHdzRURE1ReU9ETlZNM2ZGUy1rQjBRM3FxS09Nb3lDUFVKU2d6ZWszVF9qcHVCVGFlYVI3bEdCSVZWa2lLWHFsbU5qaFBlV3NUUWNTdU9fck9aajV4?oc=5",
         "date": "Thu, 02 Apr 2026 07:13:56 GMT"
-    },
-    {
-        "id": "8d157e37",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "Uproar Over Trump's Female Staff Exits",
-                "content": "Donald Trump faces major uproar over a perceived pattern of firing prominent women, following the recent exits of Pam Bondi and Kristi Noem. The controversy deepened with reports of Pete Hegseth and RFK Jr.'s presence. Critics are questioning the high-profile departures, fueling debate about Trump's leadership decisions, internal dynamics, and potential implications for his political future."
-            },
-            "kn": {
-                "title": "ಟ್ರಂಪ್ ಅವರ ಮಹಿಳಾ ಸಿಬ್ಬಂದಿ ನಿರ್ಗಮನದ ಬಗ್ಗೆ ಗದ್ದಲ",
-                "content": "ಡೊನಾಲ್ಡ್ ಟ್ರಂಪ್ ಅವರು ಪ್ರಮುಖ ಮಹಿಳೆಯರನ್ನು ವಜಾಗೊಳಿಸುವ ಮಾದರಿಯ ಬಗ್ಗೆ ತೀವ್ರ ಆಕ್ರೋಶ ಎದುರಿಸುತ್ತಿದ್ದಾರೆ, ಇತ್ತೀಚೆಗೆ ಪ್ಯಾಮ್ ಬಾಂಡಿ ಮತ್ತು ಕ್ರಿಸ್ಟಿ ನೋಮ್ ಅವರ ನಿರ್ಗಮನದಿಂದ ಇದು ಮತ್ತಷ್ಟು ಎದ್ದು ಕಾಣಿಸಿದೆ. ಪೀಟ್ ಹೆಗ್ಸೆತ್ ಮತ್ತು ಆರ್‌ಎಫ್‌ಕೆ ಜೂನಿಯರ್ ಅವರ ಉಪಸ್ಥಿತಿಯ ವರದಿಗಳಿಂದ ವಿವಾದ ತೀವ್ರಗೊಂಡಿದೆ. ವಿಮರ್ಶಕರು ಈ ಉನ್ನತ-ಮಟ್ಟದ ನಿರ್ಗಮನಗಳನ್ನು ಪ್ರಶ್ನಿಸುತ್ತಿದ್ದಾರೆ, ಟ್ರಂಪ್ ಅವರ ನಾಯಕತ್ವದ ನಿರ್ಧಾರಗಳು, ಆಂತರಿಕ ಡೈನಾಮಿಕ್ಸ್ ಮತ್ತು ಅವರ ರಾಜಕೀಯ ಭವಿಷ್ಯದ ಮೇಲೆ ಸಂಭವನೀಯ ಪರಿಣಾಮಗಳ ಬಗ್ಗೆ ಚರ್ಚೆಯನ್ನು ಹುಟ್ಟುಹಾಕಿದ್ದಾರೆ."
-            },
-            "mr": {
-                "title": "ट्रम्प यांच्या महिला कर्मचाऱ्यांच्या बाहेर पडण्यावरून गदारोळ",
-                "content": "डोनाल्ड ट्रम्प यांना प्रमुख महिलांना कामावरून काढून टाकण्याच्या कथित पद्धतीवरून मोठ्या विरोधाला सामोरे जावे लागत आहे, विशेषतः पाम बाँडी आणि क्रिस्टी नोम यांच्या अलीकडील निरोपामुळे. पीट हेगसेथ आणि आरएफके जूनियर यांच्या उपस्थितीच्या अहवालांमुळे वाद अधिक तीव्र झाला आहे. समीक्षक या उच्च-प्रोफाइल निष्कासनांवर प्रश्नचिन्ह निर्माण करत आहेत, ज्यामुळे ट्रम्प यांच्या नेतृत्वाचे निर्णय, अंतर्गत गतिशीलता आणि त्यांच्या राजकीय भवितव्यासाठी संभाव्य परिणामांबद्दल चर्चा सुरू झाली आहे."
-            },
-            "hi": {
-                "title": "ट्रम्प की महिला कर्मचारियों के बाहर निकलने पर हंगामा",
-                "content": "डोनाल्ड ट्रम्प को प्रमुख महिलाओं को नौकरी से निकालने के एक कथित पैटर्न को लेकर भारी हंगामे का सामना करना पड़ रहा है, जिसमें हाल ही में पाम बॉन्डी और क्रिस्टी नोएम का बाहर निकलना शामिल है। पीट हेगसेथ और आरएफके जूनियर की उपस्थिति की खबरों से यह विवाद और गहरा गया। आलोचक इन हाई-प्रोफाइल निष्कासनों पर सवाल उठा रहे हैं, जिससे ट्रम्प के नेतृत्व के फैसलों, आंतरिक गतिशीलता और उनके राजनीतिक भविष्य के संभावित प्रभावों पर बहस छिड़ गई है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129988302,imgsize-153252.cms",
-        "link": "https://timesofindia.indiatimes.com/world/us/trump-only-firing-women-when-pete-hegseth-rfk-jr-are-right-there-major-uproar-over-pam-bondis-exit-after-kristi-noem/articleshow/129988080.cms",
-        "date": "2026-04-03T00:50:04+05:30"
     }
 ]
