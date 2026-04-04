@@ -1,5 +1,30 @@
 [
     {
+        "id": "88efa48b",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "IPL: Sharma Fined for Dissent",
+                "content": "Sunrisers Hyderabad's Abhishek Sharma faces a 10% match fee fine for \"dissent\" during a recent IPL match. He expressed disapproval towards an umpire's decision over a disputed catch, violating cricket's code of conduct. Regulations emphasize respecting officials' rulings, even when controversial. The incident reignites discussions on player behavior and the pressures of umpiring in high-stakes T20 leagues."
+            },
+            "kn": {
+                "title": "ಐಪಿಎಲ್: ಶರ್ಮಾ ಅಸಮ್ಮತಿಗಾಗಿ ದಂಡ",
+                "content": "ಸನ್‌ರೈಸರ್ಸ್ ಹೈದರಾಬಾದ್‌ನ ಅಭಿಷೇಕ್ ಶರ್ಮಾ ಇತ್ತೀಚಿನ ಐಪಿಎಲ್ ಪಂದ್ಯದಲ್ಲಿ 'ಅಸಮ್ಮತಿ' ವ್ಯಕ್ತಪಡಿಸಿದ್ದಕ್ಕಾಗಿ ತಮ್ಮ ಪಂದ್ಯದ ಶುಲ್ಕದ 10% ದಂಡವನ್ನು ಎದುರಿಸುತ್ತಿದ್ದಾರೆ. ಅವರು ವಿವಾದಿತ ಕ್ಯಾಚ್‌ನ ಬಗ್ಗೆ ಅಂಪೈರ್ ನಿರ್ಧಾರದ ವಿರುದ್ಧ ಅಸಮ್ಮತಿ ವ್ಯಕ್ತಪಡಿಸಿದರು, ಇದು ಕ್ರಿಕೆಟ್‌ನ ನಡವಳಿಕೆ ಸಂಹಿತೆಯನ್ನು ಉಲ್ಲಂಘಿಸಿದೆ. ವಿವಾದಾತ್ಮಕವಾಗಿದ್ದರೂ ಸಹ, ನಿಯಮಗಳು ಅಧಿಕಾರಿಗಳ ತೀರ್ಪುಗಳನ್ನು ಗೌರವಿಸುವುದನ್ನು ಒತ್ತಿಹೇಳುತ್ತವೆ. ಈ ಘಟನೆ ಆಟಗಾರರ ವರ್ತನೆ ಮತ್ತು ಉನ್ನತ-ಪಾಲಿನ ಟಿ20 ಲೀಗ್‌ಗಳಲ್ಲಿ ಅಂಪೈರಿಂಗ್‌ನ ಒತ್ತಡಗಳ ಕುರಿತು ಚರ್ಚೆಗಳನ್ನು ಪುನರಾರಂಭಿಸಿದೆ."
+            },
+            "mr": {
+                "title": "आयपीएल: शर्माला असहमत दर्शवल्याबद्दल दंड",
+                "content": "सनरायझर्स हैदराबादच्या अभिषेक शर्माला आयपीएल सामन्यात 'असहमत' व्यक्त केल्याबद्दल 10% मॅच फी दंड ठोठावला आहे. त्याने वादग्रस्त झेलवर पंचांच्या निर्णयाबद्दल नाराजी व्यक्त केली, जे क्रिकेट आचारसंहितेचे उल्लंघन आहे. नियमांनुसार, वादग्रस्त असले तरी अधिकाऱ्यांच्या निर्णयांचा आदर आवश्यक आहे. यामुळे खेळाडूंचे वर्तन आणि उच्च दाबाच्या टी-20 लीगमध्ये अंपायरिंगच्या दबावावर पुन्हा चर्चा सुरू झाली."
+            },
+            "hi": {
+                "title": "आईपीएल: शर्मा को असहमति के लिए जुर्माना",
+                "content": "आईपीएल: सनराइजर्स हैदराबाद के अभिषेक शर्मा पर 'असहमति' के लिए 10% मैच फीस का जुर्माना लगा। उन्होंने विवादित कैच पर अंपायर के फैसले से असहमति जताई, जो आचार संहिता का उल्लंघन था। नियम, विवादास्पद होने पर भी, अधिकारियों के निर्णयों का सम्मान अनिवार्य करते हैं। इससे खिलाड़ियों के व्यवहार और उच्च-दांव टी20 लीग में अंपायरिंग के दबाव पर बहस छिड़ गई है।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTjJELXZNTF90UTB5LTNHMHVFbTZBMmZsOWxIZmRHQWVaakdFd1NrOEdlMmpjNmVmN2ZCZHV0QXhna3NzMVl2bkNIMG9MVzZucEcwWngzX25uTlAtZHM3b3ZjQjJ3ZWJNaGtvU3dVOGI0OGdBMmF3SEQzU2VNem1VWlFhRVYzZE9kMjZhOUdKQ1FEWldIS3M5UnRXUDBRa2Y5Ml92OWlfb3pQb0tkMVptYzZFRWpuTmc4VG12SllnTFI1RThaVFRyTnk4T0VycG9tcUUxNEpMWW1BSnhaQ0NjbXQ0WQ?oc=5",
+        "date": "Sat, 04 Apr 2026 07:28:05 GMT"
+    },
+    {
         "id": "744b137b",
         "category": "IPL Scoop",
         "translations": {
@@ -1973,30 +1998,5 @@
         "image": "https://static.toiimg.com/photo/msid-129981230,imgsize-58140.cms",
         "link": "https://timesofindia.indiatimes.com/india/trump-controls-pm-rahul-gandhi-attacks-modi-in-assam-calls-himanta-most-corrupt-cm/articleshow/129981208.cms",
         "date": "2026-04-02T19:36:12+05:30"
-    },
-    {
-        "id": "5c79e896",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "IPL 2026: Controversial Umpiring Decision Sparks Debate",
-                "content": "Another IPL 2026 match, KKR vs SRH, saw controversy erupt over a contentious umpiring decision. Abhishek Sharma was the victim of a debatable call, sparking widespread debate among fans and experts. This latest incident highlights ongoing concerns about officiating standards and the impact of questionable decisions on crucial game outcomes, further intensifying discussions around accurate technology implementation."
-            },
-            "kn": {
-                "title": "ಐಪಿಎಲ್ 2026: ವಿವಾದಾತ್ಮಕ ಅಂಪೈರಿಂಗ್ ನಿರ್ಧಾರದಿಂದ ಚರ್ಚೆ",
-                "content": "ಐಪಿಎಲ್ 2026 ರ ಕೆಕೆಆರ್ vs ಎಸ್‌ಆರ್‌ಹೆಚ್ ಪಂದ್ಯದಲ್ಲಿ ಮತ್ತೊಂದು ವಿವಾದಾತ್ಮಕ ಅಂಪೈರಿಂಗ್ ನಿರ್ಧಾರ ಹೊರಬಿದ್ದಿದೆ. ಅಭಿಷೇಕ್ ಶರ್ಮಾ ಒಂದು ವಿವಾದಾತ್ಮಕ ಕರೆಗೆ ಬಲಿಯಾದರು, ಇದು ಅಭಿಮಾನಿಗಳು ಮತ್ತು ತಜ್ಞರಲ್ಲಿ ವ್ಯಾಪಕ ಚರ್ಚೆಗೆ ಕಾರಣವಾಯಿತು. ಈ ಇತ್ತೀಚಿನ ಘಟನೆ ಅಂಪೈರಿಂಗ್ ಮಾನದಂಡಗಳು ಮತ್ತು ನಿರ್ಣಾಯಕ ಪಂದ್ಯದ ಫಲಿತಾಂಶಗಳ ಮೇಲೆ ಪ್ರಶ್ನಾರ್ಹ ನಿರ್ಧಾರಗಳ ಪ್ರಭಾವದ ಬಗ್ಗೆ ನಡೆಯುತ್ತಿರುವ ಕಳವಳಗಳನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ, ಇದು ನಿಖರ ತಂತ್ರಜ್ಞಾನ ಅನುಷ್ಠಾನದ ಸುತ್ತ ಚರ್ಚೆಗಳನ್ನು ಇನ್ನಷ್ಟು ತೀವ್ರಗೊಳಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "आयपीएल 2026: वादग्रस्त अम्पायरिंग निर्णयामुळे वाद",
-                "content": "आयपीएल 2026 च्या KKR विरुद्ध SRH सामन्यात पुन्हा एकदा वादग्रस्त अम्पायरिंग निर्णय समोर आला. अभिषेक शर्मा वादग्रस्त निर्णयाचा बळी ठरले, ज्यामुळे चाहते आणि तज्ञांमध्ये तीव्र चर्चा सुरू झाली. ही ताजी घटना अम्पायरिंगच्या मानकांबद्दल आणि महत्त्वपूर्ण सामन्यांच्या निकालांवर वादग्रस्त निर्णयांच्या प्रभावाबद्दलच्या चिंता अधोरेखित करते, ज्यामुळे अचूक तंत्रज्ञान अंमलबजावणीभोवतीच्या चर्चांना आणखी वेग येतो."
-            },
-            "hi": {
-                "title": "आईपीएल 2026: विवादास्पद अंपायरिंग निर्णय ने छेड़ी बहस",
-                "content": "आईपीएल 2026 के KKR बनाम SRH मैच में एक और विवादास्पद अंपायरिंग निर्णय पर विवाद खड़ा हो गया। अभिषेक शर्मा एक बहस योग्य कॉल के शिकार हुए, जिससे प्रशंसकों और विशेषज्ञों के बीच व्यापक बहस छिड़ गई। यह नवीनतम घटना अंपायरिंग मानकों और महत्वपूर्ण खेल परिणामों पर संदिग्ध निर्णयों के प्रभाव के बारे में चल रही चिंताओं को उजागर करती है, जिससे सटीक तकनीक के कार्यान्वयन के इर्द-गिर्द की चर्चाएं और तेज़ हो जाती हैं।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdjJfVUxIbjBHN3JBVERTUGNHd083bGFBSTJOM2czc3Q4SzNNOGZ4Ukh0VkFvdnZ5bVFZNjROZl9yOXpnX2JJUG5VWnRNWDZPa0w3RHVIVVpBdXZJQzdhdFRNaWNQTzZrbTItRk8tckJLT1hmRmR1NzZ6aExBc3FnSDhzVWRHTmdRc0FTV0NvS2lfaEN0VWFQaUdnZVlYMWgxa1ZaRWk1UGN4N3lEMzZRM1VyUmtOMmtBWW1UamFncTN3SzZYbGdDSkhxd0tUR2JOSkUwOXVB?oc=5",
-        "date": "Thu, 02 Apr 2026 15:18:51 GMT"
     }
 ]
