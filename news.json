@@ -1,5 +1,55 @@
 [
     {
+        "id": "84605ffe",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "Swift & Kelce Plan Unconventional Wedding",
+                "content": "Excitement builds as Taylor Swift and Travis Kelce reportedly plan an unconventional wedding. The power couple is set to put a unique twist on their special day, moving away from traditional norms. Fans are eager to discover how they will make their nuptials stand out, hinting at a creative and memorable celebration unlike any other. Get ready for a truly original celebrity event!"
+            },
+            "kn": {
+                "title": "ಸ್ವಿಫ್ಟ್ ಮತ್ತು ಕೆಲ್ಸಿ ಅವರ ಅಸಾಂಪ್ರದಾಯಿಕ ವಿವಾಹ ಯೋಜನೆ",
+                "content": "ಟೇಲರ್ ಸ್ವಿಫ್ಟ್ ಮತ್ತು ಟ್ರಾವಿಸ್ ಕೆಲ್ಸಿ ಅಸಾಂಪ್ರದಾಯಿಕ ಮದುವೆಗೆ ಸಿದ್ಧರಾಗುತ್ತಿರುವ ಬಗ್ಗೆ ಕುತೂಹಲ ಹೆಚ್ಚುತ್ತಿದೆ. ಈ ಪ್ರಭಾವಿ ಜೋಡಿ ತಮ್ಮ ವಿಶೇಷ ದಿನಕ್ಕೆ ಒಂದು ವಿಶಿಷ್ಟ ತಿರುವು ನೀಡಲು ಸಜ್ಜಾಗಿದೆ, ಸಾಂಪ್ರದಾಯಿಕ ವಿಧಾನಗಳಿಂದ ದೂರ ಸರಿಯುತ್ತಿದೆ. ತಮ್ಮ ಮದುವೆಯನ್ನು ಹೇಗೆ ಭಿನ್ನವಾಗಿಸುತ್ತಾರೆ ಎಂದು ಅಭಿಮಾನಿಗಳು ತಿಳಿದುಕೊಳ್ಳಲು ಕಾತರರಾಗಿದ್ದಾರೆ, ಇದು ಯಾವುದೇ ಇತರ ಆಚರಣೆಗಿಂತ ಸೃಜನಾತ್ಮಕ ಮತ್ತು ಸ್ಮರಣೀಯ ಆಚರಣೆಯ ಸುಳಿವು ನೀಡುತ್ತಿದೆ. ನಿಜಕ್ಕೂ ವಿಶಿಷ್ಟವಾದ ಸೆಲೆಬ್ರಿಟಿ ಕಾರ್ಯಕ್ರಮಕ್ಕೆ ಸಿದ್ಧರಾಗಿ!"
+            },
+            "mr": {
+                "title": "स्विफ्ट आणि केल्सींच्या असंप्रदायवादी लग्नाचे नियोजन",
+                "content": "टेलर स्विफ्ट आणि ट्रॅव्हिस केल्सीच्या असंप्रदायवादी लग्नाच्या नियोजनाबद्दल उत्साह वाढत आहे. हे पॉवर कपल त्यांच्या खास दिवसाला एक अनोखा ट्विस्ट देण्यास सज्ज आहे, ज्यामुळे ते पारंपारिक पद्धतींपासून दूर जातील. चाहते उत्सुक आहेत की ते त्यांचे लग्न कसे वेगळे बनवतील, जे कोणत्याही इतर सोहळ्यापेक्षा सर्जनशील आणि अविस्मरणीय उत्सवाची सूचना देत आहे. एका खऱ्या अर्थाने मूळ सेलिब्रिटी कार्यक्रमासाठी तयार रहा!"
+            },
+            "hi": {
+                "title": "स्विफ्ट और केल्सी की अपरंपरागत शादी की योजना",
+                "content": "टेलर स्विफ्ट और ट्रैविस केल्सी की अपरंपरागत शादी की योजना को लेकर उत्साह बढ़ रहा है। यह पावर कपल अपने खास दिन को एक अनोखा मोड़ देने के लिए तैयार है, जो पारंपरिक मानदंडों से हटकर होगा। प्रशंसक यह जानने के लिए उत्सुक हैं कि वे अपनी शादी को कैसे खास बनाएंगे, जो किसी भी अन्य समारोह की तुलना में एक रचनात्मक और यादगार उत्सव का संकेत दे रहा है। एक सचमुच मौलिक सेलेब्रिटी इवेंट के लिए तैयार हो जाइए!"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQcGtoN2hJbHIzMnVqd1Q2eXFtdFBOQWtUOWdXY3B2UktJOGZ2TTZXUTk0VmItNUNrS0xvTnpXNXZOa1EyNlJhWGpFQl93Z05YNDUyTWl6Z08wNkN1QVhMR0wwOVZCZmFETlpoVWo1SjVfalVoX3E0V2hBaXJfeXJqUUtydGRWMktVZzV4cXE5NTZjWUQ3RExiVlFPRjJnRzIyblViSC1uNlZWakZ5RDRlTzZEc2gyTFMzaklhVVgtTGotWnFJNGc5Zy1PejR6QnZPRF8wdEhfdzZoZHEtcXZyYUY4QUdGUlN1SzBlLXFhZUF1dUdFa3gwcVFXQlpPNzFyLTlkSFpXeEpPV2oxWEVkMG1VWVRlazVFMkhyeUtaVlh0eHZySEJod3ZkNEhpbGfSAa8CQVVfeXFMUHBraDdoSWxyMzJ1andUNnlxbXRQTkFrVDlnV2NwdlJLSThmdk02V1E5NFZiLTVDa0tMb056VzV2TmtRMjZSYVhqRUJfd2dOWDQ1Mk1pemdPMDZDdUFYTEdMMDlWQmZhRE5aaFVqNUo1X2pVaF9xNFdoQWlyX3lyalFLcnRkVjJLVWc1eHFxOTU2Y1lEN0RMYlZRT0YyZ0cyMm5VYkgtbjZWVmpGeUQ0ZU82RHNoMkxTM2pJYVVYLUxqLVpxSTRnOWctT3o0ekJ2T0RfMHRIX3c2aGRxLXF2cmFGOEFHRlJTdUswZS1xYWVBdXVHRWt4MHFRV0JaTzcxci05ZEhaV3hKT1dqMVhFZDBtVVlUZWs1RTJIcnlLWlZYdHh2ckhCaHd2ZDRIaWxn?oc=5",
+        "date": "Fri, 03 Apr 2026 11:52:00 GMT"
+    },
+    {
+        "id": "28cba9c5",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "Raghav Chadha's Slow Breakup with AAP",
+                "content": "Raghav Chadha's gradual distancing from the Aam Aadmi Party signals a slow, steady political breakup, far beyond trivial matters. Once a prominent AAP spokesperson and trusted aide, his influence within the party has reportedly waned. This estrangement points to deeper internal dynamics and strategic shifts, revealing a significant political realignment for the young leader, impacting his future trajectory."
+            },
+            "kn": {
+                "title": "ರಾಘವ್ ಚಡ್ಡಾ ಅವರ ಎಎಪಿ ಜೊತೆಗಿನ ನಿಧಾನಗತಿಯ ಬೇರ್ಪಡುವಿಕೆ",
+                "content": "ರಾಘವ್ ಚಡ್ಡಾ ಅವರ ಆಮ್ ಆದ್ಮಿ ಪಕ್ಷದಿಂದ ನಿಧಾನಗತಿಯ ಅಂತರವು ಕೇವಲ ಕ್ಷುಲ್ಲಕ ವಿಷಯಗಳಲ್ಲ, ಬದಲಿಗೆ ನಿಧಾನ ಮತ್ತು ಸ್ಥಿರವಾದ ರಾಜಕೀಯ ಬೇರ್ಪಡುವಿಕೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಒಮ್ಮೆ ಎಎಪಿ ಯ ಪ್ರಮುಖ ವಕ್ತಾರ ಮತ್ತು ವಿಶ್ವಾಸಾರ್ಹ ಸಹಾಯಕರಾಗಿದ್ದ ಅವರ ಪ್ರಭಾವ ಪಕ್ಷದಲ್ಲಿ ಕುಂದಿದೆ ಎಂದು ವರದಿಯಾಗಿದೆ. ಈ ಅಂತರವು ಆಳವಾದ ಆಂತರಿಕ ಡೈನಾಮಿಕ್ಸ್ ಮತ್ತು ಕಾರ್ಯತಂತ್ರದ ಬದಲಾವಣೆಗಳನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಇದು ಯುವ ನಾಯಕನಿಗೆ ಮಹತ್ವದ ರಾಜಕೀಯ ಮರುಜೋಡಣೆಯನ್ನು ಬಹಿರಂಗಪಡಿಸುತ್ತದೆ, ಅವರ ಭವಿಷ್ಯದ ಪಥದ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "राघव चड्ढांचा 'आप'सोबतचा हळूहळू झालेला दुरावा",
+                "content": "राघव चड्ढा यांचे आम आदमी पक्षापासून हळूहळू दूर होणे हे केवळ किरकोळ बाबी नसून, एक धीमे आणि स्थिर राजकीय संबंध तुटल्याचे संकेत देते. एकेकाळी 'आप'चे प्रमुख प्रवक्ते आणि विश्वासू सहकारी असलेले त्यांचे पक्षातील महत्त्व कमी झाल्याचे वृत्त आहे. ही फारकत सखोल अंतर्गत गतिशीलता आणि धोरणात्मक बदलांकडे लक्ष वेधते, जे या तरुण नेत्यासाठी महत्त्वपूर्ण राजकीय पुनर्गठन दर्शवते आणि त्यांच्या भविष्यातील वाटचालीस प्रभावित करते."
+            },
+            "hi": {
+                "title": "राघव चड्ढा का 'आप' से धीमा अलगाव",
+                "content": "राघव चड्ढा का आम आदमी पार्टी से धीरे-धीरे अलग होना केवल छोटी-मोटी बातें नहीं, बल्कि एक धीमे और स्थिर राजनीतिक अलगाव का संकेत है। कभी 'आप' के प्रमुख प्रवक्ता और विश्वसनीय सहयोगी रहे उनका प्रभाव पार्टी के भीतर कथित तौर पर कम हो गया है। यह अलगाव गहरी आंतरिक गतिशीलता और रणनीतिक बदलावों की ओर इशारा करता है, जो युवा नेता के लिए एक महत्वपूर्ण राजनीतिक पुनर्गठन को उजागर करता है और उनके भविष्य की दिशा को प्रभावित करेगा।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUTItajN1cGFyUGROOHMtM2hxSU9uM245UDgtOGFwWDl5R0FGd0xCbXdSYkVVZ1VpWkZ2dzU4ZGoydXlFS2JEX3o5TVhsVDNUaEpBeTVtTTBPQ09yT2tZemtnQ2x4a2lVa3BndE9aZ29SbEw1cEg4V24tSnMzZHFDMHJMbGx0NEMzWGl1UTZTUFJwOHVuMTREcWxuckF3N0hVT2ZWVE1faGZfYVhTRWg5M3dEYWYyU1VHSjdCcmFSaEREZ2pZdXhEVGtVX3ctUlhsSVF3dA?oc=5",
+        "date": "Fri, 03 Apr 2026 10:18:25 GMT"
+    },
+    {
         "id": "a9a1ff26",
         "category": "IPL Scoop",
         "translations": {
@@ -1948,55 +1998,5 @@
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
         "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxObHVDUkNqd3V2Mkp3VGFOeWhLOVdRM0FyZWZCRWVjSXU0SWl4RnJ3VU9TVlFmLU9IOG1lck9udktBT2JFT2paQnl2V1ZvcTBMUUZsZlhfTzRpUjh6LVMzNjJQUjV4YkEzN1NEMHNSZ3l2a1ZaTlItS05tdEdUU3Z2OWxnVkRfRm1FVGtVaC1DNTlXOUY5VEJ2cVRjSFY5cTRRcGFUYjh4S0dxLThHVjR6S0JMQ21xYzg4N3podXNGaVpueGdyMllNU09TZFBxLWJqdnRkbXc5UUN1RjlmR3E4WFo2LTFscldyWDkyQllaaVdiRWdVRi1jcXZnRUY2U0JmNnZlcDdpU1DSAY4CQVVfeXFMUFZwby03WFJJQ1B2ZFVCODJSMmN3aldnbk1QNUxyRlA2WUEwMEkyaGJhWlNFSzhsQmlGWFBMLUZJamE3ZXgtWVlMXzBHZzRuMW5DWGs2akxON0dkeVJ1NjJFanhzeTZsdU5DSnFPSjJuNWg0QlUzclhfRXBqWWk2c3hmMVF1LXhrLUVfUTFJUnpHQTk3UEZuclgySVNiR2YzUnNDa2VpVGdDdzd4TDgxR29ySVZtLW44cnBWTzdxTlFpeGc4dVplbHhpRGo0THJfZmdRVjU4WDVVRWhPMWFpZVM5Qm9uSmRPc1VUN0FPU0pLQXRnQ01ZVi02T2VvZnp4VWprWjV5VUxyX1VrSlZn?oc=5",
         "date": "Wed, 01 Apr 2026 14:05:42 GMT"
-    },
-    {
-        "id": "a9c2e41d",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Sinner's Season: Is New Romance a Distraction?",
-                "content": "Speculation mounts over tennis star Jannik Sinner's rumored relationship with Laila Hasanovic. Fans and analysts question if this new personal connection could impact his future performance and focus. Concerns are being raised about how a high-profile romance might affect his preparation and concentration for the upcoming 2026 season and beyond in the competitive ATP circuit."
-            },
-            "kn": {
-                "title": "ಸಿನ್ನರ್‌ನ ಸೀಸನ್: ಹೊಸ ಪ್ರೀತಿ ವಿಚಲನವೇ?",
-                "content": "ಟೆನಿಸ್ ತಾರೆ ಜನ್ನಿಕ್ ಸಿನ್ನರ್ ಮತ್ತು ಲೈಲಾ ಹಸನೋವಿಕ್ ಅವರ ವದಂತಿಯ ಸಂಬಂಧದ ಬಗ್ಗೆ ಊಹಾಪೋಹಗಳು ಹೆಚ್ಚಾಗಿವೆ. ಈ ಹೊಸ ವೈಯಕ್ತಿಕ ಸಂಪರ್ಕವು ಅವರ ಭವಿಷ್ಯದ ಪ್ರದರ್ಶನ ಮತ್ತು ಗಮನದ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರಬಹುದೇ ಎಂದು ಅಭಿಮಾನಿಗಳು ಮತ್ತು ವಿಶ್ಲೇಷಕರು ಪ್ರಶ್ನಿಸುತ್ತಿದ್ದಾರೆ. ಮುಂಬರುವ 2026 ಸೀಸನ್ ಮತ್ತು ಸ್ಪರ್ಧಾತ್ಮಕ ಎಟಿಪಿ ಸರ್ಕ್ಯೂಟ್‌ನಲ್ಲಿ ಉನ್ನತ ಮಟ್ಟದ ಪ್ರಣಯವು ಅವರ ಸಿದ್ಧತೆ ಮತ್ತು ಏಕಾಗ್ರತೆಯ ಮೇಲೆ ಹೇಗೆ ಪರಿಣಾಮ ಬೀರಬಹುದು ಎಂಬ ಆತಂಕಗಳು ಎದ್ದಿವೆ."
-            },
-            "mr": {
-                "title": "सिन्नरचा हंगाम: नवीन प्रेमसंबंध विचलित करणारा आहे का?",
-                "content": "टेनिसपटू जनिक सिन्नर आणि लैला हसनोविक यांच्या कथित संबंधांवरून अनेक तर्कवितर्क आहेत. चाहते आणि विश्लेषक प्रश्न विचारत आहेत की हा नवीन वैयक्तिक संबंध त्याच्या भविष्यातील कामगिरीवर आणि एकाग्रतेवर परिणाम करू शकतो का. स्पर्धात्मक एटीपी सर्किटमधील आगामी 2026 हंगामासाठी आणि त्यापुढील काळात उच्च-प्रोफाइल प्रेमसंबंध त्याच्या तयारीवर आणि एकाग्रतेवर कसा परिणाम करू शकतो, याबाबत चिंता व्यक्त केली जात आहे."
-            },
-            "hi": {
-                "title": "सिनर का सीज़न: क्या नया रोमांस भटकाव है?",
-                "content": "टेनिस स्टार जनिक सिनर और लैला हसनोविक के कथित रिश्ते पर अटकलें तेज हैं। प्रशंसक और विश्लेषक सवाल कर रहे हैं कि क्या यह नया व्यक्तिगत संबंध उनके भविष्य के प्रदर्शन और एकाग्रता को प्रभावित करेगा। प्रतिस्पर्धी एटीपी सर्किट में आगामी 2026 सीज़न और उसके बाद एक हाई-प्रोफाइल रोमांस उनकी तैयारी और एकाग्रता पर कैसा असर डालेगा, इस बारे में चिंताएं हैं।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wNDNlamZ4X25BR1FheXc2dFlQV3A1TDF1SlBJLXRFNVNsV3MxZVZFclJNSDEzZUNfVFJHQVdYUzZjZjVRSEVKd3Vpc1c1TGR2eFJqYUMybkJkVHVSaG5QVXpySkRZeU9MYk5GaWJBTko?oc=5",
-        "date": "Wed, 01 Apr 2026 16:37:38 GMT"
-    },
-    {
-        "id": "8007e35b",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "India Mandates Recycled Plastic for Packaging",
-                "content": "India has implemented new rules making the use of recycled plastic mandatory in packaging. This significant move aims to boost the circular economy by reducing virgin plastic consumption and promoting sustainability across industries. The regulations will gradually increase the required percentage of recycled content, encouraging better waste management and resource efficiency nationwide."
-            },
-            "kn": {
-                "title": "ಪ್ಯಾಕೇಜಿಂಗ್‌ಗೆ ಮರುಬಳಕೆಯ ಪ್ಲಾಸ್ಟಿಕ್ ಕಡ್ಡಾಯಗೊಳಿಸಿದ ಭಾರತ",
-                "content": "ಭಾರತವು ಪ್ಯಾಕೇಜಿಂಗ್‌ನಲ್ಲಿ ಮರುಬಳಕೆಯ ಪ್ಲಾಸ್ಟಿಕ್ ಬಳಕೆ ಕಡ್ಡಾಯಗೊಳಿಸುವ ಹೊಸ ನಿಯಮಗಳನ್ನು ಜಾರಿಗೆ ತಂದಿದೆ. ಕಚ್ಚಾ ಪ್ಲಾಸ್ಟಿಕ್ ಬಳಕೆ ಕಡಿಮೆ ಮಾಡಿ, ಕೈಗಾರಿಕೆಗಳಾದ್ಯಂತ ಸುಸ್ಥಿರತೆಯನ್ನು ಉತ್ತೇಜಿಸುವ ಮೂಲಕ ವೃತ್ತಾಕಾರದ ಆರ್ಥಿಕತೆಯನ್ನು ಹೆಚ್ಚಿಸುವುದು ಈ ಮಹತ್ವದ ಕ್ರಮದ ಗುರಿಯಾಗಿದೆ. ನಿಯಮಗಳು ಕ್ರಮೇಣ ಮರುಬಳಕೆಯ ವಿಷಯದ ಅಗತ್ಯ ಶೇಕಡಾವಾರು ಪ್ರಮಾಣವನ್ನು ಹೆಚ್ಚಿಸುತ್ತವೆ, ಇದು ಉತ್ತಮ ತ್ಯಾಜ್ಯ ನಿರ್ವಹಣೆ ಮತ್ತು ಸಂಪನ್ಮೂಲ ದಕ್ಷತೆಯನ್ನು ದೇಶಾದ್ಯಂತ ಉತ್ತೇಜಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "भारताने पॅकेजिंगसाठी पुनर्वापर केलेले प्लास्टिक बंधनकारक केले",
-                "content": "भारताने पॅकेजिंगमध्ये पुनर्वापर केलेल्या प्लास्टिकचा वापर बंधनकारक करणारे नवीन नियम लागू केले आहेत. या महत्त्वपूर्ण पावलाचा उद्देश नवीन प्लास्टिकचा वापर कमी करून आणि उद्योगांमध्ये शाश्वततेला प्रोत्साहन देऊन चक्रीय अर्थव्यवस्थेला चालना देणे हा आहे. हे नियम हळूहळू पुनर्वापर केलेल्या सामग्रीचे आवश्यक प्रमाण वाढवतील, ज्यामुळे देशभरात चांगले कचरा व्यवस्थापन आणि संसाधनांची कार्यक्षमता वाढेल."
-            },
-            "hi": {
-                "title": "भारत ने पैकेजिंग के लिए पुनर्नवीनीकृत प्लास्टिक अनिवार्य किया",
-                "content": "भारत ने पैकेजिंग में पुनर्नवीनीकृत प्लास्टिक का उपयोग अनिवार्य करने वाले नए नियम लागू किए हैं। इस महत्वपूर्ण कदम का उद्देश्य कुंवारे प्लास्टिक की खपत को कम करके और उद्योगों में स्थिरता को बढ़ावा देकर चक्रीय अर्थव्यवस्था को बढ़ावा देना है। ये नियम धीरे-धीरे पुनर्नवीनीकृत सामग्री के आवश्यक प्रतिशत को बढ़ाएंगे, जिससे देश भर में बेहतर अपशिष्ट प्रबंधन और संसाधन दक्षता को प्रोत्साहन मिलेगा।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129970092,imgsize-168790.cms",
-        "link": "https://timesofindia.indiatimes.com/india/use-of-recycled-plastic-in-packaging-made-mandatory-new-rules-to-boost-circularity/articleshow/129969620.cms",
-        "date": "2026-04-02T12:38:30+05:30"
     }
 ]
