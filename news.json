@@ -1,5 +1,30 @@
 [
     {
+        "id": "57b1b35d",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "Bank Holidays Ahead: Check Your Calendar!",
+                "content": "Heads up! Banks, including SBI and HDFC, will be closed on various days between April 6 and April 12 for upcoming bank holidays. Plan your financial transactions accordingly to avoid inconvenience. Always check the RBI's official holiday calendar for specific dates and regional variations before visiting your branch. Stay informed!"
+            },
+            "kn": {
+                "title": "ಬ್ಯಾಂಕ್ ರಜೆಗಳು ಬರುತ್ತಿವೆ: ನಿಮ್ಮ ಕ್ಯಾಲೆಂಡರ್ ಪರಿಶೀಲಿಸಿ!",
+                "content": "ಗಮನಿಸಿ! ಏಪ್ರಿಲ್ 6 ಮತ್ತು ಏಪ್ರಿಲ್ 12 ರ ನಡುವೆ ವಿವಿಧ ದಿನಗಳಲ್ಲಿ SBI ಮತ್ತು HDFC ಸೇರಿದಂತೆ ಬ್ಯಾಂಕುಗಳು ಮುಂಬರುವ ಬ್ಯಾಂಕ್ ರಜೆಗಳಿಗಾಗಿ ಮುಚ್ಚಲ್ಪಡುತ್ತವೆ. ಅನಾನುಕೂಲತೆಯನ್ನು ತಪ್ಪಿಸಲು ನಿಮ್ಮ ಹಣಕಾಸಿನ ವ್ಯವಹಾರಗಳನ್ನು ಅದಕ್ಕೆ ತಕ್ಕಂತೆ ಯೋಜಿಸಿ. ನಿಮ್ಮ ಶಾಖೆಗೆ ಭೇಟಿ ನೀಡುವ ಮೊದಲು ನಿರ್ದಿಷ್ಟ ದಿನಾಂಕಗಳು ಮತ್ತು ಪ್ರಾದೇಶಿಕ ವ್ಯತ್ಯಾಸಗಳಿಗಾಗಿ ಯಾವಾಗಲೂ RBI ಯ ಅಧಿಕೃತ ರಜಾ ಕ್ಯಾಲೆಂಡರ್ ಅನ್ನು ಪರಿಶೀಲಿಸಿ. ಮಾಹಿತಿ ಪಡೆಯಿರಿ!"
+            },
+            "mr": {
+                "title": "बँकेच्या सुट्ट्या येत आहेत: आपले कॅलेंडर तपासा!",
+                "content": "लक्ष द्या! येत्या बँक सुट्ट्यांसाठी SBI आणि HDFC सह बँका 6 ते 12 एप्रिल दरम्यान वेगवेगळ्या दिवशी बंद राहतील. गैरसोय टाळण्यासाठी आपल्या आर्थिक व्यवहारांचे त्यानुसार नियोजन करा. आपल्या शाखेला भेट देण्यापूर्वी विशिष्ट तारखा आणि प्रादेशिक बदलांसाठी नेहमी RBI चे अधिकृत सुट्टी कॅलेंडर तपासा. माहिती मिळवा!"
+            },
+            "hi": {
+                "title": "आगे बैंक छुट्टियाँ: अपना कैलेंडर जाँचें!",
+                "content": "ध्यान दें! SBI और HDFC सहित बैंक 6 से 12 अप्रैल के बीच विभिन्न दिनों में आगामी बैंक छुट्टियों के लिए बंद रहेंगे। असुविधा से बचने के लिए अपने वित्तीय लेनदेन की योजना उसी के अनुसार बनाएं। अपनी शाखा में जाने से पहले विशिष्ट तिथियों और क्षेत्रीय विविधताओं के लिए हमेशा RBI का आधिकारिक छुट्टी कैलेंडर जांचें। सूचित रहें!"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOSWlTNlBZVF9CUkpMMEs2M2xSQU9sMmJFQ0ZZYXNQSU5mOFI0Y2RBZlpVamRnTjNiczdSUkFaMWdyTm41V29rWHctNjEzMmVfdVplQnAtaTlyMDJ0aDRpVzVoaXNpSGQ4dEEtMEVCaUpNZ0p3eDhLbmh0T1E4NkxKMzJaTTlUSVM0Qk9vQk1NX0lFaEVzS2w2OHJsUjZ1Y1hHWV9NTHdzN196b0NwYjhFeGtlVGJZTmlzeGNEeUlBQUpoQWU5TnNERnBRTFhQTTJ1SklIcmdES0pQSzdDaUdyLTZxaXBXSklIUXVHOWt5N1E2aHZsbDF2eVJkVWXSAfwBQVVfeXFMTklpUzZQWVRfQlJKTDBLNjNsUkFPbDJiRUNGWWFzUElOZjhSNGNkQWZaVWpkZ04zYnM3UlJBWjFnck5uNVdva1h3LTYxMzJlX3VaZUJwLWk5cjAydGg0aVc1aGlzaUhkOHRBLTBFQmlKTWdKd3g4S25odE9RODZMSjMyWk05VElTNEJPb0JNTV9JRWhFc0tsNjhybFI2dWNYR1lfTUx3czdfem9DcGI4RXhrZVRiWU5pc3hjRHlJQUFKaEFlOU5zREZwUUxYUE0ydUpJSHJnREtKUEs3Q2lHci02cWlwV0pJSFF1RzlreTdRNmh2bGwxdnlSZFVl?oc=5",
+        "date": "Sun, 05 Apr 2026 02:05:27 GMT"
+    },
+    {
         "id": "5c5a6573",
         "category": "IPL Scoop",
         "translations": {
@@ -1973,30 +1998,5 @@
         "image": "https://static.toiimg.com/photo/msid-130009235,imgsize-870430.cms",
         "link": "https://timesofindia.indiatimes.com/world/us-streamers/erika-kirk-finally-reacts-to-druski-viral-video-calls-the-growing-online-criticism-nothing-but-noise/articleshow/130009240.cms",
         "date": "2026-04-04T02:49:55+05:30"
-    },
-    {
-        "id": "7a035dac",
-        "category": "Sports",
-        "translations": {
-            "en": {
-                "title": "PBKS Captain Shreyas Iyer Fined, One Step From Ban!",
-                "content": "Punjab Kings captain Shreyas Iyer faces a hefty ₹24 lakh fine for his team's second slow over-rate offence. The entire playing XI was also penalized. Another such breach will lead to Iyer's suspension and a ₹30 lakh fine, putting significant pressure on him and Punjab Kings as they strive for consistency in the remaining matches."
-            },
-            "kn": {
-                "title": "ಪಂಜಾಬ್ ಕಿಂಗ್ಸ್ ನಾಯಕ ಶ್ರೇಯಸ್ ಅಯ್ಯರ್​ಗೆ ದಂಡ, ನಿಷೇಧದಿಂದ ಒಂದು ಹೆಜ್ಜೆ ದೂರ!",
-                "content": "ಪಂಜಾಬ್ ಕಿಂಗ್ಸ್ ನಾಯಕ ಶ್ರೇಯಸ್ ಅಯ್ಯರ್ ತಮ್ಮ ತಂಡದ ಎರಡನೇ ನಿಧಾನಗತಿಯ ಓವರ್-ರೇಟ್ ಅಪರಾಧಕ್ಕಾಗಿ ₹24 ಲಕ್ಷ ದಂಡ ಎದುರಿಸುತ್ತಿದ್ದಾರೆ. ಇಡೀ ಆಡುವ XI ಸಹ ದಂಡಕ್ಕೆ ಗುರಿಯಾಗಿದೆ. ಮತ್ತೊಂದು ಇಂತಹ ಉಲ್ಲಂಘನೆಯು ಅಯ್ಯರ್ ಅವರ ಅಮಾನತು ಮತ್ತು ₹30 ಲಕ್ಷ ದಂಡಕ್ಕೆ ಕಾರಣವಾಗುತ್ತದೆ, ಇದು ಉಳಿದ ಪಂದ್ಯಗಳಲ್ಲಿ ಸ್ಥಿರತೆಗಾಗಿ ಶ್ರಮಿಸುತ್ತಿರುವ ಅವರಿಗೆ ಮತ್ತು ಪಂಜಾಬ್ ಕಿಂಗ್ಸ್‌ಗೆ ಭಾರಿ ಒತ್ತಡವನ್ನು ತಂದಿದೆ."
-            },
-            "mr": {
-                "title": "PBKS कर्णधार श्रेयस अय्यरला दंड, बंदीच्या एक पाऊल जवळ!",
-                "content": "PBKS कर्णधार श्रेयस अय्यरला त्याच्या संघाच्या दुसऱ्या संथ ओव्हर-रेटच्या गुन्ह्यासाठी ₹24 लाखांचा दंड ठोठावण्यात आला आहे. संपूर्ण प्लेइंग इलेव्हनलाही दंड आकारण्यात आला. अशा आणखी एका नियमाचे उल्लंघन झाल्यास अय्यरला निलंबित केले जाईल आणि ₹30 लाखांचा दंड आकारला जाईल, ज्यामुळे त्याला आणि पंजाब किंग्जला उर्वरित सामन्यांमध्ये सातत्य राखण्यासाठी मोठा दबाव आहे."
-            },
-            "hi": {
-                "title": "PBKS कप्तान श्रेयस अय्यर पर जुर्माना, बैन से एक कदम दूर!",
-                "content": "PBKS कप्तान श्रेयस अय्यर को उनकी टीम के दूसरे धीमे ओवर-रेट अपराध के लिए ₹24 लाख का जुर्माना देना होगा। पूरी प्लेइंग इलेवन पर भी जुर्माना लगाया गया। इस तरह के एक और उल्लंघन से अय्यर को निलंबित कर दिया जाएगा और ₹30 लाख का जुर्माना लगेगा, जिससे उन पर और पंजाब किंग्स पर शेष मैचों में निरंतरता बनाए रखने के लिए भारी दबाव है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-130012086,imgsize-75626.cms",
-        "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/shreyas-iyer-in-trouble-pbks-captain-fined-one-step-away-from-ban/articleshow/130012089.cms",
-        "date": "2026-04-04T08:13:48+05:30"
     }
 ]
