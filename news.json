@@ -1,5 +1,55 @@
 [
     {
+        "id": "571cda6c",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "LSG's Inconsistency Sparks Strategy Debate, Rishabh Pant's Role Questioned",
+                "content": "LSG faces growing scrutiny over their inconsistent performance and questioned \"secret\" strategy in cricket. Experts are debating their tactical approach, particularly highlighting how it could confuse players like Rishabh Pant. A prominent suggestion is that Pant should open, indicating a wider discussion on optimal batting roles and team dynamics amidst LSG's struggles."
+            },
+            "kn": {
+                "title": "LSG ಅಸ್ಥಿರತೆ ತಂತ್ರಗಾರಿಕೆ ಚರ್ಚೆಗೆ, ರಿಷಭ್ ಪಂತ್ ಪಾತ್ರದ ಬಗ್ಗೆ ಪ್ರಶ್ನೆ",
+                "content": "ಕ್ರಿಕೆಟ್‌ನಲ್ಲಿ LSG ಯ ಅಸ್ಥಿರ ಪ್ರದರ್ಶನ ಮತ್ತು ಪ್ರಶ್ನಾರ್ಹ \"ರಹಸ್ಯ\" ತಂತ್ರಗಾರಿಕೆ ಕುರಿತು ಹೆಚ್ಚುತ್ತಿರುವ ವಿಶ್ಲೇಷಣೆ ಎದುರಾಗಿದೆ. ತಜ್ಞರು ಅವರ ತಂತ್ರದ ವಿಧಾನದ ಬಗ್ಗೆ ಚರ್ಚಿಸುತ್ತಿದ್ದಾರೆ, ರಿಷಭ್ ಪಂತ್ ಅವರಂತಹ ಆಟಗಾರರನ್ನು ಇದು ಹೇಗೆ ಗೊಂದಲಕ್ಕೀಡುಮಾಡಬಹುದು ಎಂಬುದನ್ನು ವಿಶೇಷವಾಗಿ ಎತ್ತಿ ತೋರಿಸುತ್ತಿದ್ದಾರೆ. ಪಂತ್ ಆರಂಭಿಕ ಬ್ಯಾಟ್ಸ್‌ಮನ್ ಆಗಿ ಆಡಬೇಕು ಎಂಬ ಪ್ರಮುಖ ಸಲಹೆಯು, LSG ಯ ಹೋರಾಟಗಳ ನಡುವೆ ಸೂಕ್ತ ಬ್ಯಾಟಿಂಗ್ ಪಾತ್ರಗಳು ಮತ್ತು ತಂಡದ ಡೈನಾಮಿಕ್ಸ್ ಬಗ್ಗೆ ವ್ಯಾಪಕ ಚರ್ಚೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "LSG च्या सातत्यहीनतेमुळे रणनीतीवर चर्चा, ऋषभ पंतच्या भूमिकेवर प्रश्नचिन्ह",
+                "content": "क्रिकेटमध्ये LSG च्या सातत्यहीन कामगिरीमुळे आणि संशयास्पद \"गुप्त\" रणनीतीमुळे त्यांच्यावर वाढती टीका होत आहे. तज्ञ त्यांच्या डावपेचांवर चर्चा करत आहेत, विशेषतः ऋषभ पंतसारख्या खेळाडूंना ते कसे गोंधळात टाकू शकते हे अधोरेखित करत आहेत. पंतने सलामीवीर म्हणून खेळावे अशी एक प्रमुख सूचना आहे, जी LSG च्या संघर्षामधून सर्वोत्तम फलंदाजीच्या भूमिका आणि सांघिक गतीशीलतेवर व्यापक चर्चेकडे निर्देश करते."
+            },
+            "hi": {
+                "title": "LSG की असंगति से रणनीति पर बहस, ऋषभ पंत की भूमिका पर सवाल",
+                "content": "क्रिकेट में LSG अपने असंगत प्रदर्शन और संदिग्ध \"गुप्त\" रणनीति को लेकर बढ़ती जांच का सामना कर रही है। विशेषज्ञ उनकी सामरिक दृष्टिकोण पर बहस कर रहे हैं, विशेष रूप से यह उजागर करते हुए कि यह ऋषभ पंत जैसे खिलाड़ियों को कैसे भ्रमित कर सकता है। एक प्रमुख सुझाव है कि पंत को ओपनिंग करनी चाहिए, जो LSG के संघर्षों के बीच इष्टतम बल्लेबाजी भूमिकाओं और टीम की गतिशीलता पर व्यापक चर्चा का संकेत देता है।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOWEJ4WEhpSkN4eDNTWVBkeGt0T04zdml2RTYtZy1UcklEUndjTVl3Y1g2NEE5SDhGWE0xR0FyR0ZfNVVrSkV0ZDcwUUowMGt2bGpOT2pGaFdTVzI1TW8ybFk4M1VQZmZ1Vm10bHkybjB5aGU0dDA1VElrMW4wcDltWVM5eHo1NDFsUXNsRFRzVG91OS0xc2ZSYzEwVnRvSl9abGVBWDh3eGJ4Nkx4aXJXQ3dPVEFEdkFZUTJLU3NONjZLRUY3ZGZ4WFliOHBBMXZXbWpHVENQbC1fNllpNUVGY2wwQzZWVTZvNjVnT2Zaa1ZoQVVKQ0ln0gH3AUFVX3lxTE5YQnhYSGlKQ3h4M1NZUGR4a3RPTjN2aXZFNi1nLVRySURSd2NNWXdjWDY0QTlIOEZYTTFHQXJHRl81VWtKRXRkNzBRSjAwa3Zsak5PakZoV1NXMjVNbzJsWTgzVVBmZnVWbXRseTJuMHloZTR0MDVUSWsxbjBwOW1ZUzl4ejU0MWxRc2xEVHNUb3U5LTFzZlJjMTBWdG9KX1psZUFYOHd4Yng2THhpcldDd09UQUR2QVlRMktTc042NktFRjdkZnhYWWI4cEExdldtakdUQ1BsLV82WWk1RUZjbDBDNlZVNm82NWdPZlprVmhBVUpDSWc?oc=5",
+        "date": "Sun, 05 Apr 2026 07:49:29 GMT"
+    },
+    {
+        "id": "8af0c7f1",
+        "category": "Entertainment",
+        "translations": {
+            "en": {
+                "title": "Dhurandhar 2: Global Sensation, India's Next Rs 1000 Cr Blockbuster",
+                "content": "Ranveer Singh's 'Dhurandhar: The Revenge' is a global box office sensation, an espionage thriller captivating audiences worldwide. It's become the highest-grossing Indian film in North America and is poised to cross the monumental Rs 1000 crore mark in India, shattering records and making cinematic history."
+            },
+            "kn": {
+                "title": "ಧುರಂಧರ್ 2: ಜಾಗತಿಕ ಸಂವೇದನೆ, ಭಾರತದ ಮುಂದಿನ ₹1000 ಕೋಟಿ ಬ್ಲಾಕ್‌ಬಸ್ಟರ್",
+                "content": "ರಣವೀರ್ ಸಿಂಗ್ ಅವರ 'ಧುರಂಧರ್: ದಿ ರಿವೆಂಜ್' ವಿಶ್ವಾದ್ಯಂತ ಪ್ರೇಕ್ಷಕರನ್ನು ಸೆಳೆಯುತ್ತಿರುವ ಒಂದು ಜಾಗತಿಕ ಬಾಕ್ಸ್ ಆಫೀಸ್ ಸಂವೇದನೆ. ಈ ಗೂಢಚಾರ ಥ್ರಿಲ್ಲರ್ ಉತ್ತರ ಅಮೆರಿಕಾದಲ್ಲಿ ಅತಿ ಹೆಚ್ಚು ಗಳಿಕೆ ಮಾಡಿದ ಭಾರತೀಯ ಚಲನಚಿತ್ರವಾಗಿದೆ ಮತ್ತು ಭಾರತದಲ್ಲಿ ₹1000 ಕೋಟಿ ಗಡಿ ದಾಟಲು ಸಿದ್ಧವಾಗಿದೆ, ದಾಖಲೆಗಳನ್ನು ಮುರಿದು ಸಿನಿ ಇತಿಹಾಸ ಸೃಷ್ಟಿಸುತ್ತಿದೆ."
+            },
+            "mr": {
+                "title": "धुरंधर 2: जागतिक सनसनाटी, भारताचा पुढील ₹1000 कोटींचा ब्लॉकबस्टर",
+                "content": "रणवीर सिंगचा 'धुरंधर: द रिव्हेंज' जगभरात बॉक्स ऑफिसवर धुमाकूळ घालत आहे. हा हेरगिरी थ्रिलर उत्तर अमेरिकेत सर्वाधिक कमाई करणारा भारतीय चित्रपट ठरला आहे आणि भारतात ₹1000 कोटींचा टप्पा पार करण्याच्या मार्गावर आहे. याने अनेक विक्रम मोडले असून सिने इतिहासात नवे पर्व लिहिले आहे."
+            },
+            "hi": {
+                "title": "धुरंधर 2: ग्लोबल सेंसेशन, भारत का अगला ₹1000 करोड़ का ब्लॉकबस्टर",
+                "content": "रणवीर सिंह की 'धुरंधर: द रिवेंज' एक वैश्विक बॉक्स ऑफिस सनसनी है, एक जासूसी थ्रिलर जिसने दुनिया भर के दर्शकों को मंत्रमुग्ध कर दिया है। यह उत्तरी अमेरिका में सबसे ज्यादा कमाई करने वाली भारतीय फिल्म बन गई है और भारत में ₹1000 करोड़ का ऐतिहासिक आंकड़ा पार करने वाली है, रिकॉर्ड तोड़ते हुए सिनेमाई इतिहास रच रही है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130034543,imgsize-78134.cms",
+        "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-box-office-collection-day-18-live-ranveer-singh-rakesh-bedi-sanjay-dutt-arjun-rampa-sara-arjun-r-madhavan-starrer-set-to-cross-rs-1000-crore-mark-in-india-today-eyeing-rs-1600-crore-global-earnings/articleshow/130034543.cms",
+        "date": "2026-04-05T11:50:23+05:30"
+    },
+    {
         "id": "b8071690",
         "category": "National",
         "translations": {
@@ -1948,55 +1998,5 @@
         "image": "https://static.toiimg.com/photo/msid-130001987,imgsize-82252.cms",
         "link": "https://timesofindia.indiatimes.com/world/us/florida-man-arrested-for-stealing-40000-worth-of-trading-cards-from-target-using-cheap-taco-seasoning-packets/articleshow/130001987.cms",
         "date": "2026-04-03T21:04:00+05:30"
-    },
-    {
-        "id": "43f569a2",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "IPL 2026: DC vs MI Dream11 Fantasy Guide",
-                "content": "Get ready for IPL 2026's 8th match! Delhi Capitals face Mumbai Indians. Our Dream11 prediction guide offers crucial insights for your fantasy team. Find pitch reports, player form analysis, probable playing XIs, and top captain/vice-captain picks. Craft your winning lineup with expert tips to dominate your fantasy leagues for this DC vs MI encounter. Essential details inside!"
-            },
-            "kn": {
-                "title": "IPL 2026: DC vs MI Dream11 ಫ್ಯಾಂಟಸಿ ಗೈಡ್",
-                "content": "IPL 2026 ರ 8ನೇ ಪಂದ್ಯಕ್ಕೆ ಸಿದ್ಧರಾಗಿ! ಡೆಲ್ಲಿ ಕ್ಯಾಪಿಟಲ್ಸ್ ಮುಂಬೈ ಇಂಡಿಯನ್ಸ್ ಅನ್ನು ಎದುರಿಸಲಿದೆ. ನಮ್ಮ Dream11 ಭವಿಷ್ಯ ಮಾರ್ಗದರ್ಶಿ ನಿಮ್ಮ ಫ್ಯಾಂಟಸಿ ತಂಡಕ್ಕೆ ನಿರ್ಣಾಯಕ ಒಳನೋಟಗಳನ್ನು ನೀಡುತ್ತದೆ. ಪಿಚ್ ವರದಿಗಳು, ಆಟಗಾರರ ಫಾರ್ಮ್ ವಿಶ್ಲೇಷಣೆ, ಸಂಭಾವ್ಯ ಪ್ಲೇಯಿಂಗ್ XI ಮತ್ತು ಪ್ರಮುಖ ಕ್ಯಾಪ್ಟನ್/ವೈಸ್-ಕ್ಯಾಪ್ಟನ್ ಆಯ್ಕೆಗಳನ್ನು ಇಲ್ಲಿ ಕಂಡುಕೊಳ್ಳಿ. ಈ DC vs MI ಪಂದ್ಯಕ್ಕಾಗಿ ನಿಮ್ಮ ಫ್ಯಾಂಟಸಿ ಲೀಗ್‌ಗಳಲ್ಲಿ ಪ್ರಾಬಲ್ಯ ಸಾಧಿಸಲು ತಜ್ಞರ ಸಲಹೆಗಳೊಂದಿಗೆ ನಿಮ್ಮ ವಿಜೇತ ತಂಡವನ್ನು ರಚಿಸಿ. ಅಗತ್ಯ ವಿವರಗಳು ಒಳಗಿವೆ!"
-            },
-            "mr": {
-                "title": "आयपीएल 2026: DC vs MI Dream11 फँटसी मार्गदर्शक",
-                "content": "आयपीएल 2026 च्या 8व्या सामन्यासाठी सज्ज व्हा! दिल्ली कॅपिटल्स मुंबई इंडियन्सशी भिडणार आहे. आमचे Dream11 अंदाज मार्गदर्शक तुमच्या फँटसी संघासाठी महत्त्वपूर्ण माहिती देते. खेळपट्टी अहवाल, खेळाडूंच्या फॉर्मचे विश्लेषण, संभाव्य प्लेइंग XI आणि टॉप कर्णधार/उपकर्णधार निवडी शोधा. या DC vs MI सामन्यासाठी तुमच्या फँटसी लीगमध्ये वर्चस्व गाजवण्यासाठी तज्ञांच्या टिप्ससह तुमची विजयी संघरचना तयार करा. आवश्यक तपशील आत आहेत!"
-            },
-            "hi": {
-                "title": "IPL 2026: DC vs MI Dream11 फैंटेसी गाइड",
-                "content": "IPL 2026 के 8वें मैच के लिए तैयार हो जाइए! दिल्ली कैपिटल्स का मुकाबला मुंबई इंडियंस से होगा। हमारा Dream11 भविष्यवाणी गाइड आपकी फैंटेसी टीम के लिए महत्वपूर्ण जानकारी प्रदान करता है। पिच रिपोर्ट, खिलाड़ियों के फॉर्म का विश्लेषण, संभावित प्लेइंग XI और शीर्ष कप्तान/उपकप्तान के चुनाव यहाँ पाएं। इस DC बनाम MI मुकाबले के लिए अपनी फैंटेसी लीग में हावी होने के लिए विशेषज्ञ युक्तियों के साथ अपनी विजयी टीम बनाएं। अंदर आवश्यक विवरण हैं!"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVUtnTGF0Z2U2d1FtUTBfUGhGVVpNNjBKZ2hHMUtNYXl3VWRGX1cxSVp3RnhWbzYxRG9HT2o2WlVuQlZpVWFfbTRITGs0bjBnZFNFMTd6QjlPNnBQeWQwSzV3WlJpYzNwWTRvbEJQdmp4MVktcWk1Q05Dc002cE0wT3NXSEFwTUh6VFo5S2tSRllmckoz?oc=5",
-        "date": "Fri, 03 Apr 2026 15:48:04 GMT"
-    },
-    {
-        "id": "312b4e33",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Neymar Faces Outrage for Sexist Referee Comment",
-                "content": "Neymar, the famous footballer, is facing widespread backlash after making a sexist comment targeting a referee following Santos' recent victory. His remark has drawn sharp criticism from fans and media alike, sparking a debate on sexism in sports. The incident has intensified calls for greater respect and professionalism on the field."
-            },
-            "kn": {
-                "title": "ನೇಮರ್‌ನ ಲೈಂಗಿಕ ತಾರತಮ್ಯದ ಕಾಮೆಂಟ್‌ಗೆ ತೀವ್ರ ಆಕ್ರೋಶ",
-                "content": "ಪ್ರಸಿದ್ಧ ಫುಟ್‌ಬಾಲ್ ಆಟಗಾರ ನೇಮರ್, ಸ್ಯಾಂಟೋಸ್‌ನ ಇತ್ತೀಚಿನ ಗೆಲುವಿನ ನಂತರ ರೆಫರಿಯನ್ನು ಗುರಿಯಾಗಿಸಿ ಲೈಂಗಿಕ ತಾರತಮ್ಯದ ಕಾಮೆಂಟ್ ಮಾಡಿ ವ್ಯಾಪಕ ಆಕ್ರೋಶ ಎದುರಿಸುತ್ತಿದ್ದಾರೆ. ಅವರ ಹೇಳಿಕೆ ಅಭಿಮಾನಿಗಳು ಮತ್ತು ಮಾಧ್ಯಮಗಳಿಂದ ತೀವ್ರ ಟೀಕೆಗೆ ಗುರಿಯಾಗಿದೆ, ಕ್ರೀಡೆಯಲ್ಲಿ ಲೈಂಗಿಕ ತಾರತಮ್ಯದ ಬಗ್ಗೆ ಚರ್ಚೆಯನ್ನು ಹುಟ್ಟುಹಾಕಿದೆ. ಈ ಘಟನೆ ಮೈದಾನದಲ್ಲಿ ಹೆಚ್ಚಿನ ಗೌರವ ಮತ್ತು ವೃತ್ತಿಪರತೆಗೆ ಕರೆಗಳನ್ನು ಹೆಚ್ಚಿಸಿದೆ."
-            },
-            "mr": {
-                "title": "नेमारच्या लैंगिक भेदभावाच्या टिप्पणीमुळे संताप",
-                "content": "प्रसिद्ध फुटबॉलपटू नेमारला, सँटोसच्या अलीकडील विजयानंतर पंचांना लक्ष्य करून लैंगिक भेदभावाची टिप्पणी केल्याबद्दल तीव्र टीकेचा सामना करावा लागत आहे. त्याच्या या टिप्पणीवर चाहते आणि माध्यमांकडून तीव्र टीका झाली आहे, ज्यामुळे खेळातील लैंगिक भेदभावावर चर्चा सुरू झाली आहे. या घटनेने मैदानावरील अधिक आदर आणि व्यावसायिकतेच्या मागणीला बळकटी दिली आहे."
-            },
-            "hi": {
-                "title": "नेमार की लैंगिक टिप्पणी पर भड़का गुस्सा",
-                "content": "प्रसिद्ध फुटबॉलर नेमार, सैंटोस की हालिया जीत के बाद रेफरी को निशाना बनाते हुए एक लैंगिक टिप्पणी करने के बाद कड़ी आलोचना झेल रहे हैं। उनकी इस टिप्पणी ने प्रशंसकों और मीडिया से तीखी प्रतिक्रिया बटोरी है, जिससे खेलों में लैंगिक भेदभाव पर बहस छिड़ गई है। इस घटना ने मैदान पर अधिक सम्मान और व्यावसायिकता की मांगों को तेज कर दिया है।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMWRsRWY3M3VnLU5JRVN1NENEamJMUHlzckdIdWdKdUJ0eEVhNGJFVk0tQWtnWGktYTR4ZGFkMHR3X3VFczQwSlNWSTVpczRZbTIwak5sZnA2YnZpQWZTNEdrM05XdE9TZHF0N1VYZ2pqS2N4aW5ZbWNsUjdJNzN4aWdheTE3aVdLbjV6X3R0OHVPdzZ3Vkh4cl8wSlY4dXRJc283bEY5dHo2cmhJSHhLMnpXUGFxel91Z2Q0eGY3UE9rNEnSAdABQVVfeXFMT2dxNHptZGI2bVJjalRsakF1bGEyM0ptNGlUYVBWVGFmMk5aYzgwbFRUYXNlemhTX1lFYnZMT3RZdUx4VS0wWFVQUVNKaU45YXNUWlZxSGJLd1BGSnp2U0YzQ3RQY3V2Z2gwSTl0T050RVN3VGRuZTlvS1RKWGVoWDMwcEZuTGtpTG1qNU9pX0Z4UXJLTzJmNG94N2ZVWVA2Rmw2cXVYa1RWNmVXTDFHRzdnTEdPZ2kxME5yOGQ2cHc5N0VFc0hjZC1maXV6cUhJMA?oc=5",
-        "date": "Fri, 03 Apr 2026 10:23:31 GMT"
     }
 ]
