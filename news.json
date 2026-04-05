@@ -1,5 +1,80 @@
 [
     {
+        "id": "5115c11f",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "India's Young Hockey Squad Shines, Coach's Faith Fuels World Cup Dreams",
+                "content": "India's youthful hockey squad is making waves at the World Cup, exceeding expectations. Driven by coach Graham Reid's unwavering faith in their potential, the team is showcasing remarkable skill and resilience. Their spirited performances highlight a promising future for Indian hockey, as these rising stars embrace the global challenge with confidence, proving that belief can truly unlock extraordinary achievements on the world stage."
+            },
+            "kn": {
+                "title": "ಭಾರತದ ಯುವ ಹಾಕಿ ತಂಡ ಮಿಂಚುತ್ತಿದೆ, ಕೋಚ್ ವಿಶ್ವಾಸದಿಂದ ವಿಶ್ವಕಪ್ ಕನಸುಗಳಿಗೆ ಇಂಧನ",
+                "content": "ವಿಶ್ವಕಪ್‌ನಲ್ಲಿ ಭಾರತದ ಯುವ ಹಾಕಿ ತಂಡ ಅದ್ಭುತ ಪ್ರದರ್ಶನ ನೀಡುತ್ತಿದೆ, ನಿರೀಕ್ಷೆಗಳನ್ನು ಮೀರಿ ಬೆಳೆಯುತ್ತಿದೆ. ಕೋಚ್ ಗ್ರಹಾಂ ರೀಡ್ ಅವರ ಅಚಲ ನಂಬಿಕೆಯಿಂದ ಪ್ರೇರಿತವಾಗಿ, ತಂಡವು ಗಮನಾರ್ಹ ಕೌಶಲ್ಯ ಮತ್ತು ಸ್ಥಿತಿಸ್ಥಾಪಕತ್ವವನ್ನು ಪ್ರದರ್ಶಿಸುತ್ತಿದೆ. ಅವರ ಹುಮ್ಮಸ್ಸಿನ ಪ್ರದರ್ಶನಗಳು ಭಾರತೀಯ ಹಾಕಿ ಭವಿಷ್ಯಕ್ಕೆ ಭರವಸೆ ನೀಡುತ್ತವೆ. ಈ ಉದಯೋನ್ಮುಖ ತಾರೆಯರು ವಿಶ್ವಾಸದಿಂದ ಜಾಗತಿಕ ಸವಾಲನ್ನು ಎದುರಿಸುತ್ತಿದ್ದಾರೆ, ವಿಶ್ವ ವೇದಿಕೆಯಲ್ಲಿ ನಂಬಿಕೆಯು ನಿಜವಾಗಿಯೂ ಅಸಾಧಾರಣ ಸಾಧನೆಗಳನ್ನು ತರಬಲ್ಲದು ಎಂದು ಸಾಬೀತುಪಡಿಸುತ್ತಿದ್ದಾರೆ."
+            },
+            "mr": {
+                "title": "भारताचा युवा हॉकी संघ चमकला, प्रशिक्षकाच्या विश्वासाने विश्वचषक स्वप्नांना बळ",
+                "content": "भारताचा युवा हॉकी संघ विश्वचषकात चमक दाखवत आहे आणि अपेक्षा ओलांडून प्रगती करत आहे. प्रशिक्षक ग्रॅहम रीड यांच्या त्यांच्या क्षमतेवरील अटूट विश्वासाने प्रेरित होऊन, संघ उल्लेखनीय कौशल्य आणि लवचिकता दर्शवत आहे. त्यांची उत्साही कामगिरी भारतीय हॉकीसाठी एक आशादायक भविष्य अधोरेखित करते. हे उगवते तारे आत्मविश्वासाने जागतिक आव्हान स्वीकारत आहेत, हे सिद्ध करत आहेत की विश्वासाने खरोखरच जागतिक स्तरावर असाधारण यश मिळवता येते."
+            },
+            "hi": {
+                "title": "भारत का युवा हॉकी दल चमका, कोच का विश्वास विश्व कप सपनों को दे रहा पंख",
+                "content": "भारत का युवा हॉकी दल विश्व कप में धूम मचा रहा है, उम्मीदों से बढ़कर प्रदर्शन कर रहा है। कोच ग्राहम रीड के उनकी क्षमता पर अटूट विश्वास से प्रेरित होकर, टीम उल्लेखनीय कौशल और लचीलापन दिखा रही है। उनके जोशीले प्रदर्शन भारतीय हॉकी के लिए एक उज्ज्वल भविष्य को उजागर करते हैं। ये उभरते सितारे आत्मविश्वास के साथ वैश्विक चुनौती का सामना कर रहे हैं, यह साबित कर रहे हैं कि विश्वास वास्तव में विश्व मंच पर असाधारण उपलब्धियों को खोल सकता है।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPYVItczg2bkdvM2JzVTNMVnF4eF92S1lwZnB4V04xTUN5TUlNZlRYQ3BXZkZXWWxJUnV4bmdiX2JyazJBbHl0cVBBQnpwUjJ6V3J0alVka21EenlUdHRfYnpVQzJLb2UzNW9DTnBmV3JKOXVaZzY3cldnRG1Jdm5QWVZrcWVQVGFBWUh3dUMzVDVRREk4bW03OHdoWmJRYXVfVkVGbHRXdnRUTVJlZVB1eDU4S29jSTJhc0p3TFRwcW4xQXpXUGVBM0s3N3c0bkh0VjJ1WTJPOURUY2cxYjlobGZxVTMzMVptM0VwdGRndkxHaGPSAfMBQVVfeXFMT2FSLXM4Nm5HbzNic1UzTFZxeHhfdktZcGZweFdOMU1DeU1JTWZUWENwV2ZGV1lsSVJ1eG5nYl9icmsyQWx5dHFQQUJ6cFIyeldydGpVZGttRHp5VHR0X2J6VUMyS29lMzVvQ05wZldySjl1Wmc2N3JXZ0RtSXZuUFlWa3FlUFRhQVlId3VDM1Q1UURJOG1tNzh3aFpiUWF1X1ZFRmx0V3Z0VE1SZWVQdXg1OEtvY0kyYXNKd0xUcHFuMUF6V1BlQTNLNzd3NG5IdFYydVkyTzlEVGNnMWI5aGxmcVUzMzFabTNFcHRkZ3ZMR2hj?oc=5",
+        "date": "Sun, 05 Apr 2026 02:30:53 GMT"
+    },
+    {
+        "id": "7907be54",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "US Sacrifices Aircraft for Iran Crew Rescue",
+                "content": "A recent report reveals the US destroyed two of its own support aircraft during a critical 2020 rescue mission in Iran. This drastic measure was taken to save the crew of a downed F-15E fighter jet, ensuring their safe retrieval. The move highlights the extreme lengths the US military goes to protect its personnel, even at significant material cost, during sensitive operations in hostile territories."
+            },
+            "kn": {
+                "title": "ಇರಾನ್‌ನಲ್ಲಿ ಸಿಬ್ಬಂದಿ ರಕ್ಷಣೆಗಾಗಿ ಅಮೆರಿಕ ತನ್ನದೇ ವಿಮಾನ ನಾಶ",
+                "content": "ಇತ್ತೀಚಿನ ವರದಿಯ ಪ್ರಕಾರ, ಇರಾನ್‌ನಲ್ಲಿ 2020ರ ನಿರ್ಣಾಯಕ ರಕ್ಷಣಾ ಕಾರ್ಯಾಚರಣೆಯ ವೇಳೆ ಅಮೆರಿಕ ತನ್ನದೇ ಎರಡು ಸಹಾಯಕ ವಿಮಾನಗಳನ್ನು ನಾಶಪಡಿಸಿತು. ಕೆಳಗಿಳಿದ F-15E ಫೈಟರ್ ಜೆಟ್ ಸಿಬ್ಬಂದಿಯನ್ನು ರಕ್ಷಿಸಲು ಮತ್ತು ಅವರ ಸುರಕ್ಷಿತ ಮರುಪಡೆಯುವಿಕೆಯನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು ಈ ಕ್ರಮ ಕೈಗೊಳ್ಳಲಾಯಿತು. ಪ್ರತಿಕೂಲ ಪ್ರದೇಶಗಳಲ್ಲಿನ ಸೂಕ್ಷ್ಮ ಕಾರ್ಯಾಚರಣೆಗಳ ಸಮಯದಲ್ಲಿ, ಗಣನೀಯ ವೆಚ್ಚದಲ್ಲಿಯೂ ತನ್ನ ಸಿಬ್ಬಂದಿಯನ್ನು ರಕ್ಷಿಸಲು ಅಮೆರಿಕದ ಮಿಲಿಟರಿ ಯಾವ ಮಟ್ಟಕ್ಕೆ ಹೋಗುತ್ತದೆ ಎಂಬುದನ್ನು ಇದು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "इराणमध्ये कर्मचाऱ्यांच्या बचावासाठी अमेरिकेने स्वतःची विमाने नष्ट केली",
+                "content": "एका ताज्या अहवालानुसार, अमेरिकेने 2020 मध्ये इराणमधील एका महत्त्वाच्या बचाव मोहिमेदरम्यान स्वतःची दोन सहाय्यक विमाने नष्ट केली. F-15E फायटर जेटच्या खाली आलेल्या कर्मचाऱ्यांना वाचवण्यासाठी आणि त्यांची सुरक्षित सुटका सुनिश्चित करण्यासाठी हे कठोर पाऊल उचलण्यात आले. शत्रूच्या प्रदेशात संवेदनशील ऑपरेशन्स करताना, मोठ्या खर्चावरही आपल्या कर्मचाऱ्यांचे संरक्षण करण्यासाठी अमेरिकन सैन्य कोणत्या टोकापर्यंत जाते, हे यातून दिसून येते."
+            },
+            "hi": {
+                "title": "ईरान में चालक दल के बचाव के लिए अमेरिका ने अपने ही विमान नष्ट किए",
+                "content": "एक हालिया रिपोर्ट से पता चला है कि अमेरिका ने 2020 में ईरान में एक महत्वपूर्ण बचाव अभियान के दौरान अपने दो सहायक विमानों को नष्ट कर दिया था। यह कठोर कदम एक गिरे हुए F-15E फाइटर जेट के चालक दल को बचाने और उनकी सुरक्षित वापसी सुनिश्चित करने के लिए उठाया गया। यह दर्शाता है कि अमेरिकी सेना शत्रुतापूर्ण क्षेत्रों में संवेदनशील अभियानों के दौरान, भारी लागत पर भी, अपने कर्मियों की रक्षा के लिए किस हद तक जाती है।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPUTRUTDM0OFYtdkhmRDl3NHV0SXlzZDVhaUJPcW5wMHNYT0h1bEV5M2VmcU83b3pjOG5TdHN4ODl6V2NaNGdlc1NjRml0ZDhYajhVOWFkZ0UyWFB2YUdzRDduelNuNUo0X01na1UzdDBpeWtaOG1VcUJEdkpLbFBUajBwT1VOR2pOLWZLRHJCRlR2LXMxUmE3elhtT21TbWMyNWlwMVVaUGlmUVliXzVZOTBRa1dNbS12S05VeTMwaUZZMFlCZTdEaXZVVUxvdHRrV3ZvWFFsOHVjR1EzNTlGd3pXNTQtVTJIZ19yeTY3UdIB9AFBVV95cUxQX2NwQ2xMZTdZQWJYbzV4WUdHZmtkYWJrUGV6cmFSUVVPTU9xVGVnZ1A2NXlwZDdRUVlPaG1nQWRjTlRlSFBYZXNyalFTNWJvZE1mUGdlSzhhNDBRb3JXTnNvWWUtaFdEZ3RMczlfeHI1QnphdDJXNW1BcGxsQU1TUjRSSm1GdEpjc2JGT09TbkNVYkJMUW9QWF9mV2dZbk1FMjhDSldtU2V0R2JteTFPOG5GQnh3dXExamQ0ZmVTcnFoYmNXQXMwX01fdWxHdXhiNzJ4WG5QN19MUHF0eWhMalYtVi1JZ2FVaG1XZEpxVjhEMTJj?oc=5",
+        "date": "Sun, 05 Apr 2026 10:41:36 GMT"
+    },
+    {
+        "id": "115ac98b",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Chabahar Port: Rapid Expansion Expected Post-War",
+                "content": "Iran's envoy predicts rapid expansion of the strategically vital Chabahar port post-war. Crucial for India's access to Afghanistan and Central Asia, the port's development will significantly boost regional connectivity and trade. This emphasizes strong India-Iran cooperation, aiming to accelerate progress and maximize its economic and strategic potential for both nations, ensuring future prosperity."
+            },
+            "kn": {
+                "title": "ಚಾಬಹಾರ್ ಬಂದರು: ಯುದ್ಧಾನಂತರ ಕ್ಷಿಪ್ರ ವಿಸ್ತರಣೆ ನಿರೀಕ್ಷೆ",
+                "content": "ಇರಾನ್ ರಾಯಭಾರಿ ಯುದ್ಧಾನಂತರ ಕಾರ್ಯತಂತ್ರವಾಗಿ ಪ್ರಮುಖವಾದ ಚಾಬಹಾರ್ ಬಂದರಿನ ಕ್ಷಿಪ್ರ ವಿಸ್ತರಣೆಯನ್ನು ಊಹಿಸಿದ್ದಾರೆ. ಅಫ್ಘಾನಿಸ್ತಾನ ಮತ್ತು ಮಧ್ಯ ಏಷ್ಯಾಕ್ಕೆ ಭಾರತದ ಪ್ರವೇಶಕ್ಕೆ ನಿರ್ಣಾಯಕವಾಗಿರುವ ಈ ಬಂದರಿನ ಅಭಿವೃದ್ಧಿಯು ಪ್ರಾದೇಶಿಕ ಸಂಪರ್ಕ ಮತ್ತು ವ್ಯಾಪಾರವನ್ನು ಗಣನೀಯವಾಗಿ ಹೆಚ್ಚಿಸುತ್ತದೆ. ಇದು ಪ್ರಗತಿಯನ್ನು ವೇಗಗೊಳಿಸಲು ಮತ್ತು ಎರಡೂ ರಾಷ್ಟ್ರಗಳಿಗೆ ಅದರ ಆರ್ಥಿಕ ಮತ್ತು ಕಾರ್ಯತಂತ್ರದ ಸಾಮರ್ಥ್ಯವನ್ನು ಗರಿಷ್ಠಗೊಳಿಸಲು ಬಲವಾದ ಭಾರತ-ಇರಾನ್ ಸಹಕಾರವನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ, ಭವಿಷ್ಯದ ಸಮೃದ್ಧಿಯನ್ನು ಖಾತ್ರಿಪಡಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "चाबहार बंदर: युद्धानंतर वेगवान विस्ताराची अपेक्षा",
+                "content": "इराणच्या दूतावासाने युद्धोत्तर काळात सामरिकदृष्ट्या महत्त्वाच्या चाबहार बंदराच्या वेगाने विस्ताराचा अंदाज वर्तवला आहे. अफगाणिस्तान आणि मध्य आशियासाठी भारताच्या प्रवेशासाठी महत्त्वपूर्ण असलेले हे बंदर प्रादेशिक कनेक्टिव्हिटी आणि व्यापाराला लक्षणीयरीत्या चालना देईल. हे दोन्ही देशांसाठी त्याची आर्थिक आणि सामरिक क्षमता वाढवण्यासाठी, प्रगतीला गती देण्यासाठी आणि भविष्यातील समृद्धी सुनिश्चित करण्यासाठी मजबूत भारत-इराण सहकार्यावर भर देते."
+            },
+            "hi": {
+                "title": "चाबहार बंदर: युद्धोपरांत तीव्र विस्तार की उम्मीद",
+                "content": "ईरान के दूत ने युद्धोपरांत रणनीतिक रूप से महत्वपूर्ण चाबहार बंदरगाह के तीव्र विस्तार की भविष्यवाणी की है। अफगानिस्तान और मध्य एशिया तक भारत की पहुंच के लिए महत्वपूर्ण, इस बंदरगाह का विकास क्षेत्रीय कनेक्टिविटी और व्यापार को महत्वपूर्ण बढ़ावा देगा। यह दोनों राष्ट्रों के लिए इसकी आर्थिक और रणनीतिक क्षमता को अधिकतम करने, प्रगति में तेजी लाने और भविष्य की समृद्धि सुनिश्चित करने के लिए मजबूत भारत-ईरान सहयोग पर जोर देता है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130042747,imgsize-1190255.cms",
+        "link": "https://timesofindia.indiatimes.com/india/chabahar-work-to-expand-even-more-rapidly-in-post-war-era-iran-envoy/articleshow/130038400.cms",
+        "date": "2026-04-05T21:51:19+05:30"
+    },
+    {
         "id": "c84fc9e3",
         "category": "IPL Scoop",
         "translations": {
@@ -1923,80 +1998,5 @@
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUTItajN1cGFyUGROOHMtM2hxSU9uM245UDgtOGFwWDl5R0FGd0xCbXdSYkVVZ1VpWkZ2dzU4ZGoydXlFS2JEX3o5TVhsVDNUaEpBeTVtTTBPQ09yT2tZemtnQ2x4a2lVa3BndE9aZ29SbEw1cEg4V24tSnMzZHFDMHJMbGx0NEMzWGl1UTZTUFJwOHVuMTREcWxuckF3N0hVT2ZWVE1faGZfYVhTRWg5M3dEYWYyU1VHSjdCcmFSaEREZ2pZdXhEVGtVX3ctUlhsSVF3dA?oc=5",
         "date": "Fri, 03 Apr 2026 10:18:25 GMT"
-    },
-    {
-        "id": "a9a1ff26",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Abhishek Sharma Fined After Record Sixes in SRH Win",
-                "content": "SRH's Abhishek Sharma was fined following his team's recent victory, despite his record-breaking performance. Sharma smashed an unprecedented number of sixes, playing a crucial role in SRH's win. However, he incurred a penalty for an undisclosed reason. This disciplinary action somewhat overshadowed his stellar batting display, leaving fans curious about the circumstances of the fine."
-            },
-            "kn": {
-                "title": "ಎಸ್‌ಆರ್‌ಹೆಚ್ ಗೆಲುವಿನಲ್ಲಿ ದಾಖಲೆಯ ಸಿಕ್ಸರ್‌ಗಳ ನಂತರ ಅಭಿಷೇಕ್ ಶರ್ಮಾ ಅವರಿಗೆ ದಂಡ",
-                "content": "ಎಸ್‌ಆರ್‌ಹೆಚ್‌ನ ಅಭಿಷೇಕ್ ಶರ್ಮಾ, ತಂಡದ ಇತ್ತೀಚಿನ ಗೆಲುವಿನ ನಂತರ ದಂಡಕ್ಕೆ ಗುರಿಯಾಗಿದ್ದಾರೆ, ಅವರ ದಾಖಲೆ ನಿರ್ಮಿಸುವ ಪ್ರದರ್ಶನದ ಹೊರತಾಗಿಯೂ. ಶರ್ಮಾ ಅಭೂತಪೂರ್ವ ಸಿಕ್ಸರ್‌ಗಳನ್ನು ಬಾರಿಸುವ ಮೂಲಕ ಎಸ್‌ಆರ್‌ಹೆಚ್ ಗೆಲುವಿನಲ್ಲಿ ಪ್ರಮುಖ ಪಾತ್ರ ವಹಿಸಿದರು. ಆದಾಗ್ಯೂ, ಅವರು ಬಹಿರಂಗಪಡಿಸದ ಕಾರಣಕ್ಕಾಗಿ ದಂಡವನ್ನು ಎದುರಿಸಿದರು. ಈ ಶಿಸ್ತು ಕ್ರಮವು ಅವರ ಅದ್ಭುತ ಬ್ಯಾಟಿಂಗ್ ಪ್ರದರ್ಶನವನ್ನು ಸ್ವಲ್ಪಮಟ್ಟಿಗೆ ಮರೆಮಾಡಿದೆ, ದಂಡದ ಸಂದರ್ಭಗಳ ಬಗ್ಗೆ ಅಭಿಮಾನಿಗಳಲ್ಲಿ ಕುತೂಹಲ ಮೂಡಿಸಿದೆ."
-            },
-            "mr": {
-                "title": "SRH च्या विजयात विक्रमी षटकार मारल्यानंतर अभिषेक शर्माला दंड",
-                "content": "SRH च्या अभिषेक शर्माला संघाच्या अलीकडील विजयानंतर, त्याच्या विक्रमी कामगिरी असूनही दंड ठोठावण्यात आला. शर्माने अभूतपूर्व षटकार मारले, ज्यामुळे SRH च्या विजयात त्याने महत्त्वाची भूमिका बजावली. तथापि, त्याला अज्ञात कारणास्तव दंड भरावा लागला. या शिस्तभंगाच्या कारवाईने त्याच्या उत्कृष्ट फलंदाजीच्या प्रदर्शनाला काही प्रमाणात झाकोळून टाकले, ज्यामुळे चाहत्यांमध्ये दंडाच्या परिस्थितीबद्दल उत्सुकता निर्माण झाली आहे."
-            },
-            "hi": {
-                "title": "SRH की जीत में रिकॉर्ड छक्कों के बाद अभिषेक शर्मा पर जुर्माना",
-                "content": "SRH के अभिषेक शर्मा पर अपनी टीम की हालिया जीत के बाद जुर्माना लगाया गया, उनके रिकॉर्ड तोड़ प्रदर्शन के बावजूद। शर्मा ने अभूतपूर्व संख्या में छक्के जड़े, जिससे SRH की जीत में महत्वपूर्ण भूमिका निभाई। हालांकि, उन्हें एक अज्ञात कारण से जुर्माना भरना पड़ा। इस अनुशासनात्मक कार्रवाई ने उनके शानदार बल्लेबाजी प्रदर्शन को कुछ हद तक धूमिल कर दिया, जिससे प्रशंसक जुर्माने की परिस्थितियों के बारे में उत्सुक हैं।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNa0dRMXZpb3JGY1dqZE9zSFVqM28tanpocm53bVZtaGszTXB4UFRKRGZBdEVhdHhGVFdEVXVQT0dEaWJZYU5kRVRmMEFwSnFPM2ozbmxEbEJSbExmREZlN1UtR2ZOVC1iWng4UGVKVjM5SWMtajhqMHBHRGE4ckphWFJreFZxT2JxRjJ2cmJNaDVNY1VkdXVXWHVYbDlQZnhXeEx3V1kxeFlYdU9iX0p3Vk9XN3dndnl1SERvRzJNa0k0bjVDblQ2R3M2Q0VJU2I1U1ZwanJPYmw0bTAyNTZSYWpCTS1XQzFIV0E?oc=5",
-        "date": "Fri, 03 Apr 2026 20:34:08 GMT"
-    },
-    {
-        "id": "0ad91e44",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "Kick Streamer Collapses After Chokehold Live, Sparks Safety Debate",
-                "content": "Kick streamer Clavicular (Braden Eric Peters) collapsed during a live stream after a chokehold, sparking widespread safety concerns. The viral video highlights questions about the limits of live online content. This incident follows his recent arrests in Arizona and Florida and other controversies, including a viral video involving gunfire at an alligator, intensifying scrutiny on the streamer's public activities."
-            },
-            "kn": {
-                "title": "ಕಿಕ್ ಸ್ಟ್ರೀಮರ್ ಲೈವ್‌ನಲ್ಲಿ ಚೋಕ್‌ಹೋಲ್ಡ್‌ನಿಂದ ಕುಸಿದು, ಸುರಕ್ಷತಾ ಚರ್ಚೆ ಹುಟ್ಟುಹಾಕಿತು",
-                "content": "ಕಿಕ್ ಸ್ಟ್ರೀಮರ್ ಕ್ಲಾವಿಕ್ಯುಲರ್ (ಬ್ರಾಡನ್ ಎರಿಕ್ ಪೀಟರ್ಸ್) ಲೈವ್ ಸ್ಟ್ರೀಮ್ ವೇಳೆ ಚೋಕ್‌ಹೋಲ್ಡ್‌ನಿಂದ ಕುಸಿದು ಬಿದ್ದಿದ್ದು, ವ್ಯಾಪಕ ಸುರಕ್ಷತಾ ಕಳವಳಗಳನ್ನು ಹುಟ್ಟುಹಾಕಿದೆ. ವೈರಲ್ ವಿಡಿಯೋ ಲೈವ್ ಆನ್‌ಲೈನ್ ವಿಷಯದ ಮಿತಿಗಳ ಬಗ್ಗೆ ಪ್ರಶ್ನೆಗಳನ್ನು ಎತ್ತಿದೆ. ಈ ಘಟನೆ ಅವರ ಇತ್ತೀಚಿನ ಅರಿಜೋನಾ ಮತ್ತು ಫ್ಲೋರಿಡಾ ಬಂಧನಗಳು ಮತ್ತು ಆಲಿಗೇಟರ್‌ಗೆ ಗುಂಡು ಹಾರಿಸುವುದನ್ನು ಒಳಗೊಂಡ ವೈರಲ್ ವೀಡಿಯೊ ಸೇರಿದಂತೆ ಇತರ ವಿವಾದಗಳನ್ನು ಅನುಸರಿಸುತ್ತದೆ, ಸ್ಟ್ರೀಮರ್‌ನ ಸಾರ್ವಜನಿಕ ಚಟುವಟಿಕೆಗಳ ಮೇಲಿನ ಪರಿಶೀಲನೆಯನ್ನು ತೀವ್ರಗೊಳಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "किक स्ट्रीमर लाईव्हमध्ये चोकहोल्डनंतर कोसळला, सुरक्षिततेवर चर्चा",
-                "content": "किक स्ट्रीमर क्लॅविक्युलर (ब्रॅडन एरिक पीटर्स) लाईव्ह स्ट्रीमदरम्यान चोकहोल्डनंतर कोसळला, ज्यामुळे सुरक्षिततेबद्दल चिंता वाढली. व्हायरल व्हिडिओने लाईव्ह ऑनलाइन सामग्रीच्या मर्यादांबद्दल प्रश्न निर्माण केले आहेत. ही घटना ॲरिझोना आणि फ्लोरिडामधील त्याच्या अलीकडील अटकेनंतर आणि मगरीला गोळीबार करण्याच्या व्हायरल व्हिडिओसह इतर विवादांनंतर घडली आहे, ज्यामुळे स्ट्रीमरच्या सार्वजनिक कार्यांवर अधिक तपासणी होत आहे."
-            },
-            "hi": {
-                "title": "किक स्ट्रीमर लाइव में चोकहोल्ड के बाद गिरा, सुरक्षा पर बहस छिड़ी",
-                "content": "किक स्ट्रीमर क्लैविकलर (ब्रैडन एरिक पीटर्स) एक लाइव स्ट्रीम के दौरान चोकहोल्ड के बाद गिर गया, जिससे व्यापक सुरक्षा चिंताएं पैदा हो गईं। वायरल वीडियो लाइव ऑनलाइन सामग्री की सीमाओं के बारे में सवाल उठाता है। यह घटना एरिज़ोना और फ्लोरिडा में उसकी हालिया गिरफ्तारी और मगरमच्छ पर गोलीबारी से जुड़े वायरल वीडियो सहित अन्य विवादों के बाद हुई है, जिससे स्ट्रीमर की सार्वजनिक गतिविधियों पर गहन जांच बढ़ गई है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-130005288,imgsize-20296.cms",
-        "link": "https://timesofindia.indiatimes.com/world/us-streamers/kick-streamer-clavicular-collapses-mid-stream-after-chokehold-as-viral-video-raises-questions-about-live-content-limits/articleshow/130005337.cms",
-        "date": "2026-04-03T22:05:23+05:30"
-    },
-    {
-        "id": "e416fdd8",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Rathour Hails Suryavanshi as 'Very Special Player' for IPL 2026",
-                "content": "Ahead of the IPL 2026 clash between Gujarat Titans (GT) and Rajasthan Royals (RR), coach Rathour has lauded young sensation Suryavanshi. Rathour described Suryavanshi as a \"very, very special player,\" emphasizing his exceptional talent and promising future. This praise signals high expectations for the rising star, hinting at his potential impact in the upcoming season and beyond."
-            },
-            "kn": {
-                "title": "ಐಪಿಎಲ್ 2026: ಸೂರ್ಯವಂಶಿಯನ್ನು 'ಅತ್ಯಂತ ವಿಶೇಷ ಆಟಗಾರ' ಎಂದು ರಥೋರ್ ಶ್ಲಾಘಿಸಿದ್ದಾರೆ",
-                "content": "ಗುಜರಾತ್ ಟೈಟಾನ್ಸ್ (GT) ಮತ್ತು ರಾಜಸ್ಥಾನ್ ರಾಯಲ್ಸ್ (RR) ನಡುವಿನ IPL 2026 ಪಂದ್ಯಕ್ಕೂ ಮುನ್ನ, ತರಬೇತುದಾರ ರಥೋರ್ ಯುವ ಸಂವೇದನೆ ಸೂರ್ಯವಂಶಿಯನ್ನು ಶ್ಲಾಘಿಸಿದ್ದಾರೆ. ರಥೋರ್ ಸೂರ್ಯವಂಶಿಯನ್ನು \"ಅತ್ಯಂತ, ಅತ್ಯಂತ ವಿಶೇಷ ಆಟಗಾರ\" ಎಂದು ಬಣ್ಣಿಸಿದ್ದು, ಅವರ ಅಸಾಧಾರಣ ಪ್ರತಿಭೆ ಮತ್ತು ಭರವಸೆಯ ಭವಿಷ್ಯವನ್ನು ಒತ್ತಿ ಹೇಳಿದ್ದಾರೆ. ಈ ಹೊಗಳಿಕೆಯು ಉದಯೋನ್ಮುಖ ತಾರೆಯ ಮೇಲೆ ಹೆಚ್ಚಿನ ನಿರೀಕ್ಷೆಗಳನ್ನು ಸೂಚಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "आयपीएल 2026 साठी रथोर यांनी सूर्यवंशीला 'अत्यंत विशेष खेळाडू' म्हटले",
-                "content": "गुजरात टायटन्स (GT) आणि राजस्थान रॉयल्स (RR) यांच्यातील IPL 2026 सामन्यापूर्वी, प्रशिक्षक रथोर यांनी युवा सनसनाटी सूर्यवंशीचे कौतुक केले आहे. रथोर यांनी सूर्यवंशीचे वर्णन \"अत्यंत, अत्यंत विशेष खेळाडू\" असे केले, त्यांच्या असाधारण प्रतिभेवर आणि उज्ज्वल भविष्यावर जोर दिला. हे कौतुक या उदयोन्मुख ताऱ्याकडून असलेल्या उच्च अपेक्षा दर्शवते."
-            },
-            "hi": {
-                "title": "आईपीएल 2026: राठौर ने सूर्यवंशी को 'बहुत खास खिलाड़ी' बताया",
-                "content": "गुजरात टाइटंस (GT) और राजस्थान रॉयल्स (RR) के बीच IPL 2026 मुकाबले से पहले, कोच राठौर ने युवा सनसनी सूर्यवंशी की तारीफ की है। राठौर ने सूर्यवंशी को \"एक बहुत, बहुत खास खिलाड़ी\" बताया, उनकी असाधारण प्रतिभा और उज्ज्वल भविष्य पर जोर दिया। यह प्रशंसा इस उभरते सितारे से उच्च उम्मीदों का संकेत देती है।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT2N2U3NUaWppWkxEWEpiV09xOWlfaU9aX3ZOS28tZkFYUU5VdW9qZXNhaUZvX3RuUUZURzU4REZRVE9pUXRRZEFrbXJ1QmE3QncwOUV3a2d5QzZicWYwQTladUhEUnNGUm1BSldOMk4tN1dON3V2Q29QWER0NVpYZlo5X0twLXloN1gyZFp3MDhaUndyZWQ5SkxiUHhXbVItdV8xOXJTMFd1ZG1YZWNLNTJXODlwTjdwaDJnUTYtUVlLeEFhajl6M9IBzwFBVV95cUxOc3hSTnBsTnR2ODZqa3h5U2ZKYUp6QUpxOW1Wei14Sjlkd2Yta0tkNWpLNGFORmZ2Y1RoNEZmRmY5TTlROXFPeTlMTG5keWFOaGxybFZicHFCZFFObF83TEttMVN5TmJDU25DTmdQSVRsLVZJbVYxWmEyNHNFYzlGdUNrNzBIUFNXQ0ZCdHNlY3NiNUx6RWktdlBKWFEtS3dCcFBmdFExRU1ON2xvRTkwNHk3SGNNRmZ6SHlBcnVYVk1SZFVYQXVodzlfNUJzU0U?oc=5",
-        "date": "Fri, 03 Apr 2026 17:20:47 GMT"
     }
 ]
