@@ -1,5 +1,55 @@
 [
     {
+        "id": "1e100033",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "Harry Potter TV Series BTS Special Revealed",
+                "content": "Get an exclusive glimpse behind the magic of the upcoming Harry Potter TV series! 'Finding Harry: The Craft Behind the Magic' offers a captivating look at the making of the highly anticipated show. Available now on HBO Max, this special is a must-watch for fans eager to explore the wizarding world's return to the screen."
+            },
+            "kn": {
+                "title": "ಹ್ಯಾರಿ ಪಾಟರ್ ಟಿವಿ ಸರಣಿಯ ತೆರೆಮರೆಯ ವಿಶೇಷ ಅನಾವರಣ",
+                "content": "ಮುಂಬರುವ ಹ್ಯಾರಿ ಪಾಟರ್ ಟಿವಿ ಸರಣಿಯ ಮಂತ್ರಗಳ ಹಿಂದಿನ ವಿಶೇಷ ನೋಟ ಪಡೆಯಿರಿ! 'ಫೈಂಡಿಂಗ್ ಹ್ಯಾರಿ: ದಿ ಕ್ರಾಫ್ಟ್ ಬಿಹೈಂಡ್ ದಿ ಮ್ಯಾಜಿಕ್' ಬಹುನಿರೀಕ್ಷಿತ ಕಾರ್ಯಕ್ರಮದ ನಿರ್ಮಾಣದ ಆಕರ್ಷಕ ನೋಟವನ್ನು ನೀಡುತ್ತದೆ. ಈಗ HBO Max ನಲ್ಲಿ ಲಭ್ಯವಿರುವ ಈ ವಿಶೇಷವು, ಮಾಂತ್ರಿಕ ಪ್ರಪಂಚದ ತೆರೆಯ ಮೇಲೆ ಮರಳುವುದನ್ನು ಅನ್ವೇಷಿಸಲು ಉತ್ಸುಕರಾಗಿರುವ ಅಭಿಮಾನಿಗಳಿಗೆ ನೋಡಲೇಬೇಕಾದ ಸಂಗತಿಯಾಗಿದೆ."
+            },
+            "mr": {
+                "title": "हॅरी पॉटर टीव्ही मालिकेचा बीटीएस स्पेशल अनावरण",
+                "content": "आगामी हॅरी पॉटर टीव्ही मालिकेच्या जादूमागची खास झलक मिळवा! 'फाइंडिंग हॅरी: द क्राफ्ट बिहाइंड द मॅजिक' या बहुप्रतिक्षित शोच्या निर्मितीची आकर्षक झलक दाखवते. आता HBO Max वर उपलब्ध असलेला हा विशेष कार्यक्रम, जादूच्या जगाचे पडद्यावर पुनरागमन पाहण्यास उत्सुक असलेल्या चाहत्यांसाठी नक्कीच पाहण्यासारखा आहे."
+            },
+            "hi": {
+                "title": "हैरी पॉटर टीवी सीरीज़ का बीटीएस स्पेशल जारी",
+                "content": "आगामी हैरी पॉटर टीवी सीरीज़ के जादू के पीछे की एक खास झलक पाएं! 'फाइंडिंग हैरी: द क्राफ्ट बिहाइंड द मैजिक' बेहद प्रतीक्षित शो के निर्माण की एक मनोरम झलक पेश करता है। अब HBO Max पर उपलब्ध, यह विशेष एपिसोड जादुई दुनिया की पर्दे पर वापसी का पता लगाने के इच्छुक प्रशंसकों के लिए अवश्य देखना चाहिए।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNSnF6SW9zOEx1RDg4d0ZnTzk1NmFKRzdJZzB4SDhRazdWY0tEWVYwZmx6ODQ0ZVBjTW9vSXhBY00xSmhxVmp0OWdwcEpqeE1ZZWE5TGhNbmY5RTU2UzhiNm5KOS1TbXhVWFRoUXhRY1NpUEJhQjgzZW1qTHpUN1ZEbzRrbzluUkh4cEtrTTF6UFBhbGN1eWVkeXM2Uld0M1BKUkFiRHdHZDB2cURyRWlXNVFIa08zdGgwUDVmVUhfcVVqR0FHS2ZZcWkySF9mSk1hLXdzTkhWeWtTeVZwMW5BOUFud0FmdTh4ZFVzY3l0d0dNLUR6VThjbFRXbkxaV3h6WnU40gGIAkFVX3lxTFBfUGU1aEVXQTRTanRKMHl5RjU5Q2NYTDdDa0JaRWlhZ2g3dTFBSkZ2RHZIMUlJNmxyUGY2NFlSZlR3X2t2blc3YUJDdzR4dXNScGZncHZ6QVU5Zlh3d2xBODRiQ1V6bnhWbDhqNTFVOFlReGpOS05xVHJiajVJd2E3OV80bmU3SmpfR3k0QS1BLU1WaVU3b0hadzdfS0tMQ0o0T0J5WWdGanF2SGxRRXVBVGVDTWdfamhNclFyVWdDLXpsVmFFTmpjaW90TnpiSU1MNHVkNk54ODZUMkxZMWpoTWY2MUxaR1F6NHJqdm1UWHJOQmVPRWU3aVF6R1Z6cW9ZZmZUbW9SRQ?oc=5",
+        "date": "Sun, 05 Apr 2026 01:40:14 GMT"
+    },
+    {
+        "id": "0ebfeb9a",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Iran Warns UN: Bushehr Strikes Risk Radioactive Contamination",
+                "content": "Iran's Foreign Minister alerted the UN to \"serious risk of radioactive contamination\" after US-Israeli strikes near the Bushehr nuclear power plant. One staff member died from a projectile near the facility, prompting IAEA concerns about escalating attacks on nuclear infrastructure and the potential for severe accidents. Iran emphasized the grave consequences of such actions."
+            },
+            "kn": {
+                "title": "ಇರಾನ್ ಯುಎನ್‌ಗೆ ಎಚ್ಚರಿಕೆ: ಬುಶೆರ್ ದಾಳಿಗಳಿಂದ ವಿಕಿರಣಶೀಲ ಮಾಲಿನ್ಯದ ಅಪಾಯ",
+                "content": "ಬುಶೆರ್ ಪರಮಾಣು ವಿದ್ಯುತ್ ಸ್ಥಾವರದ ಬಳಿ ನಡೆದ ಯುಎಸ್-ಇಸ್ರೇಲ್ ದಾಳಿಯ ನಂತರ ಇರಾನ್ ವಿದೇಶಾಂಗ ಸಚಿವರು ಯುಎನ್‌ಗೆ \"ವಿಕಿರಣಶೀಲ ಮಾಲಿನ್ಯದ ಗಂಭೀರ ಅಪಾಯ\" ಕುರಿತು ಎಚ್ಚರಿಕೆ ನೀಡಿದ್ದಾರೆ. ಸೌಲಭ್ಯದ ಬಳಿ ಕ್ಷಿಪಣಿ ಬಿದ್ದ ಕಾರಣ ಒಬ್ಬ ಸಿಬ್ಬಂದಿ ಸಾವನ್ನಪ್ಪಿದ್ದಾರೆ, ಇದು ಪರಮಾಣು ಮೂಲಸೌಕರ್ಯದ ಮೇಲಿನ ಹೆಚ್ಚುತ್ತಿರುವ ದಾಳಿಗಳು ಮತ್ತು ಗಂಭೀರ ಅಪಘಾತಗಳ ಸಂಭಾವ್ಯತೆಯ ಬಗ್ಗೆ IAEA ಕಳವಳಕ್ಕೆ ಕಾರಣವಾಗಿದೆ. ಇರಾನ್ ಇಂತಹ ಕ್ರಮಗಳ ಗಂಭೀರ ಪರಿಣಾಮಗಳನ್ನು ಒತ್ತಿಹೇಳಿದೆ."
+            },
+            "mr": {
+                "title": "इराणचा संयुक्त राष्ट्रांना इशारा: बुशेर हल्ल्यांमुळे किरणोत्सर्गी प्रदूषणाचा धोका",
+                "content": "बुशेर अणुऊर्जा प्रकल्पाजवळ झालेल्या अमेरिका-इस्त्रायली हल्ल्यांनंतर इराणच्या परराष्ट्रमंत्र्यांनी संयुक्त राष्ट्रांना 'किरणोत्सर्गी प्रदूषणाचा गंभीर धोका' असल्याचा इशारा दिला आहे. या सुविधेजवळ झालेल्या हल्ल्यात एका कर्मचाऱ्याचा मृत्यू झाला, ज्यामुळे अणुऊर्जा पायाभूत सुविधांवर वाढत्या हल्ल्यांबद्दल आणि गंभीर अपघातांच्या संभाव्यतेबद्दल IAEA ला चिंता वाटली. इराणने अशा कृतींच्या गंभीर परिणामांवर जोर दिला."
+            },
+            "hi": {
+                "title": "ईरान ने संयुक्त राष्ट्र को चेताया: बुशहर हमलों से रेडियोधर्मी प्रदूषण का खतरा",
+                "content": "बुशहर परमाणु ऊर्जा संयंत्र के पास अमेरिकी-इजरायली हमलों के बाद ईरान के विदेश मंत्री ने संयुक्त राष्ट्र को 'रेडियोधर्मी प्रदूषण के गंभीर जोखिम' के प्रति सचेत किया है। सुविधा के पास एक प्रक्षेप्य से एक कर्मचारी की मौत हो गई, जिससे परमाणु बुनियादी ढांचे पर बढ़ते हमलों और गंभीर दुर्घटनाओं की संभावना के बारे में IAEA की चिंता बढ़ गई। ईरान ने ऐसे कार्यों के गंभीर परिणामों पर जोर दिया।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130033719,imgsize-866880.cms",
+        "link": "https://timesofindia.indiatimes.com/world/middle-east/serious-risk-of-radioactive-contamination-iran-fm-writes-to-un-over-bushehr-nuclear-strikes/articleshow/130033576.cms",
+        "date": "2026-04-05T09:59:48+05:30"
+    },
+    {
         "id": "5b439127",
         "category": "IPL Scoop",
         "translations": {
@@ -1948,55 +1998,5 @@
         "image": "https://static.toiimg.com/photo/msid-129996161,imgsize-22970.cms",
         "link": "https://timesofindia.indiatimes.com/world/middle-east/watch-kuwait-refinery-on-fire-after-another-iranian-drone-attack-operations-under-threat/articleshow/129996095.cms",
         "date": "2026-04-03T12:35:02+05:30"
-    },
-    {
-        "id": "ca51b459",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "UAE to Brace for Rain, Dust, Strong Winds",
-                "content": "UAE residents, brace for a significant weather shift next week. The National Center of Meteorology (NCM) has issued an advisory predicting light rain, strong winds, and rough seas. Dust and sand will reduce visibility, impacting outdoor and marine activities. Authorities urge caution. Stay updated with NCM alerts as unsettled conditions approach."
-            },
-            "kn": {
-                "title": "ಯುಎಇಯಲ್ಲಿ ಮಳೆ, ಧೂಳು, ಬಿರುಗಾಳಿ ನಿರೀಕ್ಷೆ",
-                "content": "ಯುಎಇ ನಿವಾಸಿಗಳೇ, ಮುಂದಿನ ವಾರ ಗಣನೀಯ ಹವಾಮಾನ ಬದಲಾವಣೆಗೆ ಸಿದ್ಧರಾಗಿರಿ. ರಾಷ್ಟ್ರೀಯ ಹವಾಮಾನ ಕೇಂದ್ರ (NCM) ತಿಳಿಸುವುದೇನೆಂದರೆ, ಲಘು ಮಳೆ, ಬಿರುಗಾಳಿ ಮತ್ತು ಪ್ರಕ್ಷುಬ್ಧ ಸಮುದ್ರವನ್ನು ನಿರೀಕ್ಷಿಸಲಾಗಿದೆ. ಧೂಳು ಮತ್ತು ಮರಳು ದೃಷ್ಟಿಗೋಚರತೆಯನ್ನು ಕಡಿಮೆ ಮಾಡಿ, ಹೊರಾಂಗಣ ಮತ್ತು ಕಡಲ ಚಟುವಟಿಕೆಗಳ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರುತ್ತವೆ. ಅಧಿಕಾರಿಗಳು ಎಚ್ಚರಿಕೆ ವಹಿಸುವಂತೆ ಸೂಚಿಸಿದ್ದಾರೆ. ಹವಾಮಾನ ಅಸ್ಥಿರವಾಗುತ್ತಿದ್ದಂತೆ NCM ಎಚ್ಚರಿಕೆಗಳೊಂದಿಗೆ ನವೀಕರಿಸಿಕೊಳ್ಳಿ."
-            },
-            "mr": {
-                "title": "यूएईमध्ये पाऊस, धूळ आणि जोरदार वाऱ्यासाठी तयार राहा",
-                "content": "यूएईच्या रहिवाशांनो, पुढील आठवड्यात महत्त्वपूर्ण हवामान बदलासाठी तयार रहा. राष्ट्रीय हवामान केंद्राने (NCM) हलका पाऊस, जोरदार वारे आणि खवळलेल्या समुद्राचा अंदाज वर्तवला आहे. धूळ आणि वाळूमुळे दृश्यामानता कमी होईल, ज्यामुळे बाह्य आणि सागरी उपक्रमांवर परिणाम होईल. प्रशासनाने सावधगिरी बाळगण्याचे आवाहन केले आहे. हवामान अस्थिर होत असताना NCM च्या सूचनांसह अद्ययावत रहा."
-            },
-            "hi": {
-                "title": "यूएई में बारिश, धूल और तेज़ हवाओं के लिए तैयार रहें",
-                "content": "यूएई के निवासियों, अगले सप्ताह एक महत्वपूर्ण मौसम परिवर्तन के लिए तैयार रहें। राष्ट्रीय मौसम विज्ञान केंद्र (NCM) ने हल्की बारिश, तेज़ हवाओं और अशांत समुद्र का अनुमान लगाते हुए एक सलाह जारी की है। धूल और रेत से दृश्यता कम होगी, जिससे बाहरी और समुद्री गतिविधियों पर असर पड़ेगा। अधिकारियों ने सावधानी बरतने का आग्रह किया है। जैसे-जैसे मौसम अस्थिर हो, NCM की चेतावनियों से अपडेट रहें।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129995425,imgsize-100196.cms",
-        "link": "https://timesofindia.indiatimes.com/world/middle-east/uae-weather-alert-rain-dust-and-strong-winds-expected-next-week-as-ncm-issues-advisory/articleshow/129995235.cms",
-        "date": "2026-04-03T11:47:59+05:30"
-    },
-    {
-        "id": "73a02bc6",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "Artemis II Crew Soars to Moon, Marveling at Earth",
-                "content": "Artemis II astronauts are moon-bound on the Orion spacecraft after a critical engine burn, enjoying breathtaking views of Earth. The mission is progressing optimally, with all systems and crew functioning perfectly during this crucial test flight. They're \"glued to windows,\" witnessing Earth's splendor as humanity takes a significant step towards lunar exploration."
-            },
-            "kn": {
-                "title": "ಆರ್ಟೆಮಿಸ್ II ಸಿಬ್ಬಂದಿ ಚಂದ್ರನತ್ತ ಪಯಣ, ಭೂಮಿಯನ್ನು ನೋಡಿ ವಿಸ್ಮಯ",
-                "content": "ಆರ್ಟೆಮಿಸ್ II ಗಗನಯಾತ್ರಿಗಳು ನಿರ್ಣಾಯಕ ಎಂಜಿನ್ ದಹನದ ನಂತರ ಓರಿಯನ್ ಬಾಹ್ಯಾಕಾಶ ನೌಕೆಯಲ್ಲಿ ಚಂದ್ರನತ್ತ ಹೊರಟಿದ್ದಾರೆ, ಭೂಮಿಯ ಉಸಿರುಬಿಗಿದುಕೊಳ್ಳುವ ನೋಟಗಳನ್ನು ಆನಂದಿಸುತ್ತಿದ್ದಾರೆ. ಈ ಪ್ರಮುಖ ಪರೀಕ್ಷಾ ಹಾರಾಟದ ಸಮಯದಲ್ಲಿ ಎಲ್ಲಾ ವ್ಯವಸ್ಥೆಗಳು ಮತ್ತು ಸಿಬ್ಬಂದಿ ಉತ್ತಮವಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಿದ್ದು, ಮಿಷನ್ ಪ್ರಗತಿಯಲ್ಲಿದೆ. ಅವರು \"ಕಿಟಕಿಗಳಿಗೆ ಅಂಟಿಕೊಂಡಿದ್ದು,\" ಮಾನವಕುಲವು ಚಂದ್ರನ ಅನ್ವೇಷಣೆಯತ್ತ ಮಹತ್ವದ ಹೆಜ್ಜೆ ಇಡುತ್ತಿರುವಾಗ ಭೂಮಿಯ ವೈಭವವನ್ನು ವೀಕ್ಷಿಸುತ್ತಿದ್ದಾರೆ."
-            },
-            "mr": {
-                "title": "आर्टेमिस II क्रू चंद्राकडे झेप, पृथ्वीच्या दर्शनाने थक्क",
-                "content": "आर्टेमिस II अंतराळवीर ओरियन स्पेसक्राफ्टमधून चंद्राकडे निघाले आहेत, एका महत्त्वपूर्ण इंजिन बर्ननंतर पृथ्वीचे मनमोहक दृश्य अनुभवत आहेत. या महत्त्वाच्या चाचणी उड्डाणादरम्यान सर्व प्रणाली आणि क्रू उत्तम प्रकारे कार्य करत असून, मोहीम यशस्वीरित्या पुढे सरकत आहे. ते \"खिडक्यांना चिटकून\", मानवतेने चंद्र मोहिमेकडे एक महत्त्वाचे पाऊल टाकत असताना पृथ्वीचे सौंदर्य पाहत आहेत."
-            },
-            "hi": {
-                "title": "आर्टेमिस II क्रू चंद्रमा की ओर रवाना, पृथ्वी के नज़ारे से अभिभूत",
-                "content": "आर्टेमिस II के अंतरिक्ष यात्री एक महत्वपूर्ण इंजन बर्न के बाद ओरियन अंतरिक्ष यान में चंद्रमा की ओर निकल पड़े हैं, पृथ्वी के लुभावने दृश्यों का आनंद ले रहे हैं। इस महत्वपूर्ण परीक्षण उड़ान के दौरान सभी प्रणालियां और चालक दल बेहतरीन ढंग से काम कर रहे हैं और मिशन सुचारु रूप से आगे बढ़ रहा है। वे \"खिड़कियों से चिपके हुए,\" पृथ्वी की महिमा देख रहे हैं क्योंकि मानवता चंद्र अन्वेषण की दिशा में एक महत्वपूर्ण कदम उठा रही है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-129994652,imgsize-67750.cms",
-        "link": "https://timesofindia.indiatimes.com/science/glued-to-windows-how-artemis-ii-astronauts-spent-their-first-hours-on-orion-en-route-to-moon/articleshow/129994040.cms",
-        "date": "2026-04-03T11:46:45+05:30"
     }
 ]
