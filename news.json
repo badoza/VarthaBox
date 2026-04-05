@@ -1,5 +1,30 @@
 [
     {
+        "id": "0fc79767",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "CIC Reprimands IRCTC for Denying Rail Neer Scam RTI Info",
+                "content": "The CIC has criticized IRCTC for refusing to provide details on an RTI plea concerning the Rail Neer scam. This move emphasizes the importance of transparency and accountability in public sector undertakings. The commission ordered IRCTC to release the requested information, highlighting a significant win for public access to critical data."
+            },
+            "kn": {
+                "title": "ರೈಲ್ ನೀರ್ ಹಗರಣದ ಮಾಹಿತಿ ನಿರಾಕರಣೆಗೆ ಐಆರ್‌ಸಿಟಿಸಿಗೆ ಸಿಐಸಿ ತರಾಟೆ",
+                "content": "ರೈಲ್ ನೀರ್ ಹಗರಣದ ಬಗ್ಗೆ ಆರ್‌ಟಿಐ ಮನವಿಗೆ ಮಾಹಿತಿ ನಿರಾಕರಿಸಿದ್ದಕ್ಕಾಗಿ ಐಆರ್‌ಸಿಟಿಸಿಯನ್ನು ಸಿಐಸಿ ಟೀಕಿಸಿದೆ. ಸಾರ್ವಜನಿಕ ವಲಯದಲ್ಲಿ ಪಾರದರ್ಶಕತೆ ಮತ್ತು ಹೊಣೆಗಾರಿಕೆಯನ್ನು ಇದು ಒತ್ತಿಹೇಳುತ್ತದೆ. ಆಯೋಗವು ಐಆರ್‌ಸಿಟಿಸಿಗೆ ಮಾಹಿತಿ ಬಿಡುಗಡೆ ಮಾಡಲು ಆದೇಶಿಸಿದ್ದು, ಸಾರ್ವಜನಿಕರಿಗೆ ನಿರ್ಣಾಯಕ ಡೇಟಾ ಲಭ್ಯವಾಗುವಲ್ಲಿ ಇದು ಮಹತ್ವದ ಗೆಲುವು."
+            },
+            "mr": {
+                "title": "रेल्वे नीर घोटाळ्याच्या माहितीसाठी आरटीआय नकार दिल्याबद्दल आयआरसीटीसीला सीआयसीची फटकार",
+                "content": "रेल्वे नीर घोटाळ्यावर आरटीआयद्वारे माहिती नाकारल्याबद्दल सीआयसीने आयआरसीटीसीला फटकारले आहे. यामुळे सार्वजनिक क्षेत्रातील पारदर्शकता आणि जबाबदारीवर जोर दिला जातो. आयोगाने आयआरसीटीसीला मागितलेली माहिती जारी करण्याचे आदेश दिले, ज्यामुळे सार्वजनिक डेटा प्रवेशासाठी हा एक महत्त्वाचा विजय ठरला."
+            },
+            "hi": {
+                "title": "रेल नीर घोटाले की आरटीआई जानकारी से इनकार पर आईआरसीटीसी को सीआईसी की फटकार",
+                "content": "रेल नीर घोटाले पर आरटीआई जानकारी से इनकार करने के लिए सीआईसी ने आईआरसीटीसी की आलोचना की है। यह सार्वजनिक क्षेत्र में पारदर्शिता और जवाबदेही पर जोर देता है। आयोग ने आईआरसीटीसी को मांगी गई जानकारी जारी करने का आदेश दिया, जो महत्वपूर्ण डेटा तक सार्वजनिक पहुंच के लिए एक महत्वपूर्ण जीत है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130039148,imgsize-663236.cms",
+        "link": "https://timesofindia.indiatimes.com/india/rail-neer-scam-cic-pulls-up-irctc-for-refusing-information-on-rti-plea/articleshow/130039006.cms",
+        "date": "2026-04-05T17:48:56+05:30"
+    },
+    {
         "id": "cf266509",
         "category": "IPL Scoop",
         "translations": {
@@ -1973,30 +1998,5 @@
         "image": "https://static.toiimg.com/photo/msid-130008398,imgsize-284366.cms",
         "link": "https://timesofindia.indiatimes.com/india/met-forecasts-heavy-rains-in-kashmir-plains-snowfall-in-higher-reaches/articleshow/130007938.cms",
         "date": "2026-04-04T00:16:40+05:30"
-    },
-    {
-        "id": "7c73ec80",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Rare Disease Funding Drops Amid Unspent Funds",
-                "content": "Funding for rare disease treatment at Centres of Excellence has drastically fallen from Rs 82.87 crore to Rs 32.73 crore. Paradoxically, many institutions report unspent funds, highlighting severe issues with fund utilization and patient support. This critical situation persists despite limited new allocations, impacting access to vital care for rare disease patients across the nation."
-            },
-            "kn": {
-                "title": "ಅಪರೂಪದ ರೋಗಗಳ ನಿಧಿ ಬಳಕೆಯಾಗದೆ ಉಳಿದಿದೆ, ಅನುದಾನ ಕುಸಿತ",
-                "content": "ಅಪರೂಪದ ಕಾಯಿಲೆಗಳ ಚಿಕಿತ್ಸೆಗಾಗಿನ ನಿಧಿ ಉತ್ಕೃಷ್ಟತಾ ಕೇಂದ್ರಗಳಲ್ಲಿ 82.87 ಕೋಟಿ ರೂ.ಗಳಿಂದ 32.73 ಕೋಟಿ ರೂ.ಗಳಿಗೆ ತೀವ್ರವಾಗಿ ಕುಸಿದಿದೆ. ವಿಪರ್ಯಾಸವೆಂದರೆ, ಅನೇಕ ಸಂಸ್ಥೆಗಳು ಬಳಕೆಯಾಗದ ನಿಧಿಗಳನ್ನು ವರದಿ ಮಾಡಿವೆ, ಇದು ನಿಧಿ ಬಳಕೆ ಮತ್ತು ರೋಗಿಗಳ ಬೆಂಬಲದಲ್ಲಿನ ಗಂಭೀರ ಸಮಸ್ಯೆಗಳನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ಸೀಮಿತ ಹೊಸ ಹಂಚಿಕೆಗಳ ಹೊರತಾಗಿಯೂ ಈ ನಿರ್ಣಾಯಕ ಪರಿಸ್ಥಿತಿ ಮುಂದುವರಿದಿದ್ದು, ದೇಶಾದ್ಯಂತ ಅಪರೂಪದ ಕಾಯಿಲೆಯ ರೋಗಿಗಳಿಗೆ ಅಗತ್ಯ ಆರೈಕೆಯನ್ನು ತಡೆಯುತ್ತಿದೆ."
-            },
-            "mr": {
-                "title": "दुर्मिळ रोगांच्या निधीत घट, अनेक ठिकाणी निधी पडून",
-                "content": "उत्कृष्टता केंद्रांमध्ये दुर्मिळ रोगांच्या उपचारांसाठीचा निधी ८२.८७ कोटी रुपयांवरून ३२.७३ कोटी रुपयांपर्यंत मोठ्या प्रमाणात घटला आहे. विरोधाभास असा की, अनेक संस्थांनी न वापरलेल्या निधीची नोंद केली आहे, ज्यामुळे निधीचा वापर आणि रुग्णांच्या मदतीमध्ये गंभीर समस्या दिसून येतात. नवीन निधी वाटप मर्यादित असूनही, ही गंभीर परिस्थिती देशभरातील दुर्मिळ रोग्यांसाठी आवश्यक आरोग्य सेवांवर परिणाम करत आहे."
-            },
-            "hi": {
-                "title": "दुर्लभ रोगों के लिए धन में कमी, अप्रयुक्त निधि जमा",
-                "content": "उत्कृष्टता केंद्रों में दुर्लभ रोगों के उपचार के लिए फंडिंग ८२.८७ करोड़ रुपये से घटकर ३२.७३ करोड़ रुपये हो गई है। विडंबना यह है कि कई संस्थानों ने अप्रयुक्त निधियों की सूचना दी है, जो धन के उपयोग और रोगी सहायता में गंभीर समस्याओं को उजागर करता है। सीमित नए आवंटन के बावजूद यह गंभीर स्थिति बनी हुई है, जिससे देश भर में दुर्लभ रोग से पीड़ित रोगियों के लिए महत्वपूर्ण देखभाल प्रभावित हो रही है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-130004658,imgsize-476256.cms",
-        "link": "https://timesofindia.indiatimes.com/india/rare-disease-funds-drop-unspent-money-piles-up-at-key-centres/articleshow/130004632.cms",
-        "date": "2026-04-03T21:18:40+05:30"
     }
 ]
