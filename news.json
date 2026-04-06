@@ -1,5 +1,30 @@
 [
     {
+        "id": "c820ff03",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Hope Blooms: Young Cancer Fighters Visit Tulip Garden",
+                "content": "Young cancer patients from SKIMS found joy and hope during a visit to Srinagar's Tulip Garden. Part of an immunotherapy initiative, the outing aimed to boost their immunity and optimism, offering a vital break from hospital wards. This heartwarming experience provided much-needed reassurance to the children and their families, fostering well-being amidst their challenging fight."
+            },
+            "kn": {
+                "title": "ಆಶಯ ಅರಳಿತು: ಯುವ ಕ್ಯಾನ್ಸರ್ ಹೋರಾಟಗಾರರಿಂದ ಟುಲಿಪ್ ಗಾರ್ಡನ್ ಭೇಟಿ",
+                "content": "SKIMS ನ ಯುವ ಕ್ಯಾನ್ಸರ್ ರೋಗಿಗಳು ಶ್ರೀನಗರದ ಟುಲಿಪ್ ಗಾರ್ಡನ್‌ಗೆ ಭೇಟಿ ನೀಡಿದಾಗ ಸಂತೋಷ ಮತ್ತು ಭರವಸೆಯನ್ನು ಕಂಡುಕೊಂಡರು. ಇಮ್ಯುನೊಥೆರಪಿ ಉಪಕ್ರಮದ ಭಾಗವಾಗಿ, ಈ ವಿಹಾರವು ಅವರ ರೋಗನಿರೋಧಕ ಶಕ್ತಿ ಮತ್ತು ಆಶಾವಾದವನ್ನು ಹೆಚ್ಚಿಸುವ ಗುರಿಯನ್ನು ಹೊಂದಿತ್ತು, ಆಸ್ಪತ್ರೆಯ ವಾರ್ಡ್‌ಗಳಿಂದ ಪ್ರಮುಖ ವಿರಾಮವನ್ನು ನೀಡಿತು. ಈ ಹೃದಯಸ್ಪರ್ಶಿ ಅನುಭವವು ಮಕ್ಕಳು ಮತ್ತು ಅವರ ಕುಟುಂಬಗಳಿಗೆ ಹೆಚ್ಚು ಅಗತ್ಯವಿರುವ ಭರವಸೆಯನ್ನು ಒದಗಿಸಿತು, ಅವರ ಸವಾಲಿನ ಹೋರಾಟದ ನಡುವೆ ಯೋಗಕ್ಷೇಮವನ್ನು ಪೋಷಿಸಿತು."
+            },
+            "mr": {
+                "title": "आशा फुलली: युवा कर्करोगग्रस्त मुलांनी ट्युलिप गार्डनला भेट दिली",
+                "content": "SKIMS मधील तरुण कर्करोगग्रस्तांना श्रीनगरमधील ट्युलिप गार्डनला भेट दिल्यावर आनंद आणि आशा मिळाली. इम्युनोथेरपी उपक्रमाचा भाग म्हणून, या सहलीचा उद्देश त्यांची रोगप्रतिकारशक्ती आणि आशावाद वाढवणे हा होता, ज्यामुळे त्यांना रुग्णालयाच्या वॉर्डमधून महत्त्वाचा ब्रेक मिळाला. या हृदयस्पर्शी अनुभवाने मुलांना आणि त्यांच्या कुटुंबांना आवश्यक असलेला दिलासा दिला, त्यांच्या आव्हानात्मक संघर्षात कल्याण वाढवले."
+            },
+            "hi": {
+                "title": "उम्मीदें खिलीं: युवा कैंसर योद्धाओं ने ट्यूलिप गार्डन का किया दौरा",
+                "content": "SKIMS के युवा कैंसर रोगियों को श्रीनगर के ट्यूलिप गार्डन की यात्रा के दौरान खुशी और उम्मीद मिली. इम्युनोथेरेपी पहल के हिस्से के रूप में, इस सैर का उद्देश्य उनकी रोग प्रतिरोधक क्षमता और आशावाद को बढ़ावा देना था, जिससे उन्हें अस्पताल के वार्डों से एक महत्वपूर्ण ब्रेक मिला. इस दिल छू लेने वाले अनुभव ने बच्चों और उनके परिवारों को बहुत आवश्यक आश्वासन प्रदान किया, जिससे उनके चुनौतीपूर्ण संघर्ष के बीच कल्याण को बढ़ावा मिला."
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130070796,imgsize-1889817.cms",
+        "link": "https://timesofindia.indiatimes.com/india/wards-to-flowers-tulip-garden-trip-for-young-cancer-fighters/articleshow/130070808.cms",
+        "date": "2026-04-07T01:55:44+05:30"
+    },
+    {
         "id": "ff58ccf4",
         "category": "IPL Scoop",
         "translations": {
@@ -1973,30 +1998,5 @@
         "image": "https://static.toiimg.com/photo/msid-130034811,imgsize-220634.cms",
         "link": "https://timesofindia.indiatimes.com/science/the-best-camera-to-ever-exist-artemis-ii-crew-to-study-the-moons-surface-mainly-with-their-eyes/articleshow/130034832.cms",
         "date": "2026-04-05T12:13:15+05:30"
-    },
-    {
-        "id": "ce707995",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "World's Unhappiest Countries for 2026 Identified",
-                "content": "A recent report highlights the world's unhappiest countries for 2026. Afghanistan ranks as the least happy nation, with Zimbabwe and Lebanon also featuring prominently among those with the lowest happiness scores. Persistent conflict, severe economic challenges, and political instability are cited as key factors driving the widespread unhappiness in these regions, underscoring critical global humanitarian concerns."
-            },
-            "kn": {
-                "title": "2026 ಕ್ಕೆ ವಿಶ್ವದ ಅತ್ಯಂತ ದುಃಖಿತ ದೇಶಗಳು ಗುರುತಿಸಲ್ಪಟ್ಟಿವೆ",
-                "content": "ಇತ್ತೀಚಿನ ವರದಿಯು 2026 ಕ್ಕೆ ವಿಶ್ವದ ಅತ್ಯಂತ ದುಃಖಿತ ದೇಶಗಳನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ಅಫ್ಘಾನಿಸ್ತಾನವು ಕನಿಷ್ಠ ಸಂತೋಷದ ರಾಷ್ಟ್ರವಾಗಿ ಸ್ಥಾನ ಪಡೆದಿದೆ, ಜೊತೆಗೆ ಜಿಂಬಾಬ್ವೆ ಮತ್ತು ಲೆಬನಾನ್ ಕೂಡ ಕಡಿಮೆ ಸಂತೋಷದ ಅಂಕಗಳನ್ನು ಹೊಂದಿರುವ ದೇಶಗಳಲ್ಲಿ ಪ್ರಮುಖವಾಗಿವೆ. ನಿರಂತರ ಸಂಘರ್ಷ, ತೀವ್ರ ಆರ್ಥಿಕ ಸವಾಲುಗಳು ಮತ್ತು ರಾಜಕೀಯ ಅಸ್ಥಿರತೆಯು ಈ ಪ್ರದೇಶಗಳಲ್ಲಿ ವ್ಯಾಪಕ ಅಸಂತೋಷಕ್ಕೆ ಪ್ರಮುಖ ಕಾರಣಗಳಾಗಿವೆ, ಇದು ಜಾಗತಿಕ ಮಾನವೀಯ ಕಾಳಜಿಗಳನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "२०२६ साठी जगातील सर्वात दुःखी देश निश्चित",
-                "content": "अलीकडील अहवालात २०२६ साठी जगातील सर्वात दुःखी देशांवर प्रकाश टाकण्यात आला आहे. अफगाणिस्तान सर्वात कमी आनंदी राष्ट्र म्हणून गणले जाते, तर झिम्बाब्वे आणि लेबनॉन देखील सर्वात कमी आनंदाचे गुण असलेल्या देशांमध्ये प्रमुख आहेत. सततचा संघर्ष, गंभीर आर्थिक आव्हाने आणि राजकीय अस्थिरता ही या प्रदेशांमध्ये मोठ्या प्रमाणावर असलेल्या दुःखाची प्रमुख कारणे आहेत, ज्यामुळे जागतिक मानवी चिंतांना अधोरेखित केले जाते."
-            },
-            "hi": {
-                "title": "2026 के लिए दुनिया के सबसे दुखी देश चिह्नित",
-                "content": "एक हालिया रिपोर्ट में 2026 के लिए दुनिया के सबसे दुखी देशों पर प्रकाश डाला गया है। अफगानिस्तान सबसे कम खुशहाल राष्ट्र के रूप में शुमार है, जिसमें ज़िम्बाब्वे और लेबनान भी सबसे कम खुशी के स्कोर वाले देशों में प्रमुखता से शामिल हैं। लगातार संघर्ष, गंभीर आर्थिक चुनौतियाँ और राजनीतिक अस्थिरता इन क्षेत्रों में व्यापक दुख का कारण बनने वाले प्रमुख कारक बताए गए हैं, जो वैश्विक मानवीय चिंताओं को रेखांकित करते हैं।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-130034542,imgsize-31850.cms",
-        "link": "https://timesofindia.indiatimes.com/world/rest-of-world/worlds-unhappiest-countries-in-2026-afghanistan-zimbabwe-and-lebanon-among-least-happy-nations/articleshow/130034336.cms",
-        "date": "2026-04-05T11:43:04+05:30"
     }
 ]
