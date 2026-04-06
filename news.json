@@ -1,5 +1,30 @@
 [
     {
+        "id": "a04e9f39",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "IRGC's Deadly Barrage: Missiles Strike Israel, Forces US Naval Retreat",
+                "content": "Under Mojtaba's command, Iran's IRGC displayed unprecedented lethality, with missile strikes pounding Israel. The attacks even forced the US warship LHA7 to retreat. This escalation underscores the IRGC's growing capability and willingness to engage, marking a dangerous shift in regional dynamics and posing a significant challenge."
+            },
+            "kn": {
+                "title": "IRGC ಯ ಮಾರಣಾಂತಿಕ ದಾಳಿ: ಕ್ಷಿಪಣಿಗಳು ಇಸ್ರೇಲ್ ಮೇಲೆ ಅಪ್ಪಳಿಸಿ, ಯುಎಸ್ ನೌಕಾಪಡೆಯನ್ನು ಹಿಂದಕ್ಕೆ ಸರಿಸಿದವು",
+                "content": "ಮೊಜ್ತಬಾ ನೇತೃತ್ವದಲ್ಲಿ, ಇರಾನ್‌ನ ಐಆರ್‌ಜಿಸಿ ಅಭೂತಪೂರ್ವ ಮಾರಕ ಸಾಮರ್ಥ್ಯ ಪ್ರದರ್ಶಿಸಿತು, ಇಸ್ರೇಲ್ ಮೇಲೆ ಕ್ಷಿಪಣಿ ದಾಳಿಗಳು ನಡೆಸಿತು. ಈ ದಾಳಿಗಳು ಯುಎಸ್ ಯುದ್ಧನೌಕೆ ಎಲ್‌ಹೆಚ್‌ಎ7 ಅನ್ನು ಸಹ ಹಿಂದಕ್ಕೆ ಸರಿಯುವಂತೆ ಮಾಡಿದವು. ಈ ಉಲ್ಬಣವು ಐಆರ್‌ಜಿಸಿ ಯ ಹೆಚ್ಚುತ್ತಿರುವ ಸಾಮರ್ಥ್ಯ ಮತ್ತು ತೊಡಗಿಸಿಕೊಳ್ಳುವ ಇಚ್ಛೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ, ಇದು ಪ್ರಾದೇಶಿಕ ಡೈನಾಮಿಕ್ಸ್‌ನಲ್ಲಿ ಅಪಾಯಕಾರಿ ಬದಲಾವಣೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ ಮತ್ತು ಮಹತ್ವದ ಸವಾಲನ್ನು ಒಡ್ಡುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "IRGC चा प्राणघातक हल्ला: क्षेपणास्त्रांनी इस्रायलवर प्रहार केला, यूएस नौदलाला माघार घेण्यास भाग पाडले",
+                "content": "मोजतबाच्या नेतृत्वाखाली, इराणच्या IRGC ने अभूतपूर्व प्राणघातकता दर्शविली, ज्यामध्ये इस्रायलवर क्षेपणास्त्र हल्ले झाले. या हल्ल्यांमुळे अमेरिकेच्या LHA7 युद्धनौकेलाही माघार घ्यावी लागली. ही वाढ IRGC ची वाढती क्षमता आणि सहभाग घेण्याची तयारी अधोरेखित करते, ज्यामुळे प्रादेशिक गतिशीलतेत धोकादायक बदल होत आहे आणि एक मोठे आव्हान निर्माण झाले आहे."
+            },
+            "hi": {
+                "title": "IRGC की घातक बमबारी: मिसाइलों ने इजरायल पर हमला किया, अमेरिकी नौसेना को पीछे हटने पर मजबूर किया",
+                "content": "मोजतबा के नेतृत्व में, ईरान के IRGC ने अभूतपूर्व घातक क्षमता का प्रदर्शन किया, जिसमें इजरायल पर मिसाइल हमले हुए. इन हमलों ने अमेरिकी युद्धपोत LHA7 को भी पीछे हटने पर मजबूर कर दिया. यह वृद्धि IRGC की बढ़ती क्षमता और संलग्न होने की इच्छा को रेखांकित करती है, जो क्षेत्रीय गतिशीलता में एक खतरनाक बदलाव और एक महत्वपूर्ण चुनौती पेश करती है."
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUHlhUjlsaURoMURBS01fY25MdG1Ja04ydDBQSWNEWHNjZENVUHJiNUNDQ3ZKSHhUcnlUc1d3ODgyZEU2Q0I5bHI3am1xbGN5Ty1wMXUwNlVSdkRpVlZhLXRhQ0xLRkpvdU5CTUtEREtfR1BCZkg2UkpUb0FoMVdXNm1BZHhQNU9xWkVHS0tsVWxXRXBlbkZ0SHhtVFdfZHZGQWJLTHp2TDhQMC1xTklHTTlJaXE3Wjl0Q1diOTVfZm5sMEhMUlNTaWFnTTIzX0h5RDktMzhtUGVjMVBmTHJjSzlTMkdqdnVYNzFF0gHwAUFVX3lxTE9TTEY2a0xQSm13azd3bmdJSmZuUW90Z2Zsc2lwcTFxZ3gyQkM2V3VRckRZM1QtelZxaDZxcVp0LWl5ZjVmNHo5eWxjTXdCTE5aNm5QVkNfdnlicm1qbkFzeV9sZGdKSk9zQUwtbE9GU0x0UDhLOU1ELXEwYXJtZlEyMFBaOGRNRnRDVk1wX1FJaXZwMVNuUXpuMVFpNUVnSm9RYTB6aXhhMmJvN2RVVFdxVHVFbHVGMXBlZ2pDZmY3V0ZBTC1QQTlEak50THlzVXlNRmF2WFgxWXp3eEFBQkE4WVJkX3FhWF9rTmtsMTNHZg?oc=5",
+        "date": "Mon, 06 Apr 2026 20:20:34 GMT"
+    },
+    {
         "id": "debc4c01",
         "category": "IPL Scoop",
         "translations": {
@@ -1973,30 +1998,5 @@
         "image": "https://static.toiimg.com/photo/msid-130033366,imgsize-432793.cms",
         "link": "https://timesofindia.indiatimes.com/india/air-india-ahmedabad-plane-crash-grieving-families-write-to-pm-modi-demand-release-of-black-box-data/articleshow/130033301.cms",
         "date": "2026-04-05T09:12:33+05:30"
-    },
-    {
-        "id": "7873f955",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Panel Pushes for Detailed Disability Data in Next Census",
-                "content": "A parliamentary panel has urged the government to ensure Census 2027 accurately enumerates all 21 disability categories. This significant upgrade from the 2011 census aims to create a robust database for improved policy formulation and targeted welfare schemes for persons with disabilities. Such comprehensive data will be crucial for effective support, moving beyond current UDID card figures."
-            },
-            "kn": {
-                "title": "ಮುಂದಿನ ಜನಗಣತಿಯಲ್ಲಿ ಸಮಗ್ರ ವಿಕಲಾಂಗತೆ ದತ್ತಾಂಶಕ್ಕೆ ಸಮಿತಿ ಆಗ್ರಹ",
-                "content": "ಸಂಸದೀಯ ಸಮಿತಿಯು 2027ರ ಜನಗಣತಿಯಲ್ಲಿ ಎಲ್ಲಾ 21 ವಿಕಲಾಂಗತೆ ವರ್ಗಗಳನ್ನು ನಿಖರವಾಗಿ ಎಣಿಕೆ ಮಾಡುವಂತೆ ಸರ್ಕಾರಕ್ಕೆ ಆಗ್ರಹಿಸಿದೆ. 2011ರ ಜನಗಣತಿಯಿಂದ ಇದು ಮಹತ್ವದ ಸುಧಾರಣೆಯಾಗಿದೆ, ಇದು ಅಂಗವಿಕಲ ವ್ಯಕ್ತಿಗಳಿಗೆ ಉತ್ತಮ ನೀತಿ ನಿರೂಪಣೆ ಮತ್ತು ಉದ್ದೇಶಿತ ಕಲ್ಯಾಣ ಯೋಜನೆಗಳಿಗಾಗಿ ಬಲವಾದ ದತ್ತಾಂಶವನ್ನು ರಚಿಸುವ ಗುರಿ ಹೊಂದಿದೆ. ಇಂತಹ ಸಮಗ್ರ ದತ್ತಾಂಶವು ಪರಿಣಾಮಕಾರಿ ಬೆಂಬಲಕ್ಕೆ ನಿರ್ಣಾಯಕವಾಗಿದ್ದು, ಪ್ರಸ್ತುತ UDID ಕಾರ್ಡ್ ಅಂಕಿಅಂಶಗಳನ್ನು ಮೀರಿ ಹೋಗುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "पुढील जनगणनेत अपंगत्वाच्या सविस्तर आकडेवारीसाठी समितीचा आग्रह",
-                "content": "संसदीय समितीने सरकारला 2027 च्या जनगणनेत सर्व 21 दिव्यांग श्रेणींची अचूक गणना सुनिश्चित करण्याचे आवाहन केले आहे. 2011 च्या जनगणनेपेक्षा ही एक महत्त्वपूर्ण सुधारणा आहे, ज्याचा उद्देश दिव्यांगांसाठी अधिक चांगल्या धोरणांची आखणी आणि लक्ष्यित कल्याणकारी योजनांसाठी मजबूत डेटाबेस तयार करणे हा आहे. असा व्यापक डेटा प्रभावी समर्थनासाठी महत्त्वाचा ठरेल, जो सध्याच्या UDID कार्डच्या आकडेवारीच्या पलीकडे जाईल."
-            },
-            "hi": {
-                "title": "अगली जनगणना में विस्तृत दिव्यांगता डेटा के लिए पैनल का दबाव",
-                "content": "एक संसदीय पैनल ने सरकार से यह सुनिश्चित करने का आग्रह किया है कि जनगणना 2027 में सभी 21 दिव्यांगता श्रेणियों की सटीक गणना की जाए। 2011 की जनगणना से यह एक महत्वपूर्ण उन्नयन है, जिसका उद्देश्य दिव्यांग व्यक्तियों के लिए बेहतर नीति निर्माण और लक्षित कल्याणकारी योजनाओं हेतु एक मजबूत डेटाबेस बनाना है। ऐसा व्यापक डेटा प्रभावी समर्थन के लिए महत्वपूर्ण होगा, जो मौजूदा UDID कार्ड के आंकड़ों से आगे बढ़ेगा।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-130031053,imgsize-1664189.cms",
-        "link": "https://timesofindia.indiatimes.com/india/parliament-panel-seeks-accurate-enumeration-of-all-disabilities-in-census/articleshow/130031054.cms",
-        "date": "2026-04-05T06:10:24+05:30"
     }
 ]
