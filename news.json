@@ -1,5 +1,30 @@
 [
     {
+        "id": "b1f5ab29",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "Umpire Fatally Stabbed Over Run-Out Call in Cricket Match",
+                "content": "A cricket match in Andhra Pradesh tragically escalated into fatal violence when an umpire was reportedly stabbed to death following a disputed run-out call. This horrifying incident, reported by Outlook India, underscores the extreme tensions sometimes present in amateur sports. The game turned into a deadly confrontation over a disagreement, prompting serious concerns about safety and sportsmanship."
+            },
+            "kn": {
+                "title": "ಕ್ರಿಕೆಟ್ ಪಂದ್ಯದಲ್ಲಿ ರನ್-ಔಟ್ ನಿರ್ಧಾರಕ್ಕಾಗಿ ಅಂಪೈರ್‌ನನ್ನು ಇರಿದು ಕೊಲೆ",
+                "content": "ಆಂಧ್ರಪ್ರದೇಶದಲ್ಲಿ ನಡೆದ ಕ್ರಿಕೆಟ್ ಪಂದ್ಯವೊಂದು ರನ್-ಔಟ್ ನಿರ್ಧಾರದ ವಿವಾದದ ನಂತರ ಅಂಪೈರ್‌ನನ್ನು ಇರಿದು ಕೊಲೆ ಮಾಡಿದ ಘಟನೆಗೆ ಕಾರಣವಾಗಿ, ದುರಂತವಾಗಿ ಹಿಂಸಾಚಾರಕ್ಕೆ ತಿರುಗಿದೆ. ಔಟ್‌ಲುಕ್ ಇಂಡಿಯಾ ವರದಿ ಮಾಡಿದ ಈ ಭಯಾನಕ ಘಟನೆ, ಹವ್ಯಾಸಿ ಕ್ರೀಡೆಗಳಲ್ಲಿ ಕೆಲವೊಮ್ಮೆ ಇರುವ ತೀವ್ರ ಉದ್ವಿಗ್ನತೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ಒಂದು ಭಿನ್ನಾಭಿಪ್ರಾಯಕ್ಕಾಗಿ ಆಟವು ಮಾರಣಾಂತಿಕ ಸಂಘರ್ಷವಾಗಿ ಮಾರ್ಪಟ್ಟಿದೆ, ಇದು ಸುರಕ್ಷತೆ ಮತ್ತು ಕ್ರೀಡಾ ಮನೋಭಾವದ ಬಗ್ಗೆ ಗಂಭೀರ ಕಳವಳಗಳನ್ನು ಹುಟ್ಟುಹಾಕಿದೆ."
+            },
+            "mr": {
+                "title": "क्रिकेट सामन्यात रन-आउटच्या निर्णयावरून पंचाची चाकूने भोसकून हत्या",
+                "content": "आंध्र प्रदेशातील एका क्रिकेट सामन्यात रन-आउटच्या वादग्रस्त निर्णयावरून एका पंचाला चाकूने भोसकून ठार केल्याने हा सामना दुर्दैवाने जीवघेण्या हिंसाचारात बदलला. आउटलुक इंडियाने दिलेल्या या धक्कादायक घटनेमुळे हौशी खेळांमधील टोकाचा तणाव अधोरेखित होतो. एका मतभेदावरून खेळ जीवघेणा संघर्ष बनला, ज्यामुळे सुरक्षितता आणि खिलाडूवृत्तीबद्दल गंभीर चिंता निर्माण झाली आहे."
+            },
+            "hi": {
+                "title": "क्रिकेट मैच में रन-आउट के फैसले पर अंपायर की चाकू मारकर हत्या",
+                "content": "आंध्र प्रदेश में एक क्रिकेट मैच दुखद रूप से हिंसक हो गया, जब एक विवादित रन-आउट के फैसले के बाद कथित तौर पर एक अंपायर की चाकू मारकर हत्या कर दी गई। आउटलुक इंडिया द्वारा रिपोर्ट की गई यह भयानक घटना, शौकिया खेलों में कभी-कभी मौजूद अत्यधिक तनाव को रेखांकित करती है। एक असहमति के कारण खेल एक घातक टकराव में बदल गया, जिससे सुरक्षा और खेल भावना के बारे में गंभीर चिंताएँ बढ़ गई हैं।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbzE0cVBaTElnN25pWHcyWjhMVzBFUGRIUFNiR2pNTEx6VTRDcUVnak1ldDB3bjJIWldwczFVUU4xM2dPZEk3UUUyaHc4TkVYYVYzS0lFN3BBQ1Z1emlfMVNBam40T1N0bjFsNFIwZVFWMWlueDgtek5WRHZaOHlrUFRLSTRxVzN5dVBxZEdOcjFfU0xmZ3ZkMXp5SnA2bEwxQmp0aDhWWjhZVi1nYlktTmpLbHdqd9IBwwFBVV95cUxNaUpoZ25Cd29SM2FaWm9hOEVzdjRwNl8zUkozdnVxc1lfNVUwVTlHWUtvTHdvYmNxV3hncXhFdnNMYWx4Q1h6bnlORlpKU0pOZ290eE9GYU1zNHNtbkJQWWVOSjNrV21kckF4dlRQN1RtWGQtN2FtOGVHekFaZ1BxTlpwOUpyOEpKQXMwY0tjTG5pQVhQVjMwUlY3bXpwb3hiekt3M01QVERiWlUwbEVuVEYxdm9od2dfOFVORHhlUlU1eEE?oc=5",
+        "date": "Mon, 06 Apr 2026 10:28:42 GMT"
+    },
+    {
         "id": "204e59c0",
         "category": "IPL Scoop",
         "translations": {
@@ -1973,30 +1998,5 @@
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSHlzTXBRdUswLVZDR2RwM19XRDlyRW5zcVhzd3dqQlpJZVhVWHg4RjJBX3BGV0k2X2F3YUxnQTFQbkt6WnJzcGpzZjZqOTZNMWRvVU53c25iY1N2aFB2VWVQSkxONU1DN0Vab29MYl9RMkw2dXowekhqZksySkxCMjFrU2NJTE9CVDVtdUZVQS1YZVluRjdmWmJudFfSAaIBQVVfeXFMTXdiUkFWb3RoXzJLbnpHazItd1dPQ0Z6a3IxUHVBemVhWHBKSVF2SXJSNzhlYU5OZ2E3WWFDV01kbVZELXNLYXNPN0c1T0xBV3dtT2QwU2JUNkpyYlNzMUJNWElkYWdDY2I2WS1yX1AtNXBIOGFldGpKSE9VSHJORXJhTm8zYVliVFFWZU9SdDJWRGxncklvOUg3TWZybk5rZi1B?oc=5",
         "date": "Sun, 05 Apr 2026 01:30:52 GMT"
-    },
-    {
-        "id": "857fae01",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Kohli's IPL 2026 Pay: ₹1 Crore Per Match!",
-                "content": "Virat Kohli's anticipated IPL 2026 salary is set to shatter records, reportedly exceeding ₹1 crore per match. This staggering figure highlights his unparalleled market value and pivotal role in franchise cricket. It underscores the soaring financial stakes in the league and Kohli's enduring status as a cricketing icon, commanding an astronomical price tag for his services and immense fan appeal."
-            },
-            "kn": {
-                "title": "ಕೊಹ್ಲಿಯ IPL 2026 ವೇತನ: ಪ್ರತಿ ಪಂದ್ಯಕ್ಕೆ ₹1 ಕೋಟಿ!",
-                "content": "ವಿರಾಟ್ ಕೊಹ್ಲಿಯವರ ನಿರೀಕ್ಷಿತ IPL 2026 ವೇತನವು ಪ್ರತಿ ಪಂದ್ಯಕ್ಕೆ ₹1 ಕೋಟಿಗಿಂತ ಹೆಚ್ಚಾಗಿ ದಾಖಲೆಗಳನ್ನು ಮುರಿಯಲು ಸಿದ್ಧವಾಗಿದೆ. ಈ ಅದ್ಭುತ ಅಂಕಿಅಂಶವು ಅವರ ಅಪ್ರತಿಮ ಮಾರುಕಟ್ಟೆ ಮೌಲ್ಯ ಮತ್ತು ಫ್ರಾಂಚೈಸಿ ಕ್ರಿಕೆಟ್‌ನಲ್ಲಿ ಅವರ ಪ್ರಮುಖ ಪಾತ್ರವನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ಇದು ಲೀಗ್‌ನಲ್ಲಿ ಹೆಚ್ಚುತ್ತಿರುವ ಆರ್ಥಿಕ ಹೂಡಿಕೆಗಳು ಮತ್ತು ಕ್ರಿಕೆಟ್ ಐಕಾನ್ ಆಗಿ ಕೊಹ್ಲಿಯವರ ಶಾಶ್ವತ ಸ್ಥಾನವನ್ನು, ಅವರ ಸೇವೆಗಳು ಮತ್ತು ಅಪಾರ ಅಭಿಮಾನಿ ಮೆಚ್ಚುಗೆಗಾಗಿ ಖಗೋಳೀಯ ಬೆಲೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "कोहलीचा IPL 2026 पगार: प्रति सामना ₹1 कोटी!",
-                "content": "विराट कोहलीचा अपेक्षित IPL 2026 पगार प्रति सामन्याला ₹1 कोटींहून अधिक होऊन विक्रम मोडणार आहे. ही जबरदस्त रक्कम त्याची अतुलनीय बाजारातील किंमत आणि फ्रँचायझी क्रिकेटमधील त्याची महत्त्वाची भूमिका अधोरेखित करते. हे लीगमध्ये वाढलेले आर्थिक डाव आणि क्रिकेट आयकॉन म्हणून कोहलीचे चिरस्थायी स्थान दर्शवते, जे त्याच्या सेवा आणि प्रचंड चाहत्यांच्या आकर्षणासाठी खगोलशास्त्रीय किंमत दर्शवते."
-            },
-            "hi": {
-                "title": "कोहली की IPL 2026 सैलरी: प्रति मैच ₹1 करोड़!",
-                "content": "विराट कोहली का अनुमानित IPL 2026 वेतन प्रति मैच ₹1 करोड़ से अधिक होकर रिकॉर्ड तोड़ने के लिए तैयार है। यह चौंकाने वाली राशि उनके अद्वितीय बाजार मूल्य और फ्रेंचाइजी क्रिकेट में उनकी महत्वपूर्ण भूमिका को उजागर करती है। यह लीग में बढ़ती वित्तीय हिस्सेदारी और क्रिकेट आइकन के रूप में कोहली की स्थायी स्थिति को रेखांकित करता है, जो उनकी सेवाओं और अपार प्रशंसक अपील के लिए खगोलीय मूल्य दर्शाता है।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNS2JFYkxkYlpFdkNjYU5icUstT0NGV0ZxbjNYX3liZXlZamppeDZXWm94U1NoQ3dKejRmU19sOVIyN0piVlFoaC0tazZZdjUyWmcwcGMtcHoxQVdNcWFMWDUxeGZBREkzdVMxZkJVQXIwRFZJS01nZFhfTlRYVzJxQ0prQy05YkN5MGtzM0ZkUk9sdlBmZFpRa09VV2lIblBjYlhiTENYUU8yR3prWnlDWTlPaHQ1enVIQkljVU8ta2s4d1ZicTlDbFMwdjRuOUtCWVVmVFU0YnlvbWJKS3FVRklFZl9OOWN0TVE?oc=5",
-        "date": "Sat, 04 Apr 2026 07:31:14 GMT"
     }
 ]
