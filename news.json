@@ -1,5 +1,80 @@
 [
     {
+        "id": "94e61887",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "Kohli's Explosive IPL Return: No Rust!",
+                "content": "Virat Kohli made an explosive IPL return, proving rest sharpened his game. Fans witnessed 'King Kohli's' vintage, unparalleled form, scoring runs effortlessly. His commanding display showed zero rust, thrilling supporters and solidifying his legend as a consistent performer."
+            },
+            "kn": {
+                "title": "ಕೊಹ್ಲಿಯ ಐಪಿಎಲ್ ಸ್ಫೋಟಕ ಪುನರಾಗಮನ: ತುಕ್ಕು ಹಿಡಿದಿಲ್ಲ!",
+                "content": "ವಿರಾಟ್ ಕೊಹ್ಲಿ ಐಪಿಎಲ್‌ಗೆ ಸ್ಫೋಟಕವಾಗಿ ಮರಳಿದರು, ವಿಶ್ರಾಂತಿ ಅವರ ಆಟವನ್ನು ತೀಕ್ಷ್ಣಗೊಳಿಸಿದೆ ಎಂದು ಸಾಬೀತುಪಡಿಸಿದರು. 'ಕಿಂಗ್ ಕೊಹ್ಲಿ'ಯ ಅಪ್ರತಿಮ ವಿಂಟೇಜ್ ಫಾರ್ಮ್ ಅನ್ನು ನೋಡಿ ಅಭಿಮಾನಿಗಳು ಆನಂದಿಸಿದರು; ಅವರು ಸುಲಭವಾಗಿ ರನ್ ಗಳಿಸಿದರು. ಈ ಪ್ರದರ್ಶನ ತುಕ್ಕು ಹಿಡಿದಿಲ್ಲ ಎಂಬುದನ್ನು ತೋರಿಸಿ, ಬೆಂಬಲಿಗರನ್ನು ರೋಮಾಂಚನಗೊಳಿಸಿತು, ಸ್ಥಿರ ಪ್ರದರ್ಶಕರಾಗಿ ಅವರ ದಂತಕಥೆಯನ್ನು ಗಟ್ಟಿಗೊಳಿಸಿತು."
+            },
+            "mr": {
+                "title": "कोहलीचे आयपीएलमध्ये स्फोटक पुनरागमन: गंज चढलेला नाही!",
+                "content": "विराट कोहलीने आयपीएलमध्ये स्फोटक पुनरागमन केले, विश्रांतीने त्याचा खेळ धारदार बनवला हे सिद्ध केले. चाहत्यांनी 'किंग कोहली'चा जुना, अतुलनीय फॉर्म पाहिला, त्याने सहज धावा केल्या. त्याच्या दमदार प्रदर्शनाने कोणताही 'गंज' नसल्याचे दाखवून दिले, ज्यामुळे चाहते रोमांचित झाले आणि एक सातत्यपूर्ण खेळाडू म्हणून त्याची दंतकथा मजबूत झाली."
+            },
+            "hi": {
+                "title": "कोहली की आईपीएल में धमाकेदार वापसी: विश्राम के बाद भी 'जंग' नहीं!",
+                "content": "विराट कोहली ने आईपीएल में धमाकेदार वापसी की, साबित किया कि विश्राम ने उनके खेल को धारदार बनाया है। प्रशंसकों ने 'किंग कोहली' का पुराना, बेजोड़ फॉर्म देखा, उन्होंने सहजता से रन बनाए। उनके शानदार प्रदर्शन ने जरा भी 'जंग' न लगने का सबूत दिया, जिससे समर्थक रोमांचित हुए और एक निरंतर प्रदर्शन करने वाले दिग्गज के रूप में उनकी ख्याति मजबूत हुई।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZEhaaTVzSVRESGJpVWZ6ZXluWUdqUU5RZHNtV0ZtYzZkaERDZTZTYzNWY05mN01yYTRoMzd3Q2s0RWxnUnV6QlI0NVJKRjR4Z0VEQjhZRTNTNFF4TUZMQk8zLU9FQ1NCWFdWazlDY0RRaFQ2OHhGZE5ScTRtTC1VSTFXZVhWMnJoOFl1OUpNMWlQU3ZXZDFTV0NWS0JaaXBtSFF4OXpoeXdiUXlOQXc?oc=5",
+        "date": "Sun, 05 Apr 2026 18:19:58 GMT"
+    },
+    {
+        "id": "545f7ead",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "Pakistan's Ceasefire Plan: Aims to Reopen Strait of Hormuz",
+                "content": "A new report reveals Pakistan has proposed the 'Islamabad Accord,' a comprehensive ceasefire plan, to both the US and Iran. This significant diplomatic overture aims to de-escalate regional tensions and crucially, pave the way for the reopening of the vital Strait of Hormuz. The initiative seeks to ensure maritime security and foster stability amidst ongoing geopolitical challenges."
+            },
+            "kn": {
+                "title": "ಪಾಕಿಸ್ತಾನದ ಕದನ ವಿರಾಮ ಯೋಜನೆ: ಹಾರ್ಮುಜ್ ಜಲಸಂಧಿ ಪುನರಾರಂಭದ ಗುರಿ",
+                "content": "ಹೊಸ ವರದಿಯ ಪ್ರಕಾರ, ಪಾಕಿಸ್ತಾನವು 'ಇಸ್ಲಾಮಾಬಾದ್ ಒಪ್ಪಂದ' ಎಂಬ ಸಮಗ್ರ ಕದನ ವಿರಾಮ ಯೋಜನೆಯನ್ನು ಅಮೆರಿಕ ಮತ್ತು ಇರಾನ್‌ಗೆ ಪ್ರಸ್ತಾಪಿಸಿದೆ. ಈ ಮಹತ್ವದ ರಾಜತಾಂತ್ರಿಕ ಪ್ರಯತ್ನವು ಪ್ರಾದೇಶಿಕ ಉದ್ವಿಗ್ನತೆಯನ್ನು ತಗ್ಗಿಸಲು ಮತ್ತು ನಿರ್ಣಾಯಕವಾಗಿ, ಅತ್ಯಾವಶ್ಯಕ ಹಾರ್ಮುಜ್ ಜಲಸಂಧಿಯನ್ನು ಪುನರಾರಂಭಿಸಲು ದಾರಿ ಮಾಡಿಕೊಡುತ್ತದೆ. ಈ ಉಪಕ್ರಮವು ಕಡಲ ಭದ್ರತೆಯನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು ಮತ್ತು ನಡೆಯುತ್ತಿರುವ ಭೌಗೋಳಿಕ ರಾಜಕೀಯ ಸವಾಲುಗಳ ನಡುವೆ ಸ್ಥಿರತೆಯನ್ನು ಉತ್ತೇಜಿಸಲು ಪ್ರಯತ್ನಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "पाकिस्तानची शस्त्रसंधी योजना: होर्मुझची सामुद्रधुनी पुन्हा उघडण्याचे उद्दिष्ट",
+                "content": "एका नवीन अहवालानुसार, पाकिस्तानने 'इस्लामाबाद करार' नावाची एक व्यापक शस्त्रसंधी योजना अमेरिका आणि इराण या दोघांसमोर मांडली आहे. या महत्त्वपूर्ण राजनैतिक प्रयत्नाचे उद्दिष्ट प्रादेशिक तणाव कमी करणे आणि महत्त्वाचे म्हणजे, अत्यंत आवश्यक होर्मुझची सामुद्रधुनी पुन्हा सुरू करण्याचा मार्ग मोकळा करणे हे आहे. हा उपक्रम सागरी सुरक्षा सुनिश्चित करण्यासाठी आणि सध्याच्या भूराजकीय आव्हानांदरम्यान स्थिरता वाढवण्यासाठी प्रयत्नशील आहे."
+            },
+            "hi": {
+                "title": "पाकिस्तान की युद्धविराम योजना: होर्मुज जलसंधि को फिर से खोलने का लक्ष्य",
+                "content": "एक नई रिपोर्ट से पता चला है कि पाकिस्तान ने अमेरिका और ईरान दोनों को 'इस्लामाबाद समझौते' के रूप में एक व्यापक युद्धविराम योजना प्रस्तावित की है। इस महत्वपूर्ण राजनयिक पहल का उद्देश्य क्षेत्रीय तनाव को कम करना और महत्वपूर्ण रूप से, होर्मुज की महत्वपूर्ण जलसंधि को फिर से खोलने का मार्ग प्रशस्त करना है। यह पहल समुद्री सुरक्षा सुनिश्चित करने और चल रही भू-राजनीतिक चुनौतियों के बीच स्थिरता को बढ़ावा देने का प्रयास करती है।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPcnZDMHh4OUhaNS1zV00zM3VweWdZQ190ckE4NXlmU1RNN180bnVKOFQ3QWZrVlFyY0pSd0lwT3UtcTZWVWNRVXZJUzRsWG1TY0hwcXV4M1VWejNiazBpNEFiT1l0c0pwYnZodWZTR1d2TldXUk1ZTmdWTTFiNEVKZk40bEp2NWZ5TDVLT2dadHRzZUg3dXJ0cjgyOTNCNXBFNG9IeTN6N0hOZ0syX1R2UmlSQk1lVkFWcFdBajFjUm5mNUJpdHVzUFR6SkVSd21YOXd5NGJ5cjlBU0dmRl9Kdmpldkd5RFpOalM2SE1US1hCSHFreVd3YllYdWlnRUxC0gGGAkFVX3lxTE03V3NsZWdUXy05THBJdzlfOEdqY3otbmNmOFNKNGdXZ3NSV2xPbmdkWGZkcWRGQWVEYkNyS0VOTkxtQVVtMXNsTTM4UnhxSzd5bUlremZZWEhTblMzTERrbnRlVS1UeU45MFpKOHZPTV81ckp1NnRwMHJVSnBsTERNVWRiMm9DeFdVSFhwZmdRTXJyX3VqX3cyLW40aEtPU0loQnU0N25lNVJkYTdKVzRwT29CZmUyQlhncFRLNE44SENINmJqMXk4V0dzQ0VfWnpnLXc2MlloWWlzbmRob2pkTmw3b3dRUXJYTlNlVHNlZ2ZkSnZiM3FFTnJGLTloYlhDSkUybVE?oc=5",
+        "date": "Mon, 06 Apr 2026 07:53:25 GMT"
+    },
+    {
+        "id": "8d180c5a",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "AAP Leader's Cryptic Post Fuels Rift Speculation",
+                "content": "Raghav Chadha, a prominent AAP leader, posted a cryptic Instagram story quoting \"'Never outshine the master',\" fueling speculation about a deepening rift with the party's top leadership. Amidst reports of internal tensions, the post sparked widespread discussion on his political standing and future within the party, hinting at a power struggle."
+            },
+            "kn": {
+                "title": "ಎಎಪಿ ನಾಯಕನ ನಿಗೂಢ ಪೋಸ್ಟ್ ಭಿನ್ನಾಭಿಪ್ರಾಯದ ಊಹಾಪೋಹಕ್ಕೆ ಇಂಬು",
+                "content": "ಪ್ರಮುಖ ಎಎಪಿ ನಾಯಕ ರಾಘವ್ ಚಡ್ಡಾ, 'ಗುರುವಿಗೆ ಮೀರಿ ಬೆಳಗಬೇಡಿ' ಎಂಬ ನಿಗೂಢ ಇನ್‌ಸ್ಟಾಗ್ರಾಮ್ ಸ್ಟೋರಿ ಪೋಸ್ಟ್ ಮಾಡಿದ್ದಾರೆ. ಇದು ಪಕ್ಷದ ಉನ್ನತ ನಾಯಕತ್ವದೊಂದಿಗಿನ ಭಿನ್ನಾಭಿಪ್ರಾಯಕ್ಕೆ ಇಂಬು ನೀಡಿದೆ. ಆಂತರಿಕ ಬಿಕ್ಕಟ್ಟಿನ ವರದಿಗಳ ನಡುವೆ, ಈ ಪೋಸ್ಟ್ ಅವರ ರಾಜಕೀಯ ಸ್ಥಾನಮಾನ ಮತ್ತು ಪಕ್ಷದಲ್ಲಿನ ಭವಿಷ್ಯದ ಬಗ್ಗೆ ವ್ಯಾಪಕ ಚರ್ಚೆಗೆ ಕಾರಣವಾಗಿ, ಸಂಭಾವ್ಯ ಅಧಿಕಾರ ಹೋರಾಟವನ್ನು ಸೂಚಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "'आप' नेत्याच्या गूढ पोस्टमुळे मतभेदांच्या चर्चांना उधाण",
+                "content": "'आप'चे प्रमुख नेते राघव चढ्ढा यांनी \"'नेहमी गुरूला मागे टाकू नका'\" अशी गूढ इन्स्टाग्राम स्टोरी पोस्ट केली आहे. यामुळे पक्षश्रेष्ठींसोबतच्या वाढत्या मतभेदांबद्दलच्या अटकळांना बळ मिळाले. अंतर्गत तणावाच्या वृत्तांदरम्यान, या पोस्टमुळे त्यांचे राजकीय स्थान आणि पक्षातील भवितव्याबद्दल जोरदार चर्चा सुरू झाली आहे, ज्यामुळे सत्तासंघर्षाचे संकेत मिळत आहेत."
+            },
+            "hi": {
+                "title": "AAP नेता के रहस्यमयी पोस्ट से मतभेद की अटकलें तेज",
+                "content": "आम आदमी पार्टी (आप) के प्रमुख नेता राघव चड्ढा ने \"'गुरु को कभी मात न दें'\" का रहस्यमय इंस्टाग्राम स्टोरी पोस्ट किया है. इससे पार्टी के शीर्ष नेतृत्व के साथ उनके गहरे मतभेद की अटकलें तेज हो गई हैं. आंतरिक कलह की खबरों के बीच, इस पोस्ट ने पार्टी में उनके राजनीतिक कद और भविष्य पर व्यापक चर्चा छेड़ दी है, जो सत्ता संघर्ष का संकेत दे रहा है."
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130055529,imgsize-81214.cms",
+        "link": "https://timesofindia.indiatimes.com/india/never-outshine-the-master-raghav-chadhas-cryptic-instagram-post-amid-rift-with-aap-leadership/articleshow/130055352.cms",
+        "date": "2026-04-06T13:51:27+05:30"
+    },
+    {
         "id": "05db5126",
         "category": "IPL Scoop",
         "translations": {
@@ -1923,80 +1998,5 @@
         "image": "https://static.toiimg.com/photo/msid-130023701,imgsize-1868525.cms",
         "link": "https://timesofindia.indiatimes.com/india/west-asia-war-348-stranded-indians-return-from-iran-after-sleepless-weeks/articleshow/130023727.cms",
         "date": "2026-04-04T22:28:11+05:30"
-    },
-    {
-        "id": "64de7d8d",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "IPL 2026: RCB vs CSK Dream11 Prediction",
-                "content": "Prepare for the IPL 2026's 11th match: RCB vs CSK! Get our expert Dream11 prediction with crucial insights for your fantasy team. This guide includes detailed team news, probable playing XIs, vital pitch reports, and top fantasy picks. Maximize your chances with essential captaincy choices and grand league tips for this exciting clash. Craft your winning strategy!"
-            },
-            "kn": {
-                "title": "IPL 2026: RCB vs CSK ಡ್ರೀಮ್11 ಭವಿಷ್ಯ",
-                "content": "IPL 2026 ರ 11ನೇ ಪಂದ್ಯ: RCB vs CSK ಗೆ ಸಿದ್ಧರಾಗಿ! ನಿಮ್ಮ ಫ್ಯಾಂಟಸಿ ತಂಡಕ್ಕೆ ನಮ್ಮ ತಜ್ಞರ Dream11 ಭವಿಷ್ಯ ಪಡೆಯಿರಿ. ಇದು ತಂಡದ ಸುದ್ದಿ, ಸಂಭಾವ್ಯ ಆಡುವ XI, ಪಿಚ್ ವರದಿಗಳು ಮತ್ತು ಟಾಪ್ ಆಯ್ಕೆಗಳನ್ನು ಒಳಗೊಂಡಿದೆ. ಅಗತ್ಯ ನಾಯಕತ್ವ ಆಯ್ಕೆಗಳು ಮತ್ತು ಗ್ರ್ಯಾಂಡ್ ಲೀಗ್ ಸಲಹೆಗಳೊಂದಿಗೆ ಗೆಲ್ಲುವ ಅವಕಾಶಗಳನ್ನು ಹೆಚ್ಚಿಸಿ. ಈ ಕದನಕ್ಕೆ ನಿಮ್ಮ ಗೆಲುವಿನ ತಂತ್ರವನ್ನು ರೂಪಿಸಿ!"
-            },
-            "mr": {
-                "title": "IPL 2026: RCB विरुद्ध CSK Dream11 अंदाज",
-                "content": "IPL 2026 च्या 11 व्या सामन्यासाठी सज्ज व्हा: RCB विरुद्ध CSK! तुमच्या फँटसी टीमसाठी आमचा तज्ज्ञ Dream11 अंदाज मिळवा. यात संघाची बातमी, संभाव्य प्लेइंग XI, खेळपट्टी अहवाल आणि टॉप फँटसी पिक्स आहेत. या रोमांचक लढतीत जिंकण्याची शक्यता वाढवण्यासाठी कर्णधार निवडी आणि ग्रँड लीग टिप्स वापरा. तुमची विजयी रणनीती आखा!"
-            },
-            "hi": {
-                "title": "IPL 2026: RCB बनाम CSK Dream11 भविष्यवाणी",
-                "content": "IPL 2026 के 11वें मैच: RCB बनाम CSK के लिए तैयार हों! अपनी फैंटेसी टीम हेतु हमारी विशेषज्ञ Dream11 भविष्यवाणी पाएं. इसमें टीम समाचार, संभावित प्लेइंग XI, पिच रिपोर्ट और टॉप फैंटेसी पिक्स शामिल हैं. आवश्यक कप्तानी विकल्प और ग्रैंड लीग टिप्स से इस रोमांचक मुकाबले में जीतने के अवसर बढ़ाएं. अपनी विजयी रणनीति बनाएं!"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZWsyY0hqUGZCTGZ2M1RNTmVraklqUmNNZlRBSFBIbHNNZHphbldwYjRhRHRtRDNVcnd0VV9xX2NzcmVlYWs1b2Fra2x5V2ZmSEZkMlVpVjlfem5nTV80OTdhM044dVlvT19LaVpMWnBFc3RUQkRMM085MlI1MlJFdVMwSXdZTUhaM1VDRE9UcTZ6YzBQS0E?oc=5",
-        "date": "Sat, 04 Apr 2026 14:10:37 GMT"
-    },
-    {
-        "id": "f78aaace",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Simpsons' Eerie 2026 Prophecy: Humans Off-World?",
-                "content": "The Simpsons, renowned for their uncanny predictions, have a striking prophecy for 2026. This new forecast suggests humanity might leave Earth to live on another planet. Given the show's track record of foretelling major events, this raises compelling questions about our future among the stars. Could this bold vision of interplanetary migration truly come to pass?"
-            },
-            "kn": {
-                "title": "ಸಿಂಪ್ಸನ್ಸ್‌ನ ನಿಗೂಢ 2026 ಭವಿಷ್ಯ: ಮಾನವರು ಭೂಮಿ ಬಿಟ್ಟು ಹೋಗುವರೆ?",
-                "content": "ಸಿಂಪ್ಸನ್ಸ್, ತಮ್ಮ ಅದ್ಭುತ ಭವಿಷ್ಯವಾಣಿಗೆ ಹೆಸರುವಾಸಿ, 2026ಕ್ಕೆ ಒಂದು ಗಮನಾರ್ಹ ಭವಿಷ್ಯವಾಣಿಯನ್ನು ಹೊಂದಿದೆ. ಈ ಹೊಸ ಭವಿಷ್ಯವಾಣಿಯು ಮಾನವರು ಭೂಮಿಯನ್ನು ತೊರೆದು ಮತ್ತೊಂದು ಗ್ರಹದಲ್ಲಿ ನೆಲೆಸಬಹುದು ಎಂದು ಸೂಚಿಸುತ್ತದೆ. ಪ್ರಮುಖ ಘಟನೆಗಳನ್ನು ಭವಿಷ್ಯ ನುಡಿದ ಕಾರ್ಯಕ್ರಮದ ದಾಖಲೆಯನ್ನು ಗಮನಿಸಿದರೆ, ಇದು ನಕ್ಷತ್ರಗಳ ನಡುವೆ ನಮ್ಮ ಭವಿಷ್ಯದ ಬಗ್ಗೆ ಬಲವಾದ ಪ್ರಶ್ನೆಗಳನ್ನು ಹುಟ್ಟುಹಾಕುತ್ತದೆ. ಅಂತರಗ್ರಹ ವಲಸೆಯ ಈ ಧೈರ್ಯಶಾಲಿ ಕಲ್ಪನೆ ನಿಜವಾಗಿಯೂ ಸಾಧ್ಯವಾಗಬಹುದೇ?"
-            },
-            "mr": {
-                "title": "सिम्प्सन्सची गूढ 2026 भविष्यवाणी: मानव पृथ्वी सोडून जातील का?",
-                "content": "सिम्प्सन्स, त्यांच्या अचूक भविष्यवाणीसाठी प्रसिद्ध, 2026 साठी एक धक्कादायक भविष्यवाणी केली आहे. या नवीन अंदाजानुसार, मानव पृथ्वी सोडून दुसऱ्या ग्रहावर राहण्यासाठी जाऊ शकतात. कार्यक्रमाचा मोठ्या घटनांचा अंदाज वर्तवण्याचा इतिहास पाहता, यामुळे ताऱ्यांमध्ये आपल्या भविष्याबद्दल महत्त्वाचे प्रश्न निर्माण होतात. आंतरग्रहीय स्थलांतराची ही धाडसी कल्पना खरोखरच प्रत्यक्षात येऊ शकते का?"
-            },
-            "hi": {
-                "title": "सिम्पसंस की रहस्यमय 2026 भविष्यवाणी: क्या इंसान धरती छोड़ेंगे?",
-                "content": "सिम्पसंस, अपनी अचूक भविष्यवाणियों के लिए जाने जाते हैं, उन्होंने 2026 के लिए एक चौंकाने वाली भविष्यवाणी की है। यह नया अनुमान बताता है कि इंसान धरती छोड़कर किसी दूसरे ग्रह पर रहने जा सकते हैं। शो के प्रमुख घटनाओं की भविष्यवाणी करने के रिकॉर्ड को देखते हुए, यह तारों के बीच हमारे भविष्य के बारे में कई सवाल खड़े करता है। क्या अंतरग्रहीय प्रवास का यह साहसी विचार वास्तव में सच हो सकता है?"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOd0NxNE1mN2U4T2g2Q1BTaWI0RHhLR0xIN2FqbWVxTzNudTVPeXdaRUFaVGRnTjNsVmN3RjlvZGZNYl90bEN4Q3EtQnBPeVVGejlva3RJZUc3dGdHNEhFeS1pQ2ptZlRQZWp6aHhzVG9tUG9IdUxJOElrRWMxTmFPSHBWWjZUMU91aXozbklSR3I5RTFyTmF2WndsbHNuOXdmY05zejRFbmpmMG1tQWpqckJleFV6SG42Vnc4Um41WF94TnZJUnNkcTdSdWFfVk5FalUtZDBobkR4U0Z6cU82Z3NsWQ?oc=5",
-        "date": "Sat, 04 Apr 2026 14:23:54 GMT"
-    },
-    {
-        "id": "14bc5ddd",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Blake Lively Faces Career Setback After Legal Loss",
-                "content": "Blake Lively faces a career shock after a significant legal setback in her dispute with Justin Baldoni. Reports indicate this major blow could profoundly impact her professional standing and future projects. The unexpected development, highlighted by The Economic Times, has sparked industry speculation about Lively's next steps and potential career shifts following the adverse legal outcome."
-            },
-            "kn": {
-                "title": "ಬ್ಲೇಕ್ ಲೈವ್ಲಿ ಕಾನೂನು ಸೋಲಿನ ನಂತರ ವೃತ್ತಿಜೀವನದ ಹಿನ್ನಡೆ ಎದುರಿಸುತ್ತಿದ್ದಾರೆ",
-                "content": "ಜಸ್ಟಿನ್ ಬಾಲ್ಡೋನಿ ಅವರೊಂದಿಗಿನ ವಿವಾದದಲ್ಲಿ ಮಹತ್ವದ ಕಾನೂನು ಹಿನ್ನಡೆಯ ನಂತರ ಬ್ಲೇಕ್ ಲೈವ್ಲಿ ಅವರು ವೃತ್ತಿಜೀವನದಲ್ಲಿ ಆಘಾತ ಎದುರಿಸುತ್ತಿದ್ದಾರೆ. ಈ ದೊಡ್ಡ ಹೊಡೆತವು ಅವರ ವೃತ್ತಿಪರ ನಿಲುವು ಮತ್ತು ಭವಿಷ್ಯದ ಯೋಜನೆಗಳ ಮೇಲೆ ಆಳವಾದ ಪರಿಣಾಮ ಬೀರಬಹುದು ಎಂದು ವರದಿಗಳು ಸೂಚಿಸುತ್ತವೆ. ದಿ ಎಕನಾಮಿಕ್ ಟೈಮ್ಸ್ ವರದಿ ಮಾಡಿದ ಈ ಅನಿರೀಕ್ಷಿತ ಬೆಳವಣಿಗೆಯು, ಪ್ರತಿಕೂಲ ಕಾನೂನು ಫಲಿತಾಂಶದ ನಂತರ ಲೈವ್ಲಿ ಅವರ ಮುಂದಿನ ನಡೆಗಳು ಮತ್ತು ಸಂಭಾವ್ಯ ವೃತ್ತಿಜೀವನದ ಬದಲಾವಣೆಗಳ ಬಗ್ಗೆ ಉದ್ಯಮದಲ್ಲಿ ಊಹಾಪೋಹಗಳನ್ನು ಹುಟ್ಟುಹಾಕಿದೆ."
-            },
-            "mr": {
-                "title": "कायदेशीर लढाईतील पराभवानंतर ब्लेक लाईव्हलीच्या करिअरला धक्का",
-                "content": "जस्टिन बाल्डोनी यांच्यासोबतच्या कायदेशीर वादात महत्त्वपूर्ण कायदेशीर धक्क्यानंतर ब्लेक लाईव्हलीला करिअरला धक्का बसला आहे. अहवालानुसार, या मोठ्या धक्क्यामुळे तिच्या व्यावसायिक स्थितीवर आणि भविष्यातील प्रकल्पांवर गंभीर परिणाम होऊ शकतो. द इकॉनॉमिक टाइम्सने अधोरेखित केलेल्या या अनपेक्षित विकासामुळे, प्रतिकूल कायदेशीर निकालानंतर लाईव्हलीच्या पुढील वाटचालीसंदर्भात आणि संभाव्य करिअर बदलांबद्दल उद्योगात अटकळी सुरू झाल्या आहेत."
-            },
-            "hi": {
-                "title": "कानूनी हार के बाद ब्लेक लाइली के करियर को झटका",
-                "content": "जस्टिन बाल्डोनी के साथ अपने विवाद में एक महत्वपूर्ण कानूनी झटके के बाद ब्लेक लाइली को करियर में झटका लगा है। रिपोर्टों से संकेत मिलता है कि यह बड़ा झटका उनकी पेशेवर स्थिति और भविष्य की परियोजनाओं पर गहरा प्रभाव डाल सकता है। द इकोनॉमिक टाइम्स द्वारा उजागर किए गए इस अप्रत्याशित घटनाक्रम ने प्रतिकूल कानूनी परिणाम के बाद लाइली के अगले कदमों और संभावित करियर बदलावों के बारे में उद्योग में अटकलें तेज कर दी हैं।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPX0gtdVVucFphUTZZOHdMMEF1Zi1YX200M2ZpRi1fMUV1Q0NzOEJxRnBENmhENURoYWpRYzVzTnd6NkY4VDEwY2hOY0RsVFhvM25kTFpSYlQ3SGZjWWFTMkpuRXc1TUtrWDhDS1NWRTRyY08wMTdSa2hFRk5fT1Z0OWVSUFU0andxNW1Pa0ZCV19CUnZyOEYyUG5FUk5xczViYkRsY2JnODdsV2ptUS00QmVtMzFMUEhiZk9aSXJSSGlKejlYaUhTYXkzbW4zM3g0bndGTG8wMTctTkN5SE1wRXA4ZXZHcmN6TFB2SFlseDnSAfABQVVfeXFMT19ILXVVbnBaYVE2WTh3TDBBdWYtWF9tNDNmaUYtXzFFdUNDczhCcUZwRDZoRDVEaGFqUWM1c053ejZGOFQxMGNoTmNEbFRYbzNuZExaUmJUN0hmY1lhUzJKbkV3NU1La1g4Q0tTVkU0cmNPMDE3UmtoRUZOX09WdDllUlBVNGp3cTVtT2tGQldfQlJ2cjhGMlBuRVJOcXM1YmJEbGNiZzg3bFdqbVEtNEJlbTMxTFBIYmZPWklyUkhpSno5WGlIU2F5M21uMzN4NG53RkxvMDE3LU5DeUhNcEVwOGV2R3JjekxQdkhZbHg5?oc=5",
-        "date": "Sat, 04 Apr 2026 13:07:00 GMT"
     }
 ]
