@@ -1,5 +1,55 @@
 [
     {
+        "id": "debc4c01",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "US-Iran Tensions Escalate",
+                "content": "US-Iran tensions have flared dramatically after reported ceasefire deals collapsed, with President Trump accused of 'raising the temperature.' This breakdown in negotiations signals a deepening crisis between Washington and Tehran, potentially pushing the region towards further instability. The escalating rhetoric marks a critical moment, raising global concerns."
+            },
+            "kn": {
+                "title": "US-ಇರಾನ್ ಉದ್ವಿಗ್ನತೆ ಹೆಚ್ಚಳ",
+                "content": "ವರದಿಯಾದ ಕದನ ವಿರಾಮ ಒಪ್ಪಂದಗಳು ವಿಫಲಗೊಂಡ ನಂತರ US-ಇರಾನ್ ಉದ್ವಿಗ್ನತೆ ತೀವ್ರವಾಗಿ ಹೆಚ್ಚಿದೆ, ಅಧ್ಯಕ್ಷ ಟ್ರಂಪ್ 'ಉದ್ವಿಗ್ನತೆ ಹೆಚ್ಚಿಸಿದ್ದಾರೆ' ಎಂದು ಆರೋಪಿಸಲಾಗಿದೆ. ಮಾತುಕತೆಗಳ ಈ ಸ್ಥಗಿತವು ವಾಷಿಂಗ್ಟನ್ ಮತ್ತು ಟೆಹ್ರಾನ್ ನಡುವಿನ ಆಳವಾದ ಬಿಕ್ಕಟ್ಟನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಇದು ಪ್ರದೇಶವನ್ನು ಮತ್ತಷ್ಟು ಅಸ್ಥಿರತೆಯತ್ತ ತಳ್ಳಬಹುದು. ಹೆಚ್ಚುತ್ತಿರುವ ವಾಕ್ಸಮರವು ನಿರ್ಣಾಯಕ ಕ್ಷಣವನ್ನು ಗುರುತಿಸುತ್ತದೆ, ಜಾಗತಿಕ ಕಳವಳಗಳನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "अमेरिका-इराण तणाव वाढला",
+                "content": "कथित युद्धविराम करार कोसळल्यानंतर अमेरिका-इराणमधील तणाव नाटकीयरित्या वाढला आहे, अध्यक्ष ट्रम्प यांच्यावर 'तणाव वाढवल्याचा' आरोप आहे. चर्चेतील या बिघाडामुळे वॉशिंग्टन आणि तेहरान यांच्यातील सखोल संकट सूचित होते, ज्यामुळे प्रदेशात आणखी अस्थिरता निर्माण होऊ शकते. वाढती वक्तृत्व आंतरराष्ट्रीय स्तरावर चिंता वाढवत एक महत्त्वाचा क्षण दर्शवते."
+            },
+            "hi": {
+                "title": "अमेरिका-ईरान तनाव बढ़ा",
+                "content": "कथित संघर्ष विराम समझौतों के विफल होने के बाद अमेरिका-ईरान तनाव नाटकीय रूप से बढ़ गया है, राष्ट्रपति ट्रंप पर 'माहौल गरमाने' का आरोप है। बातचीत में यह विफलता वाशिंगटन और तेहरान के बीच गहरे संकट का संकेत देती है, जो क्षेत्र को और अधिक अस्थिरता की ओर धकेल सकता है। बढ़ती बयानबाजी एक महत्वपूर्ण मोड़ को चिह्नित करती है, जिससे वैश्विक चिंताएं बढ़ रही हैं।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQOVgwdW9iV1NDNkpuenVlbEJYTFJSemI1Qks5UDY1VTNwY2RDbkYwdjEtdVlyd09GdmdlRk04enhkM2lvVDNJOG1ROVpqa1RqYkdHSWQ1VmtjbTV4aWhDczFKQXlaNmk4cmdjaFJsQWdTaEJfUzQyUE5OSnE1SDM4VWxTR2hZOUJuaWo2cG9rRU9YRzFnMWpMbS1SNjNyQ20yemE0RG1ZbVJKTHBGMG1nLXZSeERRNWNPWTJISFBFV0ZwTFYzeE94RW9VcThGOFRPRkZuSS16MEZxZ21rTXoxV0N0aS1QOFJqdUhtRVZR0gHzAUFVX3lxTFBkRGUwWGVUVnhGdkdMaW9ic0tyVHZyd0UtMnVydFJYVWxUR1d5amEyMXBsUmcyZ2w4OVNZM1I0UVhxLVZUeGlCR1J2T2tPZ1NER2RzM09EQ1prLTZlWXA3UkhmdkRUOEtNSlJncTdlWWdwQi01dHREdlYtTVJFLVdmZ1h1Q0p3Z3Q2enpLNkdaNFd2NVdWeFcyeDBaMXIxSkNCSDVoc3BleFRIeTNqUTI1Z08yZzJSblp3cEw1MzNzc21neFNqVzNHYjdOSkNYRkk4OXhCTjhsVGxGRVc1THc3cVdvME9KU0ZpOEJSRzFLTEYxNA?oc=5",
+        "date": "Mon, 06 Apr 2026 20:26:26 GMT"
+    },
+    {
+        "id": "a2bc4487",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Jammu Man Lured to Russia, Dies in Ukraine War",
+                "content": "A 23-year-old Jammu man, Sachin Khajuria, was tragically killed on the Russia-Ukraine war frontlines. Lured to Russia with false promises of a civilian job, he was instead forced into military service. He is the second from Jammu to die in this conflict. Families allege unscrupulous agents are duping Indian youths, sending them to war zones under the guise of lucrative jobs, highlighting a critical issue of exploitation."
+            },
+            "kn": {
+                "title": "ಜಮ್ಮು ವ್ಯಕ್ತಿ ರಷ್ಯಾಕ್ಕೆ ಆಮಿಷಕ್ಕೊಳಗಾಗಿ, ಉಕ್ರೇನ್ ಯುದ್ಧದಲ್ಲಿ ಸಾವು",
+                "content": "ಜಮ್ಮುವಿನ 23 ವರ್ಷದ ಸಚಿನ್ ಖಜೂರಿಯಾ ರಷ್ಯಾ-ಉಕ್ರೇನ್ ಯುದ್ಧಭೂಮಿಯಲ್ಲಿ ದುರಂತವಾಗಿ ಸಾವನ್ನಪ್ಪಿದ್ದಾರೆ. ನಾಗರಿಕ ಉದ್ಯೋಗದ ಸುಳ್ಳು ಭರವಸೆಗಳೊಂದಿಗೆ ರಷ್ಯಾಕ್ಕೆ ಆಮಿಷವೊಡ್ಡಿ, ಅವರನ್ನು ಮಿಲಿಟರಿ ಸೇವೆಗೆ ಬಲವಂತಪಡಿಸಲಾಯಿತು. ಈ ಸಂಘರ್ಷದಲ್ಲಿ ಸಾವನ್ನಪ್ಪಿದ ಜಮ್ಮುವಿನ ಎರಡನೇ ವ್ಯಕ್ತಿ ಇವರು. ಕುಟುಂಬಗಳು ನಿಸ್ಸಂಶಯವಾಗಿರುವ ಏಜೆಂಟರು ಭಾರತೀಯ ಯುವಕರನ್ನು ಮೋಸಗೊಳಿಸಿ, ಲಾಭದಾಯಕ ಉದ್ಯೋಗಗಳ ನೆಪದಲ್ಲಿ ಯುದ್ಧ ವಲಯಗಳಿಗೆ ಕಳುಹಿಸುತ್ತಿದ್ದಾರೆ, ಇದು ಶೋಷಣೆಯ ಗಂಭೀರ ಸಮಸ್ಯೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "जम्मूचा माणूस रशियाला आमिषाने गेला, युक्रेन युद्धात मृत्यू",
+                "content": "जम्मूचा २३ वर्षीय सचिन खजुरिया रशिया-युक्रेन युद्धभूमीवर दुःखदपणे मारला गेला. त्याला नागरी नोकरीच्या खोट्या आश्वासनांनी रशियाला फसवून नेले होते आणि त्याऐवजी त्याला लष्करी सेवेत सक्तीने पाठवले गेले. या संघर्षात जम्मू येथून मरणारा तो दुसरा व्यक्ती आहे. कुटुंबे आरोप करतात की, निर्ढावलेले एजंट भारतीय तरुणांना आकर्षक नोकऱ्यांच्या बहाण्याने युद्धक्षेत्रात पाठवून त्यांची फसवणूक करत आहेत, ज्यामुळे शोषणाचा गंभीर मुद्दा समोर आला आहे."
+            },
+            "hi": {
+                "title": "जम्मू का युवक रूस में नौकरी के बहाने फंसाया गया, यूक्रेन युद्ध में मौत",
+                "content": "जम्मू के 23 वर्षीय सचिन खजूरिया की रूस-यूक्रेन युद्ध मोर्चे पर दुखद मृत्यु हो गई। उन्हें नागरिक नौकरी के झूठे वादों के साथ रूस में फंसाया गया था, लेकिन इसके बजाय सैन्य सेवा में धकेल दिया गया। इस संघर्ष में जम्मू से मरने वाले वह दूसरे व्यक्ति हैं। परिजनों का आरोप है कि बेईमान एजेंट भारतीय युवाओं को आकर्षक नौकरियों के बहाने युद्ध क्षेत्रों में भेजकर धोखा दे रहे हैं, जिससे शोषण का एक गंभीर मुद्दा उजागर हुआ है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130070719,imgsize-1213383.cms",
+        "link": "https://timesofindia.indiatimes.com/india/jammu-man-lured-into-russian-job-and-sent-to-war-zone-killed/articleshow/130070699.cms",
+        "date": "2026-04-07T01:36:32+05:30"
+    },
+    {
         "id": "c820ff03",
         "category": "National",
         "translations": {
@@ -1948,55 +1998,5 @@
         "image": "https://static.toiimg.com/photo/msid-130031053,imgsize-1664189.cms",
         "link": "https://timesofindia.indiatimes.com/india/parliament-panel-seeks-accurate-enumeration-of-all-disabilities-in-census/articleshow/130031054.cms",
         "date": "2026-04-05T06:10:24+05:30"
-    },
-    {
-        "id": "36e2f44a",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "Mediterranean Shipwrecks Unveil Gold, Coins, and Lost History",
-                "content": "Beneath the Mediterranean Sea, ancient shipwrecks are revealing astonishing treasures. Divers have uncovered gold, rare coins, and forgotten historical artifacts, painting a vivid picture of past civilizations and their maritime trade. These remarkable discoveries are offering invaluable insights into long-lost eras, promising to rewrite parts of history and captivate researchers and enthusiasts alike with their hidden secrets."
-            },
-            "kn": {
-                "title": "ಮೆಡಿಟರೇನಿಯನ್ ಹಡಗು ಮುಳುಗಿದ ಸ್ಥಳಗಳು ಚಿನ್ನ, ನಾಣ್ಯಗಳು ಮತ್ತು ಕಳೆದುಹೋದ ಇತಿಹಾಸವನ್ನು ಅನಾವರಣಗೊಳಿಸುತ್ತವೆ",
-                "content": "ಮೆಡಿಟರೇನಿಯನ್ ಸಮುದ್ರದ ಅಡಿಯಲ್ಲಿ, ಪ್ರಾಚೀನ ಹಡಗು ಮುಳುಗಿದ ಸ್ಥಳಗಳು ಅಚ್ಚರಿಗೊಳಿಸುವ ನಿಧಿಗಳನ್ನು ಬಹಿರಂಗಪಡಿಸುತ್ತಿವೆ. ಡೈವರ್‌ಗಳು ಚಿನ್ನ, ಅಪರೂಪದ ನಾಣ್ಯಗಳು ಮತ್ತು ಮರೆತುಹೋದ ಐತಿಹಾಸಿಕ ಕಲಾಕೃತಿಗಳನ್ನು ಪತ್ತೆ ಮಾಡಿದ್ದಾರೆ, ಇದು ಹಿಂದಿನ ನಾಗರಿಕತೆಗಳು ಮತ್ತು ಅವುಗಳ ಕಡಲ ವ್ಯಾಪಾರದ ಸ್ಪಷ್ಟ ಚಿತ್ರಣವನ್ನು ನೀಡುತ್ತದೆ. ಈ ಗಮನಾರ್ಹ ಆವಿಷ್ಕಾರಗಳು ದೀರ್ಘಕಾಲದಿಂದ ಕಳೆದುಹೋದ ಯುಗಗಳ ಬಗ್ಗೆ ಅಮೂಲ್ಯ ಒಳನೋಟಗಳನ್ನು ನೀಡುತ್ತಿವೆ, ಇತಿಹಾಸದ ಭಾಗಗಳನ್ನು ಪುನಃ ಬರೆಯಲು ಮತ್ತು ಅವುಗಳ ರಹಸ್ಯಗಳಿಂದ ಸಂಶೋಧಕರು ಮತ್ತು ಉತ್ಸಾಹಿಗಳನ್ನು ಆಕರ್ಷಿಸಲು ಭರವಸೆ ನೀಡುತ್ತವೆ."
-            },
-            "mr": {
-                "title": "भूमध्यसागरीय जहाजांचे अवशेष सोने, नाणी आणि हरवलेला इतिहास उघड करतात",
-                "content": "भूमध्य समुद्राखाली, प्राचीन जहाजांचे अवशेष आश्चर्यकारक खजिना उघड करत आहेत. डायव्हर्सनी सोने, दुर्मिळ नाणी आणि विस्मृतीतील ऐतिहासिक कलाकृती शोधून काढल्या आहेत, ज्यामुळे भूतकाळातील संस्कृती आणि त्यांच्या सागरी व्यापाराचे स्पष्ट चित्र मिळते. हे उल्लेखनीय शोध दीर्घकाळापासून हरवलेल्या युगांबद्दल मौल्यवान अंतर्दृष्टी देत आहेत, इतिहासाचे काही भाग पुन्हा लिहिण्याचे आणि त्यांच्या लपलेल्या रहस्यांनी संशोधक आणि उत्साही लोकांना आकर्षित करण्याचे वचन देतात."
-            },
-            "hi": {
-                "title": "भूमध्यसागरीय जहाज़ों के मलबे सोना, सिक्के और खोया हुआ इतिहास उजागर करते हैं",
-                "content": "भूमध्य सागर के नीचे, प्राचीन जहाज़ों के मलबे आश्चर्यजनक खजाने उजागर कर रहे हैं। गोताखोरों ने सोना, दुर्लभ सिक्के और भूली हुई ऐतिहासिक कलाकृतियाँ खोजी हैं, जो पिछली सभ्यताओं और उनके समुद्री व्यापार की स्पष्ट तस्वीर पेश करती हैं। ये उल्लेखनीय खोजें लंबे समय से खोए हुए युगों के बारे में अमूल्य अंतर्दृष्टि प्रदान कर रही हैं, इतिहास के कुछ हिस्सों को फिर से लिखने और अपने छिपे रहस्यों से शोधकर्ताओं और उत्साही लोगों को मोहित करने का वादा करती हैं।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-130035254,imgsize-56944.cms",
-        "link": "https://timesofindia.indiatimes.com/world/rest-of-world/what-lies-beneath-the-mediterranean-will-shock-you-ancient-shipwrecks-expose-gold-coins-and-forgotten-histories/articleshow/130035248.cms",
-        "date": "2026-04-05T12:56:40+05:30"
-    },
-    {
-        "id": "ae57a52e",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "Artemis II: Human Eyes, Historic Moon Study",
-                "content": "Nasa's Artemis II astronauts are halfway to the Moon, making history as the first crewed lunar journey in over 53 years. The four-member crew will primarily use their eyes, dubbed the \"best camera,\" to observe the Moon's surface during a fly-around. They'll meticulously note subtle changes in color and texture, capturing unique insights directly from human perception. This mission heralds a new era of lunar exploration."
-            },
-            "kn": {
-                "title": "ಆರ್ಟೆಮಿಸ್ II: ಮಾನವ ಕಣ್ಣುಗಳು, ಐತಿಹಾಸಿಕ ಚಂದ್ರನ ಅಧ್ಯಯನ",
-                "content": "ನಾಸಾದ ಆರ್ಟೆಮಿಸ್ II ಗಗನಯಾತ್ರಿಗಳು ಚಂದ್ರನತ್ತ ಪ್ರಯಾಣದಲ್ಲಿದ್ದಾರೆ, 53 ವರ್ಷಗಳಲ್ಲಿ ಮೊದಲ ಬಾರಿಗೆ ಮಾನವಸಹಿತ ಚಂದ್ರನ ಪ್ರಯಾಣದ ಮೂಲಕ ಇತಿಹಾಸ ಸೃಷ್ಟಿಸುತ್ತಿದ್ದಾರೆ. ನಾಲ್ಕು ಸದಸ್ಯರ ಸಿಬ್ಬಂದಿ ಪ್ರಾಥಮಿಕವಾಗಿ ತಮ್ಮ ಕಣ್ಣುಗಳನ್ನು 'ಅತ್ಯುತ್ತಮ ಕ್ಯಾಮೆರಾ' ಎಂದು ಕರೆಯಲ್ಪಡುವ ಮೂಲಕ ಚಂದ್ರನ ಮೇಲ್ಮೈಯನ್ನು ಫ್ಲೈ-ಅರೌಂಡ್ ಸಮಯದಲ್ಲಿ ಗಮನಿಸಲಿದ್ದಾರೆ. ಅವರು ಬಣ್ಣ ಮತ್ತು ವಿನ್ಯಾಸದಲ್ಲಿನ ಸೂಕ್ಷ್ಮ ಬದಲಾವಣೆಗಳನ್ನು ಸೂಕ್ಷ್ಮವಾಗಿ ಗಮನಿಸಿ, ಮಾನವನ ಗ್ರಹಿಕೆಯಿಂದ ನೇರವಾಗಿ ವಿಶಿಷ್ಟ ಒಳನೋಟಗಳನ್ನು ಪಡೆಯಲಿದ್ದಾರೆ. ಈ ಕಾರ್ಯಾಚರಣೆಯು ಚಂದ್ರನ ಅನ್ವೇಷಣೆಯ ಹೊಸ ಯುಗವನ್ನು ಘೋಷಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "आर्टेमिस II: मानवी डोळे, ऐतिहासिक चंद्र अभ्यास",
-                "content": "नासाचे आर्टेमिस II अंतराळवीर चंद्राकडे निघाले आहेत, 53 वर्षांत पहिल्या मानवी चंद्र प्रवासासह इतिहास घडवत आहेत. चार सदस्यीय पथक 'सर्वोत्तम कॅमेरा' म्हणून ओळखल्या जाणाऱ्या आपल्या डोळ्यांचा प्रामुख्याने वापर करून उड्डाणादरम्यान चंद्राच्या पृष्ठभागाचे निरीक्षण करेल. ते रंग आणि पोतातील सूक्ष्म बदलांची बारकाईने नोंद घेतील, मानवी दृष्टिकोनातून अद्वितीय अंतर्दृष्टी मिळवतील. हे अभियान चंद्र संशोधनाच्या नव्या युगाची नांदी आहे."
-            },
-            "hi": {
-                "title": "आर्टेमिस II: मानवीय आँखें, ऐतिहासिक चंद्र अध्ययन",
-                "content": "नासा के आर्टेमिस II अंतरिक्ष यात्री चंद्रमा की ओर अग्रसर हैं, 53 वर्षों में पहली बार मानवयुक्त चंद्र यात्रा के साथ इतिहास रच रहे हैं। चार सदस्यीय दल चंद्रमा की सतह का अवलोकन करने के लिए मुख्य रूप से अपनी आँखों का उपयोग करेगा, जिसे 'सर्वश्रेष्ठ कैमरा' कहा गया है। वे रंग और बनावट में सूक्ष्म परिवर्तनों को सावधानीपूर्वक नोट करेंगे, जिससे मानवीय धारणा से सीधे अद्वितीय अंतर्दृष्टि प्राप्त होगी। यह मिशन चंद्र अन्वेषण के एक नए युग का सूत्रपात करता है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-130034811,imgsize-220634.cms",
-        "link": "https://timesofindia.indiatimes.com/science/the-best-camera-to-ever-exist-artemis-ii-crew-to-study-the-moons-surface-mainly-with-their-eyes/articleshow/130034832.cms",
-        "date": "2026-04-05T12:13:15+05:30"
     }
 ]
