@@ -1,5 +1,380 @@
 [
     {
+        "id": "eb6c84bd",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "IPL 2026: SRH Files BCCI Complaint Over Avesh Khan Boundary Row",
+                "content": "Sunrisers Hyderabad will complain to BCCI about a controversial Avesh Khan boundary incident in their IPL 2026 game against LSG. The contentious play, sparking widespread debate, prompts SRH to seek official intervention. This move highlights their commitment to fair play and challenging disputed on-field decisions in the high-stakes league."
+            },
+            "kn": {
+                "title": "ಐಪಿಎಲ್ 2026: ಅವೇಶ್ ಖಾನ್ ಬೌಂಡರಿ ವಿವಾದದ ಬಗ್ಗೆ ಎಸ್‌ಆರ್‌ಎಚ್‌ನಿಂದ ಬಿಸಿಸಿಐಗೆ ದೂರು",
+                "content": "ಸನ್‌ರೈಸರ್ಸ್ ಹೈದರಾಬಾದ್ ತಂಡವು ಎಲ್‌ಎಸ್‌ಜಿ ವಿರುದ್ಧದ ತಮ್ಮ ಐಪಿಎಲ್ 2026 ಪಂದ್ಯದಲ್ಲಿ ಅವೇಶ್ ಖಾನ್ ಅವರ ವಿವಾದಾತ್ಮಕ ಬೌಂಡರಿ ಘಟನೆಯ ಬಗ್ಗೆ ಬಿಸಿಸಿಐಗೆ ದೂರು ನೀಡಲಿದೆ. ವ್ಯಾಪಕ ಚರ್ಚೆಗೆ ಕಾರಣವಾಗಿರುವ ಈ ವಿವಾದಾತ್ಮಕ ಆಟವು ಎಸ್‌ಆರ್‌ಎಚ್ ಅನ್ನು ಅಧಿಕೃತ ಹಸ್ತಕ್ಷೇಪವನ್ನು ಕೋರಲು ಪ್ರೇರೇಪಿಸಿದೆ. ಈ ಕ್ರಮವು ನ್ಯಾಯಯುತ ಆಟಕ್ಕೆ ಅವರ ಬದ್ಧತೆಯನ್ನು ಮತ್ತು ಲೀಗ್‌ನಲ್ಲಿ ವಿವಾದಿತ ಆನ್-ಫೀಲ್ಡ್ ನಿರ್ಧಾರಗಳನ್ನು ಪ್ರಶ್ನಿಸುವುದನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "आयपीएल 2026: अवेश खान बाउंड्री वादावर एसआरएचची बीसीसीआयकडे तक्रार",
+                "content": "सनरायझर्स हैदराबाद एलएसजीविरुद्धच्या त्यांच्या आयपीएल 2026 सामन्यातील आवेश खानच्या वादग्रस्त बाउंड्री घटनेबद्दल बीसीसीआयकडे तक्रार करेल. या वादग्रस्त खेळाने व्यापक चर्चा निर्माण केली असून, एसआरएचने अधिकृत हस्तक्षेपाची मागणी केली आहे. ही कृती त्यांची निष्पक्ष खेळाप्रती असलेली बांधिलकी आणि उच्च-स्तरीय लीगमध्ये मैदानावरच्या वादग्रस्त निर्णयांना आव्हान देण्याची वृत्ती दर्शवते."
+            },
+            "hi": {
+                "title": "आईपीएल 2026: आवेश खान बाउंड्री विवाद पर SRH ने BCCI से शिकायत की",
+                "content": "सनराइजर्स हैदराबाद एलएसजी के खिलाफ अपने आईपीएल 2026 मैच में आवेश खान की विवादास्पद बाउंड्री घटना को लेकर बीसीसीआई से शिकायत करेगा। इस विवादास्पद खेल ने व्यापक बहस छेड़ दी है, जिसके बाद SRH ने आधिकारिक हस्तक्षेप की मांग की है। यह कदम उनकी निष्पक्ष खेल के प्रति प्रतिबद्धता और हाई-स्टेक्स लीग में विवादित ऑन-फील्ड निर्णयों को चुनौती देने को दर्शाता है।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPX0NnU1ktSG5kLWZNUjhkYnh2SlRINXNrbllXSmNFVS1GZHZDRHY2YUJqenpnOG51NmJRSGo3WFpMWVpaY3QwdkNNdzF5T0hVZHhXMV9rX1VUQjN0UHBBQy1ZRlFJNUlDYzAyTHhtRGM3a1o1WXh3UjBFV3lfRFlRVVhqaU5VQkFnajVLOXBzdTRQQU9SczF6aU52NHB3alB3VUVVR0hBMmtsRzc2UGZNM2xVRnJUTjB4dlRycDhfWlk3R2laTW5KMURiQktUTkUwSGxMLWFYaUNoVlUwZ0dNTFFDNTVNdmZnUmkyMmgzMnpGVGR2UWl4eTZMMWlwMU92cENiRm9HNUI5WXYtRnNhN1NvNEEzRFpfRGZGbVh2a2oxNm9RTkc4dWtURnlGMWlGX1lNWG4tMnprOHFBdWZyWDM3WVV4NmZGdFFSRXZ6RFN0UQ?oc=5",
+        "date": "Tue, 07 Apr 2026 03:38:24 GMT"
+    },
+    {
+        "id": "c41045ac",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "Byron Allen's Comics Unleashed Takes CBS Late-Night!",
+                "content": "Byron Allen's \"Comics Unleashed\" is set to take over Stephen Colbert's former late-night slot on CBS, following the end of \"After Midnight.\" The show, featuring diverse stand-up comedians and lively discussions, will bring a fresh wave of humor to the popular network. This significant programming shift promises a new late-night experience for viewers."
+            },
+            "kn": {
+                "title": "ಬೈರನ್ ಅಲೆನ್‌ನ ಕಾಮಿಕ್ಸ್ ಅನ್‌ಲೀಶ್ಡ್ CBS ಲೇಟ್-ನೈಟ್ ಸ್ಲಾಟ್ ಪಡೆಯಲಿದೆ!",
+                "content": "ಬೈರನ್ ಅಲೆನ್ ಅವರ \"ಕಾಮಿಕ್ಸ್ ಅನ್‌ಲೀಶ್ಡ್\" ಸ್ಟೀಫನ್ ಕೋಲ್ಬರ್ಟ್ ಅವರ ಹಿಂದಿನ CBS ಲೇಟ್-ನೈಟ್ ಸ್ಲಾಟ್ ಅನ್ನು \"ಆಫ್ಟರ್ ಮಿಡ್‌ನೈಟ್\" ಮುಕ್ತಾಯದ ನಂತರ ಪಡೆಯಲಿದೆ. ವಿವಿಧ ಸ್ಟ್ಯಾಂಡ್-ಅಪ್ ಹಾಸ್ಯಗಾರರು ಮತ್ತು ಲವಲವಿಕೆಯ ಚರ್ಚೆಗಳನ್ನು ಒಳಗೊಂಡಿರುವ ಈ ಕಾರ್ಯಕ್ರಮವು ಜನಪ್ರಿಯ ನೆಟ್‌ವರ್ಕ್‌ಗೆ ತಾಜಾ ಹಾಸ್ಯವನ್ನು ತರುತ್ತದೆ. ಈ ಪ್ರಮುಖ ಕಾರ್ಯಕ್ರಮ ಬದಲಾವಣೆಯು ವೀಕ್ಷಕರಿಗೆ ಹೊಸ ಲೇಟ್-ನೈಟ್ ಅನುಭವವನ್ನು ನೀಡುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "बायर्न ॲलनचे 'कॉमिक्स अनलीश्ड' CBS ची लेट-नाईट स्लॉट घेणार!",
+                "content": "बायर्न ॲलनचे \"कॉमिक्स अनलीश्ड\" हे 'आफ्टर मिडनाईट' संपल्यानंतर स्टीफन कोल्बर्टच्या CBS वरील लेट-नाईट स्लॉटची जागा घेणार आहे. विविध स्टँड-अप कॉमेडियन आणि उत्साही चर्चा असलेले हे शो लोकप्रिय चॅनलवर विनोदाची नवी लाट आणेल. या महत्त्वपूर्ण कार्यक्रमातील बदलामुळे प्रेक्षकांना एक नवीन लेट-नाईट अनुभव मिळेल."
+            },
+            "hi": {
+                "title": "बायर्न एलन का 'कॉमिक्स अनलीश्ड' CBS की लेट-नाइट स्लॉट लेगा!",
+                "content": "बायर्न एलन का \"कॉमिक्स अनलीश्ड\" 'आफ्टर मिडनाइट' के खत्म होने के बाद स्टीफन कोलबर्ट की पूर्व CBS लेट-नाइट स्लॉट लेगा। विभिन्न स्टैंड-अप कॉमेडियन और जीवंत चर्चाओं वाला यह शो लोकप्रिय नेटवर्क पर हास्य की एक नई लहर लाएगा। यह महत्वपूर्ण प्रोग्रामिंग बदलाव दर्शकों के लिए एक नया लेट-नाइट अनुभव का वादा करता है।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZTJwMm1sajBsY0NELUVjblgtdEt1X25yb1ZEVGVHRm92OGhXdDRVMHdWRnpQWUNWS2ZOamZzMzBoSzM3OHBPbWtkN0h4TXA2emdsOUdlNmFGQ25fSnVmNk1QMTNRMXlKOVE5cFhGVTV2dWJwS3A4cWhnQ3gyZ211S3hKQ2RXLW9OcDV0MjdxQTl2S0drcEdoenUzV3dUOTI1UmQ3aERYZDM5M3JzamVJQk9YYTVHcFdMX0JOTjBoV2RBT3J2QzI0X2ZDWVFQT0w2bUdxWjNn0gHbAUFVX3lxTFBSX2FJa01pT0FtN09ocFB5Wlhsc0NCNmg1SC1wcjh2SFg5S0pWSm03UW9EdnNJdHlYR0N2NnNzbzMzazdLenJNbWVsZGZfZjl0bHA0RWJlVkRkYldPeGFSZGdaX1ZicUtzYUlBN21NenJPVDNZTUtrOTV3d2xZVHNRcERzbDdNMFVjYjc3dmdwdTloQUJUSFJ1YXpyNkpQTHhzdXJGcjg3STV1Sjlvc3JzaC1hQXdJYU54UHdpYWhrR0pFYnpZcWk3bmhjaEwwaTFuV1dhQjhhbXd5OA?oc=5",
+        "date": "Tue, 07 Apr 2026 03:22:32 GMT"
+    },
+    {
+        "id": "5e89585f",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "Trump Admits Troops Feared Being Trapped in Iran",
+                "content": "President Trump, in what's being called his \"second blunder,\" admitted US forces were concerned about being trapped in Iran during a recent mission. This unexpected revelation, published by Hindustan Times, highlights potential military vulnerabilities and has sparked significant debate regarding operational planning and troop safety. The admission adds to ongoing scrutiny of the administration's foreign policy decisions."
+            },
+            "kn": {
+                "title": "ಟ್ರಂಪ್ ಸೈನಿಕರು ಇರಾನ್‌ನಲ್ಲಿ ಸಿಕ್ಕಿಹಾಕಿಕೊಳ್ಳುವ ಭಯದಲ್ಲಿದ್ದರು ಎಂದು ಒಪ್ಪಿಕೊಂಡರು",
+                "content": "ಅಧ್ಯಕ್ಷ ಟ್ರಂಪ್, ತಮ್ಮ \"ಎರಡನೇ ಪ್ರಮಾದ\" ಎಂದು ಕರೆಯಲ್ಪಟ್ಟ ಘಟನೆಯಲ್ಲಿ, ಇತ್ತೀಚಿನ ಕಾರ್ಯಾಚರಣೆಯ ಸಮಯದಲ್ಲಿ ಅಮೇರಿಕಾದ ಪಡೆಗಳು ಇರಾನ್‌ನಲ್ಲಿ ಸಿಕ್ಕಿಹಾಕಿಕೊಳ್ಳುವ ಬಗ್ಗೆ ಕಳವಳ ಹೊಂದಿದ್ದವು ಎಂದು ಒಪ್ಪಿಕೊಂಡರು. ಹಿಂದೂಸ್ತಾನ್ ಟೈಮ್ಸ್ ಪ್ರಕಟಿಸಿದ ಈ ಅನಿರೀಕ್ಷಿತ ಬಹಿರಂಗವು ಸಂಭಾವ್ಯ ಮಿಲಿಟರಿ ದುರ್ಬಲತೆಗಳನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ ಮತ್ತು ಕಾರ್ಯಾಚರಣೆಯ ಯೋಜನೆ ಹಾಗೂ ಸೈನಿಕರ ಸುರಕ್ಷತೆಯ ಬಗ್ಗೆ ಗಂಭೀರ ಚರ್ಚೆಗೆ ಕಾರಣವಾಗಿದೆ. ಈ ಒಪ್ಪಿಗೆ ಆಡಳಿತದ ವಿದೇಶಾಂಗ ನೀತಿ ನಿರ್ಧಾರಗಳ ನಿರಂತರ ಪರಿಶೀಲನೆಗೆ ಸೇರಿಕೊಳ್ಳುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "ट्रम्प यांची कबुली: इराणमध्ये अडकण्याची सैनिकांना भीती होती",
+                "content": "राष्ट्राध्यक्ष ट्रम्प यांनी, ज्याला 'त्यांची दुसरी चूक' म्हटले जात आहे, कबूल केले की, अलीकडील मोहिमेदरम्यान अमेरिकन सैनिकांना इराणमध्ये अडकून पडण्याची भीती होती. हिंदुस्तान टाइम्सने प्रकाशित केलेल्या या अनपेक्षित खुलाशाने संभाव्य लष्करी कमकुवतपणा अधोरेखित केला आहे आणि ऑपरेशनल नियोजन व सैन्याच्या सुरक्षेबाबत महत्त्वपूर्ण वाद निर्माण केला आहे. ही कबुली प्रशासनाच्या परराष्ट्र धोरणांच्या निर्णयांच्या सततच्या छाननीमध्ये भर घालते."
+            },
+            "hi": {
+                "title": "ट्रंप ने माना, सेना को ईरान में फंसने का डर था",
+                "content": "राष्ट्रपति ट्रंप ने, जिसे उनकी \"दूसरी बड़ी गलती\" बताया जा रहा है, स्वीकार किया कि अमेरिकी सेना को हालिया मिशन के दौरान ईरान में फंसने का डर था। हिंदुस्तान टाइम्स द्वारा प्रकाशित इस अप्रत्याशित खुलासे ने संभावित सैन्य कमजोरियों को उजागर किया है और ऑपरेशनल योजना तथा सैनिकों की सुरक्षा को लेकर गंभीर बहस छेड़ दी है। यह स्वीकारोक्ति प्रशासन के विदेश नीति निर्णयों की चल रही जांच में एक और कड़ी जोड़ती है।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQSGpCTE4taXllaFg5bE42cW1sYWZQMXFucy1SOW1RYnhieGoycFZhQ29ud2xaTnFsY1BUOHc2RFJiTlk4ZXQxclpQZi0xcGEzellpRklJZ0ZpZWhWdW5OemdYb0hMRl9rOFIwTDFjZUdmc1N0QjJKYU5HaHZ0c0dWbkxiOHI3bTM2aDNSVGxCeG9BMUUtTGNMc3lsU1FLbVFEZzdrckpUaG5hVlJQYXJaN2hHdDQ3SE42aW5UNlJXZUlaSVFPdVhWNWNhWG5jeEdTVTZNRmNjNG1PNVZJdEtHeUsyUUdVUW91bHpoeNIB8gFBVV95cUxQWGs1NHFLOU9VUWVsNlcxR0dEVkNWdHVRSi1UUUMxT1NFcUZidWE3SzZxTnF6Nlo5R01GMlBCX0ItRDNUTW5udTNUMmZZaF9weHNRX2tYdlBaQm9fM1VzQWVJSE4xZFd4WmxZa2pqUUpNT0hNdnppSVYwcWtNN1U4QXRqX2oyWmp4NmRmZTRSd2t4R2JMNC1Ibkc1cVprY2NwLXliNVFWcXJlYjNYWnpLYWlqUm1oajZCZ1Z4SThFdXpRakhOTDRUYTNVX2dFazVITUdkdHZqaUVZRmV2RUhwZVJJXzc1Q3JTSVZ5VHJta3Vidw?oc=5",
+        "date": "Mon, 06 Apr 2026 20:28:55 GMT"
+    },
+    {
+        "id": "913683fb",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "US Rescue Mission Nearly Failed: 'Iran Trap' Scare",
+                "content": "A critical US rescue mission with 200 troops almost collapsed after an unusual transmission mistakenly triggered an \"Iran trap\" alarm. Fears of an ambush loomed, threatening the entire operation. This near-disaster underscores the extreme tension, crucial communication challenges, and constant threat of miscalculation in high-stakes military endeavors in volatile regions."
+            },
+            "kn": {
+                "title": "ಅಮೆರಿಕದ ರಕ್ಷಣಾ ಕಾರ್ಯಾಚರಣೆ ಬಹುತೇಕ ವಿಫಲ: 'ಇರಾನ್ ಬಲೆ' ಭೀತಿ",
+                "content": "200 ಸೈನಿಕರೊಂದಿಗೆ ನಡೆದ ಪ್ರಮುಖ ಅಮೆರಿಕದ ರಕ್ಷಣಾ ಕಾರ್ಯಾಚರಣೆಯು ಅಸಾಮಾನ್ಯ ಪ್ರಸರಣವು ತಪ್ಪಾಗಿ \"ಇರಾನ್ ಬಲೆ\" ಎಚ್ಚರಿಕೆಯನ್ನು ಪ್ರಚೋದಿಸಿದ ನಂತರ ಬಹುತೇಕ ಕುಸಿಯಿತು. ಹೊಂಚುದಾಳಿಯ ಭಯವು ಇಡೀ ಕಾರ್ಯಾಚರಣೆಗೆ ಬೆದರಿಕೆ ಒಡ್ಡಿತು. ಈ ಅಲ್ಪವಿಪತ್ತು, ಅಸ್ಥಿರ ಪ್ರದೇಶಗಳಲ್ಲಿನ ಉನ್ನತ ಅಪಾಯದ ಮಿಲಿಟರಿ ಪ್ರಯತ್ನಗಳಲ್ಲಿನ ತೀವ್ರ ಉದ್ವಿಗ್ನತೆ, ನಿರ್ಣಾಯಕ ಸಂವಹನ ಸವಾಲುಗಳು ಮತ್ತು ತಪ್ಪಾದ ಲೆಕ್ಕಾಚಾರದ ನಿರಂತರ ಬೆದರಿಕೆಯನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "अमेरिकेची बचाव मोहीम जवळपास अयशस्वी: 'इराण सापळा' भीती",
+                "content": "200 सैनिकांसह अमेरिकेची एक महत्त्वपूर्ण बचाव मोहीम एका असामान्य प्रक्षेपणामुळे \"इराण सापळा\" अलार्म चुकीने ट्रिगर झाल्यानंतर जवळपास कोलमडली. घातपाताची भीती निर्माण झाली, ज्यामुळे संपूर्ण ऑपरेशन धोक्यात आले. ही जवळची आपत्कालीन स्थिती अस्थिर प्रदेशांतील उच्च-धोकादायक लष्करी प्रयत्नांमधील तीव्र तणाव, महत्त्वाचे संवाद आव्हान आणि चुकीच्या अंदाज़ाच्या सततच्या धोक्यावर भर देते."
+            },
+            "hi": {
+                "title": "अमेरिकी बचाव अभियान लगभग विफल: 'ईरान जाल' का डर",
+                "content": "200 सैनिकों के साथ एक महत्वपूर्ण अमेरिकी बचाव अभियान एक असामान्य प्रसारण के कारण गलत तरीके से \"ईरान जाल\" अलार्म बजने के बाद लगभग विफल हो गया। घात लगाकर हमला करने का डर मंडरा रहा था, जिससे पूरे ऑपरेशन पर खतरा आ गया। यह आसन्न आपदा अस्थिर क्षेत्रों में उच्च जोखिम वाले सैन्य प्रयासों में अत्यधिक तनाव, महत्वपूर्ण संचार चुनौतियों और गलत अनुमान के निरंतर खतरे को रेखांकित करती है।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMVZQVUgwemEzZXo2RWxhRmlIcGhEWnRXY3JCS2RnX284Q0drQ2s5Q1dxZ2N3U1VCM3dCenBLLWNfdE1lanRZV2FwbHZDOXRJVFRkb2JTVDcwYWdJVTl0aGNDZ1IxRmRyQS0yOXVvakJualRCRmllVjFQLVo2SmR5MnVqOGdBR0ltZWJoMU0zbjhESnVSdVMtc0xKWlBwUGNGclVSSHE4U3RZM2didXpsNHVrYmx6Q25FcjlPdF93ZHdXdExnMWVVeW5QRUN4aHZoXzhzV2xBc3hYS3VpTUhKYm44VW_SAeoBQVVfeXFMTjdaMXJCeFh0OURfSWlXODc2TktGOUd0aVNLNGlCQ0tvRFZSRGwxNGI0SDhkelV4c21vWDNsUDJEZGNBVk1aTTY5UmYzUHp3TmkxXzRsZC1fS0JMOUhRVmlsWXhMa05SRFhORTNVcFhfQmRVYUNONnVJV3lVRHRtQUNlV3VPY1hoZ3NZTkd5aWtiNlBKRlpSZUViMEN0cWFDM1RncHNNUTdJeW53YTROMFQ4a1RPTGQ1VFFMNkVoWHBaTXFQaGtLQlZaTEFVb1B5Rjk4c2N6WjB1SUxuUXlkcmFwZTh2NXhJeVZB?oc=5",
+        "date": "Mon, 06 Apr 2026 15:41:43 GMT"
+    },
+    {
+        "id": "5580df76",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Kerala Elections: Congress Alleges CM Vijayan's BJP 'Deal'",
+                "content": "Congress leader K.C. Venugopal has accused Kerala CM Pinarayi Vijayan of a 'deal' with the BJP ahead of the Lok Sabha elections. Venugopal, in a letter, questioned Vijayan's alleged 'breakfast meeting' with Union Minister Nirmala Sitharaman, hinting at a secret understanding. This accusation sparks political controversy, raising questions about electoral transparency in Kerala."
+            },
+            "kn": {
+                "title": "ಕೇರಳ ಚುನಾವಣೆ: ಕಾಂಗ್ರೆಸ್ ಸಿಎಂ ವಿಜಯನ್ ಮೇಲೆ ಬಿಜೆಪಿ ಜೊತೆ 'ಒಪ್ಪಂದ'ದ ಆರೋಪ",
+                "content": "ಲೋಕಸಭಾ ಚುನಾವಣೆಗೂ ಮುನ್ನ, ಕೇರಳ ಸಿಎಂ ಪಿಣರಾಯಿ ವಿಜಯನ್ ಬಿಜೆಪಿ ಜೊತೆ 'ಒಪ್ಪಂದ' ಮಾಡಿಕೊಂಡಿದ್ದಾರೆ ಎಂದು ಕಾಂಗ್ರೆಸ್ ನಾಯಕ ಕೆ.ಸಿ. ವೇಣುಗೋಪಾಲ್ ಆರೋಪಿಸಿದ್ದಾರೆ. ವೇಣುಗೋಪಾಲ್ ತಮ್ಮ ಪತ್ರದಲ್ಲಿ, ಕೇಂದ್ರ ಸಚಿವೆ ನಿರ್ಮಲಾ ಸೀತಾರಾಮನ್ ಅವರೊಂದಿಗೆ ವಿಜಯನ್ ಅವರ 'ಬೆಳಗಿನ ಉಪಹಾರ ಸಭೆ'ಯನ್ನು ಪ್ರಶ್ನಿಸಿ, ರಹಸ್ಯ ಒಪ್ಪಂದದ ಸುಳಿವು ನೀಡಿದ್ದಾರೆ. ಈ ಆರೋಪ ರಾಜಕೀಯ ವಿವಾದವನ್ನು ಹುಟ್ಟುಹಾಕಿದ್ದು, ಕೇರಳದಲ್ಲಿ ಚುನಾವಣಾ ಪಾರದರ್ಶಕತೆಯ ಬಗ್ಗೆ ಪ್ರಶ್ನೆಗಳನ್ನು ಮೂಡಿಸಿದೆ."
+            },
+            "mr": {
+                "title": "केरळ निवडणुका: काँग्रेसने मुख्यमंत्री विजयन यांच्यावर भाजपसोबत 'डील' केल्याचा आरोप केला.",
+                "content": "काँग्रेस नेते के.सी. वेणुगोपाल यांनी लोकसभा निवडणुकांच्या आधी केरळचे मुख्यमंत्री पिनराई विजयन यांच्यावर भाजपसोबत 'डील' केल्याचा आरोप केला आहे. वेणुगोपाल यांनी एका पत्रात, केंद्रीय मंत्री निर्मला सीतारामन यांच्यासोबत विजयन यांच्या कथित 'ब्रेकफास्ट मीटिंग'वर प्रश्नचिन्ह उपस्थित करत गुप्त समझोत्याचा संकेत दिला. या आरोपामुळे राजकीय वाद निर्माण झाला असून, केरळमधील निवडणूक पारदर्शकतेवर प्रश्नचिन्ह निर्माण झाले आहे."
+            },
+            "hi": {
+                "title": "केरल चुनाव: कांग्रेस का सीएम विजयन पर भाजपा से 'डील' का आरोप",
+                "content": "कांग्रेस नेता के.सी. वेणुगोपाल ने लोकसभा चुनावों से पहले केरल के मुख्यमंत्री पिनाराई विजयन पर भाजपा के साथ 'डील' करने का आरोप लगाया है। वेणुगोपाल ने एक पत्र में, केंद्रीय मंत्री निर्मला सीतारमण के साथ विजयन की कथित 'ब्रेकफास्ट मीटिंग' पर सवाल उठाते हुए एक गुप्त समझौते का संकेत दिया। इस आरोप ने राजनीतिक विवाद खड़ा कर दिया है, जिससे केरल में चुनावी पारदर्शिता पर सवाल उठ रहे हैं।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130078225,imgsize-138090.cms",
+        "link": "https://timesofindia.indiatimes.com/india/kerala-elections-venugopal-writes-to-cm-vijayan-alleges-deal-with-bjp-questions-breakfast-meeting-with-sitharaman/articleshow/130078225.cms",
+        "date": "2026-04-07T12:19:22+05:30"
+    },
+    {
+        "id": "0fa8bbac",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Srinagar Crackdown Ends 16-Year Hunt for LeT Operative",
+                "content": "A 16-year manhunt concluded in Srinagar as security forces apprehended five individuals, including a long-sought Lashkar-e-Taiba (LeT) operative. This major crackdown signifies a significant breakthrough against terrorism, bringing an end to the extensive pursuit of those involved in militant activities in the region."
+            },
+            "kn": {
+                "title": "ಶ್ರೀನಗರದಲ್ಲಿ ಕಠಿಣ ಕ್ರಮ: 16 ವರ್ಷಗಳ ಎಲ್‌ಇಟಿ ಕಾರ್ಯಕರ್ತನ ಬೇಟೆ ಅಂತ್ಯ",
+                "content": "ಶ್ರೀನಗರದಲ್ಲಿ 16 ವರ್ಷಗಳ ಸುದೀರ್ಘ ಬೇಟೆ ಕೊನೆಗೊಂಡಿದೆ. ಭದ್ರತಾ ಪಡೆಗಳು ಲಷ್ಕರ್-ಎ-ತೈಬಾ (ಎಲ್‌ಇಟಿ) ನ ದೀರ್ಘಕಾಲದಿಂದ ಹುಡುಕುತ್ತಿದ್ದ ಕಾರ್ಯಕರ್ತನ ಸಹಿತ ಐವರು ವ್ಯಕ್ತಿಗಳನ್ನು ಬಂಧಿಸಿವೆ. ಈ ಕಠಿಣ ಕ್ರಮವು ಭಯೋತ್ಪಾದನೆ ವಿರುದ್ಧದ ಒಂದು ಮಹತ್ವದ ಪ್ರಗತಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಈ ಪ್ರದೇಶದಲ್ಲಿನ ಉಗ್ರ ಚಟುವಟಿಕೆಗಳಲ್ಲಿ ಭಾಗಿಯಾದವರ ವ್ಯಾಪಕ ಅನ್ವೇಷಣೆಗೆ ಅಂತ್ಯ ಹಾಡಿದೆ."
+            },
+            "mr": {
+                "title": "श्रीनगरमधील कारवाईने 16 वर्षांच्या एलईटी दहशतवाद्याची शोधमोहीम संपवली",
+                "content": "श्रीनगरमध्ये 16 वर्षांची शोधमोहीम संपली आहे, जिथे सुरक्षा दलांनी लष्कर-ए-तैयबा (एलईटी) च्या एका दीर्घकाळ शोधल्या जाणाऱ्या दहशतवाद्यासह पाच जणांना अटक केली. या मोठ्या कारवाईमुळे दहशतवादाविरुद्ध महत्त्वपूर्ण यश मिळाले आहे, ज्यामुळे या प्रदेशातील अतिरेकी कारवायांमध्ये सहभागींचा दीर्घकाळ चाललेला पाठलाग संपला आहे."
+            },
+            "hi": {
+                "title": "श्रीनगर में बड़ी कार्रवाई: 16 साल की तलाश के बाद लश्कर-ए-तैयबा ऑपरेटिव गिरफ्तार",
+                "content": "श्रीनगर में 16 साल से जारी एक तलाशी अभियान समाप्त हो गया है, जहाँ सुरक्षा बलों ने लश्कर-ए-तैयबा (एलईटी) के एक लंबे समय से वांछित ऑपरेटिव सहित पाँच व्यक्तियों को गिरफ्तार किया है। यह बड़ी कार्रवाई आतंकवाद के खिलाफ एक महत्वपूर्ण सफलता है, जिसने इस क्षेत्र में आतंकवादी गतिविधियों में शामिल लोगों की व्यापक तलाश का अंत कर दिया है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130078829,imgsize-1462293.cms",
+        "link": "https://timesofindia.indiatimes.com/india/16-year-hunt-ends-as-let-operative-among-five-held-in-srinagar-crackdown/articleshow/130078848.cms",
+        "date": "2026-04-07T12:18:31+05:30"
+    },
+    {
+        "id": "32980ced",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Navjot Kaur Sidhu Launches New Party",
+                "content": "Former Punjab Congress leader Navjot Kaur Sidhu has unveiled her new political party, the Bharatiya Rashtrawadi Party, in a much-anticipated announcement. This move signifies her independent political path, potentially reshaping Punjab's political dynamics. Her new venture will be closely observed for its implications on the state's upcoming electoral landscape."
+            },
+            "kn": {
+                "title": "ನವಜೋತ್ ಕೌರ್ ಸಿಧು ಹೊಸ ಪಕ್ಷ ಸ್ಥಾಪಿಸಿದರು",
+                "content": "ಪಂಜಾಬ್‌ನ ಮಾಜಿ ಕಾಂಗ್ರೆಸ್ ನಾಯಕಿ ನವಜೋತ್ ಕೌರ್ ಸಿಧು ಅವರು ಬಹುನಿರೀಕ್ಷಿತ ಪ್ರಕಟಣೆಯಲ್ಲಿ ತಮ್ಮ ಹೊಸ ರಾಜಕೀಯ ಪಕ್ಷವಾದ ಭಾರತೀಯ ರಾಷ್ಟ್ರವಾದಿ ಪಕ್ಷವನ್ನು ಅನಾವರಣಗೊಳಿಸಿದ್ದಾರೆ. ಈ ಕ್ರಮವು ಅವರ ಸ್ವತಂತ್ರ ರಾಜಕೀಯ ಹಾದಿಯನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಇದು ಪಂಜಾಬ್‌ನ ರಾಜಕೀಯ ಡೈನಾಮಿಕ್ಸ್ ಅನ್ನು ಮರುರೂಪಿಸುವ ಸಾಮರ್ಥ್ಯ ಹೊಂದಿದೆ. ರಾಜ್ಯದ ಮುಂಬರುವ ಚುನಾವಣಾ ಭೂದೃಶ್ಯದ ಮೇಲೆ ಇದರ ಪರಿಣಾಮಗಳಿಗಾಗಿ ಅವರ ಹೊಸ ಸಾಹಸವನ್ನು ಸೂಕ್ಷ್ಮವಾಗಿ ಗಮನಿಸಲಾಗುವುದು."
+            },
+            "mr": {
+                "title": "नवज्योत कौर सिद्धूंचा नवीन पक्ष लॉन्च",
+                "content": "पंजाबच्या माजी काँग्रेस नेत्या नवज्योत कौर सिद्धू यांनी बहुप्रतीक्षित घोषणेत आपला नवीन राजकीय पक्ष, भारतीय राष्ट्रवादी पक्ष, लाँच केला आहे. हे पाऊल त्यांच्या स्वतंत्र राजकीय वाटचालीस सूचित करते, ज्यामुळे पंजाबच्या राजकीय समीकरणात संभाव्य बदल होऊ शकतात. राज्याच्या आगामी निवडणुकीतील परिणामांसाठी त्यांच्या या नवीन प्रयत्नावर बारकाईने लक्ष ठेवले जाईल."
+            },
+            "hi": {
+                "title": "नवजोत कौर सिद्धू ने लॉन्च किया नया दल",
+                "content": "पंजाब की पूर्व कांग्रेस नेता नवजोत कौर सिद्धू ने एक बहुप्रतीक्षित घोषणा में अपने नए राजनीतिक दल, भारतीय राष्ट्रवादी पार्टी का अनावरण किया है। यह कदम उनकी स्वतंत्र राजनीतिक राह को दर्शाता है, जिससे पंजाब की राजनीतिक गतिशीलता संभावित रूप से बदल सकती है। राज्य के आगामी चुनावी परिदृश्य पर इसके प्रभावों के लिए उनके इस नए उद्यम पर बारीकी से नज़र रखी जाएगी।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130078636,imgsize-77308.cms",
+        "link": "https://timesofindia.indiatimes.com/india/much-awaited-announcement-ex-punjab-congress-leader-navjot-kaur-sidhu-launches-bharatiya-rashtravadi-party/articleshow/130078567.cms",
+        "date": "2026-04-07T12:14:34+05:30"
+    },
+    {
+        "id": "27ae9396",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "West Bengal: 91 Lakh Voters Deleted From Rolls",
+                "content": "Nearly 91 lakh voters have been deleted from West Bengal's electoral rolls following a special revision exercise (SIR). Election Commission data reveals significant removals, with some deletions finalized and others still under adjudication. The voter lists for the first phase of assembly elections are now frozen, impacting the state's voter base significantly."
+            },
+            "kn": {
+                "title": "ಪಶ್ಚಿಮ ಬಂಗಾಳ: 91 ಲಕ್ಷ ಮತದಾರರ ಹೆಸರು ಪಟ್ಟಿಯಿಂದ ತೆಗೆದುಹಾಕಲಾಗಿದೆ",
+                "content": "ವಿಶೇಷ ಪರಿಷ್ಕರಣೆ (SIR) ನಂತರ ಪಶ್ಚಿಮ ಬಂಗಾಳದ ಮತದಾರರ ಪಟ್ಟಿಯಿಂದ ಸುಮಾರು 91 ಲಕ್ಷ ಮತದಾರರನ್ನು ತೆಗೆದುಹಾಕಲಾಗಿದೆ. ಚುನಾವಣಾ ಆಯೋಗದ ದತ್ತಾಂಶವು ಗಮನಾರ್ಹ ತೆಗೆದುಹಾಕುವಿಕೆಗಳನ್ನು ತೋರಿಸುತ್ತದೆ, ಕೆಲವು ಅಳಿಸುವಿಕೆಗಳು ಅಂತಿಮಗೊಂಡಿವೆ ಮತ್ತು ಇತರವುಗಳು ಇನ್ನೂ ನ್ಯಾಯನಿರ್ಣಯದ ಅಡಿಯಲ್ಲಿವೆ. ವಿಧಾನಸಭಾ ಚುನಾವಣೆಗಳ ಮೊದಲ ಹಂತದ ಮತದಾರರ ಪಟ್ಟಿಗಳನ್ನು ಈಗ ಸ್ಥಗಿತಗೊಳಿಸಲಾಗಿದೆ, ಇದು ರಾಜ್ಯದ ಮತದಾರರ ನೆಲೆಯನ್ನು ಗಮನಾರ್ಹವಾಗಿ ಪರಿಣಾಮ ಬೀರಿದೆ."
+            },
+            "mr": {
+                "title": "पश्चिम बंगाल: 91 लाख मतदार यादीतून वगळले",
+                "content": "विशेष पुनरावलोकन व्यायामामुळे (SIR) पश्चिम बंगालच्या मतदार यादीतून सुमारे 91 लाख मतदारांची नावे वगळण्यात आली आहेत. निवडणूक आयोगाच्या आकडेवारीनुसार महत्त्वपूर्ण वगळणी झाली आहे; काही वगळणी अंतिम झाली आहे तर काही अजूनही न्यायप्रक्रियेत आहेत. विधानसभा निवडणुकांच्या पहिल्या टप्प्यासाठीची मतदार यादी आता गोठवण्यात आली आहे, ज्यामुळे राज्याच्या मतदारसंख्येवर लक्षणीय परिणाम झाला आहे."
+            },
+            "hi": {
+                "title": "पश्चिम बंगाल: मतदाता सूची से 91 लाख मतदाता हटाए गए",
+                "content": "विशेष पुनरीक्षण अभ्यास (SIR) के बाद पश्चिम बंगाल की मतदाता सूची से लगभग 91 लाख मतदाताओं को हटा दिया गया है। चुनाव आयोग के आंकड़ों से महत्वपूर्ण निष्कासन का पता चलता है, जिसमें कुछ हटाना अंतिम रूप ले चुके हैं और अन्य अभी भी विचाराधीन हैं। विधानसभा चुनावों के पहले चरण के लिए मतदाता सूचियां अब फ्रीज कर दी गई हैं, जिससे राज्य के मतदाता आधार पर उल्लेखनीय प्रभाव पड़ा है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130078144,imgsize-100340.cms",
+        "link": "https://timesofindia.indiatimes.com/india/list-stands-frozen-nearly-91-lakh-voters-deleted-from-bengal-rolls-after-sir/articleshow/130078141.cms",
+        "date": "2026-04-07T11:48:07+05:30"
+    },
+    {
+        "id": "b30f05fb",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "SC: No Oral Hearing for Fraud Accounts, Audit Report Mandatory",
+                "content": "The Supreme Court has ruled that banks don't need to provide a personal oral hearing before labeling accounts as fraudulent. However, banks must give customers a forensic audit report first. This decision comes amidst a rise in bank fraud cases, recognizing the impracticality of individual hearings, while ensuring transparency through audit reports."
+            },
+            "kn": {
+                "title": "ಸುಪ್ರೀಂ ಕೋರ್ಟ್: ವಂಚನೆಯ ಖಾತೆಗಳಿಗೆ ಮೌಖಿಕ ವಿಚಾರಣೆ ಬೇಡ, ಆಡಿಟ್ ವರದಿ ಕಡ್ಡಾಯ",
+                "content": "ಬ್ಯಾಂಕ್ ಖಾತೆಗಳನ್ನು ವಂಚನೆ ಎಂದು ವರ್ಗೀಕರಿಸುವ ಮೊದಲು ವೈಯಕ್ತಿಕ ಮೌಖಿಕ ವಿಚಾರಣೆ ನೀಡುವ ಅಗತ್ಯವಿಲ್ಲ ಎಂದು ಸುಪ್ರೀಂ ಕೋರ್ಟ್ ತೀರ್ಪು ನೀಡಿದೆ. ಆದರೆ, ಬ್ಯಾಂಕುಗಳು ಗ್ರಾಹಕರಿಗೆ ವಿಧಿವಿಜ್ಞಾನ ಲೆಕ್ಕಪರಿಶೋಧನಾ ವರದಿಯನ್ನು ಒದಗಿಸಬೇಕು. ಬ್ಯಾಂಕ್ ವಂಚನೆ ಪ್ರಕರಣಗಳಲ್ಲಿ ಹೆಚ್ಚಳವನ್ನು ಗಮನಿಸಿ, ವೈಯಕ್ತಿಕ ವಿಚಾರಣೆಗಳ ಅಸಾಧ್ಯತೆಯನ್ನು ಗುರುತಿಸಿ, ಆಡಿಟ್ ವರದಿಗಳ ಮೂಲಕ ಪಾರದರ್ಶಕತೆಯನ್ನು ಖಾತ್ರಿಪಡಿಸುವ ಈ ನಿರ್ಧಾರ ಬಂದಿದೆ."
+            },
+            "mr": {
+                "title": "SC: फसव्या खात्यांसाठी मौखिक सुनावणी नाही, ऑडिट अहवाल बंधनकारक",
+                "content": "बँक खाती फसवणूक म्हणून वर्गीकृत करण्यापूर्वी बँकांना वैयक्तिक मौखिक सुनावणी देण्याची गरज नाही, असा निर्णय सर्वोच्च न्यायालयाने दिला आहे. मात्र, बँकांनी ग्राहकांना फॉरेन्सिक ऑडिट अहवाल आधी सादर करणे आवश्यक आहे. बँक फसवणुकीच्या वाढत्या प्रकरणांमुळे, वैयक्तिक सुनावणीची अव्यवहार्यता लक्षात घेऊन आणि ऑडिट अहवालांद्वारे पारदर्शकता सुनिश्चित करण्यासाठी हा निर्णय घेण्यात आला आहे."
+            },
+            "hi": {
+                "title": "SC: धोखाधड़ी वाले खातों के लिए मौखिक सुनवाई नहीं, ऑडिट रिपोर्ट अनिवार्य",
+                "content": "सुप्रीम कोर्ट ने फैसला सुनाया है कि बैंक खातों को धोखाधड़ी के रूप में वर्गीकृत करने से पहले बैंकों को व्यक्तिगत मौखिक सुनवाई देने की आवश्यकता नहीं है। हालांकि, बैंकों को ग्राहकों को पहले एक फोरेंसिक ऑडिट रिपोर्ट देनी होगी। यह निर्णय बैंक धोखाधड़ी के बढ़ते मामलों के बीच आया है, जो व्यक्तिगत सुनवाई की अव्यवहारिकता को पहचानता है, जबकि ऑडिट रिपोर्ट के माध्यम से पारदर्शिता सुनिश्चित करता है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130077663,imgsize-171096.cms",
+        "link": "https://timesofindia.indiatimes.com/india/no-personal-oral-hearing-needed-before-labelling-bank-accounts-as-fraud-sc/articleshow/130077169.cms",
+        "date": "2026-04-07T11:28:38+05:30"
+    },
+    {
+        "id": "a5c3598b",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "India's Foreign Secy in US for Crucial Partnership Talks",
+                "content": "India's Foreign Secretary Vikram Misri is in Washington for crucial talks to comprehensively review the 'full spectrum' of India-US ties. The visit aims to strengthen strategic, economic, and security partnerships, addressing key bilateral and global issues. This high-level engagement underscores the growing importance of the India-US strategic partnership, fostering deeper collaboration across sectors."
+            },
+            "kn": {
+                "title": "ಭಾರತದ ವಿದೇಶಾಂಗ ಕಾರ್ಯದರ್ಶಿ ಅಮೆರಿಕದಲ್ಲಿ ಮಹತ್ವದ ಸಹಭಾಗಿತ್ವ ಮಾತುಕತೆಗಾಗಿ",
+                "content": "ಭಾರತದ ವಿದೇಶಾಂಗ ಕಾರ್ಯದರ್ಶಿ ವಿಕ್ರಮ್ ಮಿಸ್ರಿ, ಭಾರತ-ಅಮೆರಿಕ ಸಂಬಂಧಗಳ 'ಸಂಪೂರ್ಣ ವ್ಯಾಪ್ತಿ'ಯನ್ನು ಪರಿಶೀಲಿಸಲು ಮಹತ್ವದ ಮಾತುಕತೆಗಾಗಿ ವಾಷಿಂಗ್ಟನ್‌ಗೆ ತೆರಳಿದ್ದಾರೆ. ಈ ಭೇಟಿಯು ಕಾರ್ಯತಂತ್ರ, ಆರ್ಥಿಕ ಮತ್ತು ಭದ್ರತಾ ಪಾಲುದಾರಿಕೆಗಳನ್ನು ಬಲಪಡಿಸುವ ಗುರಿ ಹೊಂದಿದೆ, ದ್ವಿಪಕ್ಷೀಯ ಮತ್ತು ಜಾಗತಿಕ ವಿಷಯಗಳನ್ನು ಉದ್ದೇಶಿಸಿ ಚರ್ಚಿಸಲಾಗುವುದು. ಈ ಉನ್ನತ ಮಟ್ಟದ ಭೇಟಿಯು ಭಾರತ-ಅಮೆರಿಕದ ಕಾರ್ಯತಂತ್ರದ ಪಾಲುದಾರಿಕೆಯ ಹೆಚ್ಚುತ್ತಿರುವ ಪ್ರಾಮುಖ್ಯತೆಯನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ, ವಿವಿಧ ಕ್ಷೇತ್ರಗಳಲ್ಲಿ ಆಳವಾದ ಸಹಯೋಗವನ್ನು ಉತ್ತೇಜಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "भारताचे परराष्ट्र सचिव अमेरिकेत महत्त्वाच्या भागीदारी चर्चेसाठी",
+                "content": "भारताचे परराष्ट्र सचिव विक्रम मिस्री भारत-अमेरिका संबंधांच्या 'संपूर्ण स्पेक्ट्रम'चा आढावा घेण्यासाठी महत्त्वाच्या चर्चेसाठी वॉशिंग्टनमध्ये आहेत. या भेटीचा उद्देश धोरणात्मक, आर्थिक आणि सुरक्षा भागीदारी मजबूत करणे आहे, तसेच प्रमुख द्विपक्षीय आणि जागतिक मुद्द्यांवर चर्चा करणे आहे. हे उच्चस्तरीय सहभाग भारत-अमेरिका धोरणात्मक भागीदारीचे वाढते महत्त्व अधोरेखित करतो, ज्यामुळे विविध क्षेत्रांमध्ये सखोल सहकार्य वाढते."
+            },
+            "hi": {
+                "title": "भारत के विदेश सचिव अमेरिका में अहम साझेदारी वार्ता के लिए",
+                "content": "भारत के विदेश सचिव विक्रम मिसरी भारत-अमेरिका संबंधों के 'पूर्ण स्पेक्ट्रम' की समीक्षा के लिए महत्वपूर्ण वार्ता हेतु वाशिंगटन में हैं। इस यात्रा का उद्देश्य रणनीतिक, आर्थिक और सुरक्षा साझेदारियों को मजबूत करना है, साथ ही प्रमुख द्विपक्षीय और वैश्विक मुद्दों पर चर्चा करना है। यह उच्च-स्तरीय जुड़ाव भारत-अमेरिका रणनीतिक साझेदारी के बढ़ते महत्व को रेखांकित करता है, जिससे विभिन्न क्षेत्रों में गहरा सहयोग बढ़ता है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130077258,imgsize-643807.cms",
+        "link": "https://timesofindia.indiatimes.com/india/foreign-secretary-vikram-misri-heads-to-washington-to-review-full-spectrum-indiaus-ties/articleshow/130077250.cms",
+        "date": "2026-04-07T11:08:58+05:30"
+    },
+    {
+        "id": "4840f0db",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Assam Polls: Campaigning Ends, Silence Period Begins",
+                "content": "The Election Commission has enforced a 48-hour silence period for the Assam assembly polls, starting 5 PM today. All forms of campaigning, including public meetings and social media dissemination, are now banned until polling on April 9. This crucial period aims to ensure a free and fair electoral process, with strict compliance mandated for all stakeholders involved."
+            },
+            "kn": {
+                "title": "ಅಸ್ಸಾಂ ಚುನಾವಣೆ: ಪ್ರಚಾರ ಅಂತ್ಯ, ಮೌನ ಅವಧಿ ಆರಂಭ",
+                "content": "ಚುನಾವಣಾ ಆಯೋಗವು ಅಸ್ಸಾಂ ವಿಧಾನಸಭಾ ಚುನಾವಣೆಗಾಗಿ ಇಂದು ಸಂಜೆ 5 ಗಂಟೆಯಿಂದ 48 ಗಂಟೆಗಳ ಮೌನ ಅವಧಿಯನ್ನು ಜಾರಿಗೊಳಿಸಿದೆ. ಸಾರ್ವಜನಿಕ ಸಭೆಗಳು ಮತ್ತು ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮ ಪ್ರಸಾರ ಸೇರಿದಂತೆ ಎಲ್ಲಾ ರೀತಿಯ ಪ್ರಚಾರವನ್ನು ಏಪ್ರಿಲ್ 9 ರ ಮತದಾನದವರೆಗೆ ನಿಷೇಧಿಸಲಾಗಿದೆ. ಈ ನಿರ್ಣಾಯಕ ಅವಧಿಯು ಮುಕ್ತ ಮತ್ತು ನ್ಯಾಯಸಮ್ಮತ ಚುನಾವಣಾ ಪ್ರಕ್ರಿಯೆಯನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳುವ ಗುರಿಯನ್ನು ಹೊಂದಿದೆ, ಭಾಗಿದಾರರಿಗೆ ಕಟ್ಟುನಿಟ್ಟಾದ ಅನುಸರಣೆ ಕಡ್ಡಾಯವಾಗಿದೆ."
+            },
+            "mr": {
+                "title": "आसाम निवडणूक: प्रचार थांबला, शांतता कालावधी सुरू",
+                "content": "निवडणूक आयोगाने आसाम विधानसभा निवडणुकीसाठी आज संध्याकाळी 5 वाजेपासून 48 तासांचा शांतता कालावधी लागू केला आहे. सार्वजनिक सभा आणि सोशल मीडिया प्रसार यासह सर्व प्रकारच्या प्रचारावर 9 एप्रिल रोजी मतदानापर्यंत बंदी घालण्यात आली आहे. हा महत्त्वाचा कालावधी मुक्त आणि निष्पक्ष निवडणूक प्रक्रिया सुनिश्चित करण्याचा उद्देश आहे, ज्यामध्ये सर्व भागधारकांसाठी कठोर अनुपालन अनिवार्य आहे."
+            },
+            "hi": {
+                "title": "असम चुनाव: प्रचार समाप्त, मौन अवधि शुरू",
+                "content": "चुनाव आयोग ने असम विधानसभा चुनावों के लिए आज शाम 5 बजे से 48 घंटे की मौन अवधि लागू की है। सार्वजनिक सभाओं और सोशल मीडिया प्रचार सहित सभी प्रकार के प्रचार पर 9 अप्रैल को मतदान तक प्रतिबंध लगा दिया गया है। इस महत्वपूर्ण अवधि का उद्देश्य स्वतंत्र और निष्पक्ष चुनावी प्रक्रिया सुनिश्चित करना है, जिसमें सभी हितधारकों के लिए कड़े अनुपालन को अनिवार्य किया गया है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130076197,imgsize-1026271.cms",
+        "link": "https://timesofindia.indiatimes.com/india/assam-assembly-polls-campaigning-to-stop-as-ec-enforces-silence-period-from-today/articleshow/130076161.cms",
+        "date": "2026-04-07T10:10:07+05:30"
+    },
+    {
+        "id": "4a286b94",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Defence Minister Boosts Military Healthcare with New Advanced Centers",
+                "content": "Defence Minister Rajnath Singh inaugurated new state-of-the-art medical facilities at Army Hospital (R&R) and Base Hospital, Delhi Cantonment. These three centers will significantly enhance tertiary care for the Armed Forces, specializing in ophthalmology, oncology, and joint replacements. Singh emphasized health security's crucial role in national defense and military operations."
+            },
+            "kn": {
+                "title": "ರಕ್ಷಣಾ ಸಚಿವರು ಸುಧಾರಿತ ಹೊಸ ಕೇಂದ್ರಗಳೊಂದಿಗೆ ಮಿಲಿಟರಿ ಆರೋಗ್ಯ ಸೇವೆಯನ್ನು ಹೆಚ್ಚಿಸಿದರು",
+                "content": "ರಕ್ಷಣಾ ಸಚಿವ ರಾಜನಾಥ್ ಸಿಂಗ್ ಅವರು ಆರ್ಮಿ ಆಸ್ಪತ್ರೆ (R&R) ಮತ್ತು ಬೇಸ್ ಆಸ್ಪತ್ರೆ, ದೆಹಲಿ ಕಂಟೋನ್ಮೆಂಟ್‌ನಲ್ಲಿ ಹೊಸ ಅತ್ಯಾಧುನಿಕ ವೈದ್ಯಕೀಯ ಸೌಲಭ್ಯಗಳನ್ನು ಉದ್ಘಾಟಿಸಿದರು. ಈ ಮೂರು ಕೇಂದ್ರಗಳು ಸಶಸ್ತ್ರ ಪಡೆಗಳಿಗೆ ನೇತ್ರವಿಜ್ಞಾನ, ಆಂಕೊಲಾಜಿ ಮತ್ತು ಕೀಲು ಬದಲಿಗಳಲ್ಲಿ ತೃತೀಯ ದರ್ಜೆಯ ಆರೈಕೆಯನ್ನು ಗಮನಾರ್ಹವಾಗಿ ಹೆಚ್ಚಿಸುತ್ತವೆ. ರಾಷ್ಟ್ರೀಯ ರಕ್ಷಣೆ ಮತ್ತು ಮಿಲಿಟರಿ ಕಾರ್ಯಾಚರಣೆಗಳಲ್ಲಿ ಆರೋಗ್ಯ ಭದ್ರತೆಯ ನಿರ್ಣಾಯಕ ಪಾತ್ರವನ್ನು ಸಿಂಗ್ ಒತ್ತಿ ಹೇಳಿದರು."
+            },
+            "mr": {
+                "title": "संरक्षण मंत्र्यांनी नवीन प्रगत केंद्रांसह लष्करी आरोग्य सेवेत वाढ केली",
+                "content": "संरक्षण मंत्री राजनाथ सिंह यांनी आर्मी हॉस्पिटल (R&R) आणि बेस हॉस्पिटल, दिल्ली कँटोन्मेंट येथे नवीन अत्याधुनिक वैद्यकीय सुविधांचे उद्घाटन केले. ही तीन केंद्रे सशस्त्र दलांसाठी नेत्रविज्ञान, ऑन्कोलॉजी आणि सांधे बदलण्याच्या शस्त्रक्रियांमध्ये तृतीयक काळजी लक्षणीयरीत्या वाढवतील. सिंह यांनी राष्ट्रीय संरक्षण आणि लष्करी कार्यांमध्ये आरोग्य सुरक्षेच्या महत्त्वाच्या भूमिकेवर भर दिला."
+            },
+            "hi": {
+                "title": "रक्षा मंत्री ने नए उन्नत केंद्रों के साथ सैन्य स्वास्थ्य सेवा को बढ़ावा दिया",
+                "content": "रक्षा मंत्री राजनाथ सिंह ने आर्मी अस्पताल (आर एंड आर) और बेस अस्पताल, दिल्ली कैंटोनमेंट में नई अत्याधुनिक चिकित्सा सुविधाओं का उद्घाटन किया। ये तीन केंद्र सशस्त्र बलों के लिए नेत्र विज्ञान, ऑन्कोलॉजी और जोड़ प्रत्यारोपण में तृतीयक देखभाल को महत्वपूर्ण रूप से बढ़ाएंगे। सिंह ने राष्ट्रीय रक्षा और सैन्य अभियानों में स्वास्थ्य सुरक्षा की महत्वपूर्ण भूमिका पर जोर दिया।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130073534,imgsize-1431843.cms",
+        "link": "https://timesofindia.indiatimes.com/india/rajnath-lays-foundation-stones-for-3-new-centres-at-rr-new-infra-at-base-hospital/articleshow/130073537.cms",
+        "date": "2026-04-07T06:32:47+05:30"
+    },
+    {
+        "id": "f4547743",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Iran Alleges US F-15E Rescue Was Uranium Heist Cover",
+                "content": "Iran accuses the US of using a daring F-15E crew rescue mission deep inside Iranian territory as a deceptive cover to seize enriched uranium. The US vehemently denies the claim, stating it was a legitimate, intelligence-led extraction of a downed pilot amid escalating regional tensions. This allegation adds fuel to already strained US-Iran relations."
+            },
+            "kn": {
+                "title": "ಇರಾನ್ ಆರೋಪ: ಯುಎಸ್ F-15E ರಕ್ಷಣೆ ಯುರೇನಿಯಂ ಕಳ್ಳತನಕ್ಕೆ ಮುಖವಾಡ?",
+                "content": "ಇರಾನ್, ಇರಾನ್ ಗಡಿಯೊಳಗೆ ನಡೆದ ಧೈರ್ಯಶಾಲಿ F-15E ಸಿಬ್ಬಂದಿ ರಕ್ಷಣಾ ಕಾರ್ಯಾಚರಣೆಯನ್ನು ಸಮೃದ್ಧ ಯುರೇನಿಯಂ ವಶಪಡಿಸಿಕೊಳ್ಳಲು ಅಮೆರಿಕ ವಂಚಕ ಮುಖವಾಡವಾಗಿ ಬಳಸಿದೆ ಎಂದು ಆರೋಪಿಸಿದೆ. ಅಮೆರಿಕ ಈ ಹೇಳಿಕೆಯನ್ನು ತೀವ್ರವಾಗಿ ನಿರಾಕರಿಸುತ್ತಾ, ಹೆಚ್ಚುತ್ತಿರುವ ಪ್ರಾದೇಶಿಕ ಉದ್ವಿಗ್ನತೆಯ ಮಧ್ಯೆ ಇದು ಪತನಗೊಂಡ ಪೈಲಟ್‌ನ ಕಾನೂನುಬದ್ಧ, ಗುಪ್ತಚರ-ನೇತೃತ್ವದ ಹೊರತೆಗೆಯುವಿಕೆ ಎಂದು ಹೇಳಿದೆ. ಈ ಆರೋಪವು ಈಗಾಗಲೇ ಬಿಗುವಾಗಿರುವ ಯುಎಸ್-ಇರಾನ್ ಸಂಬಂಧಗಳಿಗೆ ಇನ್ನಷ್ಟು ಇಂಧನ ನೀಡಿದೆ."
+            },
+            "mr": {
+                "title": "इराणचा आरोप: F-15E बचाव युरेनियम चोरीचा बनाव?",
+                "content": "इराणने अमेरिकेवर आरोप केला आहे की, इराणच्या भूमीतील एका धाडसी F-15E क्रू बचाव मोहिमेचा वापर समृद्ध युरेनियम जप्त करण्यासाठी एक फसवे आवरण म्हणून करण्यात आला. अमेरिकेने हा दावा तीव्रतेने फेटाळला, सांगताना की वाढत्या प्रादेशिक तणावामध्ये एका पडलेल्या वैमानिकाला बाहेर काढण्यासाठी ही एक कायदेशीर, गुप्तचर-आधारित मोहीम होती. या आरोपामुळे आधीच ताणलेल्या अमेरिका-इराण संबंधात आणखी भर पडली आहे."
+            },
+            "hi": {
+                "title": "ईरान का आरोप: US F-15E बचाव यूरेनियम चोरी का बहाना था?",
+                "content": "ईरान ने अमेरिका पर आरोप लगाया है कि उसने ईरानी क्षेत्र के भीतर एक साहसी F-15E चालक दल बचाव मिशन का उपयोग समृद्ध यूरेनियम जब्त करने के लिए एक भ्रामक आवरण के रूप में किया। अमेरिका इस दावे का कड़ा खंडन करता है, यह कहते हुए कि बढ़ते क्षेत्रीय तनाव के बीच यह गिरे हुए पायलट का एक वैध, खुफिया-नेतृत्व वाला बचाव अभियान था। इस आरोप से पहले से ही तनावपूर्ण अमेरिका-ईरान संबंधों में और खटास आ गई है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130075107,imgsize-1420456.cms",
+        "link": "https://timesofindia.indiatimes.com/world/middle-east/did-us-use-f-15e-rescue-op-as-cover-to-seize-uranium-iran-claims-deception-mission/articleshow/130074947.cms",
+        "date": "2026-04-07T09:08:35+05:30"
+    },
+    {
+        "id": "a2b8a1e4",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Trump Reveals Daring Rescue of US Pilot in Iran",
+                "content": "President Trump detailed a daring US rescue of a downed F-15E pilot in Iran. Severely injured and bleeding profusely, the pilot survived 48 hours behind enemy lines. The complex mission involved 155 aircraft and intelligence tactics to confuse Iranian forces, culminating in a successful extraction despite last-minute complications. Trump praised the heroic effort."
+            },
+            "kn": {
+                "title": "ಟ್ರಂಪ್ ಇರಾನ್‌ನಲ್ಲಿ ಅಮೆರಿಕದ ಪೈಲಟ್‌ನ ಸಾಹಸಮಯ ರಕ್ಷಣೆಯನ್ನು ಬಹಿರಂಗಪಡಿಸಿದರು",
+                "content": "ಅಧ್ಯಕ್ಷ ಟ್ರಂಪ್ ಇರಾನ್‌ನಲ್ಲಿ ಹೊಡೆದುರುಳಿಸಲಾದ F-15E ಪೈಲಟ್‌ನ ಸಾಹಸಮಯ ಅಮೆರಿಕನ್ ರಕ್ಷಣೆಯನ್ನು ವಿವರಿಸಿದರು. ತೀವ್ರವಾಗಿ ಗಾಯಗೊಂಡಿದ್ದ ಮತ್ತು ವಿಪರೀತ ರಕ್ತಸ್ರಾವದಿಂದ ಬಳಲುತ್ತಿದ್ದ ಪೈಲಟ್ ಶತ್ರು ಪ್ರದೇಶದಲ್ಲಿ 48 ಗಂಟೆಗಳ ಕಾಲ ಬದುಕುಳಿದಿದ್ದರು. ಈ ಸಂಕೀರ್ಣ ಕಾರ್ಯಾಚರಣೆಯು ಇರಾನಿನ ಪಡೆಗಳನ್ನು ಗೊಂದಲಗೊಳಿಸಲು 155 ವಿಮಾನಗಳು ಮತ್ತು ಗುಪ್ತಚರ ತಂತ್ರಗಳನ್ನು ಒಳಗೊಂಡಿತ್ತು, ಕೊನೆಯ ಕ್ಷಣದ ತೊಂದರೆಗಳ ಹೊರತಾಗಿಯೂ ಯಶಸ್ವಿ ಹೊರತೆಗೆಯುವಿಕೆಯಲ್ಲಿ ಅಂತ್ಯಗೊಂಡಿತು. ಟ್ರಂಪ್ ಈ ಶೌರ್ಯದ ಪ್ರಯತ್ನವನ್ನು ಶ್ಲಾಘಿಸಿದರು."
+            },
+            "mr": {
+                "title": "ट्रम्प यांनी इराणमधील अमेरिकेच्या वैमानिकाच्या धाडसी बचावाची माहिती दिली",
+                "content": "अध्यक्ष ट्रम्प यांनी इराणमध्ये पाडलेल्या F-15E वैमानिकाच्या अमेरिकेच्या धाडसी बचावाचे तपशील दिले. गंभीर जखमी झालेला आणि मोठ्या प्रमाणात रक्तस्राव होत असलेला तो वैमानिक शत्रूच्या हद्दीत 48 तास जगला. या गुंतागुंतीच्या मोहिमेमध्ये इराणी सैन्याला गोंधळात टाकण्यासाठी 155 विमाने आणि गुप्तचर रणनीतीचा वापर करण्यात आला, ज्यामुळे शेवटच्या क्षणी आलेल्या अडचणी असूनही यशस्वीपणे त्याला बाहेर काढण्यात आले. ट्रम्प यांनी या धाडसी प्रयत्नाची प्रशंसा केली."
+            },
+            "hi": {
+                "title": "ट्रंप ने ईरान में अमेरिकी पायलट के साहसी बचाव का खुलासा किया",
+                "content": "राष्ट्रपति ट्रंप ने ईरान में एक गिराए गए F-15E पायलट के अमेरिकी सेना द्वारा किए गए साहसी बचाव का विवरण दिया। गंभीर रूप से घायल और अत्यधिक खून बहने के बावजूद, पायलट 48 घंटे तक दुश्मन के इलाके में जीवित रहा। इस जटिल मिशन में ईरानी सेना को भ्रमित करने के लिए 155 विमान और खुफिया रणनीति शामिल थी, जिसके परिणामस्वरूप अंतिम क्षण की जटिलताओं के बावजूद सफल निष्कर्षण हुआ। ट्रंप ने इस वीरतापूर्ण प्रयास की सराहना की।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130080147,imgsize-780026.cms",
+        "link": "https://timesofindia.indiatimes.com/world/us/bleeding-profusely-hiding-in-crevice-trump-discloses-details-of-daring-rescue-of-downed-us-pilot-in-iran/articleshow/130077937.cms",
+        "date": "2026-04-07T13:15:23+05:30"
+    },
+    {
+        "id": "9eec5f64",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Israel Strikes 3 Iran Airports Over 'Proxy Hub' Claims",
+                "content": "Israel has targeted three Iranian airports, alleging they serve as critical hubs for arming and financing Tehran's regional proxies. This move underscores ongoing tensions and Israel's proactive efforts to disrupt Iran's influence network, which it perceives as a direct threat to regional stability and its security. The strikes mark a significant escalation in the shadow war between the two nations."
+            },
+            "kn": {
+                "title": "ಇಸ್ರೇಲ್ 'ಪ್ರಾಕ್ಸಿ ಹಬ್' ಆರೋಪದ ಮೇಲೆ 3 ಇರಾನ್ ವಿಮಾನ ನಿಲ್ದಾಣಗಳ ಮೇಲೆ ದಾಳಿ",
+                "content": "ಇಸ್ರೇಲ್ ಮೂರು ಇರಾನಿ ವಿಮಾನ ನಿಲ್ದಾಣಗಳನ್ನು ಗುರಿಯಾಗಿಸಿಕೊಂಡಿದೆ, ಅವು ಟೆಹ್ರಾನ್‌ನ ಪ್ರಾದೇಶಿಕ ಪ್ರಾಕ್ಸಿಗಳಿಗೆ ಶಸ್ತ್ರಾಸ್ತ್ರ ಮತ್ತು ಹಣಕಾಸು ಒದಗಿಸುವ ನಿರ್ಣಾಯಕ ಕೇಂದ್ರಗಳಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಿವೆ ಎಂದು ಆರೋಪಿಸಿದೆ. ಈ ಕ್ರಮವು ನಡೆಯುತ್ತಿರುವ ಉದ್ವಿಗ್ನತೆಗಳನ್ನು ಮತ್ತು ಇರಾನ್‌ನ ಪ್ರಭಾವದ ಜಾಲವನ್ನು ಭಂಗಗೊಳಿಸಲು ಇಸ್ರೇಲ್‌ನ ಪೂರ್ವಭಾವಿ ಪ್ರಯತ್ನಗಳನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ, ಇದನ್ನು ಅದು ಪ್ರಾದೇಶಿಕ ಸ್ಥಿರತೆ ಮತ್ತು ತನ್ನ ಭದ್ರತೆಗೆ ನೇರ ಬೆದರಿಕೆ ಎಂದು ಪರಿಗಣಿಸುತ್ತದೆ. ಈ ದಾಳಿಗಳು ಎರಡೂ ರಾಷ್ಟ್ರಗಳ ನಡುವಿನ ನೆರಳಿನ ಯುದ್ಧದಲ್ಲಿ ಗಮನಾರ್ಹ ಉಲ್ಬಣವನ್ನು ಗುರುತಿಸುತ್ತವೆ."
+            },
+            "mr": {
+                "title": "'प्रॉक्सी हब'च्या आरोपावरून इस्रायलने इराणच्या ३ विमानतळांना लक्ष्य केले",
+                "content": "इस्रायलने इराणच्या तीन विमानतळांना लक्ष्य केले आहे, आरोप आहे की ते तेहरानच्या प्रादेशिक प्रॉक्सींना शस्त्रे आणि निधी पुरवण्यासाठी महत्त्वपूर्ण केंद्र म्हणून काम करतात. ही कृती सध्याच्या तणावांना आणि इराणच्या प्रभाव नेटवर्कला विस्कळीत करण्याच्या इस्रायलच्या सक्रिय प्रयत्नांना अधोरेखित करते, ज्याला ते प्रादेशिक स्थिरता आणि त्याच्या सुरक्षेसाठी थेट धोका मानते. हे हल्ले दोन्ही देशांमधील छुप्या युद्धात मोठी वाढ दर्शवतात."
+            },
+            "hi": {
+                "title": "'प्रॉक्सी हब' के दावों पर इजरायल ने ईरान के 3 हवाई अड्डों पर हमला किया",
+                "content": "इजरायल ने ईरान के तीन हवाई अड्डों को निशाना बनाया है, आरोप है कि वे तेहरान के क्षेत्रीय प्रॉक्सी को हथियार और वित्तपोषण प्रदान करने वाले महत्वपूर्ण केंद्र के रूप में कार्य करते हैं। यह कदम मौजूदा तनावों और ईरान के प्रभाव नेटवर्क को बाधित करने के इजरायल के सक्रिय प्रयासों को रेखांकित करता है, जिसे वह क्षेत्रीय स्थिरता और अपनी सुरक्षा के लिए सीधा खतरा मानता है। ये हमले दोनों राष्ट्रों के बीच छिपे युद्ध में एक महत्वपूर्ण वृद्धि का प्रतीक हैं।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130074878,imgsize-4306.cms",
+        "link": "https://timesofindia.indiatimes.com/world/middle-east/hub-for-arming-financing-regimes-proxies-israel-targets-3-iran-airports-aircraft-helicopters-hit/articleshow/130074049.cms",
+        "date": "2026-04-07T08:35:52+05:30"
+    },
+    {
         "id": "a30fcf80",
         "category": "IPL Scoop",
         "translations": {
@@ -1623,380 +1998,5 @@
         "image": "https://static.toiimg.com/photo/msid-130040180,imgsize-64054.cms",
         "link": "https://timesofindia.indiatimes.com/india/national-maritime-day-indias-oil-lifeline-churns-through-conflict-waters/articleshow/130038492.cms",
         "date": "2026-04-05T18:55:38+05:30"
-    },
-    {
-        "id": "c6201b25",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Passport Row: Congress Accuses Assam CM's Wife, CM Threatens Defamation",
-                "content": "Congress has accused Assam CM Himanta Biswa Sarma's wife, Riniki Bhuyan Sarma, of possessing three passports, sparking a political storm. The Congress demands answers regarding the alleged passport anomaly. CM Sarma vehemently denied the \"false and malicious\" allegations, challenging Congress to provide proof within 24 hours. He threatened immediate defamation proceedings, escalating the political confrontation."
-            },
-            "kn": {
-                "title": "ಪಾಸ್‌ಪೋರ್ಟ್ ವಿವಾದ: ಕಾಂಗ್ರೆಸ್‌ನಿಂದ ಅಸ್ಸಾಂ ಸಿಎಂ ಪತ್ನಿ ಮೇಲೆ ಆರೋಪ, ಸಿಎಂನಿಂದ ಮಾನಹಾನಿ ಮೊಕದ್ದಮೆ ಬೆದರಿಕೆ",
-                "content": "ಅಸ್ಸಾಂ ಮುಖ್ಯಮಂತ್ರಿ ಹಿಮಂತ ಬಿಸ್ವಾ ಶರ್ಮಾ ಅವರ ಪತ್ನಿ ರಿಂಕಿ ಭುಯಾನ್ ಶರ್ಮಾ ಮೂರು ಪಾಸ್‌ಪೋರ್ಟ್‌ಗಳನ್ನು ಹೊಂದಿದ್ದಾರೆ ಎಂದು ಕಾಂಗ್ರೆಸ್ ಆರೋಪಿಸಿದೆ, ಇದು ರಾಜಕೀಯ ಬಿರುಗಾಳಿಯನ್ನು ಸೃಷ್ಟಿಸಿದೆ. ಕಾಂಗ್ರೆಸ್ ಈ ಪಾಸ್‌ಪೋರ್ಟ್ ಅಕ್ರಮದ ಬಗ್ಗೆ ಉತ್ತರಗಳನ್ನು ಕೇಳುತ್ತಿದೆ. ಮುಖ್ಯಮಂತ್ರಿ ಶರ್ಮಾ ಈ \"ಸುಳ್ಳು ಮತ್ತು ದುರುದ್ದೇಶಪೂರಿತ\" ಆರೋಪಗಳನ್ನು ತೀವ್ರವಾಗಿ ನಿರಾಕರಿಸಿದ್ದಾರೆ, 24 ಗಂಟೆಗಳ ಒಳಗೆ ಪುರಾವೆಗಳನ್ನು ನೀಡಲು ಕಾಂಗ್ರೆಸ್‌ಗೆ ಸವಾಲು ಹಾಕಿದ್ದಾರೆ. ಅವರು ತಕ್ಷಣ ಮಾನಹಾನಿ ಮೊಕದ್ದಮೆ ಹೂಡುವ ಬೆದರಿಕೆ ಹಾಕಿದ್ದಾರೆ, ರಾಜಕೀಯ ಸಂಘರ್ಷವನ್ನು ತೀವ್ರಗೊಳಿಸಿದ್ದಾರೆ."
-            },
-            "mr": {
-                "title": "पासपोर्ट वाद: काँग्रेसकडून आसामच्या मुख्यमंत्र्यांच्या पत्नीवर आरोप, मुख्यमंत्र्यांकडून मानहानीच्या दाव्याची धमकी",
-                "content": "आसामचे मुख्यमंत्री हिमंता बिस्वा सरमा यांच्या पत्नी रिंकी भुयान सरमा यांच्याकडे तीन पासपोर्ट असल्याचा काँग्रेसने आरोप केला आहे, ज्यामुळे राजकीय वादळ निर्माण झाले आहे. काँग्रेस कथित पासपोर्ट अनियमिततेबाबत उत्तरे मागत आहे. मुख्यमंत्री सरमा यांनी \"खोट्या आणि दुर्भावनापूर्ण\" आरोपांचे जोरदार खंडन केले, काँग्रेसला 24 तासांच्या आत पुरावा देण्याचे आव्हान दिले. त्यांनी त्वरित मानहानीच्या कार्यवाहीची धमकी दिली, ज्यामुळे राजकीय संघर्ष वाढला आहे."
-            },
-            "hi": {
-                "title": "पासपोर्ट विवाद: कांग्रेस ने असम सीएम की पत्नी पर आरोप लगाए, सीएम ने मानहानि की धमकी दी",
-                "content": "कांग्रेस ने असम के मुख्यमंत्री हिमंता बिस्वा सरमा की पत्नी रिंकी भुयान सरमा पर तीन पासपोर्ट रखने का आरोप लगाया है, जिससे राजनीतिक तूफान खड़ा हो गया है। कांग्रेस कथित पासपोर्ट विसंगति के बारे में जवाब मांग रही है। मुख्यमंत्री सरमा ने \"झूठे और दुर्भावनापूर्ण\" आरोपों का कड़ा खंडन किया, कांग्रेस को 24 घंटे के भीतर सबूत पेश करने की चुनौती दी। उन्होंने तुरंत मानहानि की कार्यवाही की धमकी दी, जिससे राजनीतिक टकराव बढ़ गया है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-130037578,imgsize-1663464.cms",
-        "link": "https://timesofindia.indiatimes.com/india/how-can-his-wife-have-3-passports-congress-attacks-himanta-wife-assam-cm-threatens-defamation-suit/articleshow/130037583.cms",
-        "date": "2026-04-05T16:09:27+05:30"
-    },
-    {
-        "id": "40b462a0",
-        "category": "Sports",
-        "translations": {
-            "en": {
-                "title": "LSG Clinches Thrilling IPL Win Over SRH",
-                "content": "Lucknow Super Giants clinched a dramatic last-over victory against Sunrisers Hyderabad in IPL 2026, winning by five wickets. The nail-biting encounter saw LSG display remarkable composure to successfully chase down the target. This hard-fought win provides a significant boost to LSG's campaign, delivering an unforgettable spectacle for cricket enthusiasts."
-            },
-            "kn": {
-                "title": "LSG, SRH ವಿರುದ್ಧ ರೋಮಾಂಚಕ IPL ಗೆಲುವು ಸಾಧಿಸಿತು",
-                "content": "ಐಪಿಎಲ್ 2026 ರಲ್ಲಿ ಲಕ್ನೋ ಸೂಪರ್ ಜೈಂಟ್ಸ್ ಸನ್‌ರೈಸರ್ಸ್ ಹೈದರಾಬಾದ್ ವಿರುದ್ಧ ಐದು ವಿಕೆಟ್‌ಗಳ ರೋಮಾಂಚಕ ಕೊನೆಯ ಓವರ್ ಗೆಲುವು ಸಾಧಿಸಿತು. ಈ ಪಂದ್ಯ ಕೊನೆಯ ಎಸೆತದವರೆಗೂ ಕುತೂಹಲಕಾರಿಯಾಗಿತ್ತು. ಎಲ್‌ಎಸ್‌ಜಿ ಗಮನಾರ್ಹ ಸಂಯಮ ಪ್ರದರ್ಶಿಸಿ ಗುರಿಯನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಬೆನ್ನಟ್ಟಿತು. ಈ ಕಠಿಣ ಹೋರಾಟದ ಗೆಲುವು ಎಲ್‌ಎಸ್‌ಜಿಯ ಅಭಿಯಾನಕ್ಕೆ ಮಹತ್ವದ ಉತ್ತೇಜನ ನೀಡಿದ್ದು, ಕ್ರಿಕೆಟ್ ಅಭಿಮಾನಿಗಳಿಗೆ ಸ್ಮರಣೀಯ ದೃಶ್ಯವನ್ನು ನೀಡಿತು."
-            },
-            "mr": {
-                "title": "LSG ने SRH विरुद्ध रोमांचक IPL विजय मिळवला",
-                "content": "आयपीएल 2026 मध्ये लखनौ सुपर जायंट्सने सनरायझर्स हैदराबादवर पाच विकेट्सने एक रोमांचक शेवटच्या षटकात विजय मिळवला. हा सामना शेवटच्या क्षणापर्यंत उत्कंठावर्धक राहिला, ज्यात LSG ने लक्ष्याचा यशस्वीपणे पाठलाग करण्यासाठी उल्लेखनीय संयम दाखवला. या संघर्षपूर्ण विजयामुळे LSG च्या मोहिमेला महत्त्वपूर्ण चालना मिळाली, ज्यामुळे क्रिकेटप्रेमींसाठी अविस्मरणीय असा खेळ पाहायला मिळाला."
-            },
-            "hi": {
-                "title": "LSG ने SRH पर रोमांचक IPL जीत दर्ज की",
-                "content": "आईपीएल 2026 में लखनऊ सुपर जायंट्स ने सनराइजर्स हैदराबाद पर पांच विकेट से रोमांचक अंतिम ओवर में जीत दर्ज की। यह मैच आखिरी गेंद तक बेहद रोमांचक रहा, जिसमें LSG ने लक्ष्य का सफलतापूर्वक पीछा करने के लिए शानदार संयम दिखाया। इस कड़ी मेहनत से मिली जीत ने LSG के अभियान को महत्वपूर्ण बढ़ावा दिया है, जो क्रिकेट प्रेमियों के लिए एक अविस्मरणीय नजारा पेश करता है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-130034979,imgsize-854465.cms",
-        "link": "https://timesofindia.indiatimes.com/sports/cricket/srh-vs-lsg-ipl-cricket-match-2026-live-score-where-to-watch-sunrisers-hyderabad-vs-lucknow-super-giants-match-scorecard-live-streaming-playing-11-ishan-kishan-abhishek-sharma-rishabh-pant/liveblog/130034979.cms",
-        "date": "2026-04-05T12:26:30+05:30"
-    },
-    {
-        "id": "0fc79767",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "CIC Reprimands IRCTC for Denying Rail Neer Scam RTI Info",
-                "content": "The CIC has criticized IRCTC for refusing to provide details on an RTI plea concerning the Rail Neer scam. This move emphasizes the importance of transparency and accountability in public sector undertakings. The commission ordered IRCTC to release the requested information, highlighting a significant win for public access to critical data."
-            },
-            "kn": {
-                "title": "ರೈಲ್ ನೀರ್ ಹಗರಣದ ಮಾಹಿತಿ ನಿರಾಕರಣೆಗೆ ಐಆರ್‌ಸಿಟಿಸಿಗೆ ಸಿಐಸಿ ತರಾಟೆ",
-                "content": "ರೈಲ್ ನೀರ್ ಹಗರಣದ ಬಗ್ಗೆ ಆರ್‌ಟಿಐ ಮನವಿಗೆ ಮಾಹಿತಿ ನಿರಾಕರಿಸಿದ್ದಕ್ಕಾಗಿ ಐಆರ್‌ಸಿಟಿಸಿಯನ್ನು ಸಿಐಸಿ ಟೀಕಿಸಿದೆ. ಸಾರ್ವಜನಿಕ ವಲಯದಲ್ಲಿ ಪಾರದರ್ಶಕತೆ ಮತ್ತು ಹೊಣೆಗಾರಿಕೆಯನ್ನು ಇದು ಒತ್ತಿಹೇಳುತ್ತದೆ. ಆಯೋಗವು ಐಆರ್‌ಸಿಟಿಸಿಗೆ ಮಾಹಿತಿ ಬಿಡುಗಡೆ ಮಾಡಲು ಆದೇಶಿಸಿದ್ದು, ಸಾರ್ವಜನಿಕರಿಗೆ ನಿರ್ಣಾಯಕ ಡೇಟಾ ಲಭ್ಯವಾಗುವಲ್ಲಿ ಇದು ಮಹತ್ವದ ಗೆಲುವು."
-            },
-            "mr": {
-                "title": "रेल्वे नीर घोटाळ्याच्या माहितीसाठी आरटीआय नकार दिल्याबद्दल आयआरसीटीसीला सीआयसीची फटकार",
-                "content": "रेल्वे नीर घोटाळ्यावर आरटीआयद्वारे माहिती नाकारल्याबद्दल सीआयसीने आयआरसीटीसीला फटकारले आहे. यामुळे सार्वजनिक क्षेत्रातील पारदर्शकता आणि जबाबदारीवर जोर दिला जातो. आयोगाने आयआरसीटीसीला मागितलेली माहिती जारी करण्याचे आदेश दिले, ज्यामुळे सार्वजनिक डेटा प्रवेशासाठी हा एक महत्त्वाचा विजय ठरला."
-            },
-            "hi": {
-                "title": "रेल नीर घोटाले की आरटीआई जानकारी से इनकार पर आईआरसीटीसी को सीआईसी की फटकार",
-                "content": "रेल नीर घोटाले पर आरटीआई जानकारी से इनकार करने के लिए सीआईसी ने आईआरसीटीसी की आलोचना की है। यह सार्वजनिक क्षेत्र में पारदर्शिता और जवाबदेही पर जोर देता है। आयोग ने आईआरसीटीसी को मांगी गई जानकारी जारी करने का आदेश दिया, जो महत्वपूर्ण डेटा तक सार्वजनिक पहुंच के लिए एक महत्वपूर्ण जीत है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-130039148,imgsize-663236.cms",
-        "link": "https://timesofindia.indiatimes.com/india/rail-neer-scam-cic-pulls-up-irctc-for-refusing-information-on-rti-plea/articleshow/130039006.cms",
-        "date": "2026-04-05T17:48:56+05:30"
-    },
-    {
-        "id": "cf266509",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Abhishek Sharma Fined for IPL Dissent",
-                "content": "Sunrisers Hyderabad's Abhishek Sharma has been fined 50% of his match fee for showing dissent. The penalty comes after a controversial third umpire decision during his dismissal in the IPL Qualifier 2 against Rajasthan Royals. Sharma was visibly upset with the call. He accepted the Level 1 offence charge, meaning no formal hearing was required, concluding the matter swiftly."
-            },
-            "kn": {
-                "title": "ಅಭಿಷೇಕ್ ಶರ್ಮಾ ಅವರಿಗೆ ಐಪಿಎಲ್ ಭಿನ್ನಾಭಿಪ್ರಾಯಕ್ಕಾಗಿ ದಂಡ",
-                "content": "ಸನ್‌ರೈಸರ್ಸ್ ಹೈದರಾಬಾದ್‌ನ ಅಭಿಷೇಕ್ ಶರ್ಮಾ ಅವರು ಭಿನ್ನಾಭಿಪ್ರಾಯ ವ್ಯಕ್ತಪಡಿಸಿದ್ದಕ್ಕಾಗಿ ತಮ್ಮ ಪಂದ್ಯ ಶುಲ್ಕದ 50% ದಂಡ ವಿಧಿಸಲಾಗಿದೆ. ರಾಜಸ್ಥಾನ್ ರಾಯಲ್ಸ್ ವಿರುದ್ಧದ ಐಪಿಎಲ್ ಕ್ವಾಲಿಫೈಯರ್ 2 ರಲ್ಲಿ ಅವರ ವಜಾಗೊಳಿಸುವಿಕೆಯ ಸಮಯದಲ್ಲಿ ವಿವಾದಾತ್ಮಕ ಮೂರನೇ ಅಂಪೈರ್ ನಿರ್ಧಾರದ ನಂತರ ಈ ದಂಡ ವಿಧಿಸಲಾಗಿದೆ. ಶರ್ಮಾ ಈ ನಿರ್ಧಾರದಿಂದ ಸ್ಪಷ್ಟವಾಗಿ ಅಸಮಾಧಾನಗೊಂಡಿದ್ದರು. ಅವರು ಲೆವೆಲ್ 1 ಅಪರಾಧ ಆರೋಪವನ್ನು ಒಪ್ಪಿಕೊಂಡರು, ಯಾವುದೇ ಔಪಚಾರಿಕ ವಿಚಾರಣೆಯ ಅಗತ್ಯವಿಲ್ಲದೆ ವಿಷಯವನ್ನು ತ್ವರಿತವಾಗಿ ಮುಕ್ತಾಯಗೊಳಿಸಿದರು."
-            },
-            "mr": {
-                "title": "अभिषेक शर्माला आयपीएलमधील नाराजीसाठी दंड",
-                "content": "सनरायझर्स हैदराबादच्या अभिषेक शर्माला नाराजी व्यक्त केल्याबद्दल त्याच्या मॅच फीच्या 50% दंड ठोठावण्यात आला आहे. राजस्थान रॉयल्सविरुद्धच्या आयपीएल क्वालिफायर 2 मधील त्याच्या वादग्रस्त थर्ड अंपायरच्या निर्णयामुळे ही कारवाई झाली. शर्मा या निर्णयामुळे स्पष्टपणे नाराज दिसला. त्याने लेव्हल 1 च्या गुन्ह्याचा आरोप स्वीकारला, त्यामुळे कोणतीही औपचारिक सुनावणी न घेता हे प्रकरण तात्काळ निकाली काढण्यात आले."
-            },
-            "hi": {
-                "title": "अभिषेक शर्मा को IPL में असहमति दिखाने पर जुर्माना",
-                "content": "सनराइजर्स हैदराबाद के अभिषेक शर्मा पर असहमति दिखाने के लिए उनकी मैच फीस का 50% जुर्माना लगाया गया है। यह जुर्माना राजस्थान रॉयल्स के खिलाफ आईपीएल क्वालीफायर 2 में उनकी बर्खास्तगी के दौरान एक विवादास्पद तीसरे अंपायर के फैसले के बाद आया है। शर्मा इस फैसले से स्पष्ट रूप से नाखुश थे। उन्होंने लेवल 1 के अपराध का आरोप स्वीकार कर लिया, जिसका अर्थ है कि किसी औपचारिक सुनवाई की आवश्यकता नहीं थी और मामला तुरंत समाप्त हो गया।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNelN2ZWxBbEs0Zk42eXdLRHhXeFAtMVJOZUF6OHoyMVZLdlo1dGdvODJnRGhIb1BGWG1fQWZ4clJvMDlvaFlJaXlrS0ZFSTlHUEprZzlUZFpCcV85Vmdrc0dlLVduVE5BalBTZ0ZEcjBtZ2QzTzFaX28xVHJCWWNQZ3FEU3lvSVRZY3FtaEhCSUdYZmZ2aFltUzJIbjJKbWhUd2JoREE4M3lpbUVtVU1OanIwdF9taThha01tcVIyYWNJNHlYWm9abWZrX3FzQjhOQ0pNVFo1aEZRZEE1N3NmWHZWd1N5V0s1MXFLNm9mU3hQX1lyb3pacw?oc=5",
-        "date": "Sat, 04 Apr 2026 15:40:06 GMT"
-    },
-    {
-        "id": "571cda6c",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "LSG's Inconsistency Sparks Strategy Debate, Rishabh Pant's Role Questioned",
-                "content": "LSG faces growing scrutiny over their inconsistent performance and questioned \"secret\" strategy in cricket. Experts are debating their tactical approach, particularly highlighting how it could confuse players like Rishabh Pant. A prominent suggestion is that Pant should open, indicating a wider discussion on optimal batting roles and team dynamics amidst LSG's struggles."
-            },
-            "kn": {
-                "title": "LSG ಅಸ್ಥಿರತೆ ತಂತ್ರಗಾರಿಕೆ ಚರ್ಚೆಗೆ, ರಿಷಭ್ ಪಂತ್ ಪಾತ್ರದ ಬಗ್ಗೆ ಪ್ರಶ್ನೆ",
-                "content": "ಕ್ರಿಕೆಟ್‌ನಲ್ಲಿ LSG ಯ ಅಸ್ಥಿರ ಪ್ರದರ್ಶನ ಮತ್ತು ಪ್ರಶ್ನಾರ್ಹ \"ರಹಸ್ಯ\" ತಂತ್ರಗಾರಿಕೆ ಕುರಿತು ಹೆಚ್ಚುತ್ತಿರುವ ವಿಶ್ಲೇಷಣೆ ಎದುರಾಗಿದೆ. ತಜ್ಞರು ಅವರ ತಂತ್ರದ ವಿಧಾನದ ಬಗ್ಗೆ ಚರ್ಚಿಸುತ್ತಿದ್ದಾರೆ, ರಿಷಭ್ ಪಂತ್ ಅವರಂತಹ ಆಟಗಾರರನ್ನು ಇದು ಹೇಗೆ ಗೊಂದಲಕ್ಕೀಡುಮಾಡಬಹುದು ಎಂಬುದನ್ನು ವಿಶೇಷವಾಗಿ ಎತ್ತಿ ತೋರಿಸುತ್ತಿದ್ದಾರೆ. ಪಂತ್ ಆರಂಭಿಕ ಬ್ಯಾಟ್ಸ್‌ಮನ್ ಆಗಿ ಆಡಬೇಕು ಎಂಬ ಪ್ರಮುಖ ಸಲಹೆಯು, LSG ಯ ಹೋರಾಟಗಳ ನಡುವೆ ಸೂಕ್ತ ಬ್ಯಾಟಿಂಗ್ ಪಾತ್ರಗಳು ಮತ್ತು ತಂಡದ ಡೈನಾಮಿಕ್ಸ್ ಬಗ್ಗೆ ವ್ಯಾಪಕ ಚರ್ಚೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "LSG च्या सातत्यहीनतेमुळे रणनीतीवर चर्चा, ऋषभ पंतच्या भूमिकेवर प्रश्नचिन्ह",
-                "content": "क्रिकेटमध्ये LSG च्या सातत्यहीन कामगिरीमुळे आणि संशयास्पद \"गुप्त\" रणनीतीमुळे त्यांच्यावर वाढती टीका होत आहे. तज्ञ त्यांच्या डावपेचांवर चर्चा करत आहेत, विशेषतः ऋषभ पंतसारख्या खेळाडूंना ते कसे गोंधळात टाकू शकते हे अधोरेखित करत आहेत. पंतने सलामीवीर म्हणून खेळावे अशी एक प्रमुख सूचना आहे, जी LSG च्या संघर्षामधून सर्वोत्तम फलंदाजीच्या भूमिका आणि सांघिक गतीशीलतेवर व्यापक चर्चेकडे निर्देश करते."
-            },
-            "hi": {
-                "title": "LSG की असंगति से रणनीति पर बहस, ऋषभ पंत की भूमिका पर सवाल",
-                "content": "क्रिकेट में LSG अपने असंगत प्रदर्शन और संदिग्ध \"गुप्त\" रणनीति को लेकर बढ़ती जांच का सामना कर रही है। विशेषज्ञ उनकी सामरिक दृष्टिकोण पर बहस कर रहे हैं, विशेष रूप से यह उजागर करते हुए कि यह ऋषभ पंत जैसे खिलाड़ियों को कैसे भ्रमित कर सकता है। एक प्रमुख सुझाव है कि पंत को ओपनिंग करनी चाहिए, जो LSG के संघर्षों के बीच इष्टतम बल्लेबाजी भूमिकाओं और टीम की गतिशीलता पर व्यापक चर्चा का संकेत देता है।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOWEJ4WEhpSkN4eDNTWVBkeGt0T04zdml2RTYtZy1UcklEUndjTVl3Y1g2NEE5SDhGWE0xR0FyR0ZfNVVrSkV0ZDcwUUowMGt2bGpOT2pGaFdTVzI1TW8ybFk4M1VQZmZ1Vm10bHkybjB5aGU0dDA1VElrMW4wcDltWVM5eHo1NDFsUXNsRFRzVG91OS0xc2ZSYzEwVnRvSl9abGVBWDh3eGJ4Nkx4aXJXQ3dPVEFEdkFZUTJLU3NONjZLRUY3ZGZ4WFliOHBBMXZXbWpHVENQbC1fNllpNUVGY2wwQzZWVTZvNjVnT2Zaa1ZoQVVKQ0ln0gH3AUFVX3lxTE5YQnhYSGlKQ3h4M1NZUGR4a3RPTjN2aXZFNi1nLVRySURSd2NNWXdjWDY0QTlIOEZYTTFHQXJHRl81VWtKRXRkNzBRSjAwa3Zsak5PakZoV1NXMjVNbzJsWTgzVVBmZnVWbXRseTJuMHloZTR0MDVUSWsxbjBwOW1ZUzl4ejU0MWxRc2xEVHNUb3U5LTFzZlJjMTBWdG9KX1psZUFYOHd4Yng2THhpcldDd09UQUR2QVlRMktTc042NktFRjdkZnhYWWI4cEExdldtakdUQ1BsLV82WWk1RUZjbDBDNlZVNm82NWdPZlprVmhBVUpDSWc?oc=5",
-        "date": "Sun, 05 Apr 2026 07:49:29 GMT"
-    },
-    {
-        "id": "8af0c7f1",
-        "category": "Entertainment",
-        "translations": {
-            "en": {
-                "title": "Dhurandhar 2: Global Sensation, India's Next Rs 1000 Cr Blockbuster",
-                "content": "Ranveer Singh's 'Dhurandhar: The Revenge' is a global box office sensation, an espionage thriller captivating audiences worldwide. It's become the highest-grossing Indian film in North America and is poised to cross the monumental Rs 1000 crore mark in India, shattering records and making cinematic history."
-            },
-            "kn": {
-                "title": "ಧುರಂಧರ್ 2: ಜಾಗತಿಕ ಸಂವೇದನೆ, ಭಾರತದ ಮುಂದಿನ ₹1000 ಕೋಟಿ ಬ್ಲಾಕ್‌ಬಸ್ಟರ್",
-                "content": "ರಣವೀರ್ ಸಿಂಗ್ ಅವರ 'ಧುರಂಧರ್: ದಿ ರಿವೆಂಜ್' ವಿಶ್ವಾದ್ಯಂತ ಪ್ರೇಕ್ಷಕರನ್ನು ಸೆಳೆಯುತ್ತಿರುವ ಒಂದು ಜಾಗತಿಕ ಬಾಕ್ಸ್ ಆಫೀಸ್ ಸಂವೇದನೆ. ಈ ಗೂಢಚಾರ ಥ್ರಿಲ್ಲರ್ ಉತ್ತರ ಅಮೆರಿಕಾದಲ್ಲಿ ಅತಿ ಹೆಚ್ಚು ಗಳಿಕೆ ಮಾಡಿದ ಭಾರತೀಯ ಚಲನಚಿತ್ರವಾಗಿದೆ ಮತ್ತು ಭಾರತದಲ್ಲಿ ₹1000 ಕೋಟಿ ಗಡಿ ದಾಟಲು ಸಿದ್ಧವಾಗಿದೆ, ದಾಖಲೆಗಳನ್ನು ಮುರಿದು ಸಿನಿ ಇತಿಹಾಸ ಸೃಷ್ಟಿಸುತ್ತಿದೆ."
-            },
-            "mr": {
-                "title": "धुरंधर 2: जागतिक सनसनाटी, भारताचा पुढील ₹1000 कोटींचा ब्लॉकबस्टर",
-                "content": "रणवीर सिंगचा 'धुरंधर: द रिव्हेंज' जगभरात बॉक्स ऑफिसवर धुमाकूळ घालत आहे. हा हेरगिरी थ्रिलर उत्तर अमेरिकेत सर्वाधिक कमाई करणारा भारतीय चित्रपट ठरला आहे आणि भारतात ₹1000 कोटींचा टप्पा पार करण्याच्या मार्गावर आहे. याने अनेक विक्रम मोडले असून सिने इतिहासात नवे पर्व लिहिले आहे."
-            },
-            "hi": {
-                "title": "धुरंधर 2: ग्लोबल सेंसेशन, भारत का अगला ₹1000 करोड़ का ब्लॉकबस्टर",
-                "content": "रणवीर सिंह की 'धुरंधर: द रिवेंज' एक वैश्विक बॉक्स ऑफिस सनसनी है, एक जासूसी थ्रिलर जिसने दुनिया भर के दर्शकों को मंत्रमुग्ध कर दिया है। यह उत्तरी अमेरिका में सबसे ज्यादा कमाई करने वाली भारतीय फिल्म बन गई है और भारत में ₹1000 करोड़ का ऐतिहासिक आंकड़ा पार करने वाली है, रिकॉर्ड तोड़ते हुए सिनेमाई इतिहास रच रही है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-130034543,imgsize-78134.cms",
-        "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/dhurandhar-2-the-revenge-box-office-collection-day-18-live-ranveer-singh-rakesh-bedi-sanjay-dutt-arjun-rampa-sara-arjun-r-madhavan-starrer-set-to-cross-rs-1000-crore-mark-in-india-today-eyeing-rs-1600-crore-global-earnings/articleshow/130034543.cms",
-        "date": "2026-04-05T11:50:23+05:30"
-    },
-    {
-        "id": "b8071690",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Sarma Rejects Khera's Allegations, Vows Defamation Suit",
-                "content": "Assam CM Himanta Biswa Sarma vehemently rejected Congress leader Pawan Khera's allegations, labeling them \"politically motivated lies.\" Sarma announced his intention to file a defamation case against Khera, escalating the political war of words. This strong rebuttal comes amidst ongoing political controversies, highlighting the intense rivalry between the parties. Sarma's move signals a firm stance against what he perceives as baseless accusations."
-            },
-            "kn": {
-                "title": "ಶರ್ಮಾ ಖೇರಾ ಆರೋಪಗಳನ್ನು ತಿರಸ್ಕರಿಸಿ, ಮಾನಹಾನಿ ಮೊಕದ್ದಮೆ ಹೂಡುವ ಪ್ರತಿಜ್ಞೆ",
-                "content": "ಅಸ್ಸಾಂ ಮುಖ್ಯಮಂತ್ರಿ ಹಿಮಂತ ಬಿಸ್ವಾ ಶರ್ಮಾ ಅವರು ಕಾಂಗ್ರೆಸ್ ನಾಯಕ ಪವನ್ ಖೇರಾ ಅವರ ಆರೋಪಗಳನ್ನು \"ರಾಜಕೀಯ ಪ್ರೇರಿತ ಸುಳ್ಳುಗಳು\" ಎಂದು ಕರೆದು ತೀವ್ರವಾಗಿ ತಿರಸ್ಕರಿಸಿದರು. ಶರ್ಮಾ ಅವರು ಖೇರಾ ವಿರುದ್ಧ ಮಾನಹಾನಿ ಮೊಕದ್ದಮೆ ಹೂಡುವ ಉದ್ದೇಶವನ್ನು ಘೋಷಿಸಿದರು, ಇದು ರಾಜಕೀಯ ವಾಕ್ಸಮರವನ್ನು ಹೆಚ್ಚಿಸಿತು. ಈ ಬಲವಾದ ತಿರಸ್ಕಾರವು ನಡೆಯುತ್ತಿರುವ ರಾಜಕೀಯ ವಿವಾದಗಳ ನಡುವೆ ಬಂದಿದ್ದು, ಪಕ್ಷಗಳ ನಡುವಿನ ತೀವ್ರ ಪೈಪೋಟಿಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ಶರ್ಮಾ ಅವರ ಈ ನಡೆ ಆಧಾರರಹಿತ ಆರೋಪಗಳ ವಿರುದ್ಧ ದೃಢ ನಿಲುವನ್ನು ಸೂಚಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "सरमांकडून खेरांच्या आरोपांचा इन्कार, बदनामीचा खटला दाखल करण्याची शपथ",
-                "content": "आसामचे मुख्यमंत्री हिमंता बिस्वा सरमा यांनी काँग्रेस नेते पवन खेरा यांच्या आरोपांना \"राजकीय हेतूने प्रेरित खोटे\" ठरवून तीव्र नकार दिला. सरमा यांनी खेरा यांच्याविरुद्ध बदनामीचा खटला दाखल करण्याचा इरादा जाहीर केला, ज्यामुळे राजकीय शाब्दिक युद्ध आणखी वाढले. हे जोरदार खंडन सध्याच्या राजकीय वादांदरम्यान आले असून, पक्षांमधील तीव्र शत्रुत्व दर्शवते. सरमांची ही कृती त्यांच्या मते निराधार आरोपांविरुद्ध ठाम भूमिका दर्शवते."
-            },
-            "hi": {
-                "title": "सरमा ने खेरा के आरोपों को खारिज किया, मानहानि का मुकदमा करने की कसम खाई",
-                "content": "असम के मुख्यमंत्री हिमंता बिस्वा सरमा ने कांग्रेस नेता पवन खेरा के आरोपों को \"राजनीति से प्रेरित झूठ\" बताते हुए दृढ़ता से खारिज कर दिया। सरमा ने खेरा के खिलाफ मानहानि का मुकदमा दायर करने का इरादा घोषित किया, जिससे राजनीतिक बयानबाजी और तेज हो गई। यह कड़ी प्रतिक्रिया चल रहे राजनीतिक विवादों के बीच आई है, जो पार्टियों के बीच तीव्र प्रतिद्वंद्विता को उजागर करती है। सरमा का यह कदम उन आधारहीन आरोपों के खिलाफ एक दृढ़ रुख का संकेत देता है जिन्हें वह झूठा मानते हैं।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-130036730,imgsize-839867.cms",
-        "link": "https://timesofindia.indiatimes.com/india/politically-motivated-lies-himanta-biswa-sarma-rejects-pawan-kheras-allegations-vows-to-file-defamation-case/articleshow/130036648.cms",
-        "date": "2026-04-05T14:53:48+05:30"
-    },
-    {
-        "id": "643060f3",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Rahul Gandhi Slams Assam CM, Vows Action & Promises Reforms",
-                "content": "Rahul Gandhi, campaigning in Assam, sharply criticized CM Himanta Biswa Sarma, labeling him \"most corrupt\" and \"hate-spreading,\" vowing imprisonment if Congress wins. Gandhi also pledged SC/ST status for six communities, increased tea worker wages, and monthly cash transfers for women. This fiery rally underscored Congress's aggressive stance against the ruling party and its vision for Assam's future."
-            },
-            "kn": {
-                "title": "ರಾಹುಲ್ ಗಾಂಧಿ ಅಸ್ಸಾಂ ಸಿಎಂ ವಿರುದ್ಧ ವಾಗ್ದಾಳಿ, ಕ್ರಮ ಮತ್ತು ಸುಧಾರಣೆಗಳ ಭರವಸೆ",
-                "content": "ಅಸ್ಸಾಂನಲ್ಲಿ ಪ್ರಚಾರ ನಡೆಸಿದ ರಾಹುಲ್ ಗಾಂಧಿ, ಮುಖ್ಯಮಂತ್ರಿ ಹಿಮಂತ ಬಿಸ್ವಾ ಶರ್ಮಾ ಅವರನ್ನು ತೀವ್ರವಾಗಿ ಟೀಕಿಸಿದರು, ಅವರನ್ನು \"ಅತ್ಯಂತ ಭ್ರಷ್ಟ ಮತ್ತು ದ್ವೇಷ ಹರಡುವವರು\" ಎಂದು ಬಣ್ಣಿಸಿದರು ಮತ್ತು ಕಾಂಗ್ರೆಸ್ ಗೆದ್ದರೆ ಜೈಲಿಗೆ ಕಳುಹಿಸುವುದಾಗಿ ಪ್ರತಿಜ್ಞೆ ಮಾಡಿದರು. ಗಾಂಧಿ ಆರು ಸಮುದಾಯಗಳಿಗೆ ಎಸ್‌ಸಿ/ಎಸ್‌ಟಿ ಸ್ಥಾನಮಾನ, ಚಹಾ ಕಾರ್ಮಿಕರ ವೇತನ ಹೆಚ್ಚಳ ಮತ್ತು ಮಹಿಳೆಯರಿಗೆ ಮಾಸಿಕ ನಗದು ವರ್ಗಾವಣೆಯನ್ನು ಭರವಸೆ ನೀಡಿದರು. ಈ ತೀಕ್ಷ್ಣವಾದ ರ‍್ಯಾಲಿ ಆಡಳಿತ ಪಕ್ಷದ ವಿರುದ್ಧ ಕಾಂಗ್ರೆಸ್‌ನ ಆಕ್ರಮಣಕಾರಿ ನಿಲುವನ್ನು ಮತ್ತು ಅಸ್ಸಾಂನ ಭವಿಷ್ಯದ ದೃಷ್ಟಿಯನ್ನು ಎತ್ತಿ ತೋರಿಸಿದೆ."
-            },
-            "mr": {
-                "title": "राहुल गांधींचा आसामच्या मुख्यमंत्र्यांवर हल्लाबोल, कारवाई आणि सुधारणांचे आश्वासन",
-                "content": "आसाममध्ये प्रचार करताना राहुल गांधींनी मुख्यमंत्री हिमंता बिस्वा सरमा यांच्यावर तीव्र टीका केली. त्यांना \"सर्वात भ्रष्ट आणि द्वेष पसरवणारे\" संबोधत, काँग्रेस जिंकल्यास तुरुंगात टाकण्याची प्रतिज्ञा केली. गांधींनी सहा समुदायांना SC/ST दर्जा, चहा कामगारांचा पगार वाढवण्याचे आणि महिलांना मासिक रोख हस्तांतरण करण्याचे आश्वासनही दिले. या जोरदार सभेने सत्ताधारी पक्षाविरोधात काँग्रेसचा आक्रमक पवित्रा आणि आसामच्या भवितव्याबद्दलची त्यांची दृष्टी अधोरेखित केली."
-            },
-            "hi": {
-                "title": "राहुल गांधी ने असम के सीएम पर साधा निशाना, कार्रवाई और सुधारों का वादा",
-                "content": "असम में प्रचार करते हुए राहुल गांधी ने मुख्यमंत्री हिमंता बिस्वा सरमा की कड़ी आलोचना की, उन्हें \"सबसे भ्रष्ट और नफरत फैलाने वाला\" बताया और कांग्रेस जीतने पर जेल भेजने का संकल्प लिया। गांधी ने छह समुदायों के लिए एससी/एसटी दर्जा, चाय श्रमिकों के लिए बढ़ी हुई मजदूरी और महिलाओं के लिए मासिक नकद हस्तांतरण का भी वादा किया। इस जोशीली रैली ने सत्ताधारी दल के खिलाफ कांग्रेस के आक्रामक रुख और असम के भविष्य के लिए उसके दृष्टिकोण को रेखांकित किया।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-130035736,imgsize-54658.cms",
-        "link": "https://timesofindia.indiatimes.com/india/hate-spreading-cm-rahul-gandhi-slams-himanta-biswa-at-assam-poll-rally/articleshow/130035647.cms",
-        "date": "2026-04-05T13:57:35+05:30"
-    },
-    {
-        "id": "928b7909",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Iran War: Economic Risks & Unexpected Opportunities",
-                "content": "A potential Iran war threatens global economic growth and trade, risking surging oil prices, heightened inflation, and disrupted supply chains. Yet, 'silver linings' could emerge: a boost for defense sectors, accelerated renewable energy transition, and new trade opportunities for some nations. Investors should prepare for significant market volatility."
-            },
-            "kn": {
-                "title": "ಇರಾನ್ ಯುದ್ಧ: ಆರ್ಥಿಕ ಅಪಾಯಗಳು ಮತ್ತು ಅನಿರೀಕ್ಷಿತ ಅವಕಾಶಗಳು",
-                "content": "ಸಂಭವನೀಯ ಇರಾನ್ ಯುದ್ಧವು ಜಾಗತಿಕ ಆರ್ಥಿಕ ಬೆಳವಣಿಗೆ ಮತ್ತು ವ್ಯಾಪಾರಕ್ಕೆ ಅಪಾಯವನ್ನುಂಟುಮಾಡುತ್ತದೆ, ತೈಲ ಬೆಲೆ ಏರಿಕೆ, ಹೆಚ್ಚಿದ ಹಣದುಬ್ಬರ ಮತ್ತು ಪೂರೈಕೆ ಸರಪಳಿಗಳ ಅಡ್ಡಿಪಡಿಸುತ್ತದೆ. ಆದಾಗ್ಯೂ, ಕೆಲವು 'ರಜತ ರೇಖೆಗಳು' ಹೊರಹೊಮ್ಮಬಹುದು: ರಕ್ಷಣಾ ವಲಯಗಳಿಗೆ ಉತ್ತೇಜನ, ನವೀಕರಿಸಬಹುದಾದ ಇಂಧನ ಪರಿವರ್ತನೆಯ ವೇಗವರ್ಧನೆ ಮತ್ತು ಕೆಲವು ರಾಷ್ಟ್ರಗಳಿಗೆ ಹೊಸ ವ್ಯಾಪಾರ ಅವಕಾಶಗಳು. ಹೂಡಿಕೆದಾರರು ಗಣನೀಯ ಮಾರುಕಟ್ಟೆ ಅಸ್ಥಿರತೆಗೆ ಸಿದ್ಧರಾಗಿರಬೇಕು."
-            },
-            "mr": {
-                "title": "इराण युद्ध: आर्थिक धोके आणि अनपेक्षित संधी",
-                "content": "संभाव्य इराण युद्धामुळे जागतिक आर्थिक वाढ आणि व्यापाराला धोका निर्माण होतो, ज्यामुळे तेलाच्या किमती वाढण्याचा, महागाई वाढण्याचा आणि पुरवठा साखळी विस्कळीत होण्याचा धोका आहे. तरीही, काही 'सकारात्मक बाजू' उदयास येऊ शकतात: संरक्षण क्षेत्राला चालना, अक्षय ऊर्जा संक्रमणाला गती आणि काही राष्ट्रांसाठी नवीन व्यापारी संधी. गुंतवणूकदारांनी बाजारातील महत्त्वपूर्ण अस्थिरतेसाठी तयार राहावे."
-            },
-            "hi": {
-                "title": "ईरान युद्ध: आर्थिक जोखिम और अप्रत्याशित अवसर",
-                "content": "संभावित ईरान युद्ध वैश्विक आर्थिक वृद्धि और व्यापार को खतरे में डालता है, जिससे तेल की कीमतें बढ़ने, मुद्रास्फीति बढ़ने और आपूर्ति श्रृंखलाओं के बाधित होने का जोखिम है। फिर भी, कुछ 'सकारात्मक पहलू' उभर सकते हैं: रक्षा क्षेत्रों को बढ़ावा, नवीकरणीय ऊर्जा संक्रमण में तेजी, और कुछ देशों के लिए नए व्यापारिक अवसर। निवेशकों को महत्वपूर्ण बाजार अस्थिरता के लिए तैयार रहना चाहिए।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNd2JSQVZvdGhfMktuekdrMi13V09DRnprcjFQdUF6ZWFYcEpJUXZJclI3OGVhTk5nYTdZYUNXTWRtVkQtc0thc083RzVPTEFXd21PZDBTYlQ2SnJiU3MxQk1YSWRhZ0NjYjZZLXJfUC01cEg4YWV0akpIT1VIck5FcmFObzNhWWJUUVZlT1J0MlZEbGdySW85SDdNZnJuTmtmLUHSAaIBQVVfeXFMTXdiUkFWb3RoXzJLbnpHazItd1dPQ0Z6a3IxUHVBemVhWHBKSVF2SXJSNzhlYU5OZ2E3WWFDV01kbVZELXNLYXNPN0c1T0xBV3dtT2QwU2JUNkpyYlNzMUJNWElkYWdDY2I2WS1yX1AtNXBIOGFldGpKSE9VSHJORXJhTm8zYVliVFFWZU9SdDJWRGxncklvOUg3TWZybk5rZi1B?oc=5",
-        "date": "Sun, 05 Apr 2026 01:30:52 GMT"
-    },
-    {
-        "id": "63d1d073",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "LSG's 'Secret' Strategy Under Fire, Pant Urged to Open",
-                "content": "LSG's 'secret' strategy is under fire due to mounting inconsistency, with cricket experts questioning their approach. Meanwhile, Rishabh Pant's role is causing confusion, leading to strong suggestions that he should open the batting. Pundits believe this tactical shift could unlock Pant's potential, provide LSG with much-needed batting stability, and address their current struggles in the tournament."
-            },
-            "kn": {
-                "title": "LSG ಯ 'ರಹಸ್ಯ' ತಂತ್ರ ತೀವ್ರ ಪರಿಶೀಲನೆಗೆ, ಪಂತ್ ಆರಂಭಿಕನಾಗಿ ಕಣಕ್ಕಿಳಿಯುವಂತೆ ಒತ್ತಾಯ",
-                "content": "LSG ಯ 'ರಹಸ್ಯ' ತಂತ್ರವು ಹೆಚ್ಚುತ್ತಿರುವ ಅಸಂಗತತೆಯಿಂದಾಗಿ ಟೀಕೆಗೆ ಗುರಿಯಾಗಿದೆ, ಕ್ರಿಕೆಟ್ ತಜ್ಞರು ಅವರ ವಿಧಾನವನ್ನು ಪ್ರಶ್ನಿಸುತ್ತಿದ್ದಾರೆ. ಏತನ್ಮಧ್ಯೆ, ರಿಷಭ್ ಪಂತ್ ಅವರ ಪಾತ್ರವು ಗೊಂದಲವನ್ನು ಸೃಷ್ಟಿಸುತ್ತಿದೆ, ಅವರನ್ನು ಆರಂಭಿಕ ಬ್ಯಾಟ್ಸ್‌ಮನ್ ಆಗಿ ಕಣಕ್ಕಿಳಿಸುವಂತೆ ಬಲವಾಗಿ ಸಲಹೆ ನೀಡಲಾಗುತ್ತಿದೆ. ಈ ಕಾರ್ಯತಂತ್ರದ ಬದಲಾವಣೆಯು ಪಂತ್ ಅವರ ಸಾಮರ್ಥ್ಯವನ್ನು ಹೊರತರಬಹುದು, LSG ಗೆ ಅಗತ್ಯವಾದ ಬ್ಯಾಟಿಂಗ್ ಸ್ಥಿರತೆಯನ್ನು ಒದಗಿಸಬಹುದು ಮತ್ತು ಪಂದ್ಯಾವಳಿಯಲ್ಲಿ ಅವರ ಪ್ರಸ್ತುತ ಹೋರಾಟಗಳನ್ನು ನಿವಾರಿಸಬಹುದು ಎಂದು ಪಂಡಿತರು ನಂಬಿದ್ದಾರೆ."
-            },
-            "mr": {
-                "title": "LSG च्या 'गुपित' रणनीतीवर प्रश्नचिन्ह, पंतला सलामीला येण्याचा आग्रह",
-                "content": "LSG ची 'गुपित' रणनीती वाढत्या विसंगतीमुळे टीकेच्या घेऱ्यात आहे, क्रिकेट तज्ज्ञ त्यांच्या दृष्टिकोनावर प्रश्नचिन्ह उपस्थित करत आहेत. दरम्यान, ऋषभ पंतची भूमिका गोंधळ निर्माण करत आहे, त्याला सलामीला येण्याची जोरदार सूचना केली जात आहे. तज्ज्ञांचे मत आहे की हा रणनीतिक बदल पंतची क्षमता बाहेर आणू शकतो, LSG ला आवश्यक फलंदाजीची स्थिरता देऊ शकतो आणि स्पर्धेतील त्यांच्या सध्याच्या संघर्षांवर मात करण्यास मदत करू शकतो."
-            },
-            "hi": {
-                "title": "LSG की 'गुप्त' रणनीति घेरे में, पंत को सलामी बल्लेबाज बनाने का आग्रह",
-                "content": "LSG की 'गुप्त' रणनीति बढ़ती असंगति के कारण आलोचना का सामना कर रही है, क्रिकेट विशेषज्ञ उनके दृष्टिकोण पर सवाल उठा रहे हैं। इस बीच, ऋषभ पंत की भूमिका भ्रम पैदा कर रही है, जिससे उन्हें सलामी बल्लेबाज के रूप में उतारने के लिए मजबूत सुझाव दिए जा रहे हैं। विशेषज्ञों का मानना है कि यह रणनीतिक बदलाव पंत की क्षमता को उजागर कर सकता है, LSG को आवश्यक बल्लेबाजी स्थिरता प्रदान कर सकता है, और टूर्नामेंट में उनकी मौजूदा संघर्षों को दूर कर सकता है।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQbE1oQU84RUoyQ2tWQXhxUllCeVlTY2c0WWZjZkhMQWxrc1RXT1BtTkc0R2lzVHdvTmRPWDZqaE9YRXJJY2luWV9Zd1VBVm9fRHZwTnMtdlZ3MExRbmFDTWY2SHFqbndHODNJc05pNUwtcDdhU0x1UUNIYy16ejFlcW1DQVByaFdsOVhlZGtDUEs5V0Y1SVd4eW1RdUZReHRIODNXSTFaU2Z1eC1VNWwxd1VEODRNUG41X1dJQjQxU1NUOEVDTzc0am5UMFBVeTZKdnFHSlQ5UDJrbkJITnotOUhkU0xGZFRfMTE4UlJ6YjREZ9IB9wFBVV95cUxOWEJ4WEhpSkN4eDNTWVBkeGt0T04zdml2RTYtZy1UcklEUndjTVl3Y1g2NEE5SDhGWE0xR0FyR0ZfNVVrSkV0ZDcwUUowMGt2bGpOT2pGaFdTVzI1TW8ybFk4M1VQZmZ1Vm10bHkybjB5aGU0dDA1VElrMW4wcDltWVM5eHo1NDFsUXNsRFRzVG91OS0xc2ZSYzEwVnRvSl9abGVBWDh3eGJ4Nkx4aXJXQ3dPVEFEdkFZUTJLU3NONjZLRUY3ZGZ4WFliOHBBMXZXbWpHVENQbC1fNllpNUVGY2wwQzZWVTZvNjVnT2Zaa1ZoQVVKQ0ln?oc=5",
-        "date": "Sun, 05 Apr 2026 07:49:29 GMT"
-    },
-    {
-        "id": "7a291b03",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Delhi Capitals Triumph Over Mumbai Indians in IPL 2026 Match 8",
-                "content": "Delhi Capitals clinched a dominant 6-wicket victory over Mumbai Indians in the eighth match of IPL 2026. This crucial win significantly alters the league's points table, boosting DC's standing. Their strong chasing performance impressed fans, hinting at their playoff aspirations. Mumbai Indians, meanwhile, face renewed pressure to recover quickly in the high-stakes tournament, ensuring the competition remains fierce."
-            },
-            "kn": {
-                "title": "ಐಪಿಎಲ್ 2026 ಪಂದ್ಯ 8 ರಲ್ಲಿ ಡೆಲ್ಲಿ ಕ್ಯಾಪಿಟಲ್ಸ್ ಮುಂಬೈ ಇಂಡಿಯನ್ಸ್ ವಿರುದ್ಧ ಜಯಭೇರಿ",
-                "content": "ಐಪಿಎಲ್ 2026 ರ ಎಂಟನೇ ಪಂದ್ಯದಲ್ಲಿ ಡೆಲ್ಲಿ ಕ್ಯಾಪಿಟಲ್ಸ್ ಮುಂಬೈ ಇಂಡಿಯನ್ಸ್ ವಿರುದ್ಧ 6 ವಿಕೆಟ್‌ಗಳ ಭರ್ಜರಿ ಜಯ ಸಾಧಿಸಿದೆ. ಈ ನಿರ್ಣಾಯಕ ಗೆಲುವು ಲೀಗ್‌ನ ಅಂಕಪಟ್ಟಿಯನ್ನು ಗಣನೀಯವಾಗಿ ಬದಲಿಸಿ, ಡಿಸಿ ಸ್ಥಾನವನ್ನು ಹೆಚ್ಚಿಸಿದೆ. ಅವರ ಬಲಿಷ್ಠ ಚೇಸಿಂಗ್ ಪ್ರದರ್ಶನವು ಅಭಿಮಾನಿಗಳನ್ನು ಮೆಚ್ಚಿಸಿದೆ, ಇದು ಅವರ ಪ್ಲೇಆಫ್ ಆಕಾಂಕ್ಷೆಗಳನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಮುಂಬೈ ಇಂಡಿಯನ್ಸ್, ಇನ್ನೊಂದೆಡೆ, ಹೆಚ್ಚು ಪೈಪೋಟಿಯ ಈ ಪಂದ್ಯಾವಳಿಯಲ್ಲಿ ಶೀಘ್ರವಾಗಿ ಚೇತರಿಸಿಕೊಳ್ಳಲು ಹೊಸ ಒತ್ತಡವನ್ನು ಎದುರಿಸುತ್ತಿದೆ."
-            },
-            "mr": {
-                "title": "आयपीएल 2026 च्या 8 व्या सामन्यात दिल्ली कॅपिटल्सचा मुंबई इंडियन्सवर विजय",
-                "content": "आयपीएल 2026 च्या आठव्या सामन्यात दिल्ली कॅपिटल्सने मुंबई इंडियन्सवर 6 गडी राखून दमदार विजय मिळवला. या महत्त्वपूर्ण विजयामुळे लीगच्या गुणतालिकेत लक्षणीय बदल झाला असून, डीसीचे स्थान उंचावले आहे. त्यांच्या प्रभावी पाठलागाच्या कामगिरीने चाहत्यांना प्रभावित केले आहे, ज्यामुळे त्यांच्या प्लेऑफच्या आशा वाढल्या आहेत. दुसरीकडे, मुंबई इंडियन्सला या तीव्र स्पर्धेत लवकर सावरण्यासाठी पुन्हा एकदा दबावाचा सामना करावा लागत आहे."
-            },
-            "hi": {
-                "title": "आईपीएल 2026 मैच 8 में दिल्ली कैपिटल्स ने मुंबई इंडियंस को हराया",
-                "content": "आईपीएल 2026 के आठवें मैच में दिल्ली कैपिटल्स ने मुंबई इंडियंस पर 6 विकेट से शानदार जीत हासिल की। इस महत्वपूर्ण जीत ने लीग की अंक तालिका में बड़ा बदलाव किया है, जिससे डीसी की स्थिति मजबूत हुई है। उनकी मजबूत चेज़िंग प्रदर्शन ने प्रशंसकों को प्रभावित किया है, जो उनकी प्लेऑफ आकांक्षाओं की ओर इशारा करता है। वहीं, मुंबई इंडियंस को इस हाई-स्टेक्स टूर्नामेंट में जल्दी वापसी करने के लिए नए दबाव का सामना करना पड़ रहा है।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPT0ZVb214bVJJZ0FJY1EtSkp0NUJKQU5fdDRsMXdMTzlUbmdVdk9QN1BQUi1zTWExeWlBbGhSdUxuZlk0a05RZ2pXcmt6RlN6ejZzVFZUSnNtNjF2N0JfWGxRamJnZWVhX1hnOWZSTG9iQzEwS3pTR0dqNDVsN2pQX0NhUDhOd3FMaHN1d0dYMzV5bC1rS3lGenhNUXlScFVsUGJnVDU4cG55b2Zvb1cwZ2RKUThxeThhd3V2RUR5QjlLbmZGZFMxdll3QTlXNWtqb1NiQWVJd3FRN2lRYUR1MEF2Sm0zVW5TcENmQUV2SUlNVFlXR3czSTRFYWI2c2MxTlhNUkdLbjZUYXlDdkhKSDAwQVl3NEtCcnZ0Q1lvaDBQczVGUzJwWndMR3JWeE5XWkQxcVo0RFkzYktzSWhOMFFsSFVRZDJvVGhCcDZJTXVRY3NVT1hWbzFkUzQweVFwbEJKZ0FR?oc=5",
-        "date": "Sat, 04 Apr 2026 16:03:48 GMT"
-    },
-    {
-        "id": "bce7c1dc",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Debunking Trump's Walter Reed Hospitalization Claim",
-                "content": "A viral claim spread rapidly online suggesting Donald Trump was rushed to Walter Reed Medical Center before Easter. However, fact-checks debunked these rumors. Mint confirmed the reports were baseless, and the former president was not hospitalized. The widely shared online speculation about Trump's health was unfounded, proving to be a hoax with no factual basis."
-            },
-            "kn": {
-                "title": "ಟ್ರಂಪ್ ವಾಲ್ಟರ್ ರೀಡ್ ಆಸ್ಪತ್ರೆಗೆ ದಾಖಲಾದ ಹೇಳಿಕೆ ಸತ್ಯಾಸತ್ಯತೆ ನಿರಾಕರಣೆ",
-                "content": "ಈಸ್ಟರ್‌ಗೂ ಮುನ್ನ ಡೊನಾಲ್ಡ್ ಟ್ರಂಪ್‌ರನ್ನು ವಾಲ್ಟರ್ ರೀಡ್ ವೈದ್ಯಕೀಯ ಕೇಂದ್ರಕ್ಕೆ ದಾಖಲಿಸಲಾಗಿದೆ ಎಂದು ವೈರಲ್ ಹೇಳಿಕೆಯೊಂದು ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ವೇಗವಾಗಿ ಹರಡಿತು. ಆದರೆ, ವಾಸ್ತವ ಪರಿಶೀಲನೆಗಳು ಈ ವದಂತಿಗಳನ್ನು ಸುಳ್ಳು ಎಂದು ನಿರೂಪಿಸಿದವು. ಮಿಂಟ್ ಈ ವರದಿಗಳು ಆಧಾರರಹಿತ ಎಂದು ದೃಢಪಡಿಸಿತು ಮತ್ತು ಮಾಜಿ ಅಧ್ಯಕ್ಷರು ಆಸ್ಪತ್ರೆಗೆ ದಾಖಲಾಗಿಲ್ಲ. ಟ್ರಂಪ್ ಅವರ ಆರೋಗ್ಯದ ಬಗ್ಗೆ ವ್ಯಾಪಕವಾಗಿ ಹಂಚಲ್ಪಟ್ಟ ಆನ್‌ಲೈನ್ ಊಹಾಪೋಹಗಳು ಆಧಾರರಹಿತವಾಗಿದ್ದು, ಯಾವುದೇ ವಾಸ್ತವಿಕ ಆಧಾರವಿಲ್ಲದ ಸುಳ್ಳು ಎಂದು ಸಾಬೀತಾಯಿತು."
-            },
-            "mr": {
-                "title": "ट्रम्प वॉल्टर रीड रुग्णालयात दाखल झाल्याच्या दाव्याचे खंडन",
-                "content": "ईस्टरपूर्वी डोनाल्ड ट्रम्प यांना वॉल्टर रीड मेडिकल सेंटरमध्ये दाखल करण्यात आले होते असा एक व्हायरल दावा ऑनलाइन वेगाने पसरला. मात्र, तथ्य तपासणीने या अफवा खोट्या ठरवल्या. मिंटने पुष्टी केली की हे अहवाल निराधार होते आणि माजी अध्यक्ष रुग्णालयात दाखल झाले नव्हते. ट्रम्प यांच्या आरोग्याबद्दल ऑनलाइनवर मोठ्या प्रमाणावर पसरलेली अटकळ निराधार होती आणि ती एक अफवा असल्याचे सिद्ध झाले."
-            },
-            "hi": {
-                "title": "ट्रंप के वाल्टर रीड अस्पताल में भर्ती होने के दावे का खंडन",
-                "content": "ईस्टर से पहले डोनाल्ड ट्रंप को वाल्टर रीड मेडिकल सेंटर में भर्ती कराया गया था, ऐसा एक वायरल दावा ऑनलाइन तेजी से फैला। हालांकि, तथ्य-जांच ने इन अफवाहों को खारिज कर दिया। मिंट ने पुष्टि की कि ये रिपोर्टें निराधार थीं और पूर्व राष्ट्रपति अस्पताल में भर्ती नहीं हुए थे। ट्रंप के स्वास्थ्य के बारे में व्यापक रूप से साझा की गई ऑनलाइन अटकलें बेबुनियाद थीं, जो एक अफवाह साबित हुई जिसका कोई तथ्यात्मक आधार नहीं था।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRUhmR2FMTnVmZGpZeXJ1NGlZOWRJdEpNYmJKaWJHb01XcTF4T1pyU0JzNDAya3RMcFNwRF9uUkVCSnZ4b2ZzZUpiZlBsZy1ZQWp4ZmNJVFdxVi1XTHc2T0N3Unl5QmdSOEJZOE5VR2NKRkJlTHNhOXI2bGpXR1JsRkVzUlgzaXhGVjFGVUR0U2EtamZnUHRhd3FCM2lKNHJhRWE1UFBmdXREekFqOGFjN0E3QUtyUWxLeVVGSS1CUzk5amZrOEV3Y25nSnNNQVNfZzV3aEhWT1VRX0tuSDM5WXk0RGRubENuV1NxTG03eGZXQUJPRzZn0gH3AUFVX3lxTE1FSGZHYUxOdWZkall5cnU0aVk5ZEl0Sk1iYkppYkdvTVdxMXhPWnJTQnM0MDJrdExwU3BEX25SRUJKdnhvZnNlSmJmUGxnLVlBanhmY0lUV3FWLVdMdzZPQ3dSeXlCZ1I4Qlk4TlVHY0pGQmVMc2E5cjZsaldHUmxGRXNSWDNpeEZWMUZVRHRTYS1qZmdQdGF3cUIzaUo0cmFFYTVQUGZ1dER6QWo4YWM3QTdBS3JRbEt5VUZJLUJTOTlqZms4RXdjbmdKc01BU19nNXdoSFZPVVFfS25IMzlZeTREZG5sQ25XU3FMbTd4ZldBQk9HNmc?oc=5",
-        "date": "Sun, 05 Apr 2026 00:28:37 GMT"
-    },
-    {
-        "id": "60ee3e1f",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "AI Reshaping Science, Says Yale Astrophysicist",
-                "content": "Yale astrophysicist Priya Natarajan sees AI sparking a fundamental shift in science, impacting international students amidst dwindling US research funding. She champions curiosity, lifelong learning, and her contributions to dark matter and black holes. Natarajan urges embracing AI's transformative role and supporting aspiring scientists despite funding hurdles."
-            },
-            "kn": {
-                "title": "AI ವಿಜ್ಞಾನವನ್ನು ಪರಿವರ್ತಿಸುತ್ತಿದೆ: ಯೇಲ್ ಖಗೋಳ ಭೌತವಿಜ್ಞಾನಿ",
-                "content": "ಯೇಲ್ ಖಗೋಳ ಭೌತವಿಜ್ಞಾನಿ ಪ್ರಿಯಾ ನಟರಾಜನ್, AI ವಿಜ್ಞಾನದಲ್ಲಿ ಮೂಲಭೂತ ಬದಲಾವಣೆ ತರುತ್ತಿದೆ ಎಂದು ಹೇಳಿದ್ದಾರೆ. ಇದು US ನಲ್ಲಿನ ಸಂಶೋಧನಾ ನಿಧಿಯ ಕೊರತೆಯಿಂದ ಅಂತರರಾಷ್ಟ್ರೀಯ ವಿದ್ಯಾರ್ಥಿಗಳ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರುತ್ತಿದೆ. ಅವರು ಕುತೂಹಲ, ಆಜೀವ ಕಲಿಕೆ ಮತ್ತು ಡಾರ್ಕ್ ಮ್ಯಾಟರ್, ಕಪ್ಪು ಕುಳಿಗಳ ಅಧ್ಯಯನಕ್ಕೆ ಒತ್ತು ನೀಡುತ್ತಾರೆ. AI ಪಾತ್ರವನ್ನು ಅಳವಡಿಸಿಕೊಳ್ಳಲು ಮತ್ತು ನಿಧಿಯ ಸವಾಲುಗಳ ನಡುವೆಯೂ ವಿಜ್ಞಾನಿಗಳನ್ನು ಬೆಂಬಲಿಸಲು ನಟರಾಜನ್ ಕರೆ ನೀಡುತ್ತಾರೆ."
-            },
-            "mr": {
-                "title": "एआय विज्ञानाला आकार देत आहे: येल खगोलभौतिकशास्त्रज्ञ",
-                "content": "येलच्या खगोलभौतिकशास्त्रज्ञ प्रिया नटराजन यांच्या मते, एआयमुळे वैज्ञानिक पद्धतींमध्ये मूलभूत बदल होत आहे. अमेरिकेत संशोधन निधी कमी झाल्याने आंतरराष्ट्रीय विद्यार्थ्यांना याचा फटका बसत आहे. त्यांनी कुतूहल, आजीवन शिक्षण आणि डार्क मॅटर व ब्लॅक होलवरील त्यांच्या कामावर भर दिला. निधीच्या अडचणी असूनही एआयच्या परिवर्तनीय भूमिकेशी जुळवून घेण्याचे आणि शास्त्रज्ञांना पाठिंबा देण्याचे आवाहन नटराजन यांनी केले."
-            },
-            "hi": {
-                "title": "एआई विज्ञान को नया रूप दे रहा है: येल खगोल भौतिक विज्ञानी",
-                "content": "येल की खगोल भौतिक विज्ञानी प्रिया नटराजन का मानना है कि एआई विज्ञान के तरीकों में मौलिक बदलाव ला रहा है। अमेरिका में अनुसंधान निधि घटने से अंतरराष्ट्रीय छात्र प्रभावित हो रहे हैं। उन्होंने जिज्ञासा, आजीवन सीखने और डार्क मैटर व ब्लैक होल पर अपने योगदान पर जोर दिया। नटराजन एआई की परिवर्तनकारी भूमिका को अपनाने और फंडिंग चुनौतियों के बावजूद वैज्ञानिकों का समर्थन करने का आग्रह करती हैं।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-130035173,imgsize-1032803.cms",
-        "link": "https://timesofindia.indiatimes.com/india/on-the-precipice-of-fundamental-shift-in-scientific-method-with-ai-says-yale-astrophysicist-priya-natarajan/articleshow/130035160.cms",
-        "date": "2026-04-05T12:47:25+05:30"
-    },
-    {
-        "id": "5c9a06a4",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Assam CM Himanta Biswa Sarma Dances to BJP Campaign Song",
-                "content": "Assam CM Himanta Biswa Sarma showed off his moves, dancing to a BJP campaign song at a Bongaigaon rally. This festive display celebrated the party's outreach for the upcoming assembly elections. The CM had previously released three theme songs, penned by party workers, aiming to connect emotionally with voters and convey BJP's vision for Assam's protection and development."
-            },
-            "kn": {
-                "title": "ಅಸ್ಸಾಂ ಸಿಎಂ ಹಿಮಂತ ಬಿಸ್ವ ಶರ್ಮಾ ಬಿಜೆಪಿ ಪ್ರಚಾರ ಗೀತೆಗೆ ನೃತ್ಯ",
-                "content": "ಅಸ್ಸಾಂ ಮುಖ್ಯಮಂತ್ರಿ ಹಿಮಂತ ಬಿಸ್ವ ಶರ್ಮಾ ಬೊಂಗೈಗಾಂವ್ ರ್ಯಾಲಿಯಲ್ಲಿ ಬಿಜೆಪಿ ಪ್ರಚಾರ ಗೀತೆಗೆ ಹೆಜ್ಜೆ ಹಾಕಿದರು. ಈ ಉತ್ಸವದ ಪ್ರದರ್ಶನವು ಮುಂಬರುವ ವಿಧಾನಸಭಾ ಚುನಾವಣೆಗಳಿಗಾಗಿ ಪಕ್ಷದ ಪ್ರಚಾರವನ್ನು ಆಚರಿಸಿತು. ಪಕ್ಷದ ಕಾರ್ಯಕರ್ತರು ಬರೆದ ಮೂರು ಥೀಮ್ ಹಾಡುಗಳನ್ನು ಮುಖ್ಯಮಂತ್ರಿ ಈ ಹಿಂದೆ ಬಿಡುಗಡೆ ಮಾಡಿದ್ದರು, ಇದು ಮತದಾರರೊಂದಿಗೆ ಭಾವನಾತ್ಮಕವಾಗಿ ಸಂಪರ್ಕ ಸಾಧಿಸಲು ಮತ್ತು ಅಸ್ಸಾಂನ ರಕ್ಷಣೆ ಹಾಗೂ ಅಭಿವೃದ್ಧಿಗಾಗಿ ಬಿಜೆಪಿಯ ದೃಷ್ಟಿಕೋನವನ್ನು ತಿಳಿಸುವ ಗುರಿಯನ್ನು ಹೊಂದಿತ್ತು."
-            },
-            "mr": {
-                "title": "आसामचे मुख्यमंत्री हिमंता बिस्वा सरमा यांचा भाजपच्या प्रचार गीतावर डान्स",
-                "content": "आसामचे मुख्यमंत्री हिमंता बिस्वा सरमा यांनी बोंगाईगाव रॅलीत भाजपच्या प्रचार गीतावर ठेका धरला. हा उत्सवपूर्ण प्रदर्शन आगामी विधानसभा निवडणुकांसाठी पक्षाच्या जनसंपर्काचे प्रतीक होते. मुख्यमंत्र्यांनी यापूर्वी पक्षाच्या कार्यकर्त्यांनी लिहिलेली तीन थीम गीते प्रकाशित केली होती, ज्याचा उद्देश मतदारांशी भावनिक संबंध जोडणे आणि आसामच्या संरक्षण व विकासासाठी भाजपची दृष्टी मांडणे हा होता."
-            },
-            "hi": {
-                "title": "असम के सीएम हिमंता बिस्वा सरमा ने बीजेपी के चुनावी गाने पर किया डांस",
-                "content": "असम के मुख्यमंत्री हिमंता बिस्वा सरमा ने बोंगाईगांव रैली में बीजेपी के चुनावी गाने पर थिरकते हुए अपने जलवे दिखाए. इस उत्सवपूर्ण प्रदर्शन ने आगामी विधानसभा चुनावों के लिए पार्टी की पहुँच का जश्न मनाया. मुख्यमंत्री ने पहले पार्टी कार्यकर्ताओं द्वारा लिखे गए तीन थीम गीत जारी किए थे, जिसका उद्देश्य मतदाताओं से भावनात्मक रूप से जुड़ना और असम के संरक्षण व विकास के लिए बीजेपी के दृष्टिकोण को व्यक्त करना था."
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-130035149,imgsize-3567530.cms",
-        "link": "https://timesofindia.indiatimes.com/india/watch-assam-cm-himanta-biswa-sarma-grooves-to-bjps-campaign-song-at-bongaigaon-rally/articleshow/130034955.cms",
-        "date": "2026-04-05T12:41:17+05:30"
-    },
-    {
-        "id": "3978b67e",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "DMK's A Raja Sends Legal Notice Over 'Fake AI Audio'",
-                "content": "DMK leader A Raja has issued a legal notice to a YouTube channel over a \"falsely fabricated\" AI-generated audio clip. Raja alleges the clip misrepresented his speech, and criticized AIADMK leader Edappadi K Palaniswami for using the unverified recording to make defamatory remarks against DMK patriarch M Karunanidhi and CM MK Stalin. The dispute highlights concerns over AI misuse in political discourse."
-            },
-            "kn": {
-                "title": "DMK ನ ಎ. ರಾಜಾ 'ನಕಲಿ AI ಆಡಿಯೋ' ವಿರುದ್ಧ ಯುಟ್ಯೂಬ್ ಚಾನೆಲ್‌ಗೆ ನೋಟಿಸ್",
-                "content": "DMK ನಾಯಕ ಎ. ರಾಜಾ ಅವರು 'ಸುಳ್ಳಾಗಿ ಸೃಷ್ಟಿಸಲಾದ' AI-ನಿರ್ಮಿತ ಆಡಿಯೋ ಕ್ಲಿಪ್‌ಗಾಗಿ ಯುಟ್ಯೂಬ್ ಚಾನೆಲ್‌ಗೆ ಕಾನೂನು ನೋಟಿಸ್ ನೀಡಿದ್ದಾರೆ. ಈ ಕ್ಲಿಪ್ ತಮ್ಮ ಭಾಷಣವನ್ನು ತಪ್ಪಾಗಿ ನಿರೂಪಿಸಿದೆ ಎಂದು ರಾಜಾ ಆರೋಪಿಸಿದ್ದಾರೆ. ಪರಿಶೀಲಿಸದ ಈ ರೆಕಾರ್ಡಿಂಗ್ ಅನ್ನು ಬಳಸಿಕೊಂಡು DMK ಹಿರಿಯ ನಾಯಕ ಎಂ. ಕರುಣಾನಿಧಿ ಮತ್ತು ಸಿಎಂ ಎಂ.ಕೆ. ಸ್ಟಾಲಿನ್ ವಿರುದ್ಧ ಮಾನಹಾನಿಕರ ಹೇಳಿಕೆಗಳನ್ನು ನೀಡಿದ್ದಕ್ಕಾಗಿ ಅವರು AIADMK ನಾಯಕ ಎಡಪ್ಪಾಡಿ ಕೆ. ಪಳನಿಸ್ವಾಮಿ ಅವರನ್ನು ಟೀಕಿಸಿದ್ದಾರೆ. ಈ ವಿವಾದವು ರಾಜಕೀಯ ಚರ್ಚೆಯಲ್ಲಿ AI ದುರುಪಯೋಗದ ಬಗ್ಗೆ ಕಳವಳಗಳನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "DMK चे ए. राजा 'बनावट AI ऑडिओ' क्लिपवरून YouTube चॅनेलला नोटीस",
-                "content": "DMK नेते ए. राजा यांनी 'खोट्या पद्धतीने तयार केलेल्या' AI-निर्मित ऑडिओ क्लिपवरून एका YouTube चॅनेलला कायदेशीर नोटीस पाठवली आहे. राजा यांचा आरोप आहे की, या क्लिपने त्यांच्या भाषणाचे चुकीचे चित्रण केले. AIADMK नेते एडप्पाडी के. पलानीस्वामी यांनी पडताळणी न केलेल्या या रेकॉर्डिंगचा वापर DMK प्रमुख एम. करुणानिधी आणि मुख्यमंत्री एम.के. स्टालिन यांच्या विरोधात बदनामीकारक टिप्पणी करण्यासाठी केल्याबद्दल त्यांनी त्यांच्यावर टीका केली. हा वाद राजकीय चर्चेत AI च्या गैरवापराबद्दल चिंता वाढवतो."
-            },
-            "hi": {
-                "title": "DMK के ए. राजा ने 'फर्जी AI ऑडियो' क्लिप पर YouTube चैनल को नोटिस भेजा",
-                "content": "DMK नेता ए. राजा ने एक \"झूठे ढंग से गढ़ी गई\" AI-जनित ऑडियो क्लिप को लेकर एक YouTube चैनल को कानूनी नोटिस भेजा है। राजा का आरोप है कि क्लिप ने उनके भाषण को गलत तरीके से प्रस्तुत किया। उन्होंने AIADMK नेता एडप्पाडी के. पलानीस्वामी की आलोचना की कि उन्होंने DMK के संरक्षक एम. करुणानिधि और सीएम एम.के. स्टालिन के खिलाफ अपमानजनक टिप्पणी करने के लिए इस असत्यापित रिकॉर्डिंग का इस्तेमाल किया। यह विवाद राजनीतिक चर्चा में AI के दुरुपयोग पर चिंताएं उजागर करता है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-130034600,imgsize-617261.cms",
-        "link": "https://timesofindia.indiatimes.com/india/falsely-fabricated-narrative-dmk-leader-a-raja-sends-legal-notice-to-youtube-channel-over-ai-audio-clip/articleshow/130034554.cms",
-        "date": "2026-04-05T12:08:31+05:30"
     }
 ]
