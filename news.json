@@ -1,5 +1,80 @@
 [
     {
+        "id": "d5bc2936",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "SRH to Lodge BCCI Complaint Over Avesh Khan Boundary Incident",
+                "content": "Sunrisers Hyderabad (SRH) will escalate a controversial boundary incident involving Rajasthan Royals' pacer Avesh Khan to the BCCI. During a recent match, Khan allegedly obstructed a shot near the boundary, preventing a potential four. SRH contends this was an unsporting act and plans to seek the Board's review for clarification and potential disciplinary action, emphasizing fair play."
+            },
+            "kn": {
+                "title": "ಅವೇಶ್ ಖಾನ್ ಬೌಂಡರಿ ಘಟನೆ: SRH ನಿಂದ BCCI ಗೆ ದೂರು",
+                "content": "ಸನ್‌ರೈಸರ್ಸ್ ಹೈದರಾಬಾದ್ (SRH) ರಾಜಸ್ಥಾನ್ ರಾಯಲ್ಸ್‌ನ ವೇಗಿ ಅವೇಶ್ ಖಾನ್ ಒಳಗೊಂಡ ವಿವಾದಾತ್ಮಕ ಬೌಂಡರಿ ಘಟನೆಯನ್ನು BCCI ಗೆ ಒಯ್ಯಲಿದೆ. ಇತ್ತೀಚಿನ ಪಂದ್ಯವೊಂದರಲ್ಲಿ, ಖಾನ್ ಬೌಂಡರಿ ಬಳಿ ಶೂಟನ್ನು ತಡೆದು ಸಂಭಾವ್ಯ ನಾಲ್ಕು ರನ್‌ಗಳನ್ನು ತಡೆದಿದ್ದಾರೆ ಎಂದು ಆರೋಪಿಸಲಾಗಿದೆ. ಇದು ಕ್ರೀಡಾ ಅನ್ಯಾಯದ ಕೃತ್ಯ ಎಂದು SRH ವಾದಿಸುತ್ತದೆ ಮತ್ತು ಸ್ಪಷ್ಟೀಕರಣ ಹಾಗೂ ಸಂಭಾವ್ಯ ಶಿಸ್ತು ಕ್ರಮಕ್ಕಾಗಿ ಮಂಡಳಿಯ ಪರಿಶೀಲನೆಯನ್ನು ಕೋರಲು ಯೋಜಿಸಿದೆ, ನ್ಯಾಯಯುತ ಆಟಕ್ಕೆ ಒತ್ತು ನೀಡಿದೆ."
+            },
+            "mr": {
+                "title": "अवेश खान बाउंड्री घटनेवरून SRH ची बीसीसीआयकडे तक्रार",
+                "content": "सनरायझर्स हैदराबाद (SRH) राजस्थान रॉयल्सचा वेगवान गोलंदाज अवेश खान संबंधित वादग्रस्त बाउंड्री घटनेची तक्रार बीसीसीआयकडे करणार आहे. नुकत्याच झालेल्या एका सामन्यात, खानने बाउंड्रीजवळ एका शॉटला अडवून संभाव्य चौकार रोखला होता असा आरोप आहे. SRH चा दावा आहे की हे एक गैर-क्रीडात्मक कृत्य होते आणि ते स्पष्टीकरण आणि संभाव्य शिस्तभंगाच्या कारवाईसाठी मंडळाच्या पुनरावलोकनाची मागणी करणार आहेत, ज्यामुळे खेळाच्या नैतिकतेला महत्त्व दिले जात आहे."
+            },
+            "hi": {
+                "title": "आवेश खान बाउंड्री घटना पर SRH बीसीसीआई से करेगा शिकायत",
+                "content": "सनराइजर्स हैदराबाद (SRH) राजस्थान रॉयल्स के तेज गेंदबाज आवेश खान से जुड़ी एक विवादास्पद बाउंड्री घटना को बीसीसीआई के पास ले जाएगा। हाल के एक मैच के दौरान, खान ने कथित तौर पर बाउंड्री के पास एक शॉट को बाधित किया, जिससे संभावित चौका रुक गया। SRH का तर्क है कि यह एक गैर-खेल भावना वाला कार्य था और वह स्पष्टीकरण और संभावित अनुशासनात्मक कार्रवाई के लिए बोर्ड की समीक्षा की मांग करेगा, निष्पक्ष खेल पर जोर देगा।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOX1puR1dwQndtNEM5VDBHbXNMNHU1X01QVEpFTVdHVG55czdzbGN5X01WR1UyTXkwYXN4MU1YcXY3Q3Y5dkRfSk5VLU5BMmNkdFhmOFEycGo1aWdOaGhLQlFKclNUNkR1MXIzblhaRUpPX0xBdmFwWDNwdndLZHVDWnotcWhDSmRfY1hVc3I3U3FLbGdGRHZXV0Y1VWNZSW93QUZlcWNWMEk3V2NhclJQUFhqRll4Y3VzNFk4b0NfQjRCY2J6RHZtOVg4amxKZV9CM1VR?oc=5",
+        "date": "Tue, 07 Apr 2026 03:11:40 GMT"
+    },
+    {
+        "id": "2c33d902",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "SC Orders CBI Probe into ₹1,200 Cr Arunachal CM Kin Contracts",
+                "content": "The Supreme Court has directed the CBI to investigate allegations of ₹1,200 crore contracts being awarded to relatives of the Arunachal Pradesh Chief Minister. This significant order comes amidst concerns over potential favoritism and corruption in public procurement. The CBI probe will now scrutinize these high-value contracts."
+            },
+            "kn": {
+                "title": "SC ₹1,200 ಕೋಟಿ ಅರುಣಾಚಲ ಸಿಎಂ ಸಂಬಂಧಿಕರ ಗುತ್ತಿಗೆಗಳ ಬಗ್ಗೆ CBI ತನಿಖೆಗೆ ಆದೇಶಿಸಿದೆ",
+                "content": "ಸುಪ್ರೀಂ ಕೋರ್ಟ್ ಅರುಣಾಚಲ ಪ್ರದೇಶದ ಮುಖ್ಯಮಂತ್ರಿಯ ಸಂಬಂಧಿಕರಿಗೆ ₹1,200 ಕೋಟಿ ಮೌಲ್ಯದ ಗುತ್ತಿಗೆಗಳನ್ನು ನೀಡಿದ ಆರೋಪಗಳ ಕುರಿತು ತನಿಖೆ ನಡೆಸಲು ಸಿಬಿಐಗೆ ನಿರ್ದೇಶಿಸಿದೆ. ಈ ಮಹತ್ವದ ಆದೇಶವು ಸಾರ್ವಜನಿಕ ಸಂಗ್ರಹಣೆಯಲ್ಲಿ ಸಂಭಾವ್ಯ ಸ್ವಜನಪಕ್ಷಪಾತ ಮತ್ತು ಭ್ರಷ್ಟಾಚಾರದ ಬಗ್ಗೆ ಕಳವಳಗಳ ನಡುವೆ ಬಂದಿದೆ. ಸಿಬಿಐ ತನಿಖೆಯು ಈಗ ಈ ಹೆಚ್ಚಿನ ಮೌಲ್ಯದ ಗುತ್ತಿಗೆಗಳನ್ನು ಪರಿಶೀಲಿಸಲಿದೆ."
+            },
+            "mr": {
+                "title": "SC चा CBI ला ₹1,200 कोटींच्या अरुणाचल मुख्यमंत्र्यांच्या नातेवाईकांच्या करारांच्या चौकशीचा आदेश",
+                "content": "सर्वोच्च न्यायालयाने अरुणाचल प्रदेशच्या मुख्यमंत्र्यांच्या नातेवाईकांना ₹1,200 कोटींचे करार दिल्याच्या आरोपांची चौकशी करण्याचे निर्देश CBI ला दिले आहेत. सार्वजनिक खरेदीमध्ये संभाव्य घराणेशाही आणि भ्रष्टाचाराच्या चिंतेमध्ये हा महत्त्वाचा आदेश आला आहे. आता CBI या उच्च मूल्याच्या करारांची छाननी करेल."
+            },
+            "hi": {
+                "title": "SC ने अरुणाचल CM के रिश्तेदारों को ₹1,200 करोड़ के ठेके की CBI जांच का आदेश दिया",
+                "content": "सुप्रीम कोर्ट ने अरुणाचल प्रदेश के मुख्यमंत्री के रिश्तेदारों को ₹1,200 करोड़ के ठेके दिए जाने के आरोपों की जांच CBI को सौंप दी है। यह महत्वपूर्ण आदेश सार्वजनिक खरीद में संभावित भाई-भतीजावाद और भ्रष्टाचार की चिंताओं के बीच आया है। CBI अब इन उच्च-मूल्य वाले ठेकों की बारीकी से जांच करेगी।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130071147,imgsize-793781.cms",
+        "link": "https://timesofindia.indiatimes.com/india/supreme-court-to-cbi-probe-1200cr-contracts-to-arunachal-cms-kin/articleshow/130070971.cms",
+        "date": "2026-04-07T02:59:31+05:30"
+    },
+    {
+        "id": "9288a914",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Conservative Firestorm: Owens, Loomer Clash Over 'Satanic' Trump Admin",
+                "content": "Laura Loomer and Candace Owens are embroiled in a public feud. Owens ignited the spat by labeling Donald Trump's administration \"satanic,\" prompting Loomer to retaliate with a personal jab referencing Charlie Kirk. The disagreement quickly escalated from political discourse into bitter personal accusations. Owens also discussed Tucker Carlson and broader geopolitical views, drawing others into the conflict."
+            },
+            "kn": {
+                "title": "ಸಂಪ್ರದಾಯವಾದಿ ಬಿರುಗಾಳಿ: ಓವೆನ್ಸ್, ಲೂಮರ್ 'ಸಾತಾನಿಕ' ಟ್ರಂಪ್ ಆಡಳಿತದ ಬಗ್ಗೆ ಸಂಘರ್ಷ",
+                "content": "ಲಾರಾ ಲೂಮರ್ ಮತ್ತು ಕ್ಯಾಂಡೆಸ್ ಓವೆನ್ಸ್ ಸಾರ್ವಜನಿಕ ಜಗಳದಲ್ಲಿ ತೊಡಗಿದ್ದಾರೆ. ಡೊನಾಲ್ಡ್ ಟ್ರಂಪ್ ಆಡಳಿತವನ್ನು 'ಸಾತಾನಿಕ' ಎಂದು ಲೇಬಲ್ ಮಾಡುವ ಮೂಲಕ ಓವೆನ್ಸ್ ಈ ಜಗಳವನ್ನು ಹುಟ್ಟುಹಾಕಿದರು, ಚಾರ್ಲಿ ಕಿರ್ಕ್ ಅನ್ನು ಉಲ್ಲೇಖಿಸಿ ಲೂಮರ್ ವೈಯಕ್ತಿಕ ದಾಳಿಯೊಂದಿಗೆ ಪ್ರತೀಕಾರ ತೀರಿಸಿಕೊಂಡರು. ಈ ಭಿನ್ನಾಭಿಪ್ರಾಯವು ರಾಜಕೀಯ ಚರ್ಚೆಯಿಂದ ಕಹಿ ವೈಯಕ್ತಿಕ ಆರೋಪಗಳಿಗೆ ತ್ವರಿತವಾಗಿ ತಿರುಗಿತು. ಓವೆನ್ಸ್ ಟಕರ್ ಕಾರ್ಲ್ಸನ್ ಮತ್ತು ವಿಶಾಲ ಭೌಗೋಳಿಕ ರಾಜಕೀಯ ದೃಷ್ಟಿಕೋನಗಳ ಬಗ್ಗೆಯೂ ಚರ್ಚಿಸಿದರು, ಇತರರನ್ನು ಸಂಘರ್ಷಕ್ಕೆ ಎಳೆದರು."
+            },
+            "mr": {
+                "title": "पुराणमतवादी वादळ: ओवेन्स, लूमर यांचा 'सैतानी' ट्रम्प प्रशासनावरून संघर्ष",
+                "content": "लॉरा लूमर आणि कँडिस ओवेन्स सार्वजनिक वादात गुंतले आहेत. ओवेन्स यांनी डोनाल्ड ट्रम्प प्रशासनाला 'सैतानी' असे संबोधून हा वाद सुरू केला, ज्यामुळे लूमरने चार्ली कर्कचा उल्लेख करत वैयक्तिक टीका करून प्रत्युत्तर दिले. हा वाद लवकरच राजकीय चर्चेतून कटू वैयक्तिक आरोपांमध्ये बदलला. ओवेन्स यांनी टकर कार्लसन आणि व्यापक भू-राजकीय विचारांवरही चर्चा केली, ज्यामुळे इतरही या संघर्षात ओढले गेले."
+            },
+            "hi": {
+                "title": "रूढ़िवादी तूफान: ओवेन्स, लूमर का 'शैतानी' ट्रम्प प्रशासन पर टकराव",
+                "content": "लॉरा लूमर और कैंडेंस ओवेन्स सार्वजनिक झगड़े में उलझ गए हैं। ओवेन्स ने डोनाल्ड ट्रम्प प्रशासन को 'शैतानी' करार देकर इस विवाद को जन्म दिया, जिसके जवाब में लूमर ने चार्ली किर्क का हवाला देते हुए एक व्यक्तिगत वार किया। यह असहमति तेजी से राजनीतिक बयानबाजी से कटु व्यक्तिगत आरोपों में बदल गई। ओवेन्स ने टकर कार्लसन और व्यापक भू-राजनीतिक विचारों पर भी चर्चा की, जिससे अन्य लोग भी इस संघर्ष में शामिल हो गए।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130072400,imgsize-817166.cms",
+        "link": "https://timesofindia.indiatimes.com/world/us-streamers/best-friends-grave-laura-loomer-slams-candace-owens-after-she-calls-president-administration-satanic-drags-charlie-kirk-into-feud/articleshow/130072539.cms",
+        "date": "2026-04-07T03:41:37+05:30"
+    },
+    {
         "id": "ab30deec",
         "category": "IPL Scoop",
         "translations": {
@@ -1923,80 +1998,5 @@
         "image": "https://static.toiimg.com/photo/msid-130034580,imgsize-237716.cms",
         "link": "https://timesofindia.indiatimes.com/india/tamil-nadu-polls-tvk-chief-vijay-declares-two-pending-firs-in-fresh-affidavit/articleshow/130034536.cms",
         "date": "2026-04-05T12:04:01+05:30"
-    },
-    {
-        "id": "f5d0826c",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Rahul Gandhi Slams Govt Over Women's OSCs",
-                "content": "Rahul Gandhi criticized the central government, stating it \"is not listening to anyone\" as he highlighted severe functional problems plaguing One Stop Centres (OSCs) for women. He emphasized the urgent need for better implementation and responsiveness to ensure these vital support systems effectively serve women in distress, urging immediate government attention to improve their operation and reach."
-            },
-            "kn": {
-                "title": "ಮಹಿಳೆಯರ OSCs ಕುರಿತು ರಾಹುಲ್ ಗಾಂಧಿ ಸರ್ಕಾರದ ವಿರುದ್ಧ ವಾಗ್ದಾಳಿ",
-                "content": "ರಾಹುಲ್ ಗಾಂಧಿ ಕೇಂದ್ರ ಸರ್ಕಾರದ ವಿರುದ್ಧ ಟೀಕಿಸಿದ್ದಾರೆ, \"ಯಾರ ಮಾತನ್ನೂ ಕೇಳುತ್ತಿಲ್ಲ\" ಎಂದು ಹೇಳುತ್ತಾ ಮಹಿಳೆಯರಿಗಾಗಿರುವ ಒನ್ ಸ್ಟಾಪ್ ಸೆಂಟರ್‌ಗಳ (OSCs) ಗಂಭೀರ ಕ್ರಿಯಾತ್ಮಕ ಸಮಸ್ಯೆಗಳನ್ನು ಎತ್ತಿ ತೋರಿಸಿದ್ದಾರೆ. ಸಂಕಷ್ಟದಲ್ಲಿರುವ ಮಹಿಳೆಯರಿಗೆ ಈ ಪ್ರಮುಖ ಬೆಂಬಲ ವ್ಯವಸ್ಥೆಗಳು ಪರಿಣಾಮಕಾರಿಯಾಗಿ ಸೇವೆ ಸಲ್ಲಿಸುವುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು ಉತ್ತಮ ಅನುಷ್ಠಾನ ಮತ್ತು ಪ್ರತಿಕ್ರಿಯೆಯ ಅಗತ್ಯವನ್ನು ಅವರು ಒತ್ತಿಹೇಳಿದರು, ಅವುಗಳ ಕಾರ್ಯಾಚರಣೆ ಮತ್ತು ವ್ಯಾಪ್ತಿಯನ್ನು ಸುಧಾರಿಸಲು ತಕ್ಷಣದ ಸರ್ಕಾರದ ಗಮನವನ್ನು ಕೋರಿದರು."
-            },
-            "mr": {
-                "title": "महिलांच्या OSCs बाबत राहुल गांधींची सरकारवर टीका",
-                "content": "राहुल गांधींनी केंद्र सरकारवर टीका केली, \"कुणाचेच ऐकत नाही\" असे म्हणत त्यांनी महिलांसाठीच्या वन स्टॉप सेंटर्स (OSCs) मधील गंभीर कार्यात्मक समस्यांवर प्रकाश टाकला. संकटग्रस्त महिलांना या महत्त्वपूर्ण आधार प्रणाली प्रभावीपणे सेवा देतात याची खात्री करण्यासाठी उत्तम अंमलबजावणी आणि प्रतिसाद देण्याची तातडीची गरज त्यांनी अधोरेखित केली, तसेच त्यांच्या कार्यान्वयन आणि पोहोच सुधारण्यासाठी सरकारच्या तातडीच्या लक्ष्याची मागणी केली."
-            },
-            "hi": {
-                "title": "राहुल गांधी ने महिलाओं के OSCs को लेकर सरकार पर साधा निशाना",
-                "content": "राहुल गांधी ने केंद्र सरकार की आलोचना करते हुए कहा कि वह \"किसी की नहीं सुन रही है\" और उन्होंने महिलाओं के लिए वन स्टॉप सेंटर (OSCs) में व्याप्त गंभीर कार्यात्मक समस्याओं को उजागर किया। उन्होंने इन महत्वपूर्ण सहायता प्रणालियों को संकटग्रस्त महिलाओं की प्रभावी ढंग से सेवा करने के लिए बेहतर कार्यान्वयन और जवाबदेही की तत्काल आवश्यकता पर जोर दिया, साथ ही उनके संचालन और पहुंच में सुधार के लिए तत्काल सरकारी ध्यान का आग्रह किया।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-130034459,imgsize-101004.cms",
-        "link": "https://timesofindia.indiatimes.com/india/central-governmnet-not-listening-to-anyone-rahul-gandhi-flags-functional-problems-of-oscs-for-women/articleshow/130034459.cms",
-        "date": "2026-04-05T11:41:48+05:30"
-    },
-    {
-        "id": "df919e0c",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Laser Saves Man After Denture Lodges in Food Pipe",
-                "content": "In a remarkable medical feat, doctors used a laser to safely remove a denture lodged in a man's food pipe. This innovative procedure at a Chennai hospital prevented invasive surgery, allowing for a swift and non-traumatic recovery from the potentially life-threatening obstruction."
-            },
-            "kn": {
-                "title": "ಆಹಾರ ಕೊಳವೆಯಲ್ಲಿ ಸಿಕ್ಕಿಹಾಕಿಕೊಂಡ ದವಡೆ ಹಲ್ಲು: ಲೇಸರ್‌ನಿಂದ ವ್ಯಕ್ತಿ ರಕ್ಷಣೆ",
-                "content": "ಒಂದು ಗಮನಾರ್ಹ ವೈದ್ಯಕೀಯ ಸಾಧನೆಯಲ್ಲಿ, ವೈದ್ಯರು ಲೇಸರ್ ಬಳಸಿ ವ್ಯಕ್ತಿಯೊಬ್ಬರ ಆಹಾರ ಕೊಳವೆಯಲ್ಲಿ ಸಿಕ್ಕಿಹಾಕಿಕೊಂಡ ದವಡೆ ಹಲ್ಲನ್ನು ಸುರಕ್ಷಿತವಾಗಿ ತೆಗೆದುಹಾಕಿದರು. ಚೆನ್ನೈನ ಆಸ್ಪತ್ರೆಯಲ್ಲಿ ನಡೆದ ಈ ನವೀನ ವಿಧಾನವು ಆಕ್ರಮಣಕಾರಿ ಶಸ್ತ್ರಚಿಕಿತ್ಸೆಯನ್ನು ತಪ್ಪಿಸಿ, ಪ್ರಾಣಾಪಾಯಕಾರಿ ಅಡಚಣೆಯಿಂದ ವೇಗವಾಗಿ ಮತ್ತು ಆಘಾತರಹಿತ ಚೇತರಿಕೆಗೆ ಅನುವು ಮಾಡಿಕೊಟ್ಟಿತು."
-            },
-            "mr": {
-                "title": "अन्ननलिकेत दातवण अडकले, लेझरने वाचवले प्राण",
-                "content": "एका उल्लेखनीय वैद्यकीय यशात, डॉक्टरांनी लेझरचा वापर करून एका व्यक्तीच्या अन्ननलिकेत अडकलेली दातवण सुरक्षितपणे काढली. चेन्नईतील रुग्णालयात केलेल्या या अभिनव प्रक्रियेमुळे आक्रमक शस्त्रक्रिया टाळता आली, ज्यामुळे संभाव्य जीवघेण्या अडथळ्यातून जलद आणि आघातविरहित पुनर्प्राप्ती शक्य झाली."
-            },
-            "hi": {
-                "title": "अन्न नली में फंसे नकली दांत, लेजर ने बचाई जान",
-                "content": "एक उल्लेखनीय चिकित्सीय उपलब्धि में, डॉक्टरों ने लेजर का उपयोग कर एक व्यक्ति की अन्न नली में फंसे नकली दांतों को सुरक्षित रूप से बाहर निकाला। चेन्नई के एक अस्पताल में हुई इस अभिनव प्रक्रिया ने आक्रामक सर्जरी को टाल दिया, जिससे संभावित जानलेवा रुकावट से त्वरित और आघात-रहित रिकवरी संभव हुई।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-130034320,imgsize-56674.cms",
-        "link": "https://timesofindia.indiatimes.com/india/laser-saves-man-after-denture-gets-stuck-in-food-pipe/articleshow/130034319.cms",
-        "date": "2026-04-05T11:18:39+05:30"
-    },
-    {
-        "id": "65dcfd1a",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Iran Assures Safe Passage for Indian Ships in Hormuz",
-                "content": "Iran's envoy confirms measures are underway to guarantee safe passage for Indian commercial vessels through the Strait of Hormuz. This diplomatic move aims to bolster maritime security and facilitate crucial trade links between the two nations. The assurance underscores Iran's commitment to safeguarding international shipping routes and fostering cooperation amidst regional complexities, ensuring smooth transit for Indian maritime interests."
-            },
-            "kn": {
-                "title": "ಹಾರ್ಮುಜ್‌ನಲ್ಲಿ ಭಾರತೀಯ ಹಡಗುಗಳಿಗೆ ಇರಾನ್ ಸುರಕ್ಷಿತ ಮಾರ್ಗ ಖಾತರಿ",
-                "content": "ಹಾರ್ಮುಜ್ ಜಲಸಂಧಿಯ ಮೂಲಕ ಭಾರತೀಯ ವಾಣಿಜ್ಯ ಹಡಗುಗಳಿಗೆ ಸುರಕ್ಷಿತ ಮಾರ್ಗವನ್ನು ಖಾತರಿಪಡಿಸಲು ಕ್ರಮಗಳು ನಡೆಯುತ್ತಿವೆ ಎಂದು ಇರಾನ್‌ನ ರಾಯಭಾರಿ ದೃಢಪಡಿಸಿದ್ದಾರೆ. ಈ ರಾಜತಾಂತ್ರಿಕ ನಡೆ ಕಡಲ ಭದ್ರತೆಯನ್ನು ಹೆಚ್ಚಿಸಲು ಮತ್ತು ಎರಡೂ ದೇಶಗಳ ನಡುವಿನ ನಿರ್ಣಾಯಕ ವ್ಯಾಪಾರ ಸಂಬಂಧಗಳನ್ನು ಸುಗಮಗೊಳಿಸುವ ಗುರಿಯನ್ನು ಹೊಂದಿದೆ. ಈ ಭರವಸೆಯು ಅಂತರರಾಷ್ಟ್ರೀಯ ಹಡಗು ಮಾರ್ಗಗಳನ್ನು ರಕ್ಷಿಸಲು ಮತ್ತು ಪ್ರಾದೇಶಿಕ ಸಂಕೀರ್ಣತೆಗಳ ನಡುವೆ ಸಹಕಾರವನ್ನು ಬೆಳೆಸುವ ಇರಾನ್‌ನ ಬದ್ಧತೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ, ಭಾರತೀಯ ಕಡಲ ಹಿತಾಸಕ್ತಿಗಳಿಗೆ ಸುಗಮ ಸಾಗಣೆಯನ್ನು ಖಚಿತಪಡಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "इराणकडून भारतीय जहाजांना होर्मुझमध्ये सुरक्षित मार्गाची हमी",
-                "content": "इराणच्या राजदूतांनी होर्मुझच्या सामुद्रधुनीतून भारतीय व्यापारी जहाजांना सुरक्षित मार्ग सुनिश्चित करण्यासाठी उपाययोजना सुरू असल्याचे सांगितले. या राजनैतिक पावलाचा उद्देश सागरी सुरक्षा वाढवणे आणि दोन्ही देशांमधील महत्त्वपूर्ण व्यापारी संबंध सुलभ करणे हा आहे. हे आश्वासन आंतरराष्ट्रीय जहाज मार्गांचे रक्षण करण्याच्या आणि प्रादेशिक गुंतागुंतीत सहकार्य वाढवण्याच्या इराणच्या वचनबद्धतेवर भर देते, ज्यामुळे भारतीय सागरी हितांसाठी सुरळीत वाहतूक सुनिश्चित होते."
-            },
-            "hi": {
-                "title": "ईरान ने होर्मुज में भारतीय जहाजों के लिए सुरक्षित मार्ग का आश्वासन दिया",
-                "content": "ईरान के राजदूत ने पुष्टि की है कि होर्मुज जलडमरूमध्य से भारतीय वाणिज्यिक जहाजों के लिए सुरक्षित मार्ग सुनिश्चित करने के उपाय चल रहे हैं। इस राजनयिक कदम का उद्देश्य समुद्री सुरक्षा को मजबूत करना और दोनों देशों के बीच महत्वपूर्ण व्यापारिक संबंधों को सुविधाजनक बनाना है। यह आश्वासन अंतरराष्ट्रीय शिपिंग मार्गों की सुरक्षा और क्षेत्रीय जटिलताओं के बीच सहयोग को बढ़ावा देने के लिए ईरान की प्रतिबद्धता को रेखांकित करता है, जिससे भारतीय समुद्री हितों के लिए सुचारु पारगमन सुनिश्चित होता है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-130034172,imgsize-151013.cms",
-        "link": "https://timesofindia.indiatimes.com/india/steps-in-place-to-give-india-ships-hormuz-passage-iran-envoy/articleshow/130034158.cms",
-        "date": "2026-04-05T10:55:58+05:30"
     }
 ]
