@@ -1,5 +1,55 @@
 [
     {
+        "id": "ab30deec",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "Byron Allen: Inside the Billionaire's Media Empire",
+                "content": "Media mogul Byron Allen, host of 'Comics Unleashed,' boasts a multi-billion dollar net worth from his sprawling Allen Media Group empire. His diverse portfolio, encompassing television, film, and digital platforms, highlights his strategic acquisitions and content creation. Allen's business acumen has cemented his status as a formidable force in entertainment, continually expanding his influential media conglomerate."
+            },
+            "kn": {
+                "title": "ಬೈರನ್ ಅಲೆನ್: ಬಿಲಿಯನೇರ್‌ನ ಮಾಧ್ಯಮ ಸಾಮ್ರಾಜ್ಯದೊಳಗೆ",
+                "content": "'ಕಾಮಿಕ್ಸ್ ಅನ್ಲೀಶ್ಡ್' ನ ನಿರೂಪಕ, ಮಾಧ್ಯಮ ದೊರೆ ಬೈರನ್ ಅಲೆನ್, ತಮ್ಮ ವಿಶಾಲವಾದ ಅಲೆನ್ ಮೀಡಿಯಾ ಗ್ರೂಪ್ ಸಾಮ್ರಾಜ್ಯದಿಂದ ಬಹು-ಬಿಲಿಯನ್ ಡಾಲರ್ ನಿವ್ವಳ ಮೌಲ್ಯವನ್ನು ಹೊಂದಿದ್ದಾರೆ. ದೂರದರ್ಶನ, ಚಲನಚಿತ್ರ ಮತ್ತು ಡಿಜಿಟಲ್ ಪ್ಲಾಟ್‌ಫಾರ್ಮ್‌ಗಳನ್ನು ಒಳಗೊಂಡಿರುವ ಅವರ ವೈವಿಧ್ಯಮಯ ಪೋರ್ಟ್‌ಫೋಲಿಯೊ, ಅವರ ಕಾರ್ಯತಂತ್ರದ ಸ್ವಾಧೀನಗಳು ಮತ್ತು ವಿಷಯ ರಚನೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ಅಲೆನ್ ಅವರ ವ್ಯಾಪಾರ ಕೌಶಲ್ಯವು ಮನರಂಜನೆಯಲ್ಲಿ ಪ್ರಬಲ ಶಕ್ತಿಯಾಗಿ ಅವರ ಸ್ಥಾನಮಾನವನ್ನು ಭದ್ರಪಡಿಸಿದೆ, ಅವರ ಪ್ರಭಾವಶಾಲಿ ಮಾಧ್ಯಮ ಸಮೂಹವನ್ನು ನಿರಂತರವಾಗಿ ವಿಸ್ತರಿಸುತ್ತಿದೆ."
+            },
+            "mr": {
+                "title": "बायरन ऍलन: अब्जाधीशांच्या मीडिया साम्राज्यामध्ये",
+                "content": "'कॉमिक्स अनलीश्ड' चे सूत्रसंचालक, मीडिया टायकून बायरन ऍलन यांच्याकडे त्यांच्या विशाल ऍलन मीडिया ग्रुप साम्राज्यातून अब्जावधी डॉलर्सची संपत्ती आहे. दूरदर्शन, चित्रपट आणि डिजिटल प्लॅटफॉर्मचा समावेश असलेला त्यांचा वैविध्यपूर्ण पोर्टफोलिओ त्यांच्या धोरणात्मक अधिग्रहणे आणि सामग्री निर्मितीवर प्रकाश टाकतो. ऍलनच्या व्यावसायिक कौशल्याने मनोरंजनात त्यांची एक शक्तिशाली शक्ती म्हणूनची प्रतिमा मजबूत केली आहे, आणि ते त्यांच्या प्रभावशाली मीडिया समूहाचा सतत विस्तार करत आहेत."
+            },
+            "hi": {
+                "title": "बायरन एलन: अरबपति के मीडिया साम्राज्य के अंदर",
+                "content": "'कॉमिक्स अनलीश्ड' के होस्ट और मीडिया मुग़ल बायरन एलन, अपने विशाल एलन मीडिया ग्रुप साम्राज्य से बहु-अरब डॉलर की कुल संपत्ति के मालिक हैं। उनका विविध पोर्टफोलियो, जिसमें टेलीविज़न, फ़िल्म और डिजिटल प्लेटफ़ॉर्म शामिल हैं, उनके रणनीतिक अधिग्रहणों और सामग्री निर्माण को उजागर करता है। एलन की व्यावसायिक सूझबूझ ने मनोरंजन में एक शक्तिशाली शक्ति के रूप में उनकी स्थिति को मजबूत किया है, जो लगातार उनके प्रभावशाली मीडिया समूह का विस्तार कर रही है।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQbTNsUGF5ejdOWHhZNEI4cElMZ2ZaVm5ZM3NndTJYNUlXdUh2Y3dqVDV4UEdYSUZfOU03TzVvYVdIUTZLM05RQlJiaUtuTWlFR1VLRkNqUnFUV1RwMWdCUzNkSG5ESGlQQXNVWHFJMWxtNjlEZEFrRTZiX1pITlZ2dTdNZ1pkQTZaenJ1SlpvLUsxa2ppMk9YSUFXVkx1ektJdk1KZEhLcU0zSm5NOERTWVpXeXBBV0FpZTV1UkRIRHZsY1JJQy1BcDd5UmNMWkEyZWpiQm9vamFBZnc2dXRzVXBoMXVYY1FHVi1wVWxDaThNUXVxMVJBTXJPNzNJM1BjMDMxTjF2Vm9FUzDSAZACQVVfeXFMTXJRZVhVRm53NlQ5Z3UxUDB1ckc2TTBMZnFyeHRFbEpVTi1QMW5fWFBYSjFUdGI5UmJabndvRDVQdjdEVTdzbTVsc09GYlRkckw1Mml2c1hGWldicEhZS2dLbmlQeGdNMTZ4Q21YZjBGNE1CMjZiM3JHWkJ1Xzd6dktoNU5iVmgxY0RFRzJaZElrckZrN3R5WTdRZUdEcGd3Qkp1TEpYUmY0SEgtNVNVUjdQUWdqTHFMR1pxaWhzUFl5OF9aRmdFUTJMZ0FpV25KQ0t1d1BNd3NxZWlhT3pzV0VxalV3UWw3TURvLTVpVXBrNU9vQnQwbEMzX19hMnM2REdJeWpJbVk0S0Y3VHptTTM?oc=5",
+        "date": "Mon, 06 Apr 2026 21:00:08 GMT"
+    },
+    {
+        "id": "6be6cb3c",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "Rohit Roy-Dia Mirza Controversy: Old Allegation Resurfaces",
+                "content": "A decade-old controversy involving actors Rohit Roy and Dia Mirza is back in focus. Reports are revisiting an alleged incident where Roy was accused of an inappropriate touch towards Mirza. This unresolved issue, which reportedly caused a stir in the 2000s, is again sparking discussions among fans and media, highlighting past celebrity controversies."
+            },
+            "kn": {
+                "title": "ರೋಹಿತ್ ರಾಯ್-ದಿಯಾ ಮಿರ್ಜಾ ವಿವಾದ: ಹಳೆಯ ಆರೋಪ ಮರುಕಳಿಸಿದೆ",
+                "content": "ನಟರಾದ ರೋಹಿತ್ ರಾಯ್ ಮತ್ತು ದಿಯಾ ಮಿರ್ಜಾ ನಡುವಿನ ದಶಕ ಹಳೆಯ ವಿವಾದ ಮತ್ತೆ ಮುನ್ನೆಲೆಗೆ ಬಂದಿದೆ. ರಾಯ್ ಅವರು ಮಿರ್ಜಾ ಅವರಿಗೆ ಅನುಚಿತವಾಗಿ ಸ್ಪರ್ಶಿಸಿದ್ದಾರೆ ಎನ್ನಲಾದ ಘಟನೆಯನ್ನು ವರದಿಗಳು ಮತ್ತೆ ಚರ್ಚಿಸುತ್ತಿವೆ. 2000 ರ ದಶಕದಲ್ಲಿ ಸಂಚಲನ ಮೂಡಿಸಿದ್ದ ಈ ಬಗೆಹರಿಯದ ವಿಷಯವು, ಹಿಂದಿನ ಸೆಲೆಬ್ರಿಟಿ ವಿವಾದಗಳನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತಾ, ಅಭಿಮಾನಿಗಳು ಮತ್ತು ಮಾಧ್ಯಮಗಳ ನಡುವೆ ಮತ್ತೆ ಚರ್ಚೆಯನ್ನು ಹುಟ್ಟುಹಾಕುತ್ತಿದೆ."
+            },
+            "mr": {
+                "title": "रोहित रॉय-दिया मिर्झा वाद: जुना आरोप पुन्हा समोर",
+                "content": "अभिनेते रोहित रॉय आणि दिया मिर्झा यांच्यातील दशक जुना वाद पुन्हा चर्चेत आला आहे. रॉय यांच्यावर मिर्झा यांना अयोग्यरित्या स्पर्श केल्याचा आरोप असलेल्या एका कथित घटनेची चर्चा पुन्हा सुरू झाली आहे. 2000 च्या दशकात खळबळ माजवलेल्या या अनिर्णित मुद्द्यावर, मागील सेलिब्रिटी वादांवर प्रकाश टाकत, चाहते आणि माध्यमांमध्ये पुन्हा चर्चा सुरू झाली आहे."
+            },
+            "hi": {
+                "title": "रोहित रॉय-दिया मिर्ज़ा विवाद: पुराना आरोप फिर से सुर्खियों में",
+                "content": "अभिनेता रोहित रॉय और दीया मिर्ज़ा से जुड़ा एक दशक पुराना विवाद फिर से सुर्खियों में है। रिपोर्ट्स एक कथित घटना को फिर से खंगाल रही हैं, जिसमें रॉय पर मिर्ज़ा को अनुचित तरीके से छूने का आरोप लगा था। 2000 के दशक में सनसनी मचाने वाला यह अनसुलझा मुद्दा, पिछली सेलिब्रिटी विवादों को उजागर करते हुए, प्रशंसकों और मीडिया के बीच फिर से चर्चा का विषय बन गया है।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbVppcmFIcW9MWWRObHpoLS0wWmt3S2tYb2xfYVVFMnlNTFJ1RjRQenVxNFoxemZTZkRxNnl5SVIxTXFROFdxNmpvUXJ5YU1aNVZNRURKTl9OZ25pc25FTjZDY1g1bWNPaGFtLUh5NW55QUpUM2ZpbUJ1dEc2VFhENVBsUnpRTm9DaU8tcWxIVGFyNGtHUlFzV3B5bERVMXp4bWxyajBjQkpHWnZySzlwQlRCMEotWVQyQUo2TS1vemlQVFgtLU1UVzNHbUpsTTVNYlpBblBCSDZBOUE?oc=5",
+        "date": "Mon, 06 Apr 2026 11:13:21 GMT"
+    },
+    {
         "id": "a04e9f39",
         "category": "IPL Scoop",
         "translations": {
@@ -1948,55 +1998,5 @@
         "image": "https://static.toiimg.com/photo/msid-130034172,imgsize-151013.cms",
         "link": "https://timesofindia.indiatimes.com/india/steps-in-place-to-give-india-ships-hormuz-passage-iran-envoy/articleshow/130034158.cms",
         "date": "2026-04-05T10:55:58+05:30"
-    },
-    {
-        "id": "173f27b2",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Palaniswami's Karunanidhi 'House Arrest' Claim Ignites Row",
-                "content": "AIADMK leader Palaniswami sparked a row by claiming he only repeated a DMK leader's remark about late Karunanidhi's alleged 'house arrest'. This contentious statement, referencing Karunanidhi's final days, has drawn sharp criticism. Tamil Nadu CM M.K. Stalin swiftly hit back, intensifying the political war of words between the rival parties over historical narratives and past events."
-            },
-            "kn": {
-                "title": "ಪಳನಿಸ್ವಾಮಿ ಅವರ ಕರುಣಾನಿಧಿ 'ಗೃಹಬಂಧನ' ಹೇಳಿಕೆ ವಿವಾದಕ್ಕೆ ಕಾರಣ",
-                "content": "ಎಐಎಡಿಎಂಕೆ ನಾಯಕ ಪಳನಿಸ್ವಾಮಿ ಅವರು ದಿವಂಗತ ಕರುಣಾನಿಧಿ ಅವರ 'ಗೃಹಬಂಧನ'ದ ಬಗ್ಗೆ ಡಿಎಂಕೆ ನಾಯಕರೊಬ್ಬರ ಹೇಳಿಕೆಯನ್ನು ತಾವು ಕೇವಲ ಪುನರಾವರ್ತಿಸಿದ್ದೇವೆ ಎಂದು ಹೇಳುವ ಮೂಲಕ ವಿವಾದಕ್ಕೆ ಸಿಲುಕಿದ್ದಾರೆ. ಕರುಣಾನಿಧಿ ಅವರ ಕೊನೆಯ ದಿನಗಳನ್ನು ಉಲ್ಲೇಖಿಸುವ ಈ ವಿವಾದಾತ್ಮಕ ಹೇಳಿಕೆಯು ತೀವ್ರ ಟೀಕೆಗೆ ಗುರಿಯಾಗಿದೆ. ತಮಿಳುನಾಡು ಮುಖ್ಯಮಂತ್ರಿ ಎಂ.ಕೆ. ಸ್ಟಾಲಿನ್ ತಕ್ಷಣವೇ ತಿರುಗೇಟು ನೀಡಿದ್ದು, ಐತಿಹಾಸಿಕ ನಿರೂಪಣೆಗಳು ಮತ್ತು ಹಿಂದಿನ ಘಟನೆಗಳ ಬಗ್ಗೆ ಪ್ರತಿಸ್ಪರ್ಧಿ ಪಕ್ಷಗಳ ನಡುವಿನ ರಾಜಕೀಯ ವಾಕ್ಸಮರವನ್ನು ತೀವ್ರಗೊಳಿಸಿದ್ದಾರೆ."
-            },
-            "mr": {
-                "title": "पलानीस्वामींच्या करुणानिधींच्या 'गृहकैद' दाव्याने वाद चिघळला",
-                "content": "अण्णाद्रमुक नेते पलानीस्वामी यांनी दिवंगत करुणानिधींच्या कथित 'गृहकैद'बद्दल एका द्रमुक नेत्याचे वक्तव्य फक्त आपणच पुन्हा सांगितले असे सांगून वाद निर्माण केला आहे. करुणानिधींच्या शेवटच्या दिवसांचा संदर्भ देणाऱ्या या वादग्रस्त विधानावर तीव्र टीका झाली आहे. तामिळनाडूचे मुख्यमंत्री एम.के. स्टॅलिन यांनी तात्काळ प्रत्युत्तर दिले, ज्यामुळे ऐतिहासिक कथन आणि भूतकाळातील घटनांवरून प्रतिस्पर्धी पक्षांमधील राजकीय वाक् युद्ध तीव्र झाले."
-            },
-            "hi": {
-                "title": "पलानीस्वामी के करुणानिधि 'नज़रबंदी' दावे से विवाद गरमाया",
-                "content": "अन्नाद्रमुक नेता पलानीस्वामी ने दावा किया कि उन्होंने दिवंगत करुणानिधि की कथित 'नज़रबंदी' पर एक द्रमुक नेता की टिप्पणी को केवल दोहराया था, जिससे विवाद खड़ा हो गया। करुणानिधि के अंतिम दिनों का जिक्र करने वाले इस विवादास्पद बयान की तीखी आलोचना हुई है। तमिलनाडु के मुख्यमंत्री एम.के. स्टालिन ने तुरंत पलटवार किया, जिससे ऐतिहासिक आख्यानों और पिछली घटनाओं पर प्रतिद्वंद्वी दलों के बीच राजनीतिक वाकयुद्ध तेज हो गया।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-130033666,imgsize-508202.cms",
-        "link": "https://timesofindia.indiatimes.com/india/i-only-disclosed-what-dmk-leader-said-palaniswami-on-karunanidhi-house-arrest-row-stalin-hits-back/articleshow/130033340.cms",
-        "date": "2026-04-05T09:50:59+05:30"
-    },
-    {
-        "id": "3d052d4c",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Air India Crash: Families Urge PM for Black Box Data",
-                "content": "Grieving families of Air India flight crash victims, 10 months after the tragedy claimed 260 lives, have appealed to PM Modi. They demand the release of crucial black box data—cockpit and flight recorder information—to understand the disaster's cause. The families seek transparency, requesting either public disclosure or private sharing of this vital data to find answers and ensure accountability."
-            },
-            "kn": {
-                "title": "ಏರ್ ಇಂಡಿಯಾ ದುರಂತ: ಕುಟುಂಬಗಳಿಂದ ಪ್ರಧಾನಿಗೆ ಬ್ಲಾಕ್ ಬಾಕ್ಸ್ ಡೇಟಾ ಬಿಡುಗಡೆಗೆ ಆಗ್ರಹ",
-                "content": "ಏರ್ ಇಂಡಿಯಾ ವಿಮಾನ ದುರಂತದಲ್ಲಿ 260 ಜೀವಗಳನ್ನು ಬಲಿತೆಗೆದುಕೊಂಡ ಹತ್ತು ತಿಂಗಳ ನಂತರ, ಸಂತ್ರಸ್ತರ ಕುಟುಂಬಗಳು ಪ್ರಧಾನಿ ಮೋದಿಗೆ ಮನವಿ ಮಾಡಿವೆ. ದುರಂತದ ಕಾರಣ ತಿಳಿಯಲು ನಿರ್ಣಾಯಕ ಬ್ಲಾಕ್ ಬಾಕ್ಸ್ ಡೇಟಾ (ಕಾಕ್‌ಪಿಟ್ ಮತ್ತು ಫ್ಲೈಟ್ ರೆಕಾರ್ಡರ್ ಮಾಹಿತಿ) ಬಿಡುಗಡೆಗೆ ಅವರು ಒತ್ತಾಯಿಸಿದ್ದಾರೆ. ಕುಟುಂಬಗಳು ಪಾರದರ್ಶಕತೆ ಬಯಸಿದ್ದು, ಈ ಪ್ರಮುಖ ಮಾಹಿತಿಯನ್ನು ಸಾರ್ವಜನಿಕಗೊಳಿಸಲು ಅಥವಾ ಖಾಸಗಿಯಾಗಿ ಹಂಚಿಕೊಳ್ಳಲು ಕೇಳಿಕೊಂಡಿವೆ."
-            },
-            "mr": {
-                "title": "एअर इंडिया अपघात: ब्लॅक बॉक्स डेटासाठी कुटुंबीयांचे पंतप्रधानांना आवाहन",
-                "content": "260 लोकांचा बळी घेणाऱ्या एअर इंडिया विमान अपघाताला 10 महिने उलटल्यानंतर, पीडितांच्या कुटुंबीयांनी पंतप्रधान मोदींना आवाहन केले आहे. दुर्घटनेचे कारण समजून घेण्यासाठी त्यांनी महत्त्वाचा ब्लॅक बॉक्स डेटा—कॉकपिट आणि फ्लाइट रेकॉर्डर माहिती—जारी करण्याची मागणी केली आहे. कुटुंबे पारदर्शकतेची मागणी करत आहेत, या महत्त्वपूर्ण डेटाच्या सार्वजनिक किंवा खाजगी वितरणाची विनंती करत आहेत."
-            },
-            "hi": {
-                "title": "एयर इंडिया दुर्घटना: ब्लैक बॉक्स डेटा जारी करने हेतु परिवारों ने पीएम से की अपील",
-                "content": "एयर इंडिया विमान दुर्घटना में 260 लोगों की जान जाने के 10 महीने बाद, पीड़ित परिवारों ने पीएम मोदी से अपील की है। वे दुर्घटना के कारण को समझने के लिए महत्वपूर्ण ब्लैक बॉक्स डेटा - कॉकपिट और फ्लाइट रिकॉर्डर जानकारी - जारी करने की मांग कर रहे हैं। परिवार पारदर्शिता चाहते हैं, इस महत्वपूर्ण डेटा को सार्वजनिक करने या निजी तौर पर साझा करने का अनुरोध कर रहे हैं।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-130033366,imgsize-432793.cms",
-        "link": "https://timesofindia.indiatimes.com/india/air-india-ahmedabad-plane-crash-grieving-families-write-to-pm-modi-demand-release-of-black-box-data/articleshow/130033301.cms",
-        "date": "2026-04-05T09:12:33+05:30"
     }
 ]
