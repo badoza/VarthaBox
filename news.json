@@ -1,5 +1,30 @@
 [
     {
+        "id": "d1a62ac0",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "J&K HC Rules Shrines as Waqf, History Books Can't Prove Title",
+                "content": "The Jammu & Kashmir High Court has declared two Kishtwar shrines and their properties as waqf, rejecting hereditary claims by petitioners. The court emphasized that property titles must be based on concrete evidence, not merely public history or historical books. This ruling sets a clear precedent against relying on ancient texts for ownership claims, solidifying waqf status."
+            },
+            "kn": {
+                "title": "ಜೆ&ಕೆ ಹೈಕೋರ್ಟ್: ಧಾರ್ಮಿಕ ಸ್ಥಳಗಳು ವಕ್ಫ್, ಇತಿಹಾಸ ಪುಸ್ತಕಗಳಿಂದ ಹಕ್ಕು ಸಾಧಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ",
+                "content": "ಜಮ್ಮು ಮತ್ತು ಕಾಶ್ಮೀರ ಹೈಕೋರ್ಟ್ ಕಿಸ್ತವಾರದ ಎರಡು ಧಾರ್ಮಿಕ ಸ್ಥಳಗಳು ಮತ್ತು ಅವುಗಳ ಆಸ್ತಿಗಳನ್ನು ವಕ್ಫ್ ಎಂದು ಘೋಷಿಸಿದೆ, ಅರ್ಜಿದಾರರ ವಂಶಪಾರಂಪರ್ಯ ಹಕ್ಕುಗಳನ್ನು ತಿರಸ್ಕರಿಸಿದೆ. ಆಸ್ತಿ ಹಕ್ಕುಗಳು ಇತಿಹಾಸ ಪುಸ್ತಕಗಳ ಬದಲು ಕಾಂಕ್ರೀಟ್ ಪುರಾವೆಗಳ ಮೇಲೆ ಇರಬೇಕು ಎಂದು ನ್ಯಾಯಾಲಯ ಒತ್ತಿಹೇಳಿದೆ. ಈ ತೀರ್ಪು ಪ್ರಾಚೀನ ಗ್ರಂಥಗಳ ಮೇಲಿನ ಆಸ್ತಿ ಹಕ್ಕುದಾರಿಕೆಗೆ ಸ್ಪಷ್ಟ ಪೂರ್ವನಿದರ್ಶನವಾಗಿದೆ, ವಕ್ಫ್ ಸ್ಥಾನಮಾನವನ್ನು ಭದ್ರಪಡಿಸಿದೆ."
+            },
+            "mr": {
+                "title": "जे&के उच्च न्यायालय: धार्मिक स्थळे वक्फ, इतिहास पुस्तके हक्क सिद्ध करू शकत नाहीत",
+                "content": "जम्मू आणि काश्मीर उच्च न्यायालयाने किश्तवाड येथील दोन धार्मिक स्थळे आणि त्यांच्या मालमत्ता वक्फ म्हणून घोषित केल्या, अर्जदारांचे वंशपरंपरागत दावे फेटाळले. न्यायालयाने जोर दिला की मालमत्तेचे हक्क केवळ ऐतिहासिक पुस्तकांवर नव्हे, तर ठोस पुराव्यांवर आधारित असावेत. हा निर्णय प्राचीन ग्रंथांवरील मालकी हक्कांच्या दाव्यांविरुद्ध एक स्पष्ट पूर्वउदाहरण ठरवतो, ज्यामुळे वक्फ दर्जा मजबूत होतो."
+            },
+            "hi": {
+                "title": "जेएंडके हाईकोर्ट: तीर्थस्थल वक्फ, इतिहास की किताबें नहीं साबित कर सकतीं मालिकाना हक",
+                "content": "जम्मू-कश्मीर हाईकोर्ट ने किश्तवाड़ के दो तीर्थस्थलों और उनकी संपत्तियों को वक्फ घोषित किया, याचिकाकर्ताओं के वंशानुगत दावों को खारिज किया। कोर्ट ने जोर दिया कि संपत्ति के शीर्षक केवल ऐतिहासिक किताबों पर नहीं, बल्कि ठोस सबूतों पर आधारित होने चाहिए। यह फैसला प्राचीन ग्रंथों पर आधारित स्वामित्व के दावों के खिलाफ एक स्पष्ट मिसाल कायम करता है, जिससे वक्फ का दर्जा मजबूत होता है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130096221,imgsize-781480.cms",
+        "link": "https://timesofindia.indiatimes.com/india/history-books-cant-prove-title-says-jammu-kashmir-hc-declares-two-shrines-attached-properties-in-kishtwar-as-waqf/articleshow/130096182.cms",
+        "date": "2026-04-08T00:50:34+05:30"
+    },
+    {
         "id": "4d1cfd40",
         "category": "IPL Scoop",
         "translations": {
@@ -1973,30 +1998,5 @@
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
         "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNa3ZqM2dDTUxjYnJKSDFnQjJRd3RFdkl5OEhYYW1rWXdfcVM1TkhZNk1sQjAyTVQyX3VSR0thWXJwQUtUQ2hqRUw0c3ZXcklLZUQyZzhwY0JpM3hWaDZwLTVCRW5CNTdXM0NrU2UxcWNQTThsRTlNektIQmZYbXpNa0VRUUtNX0RZb0VxVHFTanBSU0J3VmRka0MtX29vYW5mZTZJYmxjbFhPZXJTUGF3dmlleXZOeWRBWU1EeGpuV2NOMzZXa0QwMXdOeWdSMWM1WlBGdGF3ZFFfUUtUZ1NoTXlkeERuaTVCQU5oeloxVDgwQjZNT2QtTVY3bkMteVh5d3BBMGtuYjV1eE1BMlM4MkRLcmsyWlhmbzAwdXpNYW1vSGdmakxzRmJlX1ZZVkdUSGp3dUhEOXhqd9IBvwJBVV95cUxPRFBZZm9WekY0eXItaWRnQjRmT3djaXk4VGlydUZzVWt5Z1dHaVhKR1duT29GOE9DU1paQjdIUjBzcXEzU0lxajdZaUI2VjhaSkZiX01qVWd3MTluOUJHOE8zMEp1RzlqN2VrUk5LdVVseWZlN1IyMlJzX1N1eHFqQ2pQYWRFcUhIN1BLRUVpN2FBdDdHa0V3cUxDVXVYNjFIQmloSnJJS2lWVEp0bmxobTJBQWRQNl8xSEFrTUdhakRkUVFsSHQ2b1NseFlSbEFKUGxwTjR6eERSZkxmVTBPSFlkWGtOeVNfRjdXYmJLN052RnFYNDZOeWVsanlqVjJ2MU9LNks0X0xUOGFMbm5mYlB0Q185Z3ZKR0lsNUtzMEpId0EyRjZKdk5MRXoyMU8xTDIzREJEZFNERHVtR3o0?oc=5",
         "date": "Sun, 05 Apr 2026 23:00:00 GMT"
-    },
-    {
-        "id": "57b1b35d",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Bank Holidays Ahead: Check Your Calendar!",
-                "content": "Heads up! Banks, including SBI and HDFC, will be closed on various days between April 6 and April 12 for upcoming bank holidays. Plan your financial transactions accordingly to avoid inconvenience. Always check the RBI's official holiday calendar for specific dates and regional variations before visiting your branch. Stay informed!"
-            },
-            "kn": {
-                "title": "ಬ್ಯಾಂಕ್ ರಜೆಗಳು ಬರುತ್ತಿವೆ: ನಿಮ್ಮ ಕ್ಯಾಲೆಂಡರ್ ಪರಿಶೀಲಿಸಿ!",
-                "content": "ಗಮನಿಸಿ! ಏಪ್ರಿಲ್ 6 ಮತ್ತು ಏಪ್ರಿಲ್ 12 ರ ನಡುವೆ ವಿವಿಧ ದಿನಗಳಲ್ಲಿ SBI ಮತ್ತು HDFC ಸೇರಿದಂತೆ ಬ್ಯಾಂಕುಗಳು ಮುಂಬರುವ ಬ್ಯಾಂಕ್ ರಜೆಗಳಿಗಾಗಿ ಮುಚ್ಚಲ್ಪಡುತ್ತವೆ. ಅನಾನುಕೂಲತೆಯನ್ನು ತಪ್ಪಿಸಲು ನಿಮ್ಮ ಹಣಕಾಸಿನ ವ್ಯವಹಾರಗಳನ್ನು ಅದಕ್ಕೆ ತಕ್ಕಂತೆ ಯೋಜಿಸಿ. ನಿಮ್ಮ ಶಾಖೆಗೆ ಭೇಟಿ ನೀಡುವ ಮೊದಲು ನಿರ್ದಿಷ್ಟ ದಿನಾಂಕಗಳು ಮತ್ತು ಪ್ರಾದೇಶಿಕ ವ್ಯತ್ಯಾಸಗಳಿಗಾಗಿ ಯಾವಾಗಲೂ RBI ಯ ಅಧಿಕೃತ ರಜಾ ಕ್ಯಾಲೆಂಡರ್ ಅನ್ನು ಪರಿಶೀಲಿಸಿ. ಮಾಹಿತಿ ಪಡೆಯಿರಿ!"
-            },
-            "mr": {
-                "title": "बँकेच्या सुट्ट्या येत आहेत: आपले कॅलेंडर तपासा!",
-                "content": "लक्ष द्या! येत्या बँक सुट्ट्यांसाठी SBI आणि HDFC सह बँका 6 ते 12 एप्रिल दरम्यान वेगवेगळ्या दिवशी बंद राहतील. गैरसोय टाळण्यासाठी आपल्या आर्थिक व्यवहारांचे त्यानुसार नियोजन करा. आपल्या शाखेला भेट देण्यापूर्वी विशिष्ट तारखा आणि प्रादेशिक बदलांसाठी नेहमी RBI चे अधिकृत सुट्टी कॅलेंडर तपासा. माहिती मिळवा!"
-            },
-            "hi": {
-                "title": "आगे बैंक छुट्टियाँ: अपना कैलेंडर जाँचें!",
-                "content": "ध्यान दें! SBI और HDFC सहित बैंक 6 से 12 अप्रैल के बीच विभिन्न दिनों में आगामी बैंक छुट्टियों के लिए बंद रहेंगे। असुविधा से बचने के लिए अपने वित्तीय लेनदेन की योजना उसी के अनुसार बनाएं। अपनी शाखा में जाने से पहले विशिष्ट तिथियों और क्षेत्रीय विविधताओं के लिए हमेशा RBI का आधिकारिक छुट्टी कैलेंडर जांचें। सूचित रहें!"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOSWlTNlBZVF9CUkpMMEs2M2xSQU9sMmJFQ0ZZYXNQSU5mOFI0Y2RBZlpVamRnTjNiczdSUkFaMWdyTm41V29rWHctNjEzMmVfdVplQnAtaTlyMDJ0aDRpVzVoaXNpSGQ4dEEtMEVCaUpNZ0p3eDhLbmh0T1E4NkxKMzJaTTlUSVM0Qk9vQk1NX0lFaEVzS2w2OHJsUjZ1Y1hHWV9NTHdzN196b0NwYjhFeGtlVGJZTmlzeGNEeUlBQUpoQWU5TnNERnBRTFhQTTJ1SklIcmdES0pQSzdDaUdyLTZxaXBXSklIUXVHOWt5N1E2aHZsbDF2eVJkVWXSAfwBQVVfeXFMTklpUzZQWVRfQlJKTDBLNjNsUkFPbDJiRUNGWWFzUElOZjhSNGNkQWZaVWpkZ04zYnM3UlJBWjFnck5uNVdva1h3LTYxMzJlX3VaZUJwLWk5cjAydGg0aVc1aGlzaUhkOHRBLTBFQmlKTWdKd3g4S25odE9RODZMSjMyWk05VElTNEJPb0JNTV9JRWhFc0tsNjhybFI2dWNYR1lfTUx3czdfem9DcGI4RXhrZVRiWU5pc3hjRHlJQUFKaEFlOU5zREZwUUxYUE0ydUpJSHJnREtKUEs3Q2lHci02cWlwV0pJSFF1RzlreTdRNmh2bGwxdnlSZFVl?oc=5",
-        "date": "Sun, 05 Apr 2026 02:05:27 GMT"
     }
 ]
