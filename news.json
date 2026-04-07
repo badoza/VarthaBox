@@ -1,5 +1,30 @@
 [
     {
+        "id": "8c5fe8a5",
+        "category": "Entertainment",
+        "translations": {
+            "en": {
+                "title": "Salman Khan Supports Rajpal Yadav Amid Debt Row",
+                "content": "Actor Rajpal Yadav, recently bailed in a Rs 9 crore debt case stemming from a 2010 film loan, has received public support from superstar Salman Khan. Khan's statement, a show of solidarity amidst Yadav's financial troubles, has sparked considerable reaction from netizens, drawing attention to the challenges faced by film personalities."
+            },
+            "kn": {
+                "title": "ಸಲ್ಮಾನ್ ಖಾನ್ ಸಾಲದ ವಿವಾದದ ನಡುವೆ ರಾಜ್‌ಪಾಲ್ ಯಾದವ್‌ಗೆ ಬೆಂಬಲ",
+                "content": "2010ರ ಚಲನಚಿತ್ರ ಸಾಲದಿಂದ ಉಂಟಾದ 9 ಕೋಟಿ ರೂಪಾಯಿಗಳ ಸಾಲದ ಪ್ರಕರಣದಲ್ಲಿ ಇತ್ತೀಚೆಗೆ ಜಾಮೀನು ಪಡೆದ ನಟ ರಾಜ್‌ಪಾಲ್ ಯಾದವ್‌ಗೆ ಸೂಪರ್‌ಸ್ಟಾರ್ ಸಲ್ಮಾನ್ ಖಾನ್ ಸಾರ್ವಜನಿಕ ಬೆಂಬಲ ನೀಡಿದ್ದಾರೆ. ಯಾದವ್ ಅವರ ಆರ್ಥಿಕ ಸಂಕಷ್ಟಗಳ ನಡುವೆ ಸೌಹಾರ್ದತೆಯ ಪ್ರದರ್ಶನವಾಗಿರುವ ಖಾನ್ ಅವರ ಹೇಳಿಕೆಯು ನೆಟಿಜನ್‌ಗಳಿಂದ ಗಣನೀಯ ಪ್ರತಿಕ್ರಿಯೆಯನ್ನು ಪಡೆದಿದೆ, ಚಲನಚಿತ್ರ ವ್ಯಕ್ತಿಗಳು ಎದುರಿಸುವ ಸವಾಲುಗಳತ್ತ ಗಮನ ಸೆಳೆದಿದೆ."
+            },
+            "mr": {
+                "title": "सलमान खानने कर्ज प्रकरणात राजपाल यादवला पाठिंबा दिला",
+                "content": "2010 च्या चित्रपटाच्या कर्जातून निर्माण झालेल्या 9 कोटी रुपयांच्या कर्ज प्रकरणात अलीकडेच जामीन मिळालेल्या अभिनेता राजपाल यादवला सुपरस्टार सलमान खानने सार्वजनिकपणे पाठिंबा दिला आहे. यादवच्या आर्थिक अडचणींच्या दरम्यान सहानुभूती दर्शवणाऱ्या खानच्या या विधानामुळे नेटिझन्सकडून लक्षणीय प्रतिक्रिया उमटल्या आहेत, ज्यामुळे चित्रपट क्षेत्रातील व्यक्तींना भेडसावणाऱ्या आव्हानांवर लक्ष वेधले गेले आहे."
+            },
+            "hi": {
+                "title": "सलमान खान ने कर्ज विवाद के बीच राजपाल यादव का समर्थन किया",
+                "content": "2010 के एक फिल्म ऋण से उपजे 9 करोड़ रुपये के कर्ज मामले में हाल ही में जमानत पर छूटे अभिनेता राजपाल यादव को सुपरस्टार सलमान खान का सार्वजनिक समर्थन मिला है। यादव की वित्तीय परेशानियों के बीच एकजुटता का प्रदर्शन करने वाले खान के बयान ने नेटिज़न्स से काफी प्रतिक्रियाएं बटोरी हैं, जिससे फिल्म हस्तियों के सामने आने वाली चुनौतियों पर ध्यान आकर्षित हुआ है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130081067,imgsize-40174.cms",
+        "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-reacts-to-rajpal-yadavs-dollar-remark-as-he-comes-out-in-his-support-aapko-isi-rate-pe-milega/articleshow/130080940.cms",
+        "date": "2026-04-07T14:07:31+05:30"
+    },
+    {
         "id": "eb6c84bd",
         "category": "IPL Scoop",
         "translations": {
@@ -1973,30 +1998,5 @@
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUWMtWFFtajYxNi04djM5LVFwa01OdEVyN1VsekZXM0wzcFc0VUplRU45SmRHbldPOUNTbnJhOTJPRnNibEJEYWlqWmxCSWRGRnNYXzBmdmZTSVVqZTFKUVN6RjZuVzdwX1VGTWJ1NmxwalMzZERxa2lQaXVhbWEyZ0dTVG5fUldJc0dEY2RhNUh1T0wyUGJ0MmRkTkc?oc=5",
         "date": "Sun, 05 Apr 2026 09:39:09 GMT"
-    },
-    {
-        "id": "95096f5e",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "India's Maritime Lifeline: Invisible Strength, Visible Vulnerability",
-                "content": "On National Maritime Day, India's economic heartbeat, largely invisible, relies heavily on maritime oil trade. This critical lifeline, flowing across vast waters, becomes a major vulnerability when conflicts erupt in strategic choke points like the Strait of Hormuz. Recent tensions have sharply exposed this dependence, forcing India to confront the reality of its long-managed but rarely highlighted maritime risks amidst global unrest."
-            },
-            "kn": {
-                "title": "ಭಾರತದ ಕಡಲ ಜೀವನಾಡಿ: ಅದೃಶ್ಯ ಶಕ್ತಿ, ಗೋಚರ ದುರ್ಬಲತೆ",
-                "content": "ರಾಷ್ಟ್ರೀಯ ಕಡಲ ದಿನದಂದು, ಭಾರತದ ಆರ್ಥಿಕ ಹೃದಯಬಡಿತ, ಹೆಚ್ಚಾಗಿ ಅದೃಶ್ಯವಾಗಿದ್ದು, ಕಡಲ ತೈಲ ವ್ಯಾಪಾರದ ಮೇಲೆ ಹೆಚ್ಚು ಅವಲಂಬಿತವಾಗಿದೆ. ವಿಶಾಲ ನೀರಿನ ಮೂಲಕ ಹರಿಯುವ ಈ ಜೀವನಾಡಿ, ಹಾರ್ಮುಜ್ ಜಲಸಂಧಿಯಂತಹ ಕಾರ್ಯತಂತ್ರದ ಕಿರಿದಾದ ಮಾರ್ಗಗಳಲ್ಲಿ ಸಂಘರ್ಷಗಳು ಭುಗಿಲೆದ್ದಾಗ ದೊಡ್ಡ ದುರ್ಬಲತೆಯಾಗುತ್ತದೆ. ಇತ್ತೀಚಿನ ಉದ್ವಿಗ್ನತೆಗಳು ಈ ಅವಲಂಬನೆಯನ್ನು ಬಯಲಿಗೆಡಿಸಿವೆ, ಜಾಗತಿಕ ಅಶಾಂತಿಯ ನಡುವೆ ಭಾರತವು ತನ್ನ ದೀರ್ಘಕಾಲದ ಕಡಲ ಅಪಾಯಗಳ ವಾಸ್ತವತೆಯನ್ನು ಎದುರಿಸುವಂತೆ ಮಾಡಿದೆ."
-            },
-            "mr": {
-                "title": "भारताची सागरी जीवनरेषा: अदृश्य सामर्थ्य, दृश्य असुरक्षितता",
-                "content": "राष्ट्रीय सागरी दिनानिमित्त, भारताची आर्थिक गती, जी बहुतांशी अदृश्य असते, ती सागरी तेल व्यापारावर खूप अवलंबून आहे. विशाल समुद्रातून वाहणारी ही जीवनरेषा, हॉर्मुझच्या सामुद्रधुनीसारख्या सामरिक ठिकाणी संघर्ष उद्भवल्यास एक मोठी असुरक्षितता बनते. अलीकडील तणावांनी ही अवलंबित्व उघड केले आहे, ज्यामुळे भारताला जागतिक अशांततेमध्ये आपल्या दीर्घकाळ व्यवस्थापित सागरी धोक्यांच्या वास्तविकतेचा सामना करावा लागत आहे."
-            },
-            "hi": {
-                "title": "भारत की समुद्री जीवनरेखा: अदृश्य शक्ति, दृश्य भेद्यता",
-                "content": "राष्ट्रीय समुद्री दिवस पर, भारत की आर्थिक नब्ज, जो ज्यादातर अदृश्य रहती है, समुद्री तेल व्यापार पर बहुत अधिक निर्भर करती है। विशाल जलक्षेत्रों से बहने वाली यह जीवनरेखा, होर्मुज जलडमरूमध्य जैसे रणनीतिक चोक पॉइंट्स में संघर्ष छिड़ने पर एक बड़ी भेद्यता बन जाती है। हालिया तनावों ने इस निर्भरता को उजागर किया है, जिससे भारत को वैश्विक अशांति के बीच अपने लंबे समय से प्रबंधित समुद्री जोखिमों की वास्तविकता का सामना करना पड़ रहा है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-130040180,imgsize-64054.cms",
-        "link": "https://timesofindia.indiatimes.com/india/national-maritime-day-indias-oil-lifeline-churns-through-conflict-waters/articleshow/130038492.cms",
-        "date": "2026-04-05T18:55:38+05:30"
     }
 ]
