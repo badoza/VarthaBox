@@ -1,5 +1,30 @@
 [
     {
+        "id": "08438de7",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "'Incriminating Material' Seized at Khera's Home Amidst Police Search",
+                "content": "Assam Police searched Congress leader Pawan Khera's Delhi home over allegations against CM Himanta Biswa Sarma and his family. Authorities seized electronic devices and \"incriminating material.\" Khera was reportedly absent, with Sarma claiming he fled to Hyderabad. The Congress party strongly criticized the move, accusing the Chief Minister of misusing state machinery for political vendetta."
+            },
+            "kn": {
+                "title": "ಖೇರಾ ನಿವಾಸದಲ್ಲಿ 'ಆಕ್ಷೇಪಾರ್ಹ ವಸ್ತು' ವಶ, ಪೊಲೀಸ್ ಶೋಧದ ಮಧ್ಯೆ",
+                "content": "ಮುಖ್ಯಮಂತ್ರಿ ಹಿಮಂತ ಬಿಸ್ವಾ ಶರ್ಮಾ ಮತ್ತು ಅವರ ಕುಟುಂಬದ ವಿರುದ್ಧದ ಆರೋಪಗಳಿಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ಅಸ್ಸಾಂ ಪೊಲೀಸರು ಕಾಂಗ್ರೆಸ್ ನಾಯಕ ಪವನ್ ಖೇರಾ ಅವರ ದೆಹಲಿ ನಿವಾಸವನ್ನು ಶೋಧಿಸಿದ್ದಾರೆ. ಅಧಿಕಾರಿಗಳು ಎಲೆಕ್ಟ್ರಾನಿಕ್ ಸಾಧನಗಳು ಮತ್ತು \"ಆಕ್ಷೇಪಾರ್ಹ ವಸ್ತುಗಳನ್ನು\" ವಶಪಡಿಸಿಕೊಂಡಿದ್ದಾರೆ. ಖೇರಾ ಅಲ್ಲಿ ಇರಲಿಲ್ಲ, ಶರ್ಮಾ ಅವರು ಹೈದರಾಬಾದ್‌ಗೆ ಪಲಾಯನ ಮಾಡಿದ್ದಾರೆ ಎಂದು ಹೇಳಿದ್ದಾರೆ. ಕಾಂಗ್ರೆಸ್ ಮುಖ್ಯಮಂತ್ರಿಯ ವಿರುದ್ಧ ರಾಜ್ಯ ಯಂತ್ರೋಪಕರಣಗಳ ದುರುಪಯೋಗದ ಆರೋಪ ಮಾಡಿದೆ."
+            },
+            "mr": {
+                "title": "खैरांच्या घरी 'आक्षेपार्ह सामग्री' जप्त, पोलीस तपासादरम्यान",
+                "content": "मुख्यमंत्री हेमंत बिस्वा सरमा आणि त्यांच्या कुटुंबावरील आरोपांच्या संदर्भात आसाम पोलिसांनी काँग्रेस नेते पवन खैरा यांच्या दिल्लीतील निवासस्थानी शोध घेतला. अधिकाऱ्यांनी इलेक्ट्रॉनिक उपकरणे आणि \"आक्षेपार्ह सामग्री\" जप्त केली. खैरा तिथे नव्हते, सरमा यांनी ते हैदराबादला पळून गेल्याचा दावा केला. काँग्रेसने मुख्यमंत्र्यांवर सरकारी यंत्रणेचा गैरवापर केल्याचा आरोप केला आहे."
+            },
+            "hi": {
+                "title": "खेड़ा के घर से 'आपत्तिजनक सामग्री' जब्त, पुलिस तलाशी के दौरान",
+                "content": "मुख्यमंत्री हिमंता बिस्वा सरमा और उनके परिवार के खिलाफ लगे आरोपों के सिलसिले में असम पुलिस ने कांग्रेस नेता पवन खेड़ा के दिल्ली आवास पर तलाशी ली। अधिकारियों ने इलेक्ट्रॉनिक उपकरण और \"आपत्तिजनक सामग्री\" जब्त की। खेड़ा वहां मौजूद नहीं थे, सरमा ने दावा किया कि वे हैदराबाद भाग गए हैं। कांग्रेस ने मुख्यमंत्री पर सरकारी मशीनरी के दुरुपयोग का आरोप लगाया है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130086378,imgsize-818753.cms",
+        "link": "https://timesofindia.indiatimes.com/india/himanta-vs-khera-police-says-found-incriminating-material-at-congress-leaders-delhi-residence/articleshow/130085951.cms",
+        "date": "2026-04-07T17:41:59+05:30"
+    },
+    {
         "id": "b4b26679",
         "category": "Belagavi Core Politics",
         "translations": {
@@ -1973,30 +1998,5 @@
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZXY3UEstSV9rN05sc0FmSHlUSmxhYzJUaDc1ZnVNbVFmZ21LRTRfZHpLVlV4ZUhLaW9EcUFIY1pZMzAxZGluMU1WR3E0bERTV1VjaDNBV1lWNGEzZF9qSDlWb2xZTmwwNU5KQm9VTTZLRUw4eTl4Z2N5UzFLWUI1bjdhYklzNEotV0hvWjd0X0kzYUs1MU5XRVZB?oc=5",
         "date": "Sun, 05 Apr 2026 14:26:16 GMT"
-    },
-    {
-        "id": "5115c11f",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "India's Young Hockey Squad Shines, Coach's Faith Fuels World Cup Dreams",
-                "content": "India's youthful hockey squad is making waves at the World Cup, exceeding expectations. Driven by coach Graham Reid's unwavering faith in their potential, the team is showcasing remarkable skill and resilience. Their spirited performances highlight a promising future for Indian hockey, as these rising stars embrace the global challenge with confidence, proving that belief can truly unlock extraordinary achievements on the world stage."
-            },
-            "kn": {
-                "title": "ಭಾರತದ ಯುವ ಹಾಕಿ ತಂಡ ಮಿಂಚುತ್ತಿದೆ, ಕೋಚ್ ವಿಶ್ವಾಸದಿಂದ ವಿಶ್ವಕಪ್ ಕನಸುಗಳಿಗೆ ಇಂಧನ",
-                "content": "ವಿಶ್ವಕಪ್‌ನಲ್ಲಿ ಭಾರತದ ಯುವ ಹಾಕಿ ತಂಡ ಅದ್ಭುತ ಪ್ರದರ್ಶನ ನೀಡುತ್ತಿದೆ, ನಿರೀಕ್ಷೆಗಳನ್ನು ಮೀರಿ ಬೆಳೆಯುತ್ತಿದೆ. ಕೋಚ್ ಗ್ರಹಾಂ ರೀಡ್ ಅವರ ಅಚಲ ನಂಬಿಕೆಯಿಂದ ಪ್ರೇರಿತವಾಗಿ, ತಂಡವು ಗಮನಾರ್ಹ ಕೌಶಲ್ಯ ಮತ್ತು ಸ್ಥಿತಿಸ್ಥಾಪಕತ್ವವನ್ನು ಪ್ರದರ್ಶಿಸುತ್ತಿದೆ. ಅವರ ಹುಮ್ಮಸ್ಸಿನ ಪ್ರದರ್ಶನಗಳು ಭಾರತೀಯ ಹಾಕಿ ಭವಿಷ್ಯಕ್ಕೆ ಭರವಸೆ ನೀಡುತ್ತವೆ. ಈ ಉದಯೋನ್ಮುಖ ತಾರೆಯರು ವಿಶ್ವಾಸದಿಂದ ಜಾಗತಿಕ ಸವಾಲನ್ನು ಎದುರಿಸುತ್ತಿದ್ದಾರೆ, ವಿಶ್ವ ವೇದಿಕೆಯಲ್ಲಿ ನಂಬಿಕೆಯು ನಿಜವಾಗಿಯೂ ಅಸಾಧಾರಣ ಸಾಧನೆಗಳನ್ನು ತರಬಲ್ಲದು ಎಂದು ಸಾಬೀತುಪಡಿಸುತ್ತಿದ್ದಾರೆ."
-            },
-            "mr": {
-                "title": "भारताचा युवा हॉकी संघ चमकला, प्रशिक्षकाच्या विश्वासाने विश्वचषक स्वप्नांना बळ",
-                "content": "भारताचा युवा हॉकी संघ विश्वचषकात चमक दाखवत आहे आणि अपेक्षा ओलांडून प्रगती करत आहे. प्रशिक्षक ग्रॅहम रीड यांच्या त्यांच्या क्षमतेवरील अटूट विश्वासाने प्रेरित होऊन, संघ उल्लेखनीय कौशल्य आणि लवचिकता दर्शवत आहे. त्यांची उत्साही कामगिरी भारतीय हॉकीसाठी एक आशादायक भविष्य अधोरेखित करते. हे उगवते तारे आत्मविश्वासाने जागतिक आव्हान स्वीकारत आहेत, हे सिद्ध करत आहेत की विश्वासाने खरोखरच जागतिक स्तरावर असाधारण यश मिळवता येते."
-            },
-            "hi": {
-                "title": "भारत का युवा हॉकी दल चमका, कोच का विश्वास विश्व कप सपनों को दे रहा पंख",
-                "content": "भारत का युवा हॉकी दल विश्व कप में धूम मचा रहा है, उम्मीदों से बढ़कर प्रदर्शन कर रहा है। कोच ग्राहम रीड के उनकी क्षमता पर अटूट विश्वास से प्रेरित होकर, टीम उल्लेखनीय कौशल और लचीलापन दिखा रही है। उनके जोशीले प्रदर्शन भारतीय हॉकी के लिए एक उज्ज्वल भविष्य को उजागर करते हैं। ये उभरते सितारे आत्मविश्वास के साथ वैश्विक चुनौती का सामना कर रहे हैं, यह साबित कर रहे हैं कि विश्वास वास्तव में विश्व मंच पर असाधारण उपलब्धियों को खोल सकता है।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPYVItczg2bkdvM2JzVTNMVnF4eF92S1lwZnB4V04xTUN5TUlNZlRYQ3BXZkZXWWxJUnV4bmdiX2JyazJBbHl0cVBBQnpwUjJ6V3J0alVka21EenlUdHRfYnpVQzJLb2UzNW9DTnBmV3JKOXVaZzY3cldnRG1Jdm5QWVZrcWVQVGFBWUh3dUMzVDVRREk4bW03OHdoWmJRYXVfVkVGbHRXdnRUTVJlZVB1eDU4S29jSTJhc0p3TFRwcW4xQXpXUGVBM0s3N3c0bkh0VjJ1WTJPOURUY2cxYjlobGZxVTMzMVptM0VwdGRndkxHaGPSAfMBQVVfeXFMT2FSLXM4Nm5HbzNic1UzTFZxeHhfdktZcGZweFdOMU1DeU1JTWZUWENwV2ZGV1lsSVJ1eG5nYl9icmsyQWx5dHFQQUJ6cFIyeldydGpVZGttRHp5VHR0X2J6VUMyS29lMzVvQ05wZldySjl1Wmc2N3JXZ0RtSXZuUFlWa3FlUFRhQVlId3VDM1Q1UURJOG1tNzh3aFpiUWF1X1ZFRmx0V3Z0VE1SZWVQdXg1OEtvY0kyYXNKd0xUcHFuMUF6V1BlQTNLNzd3NG5IdFYydVkyTzlEVGNnMWI5aGxmcVUzMzFabTNFcHRkZ3ZMR2hj?oc=5",
-        "date": "Sun, 05 Apr 2026 02:30:53 GMT"
     }
 ]
