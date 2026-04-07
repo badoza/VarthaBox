@@ -1,5 +1,30 @@
 [
     {
+        "id": "3c738923",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "Avesh Khan Boundary Drama: Umpire Overturns Penalty Call",
+                "content": "Cricket witnessed a crucial moment as an umpire overturned a contentious penalty call related to Avesh Khan's boundary. The decision, which negated potential run deductions, sparked debate among players and fans alike. This high-stakes ruling underscored the pressure on match officials and the fine line between fair play and technicalities, significantly influencing the game's immediate outcome."
+            },
+            "kn": {
+                "title": "ಅವೇಶ್ ಖಾನ್ ಬೌಂಡರಿ ವಿವಾದ: ಅಂಪೈರ್ ದಂಡವನ್ನು ರದ್ದುಗೊಳಿಸಿದರು",
+                "content": "ಕ್ರಿಕೆಟ್‌ನಲ್ಲಿ ಒಂದು ಮಹತ್ವದ ಕ್ಷಣಕ್ಕೆ ಸಾಕ್ಷಿಯಾಯಿತು, ಅಂಪೈರ್ ಅವೇಶ್ ಖಾನ್ ಅವರ ಬೌಂಡರಿಗೆ ಸಂಬಂಧಿಸಿದ ವಿವಾದಾತ್ಮಕ ದಂಡದ ನಿರ್ಧಾರವನ್ನು ರದ್ದುಗೊಳಿಸಿದರು. ಸಂಭಾವ್ಯ ರನ್ ಕಡಿತವನ್ನು ನಿರಾಕರಿಸಿದ ಈ ನಿರ್ಧಾರವು ಆಟಗಾರರು ಮತ್ತು ಅಭಿಮಾನಿಗಳ ನಡುವೆ ಚರ್ಚೆಗೆ ಗ್ರಾಸವಾಯಿತು. ಈ ನಿರ್ಧಾರವು ಪಂದ್ಯದ ಅಧಿಕಾರಿಗಳ ಮೇಲಿನ ಒತ್ತಡವನ್ನು ಮತ್ತು ನ್ಯಾಯಯುತ ಆಟ ಹಾಗೂ ತಾಂತ್ರಿಕತೆಗಳ ನಡುವಿನ ಸೂಕ್ಷ್ಮ ರೇಖೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ, ಇದು ಆಟದ ತಕ್ಷಣದ ಫಲಿತಾಂಶದ ಮೇಲೆ ಗಮನಾರ್ಹವಾಗಿ ಪರಿಣಾಮ ಬೀರಿತು."
+            },
+            "mr": {
+                "title": "अवेश खान बाउंड्री वाद: पंचांनी दंड रद्द केला",
+                "content": "क्रिकेटमध्ये एका महत्त्वाच्या क्षणाची नोंद झाली, जेव्हा पंचांनी आवेश खानच्या बाउंड्रीशी संबंधित विवादास्पद दंडाचा निर्णय रद्द केला. या निर्णयामुळे संभाव्य धावा कमी झाल्या नाहीत, ज्यामुळे खेळाडू आणि चाहत्यांमध्ये चर्चा सुरू झाली. हा उच्च-दराचा निर्णय सामना अधिकाऱ्यांवरील दबाव आणि न्यायपूर्ण खेळ व तांत्रिकतेमधील बारीक रेषा अधोरेखित करतो, ज्याने खेळाच्या तात्काळ निकालावर लक्षणीय परिणाम केला."
+            },
+            "hi": {
+                "title": "आवेश खान बाउंड्री विवाद: अंपायर ने पलटा पेनल्टी का फैसला",
+                "content": "क्रिकेट में एक महत्वपूर्ण क्षण देखने को मिला, जब अंपायर ने आवेश खान की बाउंड्री से जुड़े एक विवादास्पद पेनल्टी कॉल को पलट दिया। इस फैसले ने संभावित रन कटौती को रद्द कर दिया, जिससे खिलाड़ियों और प्रशंसकों के बीच बहस छिड़ गई। इस उच्च-दांव वाले फैसले ने मैच अधिकारियों पर दबाव और निष्पक्ष खेल व तकनीकी बारीकियों के बीच की पतली रेखा को रेखांकित किया, जिससे खेल के तत्काल परिणाम पर महत्वपूर्ण प्रभाव पड़ा।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdEI4dmZ6WXFtM2lVaTZRN284Zjk2d2Z2TF9zMWN2SGNKc05TeVlHZE1iaTRITmlUb2VDQmhZYTV0VDQ4UmYwaXNhNjQ4UGRBSTRQb3h6YlRLc2xJR2NvNHpCV1RvMktSeER5V2JseUxkY3dfMk5CekZlSTlWaFFkNDV2YXYwM0M3Z3NqTnA2YTM1alppeElnZl9xWk9ueEtpR2VoMGZpS0hFd2dxOXlza1lSdGlvdkJIZFpreG1PWUxUUjVoM2UyVHNBMVBTVEZyY2pZbk53eUNFVU1Zakl1dmJtV2c1N2VtMHc?oc=5",
+        "date": "Tue, 07 Apr 2026 08:27:06 GMT"
+    },
+    {
         "id": "e435d85c",
         "category": "IPL Scoop",
         "translations": {
@@ -1973,30 +1998,5 @@
         "image": "https://static.toiimg.com/photo/msid-130042747,imgsize-1190255.cms",
         "link": "https://timesofindia.indiatimes.com/india/chabahar-work-to-expand-even-more-rapidly-in-post-war-era-iran-envoy/articleshow/130038400.cms",
         "date": "2026-04-05T21:51:19+05:30"
-    },
-    {
-        "id": "c84fc9e3",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Taurus Horoscope: Financial Caution Today",
-                "content": "Taurus, April 5, 2026: Financial caution is paramount today. Keep your wallet closed and avoid impulsive spending to prevent unnecessary expenses. Prioritize saving and financial security over lavish splurges or major purchases. Prudent decisions now will safeguard your long-term monetary stability. Be mindful of your budget and resist any temptations that could derail your financial goals."
-            },
-            "kn": {
-                "title": "ವೃಷಭ ರಾಶಿ ಭವಿಷ್ಯ: ಇಂದು ಆರ್ಥಿಕ ಎಚ್ಚರಿಕೆ",
-                "content": "ವೃಷಭ ರಾಶಿ, ಏಪ್ರಿಲ್ 5, 2026: ಇಂದು ಆರ್ಥಿಕ ಎಚ್ಚರಿಕೆ ಬಹಳ ಮುಖ್ಯ. ನಿಮ್ಮ ವ್ಯಾಲೆಟ್ ಅನ್ನು ಮುಚ್ಚಿಡಿ ಮತ್ತು ಅನಗತ್ಯ ಖರ್ಚುಗಳನ್ನು ತಪ್ಪಿಸಲು ಆತುರದ ಖರೀದಿಗಳನ್ನು ನಿಲ್ಲಿಸಿ. ದೊಡ್ಡ ಖರೀದಿಗಳು ಅಥವಾ ಐಷಾರಾಮಿ ಖರ್ಚುಗಳ ಬದಲಿಗೆ ಉಳಿತಾಯ ಮತ್ತು ಆರ್ಥಿಕ ಸುರಕ್ಷತೆಗೆ ಆದ್ಯತೆ ನೀಡಿ. ಈಗ ಮಾಡುವ ವಿವೇಚನಾಯುಕ್ತ ನಿರ್ಧಾರಗಳು ನಿಮ್ಮ ದೀರ್ಘಕಾಲೀನ ಆರ್ಥಿಕ ಸ್ಥಿರತೆಯನ್ನು ರಕ್ಷಿಸುತ್ತವೆ. ನಿಮ್ಮ ಬಜೆಟ್ ಬಗ್ಗೆ ಗಮನವಿರಲಿ ಮತ್ತು ಆರ್ಥಿಕ ಗುರಿಗಳನ್ನು ಹಾಳುಮಾಡುವ ಯಾವುದೇ ಆಮಿಷಗಳನ್ನು ವಿರೋಧಿಸಿ."
-            },
-            "mr": {
-                "title": "वृषभ राशी भविष्य: आज आर्थिक सावधगिरी",
-                "content": "वृषभ रास, 5 एप्रिल 2026: आज आर्थिक सावधगिरी अत्यंत महत्त्वाची आहे. अनावश्यक खर्च टाळण्यासाठी आपले पाकीट बंद ठेवा आणि घाईघाईने खरेदी करणे टाळा. मोठ्या खरेदी किंवा चैनीच्या खर्चाऐवजी बचत आणि आर्थिक सुरक्षिततेला प्राधान्य द्या. आता घेतलेले सुज्ञ निर्णय तुमची दीर्घकालीन आर्थिक स्थिरता सुरक्षित ठेवतील. आपल्या बजेटकडे लक्ष द्या आणि आपल्या आर्थिक उद्दिष्टांना धक्का पोहोचवणारे कोणतेही मोह टाळा."
-            },
-            "hi": {
-                "title": "वृषभ राशिफल: आज वित्तीय सावधानी",
-                "content": "वृषभ राशि, 5 अप्रैल 2026: आज वित्तीय सावधानी सर्वोपरि है। अनावश्यक खर्चों से बचने के लिए अपना बटुआ बंद रखें और आवेगपूर्ण खरीदारी से बचें। बड़े खर्चों या फिजूलखर्ची के बजाय बचत और वित्तीय सुरक्षा को प्राथमिकता दें। अभी लिए गए विवेकपूर्ण निर्णय आपकी दीर्घकालिक मौद्रिक स्थिरता को सुरक्षित रखेंगे। अपने बजट के प्रति सचेत रहें और अपने वित्तीय लक्ष्यों को पटरी से उतार सकने वाले किसी भी प्रलोभन का विरोध करें।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUmcxcTlvOFZnTnNJNDZhZHhaeERsV09VN2JmR0hjTFlaUWs2WDZSQVZlc2FqRThfNlBMdEpLVjVyaWZvSlBlR2d3aThWN1cxQWRFTzloWUtweWZTY1pkaXFaaGV2NXVqUTRXZHktdF9aTms4SDF2OTVoWmdKVy1RMTk5a21qcmg0SWpWMVE4Y1YwTGw0Ylh2Zy1NN2h3OVNLbW1PODlTbDR5T3BtbzN2MnJsR0M0aDI1Y3c3djNXbHBPcEYwVlBVYmkwZnFaSzlFbTM0dFlOU1VwU0hhVDdBYdIB5gFBVV95cUxQWkRVVUNyZm1Jc2FhWTF2cWk0Mjh5SHRfOFVJbldnVmFiVnFteW5QaENITi0wZTlIVE02RWI2TXdfclpPcndrazBmc2FfMjlUZEdpWl83MWlDZkxIa1ZGUmhTV0pVcmJ5aXAyc05NOElvTHU2ZGp6NUZTRDVxZlExS1dPckpGdVRWd2xEWTR4YUlGdGJTLW45Skx4S1hYQ0NpY2hKZjJoYUdSWUhqNExqazYwVGs4b3pDN2pMT1FXeTgzR3Q5cF80T056bXZRb1FHX0VNYnlob1BoOTNjVnNGb1ZhMGNfdw?oc=5",
-        "date": "Sat, 04 Apr 2026 20:00:00 GMT"
     }
 ]
