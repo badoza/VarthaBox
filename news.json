@@ -1,5 +1,30 @@
 [
     {
+        "id": "8d35bcc8",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "India Advises Citizens: \"Expeditiously Exit Iran\"",
+                "content": "India has issued a fresh advisory urging its citizens to \"expeditiously exit Iran.\" This urgent counsel comes as a two-week ceasefire reportedly kicks in, signaling potentially volatile developments. The Ministry of External Affairs emphasized the safety and security of Indian nationals amidst the evolving regional situation, recommending departure while commercial travel options are still available."
+            },
+            "kn": {
+                "title": "ಇರಾನ್‌ನಿಂದ ತಕ್ಷಣ ನಿರ್ಗಮಿಸಿ: ಭಾರತದ ಸಲಹೆ",
+                "content": "ಎರಡು ವಾರಗಳ ಕದನ ವಿರಾಮ ಜಾರಿಗೆ ಬಂದಿರುವ ಹಿನ್ನೆಲೆಯಲ್ಲಿ, ಭಾರತವು ತನ್ನ ನಾಗರಿಕರಿಗೆ \"ತಕ್ಷಣ ಇರಾನ್‌ನಿಂದ ನಿರ್ಗಮಿಸಲು\" ಹೊಸ ಸಲಹೆಯನ್ನು ನೀಡಿದೆ. ಇದು ಸಂಭಾವ್ಯ ಅಸ್ಥಿರ ಬೆಳವಣಿಗೆಗಳನ್ನು ಸೂಚಿಸುತ್ತದೆ. ವಿದೇಶಾಂಗ ವ್ಯವಹಾರಗಳ ಸಚಿವಾಲಯವು ಪ್ರಾದೇಶಿಕ ಪರಿಸ್ಥಿತಿಯಲ್ಲಿ ಭಾರತೀಯರ ಸುರಕ್ಷತೆ ಮತ್ತು ಭದ್ರತೆಯನ್ನು ಒತ್ತಿಹೇಳಿದೆ, ವಾಣಿಜ್ಯ ಪ್ರಯಾಣದ ಆಯ್ಕೆಗಳು ಲಭ್ಯವಿರುವಾಗ ನಿರ್ಗಮಿಸಲು ಶಿಫಾರಸು ಮಾಡಿದೆ."
+            },
+            "mr": {
+                "title": "इराणमधून तातडीने बाहेर पडा: भारताचा सल्ला",
+                "content": "दोन आठवड्यांच्या युद्धविरामाची अंमलबजावणी झाल्यामुळे, भारताने आपल्या नागरिकांना \"तातडीने इराणमधून बाहेर पडण्याचे\" नवीन आवाहन केले आहे. हे संभाव्य अस्थिर घडामोडी सूचित करते. परराष्ट्र मंत्रालयाने प्रादेशिक परिस्थितीत भारतीय नागरिकांच्या सुरक्षिततेवर आणि संरक्षणावर भर दिला आहे, व्यावसायिक प्रवासाचे पर्याय उपलब्ध असताना निघून जाण्याची शिफारस केली आहे."
+            },
+            "hi": {
+                "title": "ईरान से तुरंत निकलें: भारत की सलाह",
+                "content": "दो सप्ताह के संघर्ष विराम के लागू होने के मद्देनजर, भारत ने अपने नागरिकों को \"तेजी से ईरान से निकलने\" की नई सलाह जारी की है। यह संभावित अस्थिर घटनाक्रमों का संकेत देता है। विदेश मंत्रालय ने क्षेत्रीय स्थिति के बीच भारतीय नागरिकों की सुरक्षा और संरक्षा पर जोर दिया है, वाणिज्यिक यात्रा विकल्प उपलब्ध रहते हुए निकलने की सिफारिश की है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130106870,imgsize-1593410.cms",
+        "link": "https://timesofindia.indiatimes.com/india/expeditiously-exit-iran-india-issues-fresh-advisory-to-its-citizens-as-two-week-ceasefire-kicks-in/articleshow/130106875.cms",
+        "date": "2026-04-08T13:30:17+05:30"
+    },
+    {
         "id": "922c8dd4",
         "category": "IPL Scoop",
         "translations": {
@@ -1973,30 +1998,5 @@
         "image": "https://static.toiimg.com/photo/msid-130050918,imgsize-1186216.cms",
         "link": "https://timesofindia.indiatimes.com/india/bjp-foundation-day-pm-modi-hails-workers-selfless-service-reiterates-viksit-bharat-vision/articleshow/130050829.cms",
         "date": "2026-04-06T09:57:30+05:30"
-    },
-    {
-        "id": "a66d282a",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Assam CM Alleges 'Pakistani Link' in Passport Row with Congress",
-                "content": "Assam CM Himanta Biswa Sarma has accused Congress leaders Pawan Khera and Gaurav Gogoi of presenting \"false and fabricated\" travel documents, allegedly linked to his wife and sourced from a Pakistani broadcaster. Sarma and his wife filed a formal complaint, claiming the passports were doctored. The CM alleged a \"Pakistani link\" in the row, intensifying the political climate in Assam over the passport claims."
-            },
-            "kn": {
-                "title": "ಅಸ್ಸಾಂ ಸಿಎಂ ಪಾಸ್‌ಪೋರ್ಟ್ ವಿವಾದದಲ್ಲಿ 'ಪಾಕಿಸ್ತಾನಿ ನಂಟು' ಆರೋಪ",
-                "content": "ಅಸ್ಸಾಂ ಸಿಎಂ ಹಿಮಂತ ಬಿಸ್ವ ಶರ್ಮಾ ಅವರು ಕಾಂಗ್ರೆಸ್ ನಾಯಕರಾದ ಪವನ್ ಖೇರಾ ಮತ್ತು ಗೌರವ್ ಗೊಗೊಯ್ ತಮ್ಮ ಪತ್ನಿಗೆ ಸಂಬಂಧಿಸಿದ \"ಸುಳ್ಳು ಮತ್ತು ತಿರುಚಿದ\" ಪ್ರಯಾಣ ದಾಖಲೆಗಳನ್ನು, ಪಾಕಿಸ್ತಾನಿ ಪ್ರಸಾರಕರಿಂದ ಪಡೆದಿದ್ದಾಗಿ ಆರೋಪಿಸಿದ್ದಾರೆ. ಶರ್ಮಾ ಮತ್ತು ಅವರ ಪತ್ನಿ ಪಾಸ್‌ಪೋರ್ಟ್‌ಗಳು ತಿರುಚಲ್ಪಟ್ಟಿವೆ ಎಂದು ಆರೋಪಿಸಿ ದೂರು ದಾಖಲಿಸಿದ್ದಾರೆ. ಸಿಎಂ ಈ ವಿವಾದದಲ್ಲಿ \"ಪಾಕಿಸ್ತಾನಿ ನಂಟು\" ಇದೆ ಎಂದು ಆರೋಪಿಸಿದ್ದು, ಪಾಸ್‌ಪೋರ್ಟ್ ವಿವಾದದ ಬಗ್ಗೆ ಅಸ್ಸಾಂನ ರಾಜಕೀಯ ವಾತಾವರಣವನ್ನು ತೀವ್ರಗೊಳಿಸಿದೆ."
-            },
-            "mr": {
-                "title": "आसामच्या मुख्यमंत्र्यांचा पासपोर्ट वादामध्ये 'पाकिस्तानी दुव्याचा' आरोप",
-                "content": "आसामचे मुख्यमंत्री हिमंता बिस्वा सरमा यांनी काँग्रेस नेते पवन खेरा आणि गौरव गोगोई यांच्यावर \"खोटी आणि बनावट\" प्रवासाची कागदपत्रे सादर केल्याचा आरोप केला आहे, जी कथितपणे त्यांच्या पत्नीशी संबंधित होती आणि पाकिस्तानी प्रसारकाकडून मिळाली होती. सरमा आणि त्यांच्या पत्नीने पासपोर्टमध्ये फेरफार झाल्याचा दावा करत औपचारिक तक्रार दाखल केली. मुख्यमंत्र्यांनी या वादामध्ये \"पाकिस्तानी दुव्याचा\" आरोप केला, ज्यामुळे आसाममधील राजकीय वातावरण पासपोर्ट दाव्यांवरून तापले आहे."
-            },
-            "hi": {
-                "title": "असम के सीएम ने पासपोर्ट विवाद में 'पाकिस्तानी लिंक' का आरोप लगाया",
-                "content": "असम के सीएम हिमंता बिस्वा सरमा ने कांग्रेस नेताओं पवन खेड़ा और गौरव गोगोई पर अपनी पत्नी से जुड़े \"झूठे और मनगढ़ंत\" यात्रा दस्तावेज पेश करने का आरोप लगाया है, जो कथित तौर पर एक पाकिस्तानी प्रसारक से प्राप्त हुए थे। सरमा और उनकी पत्नी ने औपचारिक शिकायत दर्ज कराते हुए दावा किया कि पासपोर्ट में हेरफेर किया गया था। सीएम ने इस विवाद में \"पाकिस्तानी लिंक\" का आरोप लगाया, जिससे पासपोर्ट दावों को लेकर असम में राजनीतिक माहौल गरमा गया है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-130050779,imgsize-105902.cms",
-        "link": "https://timesofindia.indiatimes.com/india/false-and-fabricated-assam-cm-himanta-biswa-sarma-alleges-pakistani-link-after-congress-claims-on-wifes-passports/articleshow/130049823.cms",
-        "date": "2026-04-06T09:51:34+05:30"
     }
 ]
