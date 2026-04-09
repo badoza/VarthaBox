@@ -1,5 +1,30 @@
 [
     {
+        "id": "a7175477",
+        "category": "Sports",
+        "translations": {
+            "en": {
+                "title": "LSG Snatch Thriller vs KKR; Mukul Shines",
+                "content": "Lucknow Super Giants defeated Kolkata Knight Riders by three wickets in an IPL last-ball thriller, chasing 182. KKR posted 181/4 with Rahane and Raghuvanshi contributing. Ayush Badoni scored 54, but Mukul Choudhary's unbeaten 54 proved decisive, snatching victory for LSG despite KKR's late wickets. A tense finish saw LSG emerge triumphant."
+            },
+            "kn": {
+                "title": "LSG vs KKR: ರೋಮಾಂಚಕ ಪಂದ್ಯದಲ್ಲಿ ಮುಕುಲ್ ಮಿಂಚು",
+                "content": "ಲಕ್ನೋ ಸೂಪರ್ ಜೈಂಟ್ಸ್ ಐಪಿಎಲ್‌ನ ಕೊನೆಯ ಎಸೆತದ ರೋಮಾಂಚಕ ಪಂದ್ಯದಲ್ಲಿ ಕೋಲ್ಕತ್ತಾ ನೈಟ್ ರೈಡರ್ಸ್ ಅನ್ನು ಮೂರು ವಿಕೆಟ್‌ಗಳಿಂದ ಸೋಲಿಸಿತು, 182 ರನ್‌ಗಳ ಗುರಿಯನ್ನು ಬೆನ್ನಟ್ಟಿತು. ಕೆಕೆಆರ್ ರಹಾನೆ ಮತ್ತು ರಘುವಂಶಿ ಅವರ ಕೊಡುಗೆಗಳೊಂದಿಗೆ 181/4 ಗಳಿಸಿತು. ಆಯುಷ್ ಬದೋನಿ 54 ರನ್ ಗಳಿಸಿದರೆ, ಮುಕುಲ್ ಚೌಧರಿಯವರ ಅಜೇಯ 54 ರನ್ ಕೆಕೆಆರ್‌ನ ಕೊನೆಯ ವಿಕೆಟ್‌ಗಳ ಹೊರತಾಗಿಯೂ ಎಲ್‌ಎಸ್‌ಜಿ ಗೆಲುವನ್ನು ಖಚಿತಪಡಿಸಿತು. ತೀವ್ರ ಪೈಪೋಟಿಯ ಅಂತ್ಯದಲ್ಲಿ ಎಲ್‌ಎಸ್‌ಜಿ ವಿಜಯಶಾಲಿಯಾಯಿತು."
+            },
+            "mr": {
+                "title": "LSG चा KKR वर थरारक विजय; मुकुल चमकला",
+                "content": "लखनौ सुपर जायंट्सने आयपीएलच्या शेवटच्या चेंडूपर्यंतच्या थरारक सामन्यात कोलकाता नाइट रायडर्सला तीन गडी राखून हरवले, 182 धावांचे आव्हान पूर्ण केले. केकेआरने रहाणे आणि रघुवंशीच्या योगदानासह 181/4 धावा केल्या. आयुष बदोनीने 54 धावा केल्या, परंतु मुकुल चौधरीच्या नाबाद 54 धावा केकेआरच्या शेवटच्या विकेट्सनंतरही एलएसजीसाठी निर्णायक ठरल्या. एका तणावपूर्ण अखेरीस एलएसजी विजयी ठरले."
+            },
+            "hi": {
+                "title": "LSG ने KKR को रोमांचक मुकाबले में हराया; मुकुल चमके",
+                "content": "लखनऊ सुपर जायंट्स ने आईपीएल के आखिरी गेंद तक चले रोमांचक मुकाबले में कोलकाता नाइट राइडर्स को तीन विकेट से हराया, 182 रनों का पीछा किया। केकेआर ने रहाणे और रघुवंशी के योगदान से 181/4 रन बनाए। आयुष बडोनी ने 54 रन बनाए, लेकिन मुकुल चौधरी के नाबाद 54 रन केकेआर के अंतिम विकेटों के बावजूद एलएसजी के लिए निर्णायक साबित हुए। एक तनावपूर्ण अंत में एलएसजी विजयी रहा।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130152099,imgsize-44664.cms",
+        "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-mukul-choudhary-masterclass-snatches-victory-from-kkrs-clutches-in-last-ball-thriller/articleshow/130151525.cms",
+        "date": "2026-04-10T00:09:25+05:30"
+    },
+    {
         "id": "25e96c25",
         "category": "IPL Scoop",
         "translations": {
@@ -1973,30 +1998,5 @@
         "image": "https://static.toiimg.com/photo/msid-130061619,imgsize-146674.cms",
         "link": "https://timesofindia.indiatimes.com/india/sc-asks-bengals-top-bureaucrat-to-apologise-over-siege-of-sir-officers-in-malda/articleshow/130061354.cms",
         "date": "2026-04-06T18:16:13+05:30"
-    },
-    {
-        "id": "2734ecd8",
-        "category": "World",
-        "translations": {
-            "en": {
-                "title": "North Korea Hails South's Drone Apology as \"Wise\"",
-                "content": "North Korea has surprisingly called South Korean President Lee Jae Myung's apology for drone incursions \"fortunate and wise.\" Lee admitted government involvement, violating policy. This rare conciliatory tone follows years of intense hostility, marking a minor diplomatic shift despite the ongoing broader tensions between the two nations."
-            },
-            "kn": {
-                "title": "ಉತ್ತರ ಕೊರಿಯಾ ದಕ್ಷಿಣದ ಡ್ರೋನ್ ಕ್ಷಮೆಯನ್ನು \"ಬುದ್ಧಿವಂತಿಕೆ\" ಎಂದು ಶ್ಲಾಘಿಸಿದೆ",
-                "content": "ಉತ್ತರ ಕೊರಿಯಾ, ದಕ್ಷಿಣ ಕೊರಿಯಾದ ಅಧ್ಯಕ್ಷ ಲೀ ಜೇ ಮ್ಯುಂಗ್ ಅವರ ಡ್ರೋನ್ ಅತಿಕ್ರಮಣಗಳ ಕ್ಷಮೆಯನ್ನು \"ಸಂತೋಷಕರ ಮತ್ತು ಬುದ್ಧಿವಂತಿಕೆಯಿಂದ ಕೂಡಿದೆ\" ಎಂದು ಆಶ್ಚರ್ಯಕರವಾಗಿ ಕರೆದಿದೆ. ಲೀ ಸರ್ಕಾರಿ ಅಧಿಕಾರಿಗಳ ಪಾಲ್ಗೊಳ್ಳುವಿಕೆಯನ್ನು ಒಪ್ಪಿಕೊಂಡರು, ಇದು ನೀತಿಯ ಉಲ್ಲಂಘನೆಯಾಗಿದೆ. ಈ ಅಪರೂಪದ ಸೌಹಾರ್ದಯುತ ಧ್ವನಿಯು ವರ್ಷಗಳ ತೀವ್ರ ವೈರತ್ವದ ನಂತರ ಬಂದಿದೆ, ಇದು ಎರಡೂ ದೇಶಗಳ ನಡುವಿನ ನಿರಂತರ ಉದ್ವಿಗ್ನತೆಯ ಹೊರತಾಗಿಯೂ ಸಣ್ಣ ರಾಜತಾಂತ್ರಿಕ ಬದಲಾವಣೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "उत्तर कोरियाने दक्षिण कोरियाच्या ड्रोन माफीला \"शहाणपणाचे\" म्हटले",
-                "content": "उत्तर कोरियाने दक्षिण कोरियाचे अध्यक्ष ली जे म्युंग यांच्या ड्रोन घुसखोरीबद्दलच्या माफीला आश्चर्यकारकपणे \"भाग्यवान आणि शहाणपणाचे\" म्हटले आहे. ली यांनी सरकारी अधिकाऱ्यांचा सहभाग मान्य केला, जे धोरणाचे उल्लंघन होते. दोन्ही देशांमधील सध्याच्या मोठ्या तणावाव्यतिरिक्त, अनेक वर्षांच्या तीव्र शत्रुत्वानंतर आलेला हा दुर्मिळ सलोख्याचा सूर एक छोटासा राजनैतिक बदल दर्शवतो."
-            },
-            "hi": {
-                "title": "उत्तर कोरिया ने दक्षिण कोरिया की ड्रोन माफी को \"बुद्धिमानी भरा\" बताया",
-                "content": "उत्तर कोरिया ने आश्चर्यजनक रूप से दक्षिण कोरियाई राष्ट्रपति ली जे म्युंग की ड्रोन घुसपैठ पर माफी को \"भाग्यशाली और बुद्धिमानी भरा\" कहा है। ली ने सरकारी संलिप्तता स्वीकार की, जो नीति का उल्लंघन था। यह दुर्लभ सुलह का स्वर वर्षों की तीव्र शत्रुता के बाद आया है, जो दोनों राष्ट्रों के बीच चल रहे व्यापक तनाव के बावजूद एक छोटा राजनयिक बदलाव दर्शाता है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-130062921,imgsize-74118.cms",
-        "link": "https://timesofindia.indiatimes.com/world/rest-of-world/broad-minded-mans-attitude-north-korea-calls-south-korea-president-lees-regret-over-drone-incursions-wise-in-rare-conciliatory-response/articleshow/130062755.cms",
-        "date": "2026-04-06T19:14:56+05:30"
     }
 ]
