@@ -1,5 +1,30 @@
 [
     {
+        "id": "c34a4fc6",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "BJP's Nabin on Vijay: Commitment Key, Predicts TN Surprise",
+                "content": "BJP chief Nitin Nabin remarked on actor Vijay's TVK, asserting 'politics needs commitment.' Nabin highlighted the demanding nature of electoral politics compared to cinema. He confidently predicted 'surprising' results for BJP in Tamil Nadu's upcoming elections, signaling strong belief in the party's growth and impact amidst new political entries."
+            },
+            "kn": {
+                "title": "ವಿಜಯ್‌ಗೆ ಬಿಜೆಪಿ ನಬಿನ್: ಬದ್ಧತೆ ಮುಖ್ಯ, ತಮಿಳುನಾಡಿನಲ್ಲಿ ಅಚ್ಚರಿಯ ಭವಿಷ್ಯ",
+                "content": "ಬಿಜೆಪಿ ಮುಖ್ಯಸ್ಥ ನಿತಿನ್ ನಬಿನ್ ನಟ ವಿಜಯ್ ಅವರ ಟಿವಿಕೆ ಪಕ್ಷದ ಬಗ್ಗೆ ಪ್ರತಿಕ್ರಿಯಿಸಿ, 'ರಾಜಕೀಯಕ್ಕೆ ಬದ್ಧತೆ ಬೇಕು' ಎಂದು ಒತ್ತಿ ಹೇಳಿದರು. ಸಿನಿಮಾ ಕ್ಷೇತ್ರಕ್ಕೆ ಹೋಲಿಸಿದರೆ ಚುನಾವಣಾ ರಾಜಕೀಯದ ಬೇಡಿಕೆಯ ಸ್ವರೂಪವನ್ನು ನಬಿನ್ ಎತ್ತಿ ತೋರಿಸಿದರು. ಮುಂಬರುವ ತಮಿಳುನಾಡು ಚುನಾವಣೆಯಲ್ಲಿ ಬಿಜೆಪಿಗೆ 'ಅಚ್ಚರಿಯ' ಫಲಿತಾಂಶ ಬರಲಿದೆ ಎಂದು ಅವರು ವಿಶ್ವಾಸದಿಂದ ಭವಿಷ್ಯ ನುಡಿದರು, ಇದು ಹೊಸ ರಾಜಕೀಯ ಪ್ರವೇಶಗಳ ನಡುವೆಯೂ ಪಕ್ಷದ ಬೆಳವಣಿಗೆ ಮತ್ತು ಪ್ರಭಾವದ ಬಗ್ಗೆ ಬಲವಾದ ನಂಬಿಕೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "विजयबद्दल भाजपचे नबिन: वचनबद्धता महत्त्वाची, तामिळनाडूत अनपेक्षित निकालांची शक्यता",
+                "content": "भाजपचे प्रमुख नितीन नबिन यांनी अभिनेता विजयच्या टीव्हीके पक्षावर भाष्य करताना म्हटले की, 'राजकारणासाठी वचनबद्धता आवश्यक आहे.' नबिन यांनी सिनेमाच्या तुलनेत निवडणुकीच्या राजकारणाची मागणीची प्रवृत्ती अधोरेखित केली. त्यांनी तामिळनाडूच्या आगामी निवडणुकांमध्ये भाजपसाठी 'आश्चर्यकारक' निकालांची भविष्यवाणी केली, ज्यामुळे नवीन राजकीय पक्षांच्या आगमनानंतरही पक्षाच्या वाढीवर आणि प्रभावावर असलेला त्यांचा दृढ विश्वास दिसून येतो."
+            },
+            "hi": {
+                "title": "विजय पर बीजेपी के नबीन: प्रतिबद्धता महत्वपूर्ण, तमिलनाडु में आश्चर्यजनक परिणामों का अनुमान",
+                "content": "भाजपा प्रमुख नितिन नबीन ने अभिनेता विजय की टी.वी.के. पार्टी पर टिप्पणी करते हुए कहा कि 'राजनीति को प्रतिबद्धता की आवश्यकता है।' नबीन ने सिनेमा की तुलना में चुनावी राजनीति की चुनौतीपूर्ण प्रकृति को उजागर किया। उन्होंने तमिलनाडु के आगामी चुनावों में भाजपा के लिए 'आश्चर्यजनक' परिणामों की भविष्यवाणी की, जो नए राजनीतिक प्रवेशकों के बीच भी पार्टी की वृद्धि और प्रभाव में उनके दृढ़ विश्वास को दर्शाता है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130131655,imgsize-41148.cms",
+        "link": "https://timesofindia.indiatimes.com/india/politics-needs-commitment-bjp-chief-nitin-nabin-on-tvks-vijay-predicts-surprising-results-in-tamil-nadu/articleshow/130131118.cms",
+        "date": "2026-04-09T11:54:32+05:30"
+    },
+    {
         "id": "f01e8739",
         "category": "IPL Scoop",
         "translations": {
@@ -1973,30 +1998,5 @@
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeDFTMmdTVXluc25zRVRueXBnYnEtRlpFR2o4S0NJSmluYktPQnRMcjRXM29MeHNIN0g3dVpBVzlYY05iaGlwTzFYWkI3a1JzWGUwUk5mekpseVo2RWY5RjZzTU1MMFRocHJLeExyTGcwYmJSejNsTU9DSnZLV25sUEllbm1jN1dvaGRhQjJFWndmSlROTmVYS1lYaWYxZUw0VnVtdUVSWkc5a3JYMEJmY003V2NPMlnSAcQBQVVfeXFMUGE5MnE2THZLT3hILVZXYU9McWpuOEphWWxUYWNpZGFXU1czNHdpb2hmNVJUbEp1emJIR2p6VjZOQUhwRHlqNU9MNEdUbmVZQmNkbWFmb3BTcHZRd1Vwc29JNlgzRFl2ZGJDSGM2UktvX1pCd0IxZnJuaFFjQ1d1YjRGR29fUUhoQy04QzBkSHZCc1dJUTg2emlCUmNUbXp3YzNwc28xZWtOUERnVmxkcHl0aUhZTUhPdDFiV0Z0T0ctV3hUZA?oc=5",
         "date": "Mon, 06 Apr 2026 09:35:32 GMT"
-    },
-    {
-        "id": "d2e39fb0",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Puducherry Polls: Rahul Gandhi Promises Full Statehood",
-                "content": "Rahul Gandhi pledged full statehood for Puducherry if Congress wins the upcoming polls, criticizing the current administration as Delhi-controlled. He also promised extensive benefits including monthly support for unemployed youth, job creation, free bus travel for women, relaxed government job age limits, and ₹20 lakh healthcare insurance per family, aiming to garner voter support."
-            },
-            "kn": {
-                "title": "ಪುದುಚೇರಿ ಚುನಾವಣೆ: ರಾಹುಲ್ ಗಾಂಧಿ ಅವರಿಂದ ಪೂರ್ಣ ರಾಜ್ಯತ್ವದ ಭರವಸೆ",
-                "content": "ಮುಂಬರುವ ಚುನಾವಣೆಯಲ್ಲಿ ಕಾಂಗ್ರೆಸ್ ಗೆದ್ದರೆ ಪುದುಚೇರಿಗೆ ಸಂಪೂರ್ಣ ರಾಜ್ಯತ್ವ ನೀಡುವುದಾಗಿ ರಾಹುಲ್ ಗಾಂಧಿ ಭರವಸೆ ನೀಡಿದ್ದಾರೆ. ಪ್ರಸ್ತುತ ಆಡಳಿತವನ್ನು ದೆಹಲಿ ನಿಯಂತ್ರಿತ ಎಂದು ಟೀಕಿಸಿದರು. ನಿರುದ್ಯೋಗಿ ಯುವಕರಿಗೆ ಮಾಸಿಕ ಬೆಂಬಲ, ಉದ್ಯೋಗ ಸೃಷ್ಟಿ, ಮಹಿಳೆಯರಿಗೆ ಉಚಿತ ಬಸ್ ಪ್ರಯಾಣ, ಸರ್ಕಾರಿ ಉದ್ಯೋಗಗಳ ವಯಸ್ಸಿನ ಮಿತಿ ಸಡಿಲಿಕೆ ಮತ್ತು ಪ್ರತಿ ಕುಟುಂಬಕ್ಕೆ ₹20 ಲಕ್ಷ ಆರೋಗ್ಯ ವಿಮೆ ಸೇರಿದಂತೆ ಹಲವು ಪ್ರಯೋಜನಗಳನ್ನು ಅವರು ಭರವಸೆ ನೀಡಿದ್ದು, ಮತದಾರರ ಬೆಂಬಲ ಗಳಿಸುವ ಗುರಿ ಹೊಂದಿದ್ದಾರೆ."
-            },
-            "mr": {
-                "title": "पुदुचेरी निवडणुका: राहुल गांधींनी पूर्ण राज्यत्वाचे दिले आश्वासन",
-                "content": "राहुल गांधींनी आगामी निवडणुकीत काँग्रेस जिंकल्यास पुदुचेरीला पूर्ण राज्यत्वाचा दर्जा देण्याचे वचन दिले. त्यांनी सध्याच्या प्रशासनावर दिल्ली-नियंत्रित असल्याचा आरोप करत टीका केली. तसेच, बेरोजगार तरुणांना मासिक भत्ता, रोजगार निर्मिती, महिलांसाठी मोफत बस प्रवास, सरकारी नोकरीच्या वयोमर्यादेत शिथिलता आणि प्रत्येक कुटुंबासाठी ₹20 लाखांचे आरोग्य विमा यासह अनेक योजनांची आश्वासने दिली, ज्यामुळे मतदारांचा पाठिंबा मिळवण्याचे त्यांचे लक्ष्य आहे."
-            },
-            "hi": {
-                "title": "पुदुचेरी चुनाव: राहुल गांधी ने पूर्ण राज्यत्व का वादा किया",
-                "content": "राहुल गांधी ने आगामी चुनावों में कांग्रेस के जीतने पर पुदुचेरी को पूर्ण राज्य का दर्जा देने का वादा किया है, उन्होंने मौजूदा प्रशासन को दिल्ली-नियंत्रित बताते हुए उसकी आलोचना की। उन्होंने बेरोजगार युवाओं के लिए मासिक सहायता, नौकरी सृजन, महिलाओं के लिए मुफ्त बस यात्रा, सरकारी नौकरी की आयु सीमा में छूट और प्रति परिवार ₹20 लाख के स्वास्थ्य बीमा सहित कई व्यापक लाभों का भी वादा किया, जिसका उद्देश्य मतदाताओं का समर्थन प्राप्त करना है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-130053542,imgsize-480374.cms",
-        "link": "https://timesofindia.indiatimes.com/india/puducherry-polls-rahul-gandhi-promises-full-statehood-for-ut-if-congress-wins/articleshow/130053308.cms",
-        "date": "2026-04-06T12:32:55+05:30"
     }
 ]
