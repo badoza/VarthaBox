@@ -1,5 +1,30 @@
 [
     {
+        "id": "3fa9e868",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "Bundesliga Live: Your TV & Stream Guide",
+                "content": "Eager to catch every Bundesliga goal and dramatic finish? This essential guide provides all crucial broadcast details at a glance. Discover exactly where to watch live matches on TV and via livestream. Fans, especially in Germany, can easily find their favorite top-flight teams' games. Stay updated with official viewing options and never miss a moment of the German football action!"
+            },
+            "kn": {
+                "title": "ಬುಂಡೆಸ್ಲಿಗಾ ಲೈವ್: ನಿಮ್ಮ ಟಿವಿ ಮತ್ತು ಸ್ಟ್ರೀಮ್ ಗೈಡ್",
+                "content": "ಪ್ರತಿ ಬುಂಡೆಸ್ಲಿಗಾ ಗೋಲ್ ಮತ್ತು ನಾಟಕೀಯ ಅಂತ್ಯವನ್ನು ವೀಕ್ಷಿಸಲು ಉತ್ಸುಕರಾಗಿದ್ದೀರಾ? ಈ ಅಗತ್ಯ ಮಾರ್ಗದರ್ಶಿ ಎಲ್ಲಾ ನಿರ್ಣಾಯಕ ಪ್ರಸಾರ ವಿವರಗಳನ್ನು ಒಂದೇ ನೋಟದಲ್ಲಿ ಒದಗಿಸುತ್ತದೆ. ಟಿವಿ ಮತ್ತು ಲೈವ್‌ಸ್ಟ್ರೀಮ್ ಮೂಲಕ ಲೈವ್ ಪಂದ್ಯಗಳನ್ನು ಎಲ್ಲಿ ವೀಕ್ಷಿಸಬೇಕು ಎಂಬುದನ್ನು ನಿಖರವಾಗಿ ಕಂಡುಹಿಡಿಯಿರಿ. ಅಭಿಮಾನಿಗಳು, ವಿಶೇಷವಾಗಿ ಜರ್ಮನಿಯಲ್ಲಿ, ತಮ್ಮ ನೆಚ್ಚಿನ ಉನ್ನತ ತಂಡಗಳ ಆಟಗಳನ್ನು ಸುಲಭವಾಗಿ ಹುಡುಕಬಹುದು. ಅಧಿಕೃತ ವೀಕ್ಷಣಾ ಆಯ್ಕೆಗಳೊಂದಿಗೆ ನವೀಕೃತವಾಗಿರಿ ಮತ್ತು ಜರ್ಮನ್ ಫುಟ್‌ಬಾಲ್ ಕ್ರಿಯೆಯ ಒಂದು ಕ್ಷಣವನ್ನೂ ಕಳೆದುಕೊಳ್ಳಬೇಡಿ!"
+            },
+            "mr": {
+                "title": "बुंडेसलिगा लाईव्ह: तुमची टीव्ही आणि स्ट्रीम मार्गदर्शिका",
+                "content": "प्रत्येक बुंडेसलिगा गोल आणि नाट्यमय शेवट पाहण्यासाठी उत्सुक आहात? हे आवश्यक मार्गदर्शक सर्व महत्त्वाचे प्रसारण तपशील एका दृष्टिक्षेपात देते. टीव्ही आणि लाईव्हस्ट्रीमद्वारे थेट सामने कोठे पहायचे हे नक्की शोधा. चाहते, विशेषतः जर्मनीतील, त्यांच्या आवडत्या शीर्ष-स्तरीय संघांचे सामने सहज शोधू शकतात. अधिकृत पाहण्याच्या पर्यायांसह अद्ययावित रहा आणि जर्मन फुटबॉलच्या कृतीचा एकही क्षण चुकवू नका!"
+            },
+            "hi": {
+                "title": "बुंडेसलीगा लाइव: आपकी टीवी और स्ट्रीम गाइड",
+                "content": "बुंडेसलीगा के हर गोल और नाटकीय समापन को देखने के लिए उत्सुक हैं? यह आवश्यक गाइड एक नज़र में सभी महत्वपूर्ण प्रसारण विवरण प्रदान करता है। जानें कि टीवी और लाइवस्ट्रीम के माध्यम से लाइव मैच कहाँ देखें। प्रशंसक, विशेष रूप से जर्मनी में, अपनी पसंदीदा शीर्ष-स्तरीय टीमों के खेल आसानी से ढूंढ सकते हैं। आधिकारिक देखने के विकल्पों के साथ अपडेट रहें और जर्मन फुटबॉल एक्शन का एक भी क्षण न चूकें!"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMirg5BVV95cUxNMFh5bnpfamFiQVRzaUx5dHh3T1ZNVmhBY3NiOWRaM0dLd1pPUTJtZXJEeW1URkgzNlFKZF85UHBpR1dLWUxxZ1p0M3FsYmgxbExqSnA1NVNYNUJPOW1jLWduRnJ6V0d2WDJGdUZDN1RjV1NINVh1bHFMd0VFQ1dpS0hNQndjc1BpZFRNYmxmZVZ0NWROOVpuRy1mNUlsRXpodEhOckpobFJNUnViMFVpdXhfRVI0NS1lUGxfVC1ZN1d3MG04Zk9MT2JxMGdwNXZKVWZKS3JMa0JLamdrNGRkd3hlMFZlTndFcVk1YjN4bEQyOWJSeU5MUUl6b3ZWUkowTGJWWkE3ck94NlB3a0lac3ZielVPZnhaSzlLR0xvaFAtWTYxdEZFLWhQeFdHN1YyYU5BcDE3TWpjWHFhdGtNamRSLWxuRlZXSnZjZUhwclNkT2pVR1Y1NWtFTk83c1VRbjB6RzhxUkx6cFVaek5DMmFmdDBId2FCSkRMci1vNjdWN2FBSmpoWDhyd2haMFlkbGUxOE9HaFN1S2RlemtZY1RhcmxrSldyMkZwaGg0S0I2OWZZdUVDcDdpc2Z0OWFvQTA5NFNnWWtMeEFjU0ktRWVXekpDNnFGemVaSEU5elJsYVJjbVNrZGZxSVlKUkRVajY0cWJSbkR6Y3VpVzFHSFhnbUtrdDJVUTVPSlBTVkZNTW9GZzlOZDVoZlVoZ2o0dlV3a0JlcXVDV2JIZFYtdlJXYUNrOXBCaFNGd3h2bHJ4aGxCZ0RKdGRIS0w4czBNX3JfRkVwXzVac19BaDZoRVhncUFGVzYxSU8wRUpiUlhsWHNnSFBhMHlJVmlBTWNhT3BUNWxsaWRsbjhtQzJmNFdjM0ZoalFodzhnejFCMDFNLVJ2TGVNbWxvdlluUzMzTlFiSVdLOC1ldnRScXJLMjNuQnFUczByMEZUZzJlTnBSVGRZM3p3YXNKM3VhVDRwbXBSS0lIR1U3VXQyak1YZUtwakdlTHVFOUdteUFXenBYb2FzSkMxbzgxamFHX1JPWHpkdXNUTUNlVkpmNlhPdzdEdTRaa2puLWczYndSLWxydmd1SnBvMlpwc3BoSzNDUFpDbVMxSTltYkQxTGJKT2FHU2NZV21mbV9fTTQxMGJGQS1Xam1VTlBCWGVSanFWUno3Q2p3LWtkWWxTcjY2WThpMnRlLXVtaXV1MFpMdk1wZ1pGV2Vsc210ZEsxbE83WTV2eWpSYWRlLWRKa0JBMUpscWxyV0FLZjdocTNEakZ2TWhKRTRxXzB1Xy1xSmJCdVh1ZWtnQXJ5OGNKMG4wZWJQSDdTci1DQjdydHNuLWlTbDl3WGpXVG5jQm9Ub3NMSHl6UTR6Z1R6eC1TZzRWTVhOMzdOOU5FY1FXNjJjWEo1QVo1MGpKZlltRGhQZnB0bjhqWENCVHUtMWs2SVVQb2JRVnNHUGNFaG1sVU44R0JsMDUzRU5HMUlJUGdKS2E0Unp1UWFvSFRMSlFMQnNjZlJlN2N0Vzg1NVplVTNuWldGRmxHLVBrZzNLTlRxWU12WmNoLVE3a2tlLU9hdW94OXYzWXJNVDFQWnlXWjJ1dmdHdXh4V0pPV3JteXZFd1lEdU5xQlpUSmVTUi1HQ1c2X2czQzd4dnNCazFiTURJNk82YnI0aXRLU1V3N0ZzUkJaWDd3enJzd3BtWDhlVS00UnJ5ZGJ3TGNFRjg1eXZlUlVUUmhEWGVVN0NEY3FnbFJaX3pBc2NsTm5rc2lMVzl1eGNDVTFuR3lQTV9yNEtiallWVzhTV20xeVZaa1ZTSUJoYUZfcFBTZ3VmT2NFZUV2VnFoY0piRklWV3JCdDJWUnJabG11QWNOY3hJQWZkZ3Y5UGJWYlBUVHAyeUpPdmR2dXpuY2tDZjFLc0NtV2Z4NzJ1bXl2d0c5Q2VDNGxKU3NCajUzYTF2b1cwM2psNFBwdm8xVjdGbVYtUTZIaU55WWQwV285Zmp6UllHcVlDZFYyMHpIVkk4NUpnUjNPeV9rcFVPbldXaUprb2tZQWhjZHNhaTBkQ2FjMVpvdDdLVDVNcjU4VHlhaXp1Vk9nd1lUZXkxRS0yQXlaOUVkMFB6ZzkyZEQ4cWVYSVk0OUFVbkdheFdkZXFRRXpLMktZdUJVNmo4YlFoTkNZRWVCdGpFVVJUSmFvejFIcnNFUTNaNzZEOGVJM3FiX184SWVNQVRPVUI4LVdVSkJkb2Y1T19adEpoeGVzT2RtLXhPR3hvemdRTGNjcUJ6dXQ5N2VCU1ZhOGhyQTIxekxxOHQzekFZVC01XzI1akhZbVpaZldOckVkSGp1M2N3b3JmQlR2RDU5YjZvczczREhhMlpMVUR3Y2o2Q0hCbjgyRlAtbkQ3WDhDOEV0TmIwTHNYQWh6cURyNllUU1kwbWY3T2pGR25kNTNOWFQtb0NIY25ST3ZZQQ?oc=5",
+        "date": "Thu, 09 Apr 2026 08:35:59 GMT"
+    },
+    {
         "id": "c34a4fc6",
         "category": "National",
         "translations": {
@@ -1973,30 +1998,5 @@
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQXg1WDh4Z3NaNy1IbUhWWE1QV3lWLVZnS0ZWTzdKQXFVNlVyQ0JURGx6MlFrU3R3bWE5b2hsMFZ5MWJoeW1uMXBUbVJiMlQxLVllYUxucThCWDdsTVI4WDZ2QXFsaWVweXdrUEZXZTJYU0ZnOGtlS3Z0RVFIbjBydjZ2VGNUSWtCU2xvT1c3RFREV2RnYXdzaTBRM001WXZFNmFEOS02SFN6WEdCQU1yTnYtZFA5TFpFd1R6aEpNTFdrZXlpWk5UOW51bUUyckZ5NDhDemJTdk0wekU?oc=5",
         "date": "Mon, 06 Apr 2026 06:22:30 GMT"
-    },
-    {
-        "id": "15e82782",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "HP Bureaucracy Under Fire Over Chester Hills Land Scandal",
-                "content": "Himachal Pradesh's bureaucracy faces intense scrutiny amid the Chester Hills land controversy. Allegations of widespread land violations and illegal dealings have put officials under fire, raising serious questions about governance and accountability. Pressure mounts for a thorough investigation and strict action against those involved, highlighting calls to uphold environmental norms and legal frameworks in the state."
-            },
-            "kn": {
-                "title": "ಚೆಸ್ಟರ್ ಹಿಲ್ಸ್ ಭೂ ಹಗರಣದ ಬಗ್ಗೆ ಹಿಮಾಚಲದ ಅಧಿಕಾರಶಾಹಿ ತೀವ್ರ ಟೀಕೆಗೆ ಗುರಿ",
-                "content": "ಚೆಸ್ಟರ್ ಹಿಲ್ಸ್ ಭೂ ವಿವಾದದ ನಡುವೆ ಹಿಮಾಚಲ ಪ್ರದೇಶದ ಅಧಿಕಾರಶಾಹಿ ತೀವ್ರ ಪರಿಶೀಲನೆಗೆ ಒಳಗಾಗಿದೆ. ಭೂ ಉಲ್ಲಂಘನೆ ಮತ್ತು ಅಕ್ರಮ ವ್ಯವಹಾರಗಳ ಆರೋಪಗಳು ಅಧಿಕಾರಿಗಳನ್ನು ಟೀಕೆಗೆ ಗುರಿಪಡಿಸಿವೆ, ಆಡಳಿತ ಮತ್ತು ಹೊಣೆಗಾರಿಕೆಯ ಬಗ್ಗೆ ಪ್ರಶ್ನೆಗಳನ್ನು ಹುಟ್ಟುಹಾಕಿವೆ. ಪರಿಸರ ನಿಯಮಗಳು ಮತ್ತು ರಾಜ್ಯದ ಕಾನೂನುಗಳನ್ನು ಎತ್ತಿಹಿಡಿಯಲು, ಸಂಪೂರ್ಣ ತನಿಖೆ ಮತ್ತು ತಪ್ಪಿತಸ್ಥರ ವಿರುದ್ಧ ಕಠಿಣ ಕ್ರಮಕ್ಕೆ ಒತ್ತಡ ಹೆಚ್ಚುತ್ತಿದೆ."
-            },
-            "mr": {
-                "title": "चेस्टर हिल्स जमीन घोटाळ्याप्रकरणी हिमाचलच्या नोकरशाहीवर ठपका",
-                "content": "चेस्टर हिल्स भूखंड वादामुळे हिमाचल प्रदेशची नोकरशाही तीव्र तपासणीखाली आहे. मोठ्या प्रमाणावर भूखंडाचे उल्लंघन आणि बेकायदेशीर व्यवहारांच्या आरोपांमुळे अधिकारी टीकेचे धनी झाले आहेत, ज्यामुळे प्रशासकीय कारभारावर आणि उत्तरदायित्वावर गंभीर प्रश्नचिन्ह निर्माण झाले आहे. राज्यातील पर्यावरणीय नियम आणि कायदेशीर चौकटींचे पालन करण्यासाठी, सखोल चौकशी आणि दोषींवर कठोर कारवाईसाठी दबाव वाढत आहे."
-            },
-            "hi": {
-                "title": "चेस्टर हिल्स भूमि घोटाले को लेकर हिमाचल की नौकरशाही सवालों के घेरे में",
-                "content": "चेस्टर हिल्स भूमि विवाद के बीच हिमाचल प्रदेश की नौकरशाही गहन जांच के दायरे में है। व्यापक भूमि उल्लंघनों और अवैध सौदों के आरोपों ने अधिकारियों को कटघरे में खड़ा कर दिया है, जिससे शासन और जवाबदेही पर गंभीर सवाल उठ रहे हैं। राज्य में पर्यावरणीय मानदंडों और कानूनी ढांचों को बनाए रखने के लिए, गहन जांच और इसमें शामिल लोगों के खिलाफ सख्त कार्रवाई का दबाव बढ़ रहा है।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeDFTMmdTVXluc25zRVRueXBnYnEtRlpFR2o4S0NJSmluYktPQnRMcjRXM29MeHNIN0g3dVpBVzlYY05iaGlwTzFYWkI3a1JzWGUwUk5mekpseVo2RWY5RjZzTU1MMFRocHJLeExyTGcwYmJSejNsTU9DSnZLV25sUEllbm1jN1dvaGRhQjJFWndmSlROTmVYS1lYaWYxZUw0VnVtdUVSWkc5a3JYMEJmY003V2NPMlnSAcQBQVVfeXFMUGE5MnE2THZLT3hILVZXYU9McWpuOEphWWxUYWNpZGFXU1czNHdpb2hmNVJUbEp1emJIR2p6VjZOQUhwRHlqNU9MNEdUbmVZQmNkbWFmb3BTcHZRd1Vwc29JNlgzRFl2ZGJDSGM2UktvX1pCd0IxZnJuaFFjQ1d1YjRGR29fUUhoQy04QzBkSHZCc1dJUTg2emlCUmNUbXp3YzNwc28xZWtOUERnVmxkcHl0aUhZTUhPdDFiV0Z0T0ctV3hUZA?oc=5",
-        "date": "Mon, 06 Apr 2026 09:35:32 GMT"
     }
 ]
