@@ -1,5 +1,80 @@
 [
     {
+        "id": "25e96c25",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "LSG's New Finisher Mukul Choudhary Reveals Success Secrets",
+                "content": "LSG's new finisher, Mukul Choudhary, revealed his meticulous preparations after his match-winning fifty against KKR in a recent IPL clash. Choudhary, who showcased exceptional skill under pressure, discussed the rigorous training and mental conditioning instrumental in his breakthrough performance. His crucial knock secured victory for LSG, highlighting his potential as a key player for the team."
+            },
+            "kn": {
+                "title": "LSGಯ ಹೊಸ ಫಿನಿಶರ್ ಮುಕುಲ್ ಚೌಧರಿ ಯಶಸ್ಸಿನ ರಹಸ್ಯ ಬಿಚ್ಚಿಟ್ಟರು",
+                "content": "IPLನ ಇತ್ತೀಚಿನ ಪಂದ್ಯದಲ್ಲಿ KKR ವಿರುದ್ಧ LSGಯ ಹೊಸ ಫಿನಿಶರ್ ಮುಕುಲ್ ಚೌಧರಿ ಅವರು ಪಂದ್ಯ-ಗೆಲ್ಲುವ ಅರ್ಧಶತಕದ ನಂತರ, ತಮ್ಮ ನಿಖರವಾದ ಸಿದ್ಧತೆಗಳನ್ನು ಬಹಿರಂಗಪಡಿಸಿದರು. ಒತ್ತಡದಲ್ಲಿ ಅಸಾಧಾರಣ ಕೌಶಲ್ಯವನ್ನು ಪ್ರದರ್ಶಿಸಿದ ಚೌಧರಿ, ತಮ್ಮ ಅದ್ಭುತ ಪ್ರದರ್ಶನಕ್ಕೆ ಸಹಾಯಕವಾದ ಕಠಿಣ ತರಬೇತಿ ಮತ್ತು ಮಾನಸಿಕ ಕಂಡೀಷನಿಂಗ್ ಬಗ್ಗೆ ಚರ್ಚಿಸಿದರು. ಅವರ ನಿರ್ಣಾಯಕ ಇನ್ನಿಂಗ್ಸ್ LSGಗೆ ವಿಜಯವನ್ನು ತಂದುಕೊಟ್ಟಿತು, ತಂಡಕ್ಕೆ ಪ್ರಮುಖ ಆಟಗಾರನಾಗಿ ಅವರ ಸಾಮರ್ಥ್ಯವನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "एलएसजीचा नवा फिनिशर मुकुल चौधरीने यशाचे रहस्य उघड केले",
+                "content": "आयपीएलमधील एका अलीकडील सामन्यात केकेआरविरुद्ध एलएसजीचा नवीन फिनिशर मुकुल चौधरीने सामना जिंकून देणाऱ्या अर्धशतकानंतर आपल्या तयारीचे तपशील उघड केले. दबावाखाली उत्कृष्ट कौशल्य दाखवणाऱ्या चौधरीने आपल्या प्रभावी कामगिरीसाठी आवश्यक असलेल्या कठोर प्रशिक्षण आणि मानसिक तयारीबद्दल सांगितले. त्याच्या महत्त्वपूर्ण खेळीने एलएसजीला विजय मिळवून दिला, ज्यामुळे तो संघासाठी एक महत्त्वाचा खेळाडू म्हणून उदयास आला आहे."
+            },
+            "hi": {
+                "title": "एलएसजी के नए फिनिशर मुकुल चौधरी ने खोले सफलता के राज",
+                "content": "आईपीएल के हालिया मुकाबले में केकेआर के खिलाफ एलएसजी के नए फिनिशर मुकुल चौधरी ने अपने मैच-विनिंग अर्धशतक के बाद अपनी तैयारियों का खुलासा किया। दबाव में असाधारण कौशल का प्रदर्शन करते हुए, चौधरी ने कड़ी ट्रेनिंग और मानसिक तैयारी पर चर्चा की जो उनके शानदार प्रदर्शन में सहायक रही। उनकी महत्वपूर्ण पारी ने एलएसजी को जीत दिलाई, जिससे टीम के लिए एक प्रमुख खिलाड़ी के रूप में उनकी क्षमता उजागर हुई।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPeXc2UVI3VloxWThGM0V4RENqdF9zSDJncGVDY2ZiUGRUVnc1MTVTMS1rY3lWcXRUR19MNWxHS19ENHdjTFVoN1dNeVVNWWRKTEtRdDlkWDJ4dWxTc0l2MzRZQkdBcmpmdnJlU2tyaDhNWHc0UFpBSkFoSk85d1I5T0tNdUVoN2xiWnlTMkZhWVdndjdiZjdjSmduNlJRZ0FKWi02VDdxM3ZyUThmeEo0WURvRVVVR1ZxUTNGQmRlRm1WOGpKdGpCaUllN3h4WDUxY1ZYYjcya2JnelVUV2xEZtIB7gFBVV95cUxOaU1sRkVtYkV6R0hHc0xCQ2t2dVZGX0xYczA3N0pWWDZ2ZmotZWpLMlR4SnA0OEdRNndfcjZLN2tKcTRYN0NpbVBSc28xZmtjMUN3Ni1UWXFpMzRuUnpUVnJFS3ctal81WElIOHBKSk5LdjM3LUxMZjBjclVzOXgwNzgzM3VFVTlwUnRmbTZiR3U2MU5tNXVpNnBXclBiWEdxNFBZWFRQUWFDeEh4UXYyakQ5QXlRenFKck1nckJndTl6Ung4YmhoV3Z6VTJZa2x4OFFqMnZOTlBPczZUdFJUWXZONG9IaDMxRVRFdS13?oc=5",
+        "date": "Thu, 09 Apr 2026 19:06:25 GMT"
+    },
+    {
+        "id": "e21e4cd6",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "US-Iran Ceasefire: Insider Trading Allegations",
+                "content": "Questions emerge regarding potential insider trading linked to a US-Iran ceasefire. Reports suggest individuals with privileged information might have profited financially as geopolitical tensions eased. Scrutiny focuses on suspicious market activities before official announcements, raising concerns about transparency and accountability in sensitive global developments."
+            },
+            "kn": {
+                "title": "ಯುಎಸ್-ಇರಾನ್ ಕದನವಿರಾಮ: ಆಂತರಿಕ ವಹಿವಾಟು ಆರೋಪಗಳು",
+                "content": "ಯುಎಸ್-ಇರಾನ್ ಕದನವಿರಾಮಕ್ಕೆ ಸಂಬಂಧಿಸಿದಂತೆ ಆಂತರಿಕ ವಹಿವಾಟಿನ ಸಂಭಾವ್ಯತೆಯ ಬಗ್ಗೆ ಪ್ರಶ್ನೆಗಳು ಹುಟ್ಟಿಕೊಂಡಿವೆ. ಭೂರಾಜಕೀಯ ಉದ್ವಿಗ್ನತೆಗಳು ಸಡಿಲಗೊಂಡಂತೆ, ವಿಶೇಷ ಮಾಹಿತಿ ಹೊಂದಿದ್ದ ವ್ಯಕ್ತಿಗಳು ಆರ್ಥಿಕವಾಗಿ ಲಾಭ ಪಡೆದಿರಬಹುದು ಎಂದು ವರದಿಗಳು ಸೂಚಿಸುತ್ತವೆ. ಅಧಿಕೃತ ಪ್ರಕಟಣೆಗಳ ಮೊದಲು ಅನುಮಾನಾಸ್ಪದ ಮಾರುಕಟ್ಟೆ ಚಟುವಟಿಕೆಗಳ ಮೇಲೆ ತನಿಖೆ ಕೇಂದ್ರೀಕೃತವಾಗಿದೆ, ಇದು ಸೂಕ್ಷ್ಮ ಜಾಗತಿಕ ಬೆಳವಣಿಗೆಗಳಲ್ಲಿ ಪಾರದರ್ಶಕತೆ ಮತ್ತು ಹೊಣೆಗಾರಿಕೆಯ ಬಗ್ಗೆ ಕಳವಳಗಳನ್ನು ಹುಟ್ಟುಹಾಕುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "यूएस-इराण युद्धविराम: इनसायडर ट्रेडिंगचे आरोप",
+                "content": "यूएस-इराण युद्धविरामाशी संबंधित संभाव्य इनसायडर ट्रेडिंगबद्दल प्रश्न निर्माण झाले आहेत. भू-राजकीय तणाव कमी झाल्याने, विशेष माहिती असलेल्या व्यक्तींनी आर्थिक फायदा घेतला असावा, असे अहवाल सूचित करतात. अधिकृत घोषणांपूर्वीच्या संशयास्पद बाजारातील हालचालींवर लक्ष केंद्रित केले जात आहे, ज्यामुळे संवेदनशील जागतिक घडामोडींमध्ये पारदर्शकता आणि जबाबदारीबद्दल चिंता वाढत आहे."
+            },
+            "hi": {
+                "title": "यूएस-ईरान संघर्ष विराम: इनसाइडर ट्रेडिंग के आरोप",
+                "content": "यूएस-ईरान संघर्ष विराम से जुड़ी संभावित इनसाइडर ट्रेडिंग को लेकर सवाल उठ रहे हैं। रिपोर्टों से पता चलता है कि भू-राजनीतिक तनाव कम होने पर, विशेषाधिकार प्राप्त जानकारी वाले व्यक्तियों ने वित्तीय लाभ कमाया होगा। आधिकारिक घोषणाओं से पहले संदिग्ध बाजार गतिविधियों पर ध्यान केंद्रित किया गया है, जिससे संवेदनशील वैश्विक घटनाक्रमों में पारदर्शिता और जवाबदेही के बारे में चिंताएं बढ़ रही हैं।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVnJ2Unk0X1FvSk1PdzFwODc0Um5OZG1JQVBzSzBRRVNiT0hYMnZ0eHRZZEt3bFNWWWhsTnE1X21FUFVGWG9hSG9nN0hXcmdVSWVicmRWVjdYVjEzSVM1OHU1Q2l2RVBwRGtadGRESnZVQ0dqaVNhWHpNU2k1N2k4cG9VYVdPeDI3NkU5M3I0X1FGZmc3U1ZkSVFlN2ZPSlhfOVRELW9keFUtdVNvNnhJ0gG0AUFVX3lxTE1ZNS03cm04QlhlWUt3eGZKUzNVX0NUdHFOZVFEV1N4TjNLVGUtaFpTVUVkMUVndmRfc2o1LVZudG43UC1YcUc3WXRfaU9wRWN0YUh4V0RzQ0M2S2xoUmx3Rm1kcENoM2xUNUJlSmZvYUlOZ2dvbjI3MzNOZlcxZ1gtWjlKQVRnUkZQMkRtWmI1Y3JQOVFhV29oOXFaWW1rWVh2aGZuTlN3QVFqV0VPUHhLeVNuag?oc=5",
+        "date": "Thu, 09 Apr 2026 18:04:36 GMT"
+    },
+    {
+        "id": "d223f827",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "H-1B Delays: Blind Student Misses Sister's Wedding",
+                "content": "Visually impaired Indian student Rajeev Krishna Annapragada's story of missing his blind sister's wedding due to H-1B visa appointment delays has gone viral. Forced to choose between a significant family event and his US professional stability, his plight highlights the severe human cost and emotional toll of ongoing immigration backlogs, sparking widespread sympathy and debate."
+            },
+            "kn": {
+                "title": "H-1B ವಿಳಂಬ: ಅಂಧ ವಿದ್ಯಾರ್ಥಿ ಸಹೋದರಿಯ ಮದುವೆ ತಪ್ಪಿಸಿಕೊಂಡ",
+                "content": "H-1B ವೀಸಾ ನೇಮಕಾತಿ ವಿಳಂಬದಿಂದಾಗಿ ತನ್ನ ಅಂಧ ಸಹೋದರಿಯ ಮದುವೆಯನ್ನು ತಪ್ಪಿಸಿಕೊಂಡ ದೃಷ್ಟಿಹೀನ ಭಾರತೀಯ ವಿದ್ಯಾರ್ಥಿ ರಾಜೀವ್ ಕೃಷ್ಣ ಅನ್ನಪ್ರಗಡ ಅವರ ಕಥೆ ವೈರಲ್ ಆಗಿದೆ. ಮಹತ್ವದ ಕೌಟುಂಬಿಕ ಕಾರ್ಯಕ್ರಮ ಮತ್ತು US ನಲ್ಲಿನ ತಮ್ಮ ವೃತ್ತಿಪರ ಸ್ಥಿರತೆಯ ನಡುವೆ ಆಯ್ಕೆ ಮಾಡಲು ಒತ್ತಾಯಿಸಲ್ಪಟ್ಟ ಅವರ ಸಂಕಷ್ಟವು, ನಡೆಯುತ್ತಿರುವ ವಲಸೆ ಬ್ಯಾಕ್‌ಲಾಗ್‌ಗಳ ತೀವ್ರ ಮಾನವೀಯ ವೆಚ್ಚ ಮತ್ತು ಭಾವನಾತ್ಮಕ ನೋವನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ, ವ್ಯಾಪಕ ಸಹಾನುಭೂತಿ ಮತ್ತು ಚರ್ಚೆಗೆ ಕಾರಣವಾಗುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "H-1B विलंबाने अंध विद्यार्थ्याने गमावले बहिणीचे लग्न",
+                "content": "H-1B व्हिसा नियुक्तीतील विलंबामुळे आपल्या अंध बहिणीचे लग्न चुकलेल्या दृष्टिहीन भारतीय विद्यार्थी राजीव कृष्ण अन्नाप्रगडा यांची कहाणी व्हायरल झाली आहे. महत्त्वाच्या कौटुंबिक कार्यक्रमात उपस्थित राहणे आणि अमेरिकेतील व्यावसायिक स्थिरता राखणे यापैकी निवड करण्यास भाग पडल्याने, त्यांच्या दुर्दशेमुळे सध्याच्या इमिग्रेशन बॅकलॉगमुळे होणारे गंभीर मानवी आणि भावनिक परिणाम अधोरेखित होतात, ज्यामुळे व्यापक सहानुभूती आणि चर्चेला तोंड फुटले आहे."
+            },
+            "hi": {
+                "title": "H-1B में देरी: नेत्रहीन छात्र ने बहन की शादी छोड़ी",
+                "content": "H-1B वीज़ा अपॉइंटमेंट में देरी के कारण अपनी नेत्रहीन बहन की शादी में शामिल न हो पाने वाले दृष्टिहीन भारतीय छात्र राजीव कृष्ण अन्नाप्रगडा की कहानी वायरल हो गई है। एक महत्वपूर्ण पारिवारिक कार्यक्रम और अमेरिका में अपनी पेशेवर स्थिरता के बीच चयन करने के लिए मजबूर, उनकी दुर्दशा चल रहे आप्रवासन बैकलॉग की गंभीर मानवीय लागत और भावनात्मक टोल को उजागर करती है, जिससे व्यापक सहानुभूति और बहस छिड़ गई है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130153598,imgsize-1013843.cms",
+        "link": "https://timesofindia.indiatimes.com/world/us/h-1b-visa-delays-force-blind-indian-student-to-miss-his-blind-sisters-wedding-story-goes-viral/articleshow/130153586.cms",
+        "date": "2026-04-10T02:16:55+05:30"
+    },
+    {
         "id": "eeb2cb7e",
         "category": "IPL Scoop",
         "translations": {
@@ -1923,80 +1998,5 @@
         "image": "https://static.toiimg.com/photo/msid-130062921,imgsize-74118.cms",
         "link": "https://timesofindia.indiatimes.com/world/rest-of-world/broad-minded-mans-attitude-north-korea-calls-south-korea-president-lees-regret-over-drone-incursions-wise-in-rare-conciliatory-response/articleshow/130062755.cms",
         "date": "2026-04-06T19:14:56+05:30"
-    },
-    {
-        "id": "a15d425e",
-        "category": "Entertainment",
-        "translations": {
-            "en": {
-                "title": "Akshay Kumar's Honest Act Stuns Ektaa Kapoor",
-                "content": "Producer Ektaa Kapoor revealed Akshay Kumar returned his entire fee after their past film flopped, an unprecedented act in her 31-year career. Kapoor was stunned by his integrity and professionalism. This gesture highlights Akshay's generosity and ethical conduct in Bollywood, setting a remarkable industry standard."
-            },
-            "kn": {
-                "title": "ಅಕ್ಷಯ್ ಕುಮಾರ್ ಅವರ ಪ್ರಾಮಾಣಿಕ ಕಾರ್ಯವು ಏಕ್ತಾ ಕಪೂರ್ ಅವರನ್ನು ಬೆರಗುಗೊಳಿಸಿದೆ",
-                "content": "ನಿರ್ಮಾಪಕಿ ಏಕ್ತಾ ಕಪೂರ್ ಅವರು ತಮ್ಮ ಹಿಂದಿನ ಚಿತ್ರ ವಿಫಲವಾದ ನಂತರ ಅಕ್ಷಯ್ ಕುಮಾರ್ ತಮ್ಮ ಸಂಪೂರ್ಣ ಸಂಭಾವನೆಯನ್ನು ಹಿಂದಿರುಗಿಸಿದ್ದನ್ನು ಬಹಿರಂಗಪಡಿಸಿದ್ದಾರೆ. ಇದು ಅವರ 31 ವರ್ಷಗಳ ವೃತ್ತಿಜೀವನದಲ್ಲಿ ಅಭೂತಪೂರ್ವ ಕಾರ್ಯವಾಗಿತ್ತು. ಕಪೂರ್ ಅವರ ಸಮಗ್ರತೆ ಮತ್ತು ವೃತ್ತಿಪರತೆಯಿಂದ ಆಘಾತಕ್ಕೊಳಗಾಗಿದ್ದರು. ಈ ಸನ್ನೆ ಬಾಲಿವುಡ್‌ನಲ್ಲಿ ಅಕ್ಷಯ್ ಅವರ ಔದಾರ್ಯ ಮತ್ತು ನೈತಿಕ ನಡವಳಿಕೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ, ಇದು ಗಮನಾರ್ಹ ಉದ್ಯಮ ಮಾನದಂಡವನ್ನು ಸ್ಥಾಪಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "अक्षय कुमारच्या प्रामाणिक कृतीने एकता कपूर थक्क",
-                "content": "निर्माती एकता कपूर यांनी सांगितले की, त्यांचा मागील चित्रपट फ्लॉप झाल्यावर अक्षय कुमारने त्यांची संपूर्ण फी परत केली. त्यांच्या ३१ वर्षांच्या कारकिर्दीतील ही एक अभूतपूर्व कृती होती. कपूर त्यांच्या सचोटी आणि व्यावसायिकतेने थक्क झाल्या. हा हावभाव अक्षयची उदारता आणि बॉलीवूडमधील नैतिक वर्तन अधोरेखित करतो, एक उल्लेखनीय उद्योग मानक स्थापित करतो."
-            },
-            "hi": {
-                "title": "अक्षय कुमार के ईमानदार कार्य ने एकता कपूर को किया हैरान",
-                "content": "निर्माता एकता कपूर ने खुलासा किया कि अक्षय कुमार ने उनकी पिछली फिल्म फ्लॉप होने के बाद अपनी पूरी फीस लौटा दी थी, जो उनके 31 साल के करियर में एक अभूतपूर्व कार्य था. कपूर उनकी ईमानदारी और व्यावसायिकता से स्तब्ध रह गईं. यह हावभाव बॉलीवुड में अक्षय की उदारता और नैतिक आचरण को उजागर करता है, जिससे एक उल्लेखनीय उद्योग मानक स्थापित होता है."
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-130063185,imgsize-41904.cms",
-        "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-returned-cheque-to-ektaa-kapoor-after-a-film-flopped-leaving-her-shocked-tabu-asks-her-for-profit-from-crew/articleshow/130063172.cms",
-        "date": "2026-04-06T19:28:09+05:30"
-    },
-    {
-        "id": "f0d17ff5",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Swift Reacts to Lively's Legal Woes Amidst Wedding Plans",
-                "content": "Taylor Swift expressed strong concern over friend Blake Lively's recent legal setback, stating 'Couldn't be worse.' This comes as Swift continues with her own wedding preparations involving Travis Kelce. The situation highlights the challenges friends face while navigating personal milestones and external pressures, creating a moment of shared stress for the celebrity duo."
-            },
-            "kn": {
-                "title": "ಮದುವೆ ಯೋಜನೆಗಳ ನಡುವೆ ಲೈವ್ಲಿಯ ಕಾನೂನು ತೊಂದರೆಗಳಿಗೆ ಸ್ವಿಫ್ಟ್ ಪ್ರತಿಕ್ರಿಯೆ",
-                "content": "ಟೇಲರ್ ಸ್ವಿಫ್ಟ್ ತಮ್ಮ ಸ್ನೇಹಿತೆ ಬ್ಲೇಕ್ ಲೈವ್ಲಿಯ ಇತ್ತೀಚಿನ ಕಾನೂನು ಹಿನ್ನಡೆಯ ಬಗ್ಗೆ ತೀವ್ರ ಕಳವಳ ವ್ಯಕ್ತಪಡಿಸಿದ್ದಾರೆ, 'ಇದಕ್ಕಿಂತ ಕೆಟ್ಟದಾಗಿರಲು ಸಾಧ್ಯವಿಲ್ಲ' ಎಂದು ಹೇಳಿದ್ದಾರೆ. ಸ್ವಿಫ್ಟ್ ಟ್ರಾವಿಸ್ ಕೆಲ್ಸಿ ಅವರೊಂದಿಗೆ ತಮ್ಮ ಮದುವೆಯ ಸಿದ್ಧತೆಗಳನ್ನು ಮುಂದುವರೆಸುತ್ತಿರುವಾಗ ಇದು ಸಂಭವಿಸಿದೆ. ಈ ಪರಿಸ್ಥಿತಿಯು ಸ್ನೇಹಿತರು ವೈಯಕ್ತಿಕ ಮೈಲಿಗಲ್ಲುಗಳು ಮತ್ತು ಬಾಹ್ಯ ಒತ್ತಡಗಳನ್ನು ನಿರ್ವಹಿಸುವಾಗ ಎದುರಿಸುವ ಸವಾಲುಗಳನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ, ಇದು ಸೆಲೆಬ್ರಿಟಿ ಜೋಡಿಗೆ ಹಂಚಿದ ಒತ್ತಡದ ಕ್ಷಣವನ್ನು ಸೃಷ್ಟಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "विवाह सोहळ्याच्या योजनांमध्ये स्विफ्टची लाइव्हलीच्या कायदेशीर अडचणींवर प्रतिक्रिया",
-                "content": "टेलर स्विफ्टने मैत्रिण ब्लेक लाइव्हलीच्या नुकत्याच झालेल्या कायदेशीर अडचणीबद्दल तीव्र चिंता व्यक्त केली, 'यापेक्षा वाईट काहीच होऊ शकत नाही,' असे म्हटले. स्विफ्ट ट्रॅव्हिस केल्ससोबत तिच्या लग्नाच्या तयारीमध्ये गुंतलेली असताना हे घडले आहे. ही परिस्थिती मित्रांना वैयक्तिक टप्पे आणि बाह्य दबाव यांच्यात संतुलन साधताना येणाऱ्या आव्हानांवर प्रकाश टाकते, ज्यामुळे या प्रसिद्ध जोडीसाठी तणावाचा एक समान क्षण निर्माण झाला आहे."
-            },
-            "hi": {
-                "title": "शादी की योजनाओं के बीच स्विफ्ट ने लाइवली की कानूनी परेशानियों पर प्रतिक्रिया दी",
-                "content": "टेलर स्विफ्ट ने अपनी दोस्त ब्लेक लाइवली की हालिया कानूनी झटके पर गहरी चिंता व्यक्त की, उन्होंने कहा, 'इससे बुरा कुछ नहीं हो सकता।' यह तब हुआ जब स्विफ्ट अपनी शादी की तैयारी ट्रैविस केलसी के साथ जारी रख रही हैं। यह स्थिति व्यक्तिगत मील के पत्थर और बाहरी दबावों से गुजरते हुए दोस्तों को होने वाली चुनौतियों पर प्रकाश डालती है, जिससे इस प्रसिद्ध जोड़ी के लिए साझा तनाव का क्षण पैदा होता है।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPQlhrVVNiTkhDMGZCX1djNG1SZDh2c2dkZVZTZGNUUzBEUmx5RHpVRXhRYXRRVXBMYm1rR3FodnpvRzJIaENva1QxZzR2blVSWWxLWWZWNDRuZG5GN1F2YlZoaHduVjFOY0F6SFhsVnhMeWhQX2dRYjFTbEFFZ2RhQ3J0TFRrZ21UY3Foa1pwSXlvT05na0MwV0NXY1Z0WDFMNGQ5dkFCNXBHOE12ODhieFVGV2llNkVvMnBVSXNqc0NaN3pyTkZkaVpjOTNoTXo1YTFpRHNZRFVBYUpfcmh0UFdseTJzMFN5dEZzNzRtYzFPSXlMLThscmtNRVdjYndBdWpjT0FMWlRvNm5BdklORGpMbHFCN2dZQXdVQjFPcHd5T2tybzdVcDFB0gGqAkFVX3lxTE9CWGtVU2JOSEMwZkJfV2M0bVJkOHZzZ2RlVlNkY1RTMERSbHlEelVFeFFhdFFVcExibWtHcWh2em9HMkhoQ29rVDFnNHZuVVJZbEtZZlY0NG5kbkY3UXZiVmhod25WMU5jQXpIWGxWeEx5aFBfZ1FiMVNsQUVnZGFDcnRMVGtnbVRjcWhrWnBJeW9PTmdrQzBXQ1djVnRYMUw0ZDl2QUI1cEc4TXY4OGJ4VUZXaWU2RW8ycFVJc2pzQ1o3enJORmRpWmM5M2hNejVhMWlEc1lEVUFhSl9yaHRQV2x5MnMwU3l0RnM3NG1jMU9JeUwtOGxya01FV2Nid0F1amNPQUxaVG82bkF2SU5EakxscUI3Z1lBd1VCMU9wd3lPa3JvN1VwMUE?oc=5",
-        "date": "Mon, 06 Apr 2026 10:46:00 GMT"
-    },
-    {
-        "id": "b1f5ab29",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Umpire Fatally Stabbed Over Run-Out Call in Cricket Match",
-                "content": "A cricket match in Andhra Pradesh tragically escalated into fatal violence when an umpire was reportedly stabbed to death following a disputed run-out call. This horrifying incident, reported by Outlook India, underscores the extreme tensions sometimes present in amateur sports. The game turned into a deadly confrontation over a disagreement, prompting serious concerns about safety and sportsmanship."
-            },
-            "kn": {
-                "title": "ಕ್ರಿಕೆಟ್ ಪಂದ್ಯದಲ್ಲಿ ರನ್-ಔಟ್ ನಿರ್ಧಾರಕ್ಕಾಗಿ ಅಂಪೈರ್‌ನನ್ನು ಇರಿದು ಕೊಲೆ",
-                "content": "ಆಂಧ್ರಪ್ರದೇಶದಲ್ಲಿ ನಡೆದ ಕ್ರಿಕೆಟ್ ಪಂದ್ಯವೊಂದು ರನ್-ಔಟ್ ನಿರ್ಧಾರದ ವಿವಾದದ ನಂತರ ಅಂಪೈರ್‌ನನ್ನು ಇರಿದು ಕೊಲೆ ಮಾಡಿದ ಘಟನೆಗೆ ಕಾರಣವಾಗಿ, ದುರಂತವಾಗಿ ಹಿಂಸಾಚಾರಕ್ಕೆ ತಿರುಗಿದೆ. ಔಟ್‌ಲುಕ್ ಇಂಡಿಯಾ ವರದಿ ಮಾಡಿದ ಈ ಭಯಾನಕ ಘಟನೆ, ಹವ್ಯಾಸಿ ಕ್ರೀಡೆಗಳಲ್ಲಿ ಕೆಲವೊಮ್ಮೆ ಇರುವ ತೀವ್ರ ಉದ್ವಿಗ್ನತೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ಒಂದು ಭಿನ್ನಾಭಿಪ್ರಾಯಕ್ಕಾಗಿ ಆಟವು ಮಾರಣಾಂತಿಕ ಸಂಘರ್ಷವಾಗಿ ಮಾರ್ಪಟ್ಟಿದೆ, ಇದು ಸುರಕ್ಷತೆ ಮತ್ತು ಕ್ರೀಡಾ ಮನೋಭಾವದ ಬಗ್ಗೆ ಗಂಭೀರ ಕಳವಳಗಳನ್ನು ಹುಟ್ಟುಹಾಕಿದೆ."
-            },
-            "mr": {
-                "title": "क्रिकेट सामन्यात रन-आउटच्या निर्णयावरून पंचाची चाकूने भोसकून हत्या",
-                "content": "आंध्र प्रदेशातील एका क्रिकेट सामन्यात रन-आउटच्या वादग्रस्त निर्णयावरून एका पंचाला चाकूने भोसकून ठार केल्याने हा सामना दुर्दैवाने जीवघेण्या हिंसाचारात बदलला. आउटलुक इंडियाने दिलेल्या या धक्कादायक घटनेमुळे हौशी खेळांमधील टोकाचा तणाव अधोरेखित होतो. एका मतभेदावरून खेळ जीवघेणा संघर्ष बनला, ज्यामुळे सुरक्षितता आणि खिलाडूवृत्तीबद्दल गंभीर चिंता निर्माण झाली आहे."
-            },
-            "hi": {
-                "title": "क्रिकेट मैच में रन-आउट के फैसले पर अंपायर की चाकू मारकर हत्या",
-                "content": "आंध्र प्रदेश में एक क्रिकेट मैच दुखद रूप से हिंसक हो गया, जब एक विवादित रन-आउट के फैसले के बाद कथित तौर पर एक अंपायर की चाकू मारकर हत्या कर दी गई। आउटलुक इंडिया द्वारा रिपोर्ट की गई यह भयानक घटना, शौकिया खेलों में कभी-कभी मौजूद अत्यधिक तनाव को रेखांकित करती है। एक असहमति के कारण खेल एक घातक टकराव में बदल गया, जिससे सुरक्षा और खेल भावना के बारे में गंभीर चिंताएँ बढ़ गई हैं।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbzE0cVBaTElnN25pWHcyWjhMVzBFUGRIUFNiR2pNTEx6VTRDcUVnak1ldDB3bjJIWldwczFVUU4xM2dPZEk3UUUyaHc4TkVYYVYzS0lFN3BBQ1Z1emlfMVNBam40T1N0bjFsNFIwZVFWMWlueDgtek5WRHZaOHlrUFRLSTRxVzN5dVBxZEdOcjFfU0xmZ3ZkMXp5SnA2bEwxQmp0aDhWWjhZVi1nYlktTmpLbHdqd9IBwwFBVV95cUxNaUpoZ25Cd29SM2FaWm9hOEVzdjRwNl8zUkozdnVxc1lfNVUwVTlHWUtvTHdvYmNxV3hncXhFdnNMYWx4Q1h6bnlORlpKU0pOZ290eE9GYU1zNHNtbkJQWWVOSjNrV21kckF4dlRQN1RtWGQtN2FtOGVHekFaZ1BxTlpwOUpyOEpKQXMwY0tjTG5pQVhQVjMwUlY3bXpwb3hiekt3M01QVERiWlUwbEVuVEYxdm9od2dfOFVORHhlUlU1eEE?oc=5",
-        "date": "Mon, 06 Apr 2026 10:28:42 GMT"
     }
 ]
