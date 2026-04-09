@@ -1,5 +1,55 @@
 [
     {
+        "id": "f01e8739",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "Shubman Gill Fined After GT's Thrilling Win",
+                "content": "Shubman Gill faced a penalty despite Gujarat Titans' thrilling last-ball victory over Delhi Capitals in IPL 2026. The GT captain was fined for a slow over-rate, marring an otherwise perfect winning start to their campaign. Fans wonder if this early setback will impact their season or if GT can overcome it to build momentum."
+            },
+            "kn": {
+                "title": "ಜಿಟಿ ರೋಮಾಂಚಕ ಗೆಲುವಿನ ಬಳಿಕ ಶುಭಮನ್ ಗಿಲ್‌ಗೆ ದಂಡ",
+                "content": "ಐಪಿಎಲ್ 2026ರಲ್ಲಿ ಡೆಲ್ಲಿ ಕ್ಯಾಪಿಟಲ್ಸ್ ವಿರುದ್ಧ ಗುಜರಾತ್ ಟೈಟನ್ಸ್ ರೋಮಾಂಚಕ ಕೊನೆಯ ಎಸೆತದ ಗೆಲುವು ಸಾಧಿಸಿದರೂ, ಶುಭಮನ್ ಗಿಲ್‌ಗೆ ದಂಡ ವಿಧಿಸಲಾಯಿತು. ನಿಧಾನಗತಿಯ ಓವರ್-ರೇಟ್‌ಗಾಗಿ ಜಿಟಿ ನಾಯಕನಿಗೆ ದಂಡ ವಿಧಿಸಲಾಗಿದ್ದು, ಇದು ಅವರ ಅಭಿಯಾನದ ಗೆಲುವಿನ ಆರಂಭಕ್ಕೆ ಹಿನ್ನಡೆಯಾಯಿತು. ಈ ಆರಂಭಿಕ ಹಿನ್ನಡೆ ಅವರ ಸೀಸನ್ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರುತ್ತದೆಯೇ ಅಥವಾ ಜಿಟಿ ಇದನ್ನು ನಿವಾರಿಸಿ ಮುನ್ನಡೆಯುತ್ತದೆಯೇ ಎಂದು ಅಭಿಮಾನಿಗಳು ಆಶ್ಚರ್ಯ ಪಡುತ್ತಿದ್ದಾರೆ."
+            },
+            "mr": {
+                "title": "जीटीच्या थरारक विजयानंतर शुभमन गिलला दंड",
+                "content": "आयपीएल 2026 मध्ये, गुजरात टायटन्सने दिल्ली कॅपिटल्सविरुद्ध शेवटच्या चेंडूवर थरारक विजय मिळवला असला तरी, शुभमन गिलला दंड भरावा लागला. धीम्या गतीच्या ओव्हर-रेटमुळे जीटीच्या कर्णधाराला दंड ठोठावण्यात आला, ज्यामुळे त्यांच्या विजयाच्या सुरुवातीला गालबोट लागले. या सुरुवातीच्या धक्क्याचा त्यांच्या हंगामावर परिणाम होईल की जीटी यातून बाहेर पडून गती कायम राखेल, असा प्रश्न चाहत्यांना पडला आहे."
+            },
+            "hi": {
+                "title": "जीटी की रोमांचक जीत के बाद शुभमन गिल पर लगा जुर्माना",
+                "content": "IPL 2026 में दिल्ली कैपिटल्स के खिलाफ गुजरात टाइटंस की रोमांचक आखिरी गेंद की जीत के बावजूद शुभमन गिल को दंडित किया गया। जीटी के कप्तान पर धीमी ओवर-रेट के लिए जुर्माना लगाया गया, जिससे उनके अभियान की शानदार जीत की शुरुआत पर दाग लग गया। प्रशंसक सोच रहे हैं कि क्या यह शुरुआती झटका उनके सीज़न को प्रभावित करेगा या जीटी इससे उबरकर गति बनाए रख पाएगी।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQQV8tVEVCcHlQYVpJV29LNEZxSUJUVHNHaGpwU0ctbDJCRnFERUpCY2piTjZnWmRTeXhHMTZDb2otamhtQkFmcGxRRmFhQzJ5QldmZFl6eXVnXzRmOTRMVk9FODVRZ1l1aEZ6MTRpSlBxVVhMMzZrLXNqSm9XNExwY1BNX0U0N1hUaEgzTHZEcGxSTEtnaG81T0FJWkdBTVZyYmdickdRWDUxSnZVUEZxUnNSN3RoZzFZNjA1eWt0SEJ5UVVVUmNIZGdSam4xcVFtWmJpMG1DdURoS3JBNGpOT1lQQTFSWExfdGpfU0RwRWd4cHRKaTZIZVF30gH_AUFVX3lxTFBjQUFQeVh5eUtuM2tNVURJV05NMDhtWVBEYWF4NkMwMml5NmpCZWFnNXV3b1pJU3FmWjBjNkIyRVBTeG9zbldrZ2tZdEc3eDZ3Zy1ncnVIbW1QTkZCbzRHcF9DczNQWWdIRncwXzJwc2NEVVZ1d2k3dG1QTV9lVnpDbVJLTENsSVJUdlhiS0YwWTRSUFVOZnJmdnI3emNvUUhDQTc2eVE3ZGhybTkzNGNqUm53RW85OHV2X3RlZUlVT1YzYXdwTEtqSWZLU19HTlpYNF9uS0Z0U2ZTRnJXanJpdllaTG5nVk8zcV9TQWFoTkFaRUFfOWp1cVdkYVJJbw?oc=5",
+        "date": "Thu, 09 Apr 2026 06:06:00 GMT"
+    },
+    {
+        "id": "044525e6",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Vulture Deaths Rock Dudhwa: Poison Suspected",
+                "content": "Dudhwa Tiger Reserve is probing the suspicious deaths of 25 critically endangered vultures in its buffer zone. Authorities suspect the birds consumed poisoned dog carcasses. While post-mortem confirmed a poisonous substance in the dogs, the exact toxin remains unidentified. IVRI Bareilly is assisting the investigation to uncover the cause and prevent further losses to the vulnerable vulture population."
+            },
+            "kn": {
+                "title": "ದುಧ್ವಾದಲ್ಲಿ ಗಿಡುಗಗಳ ಸಾವು: ವಿಷದ ಶಂಕೆ",
+                "content": "ದುಧ್ವಾ ಹುಲಿ ಸಂರಕ್ಷಿತಾರಣ್ಯದಲ್ಲಿ 25 ಅಳಿವಿನಂಚಿನಲ್ಲಿರುವ ಗಿಡುಗಗಳ ಸಾವಿನ ಬಗ್ಗೆ ತನಿಖೆ ನಡೆಯುತ್ತಿದೆ. ಈ ಪಕ್ಷಿಗಳು ವಿಷಪೂರಿತ ನಾಯಿಗಳ ಮೃತದೇಹಗಳನ್ನು ಸೇವಿಸಿರಬಹುದು ಎಂದು ಅಧಿಕಾರಿಗಳು ಶಂಕಿಸಿದ್ದಾರೆ. ನಾಯಿಗಳಲ್ಲಿ ವಿಷಕಾರಿ ವಸ್ತು ಇರುವುದು ಮರಣೋತ್ತರ ಪರೀಕ್ಷೆಯಲ್ಲಿ ದೃಢಪಟ್ಟಿದ್ದರೂ, ನಿಖರವಾದ ವಿಷ ಯಾವುದು ಎಂದು ಇನ್ನೂ ಗುರುತಿಸಲಾಗಿಲ್ಲ. ದುರ್ಬಲ ಗಿಡುಗಗಳ ಜನಸಂಖ್ಯೆಗೆ ಮತ್ತಷ್ಟು ಹಾನಿಯಾಗದಂತೆ ತಡೆಯಲು IVRI ಬರೇಲಿ ತನಿಖೆಗೆ ನೆರವಾಗುತ್ತಿದೆ."
+            },
+            "mr": {
+                "title": "दुधवा येथे गिधाडांचा मृत्यू: विषाची शक्यता",
+                "content": "दुधवा व्याघ्र प्रकल्पातील बफर झोनमध्ये 25 गंभीरपणे धोक्यात असलेल्या गिधाडांच्या संशयास्पद मृत्यूची चौकशी सुरू आहे. या पक्ष्यांनी विषारी कुत्र्यांची मृतदेह खाल्ल्याचा अधिकाऱ्यांचा संशय आहे. कुत्र्यांमध्ये विषारी पदार्थ असल्याची शवविच्छेदन अहवालातून पुष्टी झाली असली तरी, नेमके कोणते विष आहे हे अद्याप ओळखले गेलेले नाही. असुरक्षित गिधाडांच्या लोकसंख्येचे पुढील नुकसान टाळण्यासाठी IVRI बरेली तपासणीत मदत करत आहे."
+            },
+            "hi": {
+                "title": "दुधवा में गिद्धों की मौत: जहर का संदेह",
+                "content": "दुधवा टाइगर रिजर्व अपने बफर जोन में 25 गंभीर रूप से लुप्तप्राय गिद्धों की संदिग्ध मौतों की जांच कर रहा है। अधिकारियों को संदेह है कि पक्षियों ने जहरीले कुत्ते के शवों का सेवन किया है। पोस्टमार्टम में कुत्तों में जहरीले पदार्थ की पुष्टि हुई है, लेकिन सटीक जहर की पहचान अभी बाकी है। कमजोर गिद्धों की आबादी को और नुकसान से बचाने के लिए IVRI बरेली जांच में सहायता कर रहा है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130130249,imgsize-254132.cms",
+        "link": "https://timesofindia.indiatimes.com/india/dudhwa-buffer-zone-staff-collecting-carcasses-after-death-of-25-vultures/articleshow/130129693.cms",
+        "date": "2026-04-09T12:01:21+05:30"
+    },
+    {
         "id": "b4d17403",
         "category": "IPL Scoop",
         "translations": {
@@ -1948,55 +1998,5 @@
         "image": "https://static.toiimg.com/photo/msid-130053542,imgsize-480374.cms",
         "link": "https://timesofindia.indiatimes.com/india/puducherry-polls-rahul-gandhi-promises-full-statehood-for-ut-if-congress-wins/articleshow/130053308.cms",
         "date": "2026-04-06T12:32:55+05:30"
-    },
-    {
-        "id": "94e61887",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Kohli's Explosive IPL Return: No Rust!",
-                "content": "Virat Kohli made an explosive IPL return, proving rest sharpened his game. Fans witnessed 'King Kohli's' vintage, unparalleled form, scoring runs effortlessly. His commanding display showed zero rust, thrilling supporters and solidifying his legend as a consistent performer."
-            },
-            "kn": {
-                "title": "ಕೊಹ್ಲಿಯ ಐಪಿಎಲ್ ಸ್ಫೋಟಕ ಪುನರಾಗಮನ: ತುಕ್ಕು ಹಿಡಿದಿಲ್ಲ!",
-                "content": "ವಿರಾಟ್ ಕೊಹ್ಲಿ ಐಪಿಎಲ್‌ಗೆ ಸ್ಫೋಟಕವಾಗಿ ಮರಳಿದರು, ವಿಶ್ರಾಂತಿ ಅವರ ಆಟವನ್ನು ತೀಕ್ಷ್ಣಗೊಳಿಸಿದೆ ಎಂದು ಸಾಬೀತುಪಡಿಸಿದರು. 'ಕಿಂಗ್ ಕೊಹ್ಲಿ'ಯ ಅಪ್ರತಿಮ ವಿಂಟೇಜ್ ಫಾರ್ಮ್ ಅನ್ನು ನೋಡಿ ಅಭಿಮಾನಿಗಳು ಆನಂದಿಸಿದರು; ಅವರು ಸುಲಭವಾಗಿ ರನ್ ಗಳಿಸಿದರು. ಈ ಪ್ರದರ್ಶನ ತುಕ್ಕು ಹಿಡಿದಿಲ್ಲ ಎಂಬುದನ್ನು ತೋರಿಸಿ, ಬೆಂಬಲಿಗರನ್ನು ರೋಮಾಂಚನಗೊಳಿಸಿತು, ಸ್ಥಿರ ಪ್ರದರ್ಶಕರಾಗಿ ಅವರ ದಂತಕಥೆಯನ್ನು ಗಟ್ಟಿಗೊಳಿಸಿತು."
-            },
-            "mr": {
-                "title": "कोहलीचे आयपीएलमध्ये स्फोटक पुनरागमन: गंज चढलेला नाही!",
-                "content": "विराट कोहलीने आयपीएलमध्ये स्फोटक पुनरागमन केले, विश्रांतीने त्याचा खेळ धारदार बनवला हे सिद्ध केले. चाहत्यांनी 'किंग कोहली'चा जुना, अतुलनीय फॉर्म पाहिला, त्याने सहज धावा केल्या. त्याच्या दमदार प्रदर्शनाने कोणताही 'गंज' नसल्याचे दाखवून दिले, ज्यामुळे चाहते रोमांचित झाले आणि एक सातत्यपूर्ण खेळाडू म्हणून त्याची दंतकथा मजबूत झाली."
-            },
-            "hi": {
-                "title": "कोहली की आईपीएल में धमाकेदार वापसी: विश्राम के बाद भी 'जंग' नहीं!",
-                "content": "विराट कोहली ने आईपीएल में धमाकेदार वापसी की, साबित किया कि विश्राम ने उनके खेल को धारदार बनाया है। प्रशंसकों ने 'किंग कोहली' का पुराना, बेजोड़ फॉर्म देखा, उन्होंने सहजता से रन बनाए। उनके शानदार प्रदर्शन ने जरा भी 'जंग' न लगने का सबूत दिया, जिससे समर्थक रोमांचित हुए और एक निरंतर प्रदर्शन करने वाले दिग्गज के रूप में उनकी ख्याति मजबूत हुई।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZEhaaTVzSVRESGJpVWZ6ZXluWUdqUU5RZHNtV0ZtYzZkaERDZTZTYzNWY05mN01yYTRoMzd3Q2s0RWxnUnV6QlI0NVJKRjR4Z0VEQjhZRTNTNFF4TUZMQk8zLU9FQ1NCWFdWazlDY0RRaFQ2OHhGZE5ScTRtTC1VSTFXZVhWMnJoOFl1OUpNMWlQU3ZXZDFTV0NWS0JaaXBtSFF4OXpoeXdiUXlOQXc?oc=5",
-        "date": "Sun, 05 Apr 2026 18:19:58 GMT"
-    },
-    {
-        "id": "545f7ead",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Pakistan's Ceasefire Plan: Aims to Reopen Strait of Hormuz",
-                "content": "A new report reveals Pakistan has proposed the 'Islamabad Accord,' a comprehensive ceasefire plan, to both the US and Iran. This significant diplomatic overture aims to de-escalate regional tensions and crucially, pave the way for the reopening of the vital Strait of Hormuz. The initiative seeks to ensure maritime security and foster stability amidst ongoing geopolitical challenges."
-            },
-            "kn": {
-                "title": "ಪಾಕಿಸ್ತಾನದ ಕದನ ವಿರಾಮ ಯೋಜನೆ: ಹಾರ್ಮುಜ್ ಜಲಸಂಧಿ ಪುನರಾರಂಭದ ಗುರಿ",
-                "content": "ಹೊಸ ವರದಿಯ ಪ್ರಕಾರ, ಪಾಕಿಸ್ತಾನವು 'ಇಸ್ಲಾಮಾಬಾದ್ ಒಪ್ಪಂದ' ಎಂಬ ಸಮಗ್ರ ಕದನ ವಿರಾಮ ಯೋಜನೆಯನ್ನು ಅಮೆರಿಕ ಮತ್ತು ಇರಾನ್‌ಗೆ ಪ್ರಸ್ತಾಪಿಸಿದೆ. ಈ ಮಹತ್ವದ ರಾಜತಾಂತ್ರಿಕ ಪ್ರಯತ್ನವು ಪ್ರಾದೇಶಿಕ ಉದ್ವಿಗ್ನತೆಯನ್ನು ತಗ್ಗಿಸಲು ಮತ್ತು ನಿರ್ಣಾಯಕವಾಗಿ, ಅತ್ಯಾವಶ್ಯಕ ಹಾರ್ಮುಜ್ ಜಲಸಂಧಿಯನ್ನು ಪುನರಾರಂಭಿಸಲು ದಾರಿ ಮಾಡಿಕೊಡುತ್ತದೆ. ಈ ಉಪಕ್ರಮವು ಕಡಲ ಭದ್ರತೆಯನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು ಮತ್ತು ನಡೆಯುತ್ತಿರುವ ಭೌಗೋಳಿಕ ರಾಜಕೀಯ ಸವಾಲುಗಳ ನಡುವೆ ಸ್ಥಿರತೆಯನ್ನು ಉತ್ತೇಜಿಸಲು ಪ್ರಯತ್ನಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "पाकिस्तानची शस्त्रसंधी योजना: होर्मुझची सामुद्रधुनी पुन्हा उघडण्याचे उद्दिष्ट",
-                "content": "एका नवीन अहवालानुसार, पाकिस्तानने 'इस्लामाबाद करार' नावाची एक व्यापक शस्त्रसंधी योजना अमेरिका आणि इराण या दोघांसमोर मांडली आहे. या महत्त्वपूर्ण राजनैतिक प्रयत्नाचे उद्दिष्ट प्रादेशिक तणाव कमी करणे आणि महत्त्वाचे म्हणजे, अत्यंत आवश्यक होर्मुझची सामुद्रधुनी पुन्हा सुरू करण्याचा मार्ग मोकळा करणे हे आहे. हा उपक्रम सागरी सुरक्षा सुनिश्चित करण्यासाठी आणि सध्याच्या भूराजकीय आव्हानांदरम्यान स्थिरता वाढवण्यासाठी प्रयत्नशील आहे."
-            },
-            "hi": {
-                "title": "पाकिस्तान की युद्धविराम योजना: होर्मुज जलसंधि को फिर से खोलने का लक्ष्य",
-                "content": "एक नई रिपोर्ट से पता चला है कि पाकिस्तान ने अमेरिका और ईरान दोनों को 'इस्लामाबाद समझौते' के रूप में एक व्यापक युद्धविराम योजना प्रस्तावित की है। इस महत्वपूर्ण राजनयिक पहल का उद्देश्य क्षेत्रीय तनाव को कम करना और महत्वपूर्ण रूप से, होर्मुज की महत्वपूर्ण जलसंधि को फिर से खोलने का मार्ग प्रशस्त करना है। यह पहल समुद्री सुरक्षा सुनिश्चित करने और चल रही भू-राजनीतिक चुनौतियों के बीच स्थिरता को बढ़ावा देने का प्रयास करती है।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPcnZDMHh4OUhaNS1zV00zM3VweWdZQ190ckE4NXlmU1RNN180bnVKOFQ3QWZrVlFyY0pSd0lwT3UtcTZWVWNRVXZJUzRsWG1TY0hwcXV4M1VWejNiazBpNEFiT1l0c0pwYnZodWZTR1d2TldXUk1ZTmdWTTFiNEVKZk40bEp2NWZ5TDVLT2dadHRzZUg3dXJ0cjgyOTNCNXBFNG9IeTN6N0hOZ0syX1R2UmlSQk1lVkFWcFdBajFjUm5mNUJpdHVzUFR6SkVSd21YOXd5NGJ5cjlBU0dmRl9Kdmpldkd5RFpOalM2SE1US1hCSHFreVd3YllYdWlnRUxC0gGGAkFVX3lxTE03V3NsZWdUXy05THBJdzlfOEdqY3otbmNmOFNKNGdXZ3NSV2xPbmdkWGZkcWRGQWVEYkNyS0VOTkxtQVVtMXNsTTM4UnhxSzd5bUlremZZWEhTblMzTERrbnRlVS1UeU45MFpKOHZPTV81ckp1NnRwMHJVSnBsTERNVWRiMm9DeFdVSFhwZmdRTXJyX3VqX3cyLW40aEtPU0loQnU0N25lNVJkYTdKVzRwT29CZmUyQlhncFRLNE44SENINmJqMXk4V0dzQ0VfWnpnLXc2MlloWWlzbmRob2pkTmw3b3dRUXJYTlNlVHNlZ2ZkSnZiM3FFTnJGLTloYlhDSkUybVE?oc=5",
-        "date": "Mon, 06 Apr 2026 07:53:25 GMT"
     }
 ]
