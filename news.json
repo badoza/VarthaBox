@@ -1,5 +1,30 @@
 [
     {
+        "id": "e72facbf",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "Thushara Apologises to SLC, May Withdraw IPL NOC Case",
+                "content": "Sri Lankan pacer Dilshan Madushanka Thushara has issued an apology to Sri Lanka Cricket (SLC) and is reportedly contemplating withdrawing his legal case concerning the No Objection Certificate (NOC) for the IPL 2024. This development follows a dispute over his participation. His apology and potential withdrawal could pave the way for a resolution between him and the national board."
+            },
+            "kn": {
+                "title": "ಥುಷಾರಾ ಎಸ್‌ಎಲ್‌ಸಿಗೆ ಕ್ಷಮೆ ಯಾಚಿಸಿದರು, ಐಪಿಎಲ್ ಎನ್‌ಒಸಿ ಪ್ರಕರಣ ಹಿಂಪಡೆಯಬಹುದು",
+                "content": "ಶ್ರೀಲಂಕಾದ ವೇಗದ ಬೌಲರ್ ದಿಲ್ಶಾನ್ ಮಧುಶಂಕಾ ಥುಷಾರಾ ಅವರು ಶ್ರೀಲಂಕಾ ಕ್ರಿಕೆಟ್ (ಎಸ್‌ಎಲ್‌ಸಿ) ಗೆ ಕ್ಷಮೆಯಾಚಿಸಿದ್ದಾರೆ ಮತ್ತು ಐಪಿಎಲ್ 2024 ಗಾಗಿ ನಿರಾಕ್ಷೇಪಣಾ ಪ್ರಮಾಣಪತ್ರ (ಎನ್‌ಒಸಿ) ಕುರಿತ ತಮ್ಮ ಕಾನೂನು ಪ್ರಕರಣವನ್ನು ಹಿಂಪಡೆಯುವ ಬಗ್ಗೆ ಯೋಚಿಸುತ್ತಿದ್ದಾರೆ ಎಂದು ವರದಿಯಾಗಿದೆ. ಅವರ ಭಾಗವಹಿಸುವಿಕೆ ಕುರಿತ ವಿವಾದದ ನಂತರ ಈ ಬೆಳವಣಿಗೆ ನಡೆದಿದೆ. ಅವರ ಕ್ಷಮೆಯಾಚನೆ ಮತ್ತು ಸಂಭಾವ್ಯ ಪ್ರಕರಣ ಹಿಂಪಡೆಯುವಿಕೆ ಅವರಿಗೆ ಮತ್ತು ರಾಷ್ಟ್ರೀಯ ಮಂಡಳಿಗೆ ನಡುವಿನ ಇತ್ಯರ್ಥಕ್ಕೆ ದಾರಿ ಮಾಡಿಕೊಡಬಹುದು."
+            },
+            "mr": {
+                "title": "थुशाराची SLC कडे माफी, IPL NOC प्रकरण मागे घेण्याची शक्यता",
+                "content": "श्रीलंकेचा वेगवान गोलंदाज दिलशान मधुशंका थुशाराने श्रीलंका क्रिकेट (SLC) कडे माफी मागितली आहे आणि तो IPL 2024 साठीच्या ना हरकत प्रमाणपत्रा (NOC) संदर्भातील आपली कायदेशीर केस मागे घेण्याचा विचार करत असल्याची बातमी आहे. त्याच्या सहभागावरून झालेल्या वादामुळे हा विकास घडला आहे. त्याची माफी आणि संभाव्य केस मागे घेणे यामुळे त्याला आणि राष्ट्रीय मंडळाला यांच्यातील वाद मिटवण्यासाठी मार्ग मोकळा होऊ शकतो."
+            },
+            "hi": {
+                "title": "थुशारा ने SLC से मांगी माफी, IPL NOC केस वापस ले सकते हैं",
+                "content": "श्रीलंकाई तेज गेंदबाज दिलशान मधुशंका थुशारा ने श्रीलंका क्रिकेट (SLC) से माफी मांगी है और कथित तौर पर IPL 2024 के लिए अनापत्ति प्रमाण पत्र (NOC) से संबंधित अपना कानूनी मामला वापस लेने पर विचार कर रहे हैं। यह घटनाक्रम उनकी भागीदारी को लेकर हुए विवाद के बाद सामने आया है। उनकी माफी और संभावित मामला वापस लेना उनके और राष्ट्रीय बोर्ड के बीच समाधान का मार्ग प्रशस्त कर सकता है।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZ0ROeDlvcFhIOUNWNF9pNUR4RjFzYzIzanZzM1hxakJ4VTdiNmJBZFF6dHptTk9yNzczaGhIemxSOENzU3RDWVNDT3ZEb1NRY09VYnBhZG1mY0FXWGRLZVVLNlFaTGI4TC01Wjl6NXFhMXgtamlMVGJzUDNuaS1fX2NpZVgyT1NHSjh2V1o4UFNpRTFUQnJZZzVXQVJ1T0lrV0RjdmZRVTNhOVFoaTkwU3hvOGJaZVJPRnJQN28wbEFsRVF0bE43SGRBUkFkaUg4N3VWZFlYTE4wdw?oc=5",
+        "date": "Fri, 10 Apr 2026 13:00:52 GMT"
+    },
+    {
         "id": "64a97599",
         "category": "World",
         "translations": {
@@ -1973,30 +1998,5 @@
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
         "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQOVgwdW9iV1NDNkpuenVlbEJYTFJSemI1Qks5UDY1VTNwY2RDbkYwdjEtdVlyd09GdmdlRk04enhkM2lvVDNJOG1ROVpqa1RqYkdHSWQ1VmtjbTV4aWhDczFKQXlaNmk4cmdjaFJsQWdTaEJfUzQyUE5OSnE1SDM4VWxTR2hZOUJuaWo2cG9rRU9YRzFnMWpMbS1SNjNyQ20yemE0RG1ZbVJKTHBGMG1nLXZSeERRNWNPWTJISFBFV0ZwTFYzeE94RW9VcThGOFRPRkZuSS16MEZxZ21rTXoxV0N0aS1QOFJqdUhtRVZR0gHzAUFVX3lxTFBkRGUwWGVUVnhGdkdMaW9ic0tyVHZyd0UtMnVydFJYVWxUR1d5amEyMXBsUmcyZ2w4OVNZM1I0UVhxLVZUeGlCR1J2T2tPZ1NER2RzM09EQ1prLTZlWXA3UkhmdkRUOEtNSlJncTdlWWdwQi01dHREdlYtTVJFLVdmZ1h1Q0p3Z3Q2enpLNkdaNFd2NVdWeFcyeDBaMXIxSkNCSDVoc3BleFRIeTNqUTI1Z08yZzJSblp3cEw1MzNzc21neFNqVzNHYjdOSkNYRkk4OXhCTjhsVGxGRVc1THc3cVdvME9KU0ZpOEJSRzFLTEYxNA?oc=5",
         "date": "Mon, 06 Apr 2026 20:26:26 GMT"
-    },
-    {
-        "id": "a2bc4487",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Jammu Man Lured to Russia, Dies in Ukraine War",
-                "content": "A 23-year-old Jammu man, Sachin Khajuria, was tragically killed on the Russia-Ukraine war frontlines. Lured to Russia with false promises of a civilian job, he was instead forced into military service. He is the second from Jammu to die in this conflict. Families allege unscrupulous agents are duping Indian youths, sending them to war zones under the guise of lucrative jobs, highlighting a critical issue of exploitation."
-            },
-            "kn": {
-                "title": "ಜಮ್ಮು ವ್ಯಕ್ತಿ ರಷ್ಯಾಕ್ಕೆ ಆಮಿಷಕ್ಕೊಳಗಾಗಿ, ಉಕ್ರೇನ್ ಯುದ್ಧದಲ್ಲಿ ಸಾವು",
-                "content": "ಜಮ್ಮುವಿನ 23 ವರ್ಷದ ಸಚಿನ್ ಖಜೂರಿಯಾ ರಷ್ಯಾ-ಉಕ್ರೇನ್ ಯುದ್ಧಭೂಮಿಯಲ್ಲಿ ದುರಂತವಾಗಿ ಸಾವನ್ನಪ್ಪಿದ್ದಾರೆ. ನಾಗರಿಕ ಉದ್ಯೋಗದ ಸುಳ್ಳು ಭರವಸೆಗಳೊಂದಿಗೆ ರಷ್ಯಾಕ್ಕೆ ಆಮಿಷವೊಡ್ಡಿ, ಅವರನ್ನು ಮಿಲಿಟರಿ ಸೇವೆಗೆ ಬಲವಂತಪಡಿಸಲಾಯಿತು. ಈ ಸಂಘರ್ಷದಲ್ಲಿ ಸಾವನ್ನಪ್ಪಿದ ಜಮ್ಮುವಿನ ಎರಡನೇ ವ್ಯಕ್ತಿ ಇವರು. ಕುಟುಂಬಗಳು ನಿಸ್ಸಂಶಯವಾಗಿರುವ ಏಜೆಂಟರು ಭಾರತೀಯ ಯುವಕರನ್ನು ಮೋಸಗೊಳಿಸಿ, ಲಾಭದಾಯಕ ಉದ್ಯೋಗಗಳ ನೆಪದಲ್ಲಿ ಯುದ್ಧ ವಲಯಗಳಿಗೆ ಕಳುಹಿಸುತ್ತಿದ್ದಾರೆ, ಇದು ಶೋಷಣೆಯ ಗಂಭೀರ ಸಮಸ್ಯೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "जम्मूचा माणूस रशियाला आमिषाने गेला, युक्रेन युद्धात मृत्यू",
-                "content": "जम्मूचा २३ वर्षीय सचिन खजुरिया रशिया-युक्रेन युद्धभूमीवर दुःखदपणे मारला गेला. त्याला नागरी नोकरीच्या खोट्या आश्वासनांनी रशियाला फसवून नेले होते आणि त्याऐवजी त्याला लष्करी सेवेत सक्तीने पाठवले गेले. या संघर्षात जम्मू येथून मरणारा तो दुसरा व्यक्ती आहे. कुटुंबे आरोप करतात की, निर्ढावलेले एजंट भारतीय तरुणांना आकर्षक नोकऱ्यांच्या बहाण्याने युद्धक्षेत्रात पाठवून त्यांची फसवणूक करत आहेत, ज्यामुळे शोषणाचा गंभीर मुद्दा समोर आला आहे."
-            },
-            "hi": {
-                "title": "जम्मू का युवक रूस में नौकरी के बहाने फंसाया गया, यूक्रेन युद्ध में मौत",
-                "content": "जम्मू के 23 वर्षीय सचिन खजूरिया की रूस-यूक्रेन युद्ध मोर्चे पर दुखद मृत्यु हो गई। उन्हें नागरिक नौकरी के झूठे वादों के साथ रूस में फंसाया गया था, लेकिन इसके बजाय सैन्य सेवा में धकेल दिया गया। इस संघर्ष में जम्मू से मरने वाले वह दूसरे व्यक्ति हैं। परिजनों का आरोप है कि बेईमान एजेंट भारतीय युवाओं को आकर्षक नौकरियों के बहाने युद्ध क्षेत्रों में भेजकर धोखा दे रहे हैं, जिससे शोषण का एक गंभीर मुद्दा उजागर हुआ है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-130070719,imgsize-1213383.cms",
-        "link": "https://timesofindia.indiatimes.com/india/jammu-man-lured-into-russian-job-and-sent-to-war-zone-killed/articleshow/130070699.cms",
-        "date": "2026-04-07T01:36:32+05:30"
     }
 ]
