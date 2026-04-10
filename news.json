@@ -1,5 +1,30 @@
 [
     {
+        "id": "9dff40b9",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "OpenAI CEO Lacks Core Tech Skills?",
+                "content": "OpenAI employees reportedly claim CEO Sam Altman lacks fundamental coding knowledge and a deep understanding of machine learning. This surprising revelation from internal sources suggests a potential disconnect between the company's technical core and its leadership, raising questions about his direct involvement in cutting-edge AI development. The claims challenge perceptions of the tech visionary."
+            },
+            "kn": {
+                "title": "ಓಪನ್‌ಎಐ ಸಿಇಒಗೆ ಮೂಲ ತಂತ್ರಜ್ಞಾನ ಕೌಶಲ್ಯಗಳ ಕೊರತೆ ಇದೆಯೇ?",
+                "content": "ಓಪನ್‌ಎಐ ಉದ್ಯೋಗಿಗಳು ಸಿಇಒ ಸ್ಯಾಮ್ ಆಲ್ಟ್‌ಮನ್‌ಗೆ ಕೋಡಿಂಗ್ ಜ್ಞಾನ ಮತ್ತು ಯಂತ್ರ ಕಲಿಕೆಯ ತಿಳುವಳಿಕೆ ಇಲ್ಲ ಎಂದು ಹೇಳಿದ್ದಾರೆ. ಆಂತರಿಕ ಮೂಲಗಳ ಈ ಅಚ್ಚರಿಯ ವರದಿಯು ಕಂಪನಿಯ ತಾಂತ್ರಿಕ ಸಾಮರ್ಥ್ಯ ಮತ್ತು ನಾಯಕತ್ವದ ನಡುವಿನ ಅಂತರವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ಇದು ಸುಧಾರಿತ AI ಅಭಿವೃದ್ಧಿಯಲ್ಲಿ ಅವರ ಪಾತ್ರದ ಬಗ್ಗೆ ಪ್ರಶ್ನೆಗಳನ್ನು ಹುಟ್ಟುಹಾಕುತ್ತದೆ, ತಂತ್ರಜ್ಞಾನ ದೂರದೃಷ್ಟಿಯ ವ್ಯಕ್ತಿಯ ಬಗ್ಗೆ ಇರುವ ಗ್ರಹಿಕೆಗಳನ್ನು ಸವಾಲು ಮಾಡುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "ओपनएआयच्या सीईओकडे तांत्रिक कौशल्यांची कमतरता?",
+                "content": "ओपनएआयच्या कर्मचाऱ्यांनी दावा केला आहे की सीईओ सॅम अल्टमनला कोडिंगचे मूलभूत ज्ञान आणि मशीन लर्निंगची सखोल समज नाही. अंतर्गत सूत्रांकडून आलेल्या या धक्कादायक माहितीमुळे कंपनीच्या तांत्रिक पाया आणि नेतृत्वामध्ये दुरावा असल्याचे दिसते. यामुळे अत्याधुनिक एआय विकासात त्यांच्या भूमिकेबद्दल प्रश्न निर्माण होतात, आणि तंत्रज्ञान दूरदृष्टी असलेल्या व्यक्तीबद्दलच्या समजुतींना आव्हान मिळते."
+            },
+            "hi": {
+                "title": "ओपनएआई के सीईओ में तकनीकी कौशल की कमी?",
+                "content": "ओपनएआई के कर्मचारियों का कहना है कि सीईओ सैम अल्टमैन में कोडिंग का ज्ञान और मशीन लर्निंग की गहरी समझ नहीं है। आंतरिक सूत्रों से यह खुलासा कंपनी के तकनीकी आधार और नेतृत्व के बीच दूरी का संकेत देता है। इससे अत्याधुनिक एआई विकास में उनकी सीधी भूमिका पर सवाल उठते हैं और तकनीकी दूरदर्शी के रूप में उनकी छवि को चुनौती मिलती है।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNZGdjTVRvZ044NjhVRXl0alVZZGdBSW12RGk1TTk4bXd1bE9fUWpKMGFKRU1ZaFJxenlRb0hSS2t0bUdzYmhNSXA2XzdEQTNRQ01ncjFqWExmUWUySUFzckdLVTE0LW1MalRid3NDVUdNZnpIZ0hLREpUU0NVMVVLWE9XTzV6bFRMRkVGTDlwaXc0QmpMUl8yOGQzTno0MmRFbWF4cDdxWGhESkhPLTFwSF9SSkh2UnEtenRCVFFHRHJNNEdITEFtS2NlM1JxcWs1UXR3SDdzbU1jMk5WUW93VzZkc1lCemNhcGRoa21oQXBsVjhzMFRzT9IB-AFBVV95cUxNZGdjTVRvZ044NjhVRXl0alVZZGdBSW12RGk1TTk4bXd1bE9fUWpKMGFKRU1ZaFJxenlRb0hSS2t0bUdzYmhNSXA2XzdEQTNRQ01ncjFqWExmUWUySUFzckdLVTE0LW1MalRid3NDVUdNZnpIZ0hLREpUU0NVMVVLWE9XTzV6bFRMRkVGTDlwaXc0QmpMUl8yOGQzTno0MmRFbWF4cDdxWGhESkhPLTFwSF9SSkh2UnEtenRCVFFHRHJNNEdITEFtS2NlM1JxcWs1UXR3SDdzbU1jMk5WUW93VzZkc1lCemNhcGRoa21oQXBsVjhzMFRzTw?oc=5",
+        "date": "Fri, 10 Apr 2026 11:16:49 GMT"
+    },
+    {
         "id": "8d0e8b8c",
         "category": "Belagavi Core Politics",
         "translations": {
@@ -1973,30 +1998,5 @@
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBIbXRyTi1xWG03Y1Y0MHBFRkR6RFBiOWxDSWVDVm1hQnZGdXFaampURFg0TjdIdkF2bnFlRXlCSDI2TXB1Rmg5b1JjZVo0YmVrMEF4eA?oc=5",
         "date": "Mon, 06 Apr 2026 11:33:16 GMT"
-    },
-    {
-        "id": "322970ea",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "SRH to Lodge BCCI Complaint Over Avesh Khan Boundary Row",
-                "content": "Sunrisers Hyderabad plans to lodge an official complaint with the BCCI regarding a boundary controversy involving Lucknow Super Giants' Avesh Khan during their recent IPL 2026 clash. The incident, which occurred in the SRH vs LSG game, has sparked significant debate and prompted SRH to seek intervention from the league's governing body, highlighting concerns over fair play and umpiring decisions."
-            },
-            "kn": {
-                "title": "ಅವೇಶ್ ಖಾನ್ ಬೌಂಡರಿ ವಿವಾದದ ಬಗ್ಗೆ ಬಿಸಿಸಿಐಗೆ ದೂರು ನೀಡಲು ಎಸ್‌ಆರ್‌ಹೆಚ್ ಸಿದ್ಧತೆ",
-                "content": "ಸನ್‌ರೈಸರ್ಸ್ ಹೈದರಾಬಾದ್ ತಂಡವು ಇತ್ತೀಚಿನ ಐಪಿಎಲ್ 2026 ಪಂದ್ಯದಲ್ಲಿ ಲಕ್ನೋ ಸೂಪರ್ ಜೈಂಟ್ಸ್‌ನ ಅವೇಶ್ ಖಾನ್ ಅವರ ಬೌಂಡರಿ ವಿವಾದದ ಕುರಿತು ಬಿಸಿಸಿಐಗೆ ಅಧಿಕೃತ ದೂರು ನೀಡಲು ಸಿದ್ಧವಾಗಿದೆ. ಎಸ್‌ಆರ್‌ಹೆಚ್ ಮತ್ತು ಎಲ್‌ಎಸ್‌ಜಿ ನಡುವಿನ ಪಂದ್ಯದಲ್ಲಿ ನಡೆದ ಈ ಘಟನೆ ತೀವ್ರ ಚರ್ಚೆಗೆ ಕಾರಣವಾಗಿದೆ. ನ್ಯಾಯಯುತ ಆಟ ಮತ್ತು ಅಂಪೈರಿಂಗ್ ನಿರ್ಧಾರಗಳ ಬಗ್ಗೆ ಕಳವಳ ವ್ಯಕ್ತಪಡಿಸಿ, ಲೀಗ್‌ನ ಆಡಳಿತ ಮಂಡಳಿಯ ಹಸ್ತಕ್ಷೇಪವನ್ನು ಎಸ್‌ಆರ್‌ಹೆಚ್ ಕೋರಿದೆ."
-            },
-            "mr": {
-                "title": "आवेश खान बाउंड्री वादावर SRH कडून BCCI कडे तक्रार",
-                "content": "सनरायझर्स हैदराबादने त्यांच्या अलीकडील आयपीएल 2026 सामन्यात लखनऊ सुपर जायंट्सच्या आवेश खानच्या बाउंड्री वादाबद्दल बीसीसीआयकडे अधिकृत तक्रार दाखल करण्याची योजना आखली आहे. एसआरएच विरुद्ध एलएसजी सामन्यात घडलेल्या या घटनेने मोठी चर्चा घडवून आणली आहे आणि एसआरएचला लीगच्या प्रशासकीय संस्थेकडे हस्तक्षेप मागण्यासाठी प्रवृत्त केले आहे, ज्यामुळे निष्पक्ष खेळ आणि पंचगिरीच्या निर्णयांबाबत चिंता व्यक्त करण्यात आली आहे."
-            },
-            "hi": {
-                "title": "आवेश खान बाउंड्री विवाद पर SRH की BCCI से शिकायत",
-                "content": "सनराइजर्स हैदराबाद ने अपने हालिया आईपीएल 2026 मुकाबले के दौरान लखनऊ सुपर जायंट्स के आवेश खान से जुड़े बाउंड्री विवाद को लेकर बीसीसीआई से आधिकारिक शिकायत दर्ज कराने की योजना बनाई है। SRH बनाम LSG मैच में हुई इस घटना ने काफी बहस छेड़ दी है और SRH ने लीग के शासी निकाय से हस्तक्षेप की मांग की है, जिसमें निष्पक्ष खेल और अंपायरिंग निर्णयों पर चिंता जताई गई है।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNMUJkQWJkeUMzYTFOSVdudkJKSHZTY2pvZDFITXlDNzJ6TXZka1BWZEVCZklUQ3BHWlMzMFJ5YUJLNXpyRjZsSGRya18xcGxsTHdTdXhlbV94R3VPSElySkN2Uk9wZHNkR182cThUZHVSR2JDOGZKZS1UaHlaR2Nuc3hxVXVDMHpIZFhqdmlmY2tvUHRkTnB5eHBQSEh2NS1GQk94TU82eXNnN3JUUkxpRGtPcjl3QkE1SFVoUjhabWxKYU9EZFdhWG5Ib0J0NFBxeHZjMjlySGREb3IwVzJMZnNuZHh5WU41ZGptWTdwQ3lYU19fX3R0a0dDT2hBNnQxZWZN0gGIAkFVX3lxTFA5WGxvVXllcjhoWnBGQ2pQNzEyVHVrSnI3RVJuSnVvdTBMMnR1ZS0tWDN6YnhQZ1lRSzM3MmxicUMyWXUwcXJ6OUdGMW5KS0ZkeHl5NzJRMXNETVBzMFA5TnRLcU1vWFdfVjdDWEt3YnhNYzFDVi1BY3ctbHBlLTQxdTg4aW9Gd09abWdiOWw2dUdjbjY0VWxQcUVXNlVQNElDNm5ZUmoyVEJsVHdySGZzVE40c2d5dUlNX3dXSzI5T3hSWU5kV2d4dkdjR3Vody1EZ251emNlUFRnOEVNVHA2eUN4RG5MUXJDY2xfZFVMc0pXY3pydTRINjZYcFN5bHRWbVc2cmZsag?oc=5",
-        "date": "Mon, 06 Apr 2026 16:10:41 GMT"
     }
 ]
