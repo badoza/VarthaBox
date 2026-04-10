@@ -1,5 +1,30 @@
 [
     {
+        "id": "64a97599",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Ancient Tech Unveiled: YouTuber's Data Illuminates World's Oldest Computer",
+                "content": "A YouTuber's data has significantly advanced scientific understanding of the Antikythera Mechanism, often called the world's oldest computer. This breakthrough provides fresh insights into 2,000 years of computing history, showcasing remarkable ancient technological sophistication. The collaborative discovery highlights the impact of modern digital research on historical revelations."
+            },
+            "kn": {
+                "title": "ಪ್ರಾಚೀನ ತಂತ್ರಜ್ಞಾನ ಅನಾವರಣ: ಯೂಟ್ಯೂಬರ್ ಡೇಟಾದಿಂದ ವಿಶ್ವದ ಅತ್ಯಂತ ಹಳೆಯ ಕಂಪ್ಯೂಟರ್ ಸ್ಪಷ್ಟ",
+                "content": "ಯೂಟ್ಯೂಬರ್‌ನ ಡೇಟಾವು ವಿಶ್ವದ ಅತ್ಯಂತ ಹಳೆಯ ಕಂಪ್ಯೂಟರ್ ಎನಿಸಿಕೊಂಡಿರುವ ಆಂಟಿಕಿಥೆರಾ ಮೆಕ್ಯಾನಿಸಮ್ ಬಗ್ಗೆ ವಿಜ್ಞಾನಿಗಳ ತಿಳುವಳಿಕೆಯನ್ನು ಗಣನೀಯವಾಗಿ ಹೆಚ್ಚಿಸಿದೆ. ಈ ಪ್ರಗತಿಯು 2,000 ವರ್ಷಗಳ ಕಂಪ್ಯೂಟಿಂಗ್ ಇತಿಹಾಸದ ಬಗ್ಗೆ ಹೊಸ ಒಳನೋಟಗಳನ್ನು ನೀಡುತ್ತದೆ, ಇದು ಪ್ರಾಚೀನ ತಾಂತ್ರಿಕ ಜ್ಞಾನವನ್ನು ಪ್ರದರ್ಶಿಸುತ್ತದೆ. ಈ ಸಹಯೋಗದ ಸಂಶೋಧನೆಯು ಐತಿಹಾಸಿಕ ಆವಿಷ್ಕಾರಗಳ ಮೇಲೆ ಆಧುನಿಕ ಡಿಜಿಟಲ್ ಸಂಶೋಧನೆಯ ಪ್ರಭಾವವನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "प्राचीन तंत्रज्ञान उघडकीस: यूट्यूबरच्या डेटाने जगातील सर्वात जुन्या संगणकावर प्रकाश टाकला",
+                "content": "एका यूट्यूबरच्या डेटाने ॲन्टिकीथेरा मेकॅनिझम, ज्याला अनेकदा जगातील सर्वात जुना संगणक म्हटले जाते, त्याबद्दलच्या वैज्ञानिक समजाला लक्षणीयरीत्या प्रगत केले आहे. ही प्रगती 2,000 वर्षांच्या संगणकीय इतिहासात नवीन अंतर्दृष्टी देते, ज्यामुळे प्राचीन तांत्रिक कौशल्याचे प्रदर्शन होते. या सहयोगी शोधातून ऐतिहासिक उलघडणीवर आधुनिक डिजिटल संशोधनाचा प्रभाव अधोरेखित होतो."
+            },
+            "hi": {
+                "title": "प्राचीन तकनीक का अनावरण: यूट्यूबर के डेटा से विश्व के सबसे पुराने कंप्यूटर पर नई रोशनी",
+                "content": "एक यूट्यूबर के डेटा ने एंटीकायथेरा मैकेनिज्म, जिसे अक्सर दुनिया का सबसे पुराना कंप्यूटर कहा जाता है, के बारे में वैज्ञानिक समझ को काफी आगे बढ़ाया है। यह खोज 2,000 वर्षों के कंप्यूटिंग इतिहास में नई अंतर्दृष्टि प्रदान करती है, जो प्राचीन तकनीकी परिष्कार को दर्शाती है। यह सहयोगात्मक खोज ऐतिहासिक खुलासों पर आधुनिक डिजिटल अनुसंधान के प्रभाव को उजागर करती है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130178656,imgsize-86820.cms",
+        "link": "https://timesofindia.indiatimes.com/science/worlds-oldest-computer-revealed-a-youtubers-data-leads-scientists-to-new-insights-into-2000-years-of-computing-history/articleshow/130178482.cms",
+        "date": "2026-04-11T03:00:00+05:30"
+    },
+    {
         "id": "6d58165c",
         "category": "IPL Scoop",
         "translations": {
@@ -1973,30 +1998,5 @@
         "image": "https://static.toiimg.com/photo/msid-130070719,imgsize-1213383.cms",
         "link": "https://timesofindia.indiatimes.com/india/jammu-man-lured-into-russian-job-and-sent-to-war-zone-killed/articleshow/130070699.cms",
         "date": "2026-04-07T01:36:32+05:30"
-    },
-    {
-        "id": "c820ff03",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Hope Blooms: Young Cancer Fighters Visit Tulip Garden",
-                "content": "Young cancer patients from SKIMS found joy and hope during a visit to Srinagar's Tulip Garden. Part of an immunotherapy initiative, the outing aimed to boost their immunity and optimism, offering a vital break from hospital wards. This heartwarming experience provided much-needed reassurance to the children and their families, fostering well-being amidst their challenging fight."
-            },
-            "kn": {
-                "title": "ಆಶಯ ಅರಳಿತು: ಯುವ ಕ್ಯಾನ್ಸರ್ ಹೋರಾಟಗಾರರಿಂದ ಟುಲಿಪ್ ಗಾರ್ಡನ್ ಭೇಟಿ",
-                "content": "SKIMS ನ ಯುವ ಕ್ಯಾನ್ಸರ್ ರೋಗಿಗಳು ಶ್ರೀನಗರದ ಟುಲಿಪ್ ಗಾರ್ಡನ್‌ಗೆ ಭೇಟಿ ನೀಡಿದಾಗ ಸಂತೋಷ ಮತ್ತು ಭರವಸೆಯನ್ನು ಕಂಡುಕೊಂಡರು. ಇಮ್ಯುನೊಥೆರಪಿ ಉಪಕ್ರಮದ ಭಾಗವಾಗಿ, ಈ ವಿಹಾರವು ಅವರ ರೋಗನಿರೋಧಕ ಶಕ್ತಿ ಮತ್ತು ಆಶಾವಾದವನ್ನು ಹೆಚ್ಚಿಸುವ ಗುರಿಯನ್ನು ಹೊಂದಿತ್ತು, ಆಸ್ಪತ್ರೆಯ ವಾರ್ಡ್‌ಗಳಿಂದ ಪ್ರಮುಖ ವಿರಾಮವನ್ನು ನೀಡಿತು. ಈ ಹೃದಯಸ್ಪರ್ಶಿ ಅನುಭವವು ಮಕ್ಕಳು ಮತ್ತು ಅವರ ಕುಟುಂಬಗಳಿಗೆ ಹೆಚ್ಚು ಅಗತ್ಯವಿರುವ ಭರವಸೆಯನ್ನು ಒದಗಿಸಿತು, ಅವರ ಸವಾಲಿನ ಹೋರಾಟದ ನಡುವೆ ಯೋಗಕ್ಷೇಮವನ್ನು ಪೋಷಿಸಿತು."
-            },
-            "mr": {
-                "title": "आशा फुलली: युवा कर्करोगग्रस्त मुलांनी ट्युलिप गार्डनला भेट दिली",
-                "content": "SKIMS मधील तरुण कर्करोगग्रस्तांना श्रीनगरमधील ट्युलिप गार्डनला भेट दिल्यावर आनंद आणि आशा मिळाली. इम्युनोथेरपी उपक्रमाचा भाग म्हणून, या सहलीचा उद्देश त्यांची रोगप्रतिकारशक्ती आणि आशावाद वाढवणे हा होता, ज्यामुळे त्यांना रुग्णालयाच्या वॉर्डमधून महत्त्वाचा ब्रेक मिळाला. या हृदयस्पर्शी अनुभवाने मुलांना आणि त्यांच्या कुटुंबांना आवश्यक असलेला दिलासा दिला, त्यांच्या आव्हानात्मक संघर्षात कल्याण वाढवले."
-            },
-            "hi": {
-                "title": "उम्मीदें खिलीं: युवा कैंसर योद्धाओं ने ट्यूलिप गार्डन का किया दौरा",
-                "content": "SKIMS के युवा कैंसर रोगियों को श्रीनगर के ट्यूलिप गार्डन की यात्रा के दौरान खुशी और उम्मीद मिली. इम्युनोथेरेपी पहल के हिस्से के रूप में, इस सैर का उद्देश्य उनकी रोग प्रतिरोधक क्षमता और आशावाद को बढ़ावा देना था, जिससे उन्हें अस्पताल के वार्डों से एक महत्वपूर्ण ब्रेक मिला. इस दिल छू लेने वाले अनुभव ने बच्चों और उनके परिवारों को बहुत आवश्यक आश्वासन प्रदान किया, जिससे उनके चुनौतीपूर्ण संघर्ष के बीच कल्याण को बढ़ावा मिला."
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-130070796,imgsize-1889817.cms",
-        "link": "https://timesofindia.indiatimes.com/india/wards-to-flowers-tulip-garden-trip-for-young-cancer-fighters/articleshow/130070808.cms",
-        "date": "2026-04-07T01:55:44+05:30"
     }
 ]
