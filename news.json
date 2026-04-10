@@ -1,5 +1,55 @@
 [
     {
+        "id": "dffd9c1e",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "Rathi's Controversial Catch Not Overturned",
+                "content": "Digvesh Rathi's controversial catch of Finn Allen in the LSG vs KKR thriller stood despite replay doubts. The third umpire, citing inconclusive evidence and relying on the on-field soft signal, upheld the dismissal. This decision sparked debate, with replays suggesting the ball might have touched the ground, impacting a crucial moment in the high-stakes match."
+            },
+            "kn": {
+                "title": "ರಾಥಿಯ ವಿವಾದಿತ ಕ್ಯಾಚ್ ಅಸಿಂಧುಗೊಳಿಸಲಾಗಿಲ್ಲ",
+                "content": "ಎಲ್‌ಎಸ್‌ಜಿ ವಿರುದ್ಧ ಕೆಕೆಆರ್‌ನ ರೋಮಾಂಚಕ ಪಂದ್ಯದಲ್ಲಿ ಡಿಗ್ವೇಶ್ ರಾಥಿ ಹಿಡಿದ ಫಿನ್ ಅಲೆನ್‌ನ ವಿವಾದಿತ ಕ್ಯಾಚ್, ರೀಪ್ಲೇ ಅನುಮಾನಗಳ ಹೊರತಾಗಿಯೂ ಅಸಿಂಧುಗೊಳಿಸಲಾಗಿಲ್ಲ. ಮೂರನೇ ಅಂಪೈರ್, ನಿರ್ಣಾಯಕವಲ್ಲದ ಸಾಕ್ಷ್ಯಗಳನ್ನು ಉಲ್ಲೇಖಿಸಿ ಮತ್ತು ಆನ್-ಫೀಲ್ಡ್ ಸಾಫ್ಟ್ ಸಿಗ್ನಲ್ ಅನ್ನು ಅವಲಂಬಿಸಿ, ವಜಾಗೊಳಿಸುವಿಕೆಯನ್ನು ಎತ್ತಿಹಿಡಿದರು. ರೀಪ್ಲೇಗಳು ಚೆಂಡು ನೆಲಕ್ಕೆ ತಗುಲಿರಬಹುದೆಂದು ಸೂಚಿಸಿದ ಕಾರಣ ಈ ನಿರ್ಧಾರವು ಚರ್ಚೆಯನ್ನು ಹುಟ್ಟುಹಾಕಿತು, ಇದು ಉನ್ನತ-ಪಾಲಿನ ಪಂದ್ಯದಲ್ಲಿ ನಿರ್ಣಾಯಕ ಕ್ಷಣದ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರಿತು."
+            },
+            "mr": {
+                "title": "राठीचा वादग्रस्त झेल रद्द नाही",
+                "content": "एलएसजी विरुद्ध केकेआरच्या रोमांचक सामन्यात, रिप्लेमध्ये शंका असतानाही दिग्वेेश राठीने घेतलेला फिन ॲलनचा वादग्रस्त झेल कायम ठेवण्यात आला. तिसऱ्या पंचांनी, अपुरे पुरावे आणि मैदानातील सॉफ्ट सिग्नलचा हवाला देत, बाद करण्याचा निर्णय कायम ठेवला. या निर्णयामुळे वाद निर्माण झाला, कारण रिप्लेमध्ये चेंडू जमिनीला लागला असावा असे दिसत होते, ज्यामुळे या महत्त्वपूर्ण सामन्यातील एका निर्णायक क्षणावर परिणाम झाला."
+            },
+            "hi": {
+                "title": "राठी का विवादास्पद कैच रद्द नहीं",
+                "content": "एलएसजी बनाम केकेआर के रोमांचक मैच में, दिग्वेेश राठी द्वारा फिन एलन का विवादास्पद कैच, रीप्ले में संदेह के बावजूद बरकरार रहा। तीसरे अंपायर ने, अनिर्णायक साक्ष्य का हवाला देते हुए और ऑन-फील्ड सॉफ्ट सिग्नल पर भरोसा करते हुए, आउट के फैसले को बरकरार रखा। इस फैसले ने बहस छेड़ दी, क्योंकि रीप्ले से पता चला कि गेंद शायद जमीन छू गई थी, जिससे इस उच्च-दांव वाले मैच के एक महत्वपूर्ण क्षण पर असर पड़ा।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNRUhDeWxENnpYdXRTX0IxSlQ1dGY5VlJDRGM0U056djNOU25pcFE1T2FGeU5zSkJkTDllR1Y4TUxsYlRRb19BSnhSZTh4R0RReXZoM3hsQklsNnczT2RETWZ2T2dwMGp5SHZLelZ3Zm9xc1NTRmI2UE5zdGlwY1VhZ25PRXdLdnh5ZE5wWWtmTkhQVjRFX05TMm1oYzJZVWFNR2NqRjV4MU96Ull2X2x1Z2phbjhPWi1EenZNVV9sY2JPVHRnSThiTG5BUVpPeTNxSUQ3OTk5Q1RkVzJkbjEyY0JsWEtNMHlsN3RfOFRvcWNLRkgyMF9QS2wyY0lDMXM1bnlUNkUyVHTSAY4CQVVfeXFMTWRvOWV4ZG9lai1mb1pIVzFQSi1mQXRDTEZjZTN3LWZWSVY3UVpTblRueXMyNlBPdDVWbzVHbHNfa1BZbl8yaDFIZ1ZadXdfN0xyVjNzc2JyZWlvdGtiUWQwS3pOSEtTeHA4bWFfNFZNSm1VQTZKa2xrN2ZXQ3d2WFFMYm95eXRUbHB1RjRfMWZKX3ZlSlNDYmkyemZPNm5SMW5nR0dXd1J3ZXotVDN5TTNBUzFmMFVjX240X1Q2TUxkalpfVDB1Vk1mSUNXVjRCQTI0Q2p2Q0wzZFpRY1RfOUJ6UW1JRjdHalR0Y0dLNHU3bFkwdjAxU1ZJSmI3Y1lfdW5SNl81UEpKdUhuR29n?oc=5",
+        "date": "Fri, 10 Apr 2026 00:44:55 GMT"
+    },
+    {
+        "id": "119b7c6d",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "Cowboys Eye Blockbuster WR Trade",
+                "content": "Dallas Cowboys are reportedly considering a significant trade involving their $6 million wide receiver, potentially Michael Gallup. Rumors suggest a blockbuster deal could be on the horizon, with contenders like the Kansas City Chiefs, Las Vegas Raiders, or Los Angeles Chargers emerging as potential trade partners. This move could reshape the Cowboys' roster and impact the receiving corps for the upcoming NFL season."
+            },
+            "kn": {
+                "title": "ಕೌಬಾಯ್ಸ್ ಬ್ಲಾಕ್‌ಬಸ್ಟರ್ WR ವ್ಯಾಪಾರವನ್ನು ನೋಡುತ್ತಿದ್ದಾರೆ",
+                "content": "ಡಲ್ಲಾಸ್ ಕೌಬಾಯ್ಸ್ ತಮ್ಮ $6 ಮಿಲಿಯನ್ ವೈಡ್ ರಿಸೀವರ್, ಬಹುಶಃ ಮೈಕೆಲ್ ಗ್ಯಾಲಪ್ ಅವರನ್ನು ಒಳಗೊಂಡ ಮಹತ್ವದ ವ್ಯಾಪಾರವನ್ನು ಪರಿಗಣಿಸುತ್ತಿದ್ದಾರೆ ಎಂದು ವರದಿಯಾಗಿದೆ. ಕನ್ಸಾಸ್ ಸಿಟಿ ಚೀಫ್ಸ್, ಲಾಸ್ ವೇಗಾಸ್ ರೈಡರ್ಸ್ ಅಥವಾ ಲಾಸ್ ಏಂಜಲೀಸ್ ಚಾರ್ಜರ್ಸ್‌ನಂತಹ ಸ್ಪರ್ಧಿಗಳು ಸಂಭಾವ್ಯ ವ್ಯಾಪಾರ ಪಾಲುದಾರರಾಗಿ ಹೊರಹೊಮ್ಮುವುದರೊಂದಿಗೆ, ಒಂದು ಬ್ಲಾಕ್‌ಬಸ್ಟರ್ ಒಪ್ಪಂದವು ಹತ್ತಿರದಲ್ಲಿದೆ ಎಂದು ವದಂತಿಗಳು ಸೂಚಿಸುತ್ತವೆ. ಈ ಕ್ರಮವು ಕೌಬಾಯ್ಸ್‌ನ ಪಟ್ಟಿಯನ್ನು ಮರುರೂಪಿಸಬಹುದು ಮತ್ತು ಮುಂಬರುವ NFL ಸೀಸನ್‌ಗೆ ರಿಸೀವಿಂಗ್ ಕಾರ್ಪ್ಸ್ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರಬಹುದು."
+            },
+            "mr": {
+                "title": "काउबॉयज ब्लॉकबस्टर डब्ल्यूआर ट्रेडवर लक्ष ठेवून आहेत",
+                "content": "डलास काउबॉयज त्यांच्या $6 दशलक्ष वाइड रिसीव्हर, संभाव्यतः मायकल गॅलप, यांचा समावेश असलेल्या महत्त्वपूर्ण ट्रेडचा विचार करत असल्याचे वृत्त आहे. अफवांनुसार, कॅन्सस सिटी चीफ्स, लास वेगास रायडर्स किंवा लॉस एंजेलिस चार्जर्स यांसारख्या प्रतिस्पर्धकांसह एक ब्लॉकबस्टर करार लवकरच होऊ शकतो. हा बदल काउबॉयजच्या संघाला नव्याने आकार देऊ शकतो आणि आगामी NFL हंगामासाठी रिसीव्हिंग कॉर्प्सवर परिणाम करू शकतो."
+            },
+            "hi": {
+                "title": "काउबॉयज की नजरें ब्लॉकबस्टर WR ट्रेड पर",
+                "content": "डलास काउबॉयज कथित तौर पर अपने 6 मिलियन डॉलर के वाइड रिसीवर, संभावित रूप से माइकल गैलप, से जुड़े एक महत्वपूर्ण व्यापार पर विचार कर रहे हैं। अफवाहों के अनुसार, कैनसस सिटी चीफ्स, लास वेगास रेडर्स या लॉस एंजिल्स चार्जर्स जैसे दावेदारों के साथ एक ब्लॉकबस्टर डील क्षितिज पर हो सकती है। यह कदम काउबॉयज की टीम को नया आकार दे सकता है और आगामी एनएफएल सीज़न के लिए रिसीविंग कॉर्प्स को प्रभावित कर सकता है।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNdFNOX2l4RmxYcDFVZDgwb3V5eVYxQ1p4T3ZGcHdxbDhkVURnYnNvVnlUVTVNYnN1NS1UODZEbTVrNWl0U3g4bWF2RlZVRmFBcXdGLVI0Tkx0UHFvVGlkSXhTZGVzdWtQNTRxZkNqb3A5ME5NajVkYjA1emRLRlkwd01LMDNGdWFmWTdNQk1HUDE4YjRqTk1zNGFGOUVMczM1elRxSUx3QXh5djhMLWxmNDFRbUExZjFMQkRyTDBrSXpJTFpLOTg3VEl4UzVGbWNreS1kTWMzc1FXUVljYmdWREdsNDZJMlEzMDhlMGFUVmExNGVoaUkyVGEzVmU4Y2ppaUdsS1dIRlJsakpJVGNmZE9B0gGXAkFVX3lxTE5Ec2RwVmtORnBTSFNfRjZYM0s0WnkwdVJkQmFveEVpaEpDamloalBILXhwLU5oUWVldFdWQ1pmTjc2YWF1VWxMUlhSYUFHZm9lb2hmVDBZSEZ3cDNDamcwOGJWd3R6bHF5Ym1EQ1FTZVpNVmJQTjl0WnZVZ0NWcl9WbC1kbjY3dVBQZEtVVm1WbnI4YVNPR3RrbHNqMEtMMW5HT25zZVFPcGlXRWJDV1FzS0dONTJrRmZILXFCMGp4X3F5eXM3S3lsYkNsMTVhdHI1THh0ajBHWjlpQzdYTE9KcjJmcU5hQjFWN0xFamtqbjhpcXp5R1J2endyaVpWVXpaTi1OWG80ajBLNDZVU2hGcjlvakJwUQ?oc=5",
+        "date": "Thu, 09 Apr 2026 23:40:00 GMT"
+    },
+    {
         "id": "a7175477",
         "category": "Sports",
         "translations": {
@@ -1948,55 +1998,5 @@
         "image": "https://static.toiimg.com/photo/msid-130064340,imgsize-128292.cms",
         "link": "https://timesofindia.indiatimes.com/india/rajya-sabha-chairman-rejects-impeachment-motion-against-poll-body-chief-gyanesh-kumar/articleshow/130064244.cms",
         "date": "2026-04-06T20:26:49+05:30"
-    },
-    {
-        "id": "aeee6e46",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Delhi Government Committed to Sanitation Workers' Welfare",
-                "content": "Delhi CM Arvind Kejriwal affirmed the government's strong commitment to resolving challenges faced by sanitation workers. He pledged improved working conditions, fair wages, and enhanced social security. The administration aims to implement robust policies ensuring their welfare and dignity, recognizing their vital role in urban sanitation and supporting these essential frontline workers."
-            },
-            "kn": {
-                "title": "ದೆಹಲಿ ಸರ್ಕಾರ ನೈರ್ಮಲ್ಯ ಕಾರ್ಮಿಕರ ಕಲ್ಯಾಣಕ್ಕೆ ಬದ್ಧ",
-                "content": "ದೆಹಲಿ ಮುಖ್ಯಮಂತ್ರಿ ಅರವಿಂದ್ ಕೇಜ್ರಿವಾಲ್ ಅವರು ನೈರ್ಮಲ್ಯ ಕಾರ್ಮಿಕರು ಎದುರಿಸುತ್ತಿರುವ ಸವಾಲುಗಳನ್ನು ಪರಿಹರಿಸಲು ಸರ್ಕಾರದ ಬಲವಾದ ಬದ್ಧತೆಯನ್ನು ಪುನರುಚ್ಚರಿಸಿದರು. ಅವರು ಉತ್ತಮ ಕೆಲಸದ ಪರಿಸ್ಥಿತಿಗಳು, ನ್ಯಾಯಯುತ ವೇತನ ಮತ್ತು ಸುಧಾರಿತ ಸಾಮಾಜಿಕ ಭದ್ರತೆಯನ್ನು ಭರವಸೆ ನೀಡಿದರು. ಆಡಳಿತವು ಅವರ ಕಲ್ಯಾಣ ಮತ್ತು ಘನತೆಯನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು ಬಲವಾದ ನೀತಿಗಳನ್ನು ಜಾರಿಗೊಳಿಸುವ ಗುರಿಯನ್ನು ಹೊಂದಿದೆ, ನಗರ ನೈರ್ಮಲ್ಯದಲ್ಲಿ ಅವರ ಪ್ರಮುಖ ಪಾತ್ರವನ್ನು ಗುರುತಿಸಿ ಈ ಅಗತ್ಯ ಮುಂಚೂಣಿ ಕಾರ್ಯಕರ್ತರನ್ನು ಬೆಂಬಲಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "दिल्ली सरकार स्वच्छता कर्मचाऱ्यांच्या कल्याणासाठी कटिबद्ध",
-                "content": "दिल्लीचे मुख्यमंत्री अरविंद केजरीवाल यांनी स्वच्छता कर्मचाऱ्यांना भेडसावणाऱ्या समस्या सोडवण्यासाठी सरकारच्या तीव्र वचनबद्धतेची पुष्टी केली. त्यांनी सुधारलेल्या कामाची परिस्थिती, योग्य वेतन आणि वर्धित सामाजिक सुरक्षेचे आश्वासन दिले. प्रशासन त्यांच्या कल्याणाची आणि सन्मानाची खात्री करणाऱ्या मजबूत धोरणांची अंमलबजावणी करण्याचे उद्दिष्ट ठेवते, शहरी स्वच्छतेमधील त्यांची महत्त्वाची भूमिका ओळखून या आवश्यक आघाडीच्या कर्मचाऱ्यांचे समर्थन करते."
-            },
-            "hi": {
-                "title": "दिल्ली सरकार स्वच्छता कर्मचारियों के कल्याण के लिए प्रतिबद्ध",
-                "content": "दिल्ली के मुख्यमंत्री अरविंद केजरीवाल ने स्वच्छता कर्मचारियों के सामने आने वाली चुनौतियों को हल करने के लिए सरकार की मजबूत प्रतिबद्धता दोहराई। उन्होंने बेहतर कामकाजी परिस्थितियों, उचित मजदूरी और बढ़ी हुई सामाजिक सुरक्षा का वादा किया। प्रशासन का लक्ष्य उनके कल्याण और गरिमा सुनिश्चित करने वाली मजबूत नीतियों को लागू करना है, शहरी स्वच्छता में उनकी महत्वपूर्ण भूमिका को पहचानते हुए इन आवश्यक अग्रिम पंक्ति के कर्मचारियों का समर्थन करना।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-130061687,imgsize-102338.cms",
-        "link": "https://timesofindia.indiatimes.com/india/delhi-government-committed-to-address-issues-faced-by-sanitation-workers-cm-gupta/articleshow/130061546.cms",
-        "date": "2026-04-06T18:19:16+05:30"
-    },
-    {
-        "id": "7f2b9681",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "SC Orders Bengal Chief Secy to Apologize Over Malda Attack",
-                "content": "The Supreme Court strongly criticized West Bengal's law and order breakdown after judicial officers were attacked in Malda during voter list adjudication. It issued show-cause notices to the Chief Secretary, DGP, DM, and SP, questioning why action shouldn't be taken. The court also specifically asked Bengal's top bureaucrat to apologize for the incident, emphasizing accountability."
-            },
-            "kn": {
-                "title": "ಮಾಲ್ಡಾ ದಾಳಿ ಕುರಿತು ಕ್ಷಮೆಯಾಚಿಸುವಂತೆ ಬಂಗಾಳದ ಮುಖ್ಯ ಕಾರ್ಯದರ್ಶಿಗೆ ಸುಪ್ರೀಂ ಕೋರ್ಟ್ ಆದೇಶ",
-                "content": "ಮತದಾರರ ಪಟ್ಟಿ ಪರಿಶೀಲನೆ ವೇಳೆ ಮಾಲ್ಡಾದಲ್ಲಿ ನ್ಯಾಯಾಂಗ ಅಧಿಕಾರಿಗಳ ಮೇಲೆ ನಡೆದ ದಾಳಿಯ ನಂತರ ಪಶ್ಚಿಮ ಬಂಗಾಳದ ಕಾನೂನು ಸುವ್ಯವಸ್ಥೆಯ ಕುಸಿತವನ್ನು ಸುಪ್ರೀಂ ಕೋರ್ಟ್ ತೀವ್ರವಾಗಿ ಟೀಕಿಸಿತು. ಮುಖ್ಯ ಕಾರ್ಯದರ್ಶಿ, ಡಿಜಿಪಿ, ಜಿಲ್ಲಾಧಿಕಾರಿ ಮತ್ತು ಎಸ್‌ಪಿಗೆ ಶೋಕಾಸ್ ನೋಟಿಸ್ ಜಾರಿಗೊಳಿಸಿದ್ದು, ಅವರ ವಿರುದ್ಧ ಏಕೆ ಕ್ರಮ ಕೈಗೊಳ್ಳಬಾರದು ಎಂದು ಪ್ರಶ್ನಿಸಿದೆ. ಘಟನೆಗೆ ಬಂಗಾಳದ ಉನ್ನತ ಅಧಿಕಾರಿಯನ್ನು ಕ್ಷಮೆಯಾಚಿಸುವಂತೆ ನ್ಯಾಯಾಲಯವು ನಿರ್ದಿಷ್ಟವಾಗಿ ಕೇಳಿದ್ದು, ಜವಾಬ್ದಾರಿಯನ್ನು ಒತ್ತಿಹೇಳಿದೆ."
-            },
-            "mr": {
-                "title": "मालदा हल्ल्याप्रकरणी माफी मागण्याचे सर्वोच्च न्यायालयाचे बंगालच्या मुख्य सचिवांना आदेश",
-                "content": "मतदार यादीच्या छाननीदरम्यान मालदामध्ये न्यायिक अधिकाऱ्यांवर झालेल्या हल्ल्यानंतर सर्वोच्च न्यायालयाने पश्चिम बंगालमधील कायदा आणि सुव्यवस्थेच्या बिघाडावर तीव्र नाराजी व्यक्त केली. मुख्य सचिव, डीजीपी, जिल्हाधिकारी आणि एसपी यांना कारवाई का करू नये, अशी विचारणा करत कारणे दाखवा नोटीस बजावली. न्यायालयाने बंगालच्या सर्वोच्च नोकरशहाला घटनेबद्दल माफी मागण्यास सांगितले, ज्यामुळे जबाबदारीवर भर दिला गेला."
-            },
-            "hi": {
-                "title": "सुप्रीम कोर्ट ने मालदा हमले को लेकर बंगाल के मुख्य सचिव को माफी मांगने का आदेश दिया",
-                "content": "सुप्रीम कोर्ट ने मतदाता सूची के निपटान के दौरान मालदा में न्यायिक अधिकारियों पर हुए हमले के बाद पश्चिम बंगाल में कानून-व्यवस्था की स्थिति बिगड़ने पर कड़ी नाराजगी जताई। इसने मुख्य सचिव, डीजीपी, डीएम और एसपी को कारण बताओ नोटिस जारी कर पूछा कि उनके खिलाफ कार्रवाई क्यों नहीं की जानी चाहिए। कोर्ट ने विशेष रूप से बंगाल के शीर्ष नौकरशाह को इस घटना के लिए माफी मांगने को कहा, जिसमें जवाबदेही पर जोर दिया गया।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-130061619,imgsize-146674.cms",
-        "link": "https://timesofindia.indiatimes.com/india/sc-asks-bengals-top-bureaucrat-to-apologise-over-siege-of-sir-officers-in-malda/articleshow/130061354.cms",
-        "date": "2026-04-06T18:16:13+05:30"
     }
 ]
