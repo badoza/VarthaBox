@@ -1,5 +1,30 @@
 [
     {
+        "id": "d17fdc77",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Islamabad on High Alert: Serena Hotel Secured for US-Iran Talks",
+                "content": "Islamabad is under heightened security ahead of crucial US-Iran diplomatic talks. The city's iconic Serena Hotel, the expected venue, has been transformed into a fortress with intensified surveillance and restricted access. These stringent measures are implemented to ensure the safety of all attending delegates during the pivotal discussions."
+            },
+            "kn": {
+                "title": "ಇಸ್ಲಾಮಾಬಾದ್ ಹೈ ಅಲರ್ಟ್‌ನಲ್ಲಿ: ಯುಎಸ್-ಇರಾನ್ ಮಾತುಕತೆಗಾಗಿ ಸೆರೆನಾ ಹೋಟೆಲ್ ಭದ್ರಗೊಳಿಸಲಾಗಿದೆ",
+                "content": "ಯುಎಸ್-ಇರಾನ್ ನಡುವಿನ ನಿರ್ಣಾಯಕ ರಾಜತಾಂತ್ರಿಕ ಮಾತುಕತೆಗಳ ಮೊದಲು ಇಸ್ಲಾಮಾಬಾದ್‌ನಲ್ಲಿ ಭದ್ರತೆಯನ್ನು ಹೆಚ್ಚಿಸಲಾಗಿದೆ. ನಗರದ ಪ್ರಸಿದ್ಧ ಸೆರೆನಾ ಹೋಟೆಲ್, ನಿರೀಕ್ಷಿತ ಸ್ಥಳ, ತೀವ್ರ ನಿಗಾ ಮತ್ತು ನಿರ್ಬಂಧಿತ ಪ್ರವೇಶದೊಂದಿಗೆ ಕೋಟೆಯಾಗಿ ಮಾರ್ಪಟ್ಟಿದೆ. ಈ ಕಠಿಣ ಕ್ರಮಗಳನ್ನು ಪ್ರಮುಖ ಚರ್ಚೆಗಳ ಸಮಯದಲ್ಲಿ ಭಾಗವಹಿಸುವ ಎಲ್ಲಾ ಪ್ರತಿನಿಧಿಗಳ ಸುರಕ್ಷತೆಯನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು ಜಾರಿಗೆ ತರಲಾಗಿದೆ."
+            },
+            "mr": {
+                "title": "इस्लामाबादमध्ये हाय अलर्ट: अमेरिका-इराण चर्चेसाठी सेरेना हॉटेल सुरक्षित",
+                "content": "अमेरिका-इराण यांच्यातील महत्त्वाच्या राजनैतिक चर्चांपूर्वी इस्लामाबादमध्ये कडक सुरक्षा व्यवस्था ठेवण्यात आली आहे. शहरातील प्रसिद्ध सेरेना हॉटेल, जे अपेक्षित स्थळ आहे, त्याला वाढीव पाळत आणि प्रतिबंधित प्रवेशामुळे किल्ल्याचे स्वरूप दिले आहे. या कठोर उपाययोजना महत्त्वाच्या चर्चेदरम्यान उपस्थित सर्व प्रतिनिधींच्या सुरक्षिततेची खात्री करण्यासाठी लागू करण्यात आल्या आहेत."
+            },
+            "hi": {
+                "title": "इस्लामाबाद हाई अलर्ट पर: अमेरिका-ईरान वार्ता के लिए सेरेना होटल सुरक्षित",
+                "content": "अमेरिका-ईरान के बीच महत्वपूर्ण राजनयिक वार्ताओं से पहले इस्लामाबाद में सुरक्षा बढ़ा दी गई है। शहर का प्रतिष्ठित सेरेना होटल, जो अपेक्षित स्थल है, को गहन निगरानी और प्रतिबंधित पहुंच के साथ एक किले में बदल दिया गया है। ये कड़े उपाय महत्वपूर्ण चर्चाओं के दौरान उपस्थित सभी प्रतिनिधियों की सुरक्षा सुनिश्चित करने के लिए लागू किए गए हैं।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130158942,imgsize-68088.cms",
+        "link": "https://timesofindia.indiatimes.com/world/pakistan/islamabad-put-under-lockdown-as-pakistan-preps-to-host-us-iran-talks/articleshow/130157651.cms",
+        "date": "2026-04-10T08:39:29+05:30"
+    },
+    {
         "id": "dffd9c1e",
         "category": "IPL Scoop",
         "translations": {
@@ -1973,30 +1998,5 @@
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
         "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQM3FYZ1I0NTc5dHVzUjBKQnh5ck1HSTE0dlNjZjd5a3lzTTdEVG9qVmo3QUplMTBsMHo1eS1BS3A4bHMydEFtZGMwQVRDMmN2LVVCTWhqNkNTWldhM1V3M29yMkNvTlBSNWs1cWczY2Y5VTU0MG5NOHl1NkJqRzFrUGljTFhpU3ItYnhUX244bTktbHJIc1lGQ1FGSTRfVW81emhTcHFvQmVWeWs1RFBqbW9hQ2NVOFVIUENNUlY1NW9ZdmR4TTQ3cFdWbHg1RS1ibGVBdmhITGlsNkhlXzc3ZU1HeEc3eXd3VGlj?oc=5",
         "date": "Mon, 06 Apr 2026 06:33:06 GMT"
-    },
-    {
-        "id": "103aa9ee",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Rajya Sabha Chairman Rejects EC Impeachment Bid",
-                "content": "Rajya Sabha Chairman rejected an impeachment motion against Election Commissioner Gyanesh Kumar. The opposition-backed notice cited seven charges, including alleged partisan conduct, mass disenfranchisement, and controversial handling of past and upcoming elections in states like Bihar and West Bengal. This decision blocks a significant attempt to remove the poll body chief."
-            },
-            "kn": {
-                "title": "ರಾಜ್ಯಸಭಾ ಅಧ್ಯಕ್ಷರಿಂದ ಚುನಾವಣಾ ಆಯುಕ್ತರ ವಾಗ್ದಂಡನೆ ಪ್ರಸ್ತಾವ ತಿರಸ್ಕಾರ",
-                "content": "ರಾಜ್ಯಸಭಾ ಅಧ್ಯಕ್ಷರು ಚುನಾವಣಾ ಆಯುಕ್ತ ಜ್ಞಾನೇಶ್ ಕುಮಾರ್ ವಿರುದ್ಧದ ವಾಗ್ದಂಡನೆ ಪ್ರಸ್ತಾವನೆಯನ್ನು ತಿರಸ್ಕರಿಸಿದ್ದಾರೆ. ವಿರೋಧ ಪಕ್ಷದ ಬೆಂಬಲಿತ ನೋಟಿಸ್, ಪಕ್ಷಪಾತದ ವರ್ತನೆ, ಮತದಾರರ ಸಾಮೂಹಿಕ ಹಕ್ಕುಚ್ಯುತಿ, ಮತ್ತು ಬಿಹಾರ, ಪಶ್ಚಿಮ ಬಂಗಾಳದಂತಹ ರಾಜ್ಯಗಳಲ್ಲಿ ಹಿಂದಿನ ಮತ್ತು ಮುಂಬರುವ ಚುನಾವಣೆಗಳ ವಿವಾದಾತ್ಮಕ ನಿರ್ವಹಣೆ ಸೇರಿದಂತೆ ಏಳು ಆರೋಪಗಳನ್ನು ಉಲ್ಲೇಖಿಸಿತ್ತು. ಈ ನಿರ್ಧಾರವು ಚುನಾವಣಾ ಆಯುಕ್ತರನ್ನು ಪದಚ್ಯುತಗೊಳಿಸುವ ಪ್ರಮುಖ ಪ್ರಯತ್ನವನ್ನು ತಡೆದಿದೆ."
-            },
-            "mr": {
-                "title": "राज्यसभा अध्यक्षांनी निवडणूक आयुक्तांवरील महाभियोग प्रस्ताव फेटाळला",
-                "content": "राज्यसभा अध्यक्षांनी निवडणूक आयुक्त ज्ञानेश कुमार यांच्यावरील महाभियोग प्रस्ताव फेटाळला. विरोधकांनी पाठिंबा दिलेल्या नोटीसमध्ये कथित पक्षपाती वर्तन, मतदारांना मोठ्या प्रमाणावर मतदानापासून वंचित ठेवणे आणि बिहार व पश्चिम बंगालसारख्या राज्यांमधील मागील व आगामी निवडणुकांचे वादग्रस्त व्यवस्थापन यासह सात आरोपांचा उल्लेख होता. या निर्णयामुळे निवडणूक आयुक्तांना पदावरून हटवण्याचा एक महत्त्वाचा प्रयत्न थांबला आहे."
-            },
-            "hi": {
-                "title": "राज्यसभा अध्यक्ष ने चुनाव आयुक्त के महाभियोग प्रस्ताव को खारिज किया",
-                "content": "राज्यसभा अध्यक्ष ने चुनाव आयुक्त ज्ञानेश कुमार के खिलाफ महाभियोग प्रस्ताव खारिज कर दिया है। विपक्ष समर्थित नोटिस में पक्षपातपूर्ण आचरण, मतदाताओं को बड़े पैमाने पर मताधिकार से वंचित करने और बिहार व पश्चिम बंगाल जैसे राज्यों में पिछली व आगामी चुनावों के विवादास्पद संचालन सहित सात आरोप लगाए गए थे। इस निर्णय से चुनाव आयोग प्रमुख को हटाने का एक महत्वपूर्ण प्रयास रुक गया है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-130064340,imgsize-128292.cms",
-        "link": "https://timesofindia.indiatimes.com/india/rajya-sabha-chairman-rejects-impeachment-motion-against-poll-body-chief-gyanesh-kumar/articleshow/130064244.cms",
-        "date": "2026-04-06T20:26:49+05:30"
     }
 ]
