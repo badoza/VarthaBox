@@ -1,5 +1,55 @@
 [
     {
+        "id": "4db8948c",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "Ryan Reynolds a Witness in Blake Lively's Legal Battle",
+                "content": "Ryan Reynolds has been named as a witness in the ongoing legal dispute involving his wife, Blake Lively, and actor Justin Baldoni. The 'Deadpool' star's involvement comes as Lively and Baldoni are reportedly locked in a legal battle, though the specifics of the case remain private. Reynolds' testimony could play a crucial role in the proceedings, drawing significant media attention to the celebrity-involved court case."
+            },
+            "kn": {
+                "title": "ರಿಯಾನ್ ರೆನಾಲ್ಡ್ಸ್ ಬ್ಲೇಕ್ ಲೈವ್ಲಿಯ ಕಾನೂನು ಹೋರಾಟದಲ್ಲಿ ಸಾಕ್ಷಿ",
+                "content": "ರಿಯಾನ್ ರೆನಾಲ್ಡ್ಸ್ ತನ್ನ ಪತ್ನಿ ಬ್ಲೇಕ್ ಲೈವ್ಲಿ ಮತ್ತು ನಟ ಜಸ್ಟಿನ್ ಬಾಲ್ಡೋನಿ ನಡುವಿನ ಕಾನೂನು ವಿವಾದದಲ್ಲಿ ಸಾಕ್ಷಿಯಾಗಿ ಹೆಸರಿಸಲ್ಪಟ್ಟಿದ್ದಾರೆ. 'ಡೆಡ್‌ಪೂಲ್' ನಟನ ಭಾಗವಹಿಸುವಿಕೆ ಲೈವ್ಲಿ ಮತ್ತು ಬಾಲ್ಡೋನಿ ಕಾನೂನು ಹೋರಾಟದಲ್ಲಿ ಸಿಕ್ಕಿಹಾಕಿಕೊಂಡಿರುವ ವರದಿಗಳ ನಡುವೆ ಬರುತ್ತದೆ, ಆದರೂ ಪ್ರಕರಣದ ನಿರ್ದಿಷ್ಟತೆಗಳು ಖಾಸಗಿಯಾಗಿವೆ. ರೆನಾಲ್ಡ್ಸ್ ಅವರ ಸಾಕ್ಷ್ಯವು ಪ್ರಕ್ರಿಯೆಗಳಲ್ಲಿ ನಿರ್ಣಾಯಕ ಪಾತ್ರ ವಹಿಸಬಹುದು, ಸೆಲೆಬ್ರಿಟಿ-ಸಂಬಂಧಿತ ಪ್ರಕರಣಕ್ಕೆ ಮಾಧ್ಯಮ ಗಮನವನ್ನು ಸೆಳೆಯುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "ब्लेक लाईव्हलीच्या कायदेशीर लढ्यात रायन रेनॉल्ड्स साक्षीदार",
+                "content": "रायन रेनॉल्ड्सला त्याची पत्नी ब्लेक लाईव्हली आणि अभिनेता जस्टिन बाल्डोनी यांच्यातील कायदेशीर वादात साक्षीदार म्हणून नाव देण्यात आले आहे. 'डेडपूल' स्टारचा सहभाग लाईव्हली आणि बाल्डोनी कायदेशीर लढ्यात अडकल्याचे वृत्त असताना आला आहे, तरीही प्रकरणाची माहिती खाजगी आहे. रेनॉल्ड्सची साक्ष कार्यवाहीत महत्त्वाची भूमिका बजावू शकते, ज्यामुळे सेलेब्रिटी-संबंधित प्रकरणाकडे माध्यमांचे लक्ष वेधले जाईल."
+            },
+            "hi": {
+                "title": "ब्लेक लाइवली के कानूनी विवाद में रयान रेनॉल्ड्स बने गवाह",
+                "content": "रयान रेनॉल्ड्स को अपनी पत्नी ब्लेक लाइवली और अभिनेता जस्टिन बाल्डोनी के बीच कानूनी विवाद में गवाह के रूप में नामित किया गया है। 'डेडपूल' स्टार की यह भागीदारी ऐसे समय में आई है जब लाइवली और बाल्डोनी कानूनी लड़ाई में उलझे हुए हैं, हालांकि मामले का विवरण निजी है। रेनॉल्ड्स की गवाही कार्यवाही में महत्वपूर्ण भूमिका निभा सकती है, जिससे इस सेलेब्रिटी-संबंधित अदालत मामले पर मीडिया का काफी ध्यान आकर्षित होगा।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ0VLNlFRWkRVTW84WFFRMzFwelRXWTdaU1YzdjNIVDRwZS1wY2tsYTUzN25FMnJEWWp3LW5LMFh6a2tadXVlUkQzX0tIOWZDZ2dvVnpTdjZ5dFZDOUktZlFtVld5R3JDRnRrcjQ3OVB6Rjg3VFh0NERtY0NTdktkejFYMEkxUHVqZDV2ZFJYdVpaMUpqbEFaelZrdmJKZFY0VUh6N1FfR054dm5kS2E2OWFhYUpuQQ?oc=5",
+        "date": "Sat, 11 Apr 2026 19:24:56 GMT"
+    },
+    {
+        "id": "314a7291",
+        "category": "Sports",
+        "translations": {
+            "en": {
+                "title": "Dhoni's CSK Return: Gaikwad Offers Hope",
+                "content": "Fans eagerly await MS Dhoni's return to CSK amid a calf strain. Captain Ruturaj Gaikwad provided an update, confirming Dhoni is supporting the team from the hotel and will be back on the field soon. As CSK seeks its first win, Gaikwad's words offer hope for a quick comeback from the legendary skipper."
+            },
+            "kn": {
+                "title": "ಧೋನಿ CSK ಮರಳುವಿಕೆ: ಗಾಯಕ್ವಾಡ್ ಭರವಸೆ",
+                "content": "ಕರು ಸ್ನಾಯು ಸೆಳೆತದ ನಡುವೆ ಎಂ.ಎಸ್. ಧೋನಿ ಅವರ CSK ಗೆ ಮರಳುವಿಕೆಯನ್ನು ಅಭಿಮಾನಿಗಳು ಕಾತುರದಿಂದ ನಿರೀಕ್ಷಿಸುತ್ತಿದ್ದಾರೆ. ನಾಯಕ ರುತುರಾಜ್ ಗಾಯಕ್ವಾಡ್ ಅವರು, ಧೋನಿ ಹೋಟೆಲ್‌ನಿಂದ ತಂಡವನ್ನು ಬೆಂಬಲಿಸುತ್ತಿದ್ದಾರೆ ಮತ್ತು ಶೀಘ್ರದಲ್ಲೇ ಮೈದಾನಕ್ಕೆ ಮರಳುತ್ತಾರೆ ಎಂದು ಖಚಿತಪಡಿಸಿದರು. CSK ತನ್ನ ಮೊದಲ ಗೆಲುವನ್ನು ಹುಡುಕುತ್ತಿರುವಾಗ, ಗಾಯಕ್ವಾಡ್ ಅವರ ಮಾತುಗಳು ಈ ಪೌರಾಣಿಕ ನಾಯಕನ ಶೀಘ್ರ ಮರಳುವಿಕೆಗೆ ಭರವಸೆ ನೀಡುತ್ತವೆ."
+            },
+            "mr": {
+                "title": "धोनीचे CSK पुनरागमन: गायकवाड यांचा आशावाद",
+                "content": "पोटरीच्या दुखापतीमुळे एमएस धोनीच्या सीएसकेमध्ये परतण्याची चाहते उत्सुकतेने वाट पाहत आहेत. कर्णधार ऋतुराज गायकवाडने माहिती दिली की धोनी हॉटेलमधून संघाला पाठिंबा देत आहे आणि लवकरच मैदानात परत येईल. सीएसके हंगामातील पहिल्या विजयाच्या शोधात असताना, गायकवाड यांचे शब्द या महान कर्णधाराच्या लवकर पुनरागमनाची आशा देतात."
+            },
+            "hi": {
+                "title": "धोनी की CSK वापसी: गायकवाड़ ने दी उम्मीद",
+                "content": "पिंडली में खिंचाव के चलते एमएस धोनी की सीएसके में वापसी का प्रशंसक बेसब्री से इंतजार कर रहे हैं। कप्तान ऋतुराज गायकवाड़ ने अपडेट दिया कि धोनी होटल से टीम का समर्थन कर रहे हैं और जल्द ही मैदान पर लौटेंगे। जैसे ही सीएसके अपनी पहली जीत की तलाश में है, गायकवाड़ के शब्द महान कप्तान की जल्द वापसी की उम्मीद जगाते हैं।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130193344,imgsize-51568.cms",
+        "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/when-will-ms-dhoni-return-ruturaj-gaikwad-provides-big-update-says-for-those-asking-/articleshow/130193350.cms",
+        "date": "2026-04-11T19:26:42+05:30"
+    },
+    {
         "id": "2ae07f1b",
         "category": "IPL Scoop",
         "translations": {
@@ -1948,55 +1998,5 @@
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
         "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQaHhtcmUtMEhUTUxya3dYMm40TnExdTBGZmZjMDhTdE85RDVsM3ZJQ1o5U05jd1EzcTYyaWlEd0JqS092ZjBodGE2Unh0cnJjRDAyYlRfbGNNUUg0U0pEODdDWDVkV1EzLVU0b0E0dWZBczd5WDNVYlV1OXBESU1rb2EtOGtySTd2QXJQYUgtN1lNNUQ1T2JqcS1LU0R3Rzd0T1duSVRUd0stajhqZUtSOW5aRlBCaGNsVUdIQnVZbGtlX1JGengtei1VMTU0c1RPTEN4cDZWNm9CcHZlQkszZU9wNHMzaHlNVkR5anZaUzZuX0tUNklObGRIOVpJRnpQX1ZzQ1JnX0pMcnlxcGhsOUJkdHZUNVNoREHSAZ8CQVVfeXFMTkt4S3h2SHU2YXkzU2daNjg0c2FtYkMzYmxkUW5QQzhnbUdBVE84OERRcnBRQXd1eDNIcFB4cnBxOHJXU2F1clVaNWdOaXJBX1I4ZTJCT2FScTZ3ajlqcW5VSlVVWnUwampCYkdOWU03cFl6MzgzN0htRFVSQVA1aV9xUnhDQ211VlB2N2VoSDktc1B1bElSbmh0VlhmNnRJbnZBYUFQWEh2Q3REM0hXUS1tRTJXV1dQVE1CbFNpYUoxRWdYNk1KendYUFFYeUcycWJlVXdNUzRxWVJPb25QQlU3UVd3U2JpeW92ZHdNTVpXZUR2UXktdC1RTTgxNUNJWTVaWnRGREdVWEtKSjJ2b0x0MEpkdlFpR2RPZ2hnTkU?oc=5",
         "date": "Wed, 08 Apr 2026 00:12:00 GMT"
-    },
-    {
-        "id": "172dae17",
-        "category": "Belagavi Core Politics",
-        "translations": {
-            "en": {
-                "title": "Karnataka BJP: Yatnal In, Savadi Blocked",
-                "content": "Karnataka BJP is buzzing with internal shifts. Vocal leader Basanagouda Patil Yatnal is reportedly making a significant return, hinting at party reconciliation. However, former Deputy CM Laxman Savadi's re-entry hopes are dashed. Influential leader Ramesh Jarkiholi is firmly blocking Savadi's path back. These developments highlight ongoing power struggles and factionalism shaping the state unit's future."
-            },
-            "kn": {
-                "title": "ಕರ್ನಾಟಕ ಬಿಜೆಪಿ: ಯತ್ನಾಳ್ ಒಳಗೆ, ಸಾವಡಿ ಹೊರಗೆ",
-                "content": "ಕರ್ನಾಟಕ ಬಿಜೆಪಿ ಆಂತರಿಕ ಬದಲಾವಣೆಗಳಿಂದ ಗಿಜಿಗುಡುತ್ತಿದೆ. ಆಕ್ರಮಣಕಾರಿ ನಾಯಕ ಬಸನಗೌಡ ಪಾಟೀಲ್ ಯತ್ನಾಳ್ ಮಹತ್ವದ ಮರುಪ್ರವೇಶಕ್ಕೆ ಸಿದ್ಧರಾಗಿದ್ದಾರೆ ಎನ್ನಲಾಗಿದ್ದು, ಇದು ಪಕ್ಷದಲ್ಲಿ ಸಂಧಾನದ ಸುಳಿವು ನೀಡಿದೆ. ಆದರೆ, ಮಾಜಿ ಉಪಮುಖ್ಯಮಂತ್ರಿ ಲಕ್ಷ್ಮಣ ಸವದಿ ಅವರ ಮರುಪ್ರವೇಶದ ನಿರೀಕ್ಷೆಗಳಿಗೆ ಹಿನ್ನಡೆಯಾಗಿದೆ. ಪ್ರಭಾವಿ ನಾಯಕ ರಮೇಶ್ ಜಾರಕಿಹೊಳಿ ಸವದಿ ಅವರ ಹಿಂದಿರುಗುವ ಮಾರ್ಗವನ್ನು ಸ್ಪಷ್ಟವಾಗಿ ತಡೆಯುತ್ತಿದ್ದಾರೆ. ಈ ಬೆಳವಣಿಗೆಗಳು ರಾಜ್ಯ ಘಟಕದ ಭವಿಷ್ಯವನ್ನು ರೂಪಿಸುವ ನಿರಂತರ ಅಧಿಕಾರ ಹೋರಾಟಗಳು ಮತ್ತು ಬಣ ರಾಜಕೀಯವನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತವೆ."
-            },
-            "mr": {
-                "title": "कर्नाटक भाजप: यत्नाळ आत, सावदींना अडवले",
-                "content": "कर्नाटक भाजपमध्ये अंतर्गत बदलांची चर्चा आहे. आक्रमक नेते बसनागौडा पाटील यत्नाळ महत्त्वपूर्ण पुनरागमनासाठी सज्ज असल्याचे वृत्त असून, हे पक्षांतर्गत सलोख्याचे संकेत देत आहे. मात्र, माजी उपमुख्यमंत्री लक्ष्मण सवदींच्या पुन्हा प्रवेश करण्याच्या आशांना धक्का बसला आहे. प्रभावशाली नेते रमेश जारकीहोळी सावदींचा पक्षातील मार्ग रोखत असल्याचे वृत्त आहे. या घडामोडींमुळे राज्यातील भाजप युनिटचे भविष्य घडवणारे सत्तासंघर्ष आणि गटबाजी दिसून येते."
-            },
-            "hi": {
-                "title": "कर्नाटक भाजपा: यत्नाल की वापसी, सावदी का रास्ता बंद",
-                "content": "कर्नाटक भाजपा में आंतरिक बदलावों की हलचल है। मुखर नेता बसनागौड़ा पाटिल यत्नाल महत्वपूर्ण वापसी करने के लिए तैयार बताए जा रहे हैं, जो पार्टी में सुलह का संकेत है। हालांकि, पूर्व उपमुख्यमंत्री लक्ष्मण सावदी की फिर से एंट्री की उम्मीदों को झटका लगा है। प्रभावशाली नेता रमेश जारकीहोली कथित तौर पर सावदी के वापसी का रास्ता रोक रहे हैं। ये घटनाक्रम राज्य इकाई के भविष्य को आकार देने वाले चल रहे सत्ता संघर्ष और गुटबाजी को उजागर करते हैं।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSUtIOWwzZFVFZFlxSzFNX0JST2xsT0pqSDVRS2tsaW5Bam5TemJfLWFUclFqTzR5ejRodTgyOGZyV1oycW5tbGpub215VjdqSEZicHZydm5FRU5ENlhqSnFMWFZQdmhzNS00bUVfVF9URmN5NW1WdlVZSkJFVmZoRXMtZTdwbzc4QzQwSVY0VFREZjJQTmVHSjZ2TEtCYmh3N2xzT01NeGxVTzdXV01UX2czS29HZW11ZXdFNy1WRVo?oc=5",
-        "date": "Tue, 07 Apr 2026 22:06:39 GMT"
-    },
-    {
-        "id": "75844cd8",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Shah Slams Kharge Over 'Snake' Analogy for BJP-RSS",
-                "content": "Union Home Minister Amit Shah lambasted Congress chief Mallikarjun Kharge for his \"venomous snake\" analogy comparing BJP-RSS. Shah condemned the remarks as \"undemocratic\" and criticized Kharge's \"illiterate\" jibe at BJP supporters. He asserted that under Rahul Gandhi's leadership, Congress has become a threat to democracy, urging voters to decisively defeat the party in upcoming elections to protect the democratic system."
-            },
-            "kn": {
-                "title": "ಬಿಜೆಪಿಗೆ 'ಹಾವು' ಸಾದೃಶ್ಯ: ಖರ್ಗೆ ವಿರುದ್ಧ ಶಾ ವಾಗ್ದಾಳಿ",
-                "content": "ಕೇಂದ್ರ ಗೃಹ ಸಚಿವ ಅಮಿತ್ ಶಾ ಅವರು ಬಿಜೆಪಿ-ಆರ್‌ಎಸ್‌ಎಸ್‌ಗೆ 'ವಿಷಕಾರಿ ಹಾವು' ಸಾದೃಶ್ಯ ನೀಡಿದ್ದಕ್ಕಾಗಿ ಕಾಂಗ್ರೆಸ್ ಮುಖ್ಯಸ್ಥ ಮಲ್ಲಿಕಾರ್ಜುನ ಖರ್ಗೆ ಅವರನ್ನು ತೀವ್ರವಾಗಿ ಟೀಕಿಸಿದರು. ಶಾ ಅವರು ಈ ಹೇಳಿಕೆಗಳನ್ನು \"ಪ್ರಜಾಪ್ರಭುತ್ವ ವಿರೋಧಿ\" ಎಂದು ಖಂಡಿಸಿದರು ಮತ್ತು ಬಿಜೆಪಿ ಬೆಂಬಲಿಗರ ವಿರುದ್ಧ ಖರ್ಗೆಯವರ \"ನಿರಕ್ಷರಕುಕ್ಷಿ\" ಎಂಬ ಹಂಗನ್ನು ಟೀಕಿಸಿದರು. ರಾಹುಲ್ ಗಾಂಧಿ ನೇತೃತ್ವದಲ್ಲಿ ಕಾಂಗ್ರೆಸ್ ಪ್ರಜಾಪ್ರಭುತ್ವಕ್ಕೆ ಅಪಾಯಕಾರಿಯಾಗಿದೆ ಎಂದು ಅವರು ಪ್ರತಿಪಾದಿಸಿದರು, ಪ್ರಜಾಪ್ರಭುತ್ವ ವ್ಯವಸ್ಥೆಯನ್ನು ರಕ್ಷಿಸಲು ಮುಂಬರುವ ಚುನಾವಣೆಗಳಲ್ಲಿ ಪಕ್ಷವನ್ನು ನಿರ್ಣಾಯಕವಾಗಿ ಸೋಲಿಸುವಂತೆ ಮತದಾರರಿಗೆ ಮನವಿ ಮಾಡಿದರು."
-            },
-            "mr": {
-                "title": "भाजप-आरएसएससाठी 'साप' उपमा दिल्याने शहांनी खरगेंना फटकारले",
-                "content": "केंद्रीय गृहमंत्री अमित शाह यांनी भाजप-आरएसएसची तुलना 'विषारी सापाशी' केल्याबद्दल काँग्रेस अध्यक्ष मल्लिकार्जुन खरगे यांना जोरदार फटकारले. शाह यांनी या टिप्पणीला \"लोकशाहीविरोधी\" म्हटले आणि भाजप समर्थकांवरील खरगे यांच्या \"अशिक्षित\" टोमण्यावर टीका केली. राहुल गांधींच्या नेतृत्वाखाली काँग्रेस लोकशाहीला धोका बनली आहे, असे त्यांनी ठामपणे सांगितले आणि लोकशाही व्यवस्थेचे रक्षण करण्यासाठी मतदारांना आगामी निवडणुकांमध्ये पक्षाचा निर्णायक पराभव करण्याचे आवाहन केले."
-            },
-            "hi": {
-                "title": "बीजेपी-आरएसएस को 'सांप' कहने पर शाह ने खरगे को लताड़ा",
-                "content": "केंद्रीय गृह मंत्री अमित शाह ने बीजेपी-आरएसएस की तुलना \"ज़हरीले सांप\" से करने के लिए कांग्रेस अध्यक्ष मल्लिकार्जुन खरगे की कड़ी निंदा की। शाह ने इन टिप्पणियों को \"अलोकतांत्रिक\" बताया और बीजेपी समर्थकों पर खरगे के \"अशिक्षित\" ताने की आलोचना की। उन्होंने जोर देकर कहा कि राहुल गांधी के नेतृत्व में कांग्रेस लोकतंत्र के लिए खतरा बन गई है, और लोकतांत्रिक व्यवस्था की रक्षा के लिए आगामी चुनावों में पार्टी को निर्णायक रूप से हराने का मतदाताओं से आग्रह किया।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-130097235,imgsize-1103043.cms",
-        "link": "https://timesofindia.indiatimes.com/india/amit-shah-slams-mallikarjun-kharge-for-likening-bjp-rss-to-snake/articleshow/130097210.cms",
-        "date": "2026-04-08T03:23:51+05:30"
     }
 ]
