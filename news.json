@@ -1,5 +1,55 @@
 [
     {
+        "id": "2ae07f1b",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "Iraq Elects New President After Prolonged Deadlock",
+                "content": "Iraq has finally elected Nizar Amidi as its new President, ending a prolonged political deadlock. Rising from a ministerial role, Amidi's ascent to power was shaped by his career background and strong political backing. His election is a pivotal moment for the nation, aiming to bring stability and a fresh direction after a period of significant uncertainty."
+            },
+            "kn": {
+                "title": "ಇರಾಕ್ ದೀರ್ಘಕಾಲದ ಬಿಕ್ಕಟ್ಟಿನ ನಂತರ ಹೊಸ ಅಧ್ಯಕ್ಷರನ್ನು ಆಯ್ಕೆ ಮಾಡಿದೆ",
+                "content": "ಇರಾಕ್ ಅಂತಿಮವಾಗಿ ನಿಝಾರ್ ಅಮಿಡಿಯನ್ನು ತನ್ನ ಹೊಸ ಅಧ್ಯಕ್ಷರನ್ನಾಗಿ ಆಯ್ಕೆ ಮಾಡಿದೆ, ಇದು ಸುದೀರ್ಘ ರಾಜಕೀಯ ಬಿಕ್ಕಟ್ಟನ್ನು ಕೊನೆಗೊಳಿಸಿದೆ. ಸಚಿವರ ಪಾತ್ರದಿಂದ ಮೇಲೇರಿದ ಅಮಿಡಿ ಅವರ ಅಧಿಕಾರದ ಏರಿಕೆಯು ಅವರ ವೃತ್ತಿ ಹಿನ್ನೆಲೆ ಮತ್ತು ಬಲವಾದ ರಾಜಕೀಯ ಬೆಂಬಲದಿಂದ ರೂಪಿಸಲ್ಪಟ್ಟಿದೆ. ಅವರ ಆಯ್ಕೆಯು ರಾಷ್ಟ್ರಕ್ಕೆ ಒಂದು ಪ್ರಮುಖ ಕ್ಷಣವಾಗಿದೆ, ಇದು ಗಣನೀಯ ಅನಿಶ್ಚಿತತೆಯ ಅವಧಿಯ ನಂತರ ಸ್ಥಿರತೆ ಮತ್ತು ಹೊಸ ದಿಕ್ಕನ್ನು ತರುವ ಗುರಿಯನ್ನು ಹೊಂದಿದೆ."
+            },
+            "mr": {
+                "title": "दीर्घकाळच्या कोंडीनंतर इराकने नवीन अध्यक्षांची निवड केली",
+                "content": "इराकने अखेर निझार अमिदी यांची आपले नवे अध्यक्ष म्हणून निवड केली आहे, ज्यामुळे दीर्घकाळापासून सुरू असलेला राजकीय पेचप्रसंग संपुष्टात आला आहे. मंत्रिपदावरून पुढे आलेले अमिदी यांचे सत्तेतील आगमन त्यांच्या कार्यकाळ आणि मजबूत राजकीय पाठिंब्याने घडले. त्यांची निवड देशासाठी एक महत्त्वाचा क्षण आहे, ज्याचा उद्देश मोठ्या अनिश्चिततेच्या कालावधीनंतर स्थिरता आणि नवीन दिशा आणणे आहे."
+            },
+            "hi": {
+                "title": "इराक ने लंबे गतिरोध के बाद नए राष्ट्रपति का चुनाव किया",
+                "content": "इराक ने आखिरकार निज़ार अमीदी को अपना नया राष्ट्रपति चुन लिया है, जिससे लंबे समय से चला आ रहा राजनीतिक गतिरोध समाप्त हो गया है। एक मंत्री पद से ऊपर उठकर, अमीदी का सत्ता में उदय उनके करियर पृष्ठभूमि और मजबूत राजनीतिक समर्थन से तय हुआ। उनका चुनाव देश के लिए एक महत्वपूर्ण क्षण है, जिसका उद्देश्य महत्वपूर्ण अनिश्चितता की अवधि के बाद स्थिरता और एक नई दिशा लाना है।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQYlRYMlh3MHRsNXp0VGhRXzl1NUxObU1wN1B5TEpsU0FiSHFNcXRwNEFsTm5fbERudzlpbEQ2akxsRXk1TnM4LVpZY1QzRXBrREtCak9ESDI3Q1ZrTEpoQ2xkQ3hCVmFyeUhPR3NQVmVRdllGTW9PalRIOHNJNmhIZGFPZG12MjN5YlNBLUVtaUkyZmIwV1EzTmFJemV6Zm4yTVAwQ2ZXdE9hamhUVlpCd0xqUEpKREFqZTY4NDhEUS1ZdEMwVmtyZXVlaUkzbmx3SUVlZk9hNm1qQTdDdVNVYVFycGlPd1hqc2RHVnhQWEFqUnRGYzRHY050Yi1WOEc1NGZuZkYydkpkSTZpS2hDek1QTkRNM3JFWXQxeEMyeTE2aEJaVzZaX1Q2bi1ZV2xLYTZVUG96bTUxRUp4TEstU1BmVkR5NGRmUmI0?oc=5",
+        "date": "Sat, 11 Apr 2026 19:05:36 GMT"
+    },
+    {
+        "id": "aef46902",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Tragic Dog Attack: 8-Year-Old Dies in Sopore",
+                "content": "An 8-year-old girl was tragically mauled to death by dogs in Sopore's Seloo village, J&K. This marks the second fatal dog attack in the area within a year, deeply shaking local residents. The child sustained severe injuries during an attack in an apple orchard. Some locals allege that dog relocation efforts are worsening the menace, calling for urgent action to ensure community safety."
+            },
+            "kn": {
+                "title": "ನಾಯಿ ದಾಳಿ ದುರಂತ: ಸೊಪೋರ್‌ನಲ್ಲಿ 8 ವರ್ಷದ ಬಾಲಕಿ ಸಾವು",
+                "content": "ಜಮ್ಮು ಮತ್ತು ಕಾಶ್ಮೀರದ ಸೊಪೋರ್‌ನ ಸೆಲೂ ಗ್ರಾಮದಲ್ಲಿ ಎಂಟು ವರ್ಷದ ಬಾಲಕಿಯನ್ನು ನಾಯಿಗಳು ದಾಳಿ ಮಾಡಿ ಕೊಂದು ಹಾಕಿವೆ. ಇದು ಒಂದು ವರ್ಷದೊಳಗೆ ಈ ಪ್ರದೇಶದಲ್ಲಿ ನಡೆದ ಎರಡನೇ ಮಾರಣಾಂತಿಕ ನಾಯಿ ದಾಳಿಯಾಗಿದ್ದು, ಸ್ಥಳೀಯ ನಿವಾಸಿಗಳನ್ನು ಆಳವಾಗಿ ತಲ್ಲಣಗೊಳಿಸಿದೆ. ಆಪಲ್ ತೋಟದಲ್ಲಿ ನಡೆದ ದಾಳಿಯಲ್ಲಿ ಬಾಲಕಿ ತೀವ್ರ ಗಾಯಗೊಂಡಿದ್ದಳು. ಕೆಲವು ಸ್ಥಳೀಯರು ನಾಯಿಗಳ ಸ್ಥಳಾಂತರ ಪ್ರಯತ್ನಗಳು ಈ ಉಪದ್ರವವನ್ನು ಮತ್ತಷ್ಟು ಹದಗೆಡಿಸುತ್ತಿವೆ ಎಂದು ಆರೋಪಿಸಿದ್ದು, ಸಮುದಾಯದ ಸುರಕ್ಷತೆಗಾಗಿ ತುರ್ತು ಕ್ರಮಕ್ಕೆ ಒತ್ತಾಯಿಸಿದ್ದಾರೆ."
+            },
+            "mr": {
+                "title": "धक्कादायक: सोपोरमध्ये कुत्र्यांच्या हल्ल्यात 8 वर्षांच्या मुलीचा मृत्यू",
+                "content": "जम्मू आणि काश्मीरमधील सोपोरच्या सेलू गावात कुत्र्यांनी हल्ला केल्याने 8 वर्षांच्या मुलीचा दुर्दैवी मृत्यू झाला. एका वर्षात या परिसरात झालेली ही दुसरी प्राणघातक कुत्र्यांची हल्ला असून, यामुळे स्थानिक रहिवासी हादरले आहेत. सफरचंदाच्या बागेत झालेल्या हल्ल्यात मुलीला गंभीर दुखापत झाली होती. काही स्थानिक रहिवाशांनी आरोप केला आहे की कुत्र्यांच्या स्थलांतरणामुळे ही समस्या अधिकच गंभीर होत आहे आणि समुदायाच्या सुरक्षिततेसाठी तातडीने कारवाई करण्याची मागणी केली आहे."
+            },
+            "hi": {
+                "title": "दुखद: सोपोर में कुत्ते के हमले में 8 साल की बच्ची की मौत",
+                "content": "जम्मू-कश्मीर के सोपोर के सेलू गांव में कुत्तों के हमले में 8 साल की बच्ची की दुखद मौत हो गई। एक साल के भीतर इलाके में यह दूसरा घातक कुत्ता हमला है, जिससे स्थानीय निवासी सदमे में हैं। सेब के बाग में हुए हमले के दौरान बच्ची को गंभीर चोटें आई थीं। कुछ स्थानीय लोगों का आरोप है कि कुत्तों को स्थानांतरित करने के प्रयासों से यह समस्या और बढ़ रही है, और वे सामुदायिक सुरक्षा के लिए तत्काल कार्रवाई की मांग कर रहे हैं।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130198031,imgsize-672944.cms",
+        "link": "https://timesofindia.indiatimes.com/india/jk-dogs-maul-8-year-old-girl-to-death-in-sopore/articleshow/130198019.cms",
+        "date": "2026-04-12T00:02:24+05:30"
+    },
+    {
         "id": "2cf9aa2e",
         "category": "IPL Scoop",
         "translations": {
@@ -1948,55 +1998,5 @@
         "image": "https://static.toiimg.com/photo/msid-130097235,imgsize-1103043.cms",
         "link": "https://timesofindia.indiatimes.com/india/amit-shah-slams-mallikarjun-kharge-for-likening-bjp-rss-to-snake/articleshow/130097210.cms",
         "date": "2026-04-08T03:23:51+05:30"
-    },
-    {
-        "id": "4b869f34",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "SRH to BCCI Over Avesh Khan Boundary Row",
-                "content": "Sunrisers Hyderabad (SRH) is set to approach the BCCI regarding a controversial boundary incident involving Rajasthan Royals bowler Avesh Khan. The team is reportedly dissatisfied with an on-field event or player conduct during a recent match, believing it warrants review. SRH aims for official action from the cricket board, emphasizing fair play and adherence to regulations in professional cricket. This highlights their pursuit of justice."
-            },
-            "kn": {
-                "title": "ಅವೇಶ್ ಖಾನ್ ಬೌಂಡರಿ ವಿವಾದ: ಎಸ್‌ಆರ್‌ಹೆಚ್ ಬಿಸಿಸಿಐ ಮೊರೆ",
-                "content": "ಸನ್‌ರೈಸರ್ಸ್ ಹೈದರಾಬಾದ್ (ಎಸ್‌ಆರ್‌ಹೆಚ್) ರಾಜಸ್ಥಾನ್ ರಾಯಲ್ಸ್ ಬೌಲರ್ ಅವೇಶ್ ಖಾನ್ ಅವರ ವಿವಾದಾತ್ಮಕ ಬೌಂಡರಿ ಘಟನೆಯ ಕುರಿತು ಬಿಸಿಸಿಐಯನ್ನು ಸಂಪರ್ಕಿಸಲು ಸಿದ್ಧವಾಗಿದೆ. ಇತ್ತೀಚಿನ ಪಂದ್ಯದಲ್ಲಿ ನಡೆದ ಮೈದಾನದ ಘಟನೆ ಅಥವಾ ಆಟಗಾರನ ನಡವಳಿಕೆಯಿಂದ ತಂಡ ಅತೃಪ್ತಗೊಂಡಿದ್ದು, ಪರಿಶೀಲನೆ ಅಗತ್ಯವಿದೆ ಎಂದು ನಂಬಿದೆ. ವೃತ್ತಿಪರ ಕ್ರಿಕೆಟ್‌ನಲ್ಲಿ ನ್ಯಾಯಯುತ ಆಟ ಮತ್ತು ನಿಯಮಗಳ ಅನುಸರಣೆಯನ್ನು ಒತ್ತಿಹೇಳುವ ಮೂಲಕ ಎಸ್‌ಆರ್‌ಹೆಚ್ ಕ್ರಿಕೆಟ್ ಮಂಡಳಿಯಿಂದ ಅಧಿಕೃತ ಕ್ರಮಕ್ಕೆ ಮುಂದಾಗಿದೆ. ಇದು ಅವರ ನ್ಯಾಯದ ಅನ್ವೇಷಣೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "अवेश खान बाउंड्री वाद: SRH बीसीसीआयकडे",
-                "content": "सनरायझर्स हैदराबाद (SRH) राजस्थान रॉयल्सचा गोलंदाज अवेश खान संबंधित एका वादग्रस्त बाउंड्री घटनेबाबत बीसीसीआयकडे संपर्क साधणार आहे. अलीकडील सामन्यात मैदानावरील घटना किंवा खेळाडूच्या वर्तनामुळे संघ कथितरित्या असमाधानी आहे आणि त्याला पुनरावलोकनाची आवश्यकता असल्याचे मानतो. व्यावसायिक क्रिकेटमधील निष्पक्ष खेळ आणि नियमांचे पालन यावर जोर देत, SRH क्रिकेट बोर्डाकडून अधिकृत कारवाईची अपेक्षा करत आहे. हे त्यांच्या न्यायाच्या मागणीला अधोरेखित करते."
-            },
-            "hi": {
-                "title": "आवेश खान बाउंड्री विवाद पर SRH बीसीसीआई से करेगा शिकायत",
-                "content": "सनराइजर्स हैदराबाद (SRH) राजस्थान रॉयल्स के गेंदबाज आवेश खान से जुड़ी एक विवादास्पद बाउंड्री घटना के संबंध में बीसीसीआई से संपर्क करने के लिए तैयार है। टीम कथित तौर पर हाल के मैच में हुई एक ऑन-फील्ड घटना या खिलाड़ी के आचरण से असंतुष्ट है, उनका मानना ​​है कि इसकी समीक्षा होनी चाहिए। SRH पेशेवर क्रिकेट में निष्पक्ष खेल और नियमों के पालन पर जोर देते हुए क्रिकेट बोर्ड से आधिकारिक कार्रवाई चाहता है। यह न्याय की उनकी तलाश को उजागर करता है।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZzhoZUpjaWtxMGVDM3B4TUNQMi1mSU9RQk5sQVVNSmVtR1RXRTN2TUR2Z1hkcFNCZl83Z1lqbENjb251N3RQUkFkRktwaU41VzdhSThoTEpsMkFkR1g5eDVhbm5vWEFfRnEyYjMzNFJMUy03Q0dMb0ZyN0d6NjVxWG5fbjN1MTdKTWJ3WTlKSi1KazV3UEQtaWVMRlFIRFRJdndUVy1UbDVzWUNiLTFHa3U1QlpOX3JXYXoxa3pOQmdERnpsb215UklUR2VvZ2JnQWxSVUduTlZDNzVhMkxZRHlXUzM?oc=5",
-        "date": "Tue, 07 Apr 2026 10:48:27 GMT"
-    },
-    {
-        "id": "ecc7a309",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Meryl Streep Reveals Miranda Priestly's Surprising Muses",
-                "content": "Meryl Streep recently confirmed the surprising inspirations behind her legendary Miranda Priestly role in *The Devil Wears Prada*. She revealed that two notable male figures, director Mike Nichols and actor Clint Eastwood, heavily influenced her portrayal of the formidable fashion editor, offering a fresh perspective on the iconic character's origins."
-            },
-            "kn": {
-                "title": "ಮೆರಿಲ್ ಸ್ಟ್ರೀಪ್ ಮಿರಾಂಡಾ ಪ್ರಿಸ್ಟ್ಲಿಯ ಅಚ್ಚರಿಯ ಸ್ಫೂರ್ತಿದಾಯಕರನ್ನು ಬಹಿರಂಗಪಡಿಸಿದ್ದಾರೆ",
-                "content": "ಮೆರಿಲ್ ಸ್ಟ್ರೀಪ್ ಇತ್ತೀಚೆಗೆ 'ದಿ ಡೆವಿಲ್ ವೇರ್ಸ್ ಪ್ರಾಡಾ' ಚಿತ್ರದಲ್ಲಿನ ತಮ್ಮ ಪೌರಾಣಿಕ ಪಾತ್ರ ಮಿರಾಂಡಾ ಪ್ರಿಸ್ಟ್ಲಿಯ ಹಿಂದಿನ ಅಚ್ಚರಿಯ ಸ್ಫೂರ್ತಿಗಳನ್ನು ದೃಢಪಡಿಸಿದ್ದಾರೆ. ನಿರ್ದೇಶಕ ಮೈಕ್ ನಿಕೋಲ್ಸ್ ಮತ್ತು ನಟ ಕ್ಲಿಂಟ್ ಈಸ್ಟ್‌ವುಡ್ ಎಂಬ ಇಬ್ಬರು ಪ್ರಮುಖ ಪುರುಷ ವ್ಯಕ್ತಿಗಳು ಪ್ರಬಲ ಫ್ಯಾಷನ್ ಸಂಪಾದಕಿಯ ಅವರ ಚಿತ್ರಣವನ್ನು ಹೆಚ್ಚು ಪ್ರಭಾವಿಸಿದ್ದಾರೆ ಎಂದು ಅವರು ಬಹಿರಂಗಪಡಿಸಿದರು, ಇದು ಐಕಾನಿಕ್ ಪಾತ್ರದ ಮೂಲಗಳ ಬಗ್ಗೆ ಹೊಸ ದೃಷ್ಟಿಕೋನವನ್ನು ನೀಡುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "मेरिल स्ट्रीपने मिरांडा प्रिस्टलीच्या आश्चर्यकारक प्रेरणांचा खुलासा केला",
-                "content": "मेरिल स्ट्रीपने अलीकडेच 'द डेव्हिल वेअर्स प्राडा' मधील तिच्या दिग्गज मिरांडा प्रिस्टली भूमिकेमागील आश्चर्यकारक प्रेरणांची पुष्टी केली. तिने खुलासा केला की, दिग्दर्शक माईक निकोल्स आणि अभिनेता क्लिंट ईस्टवुड या दोन उल्लेखनीय पुरुष व्यक्तिमत्त्वांनी शक्तिशाली फॅशन संपादकाच्या तिच्या चित्रणावर खूप प्रभाव टाकला, ज्यामुळे प्रतिष्ठित पात्राच्या उद्भवावर नवीन दृष्टिकोन मिळाला."
-            },
-            "hi": {
-                "title": "मेरिल स्ट्रीप ने मिरांडा प्रिस्टली की हैरान कर देने वाली प्रेरणाओं का खुलासा किया",
-                "content": "मेरिल स्ट्रीप ने हाल ही में 'द डेविल वेअर्स प्राडा' में अपनी दिग्गज मिरांडा प्रिस्टली की भूमिका के पीछे की हैरान कर देने वाली प्रेरणाओं की पुष्टि की. उन्होंने खुलासा किया कि दो प्रमुख पुरुष हस्तियों, निर्देशक माइक निकोल्स और अभिनेता क्लिंट ईस्टवुड, ने शक्तिशाली फैशन संपादक के उनके चित्रण को बहुत प्रभावित किया, जिससे प्रतिष्ठित चरित्र की उत्पत्ति पर एक नया दृष्टिकोण मिला."
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQMmN6R1J4RkVTYVd5UkV3Qkltc3NZdnVIYm12OHRVbzV4TWN6Ym5Yd2JXSzN2Z1Y2TlhrbzhiekZsZFd0VmxxS1paVUY0UmlXSE5YRm5RZmRLOGhKR0NLWk5HcE5JV015WHByZkV6NzVKMk9CNVZxQ3NZNmxQMk1ENDVGZ2VqSFhnZVFkMERzYng5b3lRQUVuQUZFWnBUQkIzbG9McmV4SXhxeTFhWnpMaUFjLWZ3SjRrcWFnSWpDZUJxR0dGZ3NvUjAyRXJvQ3NPeVlEQTRJeGdtZUp3bEc2OWc4QTZqYzdHcE9UUXFlTTFyZ25VQ1pYeGVYb1lrLUdDUWxZX3ZPRjVlODlpZDZsQWNHX1VVaWIyRU02UmhHV3ladzR1NGpITmxQOHRnTlhFSWZKZjdLWFF4WFpIX3JhZEpkVW13bTUtbkJuUzdyTjJ3Y3fSAdMCQVVfeXFMUDJjekdSeEZFU2FXeVJFd0JJbXNzWXZ1SGJtdjh0VW81eE1jemJuWHdiV0szdmdWNk5Ya284YnpGbGRXdFZscUtaWlVGNFJpV0hOWEZuUWZkSzhoSkdDS1pOR3BOSVdNeVhwcmZFejc1SjJPQjVWcUNzWTZsUDJNRDQ1RmdlakhYZ2VRZDBEc2J4OW95UUFFbkFGRVpwVEJCM2xvTHJleEl4cXkxYVp6TGlBYy1md0o0a3FhZ0lqQ2VCcUdHRmdzb1IwMkVyb0NzT3lZREE0SXhnbWVKd2xHNjlnOEE2amM3R3BPVFFxZU0xcmduVUNaWHhlWG9Zay1HQ1FsWV92T0Y1ZTg5aWQ2bEFjR19VVWliMkVNNlJoR1d5Wnc0dTRqSE5sUDh0Z05YRUlmSmY3S1hReFhaSF9yYWRKZFVtd201LW5CblM3ck4yd2N3?oc=5",
-        "date": "Tue, 07 Apr 2026 18:56:00 GMT"
     }
 ]
