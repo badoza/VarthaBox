@@ -1,5 +1,55 @@
 [
     {
+        "id": "fd412d32",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "Ashwin Weighs In on PSL Pause Controversy",
+                "content": "R Ashwin addressed the PSL controversy, backing Daryl Mitchell’s reaction to bowler Usman Tariq’s unusual, extended pause before bowling. Ashwin explained Mitchell’s frustration, supporting his view that Tariq’s delay was a deliberate stalling tactic. This contentious on-field moment has sparked significant cricket debate, with many siding with Mitchell’s assertive stance against perceived gamesmanship."
+            },
+            "kn": {
+                "title": "ಅಶ್ವಿನ್ ಪಿಎಸ್‌ಎಲ್ ವಿರಾಮ ವಿವಾದದ ಬಗ್ಗೆ ಪ್ರತಿಕ್ರಿಯೆ",
+                "content": "ಆರ್‌ ಅಶ್ವಿನ್ ಪಿಎಸ್‌ಎಲ್ ವಿವಾದದ ಬಗ್ಗೆ ಮಾತನಾಡಿದ್ದು, ಬೌಲರ್ ಉಸ್ಮಾನ್ ತಾರಿಕ್ ಅವರ ಅಸಾಮಾನ್ಯ, ವಿಸ್ತೃತ ಬೌಲಿಂಗ್ ಪೂರ್ವ ವಿರಾಮಕ್ಕೆ ಡ್ಯಾರಿಲ್ ಮಿಚೆಲ್ ಅವರ ಪ್ರತಿಕ್ರಿಯೆಯನ್ನು ಬೆಂಬಲಿಸಿದ್ದಾರೆ. ಅಶ್ವಿನ್ ಮಿಚೆಲ್ ಅವರ ಹತಾಶೆಯನ್ನು ವಿವರಿಸಿದ್ದು, ತಾರಿಕ್ ಅವರ ವಿಳಂಬವು ಉದ್ದೇಶಪೂರ್ವಕ ತಂತ್ರವಾಗಿತ್ತು ಎಂಬ ಅವರ ಅಭಿಪ್ರಾಯವನ್ನು ಸಮರ್ಥಿಸಿದ್ದಾರೆ. ಈ ವಿವಾದಾತ್ಮಕ ಮೈದಾನದ ಕ್ಷಣವು ಕ್ರಿಕೆಟ್ ಜಗತ್ತಿನಲ್ಲಿ ಗಮನಾರ್ಹ ಚರ್ಚೆಯನ್ನು ಹುಟ್ಟುಹಾಕಿದೆ, ಅನೇಕರು ಮಿಚೆಲ್ ಅವರ ದೃಢವಾದ ನಿಲುವನ್ನು ಬೆಂಬಲಿಸಿದ್ದಾರೆ."
+            },
+            "mr": {
+                "title": "अश्विनने पीएसएल पॉज वादावर भाष्य केले",
+                "content": "आर अश्विनने पीएसएल वादावर भाष्य केले, ज्यात गोलंदाज उस्मान तारिकच्या असामान्य, लांबच्या गोलंदाजीपूर्वीच्या थांब्याबद्दल डॅरिल मिशेलच्या प्रतिक्रियेला पाठिंबा दिला. अश्विनने मिशेलची निराशा स्पष्ट केली, तारिकचा विलंब हे जाणूनबुजून केलेले थांबवण्याचे कृत्य होते या त्याच्या मताला समर्थन दिले. या वादग्रस्त मैदानातील घटनेमुळे क्रिकेट जगतात मोठी चर्चा सुरू झाली असून, अनेकांनी मिशेलच्या भूमिकेचे समर्थन केले आहे."
+            },
+            "hi": {
+                "title": "अश्विन ने पीएसएल पॉज़ विवाद पर की बात",
+                "content": "आर अश्विन ने पीएसएल विवाद पर बात की, डैरिल मिशेल की प्रतिक्रिया का समर्थन किया जब गेंदबाज उस्मान तारिक ने गेंद डालने से पहले असामान्य, लंबा विराम लिया। अश्विन ने मिशेल की निराशा को समझाया, उनके इस विचार का समर्थन किया कि तारिक की देरी जानबूझकर रोकने की रणनीति थी। इस विवादास्पद क्षण ने क्रिकेट जगत में बहस छेड़ दी है, जिसमें कई लोग मिशेल के मुखर रुख का समर्थन कर रहे हैं।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTVU0bWM0VkZrbU9zWjEzcHd0X29qaXVMZVphWXlzM1hCTHFrc1pSMU5KWm5scTZNSnVRT185OGdPUktkazNPQUN0a0FUYkh1dmVzZFgwRGFlNVkzNWEwX1pkaUsyWjdGZlRDM0hsN09fQnhCcDJpczZEeXczNkVSWEFFQThPWWEtX1pScmJya3MzLTFlU0NQVUZreXFMZ1luQmZYVUxTVHFVMHJ0VHpUUHhmdndnN2pyUEs2ckZjSGx1WkdPaDRPMzY2dVY5WGkyZXVJZnpzLWQ3N1k0aHJraEJ3QjNsWUpLX2s2all0NjLSAfYBQVVfeXFMTkRORWN6NUFadlZGMTdiZ3dfM2FYMDkxR1N4S29rZXlwb000UVRGa2ZOTU95dHJLS0FwT1pNQmNlTW41MzBocG91NElZT19aRjlRZmpqNjItcnBtRjNsU3dTenJTTHRtZGRxZzN0NXYwamdNSjAxdXgxdVUwRWxXTzY4NVdJY0NEUk1nd2JIRnJwNUt2YWU3bncwbjg1Rm4xMG5RWXc3TUJSVjdJeUpKZmNsRDBJWWgweVZLZEloVFdKRGVoM0ktSnp5ZlR1ZlZlR1oyWURDZ0o0RWRiRDU3VmF0THNjMDlPamdndHQxdHdncnVhdGtB?oc=5",
+        "date": "Sat, 11 Apr 2026 09:12:53 GMT"
+    },
+    {
+        "id": "f554bcd3",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Ambassadors Run the Talk, Inspire the Race",
+                "content": "Going beyond mere endorsements, ambassadors for a recent race actively hit the pavement, completing the run themselves. They weren't just faces; they genuinely 'ran the talk,' embodying the event's spirit. Their hands-on participation showcased true commitment, inspiring countless fellow runners and proving that leadership involves active engagement, not just symbolic presence."
+            },
+            "kn": {
+                "title": "ರೇಸ್ ಓಡಿದ ರಾಯಭಾರಿಗಳು: ಪ್ರೇರಣೆಯ ಹೊಸ ಅಲೆ",
+                "content": "ಕೇವಲ ಅನುಮೋದನೆಗಳಿಗಿಂತ ಹೆಚ್ಚಾಗಿ, ಇತ್ತೀಚಿನ ಓಟದ ರಾಯಭಾರಿಗಳು ಸಕ್ರಿಯವಾಗಿ ಓಡಿ, ಓಟವನ್ನು ಪೂರ್ಣಗೊಳಿಸಿದರು. ಅವರು ಕೇವಲ ಮುಖಗಳಾಗಿರಲಿಲ್ಲ; ನಿಜವಾಗಿಯೂ 'ಮಾತನ್ನು ಓಡಿ ತೋರಿಸಿದರು', ಕಾರ್ಯಕ್ರಮದ ಮನೋಭಾವವನ್ನು ಸಾಕಾರಗೊಳಿಸಿದರು. ಅವರ ನೇರ ಭಾಗವಹಿಸುವಿಕೆ ನಿಜವಾದ ಬದ್ಧತೆ ಪ್ರದರ್ಶಿಸಿತು, ಅಸಂಖ್ಯಾತ ಓಟಗಾರರಿಗೆ ಸ್ಪೂರ್ತಿ ನೀಡಿತು. ನಾಯಕತ್ವ ಕೇವಲ ಸಾಂಕೇತಿಕ ಉಪಸ್ಥಿತಿಯಲ್ಲ, ಸಕ್ರಿಯ ತೊಡಗಿಸಿಕೊಳ್ಳುವಿಕೆಯನ್ನು ಒಳಗೊಂಡಿದೆ ಎಂದು ಸಾಬೀತುಪಡಿಸಿತು."
+            },
+            "mr": {
+                "title": "राजदूत धावले, शर्यतीला प्रेरणा दिली",
+                "content": "केवळ प्रसिद्धीपुरते मर्यादित न राहता, अलीकडील शर्यतीतील राजदूतांनी स्वतः सक्रियपणे धावत शर्यत पूर्ण केली. ते केवळ चेहरे नव्हते; त्यांनी खऱ्या अर्थाने 'कृतीतून संदेश दिला,' कार्यक्रमाच्या उत्साहाला मूर्तरूप दिले. त्यांच्या प्रत्यक्ष सहभागाने खरी वचनबद्धता दाखवली, असंख्य धावपटूंना प्रेरणा दिली. नेतृत्व केवळ प्रतिकात्मक उपस्थितीपेक्षा सक्रिय सहभागात आहे."
+            },
+            "hi": {
+                "title": "राजदूतों ने दौड़ लगाई, प्रेरणा जगाई",
+                "content": "केवल समर्थन से आगे बढ़ते हुए, हाल की दौड़ के राजदूतों ने सक्रिय रूप से भाग लिया और दौड़ पूरी की. वे सिर्फ चेहरे नहीं थे; उन्होंने वास्तव में 'कथनी को करनी में बदला,' आयोजन की भावना को मूर्त रूप दिया. उनकी प्रत्यक्ष भागीदारी ने सच्ची प्रतिबद्धता दिखाई, अनगिनत साथी धावकों को प्रेरित किया. यह साबित किया कि नेतृत्व केवल प्रतीकात्मक उपस्थिति से अधिक सक्रिय जुड़ाव है."
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130189280,imgsize-30656.cms",
+        "link": "https://timesofindia.indiatimes.com/india/more-than-faces-of-the-race-ambassadors-who-truly-ran-the-talk/articleshow/130189276.cms",
+        "date": "2026-04-11T15:54:33+05:30"
+    },
+    {
         "id": "ff0d6f05",
         "category": "IPL Scoop",
         "translations": {
@@ -1948,55 +1998,5 @@
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
         "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNR0ZNYWE2eUdPcnNxVUJxOEZHdTNGaVhINll5dHIwOC14RDVmcHlnYTFqVjliR014YndETDhhdlpWX2NUbllKdGFfN2FyeDk4Y3g0RzdYdllqaXE4T010NEYxWVpUb29OZVpjQk52VDNlbGh3VWo3ekc4ZFJKR282T3hLUW54TE9TUVhuNFVmV1F0emJabUtnTVRFci1RTDJfR1YwRDhoOERSR1BtOUZiTFBqYzRwMWNObnBEOUZ6amFHX0tUTGdxaFktc3dMZ1BUUE9BM1N0V0dWYVJNNUpnbS1ERkY2bnF5RUx2YtIB8gFBVV95cUxPQmo4NlRXcG5PWXE5dm9ESjd1U2NVbUs2dUMxdWlFcDNRWV9Sc1VyRms0c21LaGhWN24xUENZRTN1LXFsR2JkenJUU25JQ2lOT2hvR1c0M0tjWUUySk5iVldPQkF3azBHZXV3RE1RNGoyOFJUQ0xrcC1fNG51TFpqcUY5Yk5VMWMtdFhjbmczRzRRMjhxeTVleGY2ZmdseEtVNkl2cUxHa2ZsT2c0eUhXaFNGU0NpZ0p1c1hMYUUyOTRtYkNCSWhUS3YyZTludTNPTVEzeWQyYTFUWTQ0NHFvdlR1TFNQWnBfVE5yUC1ZR0lxUQ?oc=5",
         "date": "Tue, 07 Apr 2026 10:00:03 GMT"
-    },
-    {
-        "id": "8c5fe8a5",
-        "category": "Entertainment",
-        "translations": {
-            "en": {
-                "title": "Salman Khan Supports Rajpal Yadav Amid Debt Row",
-                "content": "Actor Rajpal Yadav, recently bailed in a Rs 9 crore debt case stemming from a 2010 film loan, has received public support from superstar Salman Khan. Khan's statement, a show of solidarity amidst Yadav's financial troubles, has sparked considerable reaction from netizens, drawing attention to the challenges faced by film personalities."
-            },
-            "kn": {
-                "title": "ಸಲ್ಮಾನ್ ಖಾನ್ ಸಾಲದ ವಿವಾದದ ನಡುವೆ ರಾಜ್‌ಪಾಲ್ ಯಾದವ್‌ಗೆ ಬೆಂಬಲ",
-                "content": "2010ರ ಚಲನಚಿತ್ರ ಸಾಲದಿಂದ ಉಂಟಾದ 9 ಕೋಟಿ ರೂಪಾಯಿಗಳ ಸಾಲದ ಪ್ರಕರಣದಲ್ಲಿ ಇತ್ತೀಚೆಗೆ ಜಾಮೀನು ಪಡೆದ ನಟ ರಾಜ್‌ಪಾಲ್ ಯಾದವ್‌ಗೆ ಸೂಪರ್‌ಸ್ಟಾರ್ ಸಲ್ಮಾನ್ ಖಾನ್ ಸಾರ್ವಜನಿಕ ಬೆಂಬಲ ನೀಡಿದ್ದಾರೆ. ಯಾದವ್ ಅವರ ಆರ್ಥಿಕ ಸಂಕಷ್ಟಗಳ ನಡುವೆ ಸೌಹಾರ್ದತೆಯ ಪ್ರದರ್ಶನವಾಗಿರುವ ಖಾನ್ ಅವರ ಹೇಳಿಕೆಯು ನೆಟಿಜನ್‌ಗಳಿಂದ ಗಣನೀಯ ಪ್ರತಿಕ್ರಿಯೆಯನ್ನು ಪಡೆದಿದೆ, ಚಲನಚಿತ್ರ ವ್ಯಕ್ತಿಗಳು ಎದುರಿಸುವ ಸವಾಲುಗಳತ್ತ ಗಮನ ಸೆಳೆದಿದೆ."
-            },
-            "mr": {
-                "title": "सलमान खानने कर्ज प्रकरणात राजपाल यादवला पाठिंबा दिला",
-                "content": "2010 च्या चित्रपटाच्या कर्जातून निर्माण झालेल्या 9 कोटी रुपयांच्या कर्ज प्रकरणात अलीकडेच जामीन मिळालेल्या अभिनेता राजपाल यादवला सुपरस्टार सलमान खानने सार्वजनिकपणे पाठिंबा दिला आहे. यादवच्या आर्थिक अडचणींच्या दरम्यान सहानुभूती दर्शवणाऱ्या खानच्या या विधानामुळे नेटिझन्सकडून लक्षणीय प्रतिक्रिया उमटल्या आहेत, ज्यामुळे चित्रपट क्षेत्रातील व्यक्तींना भेडसावणाऱ्या आव्हानांवर लक्ष वेधले गेले आहे."
-            },
-            "hi": {
-                "title": "सलमान खान ने कर्ज विवाद के बीच राजपाल यादव का समर्थन किया",
-                "content": "2010 के एक फिल्म ऋण से उपजे 9 करोड़ रुपये के कर्ज मामले में हाल ही में जमानत पर छूटे अभिनेता राजपाल यादव को सुपरस्टार सलमान खान का सार्वजनिक समर्थन मिला है। यादव की वित्तीय परेशानियों के बीच एकजुटता का प्रदर्शन करने वाले खान के बयान ने नेटिज़न्स से काफी प्रतिक्रियाएं बटोरी हैं, जिससे फिल्म हस्तियों के सामने आने वाली चुनौतियों पर ध्यान आकर्षित हुआ है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-130081067,imgsize-40174.cms",
-        "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/salman-khan-reacts-to-rajpal-yadavs-dollar-remark-as-he-comes-out-in-his-support-aapko-isi-rate-pe-milega/articleshow/130080940.cms",
-        "date": "2026-04-07T14:07:31+05:30"
-    },
-    {
-        "id": "eb6c84bd",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "IPL 2026: SRH Files BCCI Complaint Over Avesh Khan Boundary Row",
-                "content": "Sunrisers Hyderabad will complain to BCCI about a controversial Avesh Khan boundary incident in their IPL 2026 game against LSG. The contentious play, sparking widespread debate, prompts SRH to seek official intervention. This move highlights their commitment to fair play and challenging disputed on-field decisions in the high-stakes league."
-            },
-            "kn": {
-                "title": "ಐಪಿಎಲ್ 2026: ಅವೇಶ್ ಖಾನ್ ಬೌಂಡರಿ ವಿವಾದದ ಬಗ್ಗೆ ಎಸ್‌ಆರ್‌ಎಚ್‌ನಿಂದ ಬಿಸಿಸಿಐಗೆ ದೂರು",
-                "content": "ಸನ್‌ರೈಸರ್ಸ್ ಹೈದರಾಬಾದ್ ತಂಡವು ಎಲ್‌ಎಸ್‌ಜಿ ವಿರುದ್ಧದ ತಮ್ಮ ಐಪಿಎಲ್ 2026 ಪಂದ್ಯದಲ್ಲಿ ಅವೇಶ್ ಖಾನ್ ಅವರ ವಿವಾದಾತ್ಮಕ ಬೌಂಡರಿ ಘಟನೆಯ ಬಗ್ಗೆ ಬಿಸಿಸಿಐಗೆ ದೂರು ನೀಡಲಿದೆ. ವ್ಯಾಪಕ ಚರ್ಚೆಗೆ ಕಾರಣವಾಗಿರುವ ಈ ವಿವಾದಾತ್ಮಕ ಆಟವು ಎಸ್‌ಆರ್‌ಎಚ್ ಅನ್ನು ಅಧಿಕೃತ ಹಸ್ತಕ್ಷೇಪವನ್ನು ಕೋರಲು ಪ್ರೇರೇಪಿಸಿದೆ. ಈ ಕ್ರಮವು ನ್ಯಾಯಯುತ ಆಟಕ್ಕೆ ಅವರ ಬದ್ಧತೆಯನ್ನು ಮತ್ತು ಲೀಗ್‌ನಲ್ಲಿ ವಿವಾದಿತ ಆನ್-ಫೀಲ್ಡ್ ನಿರ್ಧಾರಗಳನ್ನು ಪ್ರಶ್ನಿಸುವುದನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "आयपीएल 2026: अवेश खान बाउंड्री वादावर एसआरएचची बीसीसीआयकडे तक्रार",
-                "content": "सनरायझर्स हैदराबाद एलएसजीविरुद्धच्या त्यांच्या आयपीएल 2026 सामन्यातील आवेश खानच्या वादग्रस्त बाउंड्री घटनेबद्दल बीसीसीआयकडे तक्रार करेल. या वादग्रस्त खेळाने व्यापक चर्चा निर्माण केली असून, एसआरएचने अधिकृत हस्तक्षेपाची मागणी केली आहे. ही कृती त्यांची निष्पक्ष खेळाप्रती असलेली बांधिलकी आणि उच्च-स्तरीय लीगमध्ये मैदानावरच्या वादग्रस्त निर्णयांना आव्हान देण्याची वृत्ती दर्शवते."
-            },
-            "hi": {
-                "title": "आईपीएल 2026: आवेश खान बाउंड्री विवाद पर SRH ने BCCI से शिकायत की",
-                "content": "सनराइजर्स हैदराबाद एलएसजी के खिलाफ अपने आईपीएल 2026 मैच में आवेश खान की विवादास्पद बाउंड्री घटना को लेकर बीसीसीआई से शिकायत करेगा। इस विवादास्पद खेल ने व्यापक बहस छेड़ दी है, जिसके बाद SRH ने आधिकारिक हस्तक्षेप की मांग की है। यह कदम उनकी निष्पक्ष खेल के प्रति प्रतिबद्धता और हाई-स्टेक्स लीग में विवादित ऑन-फील्ड निर्णयों को चुनौती देने को दर्शाता है।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPX0NnU1ktSG5kLWZNUjhkYnh2SlRINXNrbllXSmNFVS1GZHZDRHY2YUJqenpnOG51NmJRSGo3WFpMWVpaY3QwdkNNdzF5T0hVZHhXMV9rX1VUQjN0UHBBQy1ZRlFJNUlDYzAyTHhtRGM3a1o1WXh3UjBFV3lfRFlRVVhqaU5VQkFnajVLOXBzdTRQQU9SczF6aU52NHB3alB3VUVVR0hBMmtsRzc2UGZNM2xVRnJUTjB4dlRycDhfWlk3R2laTW5KMURiQktUTkUwSGxMLWFYaUNoVlUwZ0dNTFFDNTVNdmZnUmkyMmgzMnpGVGR2UWl4eTZMMWlwMU92cENiRm9HNUI5WXYtRnNhN1NvNEEzRFpfRGZGbVh2a2oxNm9RTkc4dWtURnlGMWlGX1lNWG4tMnprOHFBdWZyWDM3WVV4NmZGdFFSRXZ6RFN0UQ?oc=5",
-        "date": "Tue, 07 Apr 2026 03:38:24 GMT"
     }
 ]
