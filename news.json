@@ -1,5 +1,30 @@
 [
     {
+        "id": "64b580d9",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "Sold House, Took Loans: A Father's Ultimate Sacrifice",
+                "content": "Mukul Choudhary's father revealed the immense sacrifices made for his son's career. He sold their house and took loans, demonstrating unwavering support that paved the way for Mukul's success. This poignant account highlights the dedication of a parent, whose selfless acts empowered his son's journey to prominence, underscoring the profound impact of familial support on achieving dreams. It's a testament to paternal love."
+            },
+            "kn": {
+                "title": "ಮನೆ ಮಾರಿ, ಸಾಲ ಪಡೆದು: ತಂದೆಯ ಅಂತಿಮ ತ್ಯಾಗ",
+                "content": "ಮುಕುಲ್ ಚೌಧರಿ ಅವರ ತಂದೆ ತಮ್ಮ ಮಗನ ವೃತ್ತಿಜೀವನಕ್ಕಾಗಿ ಮಾಡಿದ ಅಪಾರ ತ್ಯಾಗಗಳನ್ನು ಬಹಿರಂಗಪಡಿಸಿದ್ದಾರೆ. ಅವರು ತಮ್ಮ ಮನೆಯನ್ನು ಮಾರಾಟ ಮಾಡಿ, ಸಾಲಗಳನ್ನು ಪಡೆದರು, ಮುಕುಲ್ ಯಶಸ್ಸಿಗೆ ದಾರಿ ಮಾಡಿಕೊಡುವ ಅಚಲ ಬೆಂಬಲವನ್ನು ಪ್ರದರ್ಶಿಸಿದರು. ಈ ಹೃದಯಸ್ಪರ್ಶಿ ವಿವರಣೆಯು ಪೋಷಕರ ಸಮರ್ಪಣೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ, ಅವರ ನಿಸ್ವಾರ್ಥ ಕಾರ್ಯಗಳು ಅವರ ಮಗನ ಉನ್ನತಿಗೆ ಅಧಿಕಾರ ನೀಡಿದ್ದು, ಕನಸುಗಳನ್ನು ಸಾಧಿಸುವಲ್ಲಿ ಕೌಟುಂಬಿಕ ಬೆಂಬಲದ ಆಳವಾದ ಪರಿಣಾಮವನ್ನು ಒತ್ತಿಹೇಳುತ್ತದೆ. ಇದು ಪಿತೃಪ್ರೇಮಕ್ಕೆ ಒಂದು ಸಾಕ್ಷಿಯಾಗಿದೆ."
+            },
+            "mr": {
+                "title": "घर विकले, कर्ज घेतले: वडिलांचा सर्वोच्च त्याग",
+                "content": "मुकुल चौधरी यांच्या वडिलांनी त्यांच्या मुलाच्या कारकिर्दीसाठी केलेल्या प्रचंड त्यागाचा खुलासा केला. त्यांनी आपले घर विकले आणि कर्ज घेतले, ज्यामुळे मुकुलच्या यशाचा मार्ग मोकळा झाला. ही हृदयस्पर्शी कथा एका पालकाच्या समर्पणावर प्रकाश टाकते, ज्याच्या निस्वार्थ कृत्यांमुळे त्याच्या मुलाला प्रसिद्धी मिळाली, ज्यामुळे स्वप्ने पूर्ण करण्यात कौटुंबिक समर्थनाचे गहन महत्त्व अधोरेखित होते. हे पितृप्रेमाचे एक उदाहरण आहे."
+            },
+            "hi": {
+                "title": "घर बेचा, कर्ज लिया: पिता का परम बलिदान",
+                "content": "मुकुल चौधरी के पिता ने अपने बेटे के करियर के लिए किए गए अपार बलिदानों का खुलासा किया। उन्होंने अपना घर बेच दिया और कर्ज लिया, जिससे मुकुल की सफलता का मार्ग प्रशस्त हुआ। यह मार्मिक वृत्तांत एक अभिभावक के समर्पण को उजागर करता है, जिनके निस्वार्थ कार्यों ने उनके बेटे की उन्नति को सशक्त किया, सपनों को प्राप्त करने में पारिवारिक समर्थन के गहरे प्रभाव को रेखांकित करता है। यह पितृ प्रेम का एक प्रमाण है।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOSHIwakRqOFFzNmFSQjNFSVAwcWRYMUZzTFdkU2FqSXoyQnVxbjRzMW5Ndzlyd29lZ1hUYm1CbHpaQVhNZlM1VnVlQTNPQ3laVGpzS3FXYjJqSURoRm85dkJyRmItRzZhQU96LVVHeHhOUVJHTUZfeDRXZEJNeE9IWDNMVzVPZzNWdmNnUlItSlA4cFU2UWxDMG5hSjFUaDBBZWxScDA0VG9EazdRVkVZdTJNNUNfeUNTM1BfaGtfNW02TGZpVWZCazgzalFKOXZrZ0dzeVpWNm5GcHh3Y19fNTFBSE85R3Jnc3BWMkdmTzhhWXNuLTJSX2s5czNfVDNFUVNoRnhB0gGLAkFVX3lxTE1fMU9Eb19LVEEyZkpvQUMtamhUV3BTR3FXWGp2allDZDlkVTRIQXZ6UzdWdnNWTEgyZWFELWdyb1U1Zzd0ajl2eFdBVnlDbkpUVHdDQURqRGxuaUdLTzVSZXpHbWgwOVhYVldyR1RUdUlRT3I1Y1A4d25JREh2cXFYQ3hGLTVhOFRsdW5oY0pfQTlNMWp4aUkzMEdSc3ZSaWZ0endVVVAyODM0ZFJfcVdOd0ZVWHRPb2ljcVZkZU5BbmhWbnZVWVIxSGNpdzdRWE1EN2RPUmxZTVBCS2hqR1BmeDJRQ0dtaDlIQVV2bzNQM0Q2YWVWeE5QeGZXcjVoRm13ZUN1T0o5eHRlOA?oc=5",
+        "date": "Sat, 11 Apr 2026 03:16:00 GMT"
+    },
+    {
         "id": "9d1d6838",
         "category": "IPL Scoop",
         "translations": {
@@ -1973,30 +1998,5 @@
         "image": "https://static.toiimg.com/photo/msid-130091858,imgsize-58882.cms",
         "link": "https://timesofindia.indiatimes.com/world/middle-east/russia-china-veto-un-resolution-to-reopen-strait-of-hormuz/articleshow/130091501.cms",
         "date": "2026-04-07T21:57:35+05:30"
-    },
-    {
-        "id": "72157bd9",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Graeme Smith: Sooryavanshi Can Be IPL Superstar",
-                "content": "Cricket legend Graeme Smith sees immense potential in \"Sooryavanshi,\" stating he has what it takes to become an IPL superstar. Smith, from Betway Insider, emphasizes the player's skill, game-changing ability, and temperament. This strong endorsement suggests \"Sooryavanshi\" is poised for a significant breakthrough, making him a valuable asset and a potential future star in the Indian Premier League."
-            },
-            "kn": {
-                "title": "ಗ್ರೇಮ್ ಸ್ಮಿತ್: ಸೂರ್ಯವಂಶಿ ಐಪಿಎಲ್ ಸೂಪರ್‌ಸ್ಟಾರ್ ಆಗಬಲ್ಲ",
-                "content": "ಕ್ರಿಕೆಟ್ ದಂತಕಥೆ ಗ್ರೇಮ್ ಸ್ಮಿತ್ \"ಸೂರ್ಯವಂಶಿ\" ಯಲ್ಲಿ ಅಪಾರ ಸಾಮರ್ಥ್ಯವನ್ನು ಕಾಣುತ್ತಾರೆ, ಐಪಿಎಲ್ ಸೂಪರ್‌ಸ್ಟಾರ್ ಆಗಲು ಬೇಕಾದ ಎಲ್ಲವನ್ನೂ ಅವನು ಹೊಂದಿದ್ದಾನೆ ಎಂದು ಹೇಳಿದ್ದಾರೆ. ಬೆಟ್‌ವೇ ಇನ್‌ಸೈಡರ್‌ನ ಸ್ಮಿತ್, ಆಟಗಾರನ ಕೌಶಲ್ಯ, ಆಟ ಬದಲಾಯಿಸುವ ಸಾಮರ್ಥ್ಯ ಮತ್ತು ಮನೋಧರ್ಮವನ್ನು ಒತ್ತಿಹೇಳುತ್ತಾರೆ. ಈ ಬಲವಾದ ಬೆಂಬಲವು \"ಸೂರ್ಯವಂಶಿ\" ಗಮನಾರ್ಹ ಯಶಸ್ಸಿಗೆ ಸಿದ್ಧನಾಗಿದ್ದಾನೆ ಎಂದು ಸೂಚಿಸುತ್ತದೆ, ಇದು ಅವನನ್ನು ಅಮೂಲ್ಯ ಆಸ್ತಿ ಮತ್ತು ಇಂಡಿಯನ್ ಪ್ರೀಮಿಯರ್ ಲೀಗ್‌ನಲ್ಲಿ ಭವಿಷ್ಯದ ಸಂಭಾವ್ಯ ತಾರೆಯನ್ನಾಗಿ ಮಾಡುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "ग्रॅम स्मिथ: सूर्यवंशी आयपीएल सुपरस्टार बनू शकतो",
-                "content": "क्रिकेट दिग्गज ग्रॅम स्मिथ \"सूर्यवंशी\" मध्ये प्रचंड क्षमता पाहतात, तो आयपीएल सुपरस्टार बनण्यासाठी आवश्यक असलेले सर्व काही त्याच्याकडे आहे असे त्यांनी म्हटले आहे. बेटवे इनसाइडरच्या स्मिथने खेळाडूचे कौशल्य, सामना बदलण्याची क्षमता आणि मनोधैर्य यावर जोर दिला. हे जोरदार समर्थन सूचित करते की \"सूर्यवंशी\" एका महत्त्वपूर्ण यशासाठी सज्ज आहे, ज्यामुळे तो एक मौल्यवान मालमत्ता आणि इंडियन प्रीमियर लीगमधील भविष्यातील संभाव्य स्टार बनू शकेल."
-            },
-            "hi": {
-                "title": "ग्रीम स्मिथ: सूर्यवंशी बन सकते हैं IPL सुपरस्टार",
-                "content": "क्रिकेट दिग्गज ग्रीम स्मिथ \"सूर्यवंशी\" में अपार क्षमता देखते हैं, उनका कहना है कि उनमें आईपीएल सुपरस्टार बनने के लिए वह सब कुछ है जो चाहिए। बेटवे इनसाइडर के स्मिथ ने खिलाड़ी के कौशल, गेम-चेंजिंग क्षमता और स्वभाव पर जोर दिया। यह मजबूत समर्थन बताता है कि \"सूर्यवंशी\" एक महत्वपूर्ण सफलता के लिए तैयार हैं, जिससे वह एक मूल्यवान संपत्ति और इंडियन प्रीमियर लीग में भविष्य के संभावित स्टार बन सकते हैं।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWmZpQlMxMGFCSVdIU0NvSUdRVS1FTHFrZllNTVVSalRXYjZYcE8zYlQ4Smk5Y3N1TEttYWxwbHR5anlscGFtQkxhUFZnY0ptSk02OUx6cUFBMUNidUF5QjZpUGJPVVZyaV9tMERCLTJjTnRHVS1Ebm84YUp0Q19waEU3clVTNHlyLVozR3IxMEZKa1ptbHZn?oc=5",
-        "date": "Tue, 07 Apr 2026 13:09:39 GMT"
     }
 ]
