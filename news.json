@@ -1,5 +1,455 @@
 [
     {
+        "id": "b2de88d5",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "Vrabel's Job in Question Amid Patriots Coach Changes, Russini Scandal",
+                "content": "Mike Vrabel's job security is under intense scrutiny amid reports of a potential firing. The Patriots have reportedly added a new coach, fueling speculation. This coaching shuffle unfolds against the backdrop of a growing 'Dianna Russini hotel scandal,' which appears linked to the team's internal changes. The full impact on Vrabel and the Patriots remains uncertain."
+            },
+            "kn": {
+                "title": "ವ್ರಾಬೆಲ್ ಅವರ ಭವಿಷ್ಯ, ಪೇಟ್ರಿಯಾಟ್ಸ್ ತರಬೇತುದಾರ ಬದಲಾವಣೆಗಳು ಮತ್ತು ರಸ್ಸಿನಿ ಹಗರಣದ ನಡುವೆ ಪ್ರಶ್ನಾರ್ಥಕ ಚಿಹ್ನೆಯಲ್ಲಿ",
+                "content": "ಮೈಕ್ ವ್ರಾಬೆಲ್ ಅವರ ಉದ್ಯೋಗ ಭದ್ರತೆ ತೀವ್ರ ಪರಿಶೀಲನೆಯಲ್ಲಿದ್ದು, ವಜಾಗೊಳಿಸುವ ಸಾಧ್ಯತೆಯ ವರದಿಗಳಿವೆ. ಪೇಟ್ರಿಯಾಟ್ಸ್ ಹೊಸ ತರಬೇತುದಾರರನ್ನು ಸೇರಿಸಿದ್ದು, ಊಹಾಪೋಹಗಳಿಗೆ ಇಂಬು ನೀಡಿದೆ. ಈ ತರಬೇತಿ ಬದಲಾವಣೆಗಳು ಬೆಳೆಯುತ್ತಿರುವ 'ಡಯಾನಾ ರಸ್ಸಿನಿ ಹೋಟೆಲ್ ಹಗರಣದ' ಹಿನ್ನೆಲೆಯಲ್ಲಿ ನಡೆಯುತ್ತಿದ್ದು, ಇದು ತಂಡದ ಆಂತರಿಕ ಬದಲಾವಣೆಗಳಿಗೆ ಸಂಬಂಧಿಸಿದೆ. ವ್ರಾಬೆಲ್ ಮತ್ತು ಪೇಟ್ರಿಯಾಟ್ಸ್ ಮೇಲಿನ ಸಂಪೂರ್ಣ ಪರಿಣಾಮ ಅನಿಶ್ಚಿತವಾಗಿದೆ."
+            },
+            "mr": {
+                "title": "पेट्रियट्समधील प्रशिक्षक बदलांदरम्यान, रस्सिनी घोटाळ्यामुळे व्राबेलच्या नोकरीवर प्रश्नचिन्ह",
+                "content": "माईक व्राबेलच्या नोकरीच्या सुरक्षिततेवर सध्या तीव्र चर्चा सुरू आहे, त्यांना कामावरून काढून टाकले जाण्याची शक्यता वर्तवली जात आहे. पेट्रियट्सने नवीन प्रशिक्षक नियुक्त केल्याने या चर्चांना आणखी बळ मिळाले आहे. 'डायना रस्सिनी हॉटेल घोटाळा' वाढत असताना हे सर्व बदल होत आहेत, ज्याचा संघाच्या अंतर्गत बदलांशी संबंध असल्याचा अंदाज आहे. व्राबेल आणि पेट्रियट्सवरील या घटनेचा संपूर्ण परिणाम अजून अनिश्चित आहे."
+            },
+            "hi": {
+                "title": "पैट्रियट्स में कोच बदलाव और रुसिनी स्कैंडल के बीच व्राबेल की नौकरी पर सवाल",
+                "content": "माइक व्राबेल की नौकरी की सुरक्षा पर गहन जांच चल रही है, जिसमें संभावित बर्खास्तगी की खबरें हैं। पैट्रियट्स ने एक नए कोच को कथित तौर पर जोड़ा है, जिससे अटकलें तेज़ हो गई हैं। यह कोचिंग फेरबदल एक बढ़ते 'डायना रुसिनी होटल स्कैंडल' की पृष्ठभूमि में हो रहा है, जिसका टीम के आंतरिक बदलावों से जुड़ाव प्रतीत होता है। व्राबेल और पैट्रियट्स पर इसका पूरा प्रभाव अभी भी अनिश्चित है।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOQjdrUWRoeHJ2UWV6dWNsWjlIZDNvSlhHWTNXX3hITVRXM2oyLWF2cGFBT0FETzh0NVJvS1dhVlJYUDgzdjJCeHFaeGRvZ3lFRGJiNDZZeHJPVGhBY1NSM1dnZWozX213dnNQdTJPbnZRYXRNbGtfTEVpNEVGamNCWHM4OFVfWDFmNk5wTnBXQmZ5Q3FCMU5XWmg2WjFHVGpBTEpoQXlUOVR4dGhJY054NlZPbFJXY3psOXNaY3NMUjBrWjM2b3FKT2pwYVR5S1FuZkJ2Y2tWZmQtUm9ITnNVbkpBanF6Sno4VDFxdU1UbnFqTU9HWnpsaGlWTjVPQjRHUUUzTFlMSW_SAY4CQVVfeXFMT3JCUDNZWVBicC1Xb0hpR3hkQ0E1TTh5anRMbUtkNzNVX0FmeDMxeHpYSWFuTnZRZHZGc1dwTm04UkhTRWloT1lwNlVocTRDQVZuV1ZST3ZqM2pYWDcyWk5Yd2VWZ1pqWnRST25RUDdDeGFnaU4yUm9XWVEyb1NzWTYzTHZJMjVuZXQ3LVZheXNxbktCVmxITlBEM1pNR1lHV1pVVGIxVDJBVlZNUmhJTmtHNkdhblJsRzdwdTdDWV9yeXVEZ3RBZDJkUXk1S0M4dlhuUU1pX292MHJHNm9uZjR5UVZTdWV0SjZubGw1RzlUQjNWQjVVa1N2QlZ5b3ZvTndmd2cxY0JYQllPTUdR?oc=5",
+        "date": "Sat, 11 Apr 2026 10:46:00 GMT"
+    },
+    {
+        "id": "0d4503be",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Amarnath Yatra: Dates Announced!",
+                "content": "The sacred 57-day Amarnath Yatra begins July 3, 2024, inviting devotees on a spiritual journey to the holy cave shrine. Registrations open April 15, 2024, for pilgrims eager to undertake this divine expedition. Prepare for an unforgettable pilgrimage to Lord Shiva's revered abode in the Himalayas. Secure your spot early for this much-anticipated annual event."
+            },
+            "kn": {
+                "title": "ಅಮರನಾಥ ಯಾತ್ರೆ: ದಿನಾಂಕಗಳು ಘೋಷಣೆ!",
+                "content": "ಪವಿತ್ರ 57-ದಿನಗಳ ಅಮರನಾಥ ಯಾತ್ರೆ 2024ರ ಜುಲೈ 3 ರಂದು ಪ್ರಾರಂಭವಾಗುತ್ತದೆ, ಭಕ್ತರನ್ನು ಪವಿತ್ರ ಗುಹಾ ದೇಗುಲಕ್ಕೆ ಆಧ್ಯಾತ್ಮಿಕ ಪ್ರಯಾಣಕ್ಕೆ ಆಹ್ವಾನಿಸುತ್ತದೆ. ಈ ದೈವಿಕ ಯಾತ್ರೆಯನ್ನು ಕೈಗೊಳ್ಳಲು ಉತ್ಸುಕರಾಗಿರುವ ಯಾತ್ರಾರ್ಥಿಗಳಿಗೆ 2024ರ ಏಪ್ರಿಲ್ 15 ರಿಂದ ನೋಂದಣಿಗಳು ಪ್ರಾರಂಭವಾಗುತ್ತವೆ. ಹಿಮಾಲಯದಲ್ಲಿರುವ ಭಗವಾನ್ ಶಿವನ ಪೂಜ್ಯ ನಿವಾಸಕ್ಕೆ ಮರೆಯಲಾಗದ ಯಾತ್ರೆಗೆ ಸಿದ್ಧರಾಗಿ. ಈ ಬಹುನಿರೀಕ್ಷಿತ ವಾರ್ಷಿಕ ಕಾರ್ಯಕ್ರಮಕ್ಕಾಗಿ ನಿಮ್ಮ ಸ್ಥಾನವನ್ನು ಶೀಘ್ರವಾಗಿ ಕಾಯ್ದಿರಿಸಿಕೊಳ್ಳಿ."
+            },
+            "mr": {
+                "title": "अमरनाथ यात्रा: तारखा जाहीर!",
+                "content": "पवित्र 57-दिवसीय अमरनाथ यात्रा 3 जुलै 2024 रोजी सुरू होईल, भाविकांना पवित्र गुहा मंदिरात आध्यात्मिक प्रवासासाठी आमंत्रित करेल. या दैवी यात्रेत सहभागी होण्यास उत्सुक असलेल्या भाविकांसाठी नोंदणी 15 एप्रिल 2024 पासून सुरू होईल. हिमालयातील भगवान शिवाच्या पूज्य निवासस्थानाच्या अविस्मरणीय यात्रेसाठी तयार रहा. या बहुप्रतिक्षित वार्षिक कार्यक्रमासाठी आपले स्थान लवकर निश्चित करा."
+            },
+            "hi": {
+                "title": "अमरनाथ यात्रा: तारीखें घोषित!",
+                "content": "पवित्र 57-दिवसीय अमरनाथ यात्रा 3 जुलाई, 2024 को शुरू होगी, भक्तों को पवित्र गुफा मंदिर की आध्यात्मिक यात्रा पर आमंत्रित करेगी। इस दिव्य अभियान को करने के इच्छुक तीर्थयात्रियों के लिए पंजीकरण 15 अप्रैल, 2024 से खुलेंगे। हिमालय में भगवान शिव के पूजनीय निवास स्थान की अविस्मरणीय तीर्थयात्रा के लिए तैयार रहें। इस बहुप्रतीक्षित वार्षिक कार्यक्रम के लिए अपना स्थान जल्दी सुरक्षित करें।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130204350,imgsize-130850.cms",
+        "link": "https://timesofindia.indiatimes.com/india/57-day-amarnath-pilgrimage-from-july-3-registrations-from-april-15/articleshow/130204353.cms",
+        "date": "2026-04-12T13:07:50+05:30"
+    },
+    {
+        "id": "062a44d4",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "TN Polls: Stalins Launch High-Octane Campaigns",
+                "content": "Tamil Nadu's April 23 Assembly elections heat up. Udhayanidhi Stalin began his Mannargudi campaign, criticizing rivals and stressing regional identity. CM M.K. Stalin, campaigning in Paramakudi, accused BJP of using AIADMK as a front, while reiterating welfare promises for women, housing, and education. The DMK leaders are actively campaigning across the state, intensifying the electoral battle."
+            },
+            "kn": {
+                "title": "ತಮಿಳುನಾಡು ಚುನಾವಣೆ: ಸ್ಟಾಲಿನ್‌ರ ಬಿರುಸಿನ ಪ್ರಚಾರ ಆರಂಭ",
+                "content": "ತಮಿಳುನಾಡಿನಲ್ಲಿ ಏಪ್ರಿಲ್ 23 ರ ವಿಧಾನಸಭಾ ಚುನಾವಣೆಗಳು ರಂಗೇರಿವೆ. ಉದಯನಿಧಿ ಸ್ಟಾಲಿನ್ ಮನ್ನಾರ್ಗುಡಿಯಲ್ಲಿ ಪ್ರಚಾರ ಆರಂಭಿಸಿ, ಪ್ರತಿಸ್ಪರ್ಧಿಗಳನ್ನು ಟೀಕಿಸಿ, ಪ್ರಾದೇಶಿಕ ಗುರುತಿಗೆ ಒತ್ತು ನೀಡಿದರು. ಸಿಎಂ ಎಂ.ಕೆ. ಸ್ಟಾಲಿನ್ ಪರಮಕುಡಿಯಲ್ಲಿ ಪ್ರಚಾರ ಮಾಡುತ್ತಾ, ಬಿಜೆಪಿ ಎಐಎಡಿಎಂಕೆ ಪಕ್ಷವನ್ನು ಮುಖವಾಡವಾಗಿ ಬಳಸುತ್ತಿದೆ ಎಂದು ಆರೋಪಿಸಿದರು. ಮಹಿಳೆಯರು, ವಸತಿ ಮತ್ತು ಶಿಕ್ಷಣಕ್ಕಾಗಿ ಕಲ್ಯಾಣ ಭರವಸೆಗಳನ್ನು ಪುನರುಚ್ಚರಿಸಲಾಯಿತು. ಡಿಎಂಕೆ ನಾಯಕರು ರಾಜ್ಯಾದ್ಯಂತ ಸಕ್ರಿಯವಾಗಿ ಪ್ರಚಾರ ಮಾಡುತ್ತಾ ಚುನಾವಣಾ ಕದನವನ್ನು ತೀವ್ರಗೊಳಿಸಿದ್ದಾರೆ."
+            },
+            "mr": {
+                "title": "तामिळनाडू निवडणुका: स्टालिन्सची जोरदार प्रचार मोहीम सुरू",
+                "content": "तामिळनाडूच्या 23 एप्रिलच्या विधानसभा निवडणुका रंगात आल्या आहेत. उदयनिधी स्टालिन यांनी मन्नारगुडी येथे प्रचार सुरू करत प्रतिस्पर्धकांवर टीका केली आणि प्रादेशिक अस्मितेवर भर दिला. मुख्यमंत्री एम.के. स्टालिन यांनी परमकुडी येथे प्रचार करताना, भाजपने एआयएडीएमकेला मुखवटा म्हणून वापरल्याचा आरोप केला. महिला, गृहनिर्माण आणि शिक्षणासाठी कल्याणकारी आश्वासनांची पुनरावृत्ती झाली. डीएमके नेते राज्यभर सक्रियपणे प्रचार करत निवडणुकीची लढाई तीव्र करत आहेत."
+            },
+            "hi": {
+                "title": "तमिलनाडु चुनाव: स्टालिन्स ने शुरू किया धुआंधार प्रचार",
+                "content": "तमिलनाडु में 23 अप्रैल के विधानसभा चुनाव गरमा गए हैं। उदयनिधि स्टालिन ने मन्नारगुडी में अभियान शुरू कर प्रतिद्वंद्वियों की आलोचना की और क्षेत्रीय पहचान पर जोर दिया। मुख्यमंत्री एम.के. स्टालिन ने परमाकुडी में प्रचार करते हुए भाजपा पर एआईएडीएमके को मुखौटा बनाने का आरोप लगाया। महिलाओं, आवास और शिक्षा के लिए कल्याणकारी वादों को दोहराया गया। डीएमके नेता राज्यभर में सक्रिय प्रचार कर चुनावी जंग को तेज़ कर रहे हैं।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130203914,imgsize-401428.cms",
+        "link": "https://timesofindia.indiatimes.com/india/tamil-nadu-assembly-polls-udhayanidhi-stalin-launches-campaign-in-mannargudi/articleshow/130203871.cms",
+        "date": "2026-04-12T12:25:22+05:30"
+    },
+    {
+        "id": "2e23efca",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "BJP Whips MPs for Special Session on Women's Quota Bill",
+                "content": "The BJP has issued a strict three-line whip, mandating full attendance for its MPs and Union ministers during a special Parliament session from April 16-18. This crucial three-day session is expected to prioritize the Women's Reservation Amendment Bill. The government plans to use 2011 census data to define the bill's implementation timeline, ensuring its passage and outlining its future rollout strategy."
+            },
+            "kn": {
+                "title": "ಮಹಿಳಾ ಮೀಸಲಾತಿ ಮಸೂದೆ ಕುರಿತ ವಿಶೇಷ ಅಧಿವೇಶನಕ್ಕಾಗಿ ಬಿಜೆಪಿ ಸಂಸದರಿಗೆ ವಿಪ್ ಜಾರಿ",
+                "content": "ಬಿಜೆಪಿಯು ಏಪ್ರಿಲ್ 16-18ರವರೆಗೆ ನಡೆಯಲಿರುವ ವಿಶೇಷ ಸಂಸತ್ ಅಧಿವೇಶನಕ್ಕೆ ತನ್ನ ಸಂಸದರು ಮತ್ತು ಕೇಂದ್ರ ಸಚಿವರಿಗೆ ಕಡ್ಡಾಯವಾಗಿ ಸಂಪೂರ್ಣ ಹಾಜರಾತಿಗೆ ಕಟ್ಟುನಿಟ್ಟಾದ ಮೂರು ಸಾಲಿನ ವಿಪ್ ಜಾರಿ ಮಾಡಿದೆ. ಈ ಪ್ರಮುಖ ಮೂರು ದಿನಗಳ ಅಧಿವೇಶನದಲ್ಲಿ ಮಹಿಳಾ ಮೀಸಲಾತಿ ತಿದ್ದುಪಡಿ ಮಸೂದೆಗೆ ಆದ್ಯತೆ ನೀಡುವ ನಿರೀಕ್ಷೆಯಿದೆ. ಸರ್ಕಾರವು ಮಸೂದೆಯ ಅನುಷ್ಠಾನದ ಕಾಲಮಿತಿಯನ್ನು ನಿರ್ಧರಿಸಲು 2011ರ ಜನಗಣತಿ ದತ್ತಾಂಶವನ್ನು ಬಳಸಲು ಯೋಜಿಸಿದೆ, ಇದು ಅದರ ಅಂಗೀಕಾರ ಮತ್ತು ಭವಿಷ್ಯದ ಕಾರ್ಯತಂತ್ರವನ್ನು ಖಚಿತಪಡಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "महिला आरक्षण विधेयकावरील विशेष अधिवेशनासाठी भाजपने खासदारांना व्हीप बजावला",
+                "content": "भाजपने 16-18 एप्रिल दरम्यान होणाऱ्या विशेष संसद अधिवेशनासाठी आपल्या खासदार आणि केंद्रीय मंत्र्यांना पूर्ण उपस्थिती अनिवार्य करण्यासाठी कडक तीन ओळींचा व्हीप जारी केला आहे. या महत्त्वपूर्ण तीन दिवसीय अधिवेशनात महिला आरक्षण सुधारणा विधेयकाला प्राधान्य मिळण्याची अपेक्षा आहे. विधेयक मंजूर करून त्याची भविष्यातील अंमलबजावणीची रणनीती निश्चित करण्यासाठी सरकार 2011 च्या जनगणनेच्या डेटाचा वापर करण्याची योजना आखत आहे."
+            },
+            "hi": {
+                "title": "महिला आरक्षण विधेयक पर विशेष सत्र के लिए भाजपा ने सांसदों को व्हीप जारी किया",
+                "content": "भाजपा ने 16-18 अप्रैल तक होने वाले विशेष संसद सत्र के लिए अपने सांसदों और केंद्रीय मंत्रियों की पूर्ण उपस्थिति अनिवार्य करते हुए एक कड़ा तीन-लाइन व्हीप जारी किया है। इस महत्वपूर्ण तीन दिवसीय सत्र में महिला आरक्षण संशोधन विधेयक को प्राथमिकता दिए जाने की उम्मीद है। सरकार विधेयक के कार्यान्वयन की समय-सीमा को परिभाषित करने के लिए 2011 की जनगणना के आंकड़ों का उपयोग करने की योजना बना रही है, जिससे इसका पारित होना और भविष्य की रणनीति सुनिश्चित हो सके।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130203416,imgsize-1486035.cms",
+        "link": "https://timesofindia.indiatimes.com/india/bjp-issues-whip-orders-full-attendance-of-mps-for-april-1618-special-parliament-session/articleshow/130203404.cms",
+        "date": "2026-04-12T11:38:53+05:30"
+    },
+    {
+        "id": "1775e57a",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "4.3 Magnitude Earthquake Jolts Assam's Cachar District",
+                "content": "Assam experienced a 4.3 magnitude earthquake on Sunday morning at 9:22 AM IST. The tremor, centered in Cachar district at a depth of 5 km, caused no immediate reports of damage or casualties. Authorities are monitoring the situation."
+            },
+            "kn": {
+                "title": "ಅಸ್ಸಾಂನ ಕಚಾರ್ ಜಿಲ್ಲೆಗೆ 4.3 ತೀವ್ರತೆಯ ಭೂಕಂಪದ ಆಘಾತ",
+                "content": "ಭಾನುವಾರ ಬೆಳಿಗ್ಗೆ 9:22 IST ಕ್ಕೆ ಅಸ್ಸಾಂನಲ್ಲಿ 4.3 ತೀವ್ರತೆಯ ಭೂಕಂಪ ಸಂಭವಿಸಿದೆ. ಕಚಾರ್ ಜಿಲ್ಲೆಯಲ್ಲಿ 5 ಕಿಮೀ ಆಳದಲ್ಲಿ ಕೇಂದ್ರೀಕೃತವಾಗಿದ್ದ ಈ ಭೂಕಂಪದಿಂದ ಯಾವುದೇ ತಕ್ಷಣದ ಹಾನಿ ಅಥವಾ ಸಾವುನೋವುಗಳ ವರದಿಯಾಗಿಲ್ಲ. ಅಧಿಕಾರಿಗಳು ಪರಿಸ್ಥಿತಿಯನ್ನು ಗಮನಿಸುತ್ತಿದ್ದಾರೆ."
+            },
+            "mr": {
+                "title": "आसामच्या कचर जिल्ह्यात 4.3 तीव्रतेचा भूकंप",
+                "content": "रविवारी सकाळी 9:22 वाजता (IST) आसाममध्ये 4.3 तीव्रतेचा भूकंप झाला. कचर जिल्ह्यामध्ये 5 किमी खोलीवर केंद्रित असलेल्या या धक्क्यामुळे त्वरित कोणतीही हानी किंवा जीवितहानी झाल्याची नोंद नाही. अधिकारी परिस्थितीवर लक्ष ठेवून आहेत."
+            },
+            "hi": {
+                "title": "असम के कछार जिले में 4.3 तीव्रता का भूकंप",
+                "content": "रविवार सुबह 9:22 बजे IST पर असम में 4.3 तीव्रता का भूकंप आया। कछार जिले में 5 किमी की गहराई पर केंद्रित इस झटके से किसी तत्काल क्षति या हताहतों की खबर नहीं है। अधिकारी स्थिति पर नजर बनाए हुए हैं।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130202563,imgsize-772132.cms",
+        "link": "https://timesofindia.indiatimes.com/india/assam-earthquake-magnitude-4-3-tremor-hits-cachar-district/articleshow/130202582.cms",
+        "date": "2026-04-12T10:12:56+05:30"
+    },
+    {
+        "id": "12241fed",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Stranded Indian Fishermen Return Home from Iran",
+                "content": "345 Indian fishermen, stranded in Iran amidst the Middle East conflict, have safely returned home. Coordinated diplomatic efforts, initiated by PM Modi's directive and facilitated via Armenia, ensured their evacuation. Union Minister Piyush Goyal welcomed the first batch at Chennai Airport, expressing gratitude for the assistance provided."
+            },
+            "kn": {
+                "title": "ಇರಾನ್‌ನಿಂದ ಭಾರತೀಯ ಮೀನುಗಾರರು ತಾಯ್ನಾಡಿಗೆ ಮರಳಿದರು",
+                "content": "ಮಧ್ಯಪ್ರಾಚ್ಯ ಸಂಘರ್ಷದಿಂದ ಇರಾನ್‌ನಲ್ಲಿ ಸಿಲುಕಿಕೊಂಡಿದ್ದ 345 ಭಾರತೀಯ ಮೀನುಗಾರರು ಸುರಕ್ಷಿತವಾಗಿ ತಾಯ್ನಾಡಿಗೆ ಮರಳಿದ್ದಾರೆ. ಪ್ರಧಾನಿ ಮೋದಿ ಅವರ ನಿರ್ದೇಶನ ಹಾಗೂ ಅರ್ಮೇನಿಯಾ ಮೂಲಕ ಸಮನ್ವಯದ ರಾಜತಾಂತ್ರಿಕ ಪ್ರಯತ್ನಗಳು ಅವರ ಸ್ಥಳಾಂತರವನ್ನು ಖಚಿತಪಡಿಸಿದವು. ಕೇಂದ್ರ ಸಚಿವ ಪಿಯೂಷ್ ಗೋಯಲ್ ಚೆನ್ನೈ ವಿಮಾನ ನಿಲ್ದಾಣದಲ್ಲಿ ಮೊದಲ ತಂಡವನ್ನು ಸ್ವಾಗತಿಸಿ, ನೀಡಿದ ನೆರವಿಗೆ ಕೃತಜ್ಞತೆ ಸಲ್ಲಿಸಿದರು."
+            },
+            "mr": {
+                "title": "इराणमधून अडकलेले भारतीय मच्छीमार मायदेशी परतले",
+                "content": "मध्यपूर्वेतील संघर्षामुळे इराणमध्ये अडकलेले 345 भारतीय मच्छीमार सुरक्षितपणे मायदेशी परतले आहेत. पंतप्रधान मोदींच्या निर्देशानुसार आणि आर्मेनियामार्गे केलेल्या समन्वित राजनैतिक प्रयत्नांमुळे त्यांची सुटका सुनिश्चित झाली. केंद्रीय मंत्री पियुष गोयल यांनी चेन्नई विमानतळावर पहिल्या तुकडीचे स्वागत केले आणि दिलेल्या मदतीबद्दल कृतज्ञता व्यक्त केली."
+            },
+            "hi": {
+                "title": "ईरान में फंसे भारतीय मछुआरे घर लौटे",
+                "content": "मध्य पूर्व संघर्ष के बीच ईरान में फंसे 345 भारतीय मछुआरे सुरक्षित घर लौट आए हैं। प्रधानमंत्री मोदी के निर्देश पर और आर्मेनिया के माध्यम से समन्वित राजनयिक प्रयासों ने उनकी निकासी सुनिश्चित की। केंद्रीय मंत्री पीयूष गोयल ने चेन्नई हवाई अड्डे पर पहले जत्थे का स्वागत किया और प्रदान की गई सहायता के लिए आभार व्यक्त किया।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130202442,imgsize-1314662.cms",
+        "link": "https://timesofindia.indiatimes.com/india/provided-great-assistance-to-get-us-out-indian-fishermen-stranded-in-iran-return-home/articleshow/130202431.cms",
+        "date": "2026-04-12T09:51:50+05:30"
+    },
+    {
+        "id": "45ab9233",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "West Bengal Polls: Over 3.6 Crore Voters for Phase 1 on April 23",
+                "content": "West Bengal's first phase assembly elections on April 23 will see over 3.6 crore voters participate across 16 districts. This includes 1.84 crore men, 1.75 crore women, and 465 third-gender individuals. Murshidabad boasts the highest voter turnout eligibility, while Kalimpong has the lowest. Voters are gearing up for the democratic exercise."
+            },
+            "kn": {
+                "title": "ಪಶ್ಚಿಮ ಬಂಗಾಳ ಚುನಾವಣೆ: ಏಪ್ರಿಲ್ 23 ರಂದು ಮೊದಲ ಹಂತಕ್ಕೆ 3.6 ಕೋಟಿಗೂ ಹೆಚ್ಚು ಮತದಾರರು",
+                "content": "ಪಶ್ಚಿಮ ಬಂಗಾಳದ ಮೊದಲ ಹಂತದ ವಿಧಾನಸಭಾ ಚುನಾವಣೆ ಏಪ್ರಿಲ್ 23 ರಂದು 16 ಜಿಲ್ಲೆಗಳಲ್ಲಿ 3.6 ಕೋಟಿಗೂ ಹೆಚ್ಚು ಮತದಾರರನ್ನು ಒಳಗೊಂಡಿರುತ್ತದೆ. ಇದರಲ್ಲಿ 1.84 ಕೋಟಿ ಪುರುಷರು, 1.75 ಕೋಟಿ ಮಹಿಳೆಯರು ಮತ್ತು 465 ತೃತೀಯ ಲಿಂಗದ ವ್ಯಕ್ತಿಗಳು ಸೇರಿದ್ದಾರೆ. ಮುರ್ಷಿದಾಬಾದ್ ಅತಿ ಹೆಚ್ಚು ಮತದಾರರ ಅರ್ಹತೆಯನ್ನು ಹೊಂದಿದ್ದರೆ, ಕಾಲಿಂಪಾಂಗ್ ಅತಿ ಕಡಿಮೆ ಹೊಂದಿದೆ. ಮತದಾರರು ಪ್ರಜಾಪ್ರಭುತ್ವದ ಪ್ರಕ್ರಿಯೆಗೆ ಸಜ್ಜಾಗಿದ್ದಾರೆ."
+            },
+            "mr": {
+                "title": "पश्चिम बंगाल निवडणुका: २३ एप्रिल रोजी पहिल्या टप्प्यासाठी ३.६ कोटींहून अधिक मतदार",
+                "content": "पश्चिम बंगालच्या पहिल्या टप्प्यातील विधानसभा निवडणुकीत २३ एप्रिल रोजी १६ जिल्ह्यांमध्ये ३.६ कोटींहून अधिक मतदार सहभागी होणार आहेत. यामध्ये १.८४ कोटी पुरुष, १.७५ कोटी महिला आणि ४६५ तृतीयपंथी व्यक्तींचा समावेश आहे. मुर्शिदाबादमध्ये सर्वाधिक मतदारांची पात्रता आहे, तर कालिम्पोंगमध्ये सर्वात कमी आहे. मतदार लोकशाही प्रक्रियेसाठी सज्ज होत आहेत."
+            },
+            "hi": {
+                "title": "पश्चिम बंगाल चुनाव: 23 अप्रैल को पहले चरण के लिए 3.6 करोड़ से अधिक मतदाता",
+                "content": "पश्चिम बंगाल के पहले चरण के विधानसभा चुनाव में 23 अप्रैल को 16 जिलों में 3.6 करोड़ से अधिक मतदाता भाग लेंगे। इसमें 1.84 करोड़ पुरुष, 1.75 करोड़ महिलाएं और 465 तीसरे लिंग के व्यक्ति शामिल हैं। मुर्शिदाबाद में सबसे अधिक मतदाता पात्रता है, जबकि कलिम्पोंग में सबसे कम है। मतदाता लोकतांत्रिक प्रक्रिया के लिए कमर कस रहे हैं।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130202182,imgsize-43870.cms",
+        "link": "https://timesofindia.indiatimes.com/india/bengal-assembly-elections-over-3-6-crore-voters-eligible-for-first-phase-polls-on-april-23-says-ec/articleshow/130202154.cms",
+        "date": "2026-04-12T09:24:12+05:30"
+    },
+    {
+        "id": "852d75be",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Indians Risk Health with Untested Chinese Weight-Loss Peptides",
+                "content": "Indians are increasingly turning to unapproved Chinese weight-loss peptides, influenced by social media and the high cost of doctor-prescribed medications. This trend is also fueled by the desire to overcome weight-loss plateaus, as even potent GLP-1 drugs can lose effectiveness. Experts warn against these untested substances, urging caution due to potential health risks."
+            },
+            "kn": {
+                "title": "ಅಪರೀಕ್ಷಿತ ಚೀನೀ ತೂಕ ಇಳಿಕೆ ಪೆಪ್ಟೈಡ್‌ಗಳಿಂದ ಭಾರತೀಯರಿಗೆ ಆರೋಗ್ಯ ಅಪಾಯ",
+                "content": "ಸಾಮಾಜಿಕ ಮಾಧ್ಯಮಗಳ ಪ್ರಭಾವ ಮತ್ತು ವೈದ್ಯರು ಸೂಚಿಸಿದ ಔಷಧಿಗಳ ಹೆಚ್ಚಿನ ವೆಚ್ಚದಿಂದಾಗಿ, ಭಾರತೀಯರು ಅನುಮೋದಿತವಲ್ಲದ ಚೀನೀ ತೂಕ ಇಳಿಕೆ ಪೆಪ್ಟೈಡ್‌ಗಳತ್ತ ಹೆಚ್ಚು ತಿರುಗುತ್ತಿದ್ದಾರೆ. ಪ್ರಬಲ GLP-1 ಔಷಧಿಗಳು ಸಹ ಪರಿಣಾಮಕಾರಿತ್ವ ಕಳೆದುಕೊಳ್ಳುವುದರಿಂದ, ತೂಕ ಇಳಿಕೆಯ ನಿಶ್ಚಲತೆಯನ್ನು ನಿವಾರಿಸುವ ಬಯಕೆಯೂ ಈ ಪ್ರವೃತ್ತಿಗೆ ಕಾರಣವಾಗಿದೆ. ತಜ್ಞರು ಈ ಪರೀಕ್ಷಿಸದ ವಸ್ತುಗಳ ವಿರುದ್ಧ ಎಚ್ಚರಿಕೆ ನೀಡಿದ್ದು, ಸಂಭಾವ್ಯ ಆರೋಗ್ಯ ಅಪಾಯಗಳಿಂದಾಗಿ ಜಾಗರೂಕರಾಗಿರಲು ಒತ್ತಾಯಿಸಿದ್ದಾರೆ."
+            },
+            "mr": {
+                "title": "अप्रमाणित चिनी वजन कमी करणाऱ्या पेप्टाईड्समुळे भारतीयांना आरोग्य धोका",
+                "content": "सोशल मीडियाच्या प्रभावामुळे आणि डॉक्टरांनी लिहून दिलेल्या औषधांच्या जास्त खर्चामुळे, भारतीय अप्रमाणित चिनी वजन कमी करणाऱ्या पेप्टाईड्सकडे अधिक वळत आहेत. प्रभावी GLP-1 औषधे देखील त्यांची परिणामकारकता गमावू शकतात, त्यामुळे वजन कमी करण्याच्या पठारावर मात करण्याच्या इच्छेने देखील या प्रवृत्तीला चालना मिळाली आहे. तज्ञांनी या न तपासलेल्या पदार्थांविरुद्ध चेतावणी दिली असून, संभाव्य आरोग्य धोक्यांमुळे सावधगिरी बाळगण्याचे आवाहन केले आहे."
+            },
+            "hi": {
+                "title": "अप्रमाणित चीनी वजन घटाने वाले पेप्टाइड्स से भारतीयों को स्वास्थ्य जोखिम",
+                "content": "भारतीय सोशल मीडिया के प्रभाव और डॉक्टर द्वारा बताई गई दवाओं की उच्च लागत के कारण, अप्रमाणित चीनी वजन घटाने वाले पेप्टाइड्स की ओर तेजी से रुख कर रहे हैं। वजन घटाने में ठहराव को दूर करने की इच्छा भी इस प्रवृत्ति को बढ़ावा दे रही है, क्योंकि शक्तिशाली GLP-1 दवाएं भी अपनी प्रभावशीलता खो सकती हैं। विशेषज्ञ इन अप्रमाणित पदार्थों के खिलाफ चेतावनी देते हुए संभावित स्वास्थ्य जोखिमों के कारण सावधानी बरतने का आग्रह करते हैं।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130201292,imgsize-443767.cms",
+        "link": "https://timesofindia.indiatimes.com/india/indians-hunger-for-untested-chinese-weight-loss-peptides/articleshow/130201294.cms",
+        "date": "2026-04-12T06:31:31+05:30"
+    },
+    {
+        "id": "5dc1a96d",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Saudi Arabia Unveils 5 New Rail Routes for Global Trade",
+                "content": "Saudi Arabia has launched five new rail routes to drastically cut cargo time and costs. Connecting Gulf ports with key economic hubs, this initiative accelerates freight movement, enhances supply chain efficiency, and eases highway congestion. It solidifies the Kingdom's role as a vital global trade link, aligning with Vision 2030's economic transformation goals."
+            },
+            "kn": {
+                "title": "ಸೌದಿ ಅರೇಬಿಯಾ ಜಾಗತಿಕ ವ್ಯಾಪಾರಕ್ಕಾಗಿ 5 ಹೊಸ ರೈಲು ಮಾರ್ಗಗಳನ್ನು ಅನಾವರಣಗೊಳಿಸಿದೆ",
+                "content": "ಸೌದಿ ಅರೇಬಿಯಾ ಸರಕು ಸಾಗಣೆ ಸಮಯ ಮತ್ತು ವೆಚ್ಚಗಳನ್ನು ತೀವ್ರವಾಗಿ ಕಡಿಮೆ ಮಾಡಲು ಐದು ಹೊಸ ರೈಲು ಮಾರ್ಗಗಳನ್ನು ಪ್ರಾರಂಭಿಸಿದೆ. ಗಲ್ಫ್ ಬಂದರುಗಳನ್ನು ಪ್ರಮುಖ ಆರ್ಥಿಕ ಕೇಂದ್ರಗಳೊಂದಿಗೆ ಸಂಪರ್ಕಿಸುವ ಈ ಉಪಕ್ರಮವು ಸರಕು ಸಾಗಣೆಯನ್ನು ವೇಗಗೊಳಿಸುತ್ತದೆ, ಪೂರೈಕೆ ಸರಪಳಿಯ ದಕ್ಷತೆಯನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ ಮತ್ತು ಹೆದ್ದಾರಿ ದಟ್ಟಣೆಯನ್ನು ಕಡಿಮೆ ಮಾಡುತ್ತದೆ. ಇದು ವಿಷನ್ 2030 ರ ಆರ್ಥಿಕ ಪರಿವರ್ತನೆ ಗುರಿಗಳಿಗೆ ಅನುಗುಣವಾಗಿ, ಜಾಗತಿಕ ವ್ಯಾಪಾರದಲ್ಲಿ ಸಾಮ್ರಾಜ್ಯದ ಪ್ರಮುಖ ಪಾತ್ರವನ್ನು ಭದ್ರಪಡಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "सौदी अरेबियाने जागतिक व्यापारासाठी 5 नवीन रेल्वे मार्ग सुरू केले",
+                "content": "सौदी अरेबियाने मालवाहतुकीचा वेळ आणि खर्च मोठ्या प्रमाणात कमी करण्यासाठी पाच नवीन रेल्वे मार्ग सुरू केले आहेत. आखाती बंदरांना प्रमुख आर्थिक केंद्रांशी जोडणारे हे पाऊल मालवाहतूक जलद करते, पुरवठा साखळीची कार्यक्षमता वाढवते आणि महामार्गावरील गर्दी कमी करते. हे व्हिजन 2030 च्या आर्थिक परिवर्तन उद्दिष्टांशी जुळवून घेत, जागतिक व्यापारात राज्याची महत्त्वाची भूमिका मजबूत करते."
+            },
+            "hi": {
+                "title": "सऊदी अरब ने वैश्विक व्यापार के लिए 5 नए रेल मार्गों का अनावरण किया",
+                "content": "सऊदी अरब ने माल ढुलाई के समय और लागत को काफी कम करने के लिए पांच नए रेल मार्ग शुरू किए हैं। खाड़ी बंदरगाहों को प्रमुख आर्थिक केंद्रों से जोड़ते हुए, यह पहल माल की आवाजाही में तेजी लाती है, आपूर्ति श्रृंखला दक्षता बढ़ाती है और राजमार्गों पर भीड़ कम करती है। यह विजन 2030 के आर्थिक परिवर्तन लक्ष्यों के अनुरूप, वैश्विक व्यापार में किंगडम की महत्वपूर्ण भूमिका को मजबूत करता है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130203971,imgsize-110108.cms",
+        "link": "https://timesofindia.indiatimes.com/world/middle-east/saudi-arabia-launches-5-rail-routes-to-cut-cargo-time-and-costs-linking-gulf-ports-faster/articleshow/130203745.cms",
+        "date": "2026-04-12T12:30:22+05:30"
+    },
+    {
+        "id": "bb4b1087",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "China Eases Taiwan Curbs, Resumes Flights",
+                "content": "China will resume direct flights to several Taiwanese cities and restart imports of Taiwanese aquaculture products. These moves follow recent talks between Chinese and Taiwanese leaders. Beijing aims to establish a communication mechanism with Taiwan's Kuomintang party, easing trade restrictions and advancing infrastructure proposals as part of an outreach push."
+            },
+            "kn": {
+                "title": "ಚೀನಾ ತೈವಾನ್‌ ಮೇಲಿನ ನಿರ್ಬಂಧ ಸಡಿಲಿಸಿ, ವಿಮಾನ ಸೇವೆ ಪುನರಾರಂಭ",
+                "content": "ಚೀನಾ ಹಲವು ತೈವಾನೀ ನಗರಗಳಿಗೆ ನೇರ ವಿಮಾನಗಳನ್ನು ಪುನರಾರಂಭಿಸಲಿದೆ ಮತ್ತು ತೈವಾನೀ ಜಲಕೃಷಿ ಉತ್ಪನ್ನಗಳ ಆಮದುಗಳನ್ನು ಮತ್ತೆ ಪ್ರಾರಂಭಿಸಲಿದೆ. ಈ ಕ್ರಮಗಳು ಚೀನೀ ಮತ್ತು ತೈವಾನೀ ನಾಯಕರ ನಡುವಿನ ಇತ್ತೀಚಿನ ಮಾತುಕತೆಗಳನ್ನು ಅನುಸರಿಸುತ್ತವೆ. ಬೀಜಿಂಗ್, ತೈವಾನ್‌ನ ಕುವೋಮಿಂಟಾಂಗ್ ಪಕ್ಷದೊಂದಿಗೆ ಸಂವಹನ ಕಾರ್ಯವಿಧಾನವನ್ನು ಸ್ಥಾಪಿಸುವ ಗುರಿ ಹೊಂದಿದೆ, ವ್ಯಾಪಾರ ನಿರ್ಬಂಧಗಳನ್ನು ಸಡಿಲಗೊಳಿಸುತ್ತಿದೆ ಮತ್ತು ಮೂಲಸೌಕರ್ಯ ಪ್ರಸ್ತಾಪಗಳನ್ನು ಮುಂದಿಡುತ್ತಿದೆ."
+            },
+            "mr": {
+                "title": "चीन तैवानवरील निर्बंध शिथिल करतो, विमानसेवा पुन्हा सुरु",
+                "content": "चीन अनेक तैवान शहरांसाठी थेट विमानसेवा पुन्हा सुरू करणार आहे आणि तैवानच्या मत्स्यपालन उत्पादनांची आयात पुन्हा सुरू करेल. ही पावले चीन आणि तैवानच्या नेत्यांमधील अलीकडील चर्चेनंतर उचलली गेली आहेत. बीजिंगचे उद्दिष्ट तैवानच्या कुओमिंतांग पक्षासोबत संवाद यंत्रणा स्थापित करणे, व्यापार निर्बंध शिथिल करणे आणि पायाभूत सुविधांच्या प्रस्तावांना गती देणे हे आहे."
+            },
+            "hi": {
+                "title": "चीन ताइवान पर प्रतिबंधों में ढील, उड़ानें फिर शुरू",
+                "content": "चीन कई ताइवानी शहरों के लिए सीधी उड़ानें फिर से शुरू करेगा और ताइवानी जलीय कृषि उत्पादों का आयात भी फिर से शुरू करेगा। यह कदम चीनी और ताइवानी नेताओं के बीच हालिया बातचीत के बाद उठाए गए हैं। बीजिंग का लक्ष्य ताइवान की कुओमिंतांग पार्टी के साथ एक संचार तंत्र स्थापित करना, व्यापार प्रतिबंधों में ढील देना और बुनियादी ढांचा प्रस्तावों को आगे बढ़ाना है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130203664,imgsize-1185693.cms",
+        "link": "https://timesofindia.indiatimes.com/world/china/china-to-resume-flights-ease-trade-curbs-with-taiwan-amid-outreach-push/articleshow/130202645.cms",
+        "date": "2026-04-12T11:58:16+05:30"
+    },
+    {
+        "id": "c043619f",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Qatar Fully Restores Maritime Traffic",
+                "content": "Qatar has fully reopened its maritime traffic for all vessels from Sunday, signaling a return to normal sea operations. The Ministry of Transport cited improved regional stability for the decision. This move allows commercial and private vessels to resume operations, emphasizing strict safety compliance and warning against price gouging in marine services. A significant step for regional connectivity."
+            },
+            "kn": {
+                "title": "ಕತಾರ್ ಸಂಪೂರ್ಣ ಕಡಲ ಸಂಚಾರ ಪುನರಾರಂಭ",
+                "content": "ಕತಾರ್ ಭಾನುವಾರದಿಂದ ಎಲ್ಲಾ ಹಡಗುಗಳಿಗೆ ತನ್ನ ಕಡಲ ಸಂಚಾರವನ್ನು ಸಂಪೂರ್ಣವಾಗಿ ಪುನರಾರಂಭಿಸಿದೆ, ಸಾಮಾನ್ಯ ಸಮುದ್ರ ಕಾರ್ಯಾಚರಣೆಗಳಿಗೆ ಮರಳಿದೆ. ಪ್ರಾದೇಶಿಕ ಸ್ಥಿರತೆ ಸುಧಾರಿಸಿದ್ದರಿಂದ ಸಾರಿಗೆ ಸಚಿವಾಲಯ ಈ ನಿರ್ಧಾರವನ್ನು ಖಚಿತಪಡಿಸಿದೆ. ವಾಣಿಜ್ಯ ಮತ್ತು ಖಾಸಗಿ ಹಡಗುಗಳು ಕಾರ್ಯಾಚರಣೆ ಪುನರಾರಂಭಿಸಲು ಇದು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ, ಕಟ್ಟುನಿಟ್ಟಾದ ಸುರಕ್ಷತಾ ಅನುಸರಣೆ ಮತ್ತು ಕಡಲ ಸೇವೆಗಳಲ್ಲಿ ಬೆಲೆ ಹೆಚ್ಚಳದ ವಿರುದ್ಧ ಎಚ್ಚರಿಕೆ ನೀಡುತ್ತದೆ. ಪ್ರಾದೇಶಿಕ ಸಂಪರ್ಕಕ್ಕೆ ಇದು ಪ್ರಮುಖ ಹೆಜ್ಜೆ."
+            },
+            "mr": {
+                "title": "कतारने सागरी वाहतूक पूर्णतः पूर्ववत केली",
+                "content": "कतारने रविवारपासून सर्व जहाजांसाठी आपली सागरी वाहतूक पूर्णपणे पुन्हा सुरू केली आहे, सामान्य सागरी कामकाजाकडे परतले आहे. प्रादेशिक स्थिरता सुधारल्याने परिवहन मंत्रालयाने हा निर्णय घेतला. व्यावसायिक आणि खाजगी जहाजांना कामकाज पुन्हा सुरू करण्यास यामुळे अनुमती मिळते, ज्यात कठोर सुरक्षा नियमांचे पालन करण्यावर भर दिला जातो आणि सागरी सेवांमध्ये जास्त दर आकारण्याविरुद्ध चेतावणी दिली जाते. प्रादेशिक कनेक्टिव्हिटीसाठी हे महत्त्वाचे पाऊल."
+            },
+            "hi": {
+                "title": "कतर ने समुद्री यातायात पूर्णतः बहाल किया",
+                "content": "कतर ने रविवार से सभी जहाजों के लिए अपना समुद्री यातायात पूरी तरह से फिर से खोल दिया है, जो सामान्य समुद्री परिचालन की वापसी का संकेत है। परिवहन मंत्रालय ने क्षेत्रीय स्थिरता में सुधार का हवाला देते हुए इस फैसले की पुष्टि की। यह कदम वाणिज्यिक और निजी जहाजों को परिचालन फिर से शुरू करने की अनुमति देता है, जिसमें सख्त सुरक्षा अनुपालन पर जोर है और समुद्री सेवाओं में कीमत वृद्धि के खिलाफ चेतावनी दी गई है। क्षेत्रीय कनेक्टिविटी के लिए एक महत्वपूर्ण कदम है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130203223,imgsize-61038.cms",
+        "link": "https://timesofindia.indiatimes.com/world/middle-east/qatar-resumes-full-maritime-traffic-all-vessels-allowed-from-sunday/articleshow/130203180.cms",
+        "date": "2026-04-12T11:16:59+05:30"
+    },
+    {
+        "id": "71651cf4",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Abu Dhabi's BAPS Mandir Reopens April 14",
+                "content": "Abu Dhabi's majestic BAPS Hindu Mandir is set to reopen its doors on April 14, following a temporary closure. A beacon of peace and cultural harmony in the UAE, this architectural marvel welcomes devotees and visitors alike. Plan your visit to once again experience its serene beauty and spiritual ambiance."
+            },
+            "kn": {
+                "title": "ಅಬುಧಾಬಿಯ ಬಿಎಪಿಎಸ್ ಮಂದಿರ ಏಪ್ರಿಲ್ 14 ರಿಂದ ಪುನರಾರಂಭ",
+                "content": "ಅಬುಧಾಬಿಯ ಭವ್ಯ ಬಿಎಪಿಎಸ್ ಹಿಂದೂ ಮಂದಿರವು ತಾತ್ಕಾಲಿಕ ಮುಚ್ಚುವಿಕೆಯ ನಂತರ ಏಪ್ರಿಲ್ 14 ರಿಂದ ಪುನಃ ತೆರೆಯಲು ಸಿದ್ಧವಾಗಿದೆ. ಯುಎಇಯಲ್ಲಿ ಶಾಂತಿ ಮತ್ತು ಸಾಂಸ್ಕೃತಿಕ ಸಾಮರಸ್ಯದ ಸಂಕೇತವಾಗಿರುವ ಈ ವಾಸ್ತುಶಿಲ್ಪದ ಅದ್ಭುತವು ಭಕ್ತರು ಮತ್ತು ಸಂದರ್ಶಕರನ್ನು ಸ್ವಾಗತಿಸುತ್ತದೆ. ಅದರ ಪ್ರಶಾಂತ ಸೌಂದರ್ಯ ಮತ್ತು ಆಧ್ಯಾತ್ಮಿಕ ವಾತಾವರಣವನ್ನು ಮತ್ತೊಮ್ಮೆ ಅನುಭವಿಸಲು ನಿಮ್ಮ ಭೇಟಿಯನ್ನು ಯೋಜಿಸಿ."
+            },
+            "mr": {
+                "title": "अबुधाबीतील बीएपीएस मंदिर 14 एप्रिलपासून पुन्हा खुले",
+                "content": "अबुधाबीतील भव्य बीएपीएस हिंदू मंदिर तात्पुरत्या बंदनंतर 14 एप्रिलपासून पुन्हा भाविकांना खुले होणार आहे. यूएईमध्ये शांतता आणि सांस्कृतिक सलोख्याचे प्रतीक असलेले हे स्थापत्यशास्त्राचे अद्भुत मंदिर भाविक आणि पर्यटकांचे स्वागत करते. त्याची शांत सुंदरता आणि आध्यात्मिक वातावरण पुन्हा अनुभवण्यासाठी तुमच्या भेटीचे नियोजन करा."
+            },
+            "hi": {
+                "title": "अबू धाबी का बीएपीएस मंदिर 14 अप्रैल से फिर खुलेगा",
+                "content": "अबू धाबी का भव्य बीएपीएस हिंदू मंदिर अस्थायी बंद के बाद 14 अप्रैल से अपने द्वार फिर से खोलने के लिए तैयार है। यूएई में शांति और सांस्कृतिक सद्भाव का प्रतीक, यह स्थापत्य चमत्कार भक्तों और आगंतुकों का समान रूप से स्वागत करता है। इसकी शांत सुंदरता और आध्यात्मिक माहौल का अनुभव करने के लिए अपनी यात्रा की योजना बनाएं।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130202889,imgsize-169130.cms",
+        "link": "https://timesofindia.indiatimes.com/world/middle-east/abu-dhabi-news-baps-hindu-mandir-to-reopen-from-april-14-in-abu-dhabi-after-temporary-closure/articleshow/130202889.cms",
+        "date": "2026-04-12T11:02:22+05:30"
+    },
+    {
+        "id": "7b9ac5c3",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "US-Iran Nuclear Talks End Without Breakthrough",
+                "content": "US-Iran nuclear talks in Islamabad concluded after 21 hours with no breakthrough. Deep divisions over nuclear commitments, sanctions relief, and regional control stalled a deal. Key disagreements on enrichment, frozen assets, and maritime security remain unresolved. While both sides indicated future discussions, no immediate resolution is in sight, highlighting persistent obstacles to a comprehensive agreement."
+            },
+            "kn": {
+                "title": "US-ಇರಾನ್ ಪರಮಾಣು ಮಾತುಕತೆಗಳು ಯಾವುದೇ ಪ್ರಗತಿಯಿಲ್ಲದೆ ಅಂತ್ಯಗೊಂಡವು",
+                "content": "ಇಸ್ಲಾಮಾಬಾದ್‌ನಲ್ಲಿ ನಡೆದ US-ಇರಾನ್ ಪರಮಾಣು ಮಾತುಕತೆಗಳು 21 ಗಂಟೆಗಳ ನಂತರ ಯಾವುದೇ ಪ್ರಗತಿಯಿಲ್ಲದೆ ಮುಕ್ತಾಯಗೊಂಡವು. ಪರಮಾಣು ಬದ್ಧತೆಗಳು, ನಿರ್ಬಂಧಗಳ ರಿಯಾಯಿತಿ ಮತ್ತು ಪ್ರಾದೇಶಿಕ ನಿಯಂತ್ರಣದ ಬಗ್ಗೆ ಆಳವಾದ ಭಿನ್ನಾಭಿಪ್ರಾಯಗಳು ಒಪ್ಪಂದಕ್ಕೆ ಅಡ್ಡಿಯಾದವು. ಸಮೃದ್ಧೀಕರಣ, ಸ್ಥಗಿತಗೊಂಡ ಆಸ್ತಿಗಳು ಮತ್ತು ಕಡಲ ಭದ್ರತೆಯ ಕುರಿತು ಪ್ರಮುಖ ಭಿನ್ನಾಭಿಪ್ರಾಯಗಳು ಬಗೆಹರಿದಿಲ್ಲ. ಎರಡೂ ಕಡೆಗಳು ಭವಿಷ್ಯದ ಚರ್ಚೆಗಳನ್ನು ಸೂಚಿಸಿದ್ದರೂ, ತಕ್ಷಣದ ಪರಿಹಾರ ಕಾಣಿಸುತ್ತಿಲ್ಲ, ಸಮಗ್ರ ಒಪ್ಪಂದಕ್ಕೆ ನಿರಂತರ ಅಡೆತಡೆಗಳನ್ನು ಎತ್ತಿ ತೋರಿಸಿದೆ."
+            },
+            "mr": {
+                "title": "अमेरिका-इराण अणु चर्चा कोणत्याही प्रगतीशिवाय समाप्त",
+                "content": "इस्लामाबादमधील अमेरिका-इराण अणु चर्चा २१ तासांनंतर कोणत्याही प्रगतीशिवाय संपली. अणु वचनबद्धता, निर्बंधातून सवलत आणि प्रादेशिक नियंत्रणावरील गहन मतभेदांमुळे करार होऊ शकला नाही. संवर्धन, गोठवलेली मालमत्ता आणि सागरी सुरक्षेवरील मुख्य मतभेद अजूनही कायम आहेत. दोन्ही बाजूंनी भविष्यातील चर्चा सूचित केल्या असल्या तरी, तातडीचा तोडगा दिसत नाही, ज्यामुळे व्यापक करारास सततचे अडथळे अधोरेखित होतात."
+            },
+            "hi": {
+                "title": "अमेरिका-ईरान परमाणु वार्ता बिना किसी सफलता के समाप्त",
+                "content": "इस्लामाबाद में अमेरिका-ईरान परमाणु वार्ता 21 घंटे बाद बिना किसी सफलता के समाप्त हो गई। परमाणु प्रतिबद्धताओं, प्रतिबंधों में राहत और क्षेत्रीय नियंत्रण पर गहरे मतभेदों ने समझौते को रोक दिया। संवर्धन, जमे हुए धन और समुद्री सुरक्षा पर प्रमुख असहमति अनसुलझी बनी हुई है। हालांकि दोनों पक्षों ने भविष्य की चर्चाओं का संकेत दिया, लेकिन तत्काल कोई समाधान नजर नहीं आ रहा है, जो एक व्यापक समझौते के लिए लगातार बाधाओं को उजागर करता है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130202562,imgsize-3879943.cms",
+        "link": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-talks-pause-without-breakthrough-5-reasons-why-negotiations-failed-in-pakistan/articleshow/130202467.cms",
+        "date": "2026-04-12T10:09:39+05:30"
+    },
+    {
+        "id": "0e916756",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Lebanon PM Postpones US Visit Amid Rising Tensions",
+                "content": "Lebanon's PM Nawaf Salam has postponed his crucial US and UN visit, citing 'internal circumstances' and security concerns. The decision comes amidst escalating regional tensions, marked by continuous Israeli strikes and a warning from Iran against sidelining Hezbollah. This postponement underscores the complex challenges to regional stability, further complicating ongoing ceasefire efforts."
+            },
+            "kn": {
+                "title": "ಲೆಬನಾನ್ ಪ್ರಧಾನಿ ಉಲ್ಬಣಿಸುತ್ತಿರುವ ಉದ್ವಿಗ್ನತೆಯ ಮಧ್ಯೆ ಯುಎಸ್ ಭೇಟಿಯನ್ನು ಮುಂದೂಡಿದರು",
+                "content": "ಲೆಬನಾನ್ ಪ್ರಧಾನಿ ನವಾಫ್ ಸಲಾಂ, 'ಆಂತರಿಕ ಪರಿಸ್ಥಿತಿಗಳು' ಮತ್ತು ಭದ್ರತಾ ಕಳವಳಗಳನ್ನು ಉಲ್ಲೇಖಿಸಿ ತಮ್ಮ ಪ್ರಮುಖ ಯುಎಸ್ ಮತ್ತು ಯುಎನ್ ಭೇಟಿಯನ್ನು ಮುಂದೂಡಿದ್ದಾರೆ. ಈ ನಿರ್ಧಾರವು ನಿರಂತರ ಇಸ್ರೇಲಿ ದಾಳಿಗಳು ಮತ್ತು ಹೆಜ್ಬೊಲ್ಲಾವನ್ನು ನಿರ್ಲಕ್ಷಿಸದಂತೆ ಇರಾನ್‌ನ ಎಚ್ಚರಿಕೆಯಿಂದ ಗುರುತಿಸಲ್ಪಟ್ಟ, ಹೆಚ್ಚುತ್ತಿರುವ ಪ್ರಾದೇಶಿಕ ಉದ್ವಿಗ್ನತೆಯ ನಡುವೆ ಬಂದಿದೆ. ಈ ಮುಂದೂಡಿಕೆ ಪ್ರಾದೇಶಿಕ ಸ್ಥಿರತೆಗೆ ಇರುವ ಸಂಕೀರ್ಣ ಸವಾಲುಗಳನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ, ನಡೆಯುತ್ತಿರುವ ಕದನ ವಿರಾಮ ಪ್ರಯತ್ನಗಳನ್ನು ಮತ್ತಷ್ಟು ಜಟಿಲಗೊಳಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "वाढत्या तणावामुळे लेबनॉनच्या पंतप्रधानांनी अमेरिकेचा दौरा पुढे ढकलला",
+                "content": "लेबनॉनचे पंतप्रधान नवाब सलाम यांनी 'अंतर्गत परिस्थिती' आणि सुरक्षा चिंतेमुळे त्यांचा महत्त्वाचा अमेरिका आणि संयुक्त राष्ट्रसंघ दौरा पुढे ढकलला आहे. हा निर्णय वाढत्या प्रादेशिक तणावाच्या पार्श्वभूमीवर आला आहे, ज्यामध्ये सततचे इस्रायली हल्ले आणि हिजबुल्लाला बाजूला न करण्याचे इराणचे आवाहन समाविष्ट आहे. ही स्थगिती प्रादेशिक स्थिरतेसमोरील जटिल आव्हानांना अधोरेखित करते, ज्यामुळे सध्याच्या युद्धबंदीच्या प्रयत्नांना आणखी गुंतागुंत निर्माण झाली आहे."
+            },
+            "hi": {
+                "title": "बढ़ते तनाव के बीच लेबनान के पीएम ने अमेरिकी दौरा टाला",
+                "content": "लेबनान के प्रधानमंत्री नवाब सलाम ने 'आंतरिक परिस्थितियों' और सुरक्षा चिंताओं का हवाला देते हुए अपनी महत्वपूर्ण अमेरिका और संयुक्त राष्ट्र यात्रा स्थगित कर दी है। यह निर्णय बढ़ते क्षेत्रीय तनाव के बीच आया है, जिसमें लगातार इजरायली हमले और हिजबुल्लाह को दरकिनार न करने की ईरान की चेतावनी शामिल है। यह स्थगन क्षेत्रीय स्थिरता के लिए जटिल चुनौतियों को रेखांकित करता है, जिससे चल रहे युद्धविराम प्रयासों को और जटिल बना दिया गया है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130202539,imgsize-63480.cms",
+        "link": "https://timesofindia.indiatimes.com/world/middle-east/to-preserve-security-unity-of-people-lebanon-pm-postpones-us-visit-amid-ongoing-israeli-strikes/articleshow/130201922.cms",
+        "date": "2026-04-12T10:06:33+05:30"
+    },
+    {
+        "id": "d519bf54",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Sykkuno Scandal: Fresh Allegations Emerge",
+                "content": "Streamer Sykkuno faces a deepening scandal as multiple women accuse him of dishonesty and manipulation in past relationships and encounters. These troubling allegations have sparked a major online backlash, dividing supporters. Sykkuno remains silent, fueling questions about accountability and trust within the streaming community amidst the growing controversy."
+            },
+            "kn": {
+                "title": "ಸಿಕ್ಯುನೋ ಹಗರಣ: ಹೊಸ ಆರೋಪಗಳು ಹೊರಬಿದ್ದಿವೆ",
+                "content": "ಸ್ಟ್ರೀಮರ್ ಸಿಕ್ಯುನೋ ಆಳವಾದ ಹಗರಣವನ್ನು ಎದುರಿಸುತ್ತಿದ್ದಾರೆ, ಏಕೆಂದರೆ ಹಲವಾರು ಮಹಿಳೆಯರು ಹಿಂದಿನ ಸಂಬಂಧಗಳು ಮತ್ತು ಮುಖಾಮುಖಿಗಳಲ್ಲಿ ಅವರ ಅಪ್ರಾಮಾಣಿಕತೆ ಮತ್ತು ಕುಶಲತೆಯನ್ನು ಆರೋಪಿಸಿದ್ದಾರೆ. ಈ ತೊಂದರೆದಾಯಕ ಆರೋಪಗಳು ದೊಡ್ಡ ಆನ್‌ಲೈನ್ ವಿವಾದಕ್ಕೆ ಕಾರಣವಾಗಿದ್ದು, ಬೆಂಬಲಿಗರನ್ನು ವಿಭಜಿಸಿವೆ. ಸಿಕ್ಯುನೋ ಮೌನವಾಗಿದ್ದು, ಹೆಚ್ಚುತ್ತಿರುವ ವಿವಾದದ ಮಧ್ಯೆ ಸ್ಟ್ರೀಮಿಂಗ್ ಸಮುದಾಯದಲ್ಲಿ ಹೊಣೆಗಾರಿಕೆ ಮತ್ತು ವಿಶ್ವಾಸದ ಬಗ್ಗೆ ಪ್ರಶ್ನೆಗಳನ್ನು ಹುಟ್ಟುಹಾಕಿದೆ."
+            },
+            "mr": {
+                "title": "सिक्युनो घोटाळा: नवे आरोप समोर",
+                "content": "स्ट्रीमर सिक्युनो एका गंभीर घोटाळ्यात सापडला आहे, कारण अनेक महिलांनी त्याच्यावर भूतकाळातील संबंधांमध्ये आणि भेटींमध्ये अप्रामाणिकपणा आणि हेराफेरीचा आरोप केला आहे. या त्रासदायक आरोपांमुळे मोठ्या प्रमाणात ऑनलाइन विरोध सुरू झाला आहे, ज्यामुळे समर्थकांमध्ये फूट पडली आहे. सिक्युनो अजूनही शांत आहे, वाढत्या वादामुळे स्ट्रीमिंग समुदायात जबाबदारी आणि विश्वासाबाबत प्रश्न निर्माण झाले आहेत."
+            },
+            "hi": {
+                "title": "सिक्युनो विवाद: नए आरोप सामने आए",
+                "content": "स्ट्रीमर सिक्युनो एक गहरे विवाद में घिर गए हैं, क्योंकि कई महिलाओं ने उन पर पिछले संबंधों और मुलाकातों में बेईमानी और हेरफेर का आरोप लगाया है। इन परेशान करने वाले आरोपों ने एक बड़े ऑनलाइन विरोध को जन्म दिया है, जिससे उनके समर्थक बँट गए हैं। सिक्युनो अभी भी चुप हैं, जिससे बढ़ते विवाद के बीच स्ट्रीमिंग समुदाय में जवाबदेही और विश्वास पर सवाल उठ रहे हैं।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130201182,imgsize-36520.cms",
+        "link": "https://timesofindia.indiatimes.com/world/us-streamers/sykkuno-scandal-deepens-as-multiple-women-come-forward-with-shocking-allegations/articleshow/130201182.cms",
+        "date": "2026-04-12T06:10:30+05:30"
+    },
+    {
+        "id": "352cc8d1",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Iran-US Talks Collapse: Tehran Blames Washington",
+                "content": "High-stakes Iran-US talks in Islamabad collapsed, with Tehran blaming Washington for 'breaches of promise' and 'excessive demands.' Key issues like the Strait of Hormuz and Iran's nuclear program remain unresolved, fueling regional tensions. Despite the failure, Iran thanked Pakistan for mediation and hinted at future negotiations to ease the standoff."
+            },
+            "kn": {
+                "title": "ಇರಾನ್-ಅಮೆರಿಕ ಮಾತುಕತೆ ಕುಸಿತ: ಟೆಹ್ರಾನ್ ವಾಷಿಂಗ್ಟನ್‌ನನ್ನು ದೂಷಿಸಿತು",
+                "content": "ಇಸ್ಲಾಮಾಬಾದ್‌ನಲ್ಲಿ ನಡೆದ ಉನ್ನತ ಮಟ್ಟದ ಇರಾನ್-ಅಮೆರಿಕ ಮಾತುಕತೆ ಕುಸಿಯಿತು, 'ವಾಕ್ದಾನ ಭಂಗ' ಮತ್ತು 'ಅತಿಯಾದ ಬೇಡಿಕೆಗಳಿಗಾಗಿ' ಟೆಹ್ರಾನ್ ವಾಷಿಂಗ್ಟನ್‌ನನ್ನು ದೂಷಿಸಿತು. ಹಾರ್ಮುಜ್ ಜಲಸಂಧಿ ಮತ್ತು ಇರಾನ್‌ನ ಪರಮಾಣು ಕಾರ್ಯಕ್ರಮದಂತಹ ಪ್ರಮುಖ ವಿಷಯಗಳು ಬಗೆಹರಿಯದೆ ಉಳಿದಿವೆ, ಇದು ಪ್ರಾದೇಶಿಕ ಉದ್ವಿಗ್ನತೆಯನ್ನು ಹೆಚ್ಚಿಸಿದೆ. ವೈಫಲ್ಯದ ಹೊರತಾಗಿಯೂ, ಇರಾನ್ ಪಾಕಿಸ್ತಾನಕ್ಕೆ ಮಧ್ಯಸ್ಥಿಕೆಗಾಗಿ ಧನ್ಯವಾದ ಹೇಳಿತು ಮತ್ತು ಉದ್ವಿಗ್ನತೆಯನ್ನು ಕಡಿಮೆ ಮಾಡಲು ಭವಿಷ್ಯದ ಮಾತುಕತೆಗಳನ್ನು ಸೂಚಿಸಿತು."
+            },
+            "mr": {
+                "title": "इराण-अमेरिका चर्चा निष्फळ: तेहरानने वॉशिंग्टनवर खापर फोडले",
+                "content": "इस्लामाबादमध्ये झालेल्या उच्च-स्तरीय इराण-अमेरिका चर्चा निष्फळ ठरल्या, तेहरानने 'वचनभंग' आणि 'अवाजवी मागण्यां'साठी वॉशिंग्टनला दोष दिला. होर्मुझची सामुद्रधुनी आणि इराणच्या अणुकार्यक्रमासारखे महत्त्वाचे मुद्दे अनसुलझे राहिले, ज्यामुळे प्रादेशिक तणाव वाढला आहे. अपयशाकडे दुर्लक्ष करत, इराणने मध्यस्थीसाठी पाकिस्तानचे आभार मानले आणि हा तिढा सोडवण्यासाठी भविष्यातील चर्चेची शक्यता वर्तवली."
+            },
+            "hi": {
+                "title": "ईरान-अमेरिका वार्ता विफल: तेहरान ने वाशिंगटन को ठहराया जिम्मेदार",
+                "content": "इस्लामाबाद में उच्च-दांव वाली ईरान-अमेरिका वार्ता विफल रही, तेहरान ने 'वादे तोड़ने' और 'अत्यधिक मांगों' के लिए वाशिंगटन को जिम्मेदार ठहराया। होर्मुज जलडमरूमध्य और ईरान के परमाणु कार्यक्रम जैसे प्रमुख मुद्दे अनसुलझे रहे, जिससे क्षेत्रीय तनाव बढ़ रहा है। विफलता के बावजूद, ईरान ने मध्यस्थता के लिए पाकिस्तान को धन्यवाद दिया और गतिरोध को कम करने के लिए भविष्य की वार्ताओं का संकेत दिया।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130201935,imgsize-699122.cms",
+        "link": "https://timesofindia.indiatimes.com/world/middle-east/unlawful-requests-iran-hits-out-at-us-after-islamabad-talks-fail-cites-breach-of-promises/articleshow/130201900.cms",
+        "date": "2026-04-12T08:46:17+05:30"
+    },
+    {
+        "id": "183fa0fd",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "NYPD Kills Knife Attacker at Grand Central, 3 Injured",
+                "content": "A knife-wielding man, Anthony Griffen, claiming to be 'Lucifer,' was fatally shot by NYPD officers at Grand Central subway station after injuring three people. Griffen advanced on police with a large knife. Authorities confirmed the victims are in stable condition and there's no link to terrorism. Swift police action brought the dangerous incident to an end."
+            },
+            "kn": {
+                "title": "ಗ್ರಾಂಡ್ ಸೆಂಟ್ರಲ್‌ನಲ್ಲಿ ಚಾಕು ದಾಳಿಕೋರನನ್ನು NYPD ಕೊಂದಿದೆ, 3 ಜನರಿಗೆ ಗಾಯ",
+                "content": "'ಲೂಸಿಫರ್' ಎಂದು ಹೇಳಿಕೊಂಡ ಚಾಕು ಹಿಡಿದ ಆಂಟೋನಿ ಗ್ರಿಫೆನ್, ಮೂವರು ಜನರಿಗೆ ಗಾಯಗೊಳಿಸಿದ ನಂತರ ಗ್ರಾಂಡ್ ಸೆಂಟ್ರಲ್ ಸಬ್‌ವೇ ನಿಲ್ದಾಣದಲ್ಲಿ NYPD ಅಧಿಕಾರಿಗಳಿಂದ ಗುಂಡಿಕ್ಕಿ ಕೊಲ್ಲಲ್ಪಟ್ಟನು. ಗ್ರಿಫೆನ್ ದೊಡ್ಡ ಚಾಕುವಿನೊಂದಿಗೆ ಪೊಲೀಸರತ್ತ ಮುನ್ನಡೆದನು. ಅಧಿಕಾರಿಗಳು ಸಂತ್ರಸ್ತರು ಸ್ಥಿರ ಸ್ಥಿತಿಯಲ್ಲಿದ್ದಾರೆ ಮತ್ತು ಭಯೋತ್ಪಾದನೆಯೊಂದಿಗೆ ಯಾವುದೇ ಸಂಬಂಧವಿಲ್ಲ ಎಂದು ದೃಢಪಡಿಸಿದರು. ಪೊಲೀಸರ ತ್ವರಿತ ಕ್ರಮದಿಂದ ಅಪಾಯಕಾರಿ ಘಟನೆ ಅಂತ್ಯಗೊಂಡಿತು."
+            },
+            "mr": {
+                "title": "ग्रँड सेंट्रलमध्ये NYPD ने चाकूने हल्ला करणाऱ्याला ठार केले, 3 जखमी",
+                "content": "'लुसिफर' असल्याचा दावा करणाऱ्या चाकूधारी अँथनी ग्रिफेनला ग्रँड सेंट्रल सबवे स्थानकावर तीन लोकांना जखमी केल्यानंतर NYPD अधिकाऱ्यांनी गोळ्या घालून ठार केले. ग्रिफेन मोठ्या चाकूसह पोलिसांच्या दिशेने सरसावला. अधिकाऱ्यांनी पुष्टी केली की, पीडित स्थिर स्थितीत आहेत आणि दहशतवादाशी कोणताही संबंध नाही. पोलिसांच्या जलद कारवाईमुळे हा धोकादायक प्रकार संपुष्टात आला."
+            },
+            "hi": {
+                "title": "ग्रैंड सेंट्रल में NYPD ने चाकूधारी हमलावर को ढेर किया, 3 घायल",
+                "content": "'ल्यूसिफर' होने का दावा करने वाले एक चाकूधारी व्यक्ति, एंथनी ग्रिफेन को ग्रैंड सेंट्रल सबवे स्टेशन पर तीन लोगों को घायल करने के बाद NYPD अधिकारियों ने गोली मारकर ढेर कर दिया. ग्रिफेन एक बड़े चाकू के साथ पुलिसकर्मियों की ओर बढ़ा. अधिकारियों ने पुष्टि की कि पीड़ित स्थिर स्थिति में हैं और इस घटना का आतंकवाद से कोई संबंध नहीं है. पुलिस की त्वरित कार्रवाई से यह खतरनाक घटना समाप्त हो गई."
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130201939,imgsize-92590.cms",
+        "link": "https://timesofindia.indiatimes.com/world/us/knife-attack-suspect-shot-dead-by-police-after-injuring-3-in-new-york/articleshow/130201927.cms",
+        "date": "2026-04-12T08:47:46+05:30"
+    },
+    {
+        "id": "fcb14c21",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Iran-US Ceasefire Talks Collapse in Islamabad",
+                "content": "US-Iran talks in Islamabad failed to yield a ceasefire or diplomatic framework after a 21-hour marathon. Key differences, especially Iran's nuclear program, proved insurmountable. Despite the collapse, both sides expressed readiness to continue discussions. Iran urged the US to drop \"excessive demands\" and acknowledge its rights for future progress."
+            },
+            "kn": {
+                "title": "ಇಸ್ಲಾಮಾಬಾದ್‌ನಲ್ಲಿ ಇರಾನ್-ಯುಎಸ್ ಕದನ ವಿರಾಮ ಮಾತುಕತೆ ವಿಫಲ",
+                "content": "ಇಸ್ಲಾಮಾಬಾದ್‌ನಲ್ಲಿ ನಡೆದ ಯುಎಸ್-ಇರಾನ್ ಮಾತುಕತೆಗಳು 21 ಗಂಟೆಗಳ ಮ್ಯಾರಥಾನ್ ನಂತರ ಕದನ ವಿರಾಮ ಅಥವಾ ರಾಜತಾಂತ್ರಿಕ ಚೌಕಟ್ಟನ್ನು ನೀಡುವಲ್ಲಿ ವಿಫಲವಾಯಿತು. ಪ್ರಮುಖ ವ್ಯತ್ಯಾಸಗಳು, ವಿಶೇಷವಾಗಿ ಇರಾನ್‌ನ ಪರಮಾಣು ಕಾರ್ಯಕ್ರಮ, ನಿವಾರಿಸಲಾಗಲಿಲ್ಲ. ಮಾತುಕತೆ ವಿಫಲವಾದರೂ, ಎರಡೂ ಕಡೆಯವರು ಚರ್ಚೆಗಳನ್ನು ಮುಂದುವರಿಸಲು ಸಿದ್ಧತೆ ವ್ಯಕ್ತಪಡಿಸಿದರು. ಭವಿಷ್ಯದ ಪ್ರಗತಿಗಾಗಿ \"ಅತಿಯಾದ ಬೇಡಿಕೆಗಳನ್ನು\" ಕೈಬಿಡಲು ಮತ್ತು ತನ್ನ ಹಕ್ಕುಗಳನ್ನು ಗುರುತಿಸಲು ಇರಾನ್ ಯುಎಸ್ ಅನ್ನು ಒತ್ತಾಯಿಸಿತು."
+            },
+            "mr": {
+                "title": "इस्लामाबादमध्ये इराण-अमेरिकेच्या शस्त्रसंधी चर्चा निष्फळ",
+                "content": "इस्लामाबादमध्ये झालेल्या अमेरिका-इराण चर्चा २१ तासांच्या मॅरेथॉननंतरही शस्त्रसंधी किंवा राजनैतिक चौकट मिळवण्यात अयशस्वी ठरल्या. प्रमुख मतभेद, विशेषतः इराणचा अणु कार्यक्रम, दूर करता आले नाहीत. चर्चा अयशस्वी होऊनही, दोन्ही बाजूंनी चर्चा सुरू ठेवण्याची तयारी दर्शविली. इराणने अमेरिकेला 'अतिरिक्त मागण्या' सोडून देण्याचे आणि भविष्यातील प्रगतीसाठी आपले हक्क मान्य करण्याचे आवाहन केले."
+            },
+            "hi": {
+                "title": "इस्लामाबाद में ईरान-अमेरिका युद्धविराम वार्ता विफल",
+                "content": "इस्लामाबाद में अमेरिका-ईरान वार्ता 21 घंटे की मैराथन के बाद भी युद्धविराम या राजनयिक ढांचा तैयार करने में विफल रही। प्रमुख मतभेद, विशेषकर ईरान का परमाणु कार्यक्रम, अनसुलझे रहे। विफलता के बावजूद, दोनों पक्षों ने चर्चा जारी रखने की तत्परता व्यक्त की। ईरान ने अमेरिका से \"अत्यधिक मांगों\" को छोड़ने और भविष्य की प्रगति के लिए अपने अधिकारों को स्वीकार करने का आग्रह किया।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130201732,imgsize-41900.cms",
+        "link": "https://timesofindia.indiatimes.com/world/pakistan/what-led-to-iran-us-ceasefire-talks-collapse-after-21-hour-marathon-in-islamabad/articleshow/130201676.cms",
+        "date": "2026-04-12T08:06:07+05:30"
+    },
+    {
         "id": "bb48ba24",
         "category": "IPL Scoop",
         "translations": {
@@ -1548,455 +1998,5 @@
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
         "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNclhFakVBbGFrZkpvOGhlR21PQnNUS2hNX1ZEVEVMbkNyUHpLWXdEbGJZU2xvVm5FUkUtMGJoS3NGVFFJMnItQ1FUVEFqX0J2Y0x6ekFYNjl1X3psMWRQZVFmM24zdkM3RWpHTE9vdS1rQmphQlpNX2dYelVEeDZveldnU3F0U0lnSDdZNEVMVkVFMUMxdnlkU1dyaUwwOXcyck5hS01WT3BpZ2hYNTV5NzdRQklUQjdISmF1UmZyNm9waWFHTV9VTUQtbzU5N0R1Nlp0eVAxcGNxQWQ4UkcxRHJ3Vm9xQ0t0?oc=5",
         "date": "Thu, 09 Apr 2026 03:00:02 GMT"
-    },
-    {
-        "id": "5467a397",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Mumbai Indians Tipped for IPL 2026 Playoffs Despite Slow Start",
-                "content": "Despite a weak start to their IPL 2026 campaign, Mumbai Indians are widely predicted to make the playoffs. Experts assert the team retains significant \"firepower\" to overcome initial setbacks. Their formidable squad strength and strategic depth are expected to propel them forward, ensuring a strong recovery and a playoff berth, defying early season struggles. This offers fans hope."
-            },
-            "kn": {
-                "title": "ದುರ್ಬಲ ಆರಂಭದ ಹೊರತಾಗಿಯೂ, ಮುಂಬೈ ಇಂಡಿಯನ್ಸ್ IPL 2026 ಪ್ಲೇಆಫ್‌ಗೆ",
-                "content": "IPL 2026 ಅಭಿಯಾನಕ್ಕೆ ಕಳಪೆ ಆರಂಭದ ಹೊರತಾಗಿಯೂ, ಮುಂಬೈ ಇಂಡಿಯನ್ಸ್ ಪ್ಲೇಆಫ್‌ಗೆ ಪ್ರವೇಶಿಸುವ ಸಾಧ್ಯತೆಯಿದೆ ಎಂದು ವ್ಯಾಪಕವಾಗಿ ಊಹಿಸಲಾಗಿದೆ. ಆರಂಭಿಕ ಹಿನ್ನಡೆಗಳನ್ನು ಮೆಟ್ಟಿ ನಿಲ್ಲಲು ತಂಡವು ಗಮನಾರ್ಹ \"ಫೈರ್‌ಪವರ್\" ಅನ್ನು ಹೊಂದಿದೆ ಎಂದು ತಜ್ಞರು ದೃಢಪಡಿಸಿದ್ದಾರೆ. ಅವರ ಪ್ರಬಲ ತಂಡದ ಬಲ ಮತ್ತು ಕಾರ್ಯತಂತ್ರದ ಆಳವು ಅವರನ್ನು ಮುಂದಕ್ಕೆ ಕೊಂಡೊಯ್ಯುವ ನಿರೀಕ್ಷೆಯಿದೆ, ಬಲವಾದ ಚೇತರಿಕೆ ಮತ್ತು ಪ್ಲೇಆಫ್ ಸ್ಥಾನವನ್ನು ಖಾತ್ರಿಪಡಿಸುತ್ತದೆ, ಆರಂಭಿಕ ಋತುವಿನ ಹೋರಾಟಗಳನ್ನು ಧಿಕ್ಕರಿಸುತ್ತದೆ. ಇದು ಅಭಿಮಾನಿಗಳಿಗೆ ಭರವಸೆ ನೀಡುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "संथ सुरुवातीनंतरही, मुंबई इंडियन्स IPL 2026 प्लेऑफमध्ये पोहोचण्याची शक्यता",
-                "content": "IPL 2026 मोहिमेच्या कमकुवत सुरुवातीनंतरही, मुंबई इंडियन्स प्लेऑफमध्ये पोहोचण्याची शक्यता व्यापकपणे वर्तवली जात आहे. तज्ञांचे म्हणणे आहे की संघात सुरुवातीचे अडथळे दूर करण्यासाठी पुरेसे \"फायरपॉवर\" आहे. त्यांच्या जबरदस्त संघशक्ती आणि धोरणात्मक खोलीमुळे त्यांना पुढे नेण्याची अपेक्षा आहे, ज्यामुळे मजबूत पुनरागमनासह प्लेऑफमध्ये स्थान मिळेल आणि सुरुवातीच्या हंगामातील संघर्ष झुगारला जाईल. यामुळे चाहत्यांना आशा मिळते."
-            },
-            "hi": {
-                "title": "धीमी शुरुआत के बावजूद, मुंबई इंडियंस को IPL 2026 प्लेऑफ के लिए प्रबल दावेदार माना गया",
-                "content": "IPL 2026 अभियान में कमजोर शुरुआत के बावजूद, मुंबई इंडियंस के प्लेऑफ में पहुंचने की व्यापक रूप से भविष्यवाणी की गई है। विशेषज्ञों का कहना है कि टीम में शुरुआती असफलताओं को दूर करने के लिए पर्याप्त \"फायरपावर\" बरकरार है। उनकी जबरदस्त टीम शक्ति और रणनीतिक गहराई से उन्हें आगे बढ़ने, मजबूत वापसी और प्लेऑफ स्थान सुनिश्चित करने की उम्मीद है, जो शुरुआती सीज़न के संघर्षों को धता बताएगा। यह प्रशंसकों को उम्मीद देता है।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOeDB2Nk9jYUUxMlZ6Y3NHZ1pWY01kZFBxZDdpYXhjbzNDbDJ0SU9QLUJNbFFhNnBDdTVsUGhlNlhFem91Q1JyQlNmY3pWeUNjRjgyN29hMWo4N1NwWFNCQkFVYWJ2UVRHOXhfVWJ2bkd1ZFFFU0FGQVk5cm00M1BUa2pUTkQ1Ym85YWdtSzlicEZ2RU55T3pVeURqbDFoYkNQWi1aQXhmbWYzR3pQRzlNeFJDZGVsY21tZ21iOFlpdGIyOFJDT1owcDlfMnA2OVFCN211UUhLNlNaNmVLNHFnNmM4ZEliUElUbjNMZUxPbE1jaHRTVlFtUmxjWU9WYzV3M0o00gGIAkFVX3lxTE9WMEFuaDBjelZtUEgxcmRWQnd6YmtVamRwRWNqZ3kyT1I1M29kVXQ0S3A1QTYtQjkxS2w3NjhlWVFQcjZNQWxMLUVPQlFrRkozZDZqWmdLXzZ4Ul9CRVlrZDFyWjdTLS1GaThibDFRcjFDS1JUc2VxV2ZXcEw5a3pydjI5aGNyTERTamN4TUhrX1pkNF9wYm10d3Qxal9oeTBkT3U0NnA3SWlBUVlxa1dRNWxyRUswOC1GYmliTkozQ2R0dFpKeTYwUldVOTEyc3lyRjVYZURjWElxcnp2SEszY0ZJSFZZS0tIb0luM1RENmdlSDJLU0RxUU1ibV95TWJETENWNEI0OA?oc=5",
-        "date": "Wed, 08 Apr 2026 13:08:13 GMT"
-    },
-    {
-        "id": "f81049bd",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "US Pushed Pakistan to Mediate with Iran, Trump's Secret Threats Revealed",
-                "content": "A recent report exposes how the US covertly pressured Pakistan to mediate with Iran amidst rising tensions. Former President Trump's 'aggressive' private threats reportedly influenced this high-stakes diplomacy. This behind-the-scenes effort aimed to de-escalate potential conflict, revealing complex geopolitical maneuvering to secure regional peace. A compelling look at power play."
-            },
-            "kn": {
-                "title": "ಅಮೆರಿಕಾ ಇರಾನ್ ಮಧ್ಯಸ್ಥಿಕೆಗೆ ಪಾಕಿಸ್ತಾನಕ್ಕೆ ಒತ್ತಡ ಹೇರಿತು, ಟ್ರಂಪ್ ಬೆದರಿಕೆಗಳು ಬಹಿರಂಗ",
-                "content": "ಇತ್ತೀಚಿನ ವರದಿಯೊಂದು ಅಮೆರಿಕಾ ಹೆಚ್ಚುತ್ತಿರುವ ಉದ್ವಿಗ್ನತೆಯ ನಡುವೆ ಇರಾನ್‌ನೊಂದಿಗೆ ಮಧ್ಯಸ್ಥಿಕೆ ವಹಿಸಲು ಪಾಕಿಸ್ತಾನದ ಮೇಲೆ ರಹಸ್ಯವಾಗಿ ಒತ್ತಡ ಹೇರಿತು ಎಂದು ಬಹಿರಂಗಪಡಿಸಿದೆ. ಮಾಜಿ ಅಧ್ಯಕ್ಷ ಟ್ರಂಪ್ ಅವರ 'ಆಕ್ರಮಣಕಾರಿ' ಖಾಸಗಿ ಬೆದರಿಕೆಗಳು ಈ ಉನ್ನತ-ಪಾಲಿನ ರಾಜತಂತ್ರದ ಮೇಲೆ ಪ್ರಭಾವ ಬೀರಿವೆ ಎನ್ನಲಾಗಿದೆ. ಈ ತೆರೆಮರೆಯ ಪ್ರಯತ್ನವು ಸಂಭಾವ್ಯ ಸಂಘರ್ಷವನ್ನು ತಗ್ಗಿಸುವ ಗುರಿಯನ್ನು ಹೊಂದಿದ್ದು, ಪ್ರಾದೇಶಿಕ ಶಾಂತಿಯನ್ನು ಭದ್ರಪಡಿಸಲು ಸಂಕೀರ್ಣ ಭೂರಾಜಕೀಯ ಕುಶಲತೆಯನ್ನು ಅನಾವರಣಗೊಳಿಸಿದೆ. ಅಧಿಕಾರ ರಾಜಕೀಯದ ಆಕರ್ಷಕ ನೋಟ."
-            },
-            "mr": {
-                "title": "अमेरिकेने इराणशी मध्यस्थीसाठी पाकिस्तानवर दबाव आणला, ट्रम्पच्या गुप्त धमक्या उघड",
-                "content": "एका ताज्या अहवालानुसार, वाढत्या तणावादरम्यान अमेरिकेने इराणशी मध्यस्थी करण्यासाठी पाकिस्तानवर गुप्तपणे दबाव आणला. माजी राष्ट्राध्यक्ष ट्रम्प यांच्या 'आक्रमक' खाजगी धमक्यांनी या उच्च-स्तरावरील राजकारणावर प्रभाव टाकला. या पडद्यामागील प्रयत्नांचा उद्देश संभाव्य संघर्ष टाळणे हा होता, ज्यामुळे प्रादेशिक शांतता प्रस्थापित करण्यासाठी गुंतागुंतीचे भूराजकीय डावपेच समोर आले आहेत. सत्तासंघर्षाचे एक आकर्षक दर्शन."
-            },
-            "hi": {
-                "title": "अमेरिका ने ईरान से मध्यस्थता के लिए पाकिस्तान पर गुप्त दबाव डाला, ट्रंप की धमकियां उजागर",
-                "content": "एक हालिया रिपोर्ट से पता चला है कि अमेरिका ने बढ़ते तनाव के बीच ईरान से मध्यस्थता के लिए पाकिस्तान पर गुपचुप तरीके से दबाव डाला था। पूर्व राष्ट्रपति ट्रंप की 'आक्रामक' निजी धमकियों ने कथित तौर पर इस उच्च-दांव वाली कूटनीति को प्रभावित किया। पर्दे के पीछे के इस प्रयास का उद्देश्य संभावित संघर्ष को कम करना था, जिससे क्षेत्रीय शांति सुनिश्चित करने के लिए जटिल भू-राजनीतिक दांवपेच सामने आए हैं। सत्ता के खेल का एक दिलचस्प नजारा।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVkVqZHg1bWxQN0RnZ0NnVkpRcTAxQThKcE1UZmRqRTg5SDJFWDc5c1ROWHJ1cUpmbjNUbzJvWWZxOHJoTHNMeTg0WHJlc3FSSk95T1JqQTBneGlMZkxzZWR0NHlxMDNLN3lsRV93TkFsSTVLcENvX0lzM3RZQ1dIakFDME9JTE96ZWRfWXo4MXBZc1VSbmhud0FLN01Kdmk5bVRyY0thVE5rdWx6Ni12TTZ4Mk9fWjJ4NFVZOURWcV9xVFc0emxjbzJmVmdvWElFOFB4aHRlMlp6UEHSAeABQVVfeXFMTmJUMDloOXFWeHFyUllmQmNjM0JweVk5eHJzWEMtOXl5SkRhcFpGeEpwc2hfMVdDYnVNcnNkcVBkRVFKVmg5UGU1WWl0N250RDJaTmxjdzVCMzFiYlY2cnI5MzFLSjhLM2lLUk9MVjRBR2hWVEZ4M3FadzNLb0RLb0N0c3NpWjEyTlR1Q3g5WmVUc3pBYjRuZGxNWEttWEJfU21fLW42SWFBUW8wZko5TlpQZHd5U1VaQW92dkNDZ1poUlc2Y2NqOEpJUnA4SlJNTkxGeFJxRnBibFI3bGNhVi0?oc=5",
-        "date": "Thu, 09 Apr 2026 05:59:39 GMT"
-    },
-    {
-        "id": "3fa9e868",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Bundesliga Live: Your TV & Stream Guide",
-                "content": "Eager to catch every Bundesliga goal and dramatic finish? This essential guide provides all crucial broadcast details at a glance. Discover exactly where to watch live matches on TV and via livestream. Fans, especially in Germany, can easily find their favorite top-flight teams' games. Stay updated with official viewing options and never miss a moment of the German football action!"
-            },
-            "kn": {
-                "title": "ಬುಂಡೆಸ್ಲಿಗಾ ಲೈವ್: ನಿಮ್ಮ ಟಿವಿ ಮತ್ತು ಸ್ಟ್ರೀಮ್ ಗೈಡ್",
-                "content": "ಪ್ರತಿ ಬುಂಡೆಸ್ಲಿಗಾ ಗೋಲ್ ಮತ್ತು ನಾಟಕೀಯ ಅಂತ್ಯವನ್ನು ವೀಕ್ಷಿಸಲು ಉತ್ಸುಕರಾಗಿದ್ದೀರಾ? ಈ ಅಗತ್ಯ ಮಾರ್ಗದರ್ಶಿ ಎಲ್ಲಾ ನಿರ್ಣಾಯಕ ಪ್ರಸಾರ ವಿವರಗಳನ್ನು ಒಂದೇ ನೋಟದಲ್ಲಿ ಒದಗಿಸುತ್ತದೆ. ಟಿವಿ ಮತ್ತು ಲೈವ್‌ಸ್ಟ್ರೀಮ್ ಮೂಲಕ ಲೈವ್ ಪಂದ್ಯಗಳನ್ನು ಎಲ್ಲಿ ವೀಕ್ಷಿಸಬೇಕು ಎಂಬುದನ್ನು ನಿಖರವಾಗಿ ಕಂಡುಹಿಡಿಯಿರಿ. ಅಭಿಮಾನಿಗಳು, ವಿಶೇಷವಾಗಿ ಜರ್ಮನಿಯಲ್ಲಿ, ತಮ್ಮ ನೆಚ್ಚಿನ ಉನ್ನತ ತಂಡಗಳ ಆಟಗಳನ್ನು ಸುಲಭವಾಗಿ ಹುಡುಕಬಹುದು. ಅಧಿಕೃತ ವೀಕ್ಷಣಾ ಆಯ್ಕೆಗಳೊಂದಿಗೆ ನವೀಕೃತವಾಗಿರಿ ಮತ್ತು ಜರ್ಮನ್ ಫುಟ್‌ಬಾಲ್ ಕ್ರಿಯೆಯ ಒಂದು ಕ್ಷಣವನ್ನೂ ಕಳೆದುಕೊಳ್ಳಬೇಡಿ!"
-            },
-            "mr": {
-                "title": "बुंडेसलिगा लाईव्ह: तुमची टीव्ही आणि स्ट्रीम मार्गदर्शिका",
-                "content": "प्रत्येक बुंडेसलिगा गोल आणि नाट्यमय शेवट पाहण्यासाठी उत्सुक आहात? हे आवश्यक मार्गदर्शक सर्व महत्त्वाचे प्रसारण तपशील एका दृष्टिक्षेपात देते. टीव्ही आणि लाईव्हस्ट्रीमद्वारे थेट सामने कोठे पहायचे हे नक्की शोधा. चाहते, विशेषतः जर्मनीतील, त्यांच्या आवडत्या शीर्ष-स्तरीय संघांचे सामने सहज शोधू शकतात. अधिकृत पाहण्याच्या पर्यायांसह अद्ययावित रहा आणि जर्मन फुटबॉलच्या कृतीचा एकही क्षण चुकवू नका!"
-            },
-            "hi": {
-                "title": "बुंडेसलीगा लाइव: आपकी टीवी और स्ट्रीम गाइड",
-                "content": "बुंडेसलीगा के हर गोल और नाटकीय समापन को देखने के लिए उत्सुक हैं? यह आवश्यक गाइड एक नज़र में सभी महत्वपूर्ण प्रसारण विवरण प्रदान करता है। जानें कि टीवी और लाइवस्ट्रीम के माध्यम से लाइव मैच कहाँ देखें। प्रशंसक, विशेष रूप से जर्मनी में, अपनी पसंदीदा शीर्ष-स्तरीय टीमों के खेल आसानी से ढूंढ सकते हैं। आधिकारिक देखने के विकल्पों के साथ अपडेट रहें और जर्मन फुटबॉल एक्शन का एक भी क्षण न चूकें!"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMirg5BVV95cUxNMFh5bnpfamFiQVRzaUx5dHh3T1ZNVmhBY3NiOWRaM0dLd1pPUTJtZXJEeW1URkgzNlFKZF85UHBpR1dLWUxxZ1p0M3FsYmgxbExqSnA1NVNYNUJPOW1jLWduRnJ6V0d2WDJGdUZDN1RjV1NINVh1bHFMd0VFQ1dpS0hNQndjc1BpZFRNYmxmZVZ0NWROOVpuRy1mNUlsRXpodEhOckpobFJNUnViMFVpdXhfRVI0NS1lUGxfVC1ZN1d3MG04Zk9MT2JxMGdwNXZKVWZKS3JMa0JLamdrNGRkd3hlMFZlTndFcVk1YjN4bEQyOWJSeU5MUUl6b3ZWUkowTGJWWkE3ck94NlB3a0lac3ZielVPZnhaSzlLR0xvaFAtWTYxdEZFLWhQeFdHN1YyYU5BcDE3TWpjWHFhdGtNamRSLWxuRlZXSnZjZUhwclNkT2pVR1Y1NWtFTk83c1VRbjB6RzhxUkx6cFVaek5DMmFmdDBId2FCSkRMci1vNjdWN2FBSmpoWDhyd2haMFlkbGUxOE9HaFN1S2RlemtZY1RhcmxrSldyMkZwaGg0S0I2OWZZdUVDcDdpc2Z0OWFvQTA5NFNnWWtMeEFjU0ktRWVXekpDNnFGemVaSEU5elJsYVJjbVNrZGZxSVlKUkRVajY0cWJSbkR6Y3VpVzFHSFhnbUtrdDJVUTVPSlBTVkZNTW9GZzlOZDVoZlVoZ2o0dlV3a0JlcXVDV2JIZFYtdlJXYUNrOXBCaFNGd3h2bHJ4aGxCZ0RKdGRIS0w4czBNX3JfRkVwXzVac19BaDZoRVhncUFGVzYxSU8wRUpiUlhsWHNnSFBhMHlJVmlBTWNhT3BUNWxsaWRsbjhtQzJmNFdjM0ZoalFodzhnejFCMDFNLVJ2TGVNbWxvdlluUzMzTlFiSVdLOC1ldnRScXJLMjNuQnFUczByMEZUZzJlTnBSVGRZM3p3YXNKM3VhVDRwbXBSS0lIR1U3VXQyak1YZUtwakdlTHVFOUdteUFXenBYb2FzSkMxbzgxamFHX1JPWHpkdXNUTUNlVkpmNlhPdzdEdTRaa2puLWczYndSLWxydmd1SnBvMlpwc3BoSzNDUFpDbVMxSTltYkQxTGJKT2FHU2NZV21mbV9fTTQxMGJGQS1Xam1VTlBCWGVSanFWUno3Q2p3LWtkWWxTcjY2WThpMnRlLXVtaXV1MFpMdk1wZ1pGV2Vsc210ZEsxbE83WTV2eWpSYWRlLWRKa0JBMUpscWxyV0FLZjdocTNEakZ2TWhKRTRxXzB1Xy1xSmJCdVh1ZWtnQXJ5OGNKMG4wZWJQSDdTci1DQjdydHNuLWlTbDl3WGpXVG5jQm9Ub3NMSHl6UTR6Z1R6eC1TZzRWTVhOMzdOOU5FY1FXNjJjWEo1QVo1MGpKZlltRGhQZnB0bjhqWENCVHUtMWs2SVVQb2JRVnNHUGNFaG1sVU44R0JsMDUzRU5HMUlJUGdKS2E0Unp1UWFvSFRMSlFMQnNjZlJlN2N0Vzg1NVplVTNuWldGRmxHLVBrZzNLTlRxWU12WmNoLVE3a2tlLU9hdW94OXYzWXJNVDFQWnlXWjJ1dmdHdXh4V0pPV3JteXZFd1lEdU5xQlpUSmVTUi1HQ1c2X2czQzd4dnNCazFiTURJNk82YnI0aXRLU1V3N0ZzUkJaWDd3enJzd3BtWDhlVS00UnJ5ZGJ3TGNFRjg1eXZlUlVUUmhEWGVVN0NEY3FnbFJaX3pBc2NsTm5rc2lMVzl1eGNDVTFuR3lQTV9yNEtiallWVzhTV20xeVZaa1ZTSUJoYUZfcFBTZ3VmT2NFZUV2VnFoY0piRklWV3JCdDJWUnJabG11QWNOY3hJQWZkZ3Y5UGJWYlBUVHAyeUpPdmR2dXpuY2tDZjFLc0NtV2Z4NzJ1bXl2d0c5Q2VDNGxKU3NCajUzYTF2b1cwM2psNFBwdm8xVjdGbVYtUTZIaU55WWQwV285Zmp6UllHcVlDZFYyMHpIVkk4NUpnUjNPeV9rcFVPbldXaUprb2tZQWhjZHNhaTBkQ2FjMVpvdDdLVDVNcjU4VHlhaXp1Vk9nd1lUZXkxRS0yQXlaOUVkMFB6ZzkyZEQ4cWVYSVk0OUFVbkdheFdkZXFRRXpLMktZdUJVNmo4YlFoTkNZRWVCdGpFVVJUSmFvejFIcnNFUTNaNzZEOGVJM3FiX184SWVNQVRPVUI4LVdVSkJkb2Y1T19adEpoeGVzT2RtLXhPR3hvemdRTGNjcUJ6dXQ5N2VCU1ZhOGhyQTIxekxxOHQzekFZVC01XzI1akhZbVpaZldOckVkSGp1M2N3b3JmQlR2RDU5YjZvczczREhhMlpMVUR3Y2o2Q0hCbjgyRlAtbkQ3WDhDOEV0TmIwTHNYQWh6cURyNllUU1kwbWY3T2pGR25kNTNOWFQtb0NIY25ST3ZZQQ?oc=5",
-        "date": "Thu, 09 Apr 2026 08:35:59 GMT"
-    },
-    {
-        "id": "c34a4fc6",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "BJP's Nabin on Vijay: Commitment Key, Predicts TN Surprise",
-                "content": "BJP chief Nitin Nabin remarked on actor Vijay's TVK, asserting 'politics needs commitment.' Nabin highlighted the demanding nature of electoral politics compared to cinema. He confidently predicted 'surprising' results for BJP in Tamil Nadu's upcoming elections, signaling strong belief in the party's growth and impact amidst new political entries."
-            },
-            "kn": {
-                "title": "ವಿಜಯ್‌ಗೆ ಬಿಜೆಪಿ ನಬಿನ್: ಬದ್ಧತೆ ಮುಖ್ಯ, ತಮಿಳುನಾಡಿನಲ್ಲಿ ಅಚ್ಚರಿಯ ಭವಿಷ್ಯ",
-                "content": "ಬಿಜೆಪಿ ಮುಖ್ಯಸ್ಥ ನಿತಿನ್ ನಬಿನ್ ನಟ ವಿಜಯ್ ಅವರ ಟಿವಿಕೆ ಪಕ್ಷದ ಬಗ್ಗೆ ಪ್ರತಿಕ್ರಿಯಿಸಿ, 'ರಾಜಕೀಯಕ್ಕೆ ಬದ್ಧತೆ ಬೇಕು' ಎಂದು ಒತ್ತಿ ಹೇಳಿದರು. ಸಿನಿಮಾ ಕ್ಷೇತ್ರಕ್ಕೆ ಹೋಲಿಸಿದರೆ ಚುನಾವಣಾ ರಾಜಕೀಯದ ಬೇಡಿಕೆಯ ಸ್ವರೂಪವನ್ನು ನಬಿನ್ ಎತ್ತಿ ತೋರಿಸಿದರು. ಮುಂಬರುವ ತಮಿಳುನಾಡು ಚುನಾವಣೆಯಲ್ಲಿ ಬಿಜೆಪಿಗೆ 'ಅಚ್ಚರಿಯ' ಫಲಿತಾಂಶ ಬರಲಿದೆ ಎಂದು ಅವರು ವಿಶ್ವಾಸದಿಂದ ಭವಿಷ್ಯ ನುಡಿದರು, ಇದು ಹೊಸ ರಾಜಕೀಯ ಪ್ರವೇಶಗಳ ನಡುವೆಯೂ ಪಕ್ಷದ ಬೆಳವಣಿಗೆ ಮತ್ತು ಪ್ರಭಾವದ ಬಗ್ಗೆ ಬಲವಾದ ನಂಬಿಕೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "विजयबद्दल भाजपचे नबिन: वचनबद्धता महत्त्वाची, तामिळनाडूत अनपेक्षित निकालांची शक्यता",
-                "content": "भाजपचे प्रमुख नितीन नबिन यांनी अभिनेता विजयच्या टीव्हीके पक्षावर भाष्य करताना म्हटले की, 'राजकारणासाठी वचनबद्धता आवश्यक आहे.' नबिन यांनी सिनेमाच्या तुलनेत निवडणुकीच्या राजकारणाची मागणीची प्रवृत्ती अधोरेखित केली. त्यांनी तामिळनाडूच्या आगामी निवडणुकांमध्ये भाजपसाठी 'आश्चर्यकारक' निकालांची भविष्यवाणी केली, ज्यामुळे नवीन राजकीय पक्षांच्या आगमनानंतरही पक्षाच्या वाढीवर आणि प्रभावावर असलेला त्यांचा दृढ विश्वास दिसून येतो."
-            },
-            "hi": {
-                "title": "विजय पर बीजेपी के नबीन: प्रतिबद्धता महत्वपूर्ण, तमिलनाडु में आश्चर्यजनक परिणामों का अनुमान",
-                "content": "भाजपा प्रमुख नितिन नबीन ने अभिनेता विजय की टी.वी.के. पार्टी पर टिप्पणी करते हुए कहा कि 'राजनीति को प्रतिबद्धता की आवश्यकता है।' नबीन ने सिनेमा की तुलना में चुनावी राजनीति की चुनौतीपूर्ण प्रकृति को उजागर किया। उन्होंने तमिलनाडु के आगामी चुनावों में भाजपा के लिए 'आश्चर्यजनक' परिणामों की भविष्यवाणी की, जो नए राजनीतिक प्रवेशकों के बीच भी पार्टी की वृद्धि और प्रभाव में उनके दृढ़ विश्वास को दर्शाता है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-130131655,imgsize-41148.cms",
-        "link": "https://timesofindia.indiatimes.com/india/politics-needs-commitment-bjp-chief-nitin-nabin-on-tvks-vijay-predicts-surprising-results-in-tamil-nadu/articleshow/130131118.cms",
-        "date": "2026-04-09T11:54:32+05:30"
-    },
-    {
-        "id": "f01e8739",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Shubman Gill Fined After GT's Thrilling Win",
-                "content": "Shubman Gill faced a penalty despite Gujarat Titans' thrilling last-ball victory over Delhi Capitals in IPL 2026. The GT captain was fined for a slow over-rate, marring an otherwise perfect winning start to their campaign. Fans wonder if this early setback will impact their season or if GT can overcome it to build momentum."
-            },
-            "kn": {
-                "title": "ಜಿಟಿ ರೋಮಾಂಚಕ ಗೆಲುವಿನ ಬಳಿಕ ಶುಭಮನ್ ಗಿಲ್‌ಗೆ ದಂಡ",
-                "content": "ಐಪಿಎಲ್ 2026ರಲ್ಲಿ ಡೆಲ್ಲಿ ಕ್ಯಾಪಿಟಲ್ಸ್ ವಿರುದ್ಧ ಗುಜರಾತ್ ಟೈಟನ್ಸ್ ರೋಮಾಂಚಕ ಕೊನೆಯ ಎಸೆತದ ಗೆಲುವು ಸಾಧಿಸಿದರೂ, ಶುಭಮನ್ ಗಿಲ್‌ಗೆ ದಂಡ ವಿಧಿಸಲಾಯಿತು. ನಿಧಾನಗತಿಯ ಓವರ್-ರೇಟ್‌ಗಾಗಿ ಜಿಟಿ ನಾಯಕನಿಗೆ ದಂಡ ವಿಧಿಸಲಾಗಿದ್ದು, ಇದು ಅವರ ಅಭಿಯಾನದ ಗೆಲುವಿನ ಆರಂಭಕ್ಕೆ ಹಿನ್ನಡೆಯಾಯಿತು. ಈ ಆರಂಭಿಕ ಹಿನ್ನಡೆ ಅವರ ಸೀಸನ್ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರುತ್ತದೆಯೇ ಅಥವಾ ಜಿಟಿ ಇದನ್ನು ನಿವಾರಿಸಿ ಮುನ್ನಡೆಯುತ್ತದೆಯೇ ಎಂದು ಅಭಿಮಾನಿಗಳು ಆಶ್ಚರ್ಯ ಪಡುತ್ತಿದ್ದಾರೆ."
-            },
-            "mr": {
-                "title": "जीटीच्या थरारक विजयानंतर शुभमन गिलला दंड",
-                "content": "आयपीएल 2026 मध्ये, गुजरात टायटन्सने दिल्ली कॅपिटल्सविरुद्ध शेवटच्या चेंडूवर थरारक विजय मिळवला असला तरी, शुभमन गिलला दंड भरावा लागला. धीम्या गतीच्या ओव्हर-रेटमुळे जीटीच्या कर्णधाराला दंड ठोठावण्यात आला, ज्यामुळे त्यांच्या विजयाच्या सुरुवातीला गालबोट लागले. या सुरुवातीच्या धक्क्याचा त्यांच्या हंगामावर परिणाम होईल की जीटी यातून बाहेर पडून गती कायम राखेल, असा प्रश्न चाहत्यांना पडला आहे."
-            },
-            "hi": {
-                "title": "जीटी की रोमांचक जीत के बाद शुभमन गिल पर लगा जुर्माना",
-                "content": "IPL 2026 में दिल्ली कैपिटल्स के खिलाफ गुजरात टाइटंस की रोमांचक आखिरी गेंद की जीत के बावजूद शुभमन गिल को दंडित किया गया। जीटी के कप्तान पर धीमी ओवर-रेट के लिए जुर्माना लगाया गया, जिससे उनके अभियान की शानदार जीत की शुरुआत पर दाग लग गया। प्रशंसक सोच रहे हैं कि क्या यह शुरुआती झटका उनके सीज़न को प्रभावित करेगा या जीटी इससे उबरकर गति बनाए रख पाएगी।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQQV8tVEVCcHlQYVpJV29LNEZxSUJUVHNHaGpwU0ctbDJCRnFERUpCY2piTjZnWmRTeXhHMTZDb2otamhtQkFmcGxRRmFhQzJ5QldmZFl6eXVnXzRmOTRMVk9FODVRZ1l1aEZ6MTRpSlBxVVhMMzZrLXNqSm9XNExwY1BNX0U0N1hUaEgzTHZEcGxSTEtnaG81T0FJWkdBTVZyYmdickdRWDUxSnZVUEZxUnNSN3RoZzFZNjA1eWt0SEJ5UVVVUmNIZGdSam4xcVFtWmJpMG1DdURoS3JBNGpOT1lQQTFSWExfdGpfU0RwRWd4cHRKaTZIZVF30gH_AUFVX3lxTFBjQUFQeVh5eUtuM2tNVURJV05NMDhtWVBEYWF4NkMwMml5NmpCZWFnNXV3b1pJU3FmWjBjNkIyRVBTeG9zbldrZ2tZdEc3eDZ3Zy1ncnVIbW1QTkZCbzRHcF9DczNQWWdIRncwXzJwc2NEVVZ1d2k3dG1QTV9lVnpDbVJLTENsSVJUdlhiS0YwWTRSUFVOZnJmdnI3emNvUUhDQTc2eVE3ZGhybTkzNGNqUm53RW85OHV2X3RlZUlVT1YzYXdwTEtqSWZLU19HTlpYNF9uS0Z0U2ZTRnJXanJpdllaTG5nVk8zcV9TQWFoTkFaRUFfOWp1cVdkYVJJbw?oc=5",
-        "date": "Thu, 09 Apr 2026 06:06:00 GMT"
-    },
-    {
-        "id": "044525e6",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Vulture Deaths Rock Dudhwa: Poison Suspected",
-                "content": "Dudhwa Tiger Reserve is probing the suspicious deaths of 25 critically endangered vultures in its buffer zone. Authorities suspect the birds consumed poisoned dog carcasses. While post-mortem confirmed a poisonous substance in the dogs, the exact toxin remains unidentified. IVRI Bareilly is assisting the investigation to uncover the cause and prevent further losses to the vulnerable vulture population."
-            },
-            "kn": {
-                "title": "ದುಧ್ವಾದಲ್ಲಿ ಗಿಡುಗಗಳ ಸಾವು: ವಿಷದ ಶಂಕೆ",
-                "content": "ದುಧ್ವಾ ಹುಲಿ ಸಂರಕ್ಷಿತಾರಣ್ಯದಲ್ಲಿ 25 ಅಳಿವಿನಂಚಿನಲ್ಲಿರುವ ಗಿಡುಗಗಳ ಸಾವಿನ ಬಗ್ಗೆ ತನಿಖೆ ನಡೆಯುತ್ತಿದೆ. ಈ ಪಕ್ಷಿಗಳು ವಿಷಪೂರಿತ ನಾಯಿಗಳ ಮೃತದೇಹಗಳನ್ನು ಸೇವಿಸಿರಬಹುದು ಎಂದು ಅಧಿಕಾರಿಗಳು ಶಂಕಿಸಿದ್ದಾರೆ. ನಾಯಿಗಳಲ್ಲಿ ವಿಷಕಾರಿ ವಸ್ತು ಇರುವುದು ಮರಣೋತ್ತರ ಪರೀಕ್ಷೆಯಲ್ಲಿ ದೃಢಪಟ್ಟಿದ್ದರೂ, ನಿಖರವಾದ ವಿಷ ಯಾವುದು ಎಂದು ಇನ್ನೂ ಗುರುತಿಸಲಾಗಿಲ್ಲ. ದುರ್ಬಲ ಗಿಡುಗಗಳ ಜನಸಂಖ್ಯೆಗೆ ಮತ್ತಷ್ಟು ಹಾನಿಯಾಗದಂತೆ ತಡೆಯಲು IVRI ಬರೇಲಿ ತನಿಖೆಗೆ ನೆರವಾಗುತ್ತಿದೆ."
-            },
-            "mr": {
-                "title": "दुधवा येथे गिधाडांचा मृत्यू: विषाची शक्यता",
-                "content": "दुधवा व्याघ्र प्रकल्पातील बफर झोनमध्ये 25 गंभीरपणे धोक्यात असलेल्या गिधाडांच्या संशयास्पद मृत्यूची चौकशी सुरू आहे. या पक्ष्यांनी विषारी कुत्र्यांची मृतदेह खाल्ल्याचा अधिकाऱ्यांचा संशय आहे. कुत्र्यांमध्ये विषारी पदार्थ असल्याची शवविच्छेदन अहवालातून पुष्टी झाली असली तरी, नेमके कोणते विष आहे हे अद्याप ओळखले गेलेले नाही. असुरक्षित गिधाडांच्या लोकसंख्येचे पुढील नुकसान टाळण्यासाठी IVRI बरेली तपासणीत मदत करत आहे."
-            },
-            "hi": {
-                "title": "दुधवा में गिद्धों की मौत: जहर का संदेह",
-                "content": "दुधवा टाइगर रिजर्व अपने बफर जोन में 25 गंभीर रूप से लुप्तप्राय गिद्धों की संदिग्ध मौतों की जांच कर रहा है। अधिकारियों को संदेह है कि पक्षियों ने जहरीले कुत्ते के शवों का सेवन किया है। पोस्टमार्टम में कुत्तों में जहरीले पदार्थ की पुष्टि हुई है, लेकिन सटीक जहर की पहचान अभी बाकी है। कमजोर गिद्धों की आबादी को और नुकसान से बचाने के लिए IVRI बरेली जांच में सहायता कर रहा है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-130130249,imgsize-254132.cms",
-        "link": "https://timesofindia.indiatimes.com/india/dudhwa-buffer-zone-staff-collecting-carcasses-after-death-of-25-vultures/articleshow/130129693.cms",
-        "date": "2026-04-09T12:01:21+05:30"
-    },
-    {
-        "id": "b4d17403",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Paramount President Jeff Shell Exits Amid Leak Scandal",
-                "content": "Paramount President Jeff Shell has resigned amidst an insider leak lawsuit, his second controversial departure in three years. The high-profile exit follows legal scrutiny into alleged corporate misconduct, raising significant questions about leadership and internal practices at the entertainment giant."
-            },
-            "kn": {
-                "title": "ಪ್ಯಾರಾಮೌಂಟ್ ಅಧ್ಯಕ್ಷ ಜೆಫ್ ಶೆಲ್ ಸೋರಿಕೆ ಹಗರಣದ ನಡುವೆ ನಿರ್ಗಮನ",
-                "content": "ಪ್ಯಾರಾಮೌಂಟ್ ಅಧ್ಯಕ್ಷ ಜೆಫ್ ಶೆಲ್ ಅವರು ಆಂತರಿಕ ಸೋರಿಕೆ ಮೊಕದ್ದಮೆಯ ನಡುವೆ ರಾಜೀನಾಮೆ ನೀಡಿದ್ದಾರೆ, ಇದು ಮೂರು ವರ್ಷಗಳಲ್ಲಿ ಅವರ ಎರಡನೇ ವಿವಾದಾತ್ಮಕ ನಿರ್ಗಮನವಾಗಿದೆ. ಈ ಉನ್ನತ ಮಟ್ಟದ ನಿರ್ಗಮನವು ಕಾರ್ಪೊರೇಟ್ ದುರ್ನಡತೆಯ ಆರೋಪಗಳ ಕಾನೂನು ಪರಿಶೀಲನೆಯ ನಂತರ ಬಂದಿದೆ, ಮನರಂಜನಾ ದೈತ್ಯ ಕಂಪನಿಯಲ್ಲಿ ನಾಯಕತ್ವ ಮತ್ತು ಆಂತರಿಕ ಪದ್ಧತಿಗಳ ಬಗ್ಗೆ ಗಮನಾರ್ಹ ಪ್ರಶ್ನೆಗಳನ್ನು ಹುಟ್ಟುಹಾಕಿದೆ."
-            },
-            "mr": {
-                "title": "पॅरामाउंट अध्यक्ष जेफ शेल यांचा लीक प्रकरणामुळे राजीनामा",
-                "content": "पॅरामाउंटचे अध्यक्ष जेफ शेल यांनी एका अंतर्गत माहिती लीकच्या खटल्यामुळे राजीनामा दिला आहे, तीन वर्षांतील हा त्यांचा दुसरा वादग्रस्त बाहेर पडण्याचा प्रसंग आहे. कथित कॉर्पोरेट गैरवर्तनासंदर्भातील कायदेशीर चौकशीनंतर हा उच्चस्तरीय राजीनामा आला आहे, ज्यामुळे या मनोरंजन क्षेत्रातील मोठ्या कंपनीतील नेतृत्व आणि अंतर्गत कार्यपद्धतींबद्दल महत्त्वाचे प्रश्न निर्माण झाले आहेत."
-            },
-            "hi": {
-                "title": "पैरामाउंट अध्यक्ष जेफ शेल ने लीक घोटाले के बीच छोड़ा पद",
-                "content": "पैरामाउंट के अध्यक्ष जेफ शेल ने एक आंतरिक लीक मुकदमे के बीच इस्तीफा दे दिया है, जो तीन साल में उनका दूसरा विवादास्पद पदत्याग है। यह हाई-प्रोफाइल इस्तीफा कथित कॉर्पोरेट कदाचार की कानूनी जांच के बाद आया है, जिससे मनोरंजन क्षेत्र की इस दिग्गज कंपनी में नेतृत्व और आंतरिक कार्यप्रणालियों के बारे में महत्वपूर्ण सवाल उठ रहे हैं।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNT3I3c1psSGhmZDZJS2dBVHVFazNGVnBNTlNqVTBWY2RxeWRrbTBQYmxYZUVwWDRtS2VTVUJPNVFMQnlpWFBEdmViYlBVQW8wVEVUdG1meDdjM3RWMGdhc2J0aXBPX0RFNERpUElzdGYxZmlhVnNqeFJQTEl1T3Z5d0VlMGNNb182cVVyTkNHcXVnX1lSNmJQeHdlcXlxSkJtU1RjZkJTT1hZLTZxX1RnN19nem1DSzBjZXBWT21hMDZSSk1ZZDVKRmd4blg5cExlS0dvQ3Etby1qeV9jSzBYSjVmN0EzajFOckN2OFJIdzd6c3F5RVRWb9IB_gFBVV95cUxQUjRKYS1ReHYtZ2JqakNoSXpFalNyc09yb05Fd2J0bUFqNTJESURld0x4SkpLdlNCbFRpYU1LRWZuR3U1Unpxa2NleWN2Nks5QW9RT1A0V09SSk8tZXZsV1ZuNG1SRlhRYkNwaUtaS080aF9GaVluUHlrTVJXc1JuNzBvRGI2RjQ1VGNTNEFUNlpKOHpLUHNVaV90TFVKZGpVYUxBSkxiOGltYmFyWm5TNVpLOU9TakxyczNORzdoYzRmUTF2bnk4bjZVZG9vRDBQUG56NTJBdW0xNnpzSXdmdFlOV2dkNG1kaWl3OVd6dFp3WFp3WDkwdm5NSnZIQQ?oc=5",
-        "date": "Thu, 09 Apr 2026 05:04:33 GMT"
-    },
-    {
-        "id": "d3963ce2",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Jos Buttler Enters Elite T20 Club in IPL 2026",
-                "content": "England's batting sensation Jos Buttler made history during IPL 2026, securing his place in an elite T20 club. This landmark achievement highlights his consistent brilliance and formidable talent in the shortest format of cricket. Buttler joins a select group of players, solidifying his status as one of the game's most impactful performers. His incredible journey continues to inspire."
-            },
-            "kn": {
-                "title": "ಐಪಿಎಲ್ 2026 ರಲ್ಲಿ ಜೋಸ್ ಬಟ್ಲರ್ ಎಲೈಟ್ ಟಿ20 ಕ್ಲಬ್ ಸೇರಿದರು",
-                "content": "ಇಂಗ್ಲೆಂಡ್‌ನ ಬ್ಯಾಟಿಂಗ್ ಸಂವೇದನೆ ಜೋಸ್ ಬಟ್ಲರ್ ಐಪಿಎಲ್ 2026 ರಲ್ಲಿ ಇತಿಹಾಸ ಸೃಷ್ಟಿಸಿದ್ದಾರೆ, ಎಲೈಟ್ ಟಿ20 ಕ್ಲಬ್‌ನಲ್ಲಿ ತಮ್ಮ ಸ್ಥಾನವನ್ನು ಭದ್ರಪಡಿಸಿಕೊಂಡಿದ್ದಾರೆ. ಈ ಮೈಲಿಗಲ್ಲು ಸಾಧನೆಯು ಕ್ರಿಕೆಟ್‌ನ ಅತ್ಯಂತ ಚಿಕ್ಕ ಸ್ವರೂಪದಲ್ಲಿ ಅವರ ಸ್ಥಿರ ಪ್ರತಿಭೆ ಮತ್ತು ಅದ್ಭುತ ಸಾಮರ್ಥ್ಯವನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ. ಬಟ್ಲರ್ ಆಯ್ದ ಆಟಗಾರರ ಗುಂಪಿಗೆ ಸೇರುತ್ತಾರೆ, ಆಟದ ಅತ್ಯಂತ ಪ್ರಭಾವಶಾಲಿ ಪ್ರದರ್ಶಕರಲ್ಲಿ ಒಬ್ಬರಾಗಿ ತಮ್ಮ ಸ್ಥಾನಮಾನವನ್ನು ಗಟ್ಟಿಗೊಳಿಸುತ್ತಾರೆ. ಅವರ ಅದ್ಭುತ ಪಯಣ ಸ್ಫೂರ್ತಿದಾಯಕವಾಗಿ ಮುಂದುವರಿಯುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "आयपीएल 2026 मध्ये जॉस बटलर 'एलिट T20 क्लब' मध्ये दाखल",
-                "content": "इंग्लंडचा फलंदाजीचा सनसनाटी खेळाडू जॉस बटलरने आयपीएल 2026 मध्ये इतिहास घडवला, 'एलिट T20 क्लब' मध्ये आपले स्थान निश्चित केले. ही ऐतिहासिक कामगिरी क्रिकेटच्या सर्वात लहान फॉरमॅटमधील त्याची सातत्यपूर्ण चमक आणि जबरदस्त प्रतिभा अधोरेखित करते. बटलर निवडक खेळाडूंच्या गटात सामील झाला आहे, ज्यामुळे तो खेळातील सर्वात प्रभावी खेळाडूंपैकी एक म्हणून त्याची ओळख प्रस्थापित झाली आहे. त्याचा अविश्वसनीय प्रवास प्रेरणा देत राहील."
-            },
-            "hi": {
-                "title": "आईपीएल 2026 में जोस बटलर ने 'एलीट टी20 क्लब' में प्रवेश किया",
-                "content": "इंग्लैंड के बल्लेबाजी सनसनी जोस बटलर ने आईपीएल 2026 के दौरान इतिहास रचा, 'एलीट टी20 क्लब' में अपनी जगह सुरक्षित की। यह ऐतिहासिक उपलब्धि क्रिकेट के सबसे छोटे प्रारूप में उनकी लगातार चमक और जबरदस्त प्रतिभा को उजागर करती है। बटलर चुनिंदा खिलाड़ियों के समूह में शामिल हो गए हैं, जिससे खेल के सबसे प्रभावशाली प्रदर्शनकर्ताओं में से एक के रूप में उनकी स्थिति मजबूत हुई है। उनका अविश्वसनीय सफर प्रेरणा देना जारी है।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQRFAyUnFqMlNGRjlYVWdIbktia3c1ZFp3c0FKSllySlJHZnRVS2dxdXdJOXpzWlFyZk9IWk03T0VmdnlrQXMwV1NBX2JTTFQ0dHJwV0xlX0ZhM05PLTcwVE1INmd1X2U0OUphMl93cXRlN3cxRVYwTTlwSWNxLTFKNk10dGpJZkN1V1dIcE1nM01HaDJiNjh6QXM1aVItV2o5TmhGV3JwYVVkWUF6WEN3bDV4R295eGdoSER6SGQyR3pRQ0w2YVF3czJfbko0NmtIYTZJWUtPY0Z1aHFkOGExaGo0b3lGZ9IB6wFBVV95cUxQNlotNVJJNE1CcTVrQmNRTFFCS3RRc21ldHpvcl9XNDBRTUdYV19IOFk3M2ljNnRVa1poM2lsbnZKSThVYnpkdDZVdHVYeDB1bGNqZHJOQ2JVTFM1RF9KanF1dGdVVlM0X0FuMEdmeXQzOWxabDhuN0l1VXE2eEQyaXFBNWYzWlhfUVlEY1htQUdYeUxfZlNNREZReFltLVBudHpFQTRwYWpXdUdUOGZyT0NHbnUtdnA4ZFNMYXQxY1M3Q2hVVTNRclNjWWxHaUxZb1FkZXRzdmduZ3ctT2ZKVl9wZ3dQMnBuNFY4?oc=5",
-        "date": "Wed, 08 Apr 2026 23:30:00 GMT"
-    },
-    {
-        "id": "c5e8351e",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Starc Sidelined Further for Delhi Capitals in IPL 2026",
-                "content": "Delhi Capitals' pace spearhead Mitchell Starc is set to miss at least three more games in the IPL 2026 season due to his persistent injury. This absence deals a significant blow to the team's bowling attack and strategic plans for the upcoming crucial matches. His return timeline remains unclear, raising concerns for the Capitals' campaign."
-            },
-            "kn": {
-                "title": "ಐಪಿಎಲ್ 2026 ರಲ್ಲಿ ಡೆಲ್ಲಿ ಕ್ಯಾಪಿಟಲ್ಸ್‌ಗೆ ಸ್ಟಾರ್ಕ್‌ಗೆ ಮತ್ತಷ್ಟು ಪಂದ್ಯಗಳ ಕಳೆತ",
-                "content": "ಡೆಲ್ಲಿ ಕ್ಯಾಪಿಟಲ್ಸ್‌ನ ಪ್ರಮುಖ ವೇಗದ ಬೌಲರ್ ಮಿಚೆಲ್ ಸ್ಟಾರ್ಕ್, ಅವರ ನಿರಂತರ ಗಾಯದ ಕಾರಣ ಐಪಿಎಲ್ 2026 ಸೀಸನ್‌ನಲ್ಲಿ ಕನಿಷ್ಠ ಇನ್ನೂ ಮೂರು ಪಂದ್ಯಗಳನ್ನು ಕಳೆದುಕೊಳ್ಳಲಿದ್ದಾರೆ. ಈ ಅನುಪಸ್ಥಿತಿಯು ತಂಡದ ಬೌಲಿಂಗ್ ಆಕ್ರಮಣ ಮತ್ತು ಮುಂಬರುವ ನಿರ್ಣಾಯಕ ಪಂದ್ಯಗಳ ಕಾರ್ಯತಂತ್ರದ ಯೋಜನೆಗಳಿಗೆ ದೊಡ್ಡ ಹೊಡೆತ ನೀಡುತ್ತದೆ. ಅವರ ಮರಳುವಿಕೆಯ ಸಮಯ ಅಸ್ಪಷ್ಟವಾಗಿದ್ದು, ಕ್ಯಾಪಿಟಲ್ಸ್‌ನ ಅಭಿಯಾನಕ್ಕೆ ಕಳವಳ ಮೂಡಿಸಿದೆ."
-            },
-            "mr": {
-                "title": "दिल्ली कॅपिटल्सचा स्टार्क आयपीएल 2026 मध्ये आणखी काही सामने मुकणार",
-                "content": "दिल्ली कॅपिटल्सचा वेगवान गोलंदाज मिचेल स्टार्क त्याच्या सततच्या दुखापतीमुळे आयपीएल २०२६ च्या हंगामात किमान आणखी तीन सामने खेळू शकणार नाही. त्याच्या या अनुपस्थितीमुळे संघाच्या गोलंदाजी आक्रमणाला आणि आगामी महत्त्वाच्या सामन्यांच्या रणनीतिक योजनांना मोठा धक्का बसला आहे. त्याच्या परत येण्याची वेळ अनिश्चित असल्याने कॅपिटल्सच्या मोहिमेसाठी चिंता वाढली आहे."
-            },
-            "hi": {
-                "title": "आईपीएल 2026 में दिल्ली कैपिटल्स के स्टार्क और मैच से बाहर",
-                "content": "दिल्ली कैपिटल्स के तेज गेंदबाज मिचेल स्टार्क अपनी लगातार चोट के कारण आईपीएल 2026 सीज़न में कम से कम तीन और मैच नहीं खेल पाएंगे। यह अनुपस्थिति टीम के गेंदबाजी आक्रमण और आगामी महत्वपूर्ण मैचों की रणनीतिक योजनाओं के लिए एक बड़ा झटका है। उनकी वापसी की समय-सीमा अनिश्चित बनी हुई है, जिससे कैपिटल्स के अभियान के लिए चिंताएँ बढ़ गई हैं।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOc3Q2QmpKbTFFX1plb25ya3RVT0xLbS1yTXZaQVJMT3V3RG1hOUxXTEw5bG1PazA0d040OXFYN2Z0bnZMTzRJZHN4YTdMQkNiQUktZmltWHBrbW1rNEpyT0dwVi16UlhobGw0UG9HNXpmMHc5Vkxsc3RuaUJpUG9EekJfSWphMk9VZ2VfV2p6U2ZId0c5cWJFeUpScU1PSDRrUmNiYkJOb1RROTVJYi1nLWtkOE12bXJ0QXp4NUZPVmdjSm1CQjNGNC00b3Y?oc=5",
-        "date": "Wed, 08 Apr 2026 19:41:34 GMT"
-    },
-    {
-        "id": "59821f34",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Hailee Steinfeld Unveils Secret Partnership",
-                "content": "Actress Hailee Steinfeld, identified in reports as Josh Allen's wife, has unveiled a 'secret partnership.' This highly anticipated announcement comes just days after a period described as 'welcoming,' generating significant buzz. While specifics of the collaboration are still under wraps, Steinfeld’s revelation hints at a major new professional venture, promising exciting developments for her fans and career."
-            },
-            "kn": {
-                "title": "ಹೇಲೀ ಸ್ಟೈನ್ಫೆಲ್ಡ್ ರಹಸ್ಯ ಪಾಲುದಾರಿಕೆಯನ್ನು ಅನಾವರಣಗೊಳಿಸಿದ್ದಾರೆ",
-                "content": "ವರದಿಗಳ ಪ್ರಕಾರ ಜೋಶ್ ಅಲೆನ್ ಅವರ ಪತ್ನಿ ಎಂದು ಗುರುತಿಸಲ್ಪಟ್ಟಿರುವ ನಟಿ ಹೇಲೀ ಸ್ಟೈನ್ಫೆಲ್ಡ್, 'ರಹಸ್ಯ ಪಾಲುದಾರಿಕೆ'ಯನ್ನು ಅನಾವರಣಗೊಳಿಸಿದ್ದಾರೆ. 'ಸ್ವಾಗತಾರ್ಹ' ಎಂದು ವಿವರಿಸಲಾದ ಅವಧಿಯ ಕೆಲವೇ ದಿನಗಳ ನಂತರ ಈ ಬಹುನಿರೀಕ್ಷಿತ ಘೋಷಣೆ ಬಂದಿದ್ದು, ಭಾರಿ ಸಂಚಲನ ಸೃಷ್ಟಿಸಿದೆ. ಸಹಯೋಗದ ನಿರ್ದಿಷ್ಟ ವಿವರಗಳು ಇನ್ನೂ ರಹಸ್ಯವಾಗಿದ್ದರೂ, ಸ್ಟೈನ್ಫೆಲ್ಡ್ ಅವರ ಈ ಬಹಿರಂಗಪಡಿಸುವಿಕೆಯು ಪ್ರಮುಖ ಹೊಸ ವೃತ್ತಿಪರ ಯೋಜನೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ, ಅವರ ಅಭಿಮಾನಿಗಳು ಮತ್ತು ವೃತ್ತಿಜೀವನಕ್ಕೆ ರೋಮಾಂಚಕಾರಿ ಬೆಳವಣಿಗೆಗಳನ್ನು ಭರವಸೆ ನೀಡುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "हेली स्टाईनफेल्डने गोपनीय भागीदारी उघड केली",
-                "content": "रिपोर्ट्सनुसार, जोश ॲलनची पत्नी म्हणून ओळखली जाणारी अभिनेत्री हेली स्टाईनफेल्डने 'गोपनीय भागीदारी' उघड केली आहे. 'स्वागतार्ह' म्हणून वर्णन केलेल्या कालावधीनंतर काही दिवसांनी ही बहुप्रतिक्षित घोषणा झाली आहे, ज्यामुळे मोठी चर्चा सुरू झाली आहे. या सहकार्याचे विशिष्ट तपशील अजूनही गोपनीय असले तरी, स्टाईनफेल्डच्या या प्रकटीकरणामुळे एका मोठ्या नवीन व्यावसायिक उपक्रमाचे संकेत मिळतात, तिच्या चाहत्यांसाठी आणि कारकिर्दीसाठी रोमांचक घडामोडींचे वचन देते."
-            },
-            "hi": {
-                "title": "हेइली स्टेनफेल्ड ने गुप्त साझेदारी का अनावरण किया",
-                "content": "रिपोर्ट्स के अनुसार जोश एलन की पत्नी के रूप में पहचानी जाने वाली अभिनेत्री हेइली स्टेनफेल्ड ने एक 'गुप्त साझेदारी' का अनावरण किया है। 'स्वागतयोग्य' बताए गए एक दौर के ठीक कुछ दिनों बाद यह बहुप्रतीक्षित घोषणा हुई है, जिससे काफी हलचल मची है। हालांकि सहयोग के विशिष्ट विवरण अभी भी गुप्त हैं, स्टेनफेल्ड का यह खुलासा एक बड़े नए पेशेवर उद्यम की ओर इशारा करता है, जो उनके प्रशंसकों और करियर के लिए रोमांचक विकास का वादा करता है।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPaV9rRnVTb0lhbkdGVjR4TzEzUU5jZms2RFhnaVY2X0h2elpNUi1UM0ZDX3NKU3AzS3RUR1hHWUpiOVZrRkZnZS00Skljd1J2bWRuMmZaTTlnS295SUV0M0czcUFQRE1sNGxQUHNUbUxmdW82N3FzS2p0bXRYeU02NGhid2V3QWdzRUFPb1RtcXkzeDg4S2UxUGNETVlzUnJwcjBaaVZPZVJOYjdmNWZfR0dnNDYtNVoyb19WMWxHVUlVaGVJZnhIc1BqUFl3by1jMjVzOEtKME16Tms0MEgxb1FEYWlSM1BuLVlNLXpqQzBMcUNaUmt3c1llb08zRWZZRlZrbHl5Q0x0ckh6eFNzVzJMeWPSAZoCQVVfeXFMUG9RYnpQX2dsOXZoeHVuel8yaXRXbExJV1hOb1JLY3BHWF80SV9yZERKWU4wN1VKV0RtQmZNNy1IM1lMLW5mMWRZaFMxWmJ5dWc3ZGhCcjVxcWcyb1RCYzRpRTkwWllYWFZ2cXR1NjRTVDdZbWVrN2lheDdvNG1IOXM5bFV0a210WURzeVBROTJqRUo0STNXc3ZVbjZJWXIzdFVDanhkeFNETzhwaHRlNERCbk03TkFvVVZOOHRuaWQ3XzJhNW1sbHZzb0N0bUdHbF9wSnV1bXc2LVdyMjJueEtRaDNKUi11ekxkd2NlR2pZSnVRZjdXSHJtMFRwTVVpcmZfS2dKQ0txNElPRG9EV1p2ZGxIVElIck9n?oc=5",
-        "date": "Wed, 08 Apr 2026 23:32:00 GMT"
-    },
-    {
-        "id": "b6238eb7",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Bumrah's Rare IPL Wicketless Streak",
-                "content": "Jasprit Bumrah, known for his wicket-taking prowess, is currently experiencing an unusual three-match wicketless streak in the IPL 2026 season. This rare dip in form for the star pacer has become a talking point among fans and experts, raising questions about his performance. It's an uncommon challenge for one of cricket's best."
-            },
-            "kn": {
-                "title": "ಬುಮ್ರಾ ಅವರ ಅಪರೂಪದ ಐಪಿಎಲ್ ವಿಕೆಟ್‌ರಹಿತ ಸರಣಿ",
-                "content": "ವಿಕೆಟ್-ತೆಗೆದುಕೊಳ್ಳುವ ಸಾಮರ್ಥ್ಯಕ್ಕೆ ಹೆಸರುವಾಸಿಯಾದ ಜಸ್ಪ್ರೀತ್ ಬುಮ್ರಾ, ಐಪಿಎಲ್ 2026 ಋತುವಿನಲ್ಲಿ ಮೂರು ಪಂದ್ಯಗಳಲ್ಲಿ ವಿಕೆಟ್ ಪಡೆಯದೆ ಅಪರೂಪದ ಸರಣಿಯನ್ನು ಎದುರಿಸುತ್ತಿದ್ದಾರೆ. ಈ ತಾರೆ ವೇಗದ ಬೌಲರ್‌ಗೆ ಅಪರೂಪದ ಫಾರ್ಮ್ ಕುಸಿತವು ಅಭಿಮಾನಿಗಳು ಮತ್ತು ತಜ್ಞರ ನಡುವೆ ಚರ್ಚೆಯ ವಿಷಯವಾಗಿದೆ, ಅವರ ಪ್ರದರ್ಶನದ ಬಗ್ಗೆ ಪ್ರಶ್ನೆಗಳನ್ನು ಹುಟ್ಟುಹಾಕಿದೆ. ಇದು ಕ್ರಿಕೆಟ್‌ನ ಶ್ರೇಷ್ಠರಲ್ಲಿ ಒಬ್ಬರಿಗೆ ಅಸಾಮಾನ್ಯ ಸವಾಲು."
-            },
-            "mr": {
-                "title": "बुमराहची आयपीएलमधील दुर्मिळ विकेटरहित मालिका",
-                "content": "विकेट घेण्याच्या क्षमतेसाठी ओळखला जाणारा जसप्रीत बुमराह सध्या आयपीएल २०२६ हंगामात तीन सामन्यांच्या दुर्मिळ विकेटरहित मालिकेचा सामना करत आहे. स्टार वेगवान गोलंदाजाच्या फॉर्ममधील ही दुर्मिळ घसरण चाहते आणि तज्ञांमध्ये चर्चेचा विषय बनली आहे, ज्यामुळे त्याच्या कामगिरीबद्दल प्रश्न निर्माण झाले आहेत. क्रिकेटमधील सर्वोत्तम खेळाडूंपैकी एकासाठी हे एक असामान्य आव्हान आहे."
-            },
-            "hi": {
-                "title": "बुमराह की आईपीएल में दुर्लभ विकेटरहित स्ट्रीक",
-                "content": "विकेट लेने की अपनी क्षमता के लिए जाने जाने वाले जसप्रीत बुमराह इस समय आईपीएल 2026 सीज़न में तीन मैचों की असामान्य विकेटरहित स्ट्रीक का अनुभव कर रहे हैं। स्टार तेज़ गेंदबाज़ के लिए फॉर्म में यह दुर्लभ गिरावट प्रशंसकों और विशेषज्ञों के बीच चर्चा का विषय बन गई है, जिससे उनके प्रदर्शन के बारे में सवाल उठ रहे हैं। यह क्रिकेट के सर्वश्रेष्ठ खिलाड़ियों में से एक के लिए एक असामान्य चुनौती है।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOb29ETnl0ZVVHVTJMT0RkTUpxejVjUVBKU1RWWUtPWkx2YWU4YUw5S0JMS0g2UkxYbnpLMVJTTEg4SThSM21oMDJHazJNWEVhT25mRWdndTNwWHlERDNZRm5TMmhvcUx6eTRuR1ppdlFXR2FRQ0sxbzZULWVXNm4yUTFHV3NMWDdqdlpqMnBSaXh5QzctZHNqcVE2WmRHQ1pyOXB4R1dmVUdfUVp1MWNONWxDUE5naWZPY2Q2UkdhU0I4Rm1QdUlKeDgtaGoxQ0xUOXlfclExSFFMQ0hvUkNVVnAxaTlzZw?oc=5",
-        "date": "Wed, 08 Apr 2026 04:07:14 GMT"
-    },
-    {
-        "id": "bb7b3b2b",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Eugenie Bouchard Snags Agassi's Coach for $1M Pickleball Slam",
-                "content": "Eugenie Bouchard, known for tennis, made a surprising move by securing Andre Agassi's coach, Darren Cahill, for the upcoming $1 million Pickleball Slam. This unexpected collaboration sees Bouchard team up with Jack Sock against Agassi and Steffi Graf. The high-stakes event marks a significant shift for Bouchard as she steps into the competitive pickleball arena with top-tier coaching."
-            },
-            "kn": {
-                "title": "ಯುಜೀನಿ ಬೌಚರ್ಡ್ $1M ಪಿಕ್ಕಲ್‌ಬಾಲ್ ಸ್ಲಾಮ್‌ಗೆ ಅಗಾಸ್ಸಿಯ ಕೋಚ್‌ನನ್ನು ಪಡೆದರು",
-                "content": "ಟೆನಿಸ್‌ನಿಂದ ಗುರುತಿಸಲ್ಪಟ್ಟ ಯುಜೀನಿ ಬೌಚರ್ಡ್, ಮುಂಬರುವ $1 ಮಿಲಿಯನ್ ಪಿಕ್ಕಲ್‌ಬಾಲ್ ಸ್ಲಾಮ್‌ಗಾಗಿ ಆಂಡ್ರೆ ಅಗಾಸ್ಸಿಯ ಕೋಚ್ ಡ್ಯಾರೆನ್ ಕಾಹಿಲ್ ಅವರನ್ನು ಪಡೆದುಕೊಳ್ಳುವ ಮೂಲಕ ಆಶ್ಚರ್ಯಕರ ನಡೆ ತೆಗೆದುಕೊಂಡಿದ್ದಾರೆ. ಈ ಅನಿರೀಕ್ಷಿತ ಸಹಯೋಗದಲ್ಲಿ ಬೌಚರ್ಡ್ ಜಾಕ್ ಸಾಕ್ ಜೊತೆಗೂಡಿ ಅಗಾಸ್ಸಿ ಮತ್ತು ಸ್ಟೆಫಿ ಗ್ರಾಫ್ ವಿರುದ್ಧ ಸೆಣಸಲಿದ್ದಾರೆ. ಈ ಉನ್ನತ ಪಂದ್ಯಾವಳಿಯು ಬೌಚರ್ಡ್‌ಗೆ ಸ್ಪರ್ಧಾತ್ಮಕ ಪಿಕ್ಕಲ್‌ಬಾಲ್ ಕ್ಷೇತ್ರದಲ್ಲಿ ಉನ್ನತ ಮಟ್ಟದ ತರಬೇತಿಯೊಂದಿಗೆ ಪ್ರವೇಶಿಸಲು ಮಹತ್ವದ ಬದಲಾವಣೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "युजेनी बुशार्डने $1M पिकलबॉल स्लॅमसाठी अगासीच्या प्रशिक्षकाला मिळवले",
-                "content": "टेनिससाठी प्रसिद्ध असलेल्या युजेनी बुशार्डने आगामी $1 दशलक्ष पिकलबॉल स्लॅमसाठी आंद्रे अगासीचे प्रशिक्षक डॅरेन कॅहिल यांना मिळवून एक आश्चर्यकारक पाऊल उचलले आहे. या अनपेक्षित सहकार्यात बुशार्ड जॅक सॉकसोबत अगासी आणि स्टेफी ग्राफ यांच्याविरुद्ध खेळणार आहे. हा उच्च-गुणवत्तेचा कार्यक्रम बुशार्डसाठी एक महत्त्वपूर्ण बदल दर्शवतो कारण ती उच्च-स्तरीय प्रशिक्षणासह स्पर्धात्मक पिकलबॉल रिंगणात उतरत आहे."
-            },
-            "hi": {
-                "title": "यूजेनी बूचार्ड ने $1M पिकल बॉल स्लैम के लिए अगासी के कोच को साइन किया",
-                "content": "टेनिस के लिए जानी जाने वाली यूजेनी बूचार्ड ने आगामी $1 मिलियन पिकल बॉल स्लैम के लिए आंद्रे अगासी के कोच, डैरेन कैहिल को अपने साथ लेकर एक चौंकाने वाला कदम उठाया है। इस अप्रत्याशित सहयोग में बूचार्ड जैक सॉक के साथ अगासी और स्टेफी ग्राफ के खिलाफ टीम बनाएंगी। यह हाई-स्टेक इवेंट बूचार्ड के लिए एक महत्वपूर्ण बदलाव का प्रतीक है क्योंकि वह शीर्ष-स्तरीय कोचिंग के साथ प्रतिस्पर्धी पिकल बॉल क्षेत्र में कदम रख रही है।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQMlBnV3c2a3ZqYVloYkxHVXcwZENCWHlVcFJ4TTdwTjdZUFRGcXFuT1Q5QzRNVnRnMnZDOTZ6azJoekhZQl9VMHVVWHBsZWhLSVZzcVpaTnliaVNzb2RoWmdkSnQ2M2dOV3NILVloNHF6R3B0SktOOUlWZkVYcjliZXd0b0t5WDZBZkNhNEFoU0d1cURxenVqaHlKeVZkam83RExldkFJYnRGOVpfVGJPT0xyTEJXSGJIVXUtelhtXzgyUUxfaW9CTHdwdEJxT1JYelRnbFlfOEZvYnl3MU90d3NsREZ4dU5kbDBnLXl4R09XQTFHLW5KZUg2LXhLMjViQ0J1UU45YVBNQUpHdUpjV1JiMFVKdHBnOTgzVlR6cVpTODZwQzdLWmp0YXVkY3plX3NKMTNHemRHNXRQZjBHYVd4QS1wMVdqXzVuSS1GNUVhd9IB1wJBVV95cUxQUTl3eVdJUjRFc01yNEJQWllyczdKd0l3ZkpKOXBZT2ViU2VSd3l3dV85S1hneUZfZ05qZnI2YzE5SGRiYnlVQmZOeUxIbzRTVXE2S1ZRdUQtMmIwbTBQZFNsekRZMm5EVUpCMEZ4SlY3dk5sMUZXM1JPUXNBTGhqMUJPSm82ZFBkLWJKTDBsNDdKck9ZZE9nMl8xblFPVG55b1hwZkNLS2hpZm9oYXVIaUVYcjJaQ2kwd2YwUm1kZ0ZoWU1QS3o2S2lLZVA4cl84ZUYwS1BCMlIwUTI4eVA1YnJXZnBtZU9mNGdYcC1JcWxhdkhXbHlQQzh3UzlVZ2tHWFA4cFd4TEN5RnNkcXQydS16SVNZcnFZMkZrZThRZkRCWndYamxOOHJEb0ZQeWw2Ymo0aU81X2dpVktucXdQN1l0UFdGZlFia3V1Q1Z5SDlHT0VfWC1z?oc=5",
-        "date": "Wed, 08 Apr 2026 16:25:00 GMT"
-    },
-    {
-        "id": "3505f007",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Cricket Match Ends in Tragedy: Umpire Stabbed Over Run-Out Call",
-                "content": "A cricket match turned tragic after an umpire was reportedly stabbed to death following a heated dispute over a run-out call. The shocking incident highlights the extreme passions sometimes seen in sports, leading to a horrifying end. Authorities are investigating the circumstances surrounding this fatal on-field altercation, which has sent shockwaves through the local cricket community."
-            },
-            "kn": {
-                "title": "ಕ್ರಿಕೆಟ್ ಪಂದ್ಯ ದುರಂತ ಅಂತ್ಯ: ರನ್‌ಔಟ್ ಕರೆಗೆ ಅಂಪೈರ್ ಚೂರಿ ಇರಿತಕ್ಕೊಳಗಾಗಿ ಸಾವು",
-                "content": "ರನ್‌ಔಟ್ ಕರೆಗೆ ಸಂಬಂಧಿಸಿದಂತೆ ನಡೆದ ತೀವ್ರ ವಾಗ್ವಾದದ ನಂತರ, ಕ್ರಿಕೆಟ್ ಪಂದ್ಯದ ಅಂಪೈರ್ ಅವರನ್ನು ಚೂರಿ ಇರಿದು ಕೊಲೆ ಮಾಡಲಾಗಿದ್ದು, ಪಂದ್ಯ ದುರಂತ ಅಂತ್ಯ ಕಂಡಿದೆ. ಈ ಆಘಾತಕಾರಿ ಘಟನೆ ಕ್ರೀಡೆಯಲ್ಲಿ ಕೆಲವೊಮ್ಮೆ ಕಾಣಿಸುವ ಅತಿರೇಕದ ಭಾವೋದ್ರೇಕಗಳನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ, ಭಯಾನಕ ಅಂತ್ಯಕ್ಕೆ ಕಾರಣವಾಗುತ್ತದೆ. ಈ ಮಾರಣಾಂತಿಕ ಮೈದಾನದ ಜಗಳದ ಸುತ್ತಲಿನ ಪರಿಸ್ಥಿತಿಗಳ ಬಗ್ಗೆ ಅಧಿಕಾರಿಗಳು ತನಿಖೆ ನಡೆಸುತ್ತಿದ್ದು, ಸ್ಥಳೀಯ ಕ್ರಿಕೆಟ್ ಸಮುದಾಯದಲ್ಲಿ ಆಘಾತ ಮೂಡಿಸಿದೆ."
-            },
-            "mr": {
-                "title": "क्रिकेट सामना दुर्दैवी वळणावर: रन-आउटच्या निर्णयावरून पंचांची भोसकून हत्या",
-                "content": "रन-आउटच्या निर्णयावरून झालेल्या तीव्र वादानंतर, एका क्रिकेट सामन्यात पंचांची भोसकून हत्या झाल्याने सामन्याला दुःखद वळण लागले. ही धक्कादायक घटना खेळातील तीव्र भावना आणि त्यांच्या भयानक परिणामांवर प्रकाश टाकते. अधिकारी या जीवघेण्या मैदानातील संघर्षाच्या परिस्थितीची चौकशी करत असून, स्थानिक क्रिकेट समुदायात यामुळे धक्का बसला आहे."
-            },
-            "hi": {
-                "title": "क्रिकेट मैच का दुखद अंत: रन-आउट के फैसले पर अंपायर की चाकू मारकर हत्या",
-                "content": "रन-आउट के फैसले पर हुए एक गरमागरम विवाद के बाद, एक क्रिकेट मैच में अंपायर की कथित तौर पर चाकू मारकर हत्या कर दी गई, जिससे मैच का दुखद अंत हुआ। यह चौंकाने वाली घटना खेल में कभी-कभी देखी जाने वाली अत्यधिक भावनाओं को उजागर करती है, जिससे एक भयावह अंत होता है। अधिकारी इस घातक झड़प की जांच कर रहे हैं, जिसने स्थानीय क्रिकेट समुदाय को स्तब्ध कर दिया है।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUjhzbU5acDh4MzVsbVhhVklrcE9oY0RXWERKTG04a1Zwakg1YXVrWkZzVjRfR3RYQnVaNXFLV2p1TmxSVG5sNkVsUU9fdklBemx3QkhEN0QxeUV1NkpFLVN5dm5VcHg2WTlMOFBtNHM3MnEzMzBNbTZkWmxRZE82ZGx3dFJDcy1MYVh4TjlMQXJqbXBmV295emg3a1o2czNNTE9lTVRyWlFUTTdkRUhhTzBxcEtIVHkwVE1KZUdsTVdsZGpVSHZZU3ZGQ3JvVndZOTN2RzdIOGFpSGp2WnAw0gHkAUFVX3lxTE5kaVFjVVlIb1BKRUJuWnZJZUxLTG80WjFmM2VuTjBVdm43R1hzRTFrLVRIWGR3cF9RYUNZRDBod2ZWaWRuNU9qdFE3QjBETU9iSWJhb3YtZmtCaVVrQk52VERTeTFHSUNrS21naXpwQ2RNdHJmTGI4UTdwMkh6b1FHMGtVeEhOOTBrTFhYQU5Wam1UQmtKRTVxNlIzNlUtVEpFUlhXTmhYN1Q4aFU2c0ozV0FhUEl3RUhVeUxrZmJFV25JTUpfbjg0dG9OWWNvcUFQUmIyXzg2eEZDUHdnR3ZwbG81WQ?oc=5",
-        "date": "Wed, 08 Apr 2026 12:03:08 GMT"
-    },
-    {
-        "id": "270417e7",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Bumrah's Rare Wicketless Streak in IPL 2026",
-                "content": "Jasprit Bumrah, known for his wicket-taking prowess, is currently enduring a rare three-match wicketless streak in the IPL 2026 season. This uncharacteristic dip in form has surprised many, as the star pacer has failed to make an impact despite his team's efforts. Fans and pundits are keenly watching to see if he can bounce back and reclaim his formidable wicket-taking reputation in the upcoming games."
-            },
-            "kn": {
-                "title": "ಐಪಿಎಲ್ 2026 ರಲ್ಲಿ ಬುಮ್ರಾ ಅವರ ಅಪರೂಪದ ವಿಕೆಟ್‌ ರಹಿತ ಸರಣಿ",
-                "content": "ತಮ್ಮ ವಿಕೆಟ್ ಕೀಳುವ ಸಾಮರ್ಥ್ಯಕ್ಕೆ ಹೆಸರುವಾಸಿಯಾದ ಜಸ್ಪ್ರೀತ್ ಬುಮ್ರಾ, ಐಪಿಎಲ್ 2026 ಸೀಸನ್‌ನಲ್ಲಿ ಅಪರೂಪದ ಮೂರು ಪಂದ್ಯಗಳ ವಿಕೆಟ್ ರಹಿತ ಸರಣಿಯನ್ನು ಎದುರಿಸುತ್ತಿದ್ದಾರೆ. ಅವರ ಈ ಅಸಾಮಾನ್ಯ ಫಾರ್ಮ್ ಕುಸಿತ ಅನೇಕರನ್ನು ಅಚ್ಚರಿಗೊಳಿಸಿದೆ, ಏಕೆಂದರೆ ಸ್ಟಾರ್ ವೇಗಿ ತಮ್ಮ ತಂಡದ ಪ್ರಯತ್ನಗಳ ಹೊರತಾಗಿಯೂ ಪರಿಣಾಮ ಬೀರಲು ವಿಫಲರಾಗಿದ್ದಾರೆ. ಮುಂದಿನ ಪಂದ್ಯಗಳಲ್ಲಿ ಅವರು ಪುಟಿದೇಳುತ್ತಾರೆಯೇ ಮತ್ತು ತಮ್ಮ ಭೀಕರ ವಿಕೆಟ್ ಕೀಳುವ ಖ್ಯಾತಿಯನ್ನು ಮರಳಿ ಪಡೆಯುತ್ತಾರೆಯೇ ಎಂದು ಅಭಿಮಾನಿಗಳು ಮತ್ತು ವಿಮರ್ಶಕರು ಕುತೂಹಲದಿಂದ ಗಮನಿಸುತ್ತಿದ್ದಾರೆ."
-            },
-            "mr": {
-                "title": "आयपीएल 2026 मध्ये बुमराहची दुर्मिळ विकेटरहित मालिका",
-                "content": "आपल्या विकेट घेण्याच्या क्षमतेसाठी ओळखला जाणारा जसप्रीत बुमराह, आयपीएल 2026 हंगामात सध्या तीन सामन्यांची दुर्मिळ विकेटरहित मालिका सहन करत आहे. फॉर्ममधील या अनपेक्षित घसरणीने अनेकांना आश्चर्यचकित केले आहे, कारण स्टार वेगवान गोलंदाजाला आपल्या संघाच्या प्रयत्नांनंतरही प्रभाव पाडता आलेला नाही. आगामी सामन्यांमध्ये तो पुनरागमन करून आपली जबरदस्त विकेट घेण्याची प्रतिष्ठा पुन्हा मिळवतो का, हे पाहण्यासाठी चाहते आणि तज्ञ उत्सुकतेने वाट पाहत आहेत."
-            },
-            "hi": {
-                "title": "आईपीएल 2026 में बुमराह का दुर्लभ विकेट रहित सिलसिला",
-                "content": "अपनी विकेट लेने की क्षमता के लिए जाने जाने वाले जसप्रीत बुमराह, आईपीएल 2026 सीज़न में वर्तमान में तीन मैचों के दुर्लभ विकेट रहित सिलसिले का सामना कर रहे हैं। फॉर्म में इस अप्रत्याशित गिरावट ने कई लोगों को हैरान कर दिया है, क्योंकि स्टार तेज़ गेंदबाज़ अपनी टीम के प्रयासों के बावजूद प्रभाव डालने में विफल रहे हैं। प्रशंसक और विशेषज्ञ उत्सुकता से देख रहे हैं कि क्या वह वापसी कर पाते हैं और आगामी मैचों में अपनी ज़बरदस्त विकेट लेने की प्रतिष्ठा फिर से हासिल करते हैं।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbVhrWHUtSGoxVWgtQWNUTml4aWJkMDl5NTBrLTdwYTQ5aFYxT01OaHRZT1RmcENQSXEtZktsLW5NeGs4RmtOVEFpd2hrc2VJZjhuQnhVNzdYdTZUeU5lNTFEVjFubDNQN3QzUHhDbHV5YzFCdWM4dWV3QWoyWmlFMndkMGRucVRDYm9LY3VoVDd5ZDNZMWVhVkFTbUJWY2M4V2FqV1dCU3R6NlRVUWN4SGUwRjVZSXh4bVdrU2NxLVUzNHk3VjEwWDFiNzlPS0VQMlR5TVduczZCekdKdGJqa2k5dXQ5bzg5Q1BkUHFINW55RzZNS1E?oc=5",
-        "date": "Wed, 08 Apr 2026 04:07:14 GMT"
-    },
-    {
-        "id": "f1bad63d",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "DC vs GT Clash: IPL 2026 Match 14 Preview",
-                "content": "Gear up for IPL 2026 Match 14! Delhi Capitals (DC) take on Gujarat Titans (GT) in what promises to be an exciting encounter. Get all the essential facts: team strategies, key player matchups, recent form, and expert predictions. Don't miss this crucial clash as both teams vie for dominance and valuable points early in the tournament. Stay informed before the action unfolds!"
-            },
-            "kn": {
-                "title": "ಡಿಸಿ ವರ್ಸಸ್ ಜಿಟಿ ಕದನ: ಐಪಿಎಲ್ 2026 ಪಂದ್ಯ 14 ಪೂರ್ವವೀಕ್ಷಣೆ",
-                "content": "ಐಪಿಎಲ್ 2026 ರ 14 ನೇ ಪಂದ್ಯಕ್ಕೆ ಸಿದ್ಧರಾಗಿ! ರೋಮಾಂಚಕ ಕದನದಲ್ಲಿ ಡೆಲ್ಲಿ ಕ್ಯಾಪಿಟಲ್ಸ್ (ಡಿಸಿ) ಗುಜರಾತ್ ಟೈಟನ್ಸ್ (ಜಿಟಿ) ಅನ್ನು ಎದುರಿಸಲಿದೆ. ತಂಡದ ತಂತ್ರಗಳು, ಪ್ರಮುಖ ಆಟಗಾರರ ಮುಖಾಮುಖಿಗಳು, ಇತ್ತೀಚಿನ ಫಾರ್ಮ್ ಮತ್ತು ತಜ್ಞರ ಭವಿಷ್ಯವಾಣಿಗಳು ಸೇರಿದಂತೆ ಎಲ್ಲಾ ಅಗತ್ಯ ಮಾಹಿತಿಗಳನ್ನು ಪಡೆಯಿರಿ. ಪಂದ್ಯಾವಳಿಯ ಆರಂಭದಲ್ಲಿ ಪ್ರಾಬಲ್ಯ ಮತ್ತು ಅಮೂಲ್ಯ ಅಂಕಗಳಿಗಾಗಿ ಎರಡೂ ತಂಡಗಳು ಸೆಣಸಾಡುವ ಈ ನಿರ್ಣಾಯಕ ಕದನವನ್ನು ತಪ್ಪಿಸಿಕೊಳ್ಳಬೇಡಿ. ಆಕ್ಷನ್ ಪ್ರಾರಂಭವಾಗುವ ಮೊದಲು ಮಾಹಿತಿ ಪಡೆಯಿರಿ!"
-            },
-            "mr": {
-                "title": "डीसी विरुद्ध जीटी संघर्ष: आयपीएल 2026 सामना 14 पूर्वावलोकन",
-                "content": "आयपीएल 2026 च्या 14 व्या सामन्यासाठी सज्ज व्हा! रोमांचक लढतीत दिल्ली कॅपिटल्स (डीसी) गुजरात टायटन्स (जीटी) शी भिडणार आहे. संघाच्या रणनीती, प्रमुख खेळाडूंचे सामने, अलीकडील फॉर्म आणि तज्ञांची भाकीत यासह सर्व आवश्यक माहिती मिळवा. दोन्ही संघ वर्चस्व आणि स्पर्धेच्या सुरुवातीला मौल्यवान गुणांसाठी लढत असल्याने हा महत्त्वपूर्ण सामना चुकवू नका. कृती सुरू होण्यापूर्वी माहिती मिळवा!"
-            },
-            "hi": {
-                "title": "डीसी बनाम जीटी मुकाबला: आईपीएल 2026 मैच 14 का पूर्वावलोकन",
-                "content": "आईपीएल 2026 के मैच 14 के लिए तैयार हो जाइए! दिल्ली कैपिटल्स (डीसी) एक रोमांचक मुकाबले में गुजरात टाइटंस (जीटी) से भिड़ने वाली है। सभी आवश्यक तथ्य प्राप्त करें: टीम की रणनीतियाँ, प्रमुख खिलाड़ी matchups, हालिया फॉर्म और विशेषज्ञ भविष्यवाणियाँ। इस महत्वपूर्ण मुकाबले को न चूकें क्योंकि दोनों टीमें टूर्नामेंट की शुरुआत में प्रभुत्व और महत्वपूर्ण अंकों के लिए होड़ करेंगी। एक्शन शुरू होने से पहले सूचित रहें!"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOYVdMQTJBRl9SNFhObTZiLXA0Y0NkSmpVX3daa3hNa0p3dkx4c2lEMEMyeF9NX2J5YWh3am1SNTlsckhfOHlFTW92VVI0Nm9EUnR6Yms2bmxiUnBZdVRyREZWc0hva2xrWFA4ZWw1T3dhVTk5RlIwS0lIZ1Vna3VrVkRTWk9wNnEtTjJwUVV0bjNGVk5NRnVvaU5FSzJZRWhhcWdxQ3plOFYxV0FoSlZYT05QZEEtUFQ4ZzZYeHBDNTZjOUF2ZXVsZTVLbmZCVmNyWWdLSDJJanlmNHRhdVlvbGlWYmxSc2F2VkZMMVdMdFJ1d9IB_wFBVV95cUxQMFo0eTdPRkppRkVoS1R1aDJINFdsRkg5OHg1ckZFaXNObkpibFJ4Mkw3ekVpX0NMcklzTTZjVEpRRVR3VFVfUHRPeU5VTVJnM3FMOUVHUjhJYVA1Wnc1Y2pHb0NWTEJFOXU3bGo4akFLR2tkSEw3c2ZadzVLZHo5eUdwTnhVQWoyNlEyT0xadnpDRXF3aDdqai1XM2tSZmZVX2lKNktVRno0Rl9JcEpHbVFpU3UwQ19XZXc3bkhfczc2NTgyNVNtTkZVTjdkYmRGb3loODFReTh0eVZrSWpydEtIUGRYcnhtXzJneGlkZUxTczhXTFBfVVd5aUROeW8?oc=5",
-        "date": "Wed, 08 Apr 2026 07:08:58 GMT"
-    },
-    {
-        "id": "28def3bb",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Hardik Pandya's Big Promise Ignites Fan Reactions",
-                "content": "Hardik Pandya's recent promise has sparked major reactions from cricket fans and experts. Facing scrutiny, the all-rounder reportedly pledged a strong comeback, emphasizing his fitness and performance. This declaration has ignited widespread anticipation for his return to peak form. Supporters eagerly await to see if he can deliver on his word, overcome challenges, and reclaim his dominant role in Indian cricket."
-            },
-            "kn": {
-                "title": "ಹಾರ್ದಿಕ್ ಪಾಂಡ್ಯರ ಮಹತ್ವದ ಭರವಸೆ ಅಭಿಮಾನಿಗಳ ಪ್ರತಿಕ್ರಿಯೆಗಳನ್ನು ಕೆರಳಿಸಿದೆ",
-                "content": "ಹಾರ್ದಿಕ್ ಪಾಂಡ್ಯ ಅವರ ಇತ್ತೀಚಿನ ಭರವಸೆ ಕ್ರಿಕೆಟ್ ಅಭಿಮಾನಿಗಳು ಮತ್ತು ತಜ್ಞರಲ್ಲಿ ಭಾರೀ ಪ್ರತಿಕ್ರಿಯೆಗಳನ್ನು ಹುಟ್ಟುಹಾಕಿದೆ. ಪರಿಶೀಲನೆಯಲ್ಲಿರುವ ಈ ಆಲ್‌ರೌಂಡರ್, ತಮ್ಮ ಫಿಟ್‌ನೆಸ್ ಮತ್ತು ಪ್ರದರ್ಶನದ ಕುರಿತು ಬಲವಾದ ಕಂಬ್ಯಾಕ್‌ನ ಪ್ರತಿಜ್ಞೆ ಮಾಡಿದ್ದಾರೆ. ಈ ಘೋಷಣೆಯು ಅವರ ಗರಿಷ್ಠ ಫಾರ್ಮ್‌ಗೆ ಮರಳುವ ನಿರೀಕ್ಷೆಯನ್ನು ಹೆಚ್ಚಿಸಿದೆ. ಅವರು ತಮ್ಮ ಮಾತನ್ನು ಉಳಿಸಿಕೊಳ್ಳುತ್ತಾರೆಯೇ, ಸವಾಲುಗಳನ್ನು ಎದುರಿಸಿ ಭಾರತೀಯ ಕ್ರಿಕೆಟ್‌ನಲ್ಲಿ ತಮ್ಮ ಪ್ರಬಲ ಪಾತ್ರವನ್ನು ಮರಳಿ ಪಡೆಯುತ್ತಾರೆಯೇ ಎಂದು ಬೆಂಬಲಿಗರು ಕಾತರದಿಂದ ಕಾಯುತ್ತಿದ್ದಾರೆ."
-            },
-            "mr": {
-                "title": "हार्दिक पांड्याच्या मोठ्या वचनाने चाहत्यांच्या प्रतिक्रिया तीव्र केल्या",
-                "content": "हार्दिक पांड्याच्या अलीकडील वचनामुळे क्रिकेट चाहते आणि तज्ञांमध्ये मोठ्या प्रतिक्रिया उमटल्या आहेत. चौकशीखाली असलेल्या या अष्टपैलू खेळाडूने आपली तंदुरुस्ती आणि कामगिरीबाबत जोरदार पुनरागमनाचे वचन दिले आहे. या घोषणेने त्याच्या सर्वोच्च फॉर्ममध्ये परत येण्याची व्यापक अपेक्षा निर्माण केली आहे. तो आपले वचन पूर्ण करू शकेल का, आव्हानांवर मात करून भारतीय क्रिकेटमधील आपली प्रभावी भूमिका परत मिळवू शकेल का, हे पाहण्यासाठी चाहते उत्सुक आहेत."
-            },
-            "hi": {
-                "title": "हार्दिक पांड्या के बड़े वादे ने फैंस की प्रतिक्रियाएँ भड़काईं",
-                "content": "हार्दिक पांड्या के हालिया वादे ने क्रिकेट प्रशंसकों और विशेषज्ञों के बीच बड़ी प्रतिक्रियाएँ पैदा की हैं। जांच के दायरे में रहे इस ऑलराउंडर ने अपनी फिटनेस और प्रदर्शन पर एक मजबूत वापसी का वादा किया है। इस घोषणा ने उनके शीर्ष फॉर्म में लौटने की व्यापक उम्मीद जगा दी है। समर्थक यह देखने के लिए उत्सुकता से इंतजार कर रहे हैं कि क्या वह अपने वादे को पूरा कर सकते हैं, चुनौतियों से पार पा सकते हैं और भारतीय क्रिकेट में अपनी प्रभावशाली भूमिका फिर से हासिल कर सकते हैं।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRUZwVHdGN0huS0FFdzJRczNaUHVrZFRxMkc4R3h0UlVHNVRkNzFXZ044UTh6U0hjcXE4N0YzVkZFYkZkU245UlhHaldtYTk1enZoSDFRQzItQUgyenp3M0V3c05DaDNWaTZvcE44Q284N1Z4d3lwUDA4QzNjT0NXOEhkcTJTLUhHU3BNdWFQQThFNkJTcHdzYVlRUldRUnZWSlVDU0lWRjlYRjl5eUZkakYwekFRR0VyelY5VXk4NmpYVllRVTVybnhNcmRxVXVWcS1feTVWNkU3UjYyUTA0?oc=5",
-        "date": "Wed, 08 Apr 2026 07:21:46 GMT"
-    },
-    {
-        "id": "365d1c81",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "IPL 2024: Top Bowlers' Wicketless Start",
-                "content": "Star pacers Jasprit Bumrah, Trent Boult, and Arshdeep Singh have surprisingly begun IPL 2024 without a single wicket yet. This unexpected dry spell for some of cricket's most formidable bowlers is raising eyebrows across the league. Discover the untold story behind their early struggles, delving into tactical insights and performance pressures affecting these key players in the tournament's opening stages."
-            },
-            "kn": {
-                "title": "ಐಪಿಎಲ್ 2024: ಪ್ರಮುಖ ಬೌಲರ್‌ಗಳ ವಿಕೆಟ್‌ರಹಿತ ಆರಂಭ",
-                "content": "ಸ್ಟಾರ್ ವೇಗಿಗಳಾದ ಜಸ್ಪ್ರೀತ್ ಬುಮ್ರಾ, ಟ್ರೆಂಟ್ ಬೌಲ್ಟ್ ಮತ್ತು ಅರ್ಷದೀಪ್ ಸಿಂಗ್ ಐಪಿಎಲ್ 2024 ಅನ್ನು ಇದುವರೆಗೆ ಒಂದೇ ಒಂದು ವಿಕೆಟ್ ಪಡೆಯದೆ ಅನಿರೀಕ್ಷಿತವಾಗಿ ಪ್ರಾರಂಭಿಸಿದ್ದಾರೆ. ಕ್ರಿಕೆಟ್‌ನ ಕೆಲವು ಪ್ರಬಲ ಬೌಲರ್‌ಗಳಿಗೆ ಈ ಅನಿರೀಕ್ಷಿತ ಬರವು ಇಡೀ ಲೀಗ್‌ನಲ್ಲಿ ಹುಬ್ಬೇರಿಸುವಂತೆ ಮಾಡಿದೆ. ಅವರ ಆರಂಭಿಕ ಹೋರಾಟಗಳ ಹಿಂದಿನ ಹೇಳದಿರುವ ಕಥೆಯನ್ನು ಅನ್ವೇಷಿಸಿ, ಪಂದ್ಯಾವಳಿಯ ಆರಂಭಿಕ ಹಂತಗಳಲ್ಲಿ ಈ ಪ್ರಮುಖ ಆಟಗಾರರ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರುವ ಯುದ್ಧತಂತ್ರದ ಒಳನೋಟಗಳು ಮತ್ತು ಕಾರ್ಯಕ್ಷಮತೆಯ ಒತ್ತಡಗಳನ್ನು ಪರಿಶೀಲಿಸಿ."
-            },
-            "mr": {
-                "title": "आयपीएल 2024: प्रमुख गोलंदाजांची विकेटविना सुरुवात",
-                "content": "स्टार वेगवान गोलंदाज जसप्रीत बुमराह, ट्रेंट बोल्ट आणि अर्शदीप सिंग यांनी आयपीएल 2024 ची सुरुवात आश्चर्यकारकरित्या अद्याप एकही विकेट न घेता केली आहे. क्रिकेटमधील काही सर्वात दमदार गोलंदाजांसाठी ही अनपेक्षित कोरडी स्थिती संपूर्ण लीगमध्ये सर्वांचे लक्ष वेधून घेत आहे. त्यांच्या सुरुवातीच्या संघर्षांमागील न सांगितलेली कथा शोधा, स्पर्धेच्या सुरुवातीच्या टप्प्यात या महत्त्वाच्या खेळाडूंना प्रभावित करणाऱ्या रणनीतिक अंतर्दृष्टी आणि कामगिरीच्या दबावांचा अभ्यास करा."
-            },
-            "hi": {
-                "title": "आईपीएल 2024: शीर्ष गेंदबाजों का विकेट-रहित आगाज़",
-                "content": "स्टार तेज़ गेंदबाज़ जसप्रीत बुमराह, ट्रेंट बोल्ट और अर्शदीप सिंह ने आईपीएल 2024 की शुरुआत हैरान करने वाले अंदाज़ में अभी तक बिना किसी विकेट के की है। क्रिकेट के कुछ सबसे ज़बरदस्त गेंदबाज़ों के लिए यह अप्रत्याशित सूखा पूरे लीग में सबको चौंका रहा है। उनके शुरुआती संघर्षों के पीछे की अनकही कहानी जानें, टूर्नामेंट के शुरुआती चरणों में इन प्रमुख खिलाड़ियों को प्रभावित करने वाली रणनीतिक अंतर्दृष्टि और प्रदर्शन के दबावों को समझें।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOb2ZOX2tmazkwUWlFcmlrX2NiVXFoR2NkakhlODFuQ2JtZmxRb3ZDNUlLWnhiVlViLUI2TS0wRVhveUQ3QTJxeDdkd2VMSVA5QVdkZjlyT3F1cW10NU5id3VyNkFqVkNkMHl6REk5VWtLMzhTZk1uWGhvOHFlOVVSMXNVQlJNM1QtTmtSX0NqMmgwYmIyWFZhNDdSUmQ2VmtzTnY2amRtSVR5RUM2VFNSQVFRS0hEaF90aFdnUjBPVHlxNThHR2MzdTFXZGNWcG9wMzFmTVE1MTFOb2JZLWNORllhTUh2SUwyREdWRjZ5Nkg1bExkUkHSAfsBQVVfeXFMTUJteU9UNVFQRWxRUi1fWGJfaEUtaEhCUVBYUlRyRVl0cmk0ek9na2ZMUDBabXpTQVVEY1NVdnc2aXZlNlkzMXYySXJSY1lobFlTYkdPbmJieE04Y05vRHFXcFItTUNyU1hvQUZPWjV6SjR4cWpDbjNlOFM1T3JIazllclNWcDNxWVNrUzJCdU0xenVsaTdQcFpTVXkxT1J2SmZyRjdrTlhMTUF5cWtEZFNrU2JILWh1RE52Ykd5UkUtVFhNYnQ1bm9pNkwtcnJxb0ZlZm9BWjdNWktZY0duejlPOHFyQXBKb3dJM2hKVGRjYWY3QWtyTkdROFU?oc=5",
-        "date": "Wed, 08 Apr 2026 10:52:23 GMT"
-    },
-    {
-        "id": "8d35bcc8",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "India Advises Citizens: \"Expeditiously Exit Iran\"",
-                "content": "India has issued a fresh advisory urging its citizens to \"expeditiously exit Iran.\" This urgent counsel comes as a two-week ceasefire reportedly kicks in, signaling potentially volatile developments. The Ministry of External Affairs emphasized the safety and security of Indian nationals amidst the evolving regional situation, recommending departure while commercial travel options are still available."
-            },
-            "kn": {
-                "title": "ಇರಾನ್‌ನಿಂದ ತಕ್ಷಣ ನಿರ್ಗಮಿಸಿ: ಭಾರತದ ಸಲಹೆ",
-                "content": "ಎರಡು ವಾರಗಳ ಕದನ ವಿರಾಮ ಜಾರಿಗೆ ಬಂದಿರುವ ಹಿನ್ನೆಲೆಯಲ್ಲಿ, ಭಾರತವು ತನ್ನ ನಾಗರಿಕರಿಗೆ \"ತಕ್ಷಣ ಇರಾನ್‌ನಿಂದ ನಿರ್ಗಮಿಸಲು\" ಹೊಸ ಸಲಹೆಯನ್ನು ನೀಡಿದೆ. ಇದು ಸಂಭಾವ್ಯ ಅಸ್ಥಿರ ಬೆಳವಣಿಗೆಗಳನ್ನು ಸೂಚಿಸುತ್ತದೆ. ವಿದೇಶಾಂಗ ವ್ಯವಹಾರಗಳ ಸಚಿವಾಲಯವು ಪ್ರಾದೇಶಿಕ ಪರಿಸ್ಥಿತಿಯಲ್ಲಿ ಭಾರತೀಯರ ಸುರಕ್ಷತೆ ಮತ್ತು ಭದ್ರತೆಯನ್ನು ಒತ್ತಿಹೇಳಿದೆ, ವಾಣಿಜ್ಯ ಪ್ರಯಾಣದ ಆಯ್ಕೆಗಳು ಲಭ್ಯವಿರುವಾಗ ನಿರ್ಗಮಿಸಲು ಶಿಫಾರಸು ಮಾಡಿದೆ."
-            },
-            "mr": {
-                "title": "इराणमधून तातडीने बाहेर पडा: भारताचा सल्ला",
-                "content": "दोन आठवड्यांच्या युद्धविरामाची अंमलबजावणी झाल्यामुळे, भारताने आपल्या नागरिकांना \"तातडीने इराणमधून बाहेर पडण्याचे\" नवीन आवाहन केले आहे. हे संभाव्य अस्थिर घडामोडी सूचित करते. परराष्ट्र मंत्रालयाने प्रादेशिक परिस्थितीत भारतीय नागरिकांच्या सुरक्षिततेवर आणि संरक्षणावर भर दिला आहे, व्यावसायिक प्रवासाचे पर्याय उपलब्ध असताना निघून जाण्याची शिफारस केली आहे."
-            },
-            "hi": {
-                "title": "ईरान से तुरंत निकलें: भारत की सलाह",
-                "content": "दो सप्ताह के संघर्ष विराम के लागू होने के मद्देनजर, भारत ने अपने नागरिकों को \"तेजी से ईरान से निकलने\" की नई सलाह जारी की है। यह संभावित अस्थिर घटनाक्रमों का संकेत देता है। विदेश मंत्रालय ने क्षेत्रीय स्थिति के बीच भारतीय नागरिकों की सुरक्षा और संरक्षा पर जोर दिया है, वाणिज्यिक यात्रा विकल्प उपलब्ध रहते हुए निकलने की सिफारिश की है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-130106870,imgsize-1593410.cms",
-        "link": "https://timesofindia.indiatimes.com/india/expeditiously-exit-iran-india-issues-fresh-advisory-to-its-citizens-as-two-week-ceasefire-kicks-in/articleshow/130106875.cms",
-        "date": "2026-04-08T13:30:17+05:30"
     }
 ]
