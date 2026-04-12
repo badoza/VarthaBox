@@ -1,5 +1,55 @@
 [
     {
+        "id": "bb48ba24",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "RR Manager In Hot Water Over IPL Protocol Breach",
+                "content": "Rajasthan Royals' manager faces severe scrutiny after a video caught him red-handed breaching a vital IPL protocol. This unprecedented violation has placed him 'in the firing line,' potentially leading to disciplinary action. The incident underscores the strict adherence required within the league, putting the franchise under a spotlight as cricket fans await further developments."
+            },
+            "kn": {
+                "title": "RR ಮ್ಯಾನೇಜರ್ IPL ಪ್ರೋಟೋಕಾಲ್ ಉಲ್ಲಂಘಿಸಿ ಸಂಕಷ್ಟದಲ್ಲಿ",
+                "content": "ರಾಜಸ್ಥಾನ್ ರಾಯಲ್ಸ್‌ನ ಮ್ಯಾನೇಜರ್ ಪ್ರಮುಖ IPL ಪ್ರೋಟೋಕಾಲ್ ಅನ್ನು ಉಲ್ಲಂಘಿಸಿ ರೆಡ್-ಹ್ಯಾಂಡೆಡ್ ಆಗಿ ವಿಡಿಯೋದಲ್ಲಿ ಸಿಕ್ಕಿಬಿದ್ದ ನಂತರ ತೀವ್ರ ಪರಿಶೀಲನೆ ಎದುರಿಸುತ್ತಿದ್ದಾರೆ. ಈ ಅಭೂತಪೂರ್ವ ಉಲ್ಲಂಘನೆಯು ಅವರನ್ನು 'ಸಂಕಷ್ಟಕ್ಕೆ' ಸಿಲುಕಿಸಿದ್ದು, ಶಿಸ್ತು ಕ್ರಮಕ್ಕೆ ಕಾರಣವಾಗಬಹುದು. ಈ ಘಟನೆಯು ಲೀಗ್‌ನಲ್ಲಿ ಅಗತ್ಯವಿರುವ ಕಟ್ಟುನಿಟ್ಟಾದ ಅನುಸರಣೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ, ಕ್ರಿಕೆಟ್ ಅಭಿಮಾನಿಗಳು ಹೆಚ್ಚಿನ ಬೆಳವಣಿಗೆಗಳಿಗಾಗಿ ಕಾಯುತ್ತಿರುವಾಗ ಫ್ರಾಂಚೈಸಿಯನ್ನು ಗಮನಕ್ಕೆ ತರುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "आयपीएल प्रोटोकॉल उल्लंघनामुळे RR व्यवस्थापक अडचणीत",
+                "content": "व्हिडिओमध्ये आयपीएलचा महत्त्वाचा प्रोटोकॉल मोडताना रंगेहात पकडल्या गेल्याने राजस्थान रॉयल्सच्या व्यवस्थापकाला गंभीर चौकशीला सामोरे जावे लागत आहे. या अभूतपूर्व उल्लंघनामुळे त्यांना 'संकटात' टाकले आहे, ज्यामुळे शिस्तभंगाची कारवाई होऊ शकते. या घटनेमुळे लीगमध्ये आवश्यक असलेल्या कठोर नियमांचे पालन अधोरेखित होते, ज्यामुळे फ्रँचायझी प्रकाशझोतात आली आहे आणि क्रिकेट चाहते पुढील घडामोडींची वाट पाहत आहेत."
+            },
+            "hi": {
+                "title": "आईपीएल प्रोटोकॉल उल्लंघन पर RR मैनेजर मुसीबत में",
+                "content": "राजस्थान रॉयल्स के मैनेजर एक महत्वपूर्ण आईपीएल प्रोटोकॉल का उल्लंघन करते हुए वीडियो में रंगे हाथों पकड़े जाने के बाद कड़ी जांच का सामना कर रहे हैं। इस अभूतपूर्व उल्लंघन ने उन्हें 'मुसीबत में' डाल दिया है, जिससे अनुशासनात्मक कार्रवाई हो सकती है। यह घटना लीग के भीतर आवश्यक सख्त पालन पर जोर देती है, जिससे फ्रेंचाइजी सुर्खियों में आ गई है क्योंकि क्रिकेट प्रशंसक आगे के घटनाक्रम का इंतजार कर रहे हैं।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNb05rX09jVDRteVBpNml5ZkxVREVVWDQwNHpkWG9MYm5Ud2RsZHlNVDdhbDZuNTlVVmh4VFFxRDQwS1JBek0zLU8zb0ZPUWd6SmwxSXpIMmhxUlZveW5BQy1TLTMzZ09kb2RmS0FxaTRJVVF1dVZPcGxEbXZ1cjNHTnBxRXp4LXZwd2JzbWcwNXBzSUw2TlBkeklSbXo3NWh5TUwzY0tmSmxENlI5dW9zRm5QdjhZeWktOVhoNmRlcGd2RUp1akJ4YTZtVnlzZ0pIQ0VtaGcwQ29GaVJEN3RVVzlmcjNnUFpPYWdmS3lPNWZ1MklLWGR4d3g3allCamRZMU5OcHhB0gGLAkFVX3lxTE1MTkZ0QXVkSTlfamxaek1INElPSXBrTTh5Q0RURXpFUHRDME5aRTBHc3lXX1ppQUluM1NId2NkZVE5NUduc2FndXQxQzg0VXRiM3g1MzJFdlBpWU9WMkVqOURNbmhraHVwN1BONUlzZWhXWUYxR0YzZ1M0UzNWSV9zM1FDVXBjd0pmUW1ZejRDdEV6d0pJOHBMbDRDTHIwNEZ3dXR5MTlXZE1QSzJBeFFzaG9sV0oybjdmXzFnZ3daN0c4cTlIVnB4Qk5YTWFiamNFUzdfY1hLeGtodnNqbHc4VUJHNDctSXJobHpmVnA5RU9GeHh4NTVEZXkzZ3l0MDI0UTVDU0tVeHlpYw?oc=5",
+        "date": "Sun, 12 Apr 2026 03:05:17 GMT"
+    },
+    {
+        "id": "ecdeaff1",
+        "category": "National",
+        "translations": {
+            "en": {
+                "title": "Kharge to PM: No Delimitation Talks Without Details",
+                "content": "Congress President Mallikarjun Kharge has written to Prime Minister Narendra Modi, emphasizing that meaningful discussions on delimitation are impossible without comprehensive details. He urged the government to provide all necessary information to ensure productive dialogue, highlighting the critical importance of transparency for fair and effective negotiations on this sensitive issue."
+            },
+            "kn": {
+                "title": "ಖರ್ಗೆಯಿಂದ ಪ್ರಧಾನಿಗೆ: ವಿವರಗಳಿಲ್ಲದೆ ಸೀಮಾ ನಿರ್ಣಯ ಚರ್ಚೆ ಅಸಾಧ್ಯ",
+                "content": "ಕಾಂಗ್ರೆಸ್ ಅಧ್ಯಕ್ಷ ಮಲ್ಲಿಕಾರ್ಜುನ ಖರ್ಗೆ ಅವರು ಪ್ರಧಾನಿ ನರೇಂದ್ರ ಮೋದಿ ಅವರಿಗೆ ಪತ್ರ ಬರೆದಿದ್ದು, ಸಮಗ್ರ ವಿವರಗಳಿಲ್ಲದೆ ಸೀಮಾ ನಿರ್ಣಯದ ಕುರಿತು ಅರ್ಥಪೂರ್ಣ ಚರ್ಚೆ ಅಸಾಧ್ಯ ಎಂದು ಒತ್ತಿ ಹೇಳಿದ್ದಾರೆ. ಉತ್ಪಾದಕ ಸಂವಾದ ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಲು ಸರ್ಕಾರವು ಅಗತ್ಯವಿರುವ ಎಲ್ಲಾ ಮಾಹಿತಿಯನ್ನು ಒದಗಿಸಬೇಕು ಎಂದು ಅವರು ಒತ್ತಾಯಿಸಿದ್ದಾರೆ, ಈ ಸೂಕ್ಷ್ಮ ವಿಷಯದ ಕುರಿತು ನ್ಯಾಯಯುತ ಮತ್ತು ಪರಿಣಾಮಕಾರಿ ಮಾತುಕತೆಗಳಿಗೆ ಪಾರದರ್ಶಕತೆಯ ನಿರ್ಣಾಯಕ ಪ್ರಾಮುಖ್ಯತೆಯನ್ನು ಎತ್ತಿ ಹಿಡಿದಿದ್ದಾರೆ."
+            },
+            "mr": {
+                "title": "खरगे यांचा पंतप्रधानांना: तपशिलांशिवाय परिसीमन चर्चा नाही",
+                "content": "काँग्रेस अध्यक्ष मल्लिकार्जुन खरगे यांनी पंतप्रधान नरेंद्र मोदी यांना पत्र लिहून म्हटले आहे की, सखोल तपशिलांशिवाय परिसीमनावर अर्थपूर्ण चर्चा शक्य नाही. त्यांनी सरकारला प्रभावी संवादासाठी सर्व आवश्यक माहिती देण्याचे आवाहन केले, ज्यामुळे या संवेदनशील विषयावर पारदर्शक आणि न्याय्य चर्चा होईल, असे अधोरेखित केले."
+            },
+            "hi": {
+                "title": "खरगे का पीएम को: विवरण के बिना परिसीमन पर बातचीत नहीं",
+                "content": "कांग्रेस अध्यक्ष मल्लिकार्जुन खरगे ने प्रधानमंत्री नरेंद्र मोदी को पत्र लिखकर जोर दिया है कि व्यापक विवरण के बिना परिसीमन पर सार्थक चर्चा असंभव है। उन्होंने सरकार से उत्पादक संवाद सुनिश्चित करने के लिए सभी आवश्यक जानकारी प्रदान करने का आग्रह किया, इस संवेदनशील मुद्दे पर निष्पक्ष और प्रभावी वार्ताओं के लिए पारदर्शिता के महत्वपूर्ण महत्व पर प्रकाश डाला।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130202438,imgsize-908097.cms",
+        "link": "https://timesofindia.indiatimes.com/india/without-details-no-meaningful-talks-kharge-pens-letter-to-pm-modi-on-delimitation/articleshow/130202394.cms",
+        "date": "2026-04-12T09:56:35+05:30"
+    },
+    {
         "id": "1eda541e",
         "category": "IPL Scoop",
         "translations": {
@@ -1948,55 +1998,5 @@
         "image": "https://static.toiimg.com/photo/msid-130106870,imgsize-1593410.cms",
         "link": "https://timesofindia.indiatimes.com/india/expeditiously-exit-iran-india-issues-fresh-advisory-to-its-citizens-as-two-week-ceasefire-kicks-in/articleshow/130106875.cms",
         "date": "2026-04-08T13:30:17+05:30"
-    },
-    {
-        "id": "922c8dd4",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Vrabel, Russini Hand-Holding: The Truth Revealed",
-                "content": "Rumors flew after NFL coach Mike Vrabel and reporter Dianna Russini were spotted holding hands at a Sedona hotel, sparking a 'cheating controversy.' The truth? It was a simple, friendly gesture. Russini explained she was offering comfort after Vrabel's divorce. There was no romantic involvement, just two friends sharing a moment during a difficult time."
-            },
-            "kn": {
-                "title": "ವ್ರಾಬೆಲ್, ರುಸ್ಸಿನಿ ಕೈ ಹಿಡಿದಿರುವುದು: ಸತ್ಯ ಅನಾವರಣ",
-                "content": "ಎನ್‌ಎಫ್‌ಎಲ್ ಕೋಚ್ ಮೈಕ್ ವ್ರಾಬೆಲ್ ಮತ್ತು ವರದಿಗಾರ್ತಿ ಡಯಾನಾ ರುಸ್ಸಿನಿ ಸೆಡೋನಾ ಹೋಟೆಲ್‌ನಲ್ಲಿ ಕೈ ಹಿಡಿದು ಕಾಣಿಸಿಕೊಂಡ ನಂತರ, 'ವಂಚನೆ ವಿವಾದ'ಕ್ಕೆ ಕಾರಣವಾಯಿತು. ಸತ್ಯವೇನು? ಅದು ಕೇವಲ ಒಂದು ಸರಳ, ಸ್ನೇಹಪರ ಸನ್ನೆ. ವ್ರಾಬೆಲ್ ಅವರ ವಿಚ್ಛೇದನದ ನಂತರ ತಾನು ಸಾಂತ್ವನ ನೀಡುತ್ತಿದ್ದೆ ಎಂದು ರುಸ್ಸಿನಿ ವಿವರಿಸಿದರು. ಯಾವುದೇ ಪ್ರಣಯ ಸಂಬಂಧ ಇರಲಿಲ್ಲ, ಕಷ್ಟದ ಸಮಯದಲ್ಲಿ ಇಬ್ಬರು ಸ್ನೇಹಿತರು ಒಂದು ಕ್ಷಣವನ್ನು ಹಂಚಿಕೊಂಡಿದ್ದರು."
-            },
-            "mr": {
-                "title": "व्राबेल, रुसिनींचा हात पकडण्याचा प्रसंग: सत्य समोर",
-                "content": "एनएफएलचे प्रशिक्षक माईक व्राबेल आणि पत्रकार डायना रुसिनी यांना सेडोना येथील हॉटेलमध्ये हातात हात घालून पाहिल्यानंतर 'फसवणुकीच्या वादाला' तोंड फुटले. सत्य काय आहे? तो एक साधा, मैत्रीपूर्ण हावभाव होता. रुसिनीने स्पष्ट केले की, व्राबेलच्या घटस्फोटानंतर ती त्याला आधार देत होती. यात कोणतेही प्रेमसंबंध नव्हते, तर कठीण काळात दोन मित्र फक्त एक क्षण वाटून घेत होते."
-            },
-            "hi": {
-                "title": "व्राबेल, रुसिनी का हाथ पकड़ना: सच सामने आया",
-                "content": "एनएफएल कोच माइक व्राबेल और रिपोर्टर डायना रुसिनी को सेडोना के एक होटल में हाथ पकड़े देखे जाने के बाद 'धोखाधड़ी विवाद' खड़ा हो गया था। सच क्या है? यह सिर्फ एक सरल, दोस्ताना हावभाव था। रुसिनी ने बताया कि वह व्राबेल के तलाक के बाद उन्हें दिलासा दे रही थीं। इसमें कोई रोमांटिक संबंध नहीं था, बस दो दोस्त एक मुश्किल समय में एक पल साझा कर रहे थे।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQaTlJeGFqeGcwSDFieXBEeVBRekJNcGNIU1RnRzRVUWxNLWoxR19qZERpd1RmM1QxS2ZHeHRleHdBdEJuZ2d6UnFBWG53dXBSZzRkbkpwR213QUZnUER4cWxjMFRNb0szbWpreG5kOGlkOVljemJFaDNCenhIVkd2ajBGN0IwcDVzam1wQmFBb3pGZGdaOFQ4cmRzVWZwWm1hWkItWEY5NFlnMldJdWxoVmFpZEk2Zjh0QVUtNlY5NzRqLU1nVW1RNWQ2WkdaTEc0NWlMdUx5c3N3dTlzTkc0U0JJb1RMbnpUWUh1VGJEdF9YTjRPY3pPZWhpLTRDdGPSAYQCQVVfeXFMT1FvNWk0NVdBSmNXU3Y4TmhjdVdDb3ZhdG5hZUh5djlnRnRpV2FmMUNOZmM5dGNIUXFPMjdPcnpyUmtKSGU5YkdxVW5TMHpsQjNONzV5T2J4ck5OcHhLUm00YzRkbFNKZEFBVGpUUHBfVGF5RWZGVUpHS0FCRjI4Mnc3NWxkUFc2Qk83QldwZGl6MHluVm5zSXlsc21SVFhxc2pZUjVZVDRiTHhBV3A2MmdmRnNYYVUteDVNVG1MVEdGd1JVbWN1Mk9jaW9VWG1OakpOdnVZc05GMHdRR3YxcVAybmdfeHA0RVRaYXRzRG9NQmdnSEs5R2R3SkN1ODVCcVVJTi0?oc=5",
-        "date": "Wed, 08 Apr 2026 02:11:50 GMT"
-    },
-    {
-        "id": "dd460358",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Numerology Insights: April 8, 2026",
-                "content": "Unlock your personalized numerology forecast for April 8, 2026. Discover daily insights tailored for numbers 1 to 9, offering guidance on relationships, career, finance, and well-being. Understand your lucky number's influence to navigate the day's opportunities and challenges effectively. Plan your day with cosmic wisdom."
-            },
-            "kn": {
-                "title": "ಸಂಖ್ಯಾಶಾಸ್ತ್ರದ ಒಳನೋಟಗಳು: ಏಪ್ರಿಲ್ 8, 2026",
-                "content": "ಏಪ್ರಿಲ್ 8, 2026 ರ ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ಸಂಖ್ಯಾಶಾಸ್ತ್ರದ ಭವಿಷ್ಯವನ್ನು ಅನ್ಲಾಕ್ ಮಾಡಿ. ಸಂಖ್ಯೆ 1 ರಿಂದ 9 ರವರೆಗಿನವರಿಗೆ ಸಂಬಂಧಗಳು, ವೃತ್ತಿ, ಹಣಕಾಸು ಮತ್ತು ಯೋಗಕ್ಷೇಮದ ಬಗ್ಗೆ ಪ್ರತಿದಿನದ ಒಳನೋಟಗಳನ್ನು ಅನ್ವೇಷಿಸಿ. ದಿನದ ಅವಕಾಶಗಳು ಮತ್ತು ಸವಾಲುಗಳನ್ನು ಪರಿಣಾಮಕಾರಿಯಾಗಿ ಎದುರಿಸಲು ನಿಮ್ಮ ಅದೃಷ್ಟ ಸಂಖ್ಯೆಯ ಪ್ರಭಾವವನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳಿ. ಕಾಸ್ಮಿಕ್ ಜ್ಞಾನದಿಂದ ನಿಮ್ಮ ದಿನವನ್ನು ಯೋಜಿಸಿ."
-            },
-            "mr": {
-                "title": "अंकशास्त्र अंतर्दृष्टी: 8 एप्रिल 2026",
-                "content": "8 एप्रिल 2026 साठी तुमची वैयक्तिक अंकशास्त्र भविष्यवाढी अनलॉक करा. संख्या 1 ते 9 साठी तयार केलेल्या दैनंदिन अंतर्दृष्टी शोधा, ज्यात नातेसंबंध, करिअर, वित्त आणि कल्याणावर मार्गदर्शन मिळेल. दिवसाच्या संधी आणि आव्हानांना प्रभावीपणे सामोरे जाण्यासाठी तुमच्या भाग्यवान क्रमांकाचा प्रभाव समजून घ्या. वैश्विक ज्ञानाने तुमच्या दिवसाचे नियोजन करा."
-            },
-            "hi": {
-                "title": "अंक ज्योतिष अंतर्दृष्टि: 8 अप्रैल 2026",
-                "content": "8 अप्रैल 2026 के लिए अपनी व्यक्तिगत अंक ज्योतिष भविष्यवाणी अनलॉक करें। संख्या 1 से 9 के लिए तैयार की गई दैनिक अंतर्दृष्टि खोजें, जो संबंधों, करियर, वित्त और कल्याण पर मार्गदर्शन प्रदान करती है। दिन के अवसरों और चुनौतियों को प्रभावी ढंग से नेविगेट करने के लिए अपने भाग्यशाली अंक के प्रभाव को समझें। ब्रह्मांडीय ज्ञान से अपने दिन की योजना बनाएं।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQcW4zMzFWTjlKTnJtZzdBU2VPbkJlLXpDbTVXdmptZFB0aV9HMHFXeWh6UW96ZGNVaDZQYnUyRWt0REM5a0FfNGkyakJKaDhXNlFaLUhEaVAwUzZhWnd1UTNNd0VlSVd5TGEyb3pwSTF6RXp5cmFseERjU1ZXNFN5RDZBUndKOF9KaTl1dTFINjl4eVpuSWJFNDJldFZRZ2FKaDVXbEp3ZWZqU3VXd1dKb2Q0dkNnaXN0ZnJQMVBKMUNhZFgyZkp5ZHdZZFdpYlBqV3F0Y1FJTjlIaHJ1TW1Ua2FBQ3RoRURIWl9YbHU2MHVleVhNWTg0Vnh6Zmh6Q0JDVHpKWlJpWHp4QjFVdGhN0gGUAkFVX3lxTE9NTnVMeVc5RjlteXhJVzgweXNFaWdVZERYOGJmXy13TzEyM1lheEhORWpub0NJRW9qVWhHbHRkZlJTbkpqd3RnV0pzRFNnX0ZKbnFRSi1aWU9PWWZxM0pEUmdKems5UFZlVzFyYnRWdXJBUThERE84LTRlS0k5bS0wem9DazM1MjVGR1JxSHFSeG12M1diNlctRDg3dWpBMThER0h1MExoamFhWkFQSHVqdDAyc2RmRWpvcWpLTkc0U0lrQklucHlnZVlaRXRPb2dDS1ZHcnA0OUU1eEtIVWhmQXBfY0tUd01yQVZyOGhMeUdyRHNudjJQUkxlTVFrMkYtVWlDellRRWV0c3FaMUZ3azBLZg?oc=5",
-        "date": "Wed, 08 Apr 2026 01:30:00 GMT"
     }
 ]
