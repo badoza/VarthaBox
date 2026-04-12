@@ -1,5 +1,55 @@
 [
     {
+        "id": "1eda541e",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "Sooryavanshi's 78-Run Blitz Tops IPL Charts",
+                "content": "Sooryavanshi unleashed a sensational 78-run blitz, propelling him to the pinnacle of the IPL run charts. This dynamic performance not only showcased his batting prowess but also established him as a key contender for the Orange Cap. His innings was crucial, setting a new benchmark for scorers this season and thrilling fans with an explosive display of skill and determination."
+            },
+            "kn": {
+                "title": "ಸೂರ್ಯವಂಶಿಯ 78 ರನ್‌ಗಳ ಸ್ಪೋಟಕ ಇನ್ನಿಂಗ್ಸ್ ಐಪಿಎಲ್ ಚಾರ್ಟ್‌ಗಳಲ್ಲಿ ಅಗ್ರಸ್ಥಾನಕ್ಕೆ",
+                "content": "ಸೂರ್ಯವಂಶಿ 78 ರನ್‌ಗಳ ಸ್ಫೋಟಕ ಇನ್ನಿಂಗ್ಸ್ ಆಡುವ ಮೂಲಕ ಐಪಿಎಲ್ ರನ್ ಚಾರ್ಟ್‌ಗಳಲ್ಲಿ ಅಗ್ರಸ್ಥಾನಕ್ಕೇರಿದ್ದಾರೆ. ಈ ಅದ್ಭುತ ಪ್ರದರ್ಶನವು ಅವರ ಬ್ಯಾಟಿಂಗ್ ಸಾಮರ್ಥ್ಯವನ್ನು ಪ್ರದರ್ಶಿಸುವುದಲ್ಲದೆ, ಆರೆಂಜ್ ಕ್ಯಾಪ್‌ಗೆ ಪ್ರಮುಖ ಸ್ಪರ್ಧಿಯಾಗಿ ಅವರನ್ನು ಸ್ಥಾಪಿಸಿದೆ. ಅವರ ಇನ್ನಿಂಗ್ಸ್ ನಿರ್ಣಾಯಕವಾಗಿದ್ದು, ಈ ಸೀಸನ್‌ನಲ್ಲಿ ಸ್ಕೋರರ್‌ಗಳಿಗೆ ಹೊಸ ಮಾನದಂಡವನ್ನು ನಿಗದಿಪಡಿಸಿತು ಮತ್ತು ಕೌಶಲ್ಯ ಹಾಗೂ ದೃಢಸಂಕಲ್ಪದ ಸ್ಫೋಟಕ ಪ್ರದರ್ಶನದೊಂದಿಗೆ ಅಭಿಮಾನಿಗಳನ್ನು ರೋಮಾಂಚನಗೊಳಿಸಿತು."
+            },
+            "mr": {
+                "title": "सूर्यवंशीच्या 78 धावांच्या फटकेबाजीने तो आयपीएल रन चार्टमध्ये अव्वल",
+                "content": "सूर्यवंशीने 78 धावांची दमदार खेळी करत आयपीएल रन चार्टमध्ये अव्वल स्थान पटकावले आहे. या दमदार कामगिरीमुळे त्याने केवळ आपली फलंदाजीची क्षमताच दाखवून दिली नाही, तर ऑरेंज कॅपसाठी तो एक महत्त्वाचा दावेदार म्हणूनही स्थापित झाला आहे. त्याची खेळी निर्णायक ठरली, या मोसमातील फलंदाजांसाठी एक नवीन मापदंड प्रस्थापित करत त्याने कौशल्य आणि दृढनिश्चयाचा स्फोटक प्रदर्शन करून चाहत्यांना रोमांचित केले."
+            },
+            "hi": {
+                "title": "सूर्यवंशी की 78 रनों की तूफानी पारी ने उन्हें IPL रन चार्ट में शीर्ष पर पहुँचाया",
+                "content": "सूर्यवंशी ने 78 रनों की सनसनीखेज तूफानी पारी खेली, जिससे वह आईपीएल रन चार्ट में शीर्ष पर पहुंच गए। इस गतिशील प्रदर्शन ने न केवल उनकी बल्लेबाजी क्षमता का प्रदर्शन किया, बल्कि उन्हें ऑरेंज कैप के लिए एक प्रमुख दावेदार के रूप में भी स्थापित किया। उनकी पारी महत्वपूर्ण थी, जिसने इस सीज़न में बल्लेबाजों के लिए एक नया बेंचमार्क स्थापित किया और कौशल व दृढ़ संकल्प के विस्फोटक प्रदर्शन से प्रशंसकों को रोमांचित किया।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPT1NwcXhYeFJuektWXzlhVUFlZWhXazczNFhrWmVTWlV5b1BncU1IVmFXNGVCWUdrZXRvNlRtNHRLZG9uVkJ5enMxRkg0bDhKTV9JZXp5RmNlZVFkbERtM3dBM0hhaFdIUnJyX3Ixb0FsLXlzRzVKWFVaay01c2VHcExlWTZfOGpOb3NjTVNWNW9xTWxsV3JNdXJRQlliZ0UwVkVEeDh3aEF5MUJSQm5HbTRoWHRWM20xZmwxWk5QeF82ZGNtN2tpVnhyMG1Dc1lXa0didjF6Q1FMR09yWVozRWt1R0h4S2t2Ujc5eG5POFY?oc=5",
+        "date": "Sat, 11 Apr 2026 10:31:33 GMT"
+    },
+    {
+        "id": "3fe5d3ae",
+        "category": "Sports",
+        "translations": {
+            "en": {
+                "title": "Mendis Shines: IPL vs. PSL Choice Quizzed",
+                "content": "Sri Lankan batter Kusal Mendis, after a Player of the Match performance (74 runs) for Peshawar Zalmi in PSL, was notably questioned about regretting his move to IPL. Mendis, signed for PKR 4.2 crore, led Zalmi to a 76-run win over Lahore Qalandars. His stellar play prompted the direct query on his league choices, highlighting the ongoing debate between PSL and IPL for players."
+            },
+            "kn": {
+                "title": "ಮೆಂಡಿಸ್ ಮಿಂಚು: ಐಪಿಎಲ್ Vs ಪಿಎಸ್ಎಲ್ ಆಯ್ಕೆ ಬಗ್ಗೆ ಪ್ರಶ್ನೆ",
+                "content": "ಪಿಎಸ್‌ಎಲ್‌ನಲ್ಲಿ ಪೇಶಾವರ್ ಝಲ್ಮಿ ಪರ ಪ್ಲೇಯರ್ ಆಫ್ ದಿ ಮ್ಯಾಚ್ ಪ್ರದರ್ಶನ (74 ರನ್) ನೀಡಿದ ಶ್ರೀಲಂಕಾದ ಬ್ಯಾಟರ್ ಕುಸಲ್ ಮೆಂಡಿಸ್‌ಗೆ ಐಪಿಎಲ್‌ಗೆ ತೆರಳಿದ ಬಗ್ಗೆ ಪಶ್ಚಾತ್ತಾಪವಿದೆಯೇ ಎಂದು ಪ್ರಶ್ನಿಸಲಾಯಿತು. 4.2 ಕೋಟಿ ಪಿ.ಕೆ.ಆರ್.ಗೆ ಸಹಿ ಹಾಕಿದ ಮೆಂಡಿಸ್, ಝಲ್ಮಿಗೆ 76 ರನ್‌ಗಳ ಗೆಲುವು ತಂದುಕೊಟ್ಟರು. ಅವರ ಅದ್ಭುತ ಆಟವು ಲೀಗ್ ಆಯ್ಕೆಗಳ ಬಗ್ಗೆ ನೇರ ಪ್ರಶ್ನೆಗೆ ಕಾರಣವಾಯಿತು, ಪಿಎಸ್‌ಎಲ್ ಮತ್ತು ಐಪಿಎಲ್ ನಡುವಿನ ಚರ್ಚೆಯನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ."
+            },
+            "mr": {
+                "title": "मेंडिसची चमकदार कामगिरी: आयपीएल Vs पीएसएल निवडीवर प्रश्न",
+                "content": "पीएसएलमध्ये पेशावर झल्मीसाठी 'प्लेअर ऑफ द मॅच' कामगिरी (७४ धावा) केल्यानंतर श्रीलंकेचा फलंदाज कुसल मेंडिसला आयपीएलमध्ये जाण्याचा पश्चात्ताप आहे का, असे विचारण्यात आले. ४.२ कोटी पीकेआरला करारबद्ध झालेल्या मेंडिसने झल्मीला ७६ धावांनी विजय मिळवून दिला. त्याच्या उत्कृष्ट खेळामुळे त्याच्या लीग निवडींवर थेट प्रश्न विचारला गेला, ज्यामुळे खेळाडूंसाठी पीएसएल आणि आयपीएल यांच्यातील वादावर प्रकाश पडला."
+            },
+            "hi": {
+                "title": "मेंडिस का शानदार प्रदर्शन: आईपीएल Vs पीएसएल चयन पर सवाल",
+                "content": "पीएसएल में पेशावर जाल्मी के लिए 'प्लेयर ऑफ द मैच' प्रदर्शन (74 रन) के बाद, श्रीलंकाई बल्लेबाज कुसल मेंडिस से पूछा गया कि क्या उन्हें आईपीएल में जाने का पछतावा है. 4.2 करोड़ पीकेआर में साइन हुए मेंडिस ने जाल्मी को 76 रन की जीत दिलाई. उनके शानदार खेल ने लीग विकल्पों पर सीधा सवाल खड़ा किया, जिससे खिलाड़ियों के लिए पीएसएल और आईपीएल के बीच की बहस उजागर हुई."
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130201797,imgsize-69290.cms",
+        "link": "https://timesofindia.indiatimes.com/sports/cricket/news/do-you-regret-leaving-psl-midway-for-ipl-sri-lanka-batter-put-on-the-spot-in-pakistan-watch/articleshow/130201728.cms",
+        "date": "2026-04-12T08:21:23+05:30"
+    },
+    {
         "id": "eb8a9ec4",
         "category": "IPL Scoop",
         "translations": {
@@ -1948,55 +1998,5 @@
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
         "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQcW4zMzFWTjlKTnJtZzdBU2VPbkJlLXpDbTVXdmptZFB0aV9HMHFXeWh6UW96ZGNVaDZQYnUyRWt0REM5a0FfNGkyakJKaDhXNlFaLUhEaVAwUzZhWnd1UTNNd0VlSVd5TGEyb3pwSTF6RXp5cmFseERjU1ZXNFN5RDZBUndKOF9KaTl1dTFINjl4eVpuSWJFNDJldFZRZ2FKaDVXbEp3ZWZqU3VXd1dKb2Q0dkNnaXN0ZnJQMVBKMUNhZFgyZkp5ZHdZZFdpYlBqV3F0Y1FJTjlIaHJ1TW1Ua2FBQ3RoRURIWl9YbHU2MHVleVhNWTg0Vnh6Zmh6Q0JDVHpKWlJpWHp4QjFVdGhN0gGUAkFVX3lxTE9NTnVMeVc5RjlteXhJVzgweXNFaWdVZERYOGJmXy13TzEyM1lheEhORWpub0NJRW9qVWhHbHRkZlJTbkpqd3RnV0pzRFNnX0ZKbnFRSi1aWU9PWWZxM0pEUmdKems5UFZlVzFyYnRWdXJBUThERE84LTRlS0k5bS0wem9DazM1MjVGR1JxSHFSeG12M1diNlctRDg3dWpBMThER0h1MExoamFhWkFQSHVqdDAyc2RmRWpvcWpLTkc0U0lrQklucHlnZVlaRXRPb2dDS1ZHcnA0OUU1eEtIVWhmQXBfY0tUd01yQVZyOGhMeUdyRHNudjJQUkxlTVFrMkYtVWlDellRRWV0c3FaMUZ3azBLZg?oc=5",
         "date": "Wed, 08 Apr 2026 01:30:00 GMT"
-    },
-    {
-        "id": "1869d2cc",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "TMC-EC Row Escalates in Bengal",
-                "content": "A fresh row has ignited between the Trinamool Congress (TMC) and the Election Commission (EC) in West Bengal. The EC accuses TMC MP Derek O’Brien of \"shouting\" at its officials. TMC vehemently denies this, calling the allegation a \"lie\" and questioning the EC's stance. This showdown intensifies political tensions in the state, underscoring ongoing disputes over electoral conduct and decorum."
-            },
-            "kn": {
-                "title": "ಬಂಗಾಳದಲ್ಲಿ TMC-EC ವಿವಾದ ತೀವ್ರ",
-                "content": "ಪಶ್ಚಿಮ ಬಂಗಾಳದಲ್ಲಿ ತೃಣಮೂಲ ಕಾಂಗ್ರೆಸ್ (TMC) ಮತ್ತು ಚುನಾವಣಾ ಆಯೋಗ (EC) ನಡುವೆ ಹೊಸ ವಿವಾದ ಭುಗಿಲೆದ್ದಿದೆ. TMC ಸಂಸದ ಡೆರೆಕ್ ಓ'ಬ್ರಿಯಾನ್ ಚುನಾವಣಾ ಅಧಿಕಾರಿಗಳ ಮೇಲೆ \"ಕೂಗಿದ್ದಾರೆ\" ಎಂದು EC ಆರೋಪಿಸಿದೆ. TMC ಈ ಆರೋಪವನ್ನು ತೀವ್ರವಾಗಿ ನಿರಾಕರಿಸಿದ್ದು, ಇದನ್ನು \"ಸುಳ್ಳು\" ಎಂದು ಕರೆದಿದೆ ಮತ್ತು EC ಯ ನಿಲುವನ್ನು ಪ್ರಶ್ನಿಸಿದೆ. ಈ ಮುಖಾಮುಖಿ ರಾಜ್ಯದಲ್ಲಿ ರಾಜಕೀಯ ಉದ್ವಿಗ್ನತೆಯನ್ನು ತೀವ್ರಗೊಳಿಸುತ್ತಿದೆ."
-            },
-            "mr": {
-                "title": "बंगालमध्ये TMC-EC वाद चिघळला",
-                "content": "पश्चिम बंगालमध्ये तृणमूल काँग्रेस (TMC) आणि निवडणूक आयोग (EC) यांच्यात नवा वाद सुरू झाला आहे. TMC खासदार डेरेक ओ'ब्रायन यांनी निवडणूक अधिकाऱ्यांवर \"ओरडल्याचा\" आरोप EC ने केला आहे. TMC ने हा आरोप खोटा ठरवला असून, EC च्या भूमिकेवर प्रश्नचिन्ह उपस्थित केले आहे. हा संघर्ष राज्यातील राजकीय तणाव वाढवत आहे, ज्यामुळे निवडणुकीच्या आचारसंहितेवरील वाद वाढत आहेत."
-            },
-            "hi": {
-                "title": "बंगाल में TMC-EC विवाद बढ़ा",
-                "content": "पश्चिम बंगाल में तृणमूल कांग्रेस (TMC) और चुनाव आयोग (EC) के बीच एक नया विवाद छिड़ गया है। EC ने TMC सांसद डेरेक ओ'ब्रायन पर उसके अधिकारियों पर \"चिल्लाने\" का आरोप लगाया है। TMC ने इस आरोप का कड़े शब्दों में खंडन करते हुए इसे \"झूठ\" बताया और EC के रुख पर सवाल उठाया। यह टकराव राज्य में राजनीतिक तनाव को और बढ़ा रहा है, जिससे चुनावी आचरण पर चल रहे विवाद उजागर हो रहे हैं।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-130104606,imgsize-936235.cms",
-        "link": "https://timesofindia.indiatimes.com/india/tmc-vs-ec-showdown-in-bengal-poll-body-accuses-derek-obrien-of-shouting-party-calls-it-a-lie/articleshow/130104537.cms",
-        "date": "2026-04-08T11:55:42+05:30"
-    },
-    {
-        "id": "6ebe401c",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "Mamata Files Nomination from Bhabanipur, Sparks 'SIR' Debate",
-                "content": "CM Mamata Banerjee officially filed her nomination for the Bengal polls from the Bhabanipur constituency. Her filing was accompanied by her strong stance on a significant political matter, dubbed the 'SIR issue'. This move kicks off her electoral campaign, signalling her readiness for the intense political battle ahead and setting the agenda for crucial discussions."
-            },
-            "kn": {
-                "title": "ಮಮತಾ ಭಬಾನಿಪುರದಿಂದ ನಾಮಪತ್ರ ಸಲ್ಲಿಕೆ, 'SIR' ವಿವಾದಕ್ಕೆ ಕಿಚ್ಚು",
-                "content": "ಮುಖ್ಯಮಂತ್ರಿ ಮಮತಾ ಬ್ಯಾನರ್ಜಿ ಬಂಗಾಳ ಚುನಾವಣೆಗೆ ಭಬಾನಿಪುರ ಕ್ಷೇತ್ರದಿಂದ ಅಧಿಕೃತವಾಗಿ ನಾಮಪತ್ರ ಸಲ್ಲಿಸಿದರು. ಈ ವೇಳೆ, ಅವರು 'SIR ಸಮಸ್ಯೆ' ಎಂದು ಕರೆಯಲ್ಪಡುವ ಪ್ರಮುಖ ರಾಜಕೀಯ ವಿಷಯದ ಬಗ್ಗೆ ತಮ್ಮ ಬಲವಾದ ನಿಲುವನ್ನು ವ್ಯಕ್ತಪಡಿಸಿದರು. ಈ ನಡೆ ಅವರ ಚುನಾವಣಾ ಪ್ರಚಾರಕ್ಕೆ ಚಾಲನೆ ನೀಡುತ್ತದೆ, ಮುಂಬರುವ ತೀವ್ರ ರಾಜಕೀಯ ಸಮರಕ್ಕೆ ಸಿದ್ಧತೆಯನ್ನು ಸೂಚಿಸುತ್ತದೆ ಮತ್ತು ಪ್ರಮುಖ ಚರ್ಚೆಗಳಿಗೆ ವೇದಿಕೆ ಸಿದ್ಧಪಡಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "ममतांनी भबानिपुरातून अर्ज दाखल केला, 'SIR' वादाला तोंड फुटले",
-                "content": "मुख्यमंत्री ममता बॅनर्जी यांनी बंगाल निवडणुकीसाठी भबानिपुर मतदारसंघातून अधिकृतपणे उमेदवारी अर्ज दाखल केला. अर्ज भरताना त्यांनी 'SIR मुद्दा' नावाच्या एका महत्त्वपूर्ण राजकीय विषयावर आपली ठोस भूमिका मांडली. या कृतीमुळे त्यांच्या निवडणूक प्रचाराला सुरुवात झाली, आगामी तीव्र राजकीय लढ्यासाठी त्यांची तयारी स्पष्ट झाली आणि महत्त्वाच्या चर्चांसाठी मंच तयार झाला आहे."
-            },
-            "hi": {
-                "title": "ममता ने भबानिपुर से नामांकन दाखिल किया, 'SIR' विवाद को हवा दी",
-                "content": "मुख्यमंत्री ममता बनर्जी ने बंगाल चुनावों के लिए भबानिपुर निर्वाचन क्षेत्र से आधिकारिक तौर पर अपना नामांकन दाखिल किया। नामांकन के दौरान, उन्होंने 'SIR मुद्दे' नामक एक महत्वपूर्ण राजनीतिक मामले पर अपना कड़ा रुख व्यक्त किया। यह कदम उनके चुनावी अभियान की शुरुआत करता है, जो आगामी तीव्र राजनीतिक लड़ाई के लिए उनकी तत्परता दर्शाता है और महत्वपूर्ण चर्चाओं के लिए मंच तैयार करता है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-130104474,imgsize-1560451.cms",
-        "link": "https://timesofindia.indiatimes.com/india/bengal-polls-cm-mamata-banerjee-files-nomination-from-bhabanipur-constituency-rakes-up-sir-issue/articleshow/130104492.cms",
-        "date": "2026-04-08T11:49:48+05:30"
     }
 ]
