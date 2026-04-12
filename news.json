@@ -1,5 +1,55 @@
 [
     {
+        "id": "90cd6cad",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "Russini-Vrabel Scandal: Past Tweet Fuels Dating Mystery",
+                "content": "Dianna Russini and Mike Vrabel's alleged scandal escalates following the resurfacing of a past tweet. The tweet has sparked serious questions about their relationship status and dating history, adding a new layer of complexity to the ongoing controversy. This development deepens the mystery surrounding the NFL insider and the former coach, drawing significant media attention and public speculation."
+            },
+            "kn": {
+                "title": "ರಸ್ಸಿನಿ-ವ್ರೇಬೆಲ್ ಹಗರಣ: ಹಳೆಯ ಟ್ವೀಟ್ ಡೇಟಿಂಗ್ ರಹಸ್ಯವನ್ನು ಹೆಚ್ಚಿಸುತ್ತದೆ",
+                "content": "ಡಯಾನಾ ರಸ್ಸಿನಿ ಮತ್ತು ಮೈಕ್ ವ್ರೇಬೆಲ್ ಅವರ ಆರೋಪಿತ ಹಗರಣವು ಹಳೆಯ ಟ್ವೀಟ್ ಮರುಪರಿಚಯದ ನಂತರ ಉಲ್ಬಣಗೊಂಡಿದೆ. ಈ ಟ್ವೀಟ್ ಅವರ ಸಂಬಂಧದ ಸ್ಥಿತಿ ಮತ್ತು ಡೇಟಿಂಗ್ ಇತಿಹಾಸದ ಬಗ್ಗೆ ಗಂಭೀರ ಪ್ರಶ್ನೆಗಳನ್ನು ಹುಟ್ಟುಹಾಕಿದ್ದು, ನಡೆಯುತ್ತಿರುವ ವಿವಾದಕ್ಕೆ ಹೊಸ ಸಂಕೀರ್ಣತೆಯನ್ನು ಸೇರಿಸಿದೆ. ಈ ಬೆಳವಣಿಗೆಯು ಎನ್‌ಎಫ್‌ಎಲ್ ಒಳಗಿನವರು ಮತ್ತು ಮಾಜಿ ತರಬೇತುದಾರರ ಸುತ್ತಲಿನ ರಹಸ್ಯವನ್ನು ಗಾಢವಾಗಿಸುತ್ತಿದೆ, ಇದು ಗಮನಾರ್ಹ ಮಾಧ್ಯಮ ಗಮನ ಮತ್ತು ಸಾರ್ವಜನಿಕ ಊಹಾಪೋಹಗಳನ್ನು ಸೆಳೆಯುತ್ತಿದೆ."
+            },
+            "mr": {
+                "title": "रुसिनी-व्राबेल घोटाळा: जुने ट्विट डेटिंगचे रहस्य वाढवते",
+                "content": "डायना रुसिनी आणि माईक व्राबेल यांच्या कथित घोटाळ्याला जुन्या ट्विटच्या पुनरुत्थानानंतर वाढ मिळाली आहे. या ट्विटमुळे त्यांच्या नातेसंबंधाच्या स्थितीबद्दल आणि डेटिंगच्या इतिहासाबद्दल गंभीर प्रश्न निर्माण झाले आहेत, ज्यामुळे सध्याच्या वादात एक नवीन गुंतागुंत निर्माण झाली आहे. या विकासामुळे एनएफएल इनसाइडर आणि माजी प्रशिक्षकाभोवतीचे गूढ अधिक गडद झाले आहे, ज्यामुळे लक्षणीय माध्यमांचे लक्ष आणि सार्वजनिक अटकळ वाढली आहे."
+            },
+            "hi": {
+                "title": "रुसिनी-व्राबेल घोटाला: पुराना ट्वीट डेटिंग के रहस्य को बढ़ावा देता है",
+                "content": "डायना रुसिनी और माइक व्राबेल का कथित घोटाला एक पुराने ट्वीट के फिर से सामने आने के बाद बढ़ गया है। इस ट्वीट ने उनके रिश्ते की स्थिति और डेटिंग के इतिहास के बारे में गंभीर सवाल खड़े किए हैं, जिससे चल रहे विवाद में एक नई जटिलता जुड़ गई है। यह घटनाक्रम एनएफएल इनसाइडर और पूर्व कोच के इर्द-गिर्द के रहस्य को गहरा करता है, जिससे महत्वपूर्ण मीडिया का ध्यान और सार्वजनिक अटकलें बढ़ रही हैं।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOWFVjTE54UEpFOXpicGw2Q1V2MDVlcmNLSjBWakduQjNpdllvQ1hfOTBPUVZDVzR5RmVFQ0UyblRwSVRiTm1xcHkzclJaallaUnBnc1pXMGl1Sm11bEVsMUZWUnZiMUNzam9pTi1pb0cxQ1AxdGlfRW5RcHozbUhCb3dmcVFUV0xmd1hrTllhUkwwU2xDSU9MYWQyZkNwY0lXaXJBck85NlREVVFaeHBpY0VXNGlCS19QdUppTDZMeWg4bUJmb0d1algxSlVsczNaTXl4MHN2d3UwOHZTV2hsV2JjYzJYb01leHNCYmJXd3R2ZE5HYWhEX2ZHaEV1eXV2Mkx1WFdLRkhlVUo4VHJqdXp30gGSAkFVX3lxTE5YVWNMTnhQSkU5emJwbDZDVXYwNWVyY0tKMFZqR25CM2l2WW9DWF85ME9RVkNXNHlGZUVDRTJuVHBJVGJObXFweTNyUlpqWVpScGdzWlcwaXVKbXVsRWwxRlZSdmIxQ3Nqb2lOLWlvRzFDUDF0aV9FblFwejNtSEJvd2ZxUVRXTGZ3WGtOWWFSTDBTbENJT0xhZDJmQ3BjSVdpckFyTzk2VERVUVp4cGljRVc0aUJLX1B1SmlMNkx5aDhtQmZvR3VqWDFKVWxzM1pNeXgwc3Z3dTA4dlNXaGxXYmNjMlhvTWV4c0JiYld3dHZkTkdhaERfZkdoRXV5dXYyTHVYV0tGSGVVSjhUcmp1enc?oc=5",
+        "date": "Sun, 12 Apr 2026 10:46:00 GMT"
+    },
+    {
+        "id": "50816c97",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "IPL 2026: SRH vs RR Dream11 Prediction",
+                "content": "Get ready for the 21st match of IPL 2026! Sunrisers Hyderabad (SRH) clashes with Rajasthan Royals (RR) in what promises to be an exciting encounter. Sportsdunia brings you expert Dream11 predictions to help you build your winning fantasy team. Analyze player forms, team strategies, and pitch reports for key insights. Don't miss out on making your best picks for this thrilling showdown."
+            },
+            "kn": {
+                "title": "IPL 2026: SRH vs RR ಡ್ರೀಮ್11 ಭವಿಷ್ಯವಾಣಿ",
+                "content": "IPL 2026ರ 21ನೇ ಪಂದ್ಯಕ್ಕೆ ಸಿದ್ಧರಾಗಿ! ಸನ್‌ರೈಸರ್ಸ್ ಹೈದರಾಬಾದ್ (SRH) ರಾಜಸ್ಥಾನ್ ರಾಯಲ್ಸ್ (RR) ವಿರುದ್ಧ ರೋಮಾಂಚಕ ಹಣಾಹಣಿಯಲ್ಲಿ ಸೆಣಸಲಿದೆ. ನಿಮ್ಮ ವಿಜೇತ ಫ್ಯಾಂಟಸಿ ತಂಡವನ್ನು ರಚಿಸಲು Sportsdunia ತಜ್ಞರ ಡ್ರೀಮ್11 ಭವಿಷ್ಯವಾಣಿಗಳನ್ನು ನೀಡುತ್ತದೆ. ಪ್ರಮುಖ ಒಳನೋಟಗಳಿಗಾಗಿ ಆಟಗಾರರ ಫಾರ್ಮ್, ತಂಡದ ತಂತ್ರಗಳು ಮತ್ತು ಪಿಚ್ ವರದಿಗಳನ್ನು ವಿಶ್ಲೇಷಿಸಿ. ಈ ರೋಚಕ ಹೋರಾಟಕ್ಕೆ ನಿಮ್ಮ ಅತ್ಯುತ್ತಮ ಆಯ್ಕೆಗಳನ್ನು ಮಾಡಲು ಮರೆಯಬೇಡಿ."
+            },
+            "mr": {
+                "title": "IPL 2026: SRH vs RR ड्रीम11 अंदाज",
+                "content": "IPL 2026 च्या 21व्या सामन्यासाठी सज्ज व्हा! सनरायझर्स हैदराबाद (SRH) आणि राजस्थान रॉयल्स (RR) यांच्यात रोमांचक सामना होणार आहे. Sportsdunia तुमच्या विजयी फॅन्टसी संघासाठी तज्ञांचे ड्रीम11 अंदाज घेऊन आले आहे. महत्त्वाच्या माहितीसाठी खेळाडूंचा फॉर्म, संघाची रणनीती आणि खेळपट्टीचा अहवाल तपासा. या रोमांचक लढतीसाठी तुमचे सर्वोत्तम खेळाडू निवडायला विसरू नका."
+            },
+            "hi": {
+                "title": "IPL 2026: SRH vs RR ड्रीम11 भविष्यवाणी",
+                "content": "IPL 2026 के 21वें मैच के लिए तैयार हो जाइए! सनराइजर्स हैदराबाद (SRH) का मुकाबला राजस्थान रॉयल्स (RR) से होगा, जो एक रोमांचक भिड़ंत होने वाली है। Sportsdunia आपकी विजेता फैंटेसी टीम बनाने के लिए विशेषज्ञ ड्रीम11 भविष्यवाणियां लाता है। महत्वपूर्ण जानकारियों के लिए खिलाड़ियों के प्रदर्शन, टीम की रणनीतियों और पिच रिपोर्ट का विश्लेषण करें। इस रोमांचक मुकाबले के लिए अपनी सर्वश्रेष्ठ पिक्स करना न भूलें।"
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNVZ5dFFXU3hwZ2Jub3BESkg3dUNaZXdqaFlIMW9DTVBRUkwtWTczaGszRnBEaGlvbnozRzd4S2ZZWURLTzJmb2ZXYnBTbllLaE1OOWlySjVpNUxwdG0waFNURjdNZ0ROVFBKOE1SbTFCazViLTBOcERHM1M4ZjdnT215b203Rk9wU3pYekFNd0NfOWFadWU4?oc=5",
+        "date": "Sun, 12 Apr 2026 13:43:38 GMT"
+    },
+    {
         "id": "130f79f8",
         "category": "IPL Scoop",
         "translations": {
@@ -1948,55 +1998,5 @@
         "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMHBmOXNpRnhFUkJZOHRSVUJ4UzM2TnhHQVdFd3RIUk5MZU1VcHl0V19la2lJMm1wYUJ0T1hQS25kWVpDdnFaTDNuZzB2a3dXNUdIUE9yQ1RYUHhza09IZkNKZFBKTmZWMElRRlVKUERqY2dCdWhxRVRqQ1E0NVJHV0FzNVNHTWxPSzRtcWVCcjVMMkViSUE3LTV6NFVqYm9wTk5DVGpwVHQycTlQNWg1d0s4RlpOeFFnUWZYaWxQaE1oWWxMMmgzdE9Hbw?oc=5",
         "date": "Fri, 10 Apr 2026 23:43:00 GMT"
-    },
-    {
-        "id": "38336503",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Fact Check: Viral Melania-Epstein Kiss Image is AI, Macron Didn't Share It",
-                "content": "A viral image depicting Melania Trump kissing Jeffrey Epstein has been widely shared, with claims Emmanuel Macron posted it. A fact-check reveals this image is entirely AI-generated and fake. Furthermore, there is no evidence Macron ever shared such a post, debunking the false attribution and confirming the picture is a digital fabrication, not a genuine photograph."
-            },
-            "kn": {
-                "title": "ವಾಸ್ತವ ತಪಾಸಣೆ: ವೈರಲ್ ಮೆಲಾನಿಯಾ-ಎಪ್ಸ್ಟೀನ್ ಚುಂಬನದ ಚಿತ್ರ ಕೃತಕ ಬುದ್ಧಿಮತ್ತೆಯಿಂದ ಸೃಷ್ಟಿಯಾಗಿದೆ, ಮ್ಯಾಕ್ರನ್ ಹಂಚಿಕೊಂಡಿಲ್ಲ",
-                "content": "ಮೆಲಾನಿಯಾ ಟ್ರಂಪ್ ಜೆಫ್ರಿ ಎಪ್ಸ್ಟೀನ್ ಅವರನ್ನು ಚುಂಬಿಸುತ್ತಿರುವ ವೈರಲ್ ಚಿತ್ರವನ್ನು ಇಮ್ಯಾನುಯೆಲ್ ಮ್ಯಾಕ್ರನ್ ಹಂಚಿಕೊಂಡಿದ್ದಾರೆ ಎಂಬ ಹೇಳಿಕೆಯೊಂದಿಗೆ ವ್ಯಾಪಕವಾಗಿ ಹಂಚಿಕೊಳ್ಳಲಾಗಿದೆ. ವಾಸ್ತವ ತಪಾಸಣೆಯು ಈ ಚಿತ್ರ ಸಂಪೂರ್ಣವಾಗಿ ಕೃತಕ ಬುದ್ಧಿಮತ್ತೆಯಿಂದ ಸೃಷ್ಟಿಯಾಗಿದೆ ಮತ್ತು ನಕಲಿ ಎಂದು ಬಹಿರಂಗಪಡಿಸಿದೆ. ಮ್ಯಾಕ್ರನ್ ಅಂತಹ ಯಾವುದೇ ಪೋಸ್ಟ್ ಅನ್ನು ಹಂಚಿಕೊಂಡಿದ್ದಾರೆ ಎಂಬುದಕ್ಕೆ ಯಾವುದೇ ಪುರಾವೆಗಳಿಲ್ಲ, ಇದು ತಪ್ಪು ಆರೋಪವನ್ನು ನಿರಾಕರಿಸಿ, ಚಿತ್ರವು ಡಿಜಿಟಲ್ ಫ್ಯಾಬ್ರಿಕೇಶನ್ ಆಗಿದೆ ಎಂದು ದೃಢಪಡಿಸುತ್ತದೆ, ನಿಜವಾದ ಛಾಯಾಚಿತ್ರವಲ್ಲ."
-            },
-            "mr": {
-                "title": "सत्य पडताळणी: व्हायरल मेलानिया-एपस्टाईन चुंबनाचा फोटो AI ने तयार केलेला आहे, मॅक्रॉनने शेअर केला नाही",
-                "content": "मेलानिया ट्रम्प जेफ्री एपस्टाईनला चुंबन करतानाचा एक व्हायरल फोटो, इमॅन्युएल मॅक्रॉनने शेअर केल्याच्या दाव्यांसह, मोठ्या प्रमाणावर प्रसारित झाला आहे. सत्य पडताळणीनुसार, हा फोटो पूर्णपणे AI-निर्मित आणि बनावट आहे. मॅक्रॉनने अशी कोणतीही पोस्ट शेअर केल्याचा कोणताही पुरावा नाही, ज्यामुळे चुकीचे आरोप फेटाळून लावले जातात आणि हे चित्र डिजिटल बनावट असून खरा फोटो नाही याची पुष्टी होते."
-            },
-            "hi": {
-                "title": "तथ्य जांच: वायरल मेलानिया-एपस्टीन की किस इमेज AI निर्मित है, मैक्रॉन ने साझा नहीं की",
-                "content": "मेलानिया ट्रम्प और जेफ्री एपस्टीन को चुंबन करते हुए दिखाती एक वायरल तस्वीर इमैनुएल मैक्रॉन द्वारा साझा किए जाने के दावे के साथ व्यापक रूप से प्रसारित हुई है। एक तथ्य जांच से पता चला है कि यह तस्वीर पूरी तरह से AI-जनित और फर्जी है। इसके अलावा, मैक्रॉन द्वारा ऐसी कोई पोस्ट साझा करने का कोई सबूत नहीं है, जिससे झूठे आरोप खारिज हो जाते हैं और पुष्टि होती है कि तस्वीर एक डिजिटल मनगढ़ंत कहानी है, न कि एक वास्तविक फोटो।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPY2dwN0FJbU5JQU5rcTBDTWZYTkdXOElRRExXNjJlS09ESTR6ZDNzSjBGX0NtQlRhRzVHYW9sekZOc0JXeFg4QlNoNHdic1FTbnJqY29YeXdSVGVWWTZmSkl6ZFJSbDhhR1NFdm9xMUFzbTlwYTdBNTQ2c29mUFhMcHJNb3RiLXhrOFVSS2JZMV9xMWJOdFkxeEdzUGI4TWxSaGZZMGNMMG9rN1c1TXhfclZ3VnA0RjlwM1UyNTZFRzNCMFJJYThYWDBNcHBGWXU4WERsdHlIVzNvWU5XZXVNWG92TVdnU204aDVoYk5oeDVUVnlEVTZxamZLZHc?oc=5",
-        "date": "Fri, 10 Apr 2026 11:31:30 GMT"
-    },
-    {
-        "id": "e72facbf",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "Thushara Apologises to SLC, May Withdraw IPL NOC Case",
-                "content": "Sri Lankan pacer Dilshan Madushanka Thushara has issued an apology to Sri Lanka Cricket (SLC) and is reportedly contemplating withdrawing his legal case concerning the No Objection Certificate (NOC) for the IPL 2024. This development follows a dispute over his participation. His apology and potential withdrawal could pave the way for a resolution between him and the national board."
-            },
-            "kn": {
-                "title": "ಥುಷಾರಾ ಎಸ್‌ಎಲ್‌ಸಿಗೆ ಕ್ಷಮೆ ಯಾಚಿಸಿದರು, ಐಪಿಎಲ್ ಎನ್‌ಒಸಿ ಪ್ರಕರಣ ಹಿಂಪಡೆಯಬಹುದು",
-                "content": "ಶ್ರೀಲಂಕಾದ ವೇಗದ ಬೌಲರ್ ದಿಲ್ಶಾನ್ ಮಧುಶಂಕಾ ಥುಷಾರಾ ಅವರು ಶ್ರೀಲಂಕಾ ಕ್ರಿಕೆಟ್ (ಎಸ್‌ಎಲ್‌ಸಿ) ಗೆ ಕ್ಷಮೆಯಾಚಿಸಿದ್ದಾರೆ ಮತ್ತು ಐಪಿಎಲ್ 2024 ಗಾಗಿ ನಿರಾಕ್ಷೇಪಣಾ ಪ್ರಮಾಣಪತ್ರ (ಎನ್‌ಒಸಿ) ಕುರಿತ ತಮ್ಮ ಕಾನೂನು ಪ್ರಕರಣವನ್ನು ಹಿಂಪಡೆಯುವ ಬಗ್ಗೆ ಯೋಚಿಸುತ್ತಿದ್ದಾರೆ ಎಂದು ವರದಿಯಾಗಿದೆ. ಅವರ ಭಾಗವಹಿಸುವಿಕೆ ಕುರಿತ ವಿವಾದದ ನಂತರ ಈ ಬೆಳವಣಿಗೆ ನಡೆದಿದೆ. ಅವರ ಕ್ಷಮೆಯಾಚನೆ ಮತ್ತು ಸಂಭಾವ್ಯ ಪ್ರಕರಣ ಹಿಂಪಡೆಯುವಿಕೆ ಅವರಿಗೆ ಮತ್ತು ರಾಷ್ಟ್ರೀಯ ಮಂಡಳಿಗೆ ನಡುವಿನ ಇತ್ಯರ್ಥಕ್ಕೆ ದಾರಿ ಮಾಡಿಕೊಡಬಹುದು."
-            },
-            "mr": {
-                "title": "थुशाराची SLC कडे माफी, IPL NOC प्रकरण मागे घेण्याची शक्यता",
-                "content": "श्रीलंकेचा वेगवान गोलंदाज दिलशान मधुशंका थुशाराने श्रीलंका क्रिकेट (SLC) कडे माफी मागितली आहे आणि तो IPL 2024 साठीच्या ना हरकत प्रमाणपत्रा (NOC) संदर्भातील आपली कायदेशीर केस मागे घेण्याचा विचार करत असल्याची बातमी आहे. त्याच्या सहभागावरून झालेल्या वादामुळे हा विकास घडला आहे. त्याची माफी आणि संभाव्य केस मागे घेणे यामुळे त्याला आणि राष्ट्रीय मंडळाला यांच्यातील वाद मिटवण्यासाठी मार्ग मोकळा होऊ शकतो."
-            },
-            "hi": {
-                "title": "थुशारा ने SLC से मांगी माफी, IPL NOC केस वापस ले सकते हैं",
-                "content": "श्रीलंकाई तेज गेंदबाज दिलशान मधुशंका थुशारा ने श्रीलंका क्रिकेट (SLC) से माफी मांगी है और कथित तौर पर IPL 2024 के लिए अनापत्ति प्रमाण पत्र (NOC) से संबंधित अपना कानूनी मामला वापस लेने पर विचार कर रहे हैं। यह घटनाक्रम उनकी भागीदारी को लेकर हुए विवाद के बाद सामने आया है। उनकी माफी और संभावित मामला वापस लेना उनके और राष्ट्रीय बोर्ड के बीच समाधान का मार्ग प्रशस्त कर सकता है।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZ0ROeDlvcFhIOUNWNF9pNUR4RjFzYzIzanZzM1hxakJ4VTdiNmJBZFF6dHptTk9yNzczaGhIemxSOENzU3RDWVNDT3ZEb1NRY09VYnBhZG1mY0FXWGRLZVVLNlFaTGI4TC01Wjl6NXFhMXgtamlMVGJzUDNuaS1fX2NpZVgyT1NHSjh2V1o4UFNpRTFUQnJZZzVXQVJ1T0lrV0RjdmZRVTNhOVFoaTkwU3hvOGJaZVJPRnJQN28wbEFsRVF0bE43SGRBUkFkaUg4N3VWZFlYTE4wdw?oc=5",
-        "date": "Fri, 10 Apr 2026 13:00:52 GMT"
     }
 ]
