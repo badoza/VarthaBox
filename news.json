@@ -1,5 +1,30 @@
 [
     {
+        "id": "c8b9af2f",
+        "category": "IPL Scoop",
+        "translations": {
+            "en": {
+                "title": "Cricketer Yuzvendra Chahal Sparks Controversy",
+                "content": "A viral video allegedly shows cricketer Yuzvendra Chahal smoking and littering a cigarette while driving. The widely circulated clip has ignited strong reactions among fans and media, raising questions about public conduct and environmental responsibility for sports personalities. The incident has sparked a heated debate online."
+            },
+            "kn": {
+                "title": "ಕ್ರಿಕೆಟಿಗ ಯುಜ್ವೇಂದ್ರ ಚಾಹಲ್ ವಿವಾದಕ್ಕೆ",
+                "content": "ಕ್ರಿಕೆಟಿಗ ಯುಜ್ವೇಂದ್ರ ಚಾಹಲ್ ವಾಹನ ಚಲಾಯಿಸುವಾಗ ಸಿಗರೇಟ್ ಸೇದಿ ಎಸೆಯುತ್ತಿರುವುದು ವೈರಲ್ ವಿಡಿಯೋದಲ್ಲಿ ಕಂಡುಬಂದಿದೆ. ಈ ವಿಡಿಯೋ ಅಭಿಮಾನಿಗಳು ಮತ್ತು ಮಾಧ್ಯಮಗಳಲ್ಲಿ ತೀವ್ರ ಪ್ರತಿಕ್ರಿಯೆಗಳನ್ನು ಹುಟ್ಟುಹಾಕಿದೆ, ಕ್ರೀಡಾ ವ್ಯಕ್ತಿಗಳ ಸಾರ್ವಜನಿಕ ನಡವಳಿಕೆ ಮತ್ತು ಪರಿಸರ ಜವಾಬ್ದಾರಿಯ ಬಗ್ಗೆ ಪ್ರಶ್ನೆಗಳನ್ನು ಎತ್ತಿದೆ. ಈ ಘಟನೆ ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ತೀವ್ರ ಚರ್ಚೆಗೆ ಕಾರಣವಾಗಿದೆ."
+            },
+            "mr": {
+                "title": "क्रिकेटर युजवेंद्र चहल वादाच्या भोवऱ्यात",
+                "content": "क्रिकेटर युजवेंद्र चहल गाडी चालवताना सिगारेट ओढून रस्त्यावर फेकताना व्हायरल व्हिडिओत दिसल्याचा दावा आहे. यामुळे चाहते आणि माध्यमांमध्ये तीव्र प्रतिक्रिया उमटल्या आहेत, ज्यामुळे क्रीडा व्यक्तिमत्त्वांच्या सार्वजनिक वर्तनाबद्दल आणि पर्यावरणाच्या जबाबदारीबद्दल प्रश्न निर्माण झाले आहेत. या घटनेने ऑनलाइन तीव्र चर्चा सुरू केली आहे."
+            },
+            "hi": {
+                "title": "क्रिकेटर युजवेंद्र चहल विवादों के घेरे में",
+                "content": "एक वायरल वीडियो में क्रिकेटर युजवेंद्र चहल को गाड़ी चलाते समय सिगरेट पीते और फेंकते हुए कथित तौर पर दिखाया गया है. इस क्लिप ने प्रशंसकों और मीडिया में तीखी प्रतिक्रियाएं जगाई हैं, जिससे खेल हस्तियों के सार्वजनिक आचरण और पर्यावरणीय जिम्मेदारी पर सवाल उठ रहे हैं. इस घटना ने ऑनलाइन तीखी बहस छेड़ दी है."
+            }
+        },
+        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQNXFkazk2SG1wbFNUVWFSRTdOMzZCMFFpSzVxck1yN1pSRE11UjRRVC1UUHVsRUJ0enJ4M2tZaW1nN0ZiVGV6aWd0blk3cjVla3Ewd0V2SURkQW9hQnBHcm9lUTNhYkhyb21uVVNwZUdHcnN6cVptOFdZa3BxOXdnclhWbndoUXNteEZPRHJIWFRiQ0F1azJ0Z3RKQWhfeloyaHRDLTlhZ3g3NVpicWhXbV9aYXBDRkNtT1F5VEh1Y3U4ZklUeFZrMkJWTkgybFF3NU5GSkpEMmlxZ3FUdHZmWDlsWXUyZzBxUDdKS1VXZkJQdmVsQUJLcFNNbHE4UThJang2dDJ5Q3RFQld1RGg2d1ExVW96SXlnMVE?oc=5",
+        "date": "Sat, 11 Apr 2026 10:12:05 GMT"
+    },
+    {
         "id": "32e9da25",
         "category": "IPL Scoop",
         "translations": {
@@ -1973,30 +1998,5 @@
         "image": "https://static.toiimg.com/photo/msid-130152099,imgsize-44664.cms",
         "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2026-mukul-choudhary-masterclass-snatches-victory-from-kkrs-clutches-in-last-ball-thriller/articleshow/130151525.cms",
         "date": "2026-04-10T00:09:25+05:30"
-    },
-    {
-        "id": "25e96c25",
-        "category": "IPL Scoop",
-        "translations": {
-            "en": {
-                "title": "LSG's New Finisher Mukul Choudhary Reveals Success Secrets",
-                "content": "LSG's new finisher, Mukul Choudhary, revealed his meticulous preparations after his match-winning fifty against KKR in a recent IPL clash. Choudhary, who showcased exceptional skill under pressure, discussed the rigorous training and mental conditioning instrumental in his breakthrough performance. His crucial knock secured victory for LSG, highlighting his potential as a key player for the team."
-            },
-            "kn": {
-                "title": "LSGಯ ಹೊಸ ಫಿನಿಶರ್ ಮುಕುಲ್ ಚೌಧರಿ ಯಶಸ್ಸಿನ ರಹಸ್ಯ ಬಿಚ್ಚಿಟ್ಟರು",
-                "content": "IPLನ ಇತ್ತೀಚಿನ ಪಂದ್ಯದಲ್ಲಿ KKR ವಿರುದ್ಧ LSGಯ ಹೊಸ ಫಿನಿಶರ್ ಮುಕುಲ್ ಚೌಧರಿ ಅವರು ಪಂದ್ಯ-ಗೆಲ್ಲುವ ಅರ್ಧಶತಕದ ನಂತರ, ತಮ್ಮ ನಿಖರವಾದ ಸಿದ್ಧತೆಗಳನ್ನು ಬಹಿರಂಗಪಡಿಸಿದರು. ಒತ್ತಡದಲ್ಲಿ ಅಸಾಧಾರಣ ಕೌಶಲ್ಯವನ್ನು ಪ್ರದರ್ಶಿಸಿದ ಚೌಧರಿ, ತಮ್ಮ ಅದ್ಭುತ ಪ್ರದರ್ಶನಕ್ಕೆ ಸಹಾಯಕವಾದ ಕಠಿಣ ತರಬೇತಿ ಮತ್ತು ಮಾನಸಿಕ ಕಂಡೀಷನಿಂಗ್ ಬಗ್ಗೆ ಚರ್ಚಿಸಿದರು. ಅವರ ನಿರ್ಣಾಯಕ ಇನ್ನಿಂಗ್ಸ್ LSGಗೆ ವಿಜಯವನ್ನು ತಂದುಕೊಟ್ಟಿತು, ತಂಡಕ್ಕೆ ಪ್ರಮುಖ ಆಟಗಾರನಾಗಿ ಅವರ ಸಾಮರ್ಥ್ಯವನ್ನು ಎತ್ತಿ ತೋರಿಸುತ್ತದೆ."
-            },
-            "mr": {
-                "title": "एलएसजीचा नवा फिनिशर मुकुल चौधरीने यशाचे रहस्य उघड केले",
-                "content": "आयपीएलमधील एका अलीकडील सामन्यात केकेआरविरुद्ध एलएसजीचा नवीन फिनिशर मुकुल चौधरीने सामना जिंकून देणाऱ्या अर्धशतकानंतर आपल्या तयारीचे तपशील उघड केले. दबावाखाली उत्कृष्ट कौशल्य दाखवणाऱ्या चौधरीने आपल्या प्रभावी कामगिरीसाठी आवश्यक असलेल्या कठोर प्रशिक्षण आणि मानसिक तयारीबद्दल सांगितले. त्याच्या महत्त्वपूर्ण खेळीने एलएसजीला विजय मिळवून दिला, ज्यामुळे तो संघासाठी एक महत्त्वाचा खेळाडू म्हणून उदयास आला आहे."
-            },
-            "hi": {
-                "title": "एलएसजी के नए फिनिशर मुकुल चौधरी ने खोले सफलता के राज",
-                "content": "आईपीएल के हालिया मुकाबले में केकेआर के खिलाफ एलएसजी के नए फिनिशर मुकुल चौधरी ने अपने मैच-विनिंग अर्धशतक के बाद अपनी तैयारियों का खुलासा किया। दबाव में असाधारण कौशल का प्रदर्शन करते हुए, चौधरी ने कड़ी ट्रेनिंग और मानसिक तैयारी पर चर्चा की जो उनके शानदार प्रदर्शन में सहायक रही। उनकी महत्वपूर्ण पारी ने एलएसजी को जीत दिलाई, जिससे टीम के लिए एक प्रमुख खिलाड़ी के रूप में उनकी क्षमता उजागर हुई।"
-            }
-        },
-        "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPeXc2UVI3VloxWThGM0V4RENqdF9zSDJncGVDY2ZiUGRUVnc1MTVTMS1rY3lWcXRUR19MNWxHS19ENHdjTFVoN1dNeVVNWWRKTEtRdDlkWDJ4dWxTc0l2MzRZQkdBcmpmdnJlU2tyaDhNWHc0UFpBSkFoSk85d1I5T0tNdUVoN2xiWnlTMkZhWVdndjdiZjdjSmduNlJRZ0FKWi02VDdxM3ZyUThmeEo0WURvRVVVR1ZxUTNGQmRlRm1WOGpKdGpCaUllN3h4WDUxY1ZYYjcya2JnelVUV2xEZtIB7gFBVV95cUxOaU1sRkVtYkV6R0hHc0xCQ2t2dVZGX0xYczA3N0pWWDZ2ZmotZWpLMlR4SnA0OEdRNndfcjZLN2tKcTRYN0NpbVBSc28xZmtjMUN3Ni1UWXFpMzRuUnpUVnJFS3ctal81WElIOHBKSk5LdjM3LUxMZjBjclVzOXgwNzgzM3VFVTlwUnRmbTZiR3U2MU5tNXVpNnBXclBiWEdxNFBZWFRQUWFDeEh4UXYyakQ5QXlRenFKck1nckJndTl6Ung4YmhoV3Z6VTJZa2x4OFFqMnZOTlBPczZUdFJUWXZONG9IaDMxRVRFdS13?oc=5",
-        "date": "Thu, 09 Apr 2026 19:06:25 GMT"
     }
 ]
