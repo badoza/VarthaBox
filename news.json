@@ -1,5 +1,30 @@
 [
     {
+        "id": "578cc4f7",
+        "category": "World",
+        "translations": {
+            "en": {
+                "title": "Deshae Frost Denies Slapping Woman in Viral Boat Video",
+                "content": "Twitch streamer Deshae Frost addresses a viral boat video showing an alleged altercation. Frost denies slapping a woman, claiming he only pushed her after she hit and insulted him. He states the misleading clip lacks full context and misrepresents the situation, insisting the online narrative is incomplete."
+            },
+            "kn": {
+                "title": "ಡೆಶೇ ಫ್ರಾಸ್ಟ್ ವೈರಲ್ ಬೋಟ್ ವಿಡಿಯೋದಲ್ಲಿ ಮಹಿಳೆಗೆ ಕಪಾಳಮೋಕ್ಷ ಮಾಡಿದ್ದನ್ನು ನಿರಾಕರಿಸಿದ್ದಾರೆ",
+                "content": "ಟ್ವಿಚ್ ಸ್ಟ್ರೀಮರ್ ಡೆಶೇ ಫ್ರಾಸ್ಟ್, ಘರ್ಷಣೆಯಾಗಿದೆ ಎಂದು ಆರೋಪಿಸಲಾದ ವೈರಲ್ ಬೋಟ್ ವಿಡಿಯೋ ಕುರಿತು ಪ್ರತಿಕ್ರಿಯಿಸಿದ್ದಾರೆ. ಫ್ರಾಸ್ಟ್ ಮಹಿಳೆಗೆ ಕಪಾಳಮೋಕ್ಷ ಮಾಡಿದ್ದನ್ನು ನಿರಾಕರಿಸಿದ್ದಾರೆ, ಅವಳು ಹೊಡೆದು ಅವಮಾನಿಸಿದ ನಂತರ ತಾನು ಕೇವಲ ತಳ್ಳಿದ್ದೇನೆ ಎಂದು ಹೇಳಿದ್ದಾರೆ. ತಪ್ಪುದಾರಿಗೆಳೆಯುವ ಈ ಕ್ಲಿಪ್‌ಗೆ ಪೂರ್ಣ ಸಂದರ್ಭ ಇಲ್ಲ ಮತ್ತು ಇದು ಪರಿಸ್ಥಿತಿಯನ್ನು ತಪ್ಪಾಗಿ ನಿರೂಪಿಸುತ್ತದೆ ಎಂದು ಅವರು ಹೇಳಿದ್ದಾರೆ, ಆನ್‌ಲೈನ್ ನಿರೂಪಣೆ ಅಪೂರ್ಣವಾಗಿದೆ ಎಂದು ಪ್ರತಿಪಾದಿಸಿದ್ದಾರೆ."
+            },
+            "mr": {
+                "title": "डेशे फ्रॉस्टने व्हायरल बोट व्हिडिओतील महिलेला थप्पड मारल्याचा केला इन्कार",
+                "content": "ट्विच स्ट्रीमर डेशे फ्रॉस्टने एका व्हायरल बोट व्हिडिओबाबत स्पष्टीकरण दिले आहे, ज्यात कथित मारामारी दिसत आहे. फ्रॉस्टने महिलेला थप्पड मारल्याचा इन्कार केला आहे, दावा केला की तिने त्याला मारल्यानंतर आणि अपमानित केल्यानंतर त्याने तिला फक्त ढकलले होते. त्याने म्हटले की हा दिशाभूल करणारा व्हिडिओ अपूर्ण संदर्भात आहे आणि परिस्थिती चुकीची दर्शवितो, ऑनलाइन माहिती अपूर्ण असल्याचे त्याने सांगितले."
+            },
+            "hi": {
+                "title": "डेशे फ्रॉस्ट ने वायरल बोट वीडियो में महिला को थप्पड़ मारने से किया इनकार",
+                "content": "ट्विच स्ट्रीमर डेशे फ्रॉस्ट ने एक वायरल बोट वीडियो पर अपनी प्रतिक्रिया दी है, जिसमें कथित तौर पर झड़प दिखाई गई है। फ्रॉस्ट ने महिला को थप्पड़ मारने से इनकार किया है, दावा किया कि उसने उसे मारने और अपमानित करने के बाद केवल धक्का दिया था। उन्होंने कहा कि भ्रामक क्लिप में पूरी जानकारी नहीं है और यह स्थिति को गलत तरीके से पेश करती है, यह जोर देकर कहा कि ऑनलाइन जानकारी अधूरी है।"
+            }
+        },
+        "image": "https://static.toiimg.com/photo/msid-130245832,imgsize-764243.cms",
+        "link": "https://timesofindia.indiatimes.com/world/us-streamers/twitch-streamer-and-youtuber-deshae-frost-responds-to-viral-boat-incident-video-denies-slapping-woman-and-calls-clip-misleading/articleshow/130245793.cms",
+        "date": "2026-04-14T01:52:17+05:30"
+    },
+    {
         "id": "791a0c04",
         "category": "IPL Scoop",
         "translations": {
@@ -1973,30 +1998,5 @@
         "image": "https://static.toiimg.com/photo/msid-130185659,imgsize-547992.cms",
         "link": "https://timesofindia.indiatimes.com/india/weight-loss-injections-deliver-in-real-life-4-in-10-indians-shed-10-body-weight/articleshow/130185416.cms",
         "date": "2026-04-11T11:28:28+05:30"
-    },
-    {
-        "id": "ec0af6ad",
-        "category": "National",
-        "translations": {
-            "en": {
-                "title": "EAM Jaishankar Arrives in UAE to Bolster Strategic Partnership",
-                "content": "EAM S Jaishankar is in the UAE for high-level meetings to bolster the Comprehensive Strategic Partnership. Following his Mauritius visit focused on energy cooperation (oil, gas, clean energy), Jaishankar's discussions reinforce India's need for dependable strategic alliances amidst regional crises. This visit is crucial for strengthening bilateral ties and securing vital partnerships."
-            },
-            "kn": {
-                "title": "ಇಎಎಂ ಜೈಶಂಕರ್ ಯುಎಇಗೆ ಆಗಮನ, ಕಾರ್ಯತಂತ್ರದ ಸಹಭಾಗಿತ್ವ ಬಲಪಡಿಸಲು",
-                "content": "ಇಎಎಂ ಎಸ್. ಜೈಶಂಕರ್ ಸಮಗ್ರ ಕಾರ್ಯತಂತ್ರದ ಸಹಭಾಗಿತ್ವವನ್ನು ಬಲಪಡಿಸಲು ಉನ್ನತ ಮಟ್ಟದ ಸಭೆಗಳಿಗಾಗಿ ಯುಎಇಗೆ ಆಗಮಿಸಿದ್ದಾರೆ. ಇಂಧನ ಸಹಕಾರ (ತೈಲ, ಅನಿಲ, ಸ್ವಚ್ಛ ಇಂಧನ) ಕುರಿತ ಮಾರಿಷಸ್ ಭೇಟಿಯ ನಂತರ, ಜೈಶಂಕರ್ ಅವರ ಚರ್ಚೆಗಳು ಪ್ರಾದೇಶಿಕ ಬಿಕ್ಕಟ್ಟುಗಳ ನಡುವೆ ವಿಶ್ವಾಸಾರ್ಹ ಕಾರ್ಯತಂತ್ರದ ಮೈತ್ರಿಗಳಿಗಾಗಿ ಭಾರತದ ಅಗತ್ಯವನ್ನು ಪುನರುಚ್ಚರಿಸುತ್ತವೆ. ಈ ಭೇಟಿ ದ್ವಿಪಕ್ಷೀಯ ಸಂಬಂಧಗಳನ್ನು ಬಲಪಡಿಸಲು ಮತ್ತು ಪ್ರಮುಖ ಸಹಭಾಗಿತ್ವಗಳನ್ನು ಭದ್ರಪಡಿಸಿಕೊಳ್ಳಲು ಮಹತ್ವದ್ದಾಗಿದೆ."
-            },
-            "mr": {
-                "title": "ईएएम जयशंकर यूएईमध्ये पोहोचले, सामरिक भागीदारी मजबूत करणार",
-                "content": "ईएएम एस. जयशंकर यूएईमध्ये व्यापक सामरिक भागीदारी मजबूत करण्यासाठी उच्चस्तरीय बैठकांसाठी आले आहेत. मॉरिशस भेटीनंतर, जिथे ऊर्जा सहकार्य (तेल, वायू, स्वच्छ ऊर्जा) यावर लक्ष केंद्रित केले होते, जयशंकर यांच्या चर्चा प्रादेशिक संकटांदरम्यान भारताला विश्वासार्ह सामरिक युतींची गरज असल्याचे अधोरेखित करतात. ही भेट द्विपक्षीय संबंध बळकट करण्यासाठी आणि महत्त्वाच्या भागीदारी सुरक्षित करण्यासाठी महत्त्वपूर्ण आहे."
-            },
-            "hi": {
-                "title": "ईएएम जयशंकर यूएई पहुंचे, रणनीतिक साझेदारी को मजबूत करेंगे",
-                "content": "ईएएम एस. जयशंकर व्यापक रणनीतिक साझेदारी को मजबूत करने के लिए उच्च-स्तरीय बैठकों हेतु यूएई पहुंचे हैं। मॉरीशस दौरे के बाद, जहाँ ऊर्जा सहयोग (तेल, गैस, स्वच्छ ऊर्जा) पर ध्यान केंद्रित किया गया था, जयशंकर की चर्चाएँ क्षेत्रीय संकटों के बीच विश्वसनीय रणनीतिक गठबंधनों के लिए भारत की आवश्यकता को रेखांकित करती हैं। यह यात्रा द्विपक्षीय संबंधों को मजबूत करने और महत्वपूर्ण साझेदारियों को सुरक्षित करने के लिए महत्वपूर्ण है।"
-            }
-        },
-        "image": "https://static.toiimg.com/photo/msid-130184622,imgsize-544791.cms",
-        "link": "https://timesofindia.indiatimes.com/india/india-uae-comprehensive-strategic-partnership-jaishankar-arrives-in-abu-dhabi/articleshow/130184506.cms",
-        "date": "2026-04-11T10:14:08+05:30"
     }
 ]
